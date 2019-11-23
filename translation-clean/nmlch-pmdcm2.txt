@@ -1,0 +1,784 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmdcm2 
+; Last changes made on 01/30/2002 
+; Transcriber: Flor Caniupil H. 
+; Comments:  
+; Traduce: Flor Caniupil.
+
+nmlch-pmdcm2_x_0000_nmlch_00: 
+M: O pasmulu <%>
+C: O para el pasmo
+
+M: ¿chem kümefuy peñi, tapüle? 
+C: ¿qué sera bueno por aquí hermano?
+
+nmlch-pmdcm2_x_0001_pmdcm_00: 
+M: Inche vemngechi kutrankelan peñi, 
+C: Yo no me enfermo de eso, hermano.
+
+nmlch-pmdcm2_x_0002_nmlch_00: 
+M: ¿Wen'i ta niymi ka kiñeke 
+C: ¿Tienes algunos amigos
+
+M: kutrankelu chem kümi pingeki?
+C: que se enferman y qué es bueno se dice?
+
+nmlch-pmdcm2_x_0003_pmdcm_00: 
+M: Amuyiñ ta ajuera pikingün, 
+C: Vamos afuera dicen
+
+M: kimlaiñ ta l'awen' pikingün <%>may 
+C: no sabemos de remedio dicen pues
+
+M: ka l'awen'  yemeki l'awen' engün 
+C: otros remedios va a buscar ellos
+
+M: vey würkükingün 
+C: y beben
+
+M: vemngechi mongekingün <Noise>
+C: de esa forma se mejoran.
+
+nmlch-pmdcm2_x_0004_nmlch_00: 
+M: Kafey trafentulu,
+C: Y aquel que se ha enfermado por encontrarse con espíritus malignos
+
+M: ¿ka tripaki wekun?
+C: ¿también sale afuera?
+
+nmlch-pmdcm2_x_0005_pmdcm_00: 
+M: Ka trafentulu 
+C: Además el que se ha encontrado con espíritus malignos
+
+M: elungelu ingel wedake l'awen'
+C: el que le dieron comida, malos remedios.
+
+nmlch-pmdcm2_x_0006_nmlch_00: 
+M: ¿Kafey?
+C: ¿También?
+
+nmlch-pmdcm2_x_0007_pmdcm_00: 
+M: Ilelngelu, 
+C: Aquel que se le ha dado comida
+
+M: ¿ka amuki kañpüle?
+C: ¿también va a otro lado?
+
+nmlch-pmdcm2_x_0008_nmlch_00: 
+M: Fill mollfüñmu ta müli 
+C: En todas las razas hay
+
+M: femngechi ngüneluwün peñi
+C: ese tipo de habilidades, hermano
+
+M: ta ilel ta wingka ta ka ileluuki 
+C: daño en la comida también se da en los huincas.
+
+nmlch-pmdcm2_x_0009_pmdcm_00: 
+M: Ka vemkaki pu' peñi 
+C: También hacen eso pues, hermano.
+
+nmlch-pmdcm2_x_0010_nmlch_00: 
+M: Ngütrammu kimkefiñ kafey <uh> 
+C: En conversaciones lo he sabido también
+
+M: pu gringu ta ka ileluwi 
+C: los gringos también se dan daño mediante la comida
+
+M: feymu ta akuki fawpüle engün tati, 
+C: por eso llegan por aquí ellos pues
+
+M: ka <%> dafaluupakingün 
+C: también vienen a tratarse
+
+M: re mapuche puukülelay feychi dungumu, 
+C: sólo el mapuche eno es así en ese asunto
+
+M: welu ka müli ta mapuchemu ta 
+C: pero también existe en el mapuche
+
+M: newen ta mongeltual pingi, 
+C: poder para mejorarlos se dice
+
+M: ¿feyngi ti peñi?
+C: ¿es cierto eso?
+
+nmlch-pmdcm2_x_0011_pmdcm_00: 
+M: May 
+C: Sí.
+
+M: Ka vemki peñi, vemki 
+C: También lo hace así, hermano, así lo hace
+
+M: inche ta kimkelan 
+C: yo no se
+
+M: tañi pu tañi pu wingka
+C: los...los huincas
+
+M:  tañi ka ileluuken peñi, 
+C: que también se dañan mediante la comida, hermano
+
+M: müte kimkelan 
+C: no sé mucho.
+
+nmlch-pmdcm2_x_0012_nmlch_00: 
+M: Feley tati peñi, 
+C: Así es, hermano.
+
+nmlch-pmdcm2_x_0013_pmdcm_00:
+M: Inche may ta 
+C: Yo pues, 
+
+M: re inchiñ may ta vemkepiyiñ piken 
+C: acaso sólo nosotros hacemos eso digo
+
+M: ka peñi, mapuchengen ka 
+C: también, hermano, los que somos mapuche pues.
+
+nmlch-pmdcm2_x_0014_nmlch_00: 
+M: No kiduengün ka femkingün engün tati peñi 
+C: No ellos también hacen eso pues, hermano
+
+M: veylle tañi vemlu kafey 
+C: por eso es que hicieron eso también pues
+
+M: ka  <uh> l'agümuukeyngün engün 
+C: también se acesinan ellos
+
+M: indisionmu l'angümafuy 
+C: con inyección puede matar 
+
+M: chem engün <Cough>feyti peñi, 
+C: con esa cosa pues, hermano
+
+M: ¿tüfamu <uh> ngütamchefe kay 
+C: ¿aquí componedores de hueso
+
+M: müli ta chi lofmeu?
+C: hay en esta comunidad?
+
+nmlch-pmdcm2_x_0015_pmdcm_00: 
+M: Newen mülewelay, peñi, 
+C: Ya no queda poder, hermano
+
+M: newe mülewelay wecheke ta, 
+C: ya no queda los nuevos
+
+M: wechekeche kiñeke 
+C: los jóvenes algunos
+
+M: ta ta chi tremküli 
+C: los que estan creciendo
+
+M: veyta puwalu veychi ngümkalu ka
+C: entonces para que llegue ese.........
+
+M: y peñi vemngechi tremtuki taiñ, 
+C: y, hermano de esa forma crece nuestro...
+
+M: taiñ ka vemngechi dungutuel 
+C: nuestra forma de hablar
+
+M: kuyvike che tañi dungukel 
+C: los que hablaban nuestros antepasados
+
+M: ka inchiñ ta vemngechi tañi dungutuel 
+C: y para que también nosotros hablemos así
+
+M: veymu ta amuliyiñ ka peñi,
+C: por eso seguimos también, hermano.
+
+nmlch-pmdcm2_x_0016_nmlch_00: 
+M: ¿Feymu no, <uh> 
+C: ¿Por eso no?
+
+M: kiñeke kay peñi, 
+C: y algunos, hermano
+
+M: tüfamu <uh> katrüfüniyüm tapüle 
+C: aquí cuando tienen un desgarro muscular por aquí
+
+M: chuchipüle rume 
+C: o en cualquier parte
+
+M: ¿chew amuki l'awen'tuwalu 
+C: ¿dónde va a remediarse
+
+M: pital kam müli?
+C: al hospital o hay...?
+
+nmlch-pmdcm2_x_0017_pmdcm_00: 
+M: Pitalmu peñi, amukingün 
+C: Van al hospital, hermano
+
+M: pitalmu amukingün
+C: al hospital van.
+
+nmlch-pmdcm2_x_0018_nmlch_00: 
+M: ¿Pitalmu amukingün?
+C: ¿Van al hospital?
+
+nmlch-pmdcm2_x_0019_pmdcm_00: 
+M: Pitalmu amukingün
+C: Van al hospital.
+
+nmlch-pmdcm2_x_0020_nmlch_00: 
+M: ¿Mongekingün kafey?
+C: ¿Se mejoran también?
+
+nmlch-pmdcm2_x_0021_pmdcm_00: 
+M: Mongekingün, 
+C: Se mejoran
+
+M: kiñe <%>ta amuaiñ pingün 
+C: unos dicen iremos.
+
+nmlch-pmdcm2_x_0022_nmlch_00: 
+M: Ah
+C: Ah.
+
+nmlch-pmdcm2_x_0023_pmdcm_00: 
+M: Veymu ta amukingün
+C: Por eso van pues.
+
+nmlch-pmdcm2_x_0024_nmlch_00: 
+M: Mongekingün welu
+C: Pero se mejoran.  
+
+nmlch-pmdcm2_x_0025_pmdcm_00: 
+M: Mongemekingün 
+C: Se mejoran.
+
+nmlch-pmdcm2_x_0026_nmlch_00: 
+M: <uhm> Kuyfi ta ka peñi, 
+C: También antes hermano
+
+M: inchiñ taiñ küpalmemu tüfa <uh> 
+C: en nuestros ancestros 
+
+M: tüfi ta fenteken ta yagel mülekefuy 
+C: pues había muchos alimentos
+
+M: ka rume al'ün newen niekefuy <uh> 
+C: y que tenía mucha fuerza
+
+M: feymu chi inchiñ fewla elungekeiñ 
+C: quizás por eso nosotros ahora nos dan
+
+M: ta yagel pichikechemu fantekelu kontrolmu
+C: alimento apra los niños de este porte en controles.
+
+nmlch-pmdcm2_x_0027_pmdcm_00: 
+M: May
+C: Sí.
+
+nmlch-pmdcm2_x_0028_nmlch_00: 
+M: Kam müte quimica chi niy 
+C: O quizáz tiene mucho material químico
+
+M: feymu chi newenngewekelaiñ peñi 
+C: tal vez por eso ya no tenemos energía, hermano
+
+M: kam, kuyfi re moyomu tremi wentru 
+C: o antes sólo con mamasn creció el hombre
+
+M: domo ka pingi 
+C: de la mujer también se dice eso
+
+M: ¿feyngi?
+C: ¿es cierto?
+
+nmlch-pmdcm2_x_0029_pmdcm_00: 
+M: Femngechi pingeki peñi, 
+C: Así se dice, hermano
+
+M: pero fachantü inchiñ taiñ pichikeche 
+C: pero hay en dia nuestros niños
+
+M: ta pitalmu ta yekefiyiñ ka peñi, 
+C: también los llevamos al hospital pues, hermano
+
+M: kuyvi ta veychi mongemu ta müliyiñ 
+C: antes en ese vivir estábamos
+
+M: ka veymu ta pichikeche ta -/tretri/- 
+C: también por eso los niños
+
+M: fütra ngillalfiyiñ ta kochülu 
+C: en grandes cantidades les compramos dulces
+
+M: avi tañi voro engün 
+C: se les terminó su dentadura
+
+M: kutrankutraningün 
+C: se enferman y se enferman
+
+M: vey kuyvi ta taiñ fütrakeche 
+C: y antes nuestros ancestros
+
+M: ta vemkelavuy ka 
+C: no les ocurría eso pues.
+
+nmlch-pmdcm2_x_0030_nmlch_00: 
+M: Eymün tüfamu pewenchemu peñi, 
+C: Ustedes aquíc como pehuenche, hermano
+
+M: ka pellellimün% ta ka, kangelu
+C: 
+
+M: vesinu pais Argentinamu pirentu 
+C: en el país vecino en Argentina
+
+M: mapu tüfa peñi, eymün pire 
+C: la tierra aquí, hermano, ustedes con nieve...
+
+M: chumuechi  lelikefimün ta 
+C: cómo ven el...
+
+M: ¿kutranelkimünmu 
+C: ¿es hace enfermar
+
+M: kam chumkelaymünmu pire eymün?
+C: o les hace nada la nieve a ustedes?
+
+nmlch-pmdcm2_x_0031_pmdcm_00: 
+M: Kiñekemu ta pichike 
+C: Algunas veces los niños
+
+M: kutrankiyiñ peñi, 
+C: nos enfermamos, hermano
+
+M: inchiñ ta tüfachi mapumu 
+C: nosotros en esta tierra
+
+M: ta mongeleiñ peñi, 
+C: estamos vivos, hermano
+
+M: tüfachi mapumu ta müliyiñ 
+C: en esta tierra estamos
+
+M: inchiñ ta llawveleweiñ ka peñi, 
+C: nosotros estamos quedando pues, hermano
+
+M: newe kutrankelaiñ piremu 
+C: no nos enfermamos mucho con la nieve
+
+M: ta kotumvraleiñ peñi, 
+C: pues estamos acostumbrados, hermano
+
+M: veleiñ 
+C: así estamos.
+
+nmlch-pmdcm2_x_0032_nmlch_00: 
+M: ¿Venteleymün?
+C: ¿Así estan?
+
+nmlch-pmdcm2_x_0033_pmdcm_00: 
+M: Si
+C: Sí.
+
+nmlch-pmdcm2_x_0034_nmlch_00: 
+M: ¿Ka che küpayüm kutranpaki tamu?
+C: ¿Cuando otra gente viene aquí se enferma?
+
+nmlch-pmdcm2_x_0035_pmdcm_00: 
+M: Kutranpaki rume wütren piki 
+C: Viene a enfermarse pasé mucho frío dice.
+
+nmlch-pmdcm2_x_0036_nmlch_00: 
+M: Ah
+C: Ah.
+
+M: ¿Kutranpaki?
+C: ¿Viene a enfermarse?
+
+ nmlch-pmdcm2_x_0037_pmdcm_00: 
+M: May <Laugh> 
+C: Sí.
+
+M: Müna wüya wütregni 
+C: Es muy helado
+
+M: tüvachi mapumu pingi ka peñi, 
+C: es esta tierra se dice también, hermano.
+
+nmlch-pmdcm2_x_0038_nmlch_00: 
+M: Ah 
+C: Ah.
+
+M: Müte eñumpalayafuy 
+C: No le daría tanta calor.
+
+nmlch-pmdcm2_x_0039_pmdcm_00: 
+M: Rume rüleiñ pingün 
+C: Nos da mucho resfrío dicen
+
+M: weya wütrengi pi atreg pi 
+C: es muy helado dice, helado dice.
+
+nmlch-pmdcm2_x_0040_nmlch_00: 
+M: Eymün tüfamu pukem 
+C: ustedes aquí en tiempo de lluvias
+
+M: ¿chem kutran doy kuntukeymünmu?
+C: ¿qué enfermedad les afecta más?
+
+nmlch-pmdcm2_x_0041_pmdcm_00:
+M: Rüle peñi, re rülekeyiñ 
+C: Resfrío hermana, sólo nos resfriamos.
+
+nmlch-pmdcm2_x_0042_nmlch_00: 
+M: ¿Chumuelu rülekimün eymün kay?
+C: ¿Y por qué se resfrían estedes?
+
+M: ¿feychi chemmu <uh>? 
+C: ¿con esa cosa?
+
+M: ¿puken, wütremu?
+C: ¿en tiempos de lluvias, por el frío?
+
+nmlch-pmdcm2_x_0043_pmdcm_00: 
+M: Wütremu <%> 
+C: Con el frío
+
+M: Rume weya wütrengi pi, 
+C: Es muy helado dice
+
+M: ka kuchuiñ ka peñi, piremu 
+C: además nos mojamos pues, hermano con la nieve
+
+M: veymu ta kiñekemu ta relekiyiñ 
+C: por eso a veces nos resfriámos.
+
+_x_0045_pmdcm_00044_nmlch_00: 
+M: ¿Küchuymün?
+C: ¿Se mojan?
+
+nmlch-pmdcm2_x_0046_pmdcm_00: 
+M: May 
+C: Sí
+
+M: Kuchuyiñ 
+C: Nos mojamos.
+
+nmlch-pmdcm2_x_0047_nmlch_00: 
+M: ¿Fey rüle chemmu mongetuki, re pitalmu?
+C: ¿Y el resfrío con que se mejora, sólo en el hospital?
+
+nmlch-pmdcm2_x_0048_pmdcm_00: 
+M: Amukeiñ opitalmu 
+C: Vamos al hospital
+
+M:  kiñekemu l'awen' ikiyiñ kachan l'awen' 
+C: Algunas veces comemos remdio, remedio cachan
+
+M: pütokokeiñ 
+C: bebemos.
+
+nmlch-pmdcm2_x_0049_nmlch_00:  
+M: ¿Fawpüle müli kachan l'awen'?
+C: ¿Por aquí hay remdio cachan?
+
+nmlch-pmdcm2_x_0050_pmdcm_00: 
+M: Müley kiñekemu ikiyiñ 
+C: Hay, a veces comemos
+
+M: natri pingi chi l'awen' 
+C: natre se llama el remedio
+
+M: foye pütokokeiñ kiñekemu 
+C: canelo bebemos algunas veces.
+
+nmlch-pmdcm2_x_0051_nmlch_00:
+M: ¿Müli foye fawpüle kay?
+C: ¿y hay canelo por estos lados?
+
+nmlch-pmdcm2_x_0052_pmdcm_00: 
+M: Feytapüle mülelay peñi, 
+C: Por aquí no hay, hermano
+
+M: kiñekemu amukeiñ Temukopüle amukeiñ 
+C: algunas veces por el lado de Temuco vamos.
+
+nmlch-pmdcm2_x_0053_nmlch_00: 
+M: Ah
+C: Ah.
+
+M: ¿Üyiw küpaki chi l'awen'? 
+C: ¿De allá viene el remedio?
+
+nmlch-pmdcm2_x_0054_pmdcm_00: 
+M: May 
+C: Sí.
+
+M: Chew ta müli ta foye 
+C: Donde hay canelos.
+
+nmlch-pmdcm2_x_0055_nmlch_00: 
+M: Fentreley pu' peñi,
+C: Hay bastante pues, hermano.
+ 
+nmlch-pmdcm2_x_0056_pmdcm_00: 
+M: Fentreli al'üli 
+C: Hay muchos, hay harto.
+
+nmlch-pmdcm2_x_0057_nmlch_00: 
+M: Al'üli pue' 
+C: Hay harto pues
+
+M: fey famngen kay walüngmu
+C: y es este tiempo de sol
+
+M: ¿chem kutran doy tripaki tüfa?
+C: ¿qué enfermedad aparece más por acá?
+
+nmlch-pmdcm2_x_0058_pmdcm_00: 
+M: Newe tripakelay kutran peñi, 
+C: No aparece mucha enfermedad, hermano
+
+M: inchiñ taiñ re kutran 
+C: sólo nuestras enfermedades.
+
+nmlch-pmdcm2_x_0059_nmlch_00: 
+M: ¿Müte tripakelay?
+C: ¿No sale mucho?
+
+nmlch-pmdcm2_x_0060_pmdcm_00: 
+M: Müte tripakelay peñi, 
+C: No sale mucho, hermano.
+
+nmlch-pmdcm2_x_0061_nmlch_00: 
+M: ¿Doy kümelkalekimün famngen?
+C: ¿Están mejor en este tiempo?
+
+nmlch-pmdcm2_x_0062_pmdcm_00: 
+M: Doy <%> felekiyiñ peñi,
+C: Estamos más bien, hermano
+
+M: peñi eymi akulu tüfachi mapumu 
+C: hermano, cuando tú llegaste a esta tierra
+
+M: Lonkimay pingechi mapumu 
+C: la tierra que se llama Lonquimay
+
+M: ¿chumngechi pepay tami a pu peñi, 
+C: ¿cómo viniste a ver a tus hermanos
+
+M: chepimi tamu <%> 
+C: qué dijiste
+
+M: kake peñi 
+C: a los otros hermanos
+
+M: tami ngütramkakegel 
+C: para que pudieras conversar con ellos
+
+M: chumuechi pepafimi engün 
+C: cómo viniste a verlos
+
+M: ngoyünetuy tañi mapudungun engün
+C: han olvidado su lengua mapuche
+
+M: netu ngütramkalingün, 
+C: aún estamos conversando
+
+M: chumngechi pepay tami pu peñi, 
+C: cómo viniste a ver a tus hermanos
+
+M: tüfachi mapumu  peñi, pewenchemu?
+C: en esta tierra hermano, en los pehuenche?
+
+nmlch-pmdcm2_x_0063_nmlch_00: 
+M: Peñi tüfi ta <uh> kümey 
+C: Hermano eso es bueno
+
+M: tami kimcheleymi, 
+C: que conozcas personas
+
+M: inche, inche ka eymi 
+C: tú y yo...yo
+
+M: fente küme nütramkayu tati 
+C: muy bien conversamos pues.
+
+nmlch-pmdcm2_x_0064_pmdcm_00: 
+M: Feley peñi,
+C: Así es, hermano.
+
+nmlch-pmdcm2_x_0065_nmlch_00: 
+M: Weche wentruleymi petu 
+C: Aún eres hombre jóven
+
+M: eymi ka rume niymi ta petu
+C: tú también tienes mucho aún
+
+M: <uh> dungu tami kimal 
+C: conocimientos que aprender
+
+M: ka tami kintual <uh> 
+C: para que busques también
+
+M: welu küme rakiduam niymi 
+C: pero buen pensamientos tienes
+
+M: ta eymi peñi, <uh> 
+C: tú, hermano
+
+M: kimnimi tami tripalme ka kimnimi 
+C: conoces tu procedencia también sabes
+
+M: iningen eymi ka ta kimnimi 
+C: quién eres tú, también sabes
+
+M: chewpüle tam amuleal 
+C: para donde vas
+
+M: feymu ta feli küla dungu 
+C: por eso esta así los tres asuntos
+
+M: kimni che peñi kümelkaley
+C: cuando sabe la gente, hermano esta bien
+
+M: feytichi kimwetunolu 
+C: aquel que no sabe
+
+M: ñi ngen <uh> mapuchengen 
+C: su dueño que es mapuche
+
+M: kam wingkangen 
+C: o que es huinca
+
+M: kam chewpüle ñi amulen
+C: o para donde va
+
+M:  ta wecha ñamkon tati 
+C: esto es perderse pues
+
+M: eymi falelaymi, eymi ta küme ...
+C: tú no estas así, tú eres buen...
+
+nmlch-pmdcm2_x_0066_pmdcm_00: 
+M: ...Küme amulen 
+C: Voy bien.
+
+nmlch-pmdcm2_x_0067_nmlch_00: 
+M: Küme amuleymi peñi, 
+C: Vas bien , hermano
+
+M: fey Ngünechen ta 
+C: y Ngünechen
+
+M: ka elunieymu rakiduam ka 
+C: también te esta dando pensamientos pues
+
+M: feymu petu ta duamtunieymi 
+C: por eso aún te necesita a tí
+
+M: tami furipüle tami küpalme 
+C: tus  antepasados antiguos.
+
+nmlch-pmdcm2_x_0068_pmdcm_00: 
+M: Feley peñi, 
+C: Así es hermano.
+
+nmlch-pmdcm2_x_0069_nmlch_00: 
+M: Kuku, <uh> chau kom niefuy kimün engün 
+C: Abuelo paterno
+
+nmlch-pmdcm2_x_0070_pmdcm_00: 
+M: Feley peñi, inche, 
+C: Así es, hermano
+
+M: inche yewekelan peñi, 
+C: yo no he ido a buscar, hermano
+
+M: inche pu wingka ta yewekelelan peñi, 
+C: yo no les tengo vergüenza a los huincas, hermano
+
+M: inche tañi pu peñi, 
+C: mis hermanos
+
+M: inkakeviñ engün 
+C: los defiendo
+
+M: kiduengün ta newe kiñekemu ta kimlay
+C: ellos algunas veces no saben
+
+M: re dunguyawi pingi 
+C: sólo anda hablando se le dice
+
+M: kiñekemu engün ka peñi, 
+C: a veces pues, hermano
+
+M: pero inche tañi pu -/par/- pu peñi, 
+C: pero mis...mis hermanos
+
+M: pu lamngen kimneviyiñ 
+C: las hermanas sabemos
+
+M: tañi chumrupay tañi dungu engün peñi, 
+C: de como ha pasado el asunto, hermano
+
+M: kiñekemu ka yewekingün peñi, 
+C: algunas veces también se avergüenzan, hermano
+
+M: feyti autorida' como un alcalde peñi, 
+C: esa autoridad como son los alcaldes, hermano
+
+M: kiñekemu vuripüle nieki mongen 
+C: algunas veces por atrás tiene vida
+
+M: <*SPA>porque tüvachi pu mapuche kimlay 
+C: porque estos mapuche no saben
+
+M: vemkünuafiyiñ pingün, 
+C: así lo dejaremos dijeron
+
+M: pero inchiñ peñi 
+C: pero nosotros hermanos 
+
+M: taiñ wechewentrungen amuliyiñ peñi 
+C: los que somos hombres jóvenes seguimos, hermanos
+
+M: taiñ chetrukingeal 
+C: para que nos respeten como personas
+
+M: y chetrokingeliyiñ peñi, 
+C: y si nos respetan como personas, hermano
+
+M: feymu ayüwayiñ 
+C: ahí nos alegraremos.
+
+nmlch-pmdcm2_x_0071_nmlch_00: 
+M: Feli pu' peñi 
+C: Así es pues, hermano
+
+M: nütramkalelmün 
+C: si se mantienen conversando
+
+M: ka <uh> kiñewülmün <uh> 
+C: además si se unen
+
+M: doy newenngeafuymünka 
+C: tendrían más fuerza pues
+
+M: müte wichulelnonmün 
+C: si no estan muy separados
+
+M: wichukalngenolmün 
+C: si no los separan
+
+M: feypimi nga femuechi wichukeley che 
+C: eso has dicho pues así no se separa la gente
+
+M: ta doy newenngelay femuechi ta 
+C: este tiene menos fuerza así
+
+M: doy kiñewiyiñ fey newenngefuy 
+C: si se unen más ahí tendría mas fuerza
+
+M: femuechi rakiduammeu nütrammu.
+C: con ese pensamiento y conversa.
+

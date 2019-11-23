@@ -1,0 +1,2890 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmscmA1 
+; Last changes made on 02/27/2003 
+; Transcriber: Cristian C. Anton 
+; Comments:  
+; Traduce: Gloria Melipil.
+
+nmlch-pmscmA1_1_0000_nmlch_00: 
+M: ¡Marimari peñi!
+C: ¡Buenos días hermano!
+
+nmlch-pmscmA1_1_0001_pmscm_00: 
+M: ¡Marimari peñi!
+C: ¡Buenos días hermano!
+
+nmlch-pmscmA1_1_0002_nmlch_00: 
+M: ¿Chumliymiam? 
+C: ¿Cómo estás?
+
+M: chum punmalimiam?.
+C: cómo dormiste?. 
+
+nmlch-pmscmA1_1_0003_pmscm_00: 
+M: Küme rulpa antülekan peñi 
+C: Bien estoy pasando los días hermano
+
+M: küme rulpa antülen tamu 
+C: bien estoy pasando los días aquí 
+
+M: ta kümelekayiñ taiñ pu <*SPA>familia kom 
+C: bien estas nuestras familias, todos 
+
+M: ka küme rulpa antülekayiñ tati. 
+C:  y bien estamos pasando los días pues.
+
+nmlch-pmscmA1_1_0004_nmlch_00: 
+M: Küme dungu, 
+C: Buena cosa,
+
+M: <!1sungu> ka  küme dungu. <!1sungu> 
+C: buena cosa pues.
+ 
+nmlch-pmscmA1_1_0005_pmscm_00: 
+M: ¿Fey ka eymi püle kayta chumleymiam kay peñi?
+C: ¿Así es y tu por acá como estás hermano?
+
+nmlch-pmscmA1_1_0006_nmlch_00: 
+M: Iñchiñ püle 
+C: Nosotros por acá 
+
+M: ta kom kümeleyiñ ta.
+C: todos estamos bien. 
+
+nmlch-pmscmA1_1_0007_pmscm_00: 
+M: ¿Kümelkaymün?. 
+C: ¿Están bien?.
+
+nmlch-pmscmA1_1_0008_nmlch_00: 
+M: May. 
+C: Sí.
+
+M: Tañi lof ka 
+C: Y en mi comunidad 
+
+M: taiñ pu füren mülelu üyüu 
+C: mis amigos que estan por allá 
+
+M: kom kümeleyngün.
+C: todos estan bien ellos.
+
+nmlch-pmscmA1_1_0009_pmscm_00: 
+M: Feleychi llemay peñi. 
+C: Bien esta eso pues hermano. 
+
+nmlch-pmscmA1_1_0010_nmlch_00: 
+M: Kamapu tripayan pifiñ 
+C: A otra parte voy a salir dije 
+
+
+M: ta pemeafiñ ta pu peñi 
+C: voy a ir a ver a mis hermanos 
+
+M: pewenche pentukumeafiñ 
+C: a la gente de la cordillera, un saludo de llegada haremos  
+
+M: chumlenengün pipen tati. 
+C: como estaran le dije pues. 
+
+nmlch-pmscmA1_1_0011_pmscm_00: 
+M: Pipey feymuanta miawimi ta, ta peñi. 
+C: Por eso andas fue que dijo hermano.
+
+nmlch-pmscmA1_1_0012_nmlch_00: 
+M: May. 
+C: Sí.
+
+M: Feymu tati. 
+C: Por eso pues.
+
+nmlch-pmscmA1_1_0013_pmscm_00: 
+M: Feymu ta trekayawürkellimi may peñi. 
+C:  Por eso es que saliste a caminar hermano.
+
+nmlch-pmscmA1_1_0014_nmlch_00: 
+M: May. 
+C: Sí.
+
+M: Kamapu ka. 
+C: A otra parte pues.
+
+nmlch-pmscmA1_1_0015_pmscm_00: 
+M: Kümeyka, 
+C: Esta bien,
+
+M: kamapu ka fey tati 
+C: a otra parte también pues 
+
+M: femngechi ta kimüukelu kayta che. 
+C: de esa forma se conoce a la gente pues. 
+nmlch-pmscmA1_1_0016_nmlch_00: 
+M: Kimneymaukey <!1kimneymauki> rakiduam che. 
+C: Andando se conoce el pensamiento de la gente.
+
+nmlch-pmscmA1_1_0017_pmscm_00: 
+M: Kimüymaukey rakiduam 
+C: Se saben los pensamientos 
+
+M: ka kimüwi ta che ka peñi 
+C: y se conoce la gente hermano. 
+
+nmlch-pmscmA1_1_0018_nmlch_00: 
+M: Feley. 
+C: Bien pues.
+
+nmlch-pmscmA1_1_0019_pmscm_00: 
+M: Feymu ta iñchiñ taiñ mapuchengel 
+C: Por eso nosotros los que somos mapuche 
+
+M: ta kimüwafel tañi femngechi pentukuwafel 
+C: si se sabe de esa manera debe saludarse 
+
+M: taiñ küme ngütramkawafel 
+C: de esa manera las buenas conversaciones 
+
+M: feymu ta kümefuy ka peñi. 
+C: entonces eso esta bien hermano.
+
+nmlch-pmscmA1_1_0020_nmlch_00: 
+M: Feley. 
+C: Bien pues.
+
+nmlch-pmscmA1_1_0021_pmscm_00: 
+M: Feyta kümey tami femyawün 
+C: Y de esa forma ando bien 
+
+M: ka tami kimpen 
+C: y lo que tu sabes
+
+
+M: tami pu mollfüñ ka peñi. 
+C: de tus lasos sanguíneos  también hermano.
+
+nmlch-pmscmA1_1_0022_nmlch_00: 
+M: Feley llemay.  
+C: Gracias pues.
+
+nmlch-pmscmA1_1_0023_pmscm_00: 
+M: Feymu ta kimüutuyayi
+C: De esa forma lo va a conocer 
+
+M: y wüñotutuafuy 
+C: y así podrán volver 
+
+M: taiñ fütakecheyem 
+C: nuestros difuntos ancianos 
+
+M: tañi chumngechi ngütramkaukefel 
+C: de cómo conversaban 
+
+M: taiñ kimngeafel ka peñi. 
+C: nuestro conocimiento hermano.
+
+nmlch-pmscmA1_1_0024_nmlch_00: 
+M: Fey llemay chi ngütramka kimünam.
+C: De esa forma conversando se conoce.
+
+nmlch-pmscmA1_1_0025_pmscm_00: 
+M: Feyta kümey 
+C: Eso es bueno 
+
+M: ka kimüwi küme ngütramkawi ta che 
+C: es bueno cuando la gente sabe conversar bien 
+
+M: fey kimüulu kay peñi 
+C: así también se sabe hermano 
+
+M: feymu ta amul antüleupuy 
+C: de esa forma avanza el día allá 
+
+M: chunteyma mongeleupuy ta che 
+C: cuanto tiempo vive la gente
+
+M: kümeleupuy 
+C: están bien allá
+
+M: kümeley taiñ pu püñeñ 
+C: que estén bien nuestros hijos 
+
+M: feyta küme amulefuy ka peñi. 
+C: de esa forma bien continuara esto hermano.
+
+nmlch-pmscmA1_1_0026_nmlch_00: 
+M: Feley peñi, feley tati, 
+C: Bien hermano, bien pues,
+
+M: ¿peñi feyta iñche ramtuafiñ pipen eymi 
+C: ¿hermano yo te voy a preguntar a ti dije 
+
+M: iney <!1iñi> pingeymiam <!1pingimiam>?
+C: como te llamas, como te llamas?
+
+nmlch-pmscmA1_1_0027_pmscm_00: 
+M: Iñche ta Segundo Camargo Mellado pingen. 
+C: Yo  me llamo Segundo Camargo Mellado.
+
+nmlch-pmscmA1_1_0028_nmlch_00: 
+M: Segundo Camargo Mellado. 
+C: Segundo Camargo Mellado. 
+
+nmlch-pmscmA1_1_0029_pmscm_00: 
+M: May. 
+C: Sí.
+
+M: Tañi füta Antimilla Cargo yem 
+C: Del gran difunto Antimilla Cargo 
+
+M: tañi püñeñ
+C: sus hijos 
+
+M: tañi feyta tañi lofmu ta tripapan ta iñche peñi 
+C: de mi comunidad vine a salir yo hermano 
+
+M: feychi chemu taiñ küpan che ta iñche. 
+C: así es mi procedencia mía.
+
+nmlch-pmscmA1_1_0030_nmlch_00: 
+M: ¿Tunten tripantu deuma nieymi? 
+C: ¿Cuántos años has cumplido?
+
+nmlch-pmscmA1_1_0031_pmscm_00: 
+M: Iñche nien ta 
+C: Yo tengo 
+
+M: <*SPA>cincuenta <*SPA>nueve <*SPA>años <!1añu> peñi. 
+C: cincuenta y nueve años hermano.
+
+nmlch-pmscmA1_1_0032_nmlch_00: 
+M: ¿Kechumari? 
+C: ¿Cincuenta?
+
+nmlch-pmscmA1_1_0033_pmscm_00: 
+M: May. 
+C: Sí.
+
+M: Kechu +/trip/+ kechu mari tripantu. 
+C: Cinco, cincuenta años.
+
+nmlch-pmscmA1_1_0034_nmlch_00: 
+M: ¿Aylla tripantu?. 
+C: ¿Nueve años?.
+
+nmlch-pmscmA1_1_0035_pmscm_00: 
+M: Aylla fentren tripantu ta nien 
+C: Nueve, tengo artos años. 
+
+nmlch-pmscmA1_1_0036_nmlch_00: 
+M: Kechu mari aylla tripantu. 
+C: Cincuenta y nueve años. 
+
+nmlch-pmscmA1_1_0037_pmscm_00: 
+M: May. 
+C: Sí.
+
+nmlch-pmscmA1_1_0038_nmlch_00: 
+M: ¿Peñi fey eymi tami mapu 
+C: ¿Hermano de tu comunidad 
+
+M: iney <!1iñi> pingey tüfa?
+C: cómo se llama esto?
+
+nmlch-pmscmA1_1_0039_pmscm_00: 
+M: Tüfa ta Malliñ de treile pingey 
+C: Esto es mallin de treile se llama 
+
+M: longkümay 
+C: Lonquimay 
+
+M: <*SPA>Lonquimay piy comuna 
+C: Lonquimay le dicen a la comuna 
+
+M: longkümay <*SPA>Lonquimay pingey 
+C: Lonquimay, Lonquimay le dice 
+
+M: piy ta wingka ka. 
+C: dice el huinca también.
+
+nmlch-pmscmA1_1_0040_nmlch_00: 
+M: ¿Pewenche eymün ka? 
+C: ¿Son gente de la cordillera ustedes? 
+
+nmlch-pmscmA1_1_0041_pmscm_00: 
+M: Pewenche iñchin ta, 
+C: Somos gente de la araucaria,
+
+M: tamu ta pewen ta elüupa, 
+C: esta araucaria que nos dejaron,
+
+M: elüupayayeñmu tañi fütakecheyem ta,
+C: que nos dejaron nuestros difuntos ancianos, 
+M: ta futra kuyfi ta tamu 
+C: desde hace tanto tiempo 
+
+M: ka fey iñchiñ tañi küpan
+C: también tenemos descendencia  
+
+M: fey tüfimu Antimilla Camargo pingefuyem 
+C: de acá del Antimilla Camargo que se llamaba 
+
+M: tañi pu küpanche 
+C: una de mis descendencias 
+
+M: pütrükelefuy tañi fütakecheyem 
+C: habían artos de nuestros difuntos ancianos 
+
+M: feyta elkunurpaymu 
+C: eso nos vinieron a dejar 
+
+M: iñchiñ ta pichilewiyiñ ta tüfa ka peñi. 
+C: nosotros estamos quedando pocos hermanos.
+
+nmlch-pmscmA1_1_0042_nmlch_00: 
+M: Fey llemay peñi 
+C: Bien pues hermano 
+
+M: feyta iñche tripapan tüfa 
+C: así que yo he salido de acá
+
+M: kamapu nag che.
+C: en otra parte están la gente de la falda.
+
+nmlch-pmscmA1_1_0043_pmscm_00: 
+M: Feleykellimay peñi. 
+C: Así es eso hermano.
+
+nmlch-pmscmA1_1_0044_nmlch_00: 
+M: Pemeafiñ taiñ pu peñi pewenche pin tati 
+C: Voy a ver a mis hermanos de la  cordillera dije pues
+
+
+M: feyta entumeafiñ engün 
+C: eso lo voy a ir a sacar 
+
+M: petu mongelepelayngün 
+C: todavía deben estar vivos 
+
+M: alülepelay ta puy peñi pin 
+C: debe haber arto hermano eso se dice 
+
+M: fey lof petu nierkimün tati. 
+C: en esa comunidad tienen conocimiento pues.
+
+nmlch-pmscmA1_1_0045_pmscm_00: 
+M: Petu pichi alülekayiñ tati peñi, 
+C: Todavía tenemos un poco pues hermano, 
+
+M: petu pichi alüleyiñ 
+C: todavía un poco tenemos 
+
+M: <*SPA>pero tati pu tati 
+C: pero pues, pues
+
+M: pu tati familia müten mülewi
+C: en las familias no más debe haber
+
+M: ka fey tati fütakecheyem kayta
+C: también pues los difuntos ancianos 
+
+M: ngewelay tati 
+C: que ya no están 
+
+M: tüfa wüla ta kiñe ütrüfnagküley tañi füta wenüy 
+C: ahora esta como que se va a caer mi gran amigo 
+
+M: <!1weniy> ta mülekefuy ta pichi kuyfi tremfuyem ka 
+C: antes había un poco pero que crecían 
+
+M: feyta tüfa fey ütrüfnagüy 
+C: así fue como se cayo  
+
+M: kichutu ta kitaymawi tañi mongen 
+C: el mismo se quito la vida 
+
+M: feyke ta fachantü iñche ngemelan peñi 
+C: por eso hay día no fui hermano 
+
+M: amuafulu iñche 
+C: debiera ir yo 
+
+M: feyta püutukalan 
+C: eso no lo volveré a beber 
+
+M: feymu ta -/miau/- elmelafiñ ka fachantü <%> ta
+C: por eso hoy día no lo voy a dejar
+
+M: feychi dungu müten
+C: ese tema no más
+
+M: ta nieyiñ tüfachi komunidamu peñi.
+C: tenemos en esta comunidad hermano.
+
+nmlch-pmscmA1_1_0046_nmlch_00:
+M: Weda <!1wesa> dungumu.
+C: Mala cosa.
+
+nmlch-pmscmA1_1_0047_pmscm_00: 
+M: Weda <!1wesa> dungu 
+C: Mala cosa 
+
+M: feyta ñi ütrüfnauküley tañi fütacheyem 
+C: por eso se cayeron nuestros difuntos ancianos 
+
+M: taiñ kiñekelewekelu 
+C: estamos quedando algunos 
+
+M: feyta nochi <!1ngochi> utrüf ñamkünagkülekay ka. 
+C: así de apoco nos estamos perdiendo también.
+
+
+
+nmlch-pmscmA1_1_0048_nmlch_00: 
+M: Alün tripantu niefuy. 
+C: Tenía artos años.
+
+nmlch-pmscmA1_1_0049_pmscm_00: 
+M: Füta alün tripantu niefuy 
+C: Artos, artos años tenía 
+
+M: feyta doy 
+C: ese más de
+
+M: kasi niepelay +/ayllamari/+ mari aylla tripantu peñi 
+C: casi tiene noventa años hermano 
+
+M: fütra kuyfi chi. 
+C: de muy de antes.
+
+nmlch-pmscmA1_1_0050_nmlch_00: 
+M: ¿Kuyfi che?.
+C: ¿Gente antigua?. 
+
+nmlch-pmscmA1_1_0051_pmscm_00: 
+M: ¿Kuyfi che?.
+C: ¿Gente antigua?.
+
+nmlch-pmscmA1_1_0052_nmlch_00: 
+M: Alün tripantu niefuy. 
+C: Artos años tenía.
+
+nmlch-pmscmA1_1_0053_pmscm_00: 
+M: Epe pataka che, 
+C: Casi una persona de cien años,
+
+M: epe pataka tripantu niefuy, 
+C: casi llego a tener cien años,
+
+M: llumtu tüfita pichi alü tripantu niey 
+C: este tiene artos años 
+
+
+M: fey taiñ pentukupelchi 
+C: que se saludan 
+
+M: uya tami tami peupal 
+C: por eso te vine a ver 
+
+M: chi füta weniy 
+C: gran amigo 
+
+M: fey kasi kiñen trürküleyi ka. 
+C: casi estamos todos juntos.
+
+nmlch-pmscmA1_1_0054_nmlch_00:
+M: ¿Doy <!1soy> pataka tripantu?.
+C: ¿Más de cien años?.
+
+nmlch-pmscmA1_1_0055_pmscm_00: 
+M: Doy pataka tripantu 
+C: Más de cien años 
+
+M: ta feyta fente pületuy tüfa 
+C: hasta eso no más llego 
+
+M: wenu külawomu ta ütrüfuy 
+C: 
+
+M: ka fey fachantü ta püllükonüy ka peñi. 
+C: 
+
+nmlch-pmscmA1_1_0056_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-pmscmA1_1_0057_pmscm_00: 
+M: Mapungetuy tati. 
+C: Es de la tierra pues.
+
+nmlch-pmscmA1_1_0058_nmlch_00: 
+M: Doy <!1soy> tachi mapu ngewelayay.
+C: Más en esta tierra ya no va haber.
+
+nmlch-pmscmA1_1_0059_pmscm_00: 
+M: Ngewelay ka 
+C: Ya no hay 
+
+M: ya tüfey <!1tüfi> ta ngochad küley tati 
+C: ya están como pasados 
+
+M: fütakecheyem ka peñi 
+C: los difuntos ancianos hermano 
+
+M: fütrake wünen külefulu 
+C: los mayores  
+
+M: kimpafulu ta kom ngütramem ka. 
+C: se venian a conocer todos de la conversación.
+
+nmlch-pmscmA1_1_0060_nmlch_00: 
+M: Fey llemay chi. 
+C: Así es eso pues.
+
+nmlch-pmscmA1_1_0061_pmscm_00: 
+M: Feymu müten 
+C: Por eso no más 
+
+M: ta pchike ta kuñifall kületuyiñ 
+C: los niños andan como huérfanos 
+
+M: tañi wekechengen ta tüfa 
+C: los jóvenes de por acá 
+
+M: tañi pürapa antülelu ka peñi. 
+C: recien están comenzando los días hermano.
+
+nmlch-pmscmA1_1_0062_nmlch_00: 
+M: Fill dungumu. 
+C: Con distintos temas.
+
+nmlch-pmscmA1_1_0063_pmscm_00: 
+M: Fill dungumu 
+C: Con diferentes temas
+
+M: feymu *achill ta afnagkülekay 
+C:
+
+M: tañi ngewelay 
+C: ya no tenemos 
+
+M: tañi fütrakecheyem ka peñi. 
+C: nuestros difuntos antepasados hermano.
+
+nmlch-pmscmA1_1_0064nmlch_00: 
+M: Fey peñi 
+C: Así es hermano 
+
+M: iñche ta fey pentukumean tañi peñi pin 
+C: yo siempre hago un saludo de encuentro con mis hermanos 
+
+M: feymu küpan tukulpapeyu 
+C: por eso vinimos a conocer nuestra procedencia 
+
+M: eymi ta rume kimün 
+C: tu tienes arto conocimiento 
+
+M: wentrungerkimi 
+C: eres un hombre con conocimiento 
+
+M: fey tami pu weniy ta <uh> wariameu 
+C: y a tus amigos en la ciudad  
+
+M: tami pu weniy tüfamu 
+C: tus amigos de por acá 
+
+M: tami pu lofmu 
+C: en tus comunidades 
+
+M: mülelu longkoli pieymu, 
+C: hay autoridades Mapuche te dicen,
+
+M: ta feymu iñchi witrakontupapeyu tati peñi. 
+C: por eso yo lo vine a visitar pues hermano.
+
+nmlch-pmscmA1_1_0064_pmscm_00: 
+M: Feley 
+C: Bien pues
+
+M: kümey tami femfiel ka peñi 
+C: bien es lo que haces hermano
+
+M: feyta elkunurpueneu ta iñche 
+C: y por eso me vino a dejar a mi 
+
+M: ta long- lonkong küpanche 
+C: y tengo esa descendencia de autoridad Mapuche 
+
+M: tañi pu familia ñukemu 
+C: mis familiares de madre 
+
+M: chaumu 
+C: y de padre 
+
+M: femngechi tripapan ta iñche, 
+C: de esa forma he salido yo, 
+
+M: iñche tañi ñuke 
+C: mi madre
+
+M: tüfachi mapumu 
+C: en este lugar 
+
+M: ta mülekelafuy tüfachi lofmu ka peñi 
+C: no estuvo en este lugar hermano 
+
+M: <*SPA>pero domoche pingey 
+C: pero Zomoche se llama  
+
+M: ta domoche chuchipüle rume inamapukeluam 
+C: Zomoche esta cercano a ese lugar 
+
+M: feyta yemerkey tañi chawen tati, 
+C: y mi difunto padre la llevo pues,
+
+M: feyta yemengey <!1yemengi> ta 
+C: el la llevo pues 
+
+M: pewenko pingechi mapumu. 
+C: Pehuenco se llamaba el lugar.
+
+nmlch-pmscmA1_1_0065_nmlch_00: 
+M: Ka lof. 
+C: De otra comunidad.
+
+nmlch-pmscmA1_1_0066_pmscm_00: 
+M: Ka lof 
+C: De otra comunidad 
+
+M: feymu ta kedapay ta tamu 
+C: por eso se viene a quedar acá 
+
+M: feymu ta iñche ta mülen 
+C: y por eso estoy acá 
+
+M: fey ka kasike küpalen 
+C: y tengo procedencia de cacique 
+
+M: fey ñuke, tañi ñuke 
+C: y de madre, mi madre 
+
+M: tañi küpan ta iñche piy 
+C: de la procedencia de mi madre digo 
+
+M: ta ka +/lo/+  lof tañi küpalu 
+C: de otra comunidad viene 
+
+M: feychi lofmu taiñ küpay taiñ ñuke 
+C: de esa comunidad viene mi procedencia de parte de madre 
+
+M: feyta ka kasike küpan tañi ñukeyem. 
+C: por eso tengo procedencia de cacique de mi difunta madre.
+
+nmlch-pmscmA1_1_0067_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Feymu ta epuñ püle reke 
+C: Así como de dos lados 
+
+M: ta iñche tripalepan ta longko familiamu ka peñi. 
+C: yo tengo procedencia de logko en mi familia también hermano.
+
+nmlch-pmscmA1_1_0068_nmlch_00: 
+M: ¿Küpalmemu?
+C: ¿De tu procedencia?
+
+nmlch-pmscmA1_1_0069_pmscm_00: 
+M: <*SPA>Todos mu  <!1to'mu> may
+C: De todos 
+
+M: Toma Mellao pingefuyem tañi aweluyem 
+C: Tomas Mellao se llamaba mi difunta abuelo 
+
+M: tañi ñuke tañi chawem 
+C: el difunto padre de mi madre 
+
+M: tañi <%> tañi ñuke 
+C: de mi, de mi madre 
+
+M: feymu feleupun 
+C: de esa forma es allá 
+
+M: ka peñi feymu ta iñche ta Mellautun ta tamu. 
+C: y por eso hermano yo soy Mellao acá también.
+
+nmlch-pmscmA1_1_0070_nmlch_00: 
+M: ¿Küme küpan che reke eymi peñi?. 
+C: ¿Cómo que tienes buenos linajes hermano?
+
+nmlch-pmscmA1_1_0071_pmscm_00: 
+M: May. 
+C: Sí.
+M: Iñche ta epu tripanchemu 
+C: Yo tengo dos linajes 
+
+M: tripapan mür tati 
+C: salgo de dos parejos pues 
+
+M: longkochemu tañi küpan tati 
+C: de autoridad Mapuche es mi procedencia pues 
+
+M: witrantukukechi chemu feymu ta 
+C:
+
+M: feychi küpanche ta iñche peñi, 
+C: esa procedencia tengo yo hermano, 
+
+M: feymu ta ka femngechi 
+C: por eso también 
+
+M: inanerpun tañi rüpü 
+C: debo estar a la sigua de mi camino 
+
+M: femkunukalaneu tañi füta chau 
+C: eso no me lo hizo el gran padre
+
+M: fe tañi choyeteu fe peñi 
+C:
+
+M: feymu ta felen ka peñi. 
+C: por eso estoy así hermano.
+
+nmlch-pmscmA1_1_0072_nmlch_00: 
+M: Küme dungu <!1sungu> tati peñi 
+C: Buenas palabras pues hermano 
+
+M: pekan ta tukelay ta dungu <!1sungu> ta che peñi. 
+C: las copuchas de la gente no deben entrar hermano.
+
+nmlch-pmscmA1_1_0073_pmscm_00: 
+M: Femkey ka peñi
+C: Así hizo hermano 
+
+M: feymu ta felerpun ta tüfa 
+C: por eso estuve así por allá 
+M: femngechi nieputun 
+C: eso es lo que tengo 
+
+M: petu awantaukülen 
+C: todavía sigo aguantando 
+
+M: tañi felenmu ka peñi 
+C: lo que me esta pasando hermano 
+
+M: tañi puche kayta 
+C: mi gente de acá 
+
+M: feychi dungu inanerpuaymi pineneu engün tati 
+C: esa caso tu la continuaras me dijeron pues 
+
+M: penepellelanam petu kellungen 
+C: me estaban viendo que me ayudaban 
+
+M: tañi witrampüram dungual tüfa niam tati 
+C: debo levantar este tema acá pues 
+
+M: fütakecheyem tañi elelurpuel chi dungu pieteumu 
+C: los difuntos ancianos me dejaron esa cosa me dijeron 
+
+M: feymu chi dungumu ta tukunengen ka, 
+C: por eso se me internalizo esa cosa,
+
+M: ¡Aa!. 
+C: ¡Ah!.
+
+M: Wüne konkiawimika peñi 
+C: Primero deberas entrar hermano 
+
+M: fey kom tañi puche 
+C: así toda mi gente 
+
+M: fey elegieneu <!1legieneu> turke 
+C: así me lo dieron  
+
+M: eymi ta nüaymi tachi dungu 
+C: tu tendras esa cosa 
+
+M: femngechi küpanche 
+C: porque lo traes de descendencia 
+
+M: pikalaneu anta ñi füta chau pe 
+C: pero no me lo dijo mi gran padre 
+
+M: feymu ta inanerpun ta feychi dungu peñi, 
+C: pero debo continuar con esta caso hermano,
+
+M: feymu ta yenerpun 
+C: por eso lo debo llevar 
+
+M: fey füta chau tañi pinmu ka, 
+C: y mi gran padre en su decir,  
+
+M: ka tati kuyfi mülekey <P> tati 
+C: antes pues habían 
+
+M: <*SPA>noventa nuefemu trokifiñ 
+C: cada noventa y nueve 
+
+M: +/noventay/+ <uh>  <*SPA>que <*SPA>sea +/ochenta/+  y <P> +/sesenta/+ <*SPA>setenta <*SPA>y <*SPA>tres 
+C: que sea setenta y tres 
+
+M: feymu trokifiñ 
+C: cada ese tiempo 
+
+M: <*SPA>despues <*SPA>de <*SPA>ochenta, ochentamu 
+C: después de ochenta, de ochenta en ochenta 
+
+M: fey mülekey tati 
+C: y hubo pues 
+
+M: <*SPA>erupción <*SPA>volcan 
+C: la erupción del volcán 
+
+M: ta llasküy tañi ketro dellin
+C: se enojo el volcán que estaba calmado 
+
+M: feyta ütrüfentufuy 
+C: empezo a explotar 
+
+M: apüman tañi pu küpan 
+C: se completo mi descendencia 
+
+M: tañi pu familia pifuy 
+C: mis familiares dicen 
+
+M: feyta femnaukatuy 
+C: este se va a bajar 
+
+M: feychi ta elegingepan <!1legingepan>
+C: esa vez me vinieron a dejar 
+
+M: eymi ta longkongeaymi pipaneu 
+C: tu vas hacer autoridad Mapuche me dijeron 
+
+M: ta kiñe wentru trekayaukelu 
+C: un hombre que anda caminando 
+
+M: feyta iñche ta werken 
+C: porque yo soy mensajero 
+
+M: fütachau pipay 
+C: mi gran padre vino a decir 
+
+M: witrankontupaneu 
+C: levántate que te voy a entrar 
+
+M: chumngechi kontupan ta eymi 
+C: como vas a entrar 
+
+M: ka femngechi 
+C: y de esa forma 
+
+M: ka femngechin kontupaneu piy, 
+C: de esa forma me entro digo, 
+
+M: feyta eymi may niaymi ta feychi dungu 
+C: así tu vas a tener esta destreza 
+
+M: ngütuaymi ta <Noise> feychi dungu 
+C: no vas a despreciar este destreza 
+
+M: ta nietuaymi inanerputuaymi 
+C: cuando lo tengas lo deberas continuar 
+
+M: fey eymi fey feypüle 
+C: así tu por diferentes partes 
+
+M: petu niekelan taiñ tüfa 
+C: ya que no tienes esto 
+
+M: tañi rewe ta nietumu 
+C: cuando tengas el rehue 
+
+M: fey üyüupüle nieken 
+C: pero por allá tengo
+
+M: petu rewe fey umañmiyu 
+C: en el rehue dormimos
+
+M: tañi peñimu tati Bernardo Ñanco pingey 
+C: donde mi hermano Bernardo Ñanco que le dicen 
+
+M: tañi longkolelu 
+C: y que es autoridad mapuche 
+
+M: ka feymu ta umañkülepuyu 
+C: y por eso iras a dormir allá 
+
+M: feymu ta witrayay tami fantera,
+C: entonces deberas levantar tu bandera,  
+
+M: feymu ta witratuaymi ta fandera 
+C: vas a levantar la bandera 
+
+M: feymu ta nietuaymi ta ngellipun 
+C: y además haras rogativa en Mapuche 
+
+M: ta eymi pieneu 
+C: eso aras tu me dijo 
+
+M: feymu niepatun fachipüle 
+C: eso que tengo acá 
+
+M: ka nopatun ta apartapatun 
+C:también cruce, me aparté 
+
+M: no ke tañi ka lofmu ta peñi 
+C: no que es mi comunidad hermano 
+
+M: fey iñchiñ anta pichi alün külelu tati lof 
+C: a nosotros nos queda un poco lejos esa comunidad 
+
+M: chemu taiñ ngütramkapelayu 
+C: por cualquier cosa que conversemos 
+
+M: fente nieyiñ famkülekiyiñ nga 
+C: eso es lo que debemos hacer 
+
+M: fey pipenga feymu ta femkunungetun 
+C: así digo que estuve 
+
+M: feymu ta afkasinetun 
+C: entonces de ayudante 
+
+M: feymu ta formanetufiñ tachi 
+C: por eso que nos formamos 
+
+M: komunidad mallin de treyla
+C: comunidad Mallin de Treila 
+
+M: ta inanetun tañi füfa <*SPA>bis. 
+C: debere continuar eso.
+
+M: aweluyem tañi mapu 
+C: la tierra de mi difunto abuelo 
+
+M: tañi dungu 
+C: sus palabras 
+
+M: feymu ta femnelngen ta tüfa peñi.
+C: por eso yo soy así acá hermano.
+
+nmlch-pmscmA1_1_0074_nmlch_00: 
+M: Welu küme feleymi tati peñi. 
+C: Pero tu estas bien hermano.
+
+nmlch-pmscmA1_1_0075_pmscm_00: 
+M: Fey <*SPA>ojala ta küme feleaymün ka peñi 
+C: Así que ojala que estén bien hermano 
+
+M: feymu ta ayudanielimu tañi füta chau 
+C: entonces nos ayudara el gran padre 
+
+M: feyta kümelepetu kay, 
+C: para aue estemos bien, 
+
+M: küme yengepe tañi dungu 
+C: llevemos bien estos asuntos 
+
+M: +/pili/+ pingeli feymu ta adentunian ka peñi 
+C: si me dicen, por eso vopy aprender pues hermano 
+
+M: fey katrüntukupe kay 
+C: 
+
+M: chumpe rume pingeli 
+C: los que sea que haga si me dicen 
+
+M: feyta puedelan tañi katrüñtukuymalimu 
+C: eso si que no puedo dejar que me lo corten 
+
+M: tañi füta chau ketrontupe tañi dungu pingeli 
+C: si e4l gran padre dicen que me olvide de mi lengua 
+
+M: feyta ketrontukuafunka peñi, 
+C: ahí lo dejaría pues hermano 
+
+M: femnengel amulnerpukay pielimu 
+C: para que sea así, para avanzar si me dicen 
+
+M: kiduam wülkelu ta ngünen, 
+C: si el solo da como ser,
+
+M: wülkelu ta ngülam, 
+C: el que da los consejos,
+
+M: wülkey <!1wülki> ta peuma 
+C: el que da los sueños 
+
+M: kom ta kimüukelu kay che 
+C: si todo loi aprende la gente 
+
+M: feymu ta femkunurpuelimu 
+C: si eso lo hace así 
+
+M: feyta küme inaduamnepufili 
+C: si esto lo sigue practicando bien 
+
+M: iñche kayta feyentunefili 
+C: si yo también creo en eso 
+
+M: feymu ta kümeleupuan ka peñi 
+C: así voy a llegar bien pues hermano 
+
+M: femnoli kayta ka wüyakunuli 
+C: si no lo hago así, lo hago de otra forma 
+
+M: weda portalikay feyta femtepu pielimu tañi peñi 
+C: si me porto mal y mi hermano me dice hasta aquí no más 
+
+M: ta tañi füta chau feyta felewerpulayan ka peñi 
+C: mi gran padre, no voy a estar así pues hermano 
+
+M: fey ka kiñeke tañi <*SPA>familia 
+C: así una de mi familia 
+
+M: fey küpa kutratripale feyta ka weda tripayay ka 
+C: si sale mal,  también voy a sali mal yo 
+
+M: feychi rakiduam külen ta tüfa peñi. 
+C: eso es lo que estoy pensando hermano.
+
+nmlch-pmscmA1_1_0076_nmlch_00: 
+M: Küme rakiduamkeymi tati peñi 
+C: Bueno es tu pensamiento hermano 
+
+M: eymiam tamu wünelelu tüfa tachi lofmeu. 
+C: como usted es el mayor de esta comunidad.
+
+nmlch-pmscmA1_1_0077_pmscm_00: 
+M: Feley tati peñi. 
+C: Bien pues hermano. 
+
+nmlch-pmscmA1_1_0078_nmlch_00: 
+M: Pekan dungu ta tunielaymi. 
+C: No tienes puras copuchas.
+
+nmlch-pmscmA1_1_0079_pmscm_00: 
+M: Feley tati peñi.
+C: Bien pues hermano.
+
+nmlch-pmscmA1_1_0080_nmlch_00: 
+M: Rüf küme fütra falin dungu nieymi 
+C: Verdaderas, buenas y muy valiosas son las palabras que tienes 
+
+M: eymi ta nidol küleymi ta tüfachi lofmeu. 
+C: tu que eres dirigente Mapuche de esta comunidad.
+
+nmlch-pmscmA1_1_0081_pmscm_00: 
+M: Felen tati peñi feyta. 
+C: Así estoy pues hermano, por eso...
+
+nmlch-pmscmA1_1_0082_nmlch_00: 
+M: Pekan dungu <*SPA>no tati. 
+C: Copuchas no pues.
+
+nmlch-pmscmA1_1_0083_pmscm_00: 
+M: Feley tati femkunuateumu tañi taiñ choyeteu 
+C: Así es, si asdí me dejó el que me dio a luz
+
+M: kay taiñ füta chau ka niel taiñ pichi trengüm 
+C: también con el gran padre que me ayudo a creer 
+
+M: kiñenielu müten tañi cheu tañi ngillatukemu 
+C: si tengo solo un solo padre donde hago rogativa 
+
+M: tañi puwülüukemu feymu müten 
+C: donde llego, el no más 
+
+M: ta femekeken ka peñi 
+C: estoy haciendo eso pues hermano
+
+M: <*SPA>claro kiñekemu ta fey llagkütuymekefeneu 
+C: si a veces suele enojarse conmigo 
+
+M: lladkükey tañi füta chau 
+C: se enoja mi gran padre 
+
+M: o chümüymi fey kutrankaymafeneu tañi, 
+C: o que le pasó, ahí me enferma 
+
+M: tañi ngünayen tati 
+C:  el lo hace conmigo pues 
+
+M: feyta chemu ta femkeleteu kay ta iñche 
+C: quizas por que me hace eso a mi 
+
+M: feymu chemay taiñ ngünayen chemay yafkay 
+C: por eso será por que se enoja 
+
+M: tañi iñche chemay yafkalen piken 
+C: por mi se enojara digo pues 
+
+M: feymu ta pichike rakiduamküleken ka,
+C: por eso a veces suelo estar pensando,
+
+M:  ka peñi chimu kutrankawi tañi ngünayen che tati 
+C: de por qué a veces se enferma la persona 
+
+M: inal tati rukantukueneu tañi, 
+C: 
+
+M: tañi chengelüukülemu ka taiñ mongelüukülemu 
+C: de las personas que somos, y de las casas que tenemos 
+
+M: tañi chengelüukülemu ka peñi.
+C: de las personas que somos pues hermano.
+
+M: feymu ta ka kiñekemu rakiduamken 
+C: estos son algunos de mis pensamientos 
+
+M: feymu ka peñi. 
+C: eso es hermano.
+
+nmlch-pmscmA1_1_0084_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-pmscmA1_1_0085_pmscm_00: 
+M: Feymu chi chemuchi 
+C: Por que será, con qué sera 
+
+M: femeneu ngañi füta chau piken 
+C: me hizo eso mi gran padre digo 
+
+M: ka rakiduamkey kidu kay iñche 
+C: también pienso, si solo yo 
+
+M: ka rakiduamken ka peñi 
+C: también pienso pues hermano
+
+M: deu familiamu kom kümelerpun külaro 
+C: si con toda mi familia estoy bien, claro 
+
+M: kom nielafun tañi <*SPA>familia tamu 
+C: no tengo a todo mi familia aquí 
+
+M: pero kom pichike peyawülkeneu, 
+C: pero todos los niños me vienen a ver 
+
+M: yüwüdkiawülkeneu, 
+C: me vienen a rodear,
+
+M: wungküyaulkeneu tamu engün 
+C: me veienen aver ellos aquí 
+
+M: fem kom nieketufiñ 
+C: así a todos los tengo 
+
+M: kiñekemu ta tapaleketuy tañi ruka ka peñi 
+C: a veces se tapa mi casa hermano 
+
+M: familia +/nge/+  ngetumu 
+C: por que tengo harta familia 
+
+M: feyta chem wedake dungumu rume 
+C: estos por ninguna cosa mala 
+
+M: ta mekengekalan kiñe tañi lamngenmu mütenta 
+C: no me dicen, una hermana no más 
+
+M: feyta kuñifalkülen ka, ka tripantu 
+C: estoy un poco solo, el año pasado  
+
+M: feyta fallesey tañi lamngen 
+C: falleció esta hermana 
+
+M: feymu felen feymu ta kuñifalkülen
+C: por eso estoy así, me siento solo
+
+M: ka wünen lamngenmu llemay 
+C: mi hermana mayor pues 
+
+M: feymu ta ka pichike weñangkülüuken ka peñi. 
+C: por eso es que estoy un poco triste hermano. 
+
+nmlch-pmscmA1_1_0086_nmlch_00: 
+M: Fill dungu ta niekey mongenche peñi. 
+C: Diferentes temas tiene la gente en su vida hermano.
+
+nmlch-pmscmA1_1_0087_pmscm_00: 
+M: Femkey ka peñi femkey. 
+C: Así es, así es hermano.
+
+nmlch-pmscmA1_1_0088_nmlch_00: 
+M: Montulekelay ta dungumu che. 
+C: No se salva la gente con las cosas.
+
+nmlch-pmscmA1_1_0089_pmscm_00: 
+M: Femkey tati peñi 
+C: Así hacen pues hermano
+
+nmlch-pmscmA1_1_0090_nmlch_00: 
+M: Müley tañi kimngeal dungu 
+C: Se deben saber las cosas 
+
+M: ka tañi <uh> rakiduamkülial 
+C: para poder pensar 
+
+M: chumngechi tañi weuniafel dungu che.     
+C: de cómo va a ganar las cosas la gente.
+
+nmlch-pmscmA1_1_0091_pmscm_00: 
+M: Feley, feley 
+C: Bien, bien 
+
+M: feyta rakiduamüy 
+C: así el pensamiento 
+
+M: feyta wülüwi tati 
+C:
+
+M: füta chaumu 
+C: el gran padre 
+
+M: ta che ngillatuy 
+C: la gente debe rogar 
+
+M: püntefnentuymawüy ngillatuymawi 
+C:  por donde anden deben hacer rogativa 
+
+M: feyta kümey 
+C: eso es bueno 
+
+M: ka tati puliwen witralu, 
+C: y en la mañana deben levantarse, 
+
+M: puliwen ta nagkintupay peyu
+C: en la mañana nos miro desde arriba 
+
+M: tañi püñeñeteu ta che pingey 
+C: el que le da la vida a los hijos dicen 
+
+M: feymu ta witratripalu 
+C: por eso el que salió 
+
+M: feyta felerpukakefuy ka peñi femngechiama.
+C: este también le paso hermano, de esa forma.
+
+M: elüupulu tañi fütakecheyem, 
+C: lo que nos dejaron los difuntos ancianos 
+
+M: tañi fütakeche 
+C: nuestros difuntos ancianos
+
+M: kuyfi cheyem tati 
+C: los antiguos pues 
+
+M: wünenkülefulu ka peñi, 
+C: los mayores hermano 
+
+M: iñche ta feymu puliwen newe umautukelan peñi 
+C: yo por eso en la mañana ya no puedo dormir hermano 
+
+M: chunte <*SPA>tarde rume ta tranakunuwün 
+C: más tarde me puedo acostar 
+
+M: <*SPA>pero wünpüle 
+C: peor en la amanecida 
+
+M: ta puliwen trekayaukaken. 
+C: en la mañana debo andar caminando.
+
+nmlch-pmscmA1_1_0092_nmlch_00: 
+M: Ngünechen kellukeyu pingey ta. 
+C: Ngünechen me ayudo dicen.
+
+nmlch-pmscmA1_1_0093_pmscm_00: 
+M: Fey feyta feypikey tati 
+C: Este, esto dice pues
+
+M: wünen külelu 
+C: lo primero que se hace 
+
+M: fütakecheyem 
+C: los difuntos ancianos 
+
+M: ta femkefuy umautukelafuy 
+C: esos que no se duermen 
+
+M: tañi chem dungu rume ta niayem 
+C: con los temas que tenían 
+
+M: feyta umautukelay 
+C: por eso no dormían 
+
+M: tranalechi pikelay 
+C: no querían botarse 
+
+M: ka feymu anta itrofillmu 
+C: por eso habían variedad 
+
+M: ta kidu ngüneukenoluanta che peñi. 
+C: porque sola la gente no reflexiona hermano.
+
+nmlch-pmscmA1_1_0094_nmlch_00: 
+M: Femngechi fütakechemu umautukelafuy may. 
+C: Por eso es que los ancianos no dormían.
+
+nmlch-pmscmA1_1_0095_pmscm_00: 
+M: Umautukelafuy 
+C: No dormían 
+
+M: ka peñi umautukelay 
+C: así hermano no dormían 
+
+M: wünmakelu 
+C: cuando amanecía 
+
+M: pu deu püuluyem 
+C: cuando ya habían entrado
+
+M: iñche tamu pilu 
+C: yo esto no lo había escuchado 
+
+M: feyta kümelkawekelay 
+C: por eso no está bien 
+
+M: tañi puwüliyem tañi, 
+C:donde llegó pues 
+
+M: tañi chem dungu rume 
+C: y por cualquier cosa 
+
+M: tañi famngechi witrañpüramen ta dungu 
+C: de esa forma levantare este asunto 
+
+M: pingele ta che 
+C: lo que dice la gente 
+
+M: feyta umaukunuchi 
+C: lo voy a dejar dormido 
+
+M: tranalechi femkunufichi 
+C: lo voy a djear votado, voy a dejarlo así 
+
+M: ta dungu pikalay ka. 
+C: las cosas no dijo también. 
+
+nmlch-pmscmA1_1_0096_nmlch_00: 
+M: ¿Falitukefingün?. 
+C: ¿Tenían mucho valor para ellos?.
+
+nmlch-pmscmA1_1_0097_pmscm_00: 
+M: Falitukefuy 
+C: Se valora mucho 
+
+M: feymu ta falintukungekeyngün 
+C: por eso lo valoraban 
+
+M: nagkintungepayngün 
+C: por que lo estaban mirando desde arriba 
+
+M: ta chengeketuyngün ka peñi.
+C:  así están bien como persona hermano.
+
+nmlch-pmscmA1_1_0098_nmlch_00: 
+M: Faliltukeyngün ka. 
+C: Deben valorizarlo.
+
+nmlch-pmscmA1_1_0099_pmscm_00: 
+M: Faliltungey eymi kay peñi, 
+C: Se valoriza y tu hermano, 
+
+M: fütra peñi feyta pichike ramtudunguan pipeyu ta 
+C: gran hermano te voy a preguntar un poco te digo 
+
+M: ta eymi anta ka lofche 
+C: la gente de otra comunidad 
+
+M: *kosta che <!1ko'tache> tati 
+C: la gente del mar pues 
+
+M: eymi ta chemkü 
+C:usted de todo 
+
+M: chumngechi küpancheche anta ñukemu 
+C: como es tu procedencia por parte de la madre 
+
+M: chaumu awelumu kay peñi. 
+C: por parte de padre, de abuelo hermano.
+
+nmlch-pmscmA1_1_0100_nmlch_00: 
+M: Iñche ka *llegün tati feychi dungumu   
+C: 
+
+nmlch-pmscmA1_1_0101_pmscm_00: 
+M: Ka feychi dungumu. 
+C: También por esa parte.
+
+nmlch-pmscmA1_1_0102_nmlch_00: 
+M: May. 
+C: Sí.
+
+nmlch-pmscmA1_1_0103_pmscm_00: 
+M: Feley. 
+C: Bien.
+
+nmlch-pmscmA1_1_0104_nmlch_00: 
+M: Iñche tañi awelu *tra ñukemu 
+C: Mi abuelo por parte mama 
+
+M: ta ka <uh> longko küpan ka fey. 
+C: tengo descendencia de autoridad Mapuche.
+
+nmlch-pmscmA1_1_0105_pmscm_00: 
+M: Ka longko küpan. 
+C: Otra descendencia de autoridad Mapuche.
+
+nmlch-pmscmA1_1_0106_nmlch_00: 
+M: May. 
+C: Sí.
+
+nmlch-pmscmA1_1_0107_pmscm_00: 
+M: May. 
+C: Sí.
+
+M: Fey taiñ kiñe.
+C: Eso es mío.
+
+nmlch-pmscmA1_1_0108_nmlch_00: 
+M: Fey pekan ta tukelay ta dungu che peñi. 
+C: Eso no es un tema cualquiera hermano.
+
+nmlch-pmscmA1_1_0109_pmscm_00: 
+M: Femkelay, femkelay peñi. 
+C: No debe ser así, así no hermano.
+
+nmlch-pmscmA1_1_0110_nmlch_00: 
+M: Topantukukelay dungu che. 
+C: .
+
+nmlch-pmscmA1_1_0111_pmscm_00: 
+M: Femkey ta che tati. 
+C: Eso hacía la gente pues.
+
+nmlch-pmscmA1_1_0112_nmlch_00: 
+M: Feytachi dungumu 
+C: Ese es el tema 
+
+M: ta pepilüwünmu mapuche dungun 
+C: saber hablar en mapuzugun 
+
+M: <uh> nien ta kimün 
+C: tengo conocimiento 
+
+M: re niermekelay ta che 
+C: así no más no lo tiene la gente 
+
+M: ngünechen elunekeyu 
+C: el ngünechen se lo da
+
+M: küpalmemu ta lloukey dungu che.
+C: por la descendencia es que se devuelven las palabras.
+ 
+nmlch-pmscmA1_1_0113_pmscm_00: 
+M: Femkey tati peñi 
+C: Eso hace la gente hermano
+
+M: feley ta tati. 
+C: así bien pues.
+
+nmlch-pmscmA1_1_0114_nmlch_00: 
+M: Iñche feymu ka tati tañi chau ka, 
+C: Yo por eso de parte de mi padre,
+
+M: ka küme küpan 
+C: soy de buena descendencia 
+
+M: longko küpan ka. 
+C: descendencia de autoridad Mapuche.
+
+nmlch-pmscmA1_1_0115_pmscm_00: 
+M: Ka longko küpan. 
+C: Otra descendencia de autoridad mapuche.
+
+nmlch-pmscmA1_1_0116_nmlch_00: 
+M: Ka fey. 
+C: También pues. 
+
+nmlch-pmscmA1_1_0117_pmscm_00: 
+M: May, may. 
+C: Sí sí.
+
+nmlch-pmscmA1_1_0118_nmlch_00: 
+M: Feymu ta iñche wüne niekel ta dungu ta mapuche 
+C: Por eso yo lo primero que tengo es el hablar en mapuche 
+
+M: tañi <uh> mapuche tañi duamtumu. 
+C:  por que quiero el mapuche.
+
+nmlch-pmscmA1_1_0119_pmscm_00: 
+M: Fey felelli tati peñi. 
+C: Así es eso bien hermano.
+
+nmlch-pmscmA1_1_0120_nmlch_00: 
+M: Fill dungumu wüneleken 
+C: En diferentes cosas estoy primero 
+
+M: feymu peno piken. 
+C: por eso debe ser digo.  
+ 
+nmlch-pmscmA1_1_0121_pmscm_00: 
+M: Fillkey <!1fillki> ta femechi kargu ta nielu 
+C: Eso hace el que tiene un cargo así 
+
+M: ta feyta chem dungmu rume ta puwülüungey 
+C: aquí diferentes cosas le hacen llegar 
+
+M: <*SPA>y akordangey <*SPA>y che trokingey 
+C: y se acuerdan, y persona lo consideran 
+
+M: y inalngey ta dungu 
+C:  y siguen las cosas 
+
+M: feyta pemefichi 
+C: por eso lo voy a ir a ver, 
+
+M: kontufichi pingey ka peñi
+C: voy a ir a entrar dicen pues hermano
+
+M: kichu fey ngütramkachimu, 
+C: conversemos solos,
+
+M: ngütramkamefichi pingey 
+C: voy a ir a conversarle dicen 
+
+M: poyengey ta che feyta kontungey che 
+C: cuando aprecian a las personas la visitan 
+
+M: trokingey fey kontual kay che tati peñi 
+C: lo consideran por eso entra la gente pues hermano
+
+M: pekan ta kontuwürmelay ta che 
+C: en vano no va a netrar la gente 
+
+M: peñiwen ngeafuy rume, 
+C: aunque sean hermanos, 
+
+M: lamngenwen ngeafuy rume, 
+C: aunque sean hermanas, 
+
+M: ñukewen ngeafuy rume 
+C: aunque sean madre e hija 
+
+M: chumngeafuy rume 
+C: como quire que sea 
+
+M: pekan tüfa newe kontuwelayiñ peñi.
+C:  en vano ahora ya no nos visitamos hermano.
+
+nmlch-pmscmA1_1_0122_nmlch_00: 
+M: Feley <*SPA>pues. <!1pu'>
+C: Bien pues.
+
+nmlch-pmscmA1_1_0123_pmscm_00: 
+M: Kampialey <!1kambialey> ta dungu 
+C: Es otro tema
+
+M: feyta che trokiwüy tati 
+C: este se cree gente pues 
+
+M: respetaukülelu tati 
+C: que se restan pues 
+
+M: che trokiukülelu feyta kontungey ka peñi 
+C: el que se cree persona, este entra pues 
+
+M: kontuwi well kintuluwi 
+C: por dentro, en todas partes lo busca 
+
+M: dunguluwi rewall 
+C: en vano se hablan 
+
+M: kiñeke ta tüfa kayta wekeche 
+C: ahora algunos jóvenes 
+
+M: kayta femwekelay ka peñi 
+C: ya no hacen esto hermano 
+
+M: kambiatulu kay <uh> feley tati peñi 
+C: si cambién por eso es así pues hermano
+
+M: feymu ta feyta ñi adümal tañi rulpayal 
+C: por eso, para que aprendar a decir 
+
+M: tañi kewünmu 
+C: con su lengua 
+
+M: feyta ngütramkangey ka peñi.
+C:  ahí se puede conversar pues hermnano.
+
+nmlch-pmscmA1_1_0124_nmlch_00: 
+M: Fey llemay. 
+C: Así pues.
+
+nmlch-pmscmA1_1_0125_pmscm_00: 
+M: Kiñekemu kayta pichike chemkaketun 
+C: Algunas veces me preocupo 
+
+M: tupakenchi fey weñañgküleyem 
+C: me entristezco 
+
+M: feyta kom entukakelan ñi ngütram 
+C: a veces no saco toda mi conversación 
+
+M: <*SPA>pero +/küme/+ küme ngütramkay ta che 
+C: pero la persona debe conversar bien 
+
+M: küme ngütramkakngey 
+C: tiene buena conversación 
+M: <*SPA>y entuneupuy rakiduamküley 
+C: y va sacando lo que está pensando 
+
+M: ñochi rakiduamküley che 
+C: lentamente va pensando la gente 
+
+M: entunerpuy ngütramka peñi.
+C:  va sacando la conversación también hermano.
+
+nmlch-pmscmA1_1_0126_nmlch_00: 
+M: Feley pu peñi 
+C: Bien pues hermano
+
+M: iñchiñ taiñ mapuchengenmuam 
+C: nosotros porque somos Mapuche 
+
+M: kuyfi tüfa <uh> ngütrammu ta kimi che. 
+C: antes cuando conversaban la gente se conocían.
+
+nmlch-pmscmA1_1_0128pmscm_00: 
+M: Femüy. 
+C: Así es.
+
+nmlch-pmscmA1_1_0127_nmlch_00: 
+M: Papelmu kimlay. 
+C: En el papel no se sabe.
+
+nmlch-pmscmA1_1_0128_pmscm_00: 
+M: Femlayka. 
+C: No es así. 
+
+nmlch-pmscmA1_1_0129_nmlch_00: 
+M: Feyta kimpelafimi tüfey 
+C: Eso no lo sabes 
+
+M: ngülampelaymi ta tami fütakeche 
+C: si daban consejos sus antepasados 
+
+M: ¿kim paymi ta ngülam? 
+C: ¿conocío lo que era el consejo?
+
+M: fey iñchiñ taiñ küpalmemu 
+C: nosotros de nuestra descendencia 
+
+M: papelmu kimlayiñ tati. 
+C: del papel no lo aprendimos pues. 
+
+nmlch-pmscmA1_1_0130_pmscm_00: 
+M: Femimün. 
+C: Así lo hacen.
+
+nmlch-pmscmA1_1_0131_nmlch_00: 
+M: Iñchiñ kimiyiñ ta ngülammu. 
+C: Nosotros conocemos en el consejo.
+
+nmlch-pmscmA1_1_0132_pmscm_00: fey 
+M: Feley tati. 
+C: Bien pues.
+
+nmlch-pmscmA1_1_0133_nmlch_00: 
+M: Ngütram ta l'awen'mawi kütu. 
+C: Hasta se hacían remedio en la conversación.
+
+nmlch-pmscmA1_1_0134_pmscm_00: 
+M: Feley tati peñi. 
+C: Bien pues hermano.
+
+nmlch-pmscmA1_1_0135_nmlch_00: 
+M: Faupüle ka felepelay. 
+C: Por acá no es así.
+ 
+nmlch-pmscmA1_1_0136_pmscm_00: 
+M: Ka feley tati peñi tapüle, 
+C: También es así por acá hermano,
+
+M: iñche ta ka femngechi ngülam ta nielan inche 
+C: yo por eso no tuve consejos 
+
+M: ta lay tañi chau 
+C: cuando murió mi padre
+
+M: aylla tripantu nien ta lay 
+C: tenía noventa años cuando murió 
+
+M: tañi ütrüfpuley tañi chawem 
+C: estaba abandonado mi padre 
+
+M: feyta elulaneu ngülam 
+C: por eso no me dio consejos 
+
+M: tañi ñuke fey doy pichi elueneu ngülam 
+C: mi madre un poco más me dio consejos 
+
+M: feychi ngülammu 
+C: con esos consejos 
+
+M: kichu tañi füta chau 
+C: solo mi gran padre 
+
+M: tañi pieteumu kichu ina duamnenta dungu 
+C: por que me digo eso, solo había seguida las cosas 
+
+M: feymu ta ngülamenu tañi füta chaumu 
+C: por eso me dio consejo mi gran padre 
+
+M: feymu ta yenerpun ta femngechi dungu peñi 
+C: por eso llevo esas cosas hermano
+
+M: feychi ngütram iñi nurmue <!1norume> ta elulaneu ta kiñe, 
+C: esa conversación nadie me la dio, no me dio un,
+
+M: kiñe tañi futacheyem 
+C: un difunto anciano 
+
+M: elulaneu ngütram 
+C: me dejo esta conversación 
+
+M: iñche ta kiñe niekefun 
+C: una que tengo yo 
+
+M: tañi Amtimilla Camaru Domingo Camargu pingefuyem 
+C: Amtimilla Camaru Domingo Camargu se llamaba 
+
+M: tañi füta awelu 
+C: mi gran abuelo 
+
+M: doy awelu niekefun <*SPA>cercano
+C: el abuelo más cercano que tuve 
+
+M: feyta ta pichike ngütramkakefeneu 
+C: era el que mas me conversada 
+
+M: pero küme ngütramkalaneu reke 
+C: pero eran buenas conversaciones 
+
+M: feyta takuletuy 
+C:
+
+M: feyta doy <*SPA>veinticuatro <*SPA>año ni nga 
+C: cuando tenía más de veinticuatro años 
+
+M: lay fey 
+C: murió 
+
+M: <*SPA>cientoveinte <*SPA>cuatro <*SPA>años niey lay 
+C: cianto veinticuatro años cuando murió 
+
+M: pipellelayu uya ngütramkaupiyu nga peñi 
+C: ya le he dicho, ayer le dije hermano 
+
+M: feymu ta feychi che 
+C: por eso esa persona 
+
+M: feyta kontukefeneu, 
+C: este me visitaba, 
+
+M: feyta elelurpueneu 
+C: este me dejó 
+
+M: feychi dungumu 
+C: esas cosas 
+
+M: dejola tañi <*SPA>nombre tüfachi <*SPA>escuela 
+C: dejo el nombre a la escuela 
+
+M: ta pichi tripaley tañi, 
+C: de a poco salio 
+
+M: tañi mülemu tati 
+C: pero esta pues 
+
+M: feychi nombre ta yenerpun 
+C: ese nombre es el que llevo 
+
+M: yeneupuy ta, ta. 
+C: que lleva pues. 
+
+nmlch-pmscmA1_1_0137_nmlch_00: 
+M: Domingo Camaru. 
+C: Domingo Camaru.
+
+nmlch-pmscmA1_1_0138_pmscm_00: 
+M: May.
+C: Sí.
+
+M: Domingo Camargo pingey 
+C: Domingo Camargo se llama
+
+M: Domingo Camargo, 
+C: Domingo Camargo,
+
+M: Domingo Camargo Antimilla pingefuy.
+C: Domingo Camargo Antimilla se llamaba.
+
+nmlch-pmscmA1_1_0139_nmlch_00: 
+M: Pataka epumari meli tripantu mongey. 
+C: Ciento veinticuatro años vivio. 
+
+nmlch-pmscmA1_1_0140_pmscm_00: 
+M: May. 
+C: Sí.
+
+M: Fentepuy tañi mongen 
+C: Hasta hay vivio 
+
+M: feyta iñche we pichi wentrulen 
+C: cuando yo era niñito 
+
+M: wüla ta ütrüfpuy tañi füta aweluyem 
+C: ahora se cayo mi difunto abuelo 
+
+M: fey tüfamu kontupakefeneu 
+C: el aquí me venía a visitar 
+
+M: ngütramkapakeneu 
+C: me venía a convesar 
+
+M: y miaukefuy tremkikiaukefuy 
+C: y andaba, solía andar 
+
+M: iñche ta feychi ta we kurengen 
+C: yo esa vez recién me había casado 
+
+M: tañi lay chi petu tremüm püñeñlan 
+C: todavía no se moría el hijo que se mu murió 
+
+M: petu nielan ta alükechi pu püñeñ 
+C: todavía no tenía a mis hijos 
+
+M: tañi niel feyta nielan ka peñi 
+C: los que tengo todavía nos los tenía hermano 
+
+M: feyta ütrufpuley tañi chem feyta iñche tañi rekojetufiñ 
+C: estaba por caese su, y ahí yo lo recojí 
+
+M: entultufiñ ta <*SPA>permiso <!1permisio> 
+C: le pedí permiso 
+
+M: tañi rekonosetufiñ <*SPA>como <*SPA>nuevo reke 
+C: lo reconocí nuevo nuevo 
+
+M: rekonosetufiñ tañi sepultayafiel 
+C: lo reconosí para supultarlo 
+
+M: deumalafiel ta <*SPA>urna kom 
+C: para hacerle una urna todo 
+
+M: feyta iñche ta <*SPA>hace kargutun 
+C: y así yo me hice cargo 
+
+M: ka feymu chemay ta fey kelluketueneu engün 
+C: quizas por eso me ayudan ahora pues 
+
+M: femngechi küpanche iñcheam familiayem 
+C: de este tipo de familia vengo yo 
+
+M: feymu chemay ayudaketueneu füta chau pilen 
+C: quizas por eso me ayuda el gran padre ahora digo 
+
+M: femfiyem piken ka, 
+C: por que le hice eso digo también, 
+
+M: kiñekemu kayta rakiduamkelu kayta che <*SPA>pues <!1pu'>  
+C: si a veces está pensando la gente pues 
+
+M: chemu chi kiñekemu ta suertengekefun 
+C: quizas por qué a veces tengo tanta suerte 
+
+M: kiñekemukayta wedayauken ka peñi 
+C: a veces ando mal también hermano 
+
+M: feyta doy tañi femkenmu 
+C: este solo cuando me sucede 
+
+M: fey rakiduamünmolu kay 
+C: si yo estoy pensando pues 
+
+M: refalte ta trekayaulay che tipüle 
+C: en vano no anda conversando la gente por ahí 
+
+M: ta tripay che rakiduamüy 
+C: cuando piensa la gente sale 
+
+M: ka rukamu müley che rakiduamküley 
+C: en otra casa hay gente que esta pensando 
+
+M: ka femngechi ta amulerpukefun ka tüfa peñi 
+C: de esa forma también avanzava yo hermano 
+
+M: feyta kiñeke tañi pu püñeñ 
+C: así algunos de mis hijos 
+
+M: tañi pu lof tañi niel taiñ nieteu 
+C: en la comunidad que me tiene 
+
+M: feyta ayudukeneu engün,
+C: estos me ayudan pues,
+
+M:  ngütramkakeneu engün 
+C: me conversan ellos 
+
+M: chem dungu rume ta müley elu dungungeketun 
+C: por cualquier cosa que hubiera me la daban a conocer 
+
+M: y trumkunuafiñ añchi 
+C: y cómo lo iba a dejar así 
+
+M: ka eymiam tüfachi dungu inanielu 
+C: si usted también sigue estas cosas 
+
+M: feyta kümeleliyiñ kümeleanchi 
+C: este si está bien, está bien  
+
+M: ko kümelelay chi pikakeneu kiñekeka, 
+C: el agua estará bien me dicen, a veces 
+
+M: kiñeke ta kom pikeneu ka peñi 
+C: a veces me dicen todo mis hemanos 
+
+M: ka kiñeke tañi pu lofmu 
+C: también algunos de mi comunidad
+
+M: rume weda kampiawürmingün <!1kambiawürmingün> peñi
+C: cambiaron muy mal derrepente hermano 
+
+M:  <*SPA>mucho <*SPA>religion pikake reke 
+C: mecho de religión dicen pues 
+
+M: kanutu kontuyngün ka rüpü 
+C: entraron al camino de los evangélicos 
+
+M: inatuyngün feyta fütra kalewetuy peñi 
+C: se siguieron, esto es muy diferente hermano 
+
+M: feymu ta echaperdeyiñ 
+C: por eso nos hechamos a perder 
+
+M: feymu ta echaperdeleyi ka tati lof ta
+C: y eso así echan a perder a los demás de la comunidad
+
+M: kom tati lof peñi.
+C: de todas la comunidad hermano.
+
+nmlch-pmscmA1_1_0141_nmlch_00: 
+M: Pensangetuy <*SPA>no.  
+C: Pensaba no.
+
+nmlch-pmscmA1_1_0142_pmscm_00: 
+M: Pensangetuy rakiduamngetuy 
+C: ES de pensar eso
+
+M: kuyfi ta kimngekelafuy ka peñi 
+C: antiguamente no se conocía eso hermano 
+
+M: tüfa +/chum/+  chumngechi ta akuyke engün 
+C: aquí quizas como llegaron ellos 
+
+M: rume weda <!1wesa> chemtuyngün 
+C: se cambiaron mucho 
+
+M: feymu wüdamkachetufi 
+C: y así serparó a la gente 
+
+M: y chumngechi ngütramkaukelu tañi puche 
+C: y quizas como conversó con mi gente 
+
+M: kuyfi pütrake kuyficheyem 
+C: antes, bien antiguamente 
+
+M: chumngechi che trokiukefuyem 
+C: quizas que tipo de personas se consideraban 
+
+M: chumngechi tañi kontüukefelem 
+C: quizas como se vistaban 
+
+M: feyta kom aftuy ka peñi.
+C:  esto todo se terminó pues.
+
+nmlch-pmscmA1_1_0143_nmlch_00: 
+M: Ngewetulay kimün. 
+C: Ya no hay conocimiento.
+
+nmlch-pmscmA1_1_0144_pmscm_00: 
+M: Ngewetulay ngewetulay kimün 
+C: Ya no hay, ya no hay conocimiento 
+
+M: ka dungumu chi chumkonpalan iñche
+C: otro idioma como qu eno me entra 
+
+M: feypüle ka tripan 
+C: de por allá salí  
+
+M: kañpüle künüutuan chi chi kimlayafiñ 
+C: en otra parte entre pero no lo conozco 
+
+M: feychi piutuyiñ 
+C: esa vez nos dijimos 
+
+M: ka feymu ta ütrüf, 
+C: también así tiraron,
+
+M: ütrüfneketueyiñmu ta kiñekemu 
+C: nos tiraron a algunos 
+
+M: ka epeke ütrüfkeyiñmu taiñ füta chau.
+C:  está que nos abandona nuestro gran padre.
+
+nmlch-pmscmA1_1_0145_nmlch_00: 
+M: Femngechi amulele engün ta 
+C: Si así siguen ellos ahora 
+
+M: kim mapudunguwetulayayngün rume ka. 
+C: ya no saben habler como Mapuche.
+
+nmlch-pmscmA1_1_0146_pmscm_00: 
+M: Femlayayngün peñi 
+C: No lo harán hermano 
+
+M: fey tati pichikeche tati münakechi cheyem 
+C: los niños ya no valorizan a la gente antigua 
+
+M: ta feyta inaniele küme ngütramkalele tañi fütakeche 
+C: y si este sigue bien, le conversa bien a sus mayores 
+
+M: kom küme inanefile tati kuyfike dunguyem 
+C: y si sigue todo bien los conocimientos antiguos 
+
+M: fey kom petu kampialayafuy
+C: así todo no se cambiaría 
+
+M:  tañi kewün tañi pichikecheyem ka peñi 
+C: la lengua a los niños chicos también hermano
+
+M: tüfa kay femwenolu ka tati kompay tati puche fau pingel 
+C: si ahora no es así pues, entran las perosnas que por aquí le dicen 
+
+M: trewa mollfüñ pikel antati pu wingka 
+C: sangre de perro no dicen los huincas 
+
+M: feykachi <*SPA>profesor mülelu enseñalfuy 
+C: el que profesor que hay debiera enseñar 
+
+M: tañi pichikeche kütrüngkefi tañi kewün tañi dunguyal 
+C: a sus niños, de enseñarle el mapuzugun 
+
+M: rupan rupa dominaymafi tañi kewün engün 
+C: le dominaron la lengua ellos 
+
+M: fey wüla fey ka repente tüfa wüla may 
+C: ahí recién, y derrepente ahora 
+
+M: wüñoletuy feyta ka faltaletuy tati 
+C: está volviemdo, ahora está faltando pues 
+
+M: <*SPA>profesor tati kimalu tati kim mapuche dungulu, 
+C: profesor que enseñe para hablar en mapuzugun, 
+
+M: kim paysanu dungulu 
+C: que sepa hablar mapuzugun 
+
+M: fey tañi niafel tati <*SPA>escuela feyem ta faltaley ta
+C: eso debiera tener en su escuela, eso es lo que falta ahora
+
+M: tüfachi komunidamu peñi.
+C: en esta comunidad hermano.
+ 
+nmlch-pmscmA1_1_0147_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-pmscmA1_1_0148_pmscm_00: 
+M: ¿Bilinwe?. 
+C: ¿Bilingüe?. 
+
+nmlch-pmscmA1_1_0149_nmlch_00: 
+M: Kuyfi kiduengün ta 
+C: Antes se era solo 
+
+M: yafkayngün ka. 
+C: ahora se combinan también.
+
+nmlch-pmscmA1_1_0150_pmscm_00: 
+M: Feyta kichu yagkayngün ka feymu, 
+C: Ahora solo se combinan, 
+
+M: <*SPA>asta <*SPA>que <*SPA>domina feula  
+C: hasta que domina ahora 
+
+M: tañi kewünmu engün 
+C: su lenguaje 
+
+M: kichu tañi kewünmu engün 
+C: solo su lenguaje 
+
+M: fey tüfa kimlu tati 
+C: hasta que lo domina 
+
+M: pu tati pu püñeñ tati 
+C: los, los hijos pues 
+
+M: feyta notungeweketulayngün pu 
+C: no no lo entienden 
+
+M: tüfa kay kim ngütramkawetulay pu che 
+C: la gente ya no sabe conversar 
+
+M: weche kiñeke ta inaduamlu 
+C: algunos jóvenes continuan esto 
+
+M: fey tati kim ngütramkalu tañi fütakeche 
+C: los viejos sabían conversar 
+
+M: fey küme ngülamlu tañi pu püñeñ 
+C: aconsejaban bien a sus hijos 
+
+M: ta fütakeche feyta kiñeke inanewi 
+C: y esto algunos no más lo continuan 
+
+M: kiñeke ta femlay peñi 
+C: otros ya no lo hacen hermano 
+
+M: feyta wedaletuyiñ ta feymu ka. 
+C: por eso estamos mal. 
+
+nmlch-pmscmA1_1_0151_nmlch_00: 
+M: Femi may. 
+C: Así es.
+
+nmlch-pmscmA1_1_0152_pmscm_00: 
+M: Feychi dungumu 
+C: Esos temas 
+
+M: ta feychi ta weñanküngey, 
+C: esos causan trizteza,
+
+M: rakiduamüngey ka peñi. 
+C: cuando se piensan hermano.
+
+nmlch-pmscmA1_1_0153_nmlch_00: 
+M: ¿Ta pichike lamngen 
+C: Los pequeños hermanas 
+
+M: pichike peñi 
+C: los niñitos 
+
+M: kimwetulay dungu nurume <!1norume> ka?  
+C: ya no saben de algunos temas?
+
+nmlch-pmscmA1_1_0154_pmscm_00: 
+M: Dungün wetulay 
+C: Hay temas que ya no están 
+
+M: chemu rume ta kimwetulay iyagel 
+C: lo de las comidas ya no se conoce 
+
+M: tañi ikefel tañi fütakecheyem 
+C: lo que consumian los difuntos ancianos 
+
+M: kimwetulayngün 
+C: ya no lo conocen 
+
+M: chumngechi kunungeken, 
+C: como me dejaban,
+
+M: chumngechi adümfielengün, 
+C: como lo preparaban, 
+
+M: ngewetulay ka peñi inaduamwetulay. 
+C: ya no hay hermano ya no lo continuan. 
+
+nmlch-pmscmA1_1_0155_nmlch_00: 
+M: Llellipun nurume <!1norume>? 
+C: Roge
+
+nmlch-pmscmA1_1_0156_pmscm_00: 
+M: Ngellipun ta feyta olvidatufingün 
+C: La rogativa Mapuche se les olvida 
+
+M: ka fey ayentutufi tati ngellipulu 
+C: también debiera interesarles la rogativa Mapuche 
+
+M: fey tati religion 
+C: eso la religion 
+
+M: tati yenelu ayentuchetuy tati yenelu 
+C: 
+
+M: inanerpulu tañi elurpual taiñ fütakecheyem 
+C: debemos continuar los que nos dejaron los difuntos ancianos 
+
+M: ka kampiatuy 
+C: porque esta cambiado 
+
+M: feymu ta *ngochaf kületuyiñ 
+C: como que esta en la boca no más   
+
+M: feymu ta rume wedaletuy tati 
+C: por eso es que esta muy mal 
+
+M: küpan tati puche 
+C: la descendencia de la gente 
+
+M: tati lofche 
+C: la gente de la comunidad 
+
+M: kompüle ta tati mapu 
+C: de todas partes de la tierra 
+
+M: ta femay ka peñi 
+C: así lo hacen hermano 
+
+M: femkunufemnole anta ñi füta chau 
+C: si así no le dejará el gran padre 
+
+M: kay feymu anta felerpulay 
+C: quizas por eso está así 
+
+M: tañi feychi dungu tripaupuy tati 
+C: de esas cosas están saliendo pues 
+
+M: feychi dungu peñi 
+C: ese asunto hermano 
+
+M: feyta rakiduamüngey welu. 
+C: es del pensamiento. 
+
+nmlch-pmscmA1_1_0157_nmlch_00: 
+M: Eymi especialmente tami rakiduamal pu peñi. 
+C: Tu especialmente en su pensar hermanos.
+
+nmlch-pmscmA1_1_0158_pmscm_00: 
+M: Fey feley tati. 
+C: Así bien hermano pues.
+
+nmlch-pmscmA1_1_0159_nmlch_00: 
+M: Eymiam tamu ñidol külelu. 
+C: Tu eres un dirigente acá.
+
+nmlch-pmscmA1_1_0160_pmscm_00: 
+M: Feley. 
+C: Bien.
+
+nmlch-pmscmA1_1_0161_nmlch_00: 
+M: Eymiam tüfamu longkolelu. 
+C: Tu eres autoridad Mapuche acá.
+
+nmlch-pmscmA1_1_0162_pmscm_00: 
+M: Feley <!1feli> tati nay. 
+C: Así es pues. 
+
+nmlch-pmscmA1_1_0163_nmlch_00: 
+M: Feyta müley tami rakiduamal 
+C: 
+
+M: ¿fey chumngelu chi?. 
+C: ¿por qué es así? 
+
+nmlch-pmscmA1_1_0164_pmscm_00: 
+M: Femüy tati peñi. 
+C: Soy así pues hermano.
+
+nmlch-pmscmA1_1_0165_nmlch_00: 
+M: Eymiam tüfamu wenuntunelu dungu 
+C: Acá usted tiene que levantar este asunto 
+
+M: mapuche tañi kümeke dungu 
+C: el Mapuche tiene buenos temas 
+
+M: falintunel tati. 
+C: de valor pues.
+
+nmlch-pmscmA1_1_0166_pmscm_00: 
+M: Fey.
+C: Sí. 
+
+nmlch-pmscmA1_1_0167_nmlch_00: 
+M: Folil dungu tati. 
+C: Es de herencia pues.
+
+nmlch-pmscmA1_1_0168_pmscm_00: 
+M: Feley tati 
+C: Bien pues
+
+M: fütakecheyem 
+C: los difuntosd ancianos 
+
+M: tañi elelurpuel tañi fütakecheyem 
+C: los que nos dejaron nuestros antepasados
+
+M: chumngechi tañi mongefelem kuyfi, 
+C: de cómo era la vida antiguamente,
+
+M: kuyfi tañi chumlekefelem tañi fütakeche 
+C: de cómo estaban sus antepasados 
+
+M: chumngechi tañi kimpan 
+C: de cómo aprendieron 
+
+M: tañi dungu engün 
+C: sus cosas ellos 
+
+M: felerpulu feyta newelay ta tüfa ka peñi 
+C: así como era ya no está pues hermano 
+
+M: feychi dungu inanetufili 
+C: pero si seguimos ese conocimiento 
+
+M: falikonputuafuyiñ 
+C: nos valorarían más 
+
+M: ka wüñotutuafuyiñ reke ka peñi 
+C: también lo reeecontraríamos hermano 
+
+M: tüfa ta femwekalayiñ 
+C: ahora no hacemos eso
+
+M: ka kiñeke ta dunguluwi
+C: también algunos se hablan 
+
+M: kiñeke ta dunguluwetulayiñ peñiwen, 
+C: hay algunos que ni siquira se halan entre hermanos 
+
+M: lamngenwen, chemngewe rume 
+C: entre hermans, entre la gente nueva 
+
+M: feyta ngeweketulay küme ngülam, 
+C: ya no hay buenos consejos,
+
+M: küme ngütram kontuen ngewetulay ka peñi 
+C: la buena conversación ya no entra hermano 
+
+M: pentukuwün ngewetulay 
+C: el saludo de bienvenida ya no esta 
+
+M: feyta aftuy.
+C: eso se termino.
+
+nmlch-pmscmA1_1_0169_nmlch_00: 
+M: Falin dungufel tüfey. 
+C:  Eso era algo valido pues.
+
+nmlch-pmscmA1_1_0170_pmscm_00: 
+M: Kuyfi ta che 
+C: La gente antigua 
+
+M: trokiufuy che 
+C: que era así 
+
+M: kontuwi y ngütramkawi 
+C: que cuando entraba y andaban conversando 
+
+M: küme pentkuwi 
+C: bien hacían el saludo de bienvenida 
+
+M: külake antü 
+C: de tres días 
+
+M: epuke antümu 
+C: de dos días 
+
+M: rulpawi peufuy ta che 
+C: y así pasaba mirándose la gent e
+
+M: tüfa ta femwelay peñi 
+C: esto ya no se hace hermano 
+
+M: feymu ta wedaletuyiñ ta rakiduamüngey
+C: por eso estamos mal de nuestro pensamiento 
+
+M: tañi femeketun ta ñi pu püñeñ 
+C: así estamos nuestros hijos 
+
+M: ka feymu ta fey ngo chapümnakümneymangetuyiñ 
+C: por eso todo lo juntamos  
+
+M: taiñ fütrakecheyem 
+C: nuestros difunto ancianos  
+
+M: taiñ pu peñi 
+C: a nuestros hermanos 
+
+M: feymu ta inangewetulay 
+C: por eso ya no se continua 
+
+M: feymu ta pichi kaletuyiñ peñi 
+C: estamos un pococ apartados hermano 
+
+M: kampialetuy <!1kambialetuy> tati kom 
+C: todos estamos cambiados 
+
+M: tati pu familia pu püñeñ 
+C: nuestras familias, hijos 
+
+M: yenerputuy ka dungu 
+C: andan con otra cosa 
+
+M: ka newe ngünewetulafiyiñ 
+C: también no lo pude dominar mucho 
+
+M: elufuyiñ 
+C: lo que nos dejaron 
+
+M: rume ta ngülam newe <*SPA>toma <*SPA>cuenta 
+C: el consejo ya no lo toman en cuenta 
+
+M: wetuymatulaneu tañi ngülam 
+C: me le hacia caso de sus consejos 
+
+M: tañi ngütram ka peñi 
+C:  también nuestras conversaciones 
+
+M: falintuwetuymalaeymu 
+C: no lo valorizan 
+
+M: feyta wedaletuy 
+C: por eso esta mal 
+
+M: feymu ta chengetulayiñ 
+C: por eso ya no somos gente 
+
+M: fey ka rakiduamüngey, 
+C: eso es lo que piensa,
+
+M: rakiduamüngey tañi femün ta che 
+C: así es como piensa la gente
+
+M: feymu ta püchilewiyiñ ta 
+C: por eso somos pocos 
+
+M: iñchiñ taiñ witrampüramken dungu 
+C: nosostros levantamos este asunto 
+
+M: tañi inaneal tañi lofmu 
+C: y lo continuamos en nuestra comunidad 
+
+M: fey tüfa wüñotuletufuy adempeñufuliyiñ 
+C: 
+
+M: küme ngütramkafiliyiñ 
+C: debemos conversar de buena forma 
+
+M: küme rakiduamliyiñ tati 
+C: así estaremos pensando bien pues
+
+M: wünen külelu 
+C: los mayores 
+
+M: kom küme ngütramkatule 
+C: todos bien deben conversar 
+
+M: tañi pu püñeñ wiñotuafuy ka peñi 
+C: nuestros hijos recuperaran esto hermano 
+
+M: femnole kay 
+C: si no lo hacen 
+
+M: feyta wüñolayay ka peñi. 
+C: esto no va a recuperarse hermano.
+
+nmlch-pmscmA1_1_0171_nmlch_00: 
+M: ¿Eymün ngellipukeymün fill tripantu? 
+C: ¿ustedes hacen rogativa todos los años?
+
+nmlch-pmscmA1_1_0172_pmscm_00: 
+M: Fill tripantu 
+C: Los diferentes años 
+
+M: fey fill tripantu ngellipukeyiñ 
+C: asi todos los años vamos hacer rogativa Mapuche 
+
+M: ka tati we tripantu pingey 
+C: a eso año nuevo que le dicen 
+
+M: fey ka tüfa küla tripantumu empesanefiyiñ fey. 
+C: y hace tres años que empezamos.
+
+nmlch-pmscmA1_1_0173_nmlch_00: 
+M: ¿Trawükeymün?. 
+C:  ¿Se reúnen?.
+
+nmlch-pmscmA1_1_0174_pmscm_00: 
+M: May. 
+C: Sí.
+
+M: Feymu trawükeyiñ kiñe antü 
+C: Por eso nos juntamos un día 
+
+M: fey resibikefiyiñ tati we tripantu. 
+C: y así reibimos el año nuevo.
+
+nmlch-pmscmA1_1_0175_nmlch_00: 
+M: Wetripantumu.  
+C: En el nuevo año.
+
+nmlch-pmscmA1_1_0176_pmscm_00: 
+M: May.
+C: Sí.
+
+M: We tripantumu fey tüfa enerumu kay
+C: El año nuevo en el mes de enero 
+
+M: fey tati apochi küyen piy 
+C: cuando es luna llena dicen 
+
+M: chingkürchi küyenmu piy ta wingka 
+C: a media luna dice el huinca 
+
+M: ka paysanu ta fey tati 
+C: otro pasado pues 
+
+M: apoy küyen 
+C: en luna llena 
+
+M: chingküri ta küyen piy 
+C: a media luna dicen 
+
+M: ta feymu ta feychi küyenmu 
+C: por eso en esa luna 
+
+M: kiñe kintupüra 
+C: uno lo fue a buscar arriba 
+
+M: tripapachi küyenmu tati 
+C: acá donde sale la luna pues 
+
+M: dumdumnagi pun 
+C:cuando esta oscureciendo en la noche 
+
+M: nagi chi küyen 
+C: cuando bala la luna 
+
+M: feyta tripapachi küyenmu 
+C: así viene a salir en la luna 
+
+M: feyta legkunukefiyiñ fey küyen feymu ta, 
+C: y llego justo a la luna por eso,
+
+M: feymu ta ngellipukeyiñ. 
+C: entonces hicimos rogativa Mapuche.
+
+nmlch-pmscmA1_1_0177_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+M: Femngechi. 
+C: Así es.
+
+nmlch-pmscmA1_1_0178_pmscm_00: 
+M: Femngechi ta inanefiyiñ tañi, 
+C: De esa forma lo continuamos, 
+
+M: tañi ngellipukemu ka peñi 
+C: le hacemos rogativa Mapuche hermano
+ 
+M: tañi taiñ afisakemu tañi tukutukenmu, 
+C: y le entrramos a avisar,  
+
+M: tañi afisakenmu taiñ füta chau. 
+C: le avisamos a nuestro gran padre.
+
+nmlch-pmscmA1_1_0179_nmlch_00: 
+M: Küme kunukeymun tati peñi 
+C: Bien han dejado hermano 
+
+M: feyta ñangümlayafimün <!1*müñagnayafimün> feychi dungu ka. 
+C: para que no se pierda esta cosa.
+
+nmlch-pmscmA1_1_0182pmscm_00: 
+M: Femlayafiyiñ ka peñi. 
+C: No lo hice hermano.
+
+nmlch-pmscmA1_1_0180_nmlch_00: 
+M: Eymiam nielu fütüm 
+C:  Tu que tienes hijos 
+
+M: feyta elunefilmi feychi ngülam 
+C: le entregas estos consejos 
+
+M: tami fu füren, 
+C: tu confianza, 
+
+M: tami pu afkadi 
+C: tus ayudantes 
+
+M: fey newentuleaymün tati. 
+C: así vana tener fuerza pues.
+
+nmlch-pmscmA1_1_0181_pmscm_00: 
+M: Femafuyiñ ka peñi 
+C: Así hicimos también hermano 
+
+M: femafuyiñ feyta 
+C: hicimos eso pues 
+
+M: fey tañi newentukafel engün müten 
+C: eso solo con nuestra fuerza no más 
+
+M: tañi +/puch/+ tañi pu püñeñ 
+C: con mis hijos 
+
+M: taiñ pu ka tañi kelluniateu, 
+C: los que me van a ayudar, 
+
+M: tañi ayudaketeu, 
+C: los que ayudaran,
+
+M: tañi chem dungu rume ta nien 
+C: para cualquier cosa que tengo 
+
+M: tañi *yukeyawültuketeu iñche ta apüm nakümrumelayafiñ 
+C:
+
+M: feychi dungu peñi. 
+C: ese asunto hermano.
+
+nmlch-pmscmA1_1_0182_nmlch_00: 
+M: Tami pu famlayaymu.
+C: Ustedes no lo van hacer.
+
+nmlch-pmscmA1_1_0183_pmscm_00: 
+M: Iñche tüfi femlayaneu 
+C: A mi no me lo hizo 
+
+M: chemrumelayaneu 
+C: cualquier cosa no me hace 
+
+M: chemuchi chi ta femün fankunutuchi
+C: quizas cuando me sucedió eso, los deje así 
+
+M:  elkunutuchi apümtuchi feychi dungu 
+C: deje dejar esas cosas, terminar esas cosas 
+
+M: adümwetulafiñ pir pirumelayan ka peñi 
+C: no lo voy aprender artiro no dije yo hermano 
+
+M: feyta kümelay ta feypin tati 
+C: eso no es bueno dice pues 
+
+M: deu küme dunguy che 
+C: cuando lo hace es bueno para la gente 
+
+M: kümey ta dungu ta che 
+C: bueno son los temas de la gente 
+
+M: eluwi ta kiñe dungu 
+C:le dajan las cosas 
+
+M: feyta kümey ka peñi 
+C: eso es bueno hermano 
+
+M: ketrontukutuy kay 
+C: cuando esta quieto 
+
+M: feyta kümelay ka. 
+C: eso no es bueno pues.
+
+nmlch-pmscmA1_1_0184_nmlch_00: 
+M: Wechakunukey pingey. 
+C: Dejo mal le dicen. 
+
+nmlch-pmscmA1_1_0185_pmscm_00: 
+M: Wedakunuy <!!wesakunuy> 
+C: Mal dejo pues
+
+M: feyta ñi yafkakenmu ta füta chaumu 
+C: y por eso se enojaba mi gran padre 
+
+M: ta cheka feymu ta ka kümekalay 
+C: y las otras personas por eso no están bien 
+
+M: feymu ta küpamkelafiñ 
+C: por eso no lo traía  
+
+M: chumtepun tañi chumtepuan 
+C: 
+
+M: witrañpüramliy chumtelewefuliyiñ 
+C: voy a levantar para arriba todo los que estamos quedando 
+
+M: rume pichilepe 
+C: de a poco 
+
+M: rume amulnerpuafiñ pilen 
+C: voy a seguir estoy pensando 
+
+M: tañi rakiduam ka peñi
+C: en mi pensamiento hermano 
+
+M: feychi dungu ta nien ta witrampünefun 
+C: esa cosa yo la levante  
+
+M: femneli kellukunuelimu tañi pun püñeñ 
+C: si me hacen esto, si me ayudan mis hijos 
+
+M: tañi kom tañi yiwüdnieteu 
+C: todos mis nietos 
+
+M: iñche ta apüm rumelayafiñ ta feychi dungu peñi 
+C: yo no voy aterminar esas cosas hermano 
+
+M: <*SPA>ojala kom amul layafun 
+C: ojala todo lo entregara 
+
+M: doy tripantumu doy trawüye kümele tañi pu püñeñ 
+C: en más años, si se juntan bien todos mis hijos 
+
+M: wiñotutule tañi dungu ta pü püñeñ 
+C: si le entregan esas cosas a sus hijos 
+
+M: iñche kay feymu ta doy chengelüutuan, 
+C: y si a  mí hay voy a estar más 
+
+M: yafü doy yafülüutuan ka peñi.
+C:  fortaleza, más fortaleza voy a tener hermano.
+
+nmlch-pmscmA1_1_0186_nmlch_00: 
+M: Kichulenolu eymi kay. 
+C: Usted no estas solo.
+
+nmlch-pmscmA1_1_0187_pmscm_00: 
+M: Kichulelewetulayan 
+C: No voy a estar solo 
+
+M: kichukunungewetulayan ka peñi 
+C: ya no me van a dejar solo hermano 
+
+M: fey yudüutukli feymu ta ayiukületuan 
+C: 
+
+M: y femeneu engün nga piy 
+C: y eso me hecieron dijo 
+
+M: iñche rakiduamkülean ka peñi. 
+C: eso es lo que pienso hermano.
+
+nmlch-pmscmA1_1_0188_nmlch_00: 
+M: ¿Tunten familia nieymi 
+C: ¿Cuánta familia tienes 
+
+M: eymi fotüm? 
+C: tienes hijos?
+
+nmlch-pmscmA1_1_0189_pmscm_00: 
+M: Iñche epu nien ta fotüm peñi, 
+C: Yo tengo dos hijos hermano,
+
+M: epu fotüm ta nien 
+C: dos hijos tengo 
+
+M: ka kechu ñawe. 
+C: y cinco hijas.  
+
+nmlch-pmscmA1_1_0190_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+M: Kechu ñawe. 
+C: Cinco hijas. 
+
+nmlch-pmscmA1_1_0191_pmscm_00: 
+M: May. 
+C: Sí.
+
+nmlch-pmscmA1_1_0192_nmlch_00: 
+M: Alün ngeymün regle. 
+C: Son artos, son siete.
+
+nmlch-pmscmA1_1_0193_pmscm_00: 
+M: May. 
+C: Sí.
+
+M: Regleleyiñ ta, ta, 
+C: Somos siete,
+
+M: regleleyiñ tañi püñeñtu 
+C: somos siete hijos  
+
+M: feyta ütrüfkülenuam tañi chau 
+C: por eso se cayo mi padre 
+
+M: füta chau 
+C: el gran padre 
+
+M: rume ta ütrüf rumekelaneu 
+C: nunca me boto 
+
+M: feyta kom tañi pu püñeñ 
+C: y por eso todos sus hijos 
+
+M: ta petu afkadineneu ka peñi fey ñi kudeyma müten ta pichikey 
+C:
+
+M: pichi weda kutran 
+C: pequeña mala enfermedad
+
+M: ñankokey kutranki tati feyka,
+C: no esta bien, esta enferma pues 
+
+M: fey tüfa ka kiñeke antü kümlekey, 
+C: pero a veces algunos días se siente bien, 
+
+M: kiñeke antü ka pichike kutrankülekey 
+C: o otros días un poco mal se siente 
+
+M: felerpukey <*SPA>pero trekayauki 
+C: así no más esta pero siempre anda caminando 
+
+M: <*SPA>nunca kichukunukelaneu 
+C: nunca la dejan sola 
+
+M: ka kichu ütrüukunüuchi, 
+C: solo se le cayo 
+
+M: umaukunuchi, 
+C: estaba dormido, 
+
+M: famkunuchi pikelay  
+C: nunca dice lo voy a dejar así 
+ 
+M: ka kon kichu tañi empeñumu
+C: y todo solo con su empeño 
+
+M: ta fey küdauküley 
+C: andaba trabajando 
+
+M: ka witrañpüramnekefi kom 
+C: a todos lo va a levantar 
+
+M: fey kiñekemu 
+C: a algunos 
+
+M: feyta kom penepauyu tañi puche 
+C: y a todos vinvimos a ver a mi gente 
+
+M: fey kichu kellunepatuy 
+C: solo venia a yudar 
+
+M: kichu feymu deskansakey fachantü mayta 
+C: solo hoy día tenia para decansar 
+
+M: *auyuntupayu fey kichu leyu tati 
+C: 
+
+M: fey tüfa we tripaley tañi fakasionmeu 
+C: ahora recién están saliendo de vacaciones 
+
+M: <!1vakasionmu> tañi pu püñeñ
+C: mis hijos 
+
+M:  küdaumu feyta tripankepiy...     
+C:  en el trabajo van asalir dicen...

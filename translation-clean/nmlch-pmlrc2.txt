@@ -1,0 +1,1899 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmlrc2 
+; Last changes made on 01/18/2003 
+; Transcriber: Cristian C. Anton 
+; Comments:  
+;Traduce: Gloria Caniulen.
+
+nmlch-pmlrc2_1_0000_pmlrc_00:
+M: <*SPA>Canallamu miauwelay 
+C: No ando más por el canal
+
+M: ta mülenolu kay ngepay 
+C: cuando vine no estaba
+
+M: wüño iyalpakefuy pesado <!1pesau> 
+C: traía comida pesada
+
+M: <*SPA>y <*SPA>este  wedake <!1weyake>
+C: y este es malo
+
+M:  wingkamu ta elueyu tamu küdau 
+C: el winca le dio trabajo
+
+M: paysanu adkintunefiyu mamüll lelinepay
+C: lo miraba el paisano mirando el palo
+
+M: ngünen kani rume weda 
+C: le mintieron, muy malo
+
+M: <*SPA>pueblo <!1pueulu> müley tamu müna weda <!1weya>
+C: en el pueblo esta lo malo
+
+M: <*SPA>pueblo <!1pueulu> rume pofre ngenolu
+C: el pueblo no es muy pobre
+
+M:<*SPA> alguna <*SPA>cosa entriafuy tamu che, entriafuy 
+C: alguna cosa, la gente podría morir del ambre
+
+nmlch-pmlrc2_1_0001_nmlch_00: 
+M: Wingka tüfamu üllamchey 
+C: ¿Aquí los wincas desprecian a la gente 
+
+M: kay üllamfi mapuche
+C: y a los mapuches también?
+
+nmlch-pmlrc2_1_0002_pmlrc_00: 
+M: Pichi üllamngepay mapuche 
+C: Si, desprecian un poco
+
+M: <*SPA>alcalde kiñe nieyiñ kiñe weda <!1weya>
+C: tenemos un Alcalde, uno malo
+
+M: alcaldenga <*SPA>campesino weda
+C: el Alcalde era campesino malo
+
+M <*SPA>alcalde <*SPA>pero kiñel küley paysanu 
+C: el Alcalde esta de acuerdo con el paisano
+
+M: küdautu kidumu ta epu wingka pelümi 
+C: trabaja solo con el winca, se alumbran
+
+nmlch-pmlrc2_1_0003_nmlch_00: 
+M: Wedacheli <!1wechacheli> 
+C: ¿Trata mal a la gente?
+
+nmlch-pmlrc2_1_0004_pmlrc_00:
+M: Ngoyma wedachewi <!1wesachewi> 
+C: Repente se volvió malo
+
+M: paysano lululi tripay 
+C: el paisano salió con harto boche
+
+M: kakelu küdautualu ka küla küyen 
+C: otros van a trabajar tres meses
+
+M: epu küyen küdaumekeal yekeñ yagel <*SPA>nomas
+C: dos meses tengo que trabajar y llevo comida nomás 
+
+M: walüngam chemu ta ngülliu
+C: en la cosecha de piñones 
+
+M: ngekeyiñ ta nukawiyiñ 
+C: comimos y hacemos rancho
+
+M: ta chemu wüla marzo !1marsu>
+C: hasta el mes de marzo
+
+M: püle wüla kümekey ta <*SPA>cosecha ngülliu
+C: por ahí esta la cosecha de piñones
+
+M: ka felekey <feleki> ngülliu piñone pikel 
+C: así es, piñones le dicen
+
+nmlch-pmlrc2_1_0005_nmlch_00:
+M: ¡Aa! fey ngülliu piñon 
+C: ¡Aa! Cierto, ngülliu es piñón
+
+nmlch-pmlrc2_1_0006_pmlrc_00: 
+M: Piñon llemay <!1lema> 
+C: Piñón es pues
+
+nmlch-pmlrc2_1_0007_nmlch_00:
+M: Eymün feyta 
+C: Ustedes entonces
+
+nmlch-pmlrc2_1_0008_pmlrc_00:
+M: Feyta fendefiyiñ feyta iyagel eluketueyiñmu pukem 
+C: Entonces lo vendimos y de ahí nos da para comer en el invierno
+
+nmlch-pmlrc2_1_0009_nmlch_00:
+M: Feytichi ngülliu l'awen' ngekelay 
+C: ¿Estos piñones no lo usan para remedio?
+
+nmlch-pmlrc2_1_0010_pmlrc_00: 
+M: <*SPA>No l'awen'nge peafuy kimlafiñ, 
+C: No, no creo que se use para remedio, no lo se
+
+M: l'awen'ngepeafuy
+C: No creo que sea remedio
+
+nmlch-pmlrc2_1_0011_nmlch_00:
+M: Chemu anta ngillatukeymün eymün
+C: ¿Conque hacen ngillatun ustedes?
+
+M: feymu ngillatukeymün 
+C: con eso hacen ngillatun?
+
+nmlch-pmlrc2_1_0012_pmlrc_00: 
+M: Feymu ta ngillatukiyiñ müten tati
+C: Con eso nomás hacemos el ngillatun
+
+
+M: küme akuam *dengill <!1dengüll>
+C: para que salgan bien los porotos
+
+M: <*SPA>como, <*SPA>como <*SPA>siembra ngillatukerkelay che niy 
+C: como... como..., no hacemos ngillatun en la siembra
+
+M: <*SPA>siembra femngechi tamu ta sembraule 
+C: de esa manera se hace la siembra
+
+M: chem rume tripakelay 
+C: ninguna cosa sale
+
+M: kachilla perdekey <!1perdeki> 
+C: trigo se pierde
+
+nmlch-pmlrc2_1_0013_nmlch_00: 
+M: <*SPA>Alfalfa welu tukukerkimün 
+C: ¿Ustedes siembran alfalfa?
+
+nmlch-pmlrc2_1_0014_pmlrc_00:
+M: May tüfa iñche tukunefun
+C: Si, yo he sembrado
+
+M: ka ko penewetulan 
+C: pero no hay agua
+
+M: ka kiñe <*SPA>virtiente nien
+C: tengo una vertiente
+
+M: timu kiñeptra <*SPA>poso nien <%> 
+C: allá tengo un pozo grande
+
+M: epe kiñe metro koniy
+C: hondo como un metro
+
+M: fey mülewetulay 
+C: ahora no esta
+
+M:<*SPA>motor kiñepchi 
+C: un motor chico
+
+M: <*SPA>motor chupayalu ta ko
+C: el motor tira el agua
+
+M: pitueneu tañi pu *kültükou 
+C: mi gente me han dicho
+
+M: mekeupeyu chumül epe nalüupefuyu
+C: discutimos al otro día casi nos guasqueamos
+
+M:  wingkamu kim chumalanta tukun ellakumu afena
+C: el winca del pueblo me dijo para que va a sembrar avena
+
+M: tukuan pifun
+C: quería sembrar
+
+ M: tukunge <*SPA>alfalfa tukunge müley 
+C: siembre alfalfa que hay semilla
+
+M: <*SPA>para <!1pa'> faltatuy kiñe <*SPA>motor kiñepchi 
+C: para, falta un motor chico
+
+M: <*SPA>motor mangeramu entufemmeafun ko
+C: un motor con manguera para sacar agua
+
+M: timu fey regayam 
+C: así puedo regar
+
+M: ta tufa wüla 
+C: entonces ahora
+
+M: wengen wüla tukunelkefiñ 
+C: recién ahora lo estoy ocupando
+
+M: <*SPA>eso umauye mauma tukufilu iñche
+C: eso, cuando lo coloque no pude dormir
+
+M: fey tati seg wünelu feyta rume kümelkali ka 
+C: así pues entonces estuvo muy bien
+
+M: <*SPA>algo feymu ka feley ka ko
+C: ahora así esta mejor con el agua
+M. tamu <%> palla ka feletuy nielu
+C: otros están igual, los que tienen
+
+M: deu <!1seu> iñche rükütueneu ñi ko 
+C: ahora me mezquinan mi agua
+
+M: TAIÑ PU WENIY, TAIÑ PU JENNY
+C: MI AMIGO, MI AMIGO..............
+
+M: <*SPA>para <*SPA>arriba <!1pa'riba> mülelu eluwetulaneu ko
+C: para arriba, los que están no me dan agua
+
+M: feymu <*SPA>sin koley kiñe virtiente <!1virgente> 
+C: y de ahí sin agua está la vertiente
+
+M: nieyiñ feymu tokayiñ ti fey
+C: tenemos allí y tocamos eso
+
+M: <*SPA>nunca arkükelay kom 
+C: nunca se secan todos
+
+M: <*SPA>parte tripaley küla <*SPA>parte 
+C: en parte salen quilas en parte
+
+nmlch-pmlrc2_1_0015_nmlch_00: 
+M: Müna weda <!1wecha> <*SPA>no fill püle faltay ko ka
+C: Que pena, por todas parte falta el agua
+
+ M: faupüle ka kiñeke püle faltaley ko ka fey 
+C: ¿por aquí también a algunos les falta?
+
+nmlch-pmlrc2_1_0016_pmlrc_00: 
+M: Ka faltaley 
+C: También falta
+
+nmlch-pmlrc2_1_0017_nmlch_00: 
+C: ¡Aa! 
+
+nmlch-pmlrc2_1_0018_pmlrc_00:
+M: Nieliyiñ ko 
+C: Si tenemos agua
+
+M: yem rume kümelkaleafuy che 
+C: en cualquier cosa podría estar bien la gente
+
+M: sembrayetuam lunemu ka pichi wütuwayiñ 
+C: el Lunes voy a sembrar, voy a ir a mirar u poco
+
+nmlch-pmlrc2_1_0019_nmlch_00:
+ M: ¡Aa! feyti kay peñi
+C: ¡Aa!, así es peñi
+
+M: ta kiñe kutran ka müleyi 
+C: en un malestar estamos
+
+M: ta <uh> wechalka kunukey <!1kunuki> 
+C: que lo deja mal
+
+M: che wauyufengelu kay 
+C: la gente tiene hemorragia nasal
+
+M: ti müley che faupüle wauyufengelu 
+C: por aquí hay gente que le da hemorragia nasal
+
+nmlch-pmlrc2_1_0020_pmlrc_00:
+M: müte mülelay kuyfi
+C: Antes no había mucho
+
+ M: ta mülekefuy doy 
+C: ahora hay más
+
+M: ka mülelay chi newe wauyukelay ta che 
+C: no hay mucha gente que le da la hemorragia 
+
+nmlch-pmlrc2_1_0021_nmlch_00: 
+M: Kimlafimi chem l'awen' ñi putuken engün 
+C: ¿No sabe que remedio se puede tomar?
+
+nmlch-pmlrc2_1_0022_pmlrc_00: 
+M: <*SPA>No kimlafiñ feyta kimlafiñ, kimlafiñ 
+C: No se, eso no se
+
+
+nmlch-pmlrc2_1_0023_nmlch_00: 
+M: mapuchemu kay chem l'awen' pütokokimi 
+C: ¿En los mapuche que remedio se toma?
+
+
+nmlch-pmlrc2_1_0024_pmlrc_00:
+M: Mapuchemu ta <P> feyta ye chaychayka atreu komu 
+C: En lo mapuche se lava la cara con agua fría
+
+M: ta chaychayka longkowi ta che rupakey <!1rupaki>
+C: se lava la cabeza la gente y pasa la hemorragia
+
+M: ta *dayiwelüukemu umauki allwe
+C: y duerme pasivo
+
+M: ka kiñe menta pingey tati müley <!1müli> 
+C: uno que se llama menta dicen que hay
+
+M: mayta <*SPA>silvestre pingey
+C: si, dicen que es silvestre
+
+M: ka feymu ta chemkey <!1chemki>
+C: así es, que calma
+
+M: küchaka longkey <!1longkoki> 
+C: se lava la cabeza
+
+M: ta wauyulu iñche
+C: repente me cae sangre en las narices
+
+M:  fey kuyfi fel 
+C: antes era así
+
+M: doy felekefun 
+C: antes me pasaba eso
+
+M: fe tüfa fey femüwekelay che 
+C: ahora la gente no le pasa esto
+
+nmlch-pmlrc2_1_0025_nmlch_00: 
+M: Femuekelay 
+C: No le pasa eso ahora
+
+nmlch-pmlrc2_1_0026_pmlrc_00:
+M:  Femuekelay 
+C: No le pasa eso ahora
+
+nmlch-pmlrc2_1_0027_nmlch_00: <Cough>
+M: Feula feymu feyta <P> <uh> femngechi <!1femuechi> kutran müte mülewelay 
+C: Ahora con eso no pasa, ahora no hay esa enfermedad
+
+nmlch-pmlrc2_1_0028_pmlrc_00:
+M: Mülewelay fente mülewelay
+C: No hay tanto ahora
+
+ <hm>  <P> 
+M: müli mülekefuy kuyfi tüfa <*SPA>no 
+C: antes había eso no
+
+nmlch-pmlrc2_1_0029_nmlch_00:
+M: ¿müliy kay tüfa chi kiñe kutran müley
+C: ¿hay una enfermedad que hay
+
+M: kiñeke tripakey <!1tripaki> ta rüngül pilun? 
+C: abecés aparece dolor de oído?
+
+nmlch-pmlrc2_1_0030_pmlrc_00:
+M: Ttripakelay newe tripakelay chi 
+C: Pocas veces sale
+
+nmlch-pmlrc2_1_0031_nmlch_00: 
+M: Newe tripakelay 
+C: Poco sale
+
+nmlch-pmlrc2_1_0032_pmlrc_00: 
+M: <*SPA>no feyti rügül pilun tripakelay 
+C: No, ese dolor de oído no sale
+
+M:<*SPA>tampoco <*SPA>muy <*SPA>alguno niekakelay amfe
+C: tampoco, muy alguno lo puede tener
+
+M:  iñche newe peukenolu puche iñchiñ 
+C: yo no me he visto mucho con los demás
+
+M: <*SPA>claro müleyefuy pu Jenny
+C: hay hartos amigos
+
+M: kontüukelayiñ
+C: no nos visitamos
+
+M: ta che newe ngellipun dungumu müley
+C: la gente cuando hay ngillipun
+
+M: fey wüla ta trawükiyiñ 
+C: ahí recién nos juntamos
+
+nmlch-pmlrc2_1_0033_nmlch_00:
+M: ¡Aa! fey wüla anfe 
+C: ¡Aa!, recién entonces
+
+nmlch-pmlrc2_1_0034_pmlrc_00:
+M: Fey wüla peukiyiñ 
+C: Ahí recién nos vemos
+
+M: feytamu pewiyiñ pichi ngütramkaukiyiñ trawüyiñ ah 
+C: ahí nos vemos y conversamos un poco
+
+nmlch-pmlrc2_1_0035_nmlch_00: <hm> 
+M: ¿feymu femngechi trawükimün? 
+C: ¿Ahí recién se juntan?
+
+nmlch-pmlrc2_1_0036_pmlrc_00: 
+M: may feymu ke trawükiyiñ 
+C: Si, ahí nos reunimos
+
+nmlch-pmlrc2_1_0037_nmlch_00:
+M: ¡Aa! <P> fey fill <uh> kutran mülekey tati peñi
+C: ¡Aa!, ahí recosen diferentes malestares que hay peñi
+
+M: ka fill<uh> mongenmu <uh> <P>
+C: hay diferentes maneras de vivir
+
+M: chumngeafuy kayta felen mongen 
+C: que se le va hacer, que la vida es así
+
+nmlch-pmlrc2_1_0038_pmlrc_00:
+M: Felellimay chumngeafuy femlechi  mongen kay 
+C: Así es, que se le va hacer la vida es así
+
+nmlch-pmlrc2_1_0039_nmlch_00: 
+M: Fül reke ta müley ta mongen
+C: Tanta manera de vivir 
+
+M: feymu ta müley ka kutran tati 
+C: por eso están los malestares
+
+nmlch-pmlrc2_1_0040_pmlrc_00:
+M: Femllimay 
+C: Así es
+
+nmlch-pmlrc2_1_0041_nmlch_00: 
+M: ¿petu ñi akunon wingka 
+C: ¿Antes que llegaran los wincas
+
+M: ka mülekefuy kutran
+C: habían enfermedades
+
+M: welu ka femngechi ka mongelüukülekefuy che? 
+C: entonces así se mantenían vivos la gente?
+
+nmlch-pmlrc2_1_0042_pmlrc_00: 
+M: Femkellefuy tati 
+C: Eso era verdad
+
+nmlch-pmlrc2_1_0043_nmlch_00: 
+M: ¿femuechi mongelüukülekefuy ka tati <P>
+C: Así siempre manteníamos la vida
+
+
+M: kiñe kutran müli tüfa peñi 
+C: una enfermedad había peñi
+
+M: ka eymi kimpelafimi 
+C: que usted debe saber
+
+M: ka mapuchemu müley chemay l'awen'
+C: que los mapuche tenían remedio
+
+M: tüfa müte weda <!1wesa>
+C: esto nomás es lo malo
+
+M: llangkülu longko kay? 
+C: que marea la cabeza
+
+nmlch-pmlrc2_1_0044_pmlrc_00: 
+M: <*SPA>si <*SPA>pues <!1pu'> kimlan <*SPA>eso <*SPA>si 
+C: si pues, no se, eso si
+
+M: kimlan ti mülekalafuy l'awen'
+C: no sabía si había remedio
+
+M: fe cheu mülelafuy ta 
+C: ni donde estaría este
+
+nmlch-pmlrc2_1_0045_nmlch_00: 
+M: Welu ngelay che 
+C: Entonces no había gente
+
+M: tamu femngechi kutran nielu müte llangkülu longko tüfamu ka 
+C: esta enfermedad lo que tiene es mareos de cabeza, aquí
+
+nmlch-pmlrc2_1_0046_pmlrc_00:
+M: Mülelay, mülelay <*SPA>no 
+C: No hay, no hay, no
+
+nmlch-pmlrc2_1_0047_nmlch_00:
+M: Ngelay <*SPA>no 
+C: No hay, no
+
+
+nmlch-pmlrc2_1_0048_pmlrc_00:
+M: Mülelay 
+C: No hay
+
+nmlch-pmlrc2_1_0049_nmlch_00:
+M: Tüfa tachi lofmu 
+C: En esta comunidad
+
+M: <*SPA>medio sanungey ta che
+C: medio sano son la gente
+
+M: ngelay ta kutrankelu müten 
+C: no hay el que se enferma
+
+nmlch-pmlrc2_1_0050_pmlrc_00:
+M: Femlli may 
+C: Así es
+
+nmlch-pmlrc2_1_0051_nmlch_00: 
+M: ¿Feytichi <*SPA>corto <*SPA>de <*SPA>vista ngelu kay 
+C: ¿Entonces corto de vista era
+
+M: pichikeche ngelay tamu? 
+C: en los niños no hay eso?
+
+nmlch-pmlrc2_1_0052_pmlrc_00:
+M: Mülelay mülelay pichikeche 
+C: No hay, en los niños hay
+
+
+nmlch-pmlrc2_1_0053_nmlch_00:
+M: Kom küme kintungeymün 
+C: ¿Todos tienen buena vista?
+
+nmlch-pmlrc2_1_0054_pmlrc_00:
+M: kom küme kintun ngingün 
+C: Todos tienen buena vista
+
+M: <*SPA>muy alguno <*SPA>no mülepi 
+C: muy alguno, no hay
+
+nmlch-pmlrc2_1_0055_nmlch_00:
+M: Ngelay <*SPA>no 
+C: No hay
+
+nmlch-pmlrc2_1_0056_pmlrc_00: 
+M: <*SPA>no <*SPA>hay <*SPA>pues <!1pu'> 
+C: no hay pués
+
+nmlch-pmlrc2_1_0057_nmlch_00:
+M: ¿Kuyfi müley kiñe kutran tüfa pitru pingey kimfimi? 
+C: ¿Antes había la enfermedad llamada sarna la conoció?
+
+nmlch-pmlrc2_1_0058_pmlrc_00:
+M: May kimfun 
+C: Si, la conocí
+
+M: <*SPA>pero kuyfi mülekefuy
+C: pero antes había
+M: kimpafun chi tüfa afiy <!1afüy> mülelay tati 
+C: lo conocí, ahora no hay
+
+nmlch-pmlrc2_1_0059_nmlch_00: 
+M: Pitru kutran 
+C: ¿Enfermedad de la sarna?
+
+nmlch-pmlrc2_1_0060_pmlrc_00: 
+M: <*SPA>claro pitru kutran pingekey pitalmu
+C: Claro, enfermedad de la sarna le decían en el hospital
+
+M: ta kom amuy che ta fey ketu l'awen'
+C: todas las personas fuero a buscar remedio
+
+M: tungey fem pichikeche 
+C: se contagiaron los niños
+
+M: kuyfi femyaukey <!1femyauki>
+C: antes era así
+
+M: tüfa kimwelay ta pichiukeche
+C: ahora los niños no conocen esa enfermedad
+
+M: ta pitru kutran<Cough> 
+C: la enfermedad de la sarna
+
+M: kuyfi kimpafun fey re <!1ye> puma ngillay
+C: antes supieron usar pomadas compradas
+
+M: ta che pingekey feymu ta tantiawi 
+C: la gente con eso probó
+
+nmlch-pmlrc2_1_0061_nmlch_00:
+M: Mapuche l'awen'mu chem l'awen'mu tuymi kay 
+C: Remedio mapuche, que remedio a usado
+
+nmlch-pmlrc2_1_0062_pmlrc_00:
+M: feyta kimlan chem l'awen'mu 
+C: Eso, no se que remedio se usa
+
+M: tañi chemken ta pu <*SPA>antiguo <!1antiku> taiñ chemken
+C: lo que usan los antiguos, los que usaron
+nmlch-pmlrc2_1_0063_nmlch_00:
+M: ¿eymi pitrungeymi? 
+C: ¿Usted tuvo sarna?
+
+nmlch-pmlrc2_1_0064_pmlrc_00: 
+M: <*SPA>No femlafun, 
+C: No tuve
+
+M: femkelan pichulu femleken
+C: desde chico no tuve
+
+M: feymu alülu femlan chi lef femkelafun 
+C: desde entoces no me tocaba nada
+
+nmlch-pmlrc2_1_0065_nmlch_00:
+ M: Pitru laymi 
+C: No tuve sarna
+
+nmlch-pmlrc2_1_0066_pmlrc_00: 
+<*SPA>no 
+C: No
+
+nmlch-pmlrc2_1_0067_nmlch_00:
+M: Feyti <*SPA>sarampion pingey
+C: Ese sarampión dicen
+
+ M: ka kiñe kutran kimfimi 
+C: ¿esa enfermedad la conoció?
+
+nmlch-pmlrc2_1_0068_pmlrc_00:
+M:  Fey tripakefuy kuyfi
+C: Antes salía esa enfermedad
+
+M: ta tripakefuy 
+C: si salía
+
+M: <*SPA>sarampion pikey ta wingka 
+C: sarampión dicen los wincas
+
+M: afkellelay <*SPA>cuerpu che nga
+C: no termina, al cuerpo le da comezón
+
+
+ M: pitalmu ta komponeki 
+C: se mejora en el hospital
+
+M: fey kimlafiñ chumngechi tañi antigu chemay kuyfi 
+C: eso no sabemos como salía antes
+
+M: kim l'awen'tüukaki paysanu
+C: no supimos que remedio lo dio el paisano
+
+M: l'awen'mu chmkakey kimlan 
+C: se mejora pero no sabemos co que remedio
+
+nmlch-pmlrc2_1_0069_nmlch_00: 
+M: Eymi tripalay <*SPA>tampoco 
+C: ¿A usted no le salió tampoco?
+
+nmlch-pmlrc2_1_0070_pmlrc_00:
+ M: <*SPA>No tripakelan 
+C: No me salió
+
+M: kimpafun ta feychi kutran 
+C: sabía esa enfermedad
+
+M: ta pichikeche femngelu 
+C: en el hospital se mejoraba los niños que tenían
+
+M: <*SPA>sarampion pi ta wingka feypikey <!1feypiki> feychi kutranmu 
+C: los wincas decían sarampión esa enfermedad
+
+nmlch-pmlrc2_1_0071_nmlch_00: <hm><P> 
+M:  Kiñe ta tripakey <!1tripaki>
+C: Algunos le salen
+
+M: kiñeke tamu peglleñ pingey
+C: que se llaman verrugas dicen
+
+M: ka kuwümu tripakey <!1tripaki>
+C: que en la mano sale
+
+M: tuchipüle rume ka
+C: en cualquier parte sale
+
+M: ¿kimfimi peglleñ? 
+C: ¿sabe lo que es verruga?
+nmlch-pmlrc2_1_0072_pmlrc_00: 
+M: Kimfiñ kuyfi ta niekefun atiwu 
+C: Lo conozco, antes me salía
+
+M: tüfa tripawelay 
+C: ahora no me sale
+
+M:chi lay ngewelay tachi 
+C: ya no queda ya na
+
+nmlch-pmlrc2_1_0073_nmlch_00:
+M: Kimlaymi chumngelu <!1chumuelu> ñi tripaken 
+C: ¿No sabe porque sale?
+
+nmlch-pmlrc2_1_0074_pmlrc_00: +/kim/+
+M:  Kimlay kiñekentu
+C: Algunos no saben
+
+M: pu af küyen katrüki
+C: en la luna menguante se corta
+
+M: pingekelay,
+C: dicen que es así
+
+M: katrüfi ta üfikunufi katrünentufi
+C: se amarra con algo y lo saca cortado
+
+M: afkey pingekey <!1pingeki> 
+C: dicen que se termina
+
+nmlch-pmlrc2_1_0075_nmlch_00:
+M: Famuechi 
+C: A si es
+
+nmlch-pmlrc2_1_0076_pmlrc_00:
+M: May <Noise> femngechi
+C: Si, asi es
+
+M: feyti üfikunufi kiñe chemu kiñe füumu
+C: así lo amarre con un hilo apretado
+
+ <P>
+M: üfifi feyta moymangey <!1moymangi> 
+C: bien amarrado quedó
+
+M: feyta nochi katrü tripapi 
+C: de apoco salió cortado
+
+nmlch-pmlrc2_1_0077_nmlch_00: 
+M: Aftukey <!1aftuki> 
+C: ¿Y se termina?
+
+nmlch-pmlrc2_1_0078_pmlrc_00: 
+M: Afketuy pingekey <!1pingeki> 
+C: Dicen que se termina
+
+M: ta tripakelay iñchiñ <%>
+C: nosotros no lo sale más
+ 
+nmlch-pmlrc2_1_0079_nmlch_00:
+M: ¿eymün allfüyem kay peñi
+C: ¿Ustedes se han herido peñi
+
+ M: tüfa feula alfüyem chem allfeñ rume amukimün pitalmu? 
+C: a estado herido, ahora con cualquier herida van al hospital?
+ 
+nmlch-pmlrc2_1_0080_pmlrc_00:
+M: Pitalmu amukiyiñ elungekeyiñ patilla
+C: Vamos al hospital y nos dan pastillas
+
+ M: ta ta allfenmu kümelu 
+C: para esta herida es buena nos dicen
+
+nmlch-pmlrc2_1_0081_nmlch_00:
+M: ¿Mülelfule ünatun trewa femuechi ka fey? 
+C: ¿Si los muerde el perro también van?
+
+nmlch-pmlrc2_1_0082_pmlrc_00:
+M: Ka fey <P> <*SPA>pero <*SPA>muy <*SPA>raro mongekey <!1mongeki>
+C: También, es raro que se mejore
+
+M: ta üna ünatungey ta che kuyfi
+C: antes cuando la gente era mordida
+
+M: ta tüfa ta kuyfi ta tüfa ka kiñenekefun
+C: antes yo tenía uno
+
+M: feyta trewa ta lüpümüymangetuy ñi kal
+C: a ese perro se le corta el pelo y se le quema
+
+M: ta trewa feyta tukulelngi
+C: el pelo quemado del perro se le coloca a la herida
+
+M: feyta sanutuy ta che tüfamu ünatungey <!1unatungi>
+C: así se sana la gente de su mordedura
+
+M: fante trewa mañoso ünatukeli
+C: antes habían hartos perros mañosos que mordían
+
+ M: <*SPA>despues awe mongeweketulay
+C: después no se mejora luego
+
+M: tañi kal ta trewa nentuymangi lüpümüymangey <!1lüpümüymangi>
+C: la lana del perro se saca y se quema
+
+ M: küyen lüf-fuy feymu saketuy ta che 
+C: en la luna llena se le hace remedio a la gente
+
+nmlch-pmlrc2_1_0083_nmlch_00: 
+M: Fey kümey 
+C: Si, ¿es bueno?
+
+nmlch-pmlrc2_1_0084_pmlrc_00:
+M: fey kümey <!1kümi> <*SPA>el <*SPA>mismo kal tati trewa,
+C: Si es bueno el mismo pelo del perro que mordió
+
+M: trewa ta küdaukey tati ünatu chey 
+C: el perro da trabajo para tomarlo
+
+nmlch-pmlrc2_1_0085_nmlch_00:
+ M: Entuymangelu 
+C: ¿Le sacan?
+
+nmlch-pmlrc2_1_0086_pmlrc_00:
+M: Entuymangelu fey lüpümngeketuy biem
+C: Cuando le sacan se le quema bien
+
+M: lüpümngey feymu ta chemkefuy 
+C: se le quema y de ahí se mejora
+
+nmlch-pmlrc2_1_0087_nmlch_00:
+M: Mongefemtuy 
+C: ¿Se mejora altiro?
+
+nmlch-pmlrc2_1_0088_pmlrc_00:
+M: May mongeketuy 
+C: Si, se sana
+
+nmlch-pmlrc2_1_0089_nmlch_00:
+M: mülekey asümüwün fill lof pu peñi 
+C: Los vecinos deben saber tratamientos peñi
+
+nmlch-pmlrc2_1_0090_pmlrc_00:
+M: Femkellefuymay doy <!1soy> 
+C: Así es nomás
+
+M: asüm tati kimnelu kom asümüufuy
+C: algunos saben bien
+
+ M: femngey feyta kümey ka feymu 
+C: así es muy bueno
+
+nmlch-pmlrc2_1_0091_nmlch_00:
+ M: ¡Aa! <uh> tüfa kay <uh> müley kiñe kutran ta peñi 
+C: ¡Aa!, ahora hay alguna enfermedad peñi
+
+<Cough>
+M: kimpelafuymi <!1kimpelafimi>
+C: no sabe entonces
+
+M: tüfa ngüfüllin pingey<P> ngüf willeñ 
+C: este, tranca de orina que se llama, tranca de orina
+
+nmlch-pmlrc2_1_0092_pmlrc_00:
+M: may, may feyta tüfa ta ngüf willeñi ta che
+C: Si, si, la gente que le da la tranca de orina
+
+M: ta amuy ta pitalmu,
+C: y va al hospital
+
+M: pitalmu ta chemkey <!1chemki> ka komponekey               <!1komponeki>
+C: y en el hospital se mejora
+ 
+nmlch-pmlrc2_1_0093_nmlch_00:
+M:  Pitalmu 
+C: Hospital
+
+nmlch-pmlrc2_1_0094_pmlrc_00:
+ M: Pitalmu kuyfi ta mülekakelafuy
+C: Antes no había hospital
+
+M: antiwu ta l'awen' kimlan ta l'awen' 
+C: ¿los antiguos no sabían remedio?
+
+nmlch-pmlrc2_1_0095_nmlch_00:
+M: Mapuche l'awen' kimlaymi
+C: Remedio mapuche no sabía usted
+ 
+nmlch-pmlrc2_1_0096_pmlrc_00:
+ M: Kimlafiñ chi mapuche l'awen' kay 
+C: No se remedio mapuche
+
+nmlch-pmlrc2_1_0097_nmlch_00:
+M: Eymi ngüf willeñkelaymi 
+C: ¿A usted le ha dado tranca de horina?
+
+nmlch-pmlrc2_1_0098_pmlrc_00: 
+M: ngüf <*SPA>nunca fenteyma ta 
+C: Tranca de orina nuca a la edad que tengo
+
+nmlch-pmlrc2_1_0099_nmlch_00:
+M: ¿Kimlafimi chumngelu <!1chumuelu> ñi femken che? 
+C: ¿No sabe porque le da eso a la gente?
+
+nmlch-pmlrc2_1_0100_pmlrc_00:
+M: Kimlafiñ ke kiñekentu wütre pikelay
+C: No se, que algunos no sienten frio
+
+M: rume weda utrekelu pikey <!1piki> ta che 
+C: lo que han tenido mucho hielo dicen la gente
+
+nmlch-pmlrc2_1_0101_nmlch_00:
+M: Utre may 
+C: Si, frio
+
+nmlch-pmlrc2_1_0102_pmlrc_00:
+M: Utre kuyfike chemu 
+C: Frío, por la gente antigua
+
+M: famngen ta sapatukunuy ta okota miawi re antiwu
+C:  a duras penas usaba como zapatos ojotas para andar
+
+M: ta *puy fota kimnolu
+C: no conocían la bota
+
+M: antiwü feymu ta fente weda <!1weya>
+C: los antiguos por eso estaban harto mal
+
+M: amuy ta tripantu ta puche kutraniy ta,
+C: al pasar de los años la gente se enfermó
+
+M: ta may sapatu
+C: ahora hay zapatos
+
+M: ta kuyfi ta fantreki ta tüfa may küme pukemi
+C: antes era harto frío el invierno, ahora esta mejorando
+
+M: fantrekekefuy tamu ta epeke ñamkey ruka tati 
+C: el invierno era abundante, casi se pierde la casa
+
+nmlch-pmlrc2_1_0103_nmlch_00:
+M: tüfamu 
+C: ¿Aquí?
+
+nmlch-pmlrc2_1_0104_pmlrc_00:
+M: Tüfamu rume weyafuy
+C: Aquí siquiera...
+
+ M: ta rume wüya pichike<%> nagümeyiñmu
+C: siquiera ayer de apoco empezó a llover
+
+M: ka tiyüu küpachi Küyen
+C: ¿allá tmbien se vio la luna que venía llena?
+
+M: ka narumi tachi küyen pichi küme küpay
+C: también hizo bajar esta luna, pasó un poco el tiempo
+
+M: kaychi umaupun piren 
+C: en la noche cayó granizo
+
+nmlch-pmlrc2_1_0105_nmlch_00:
+M: Rume pireki tüfamu 
+C: ¿Aquí cae mucho granizo?
+
+nmlch-pmlrc2_1_0106_pmlrc_00:
+M: Rume piren püchüli piren tamu 
+C: Aquí cae mucho granizo
+
+nmlch-pmlrc2_1_0107_nmlch_00:
+M: ¿chem küyenmu doy <!1soy>  pirekey <!1pireki> tüfamu peñi? 
+C: ¿En que mes cae más granizo peñi?
+
+nmlch-pmlrc2_1_0108_pmlrc_00:
+ M: <*SPA>Junio <*SPA>y <*SPA>julio, <*SPA>agosto 
+C: Junio y Julio, agosto también
+
+nmlch-pmlrc2_1_0109_nmlch_00:
+M: Külalekey 
+C: Tres meses
+
+nmlch-pmlrc2_1_0110_pmlrc_00: 
+M: Küla küyen<*SPA>avece <*SPA>mal küpay <*SPA>septiembre
+C: Tres lunas (meses), a veces viene muy mal septiembre
+
+ M:<*SPA>también ka feleketuy kiñeke ni kulliñ re <!1ye> 
+C: también es así, algunos se llevan a talaje los animales
+
+M: talajemu tukuyiñ feymu mongelkey <!1mongelki>
+C: lo llevan a talaje y así viven
+
+ M: Tamu che <*SPA>forraje <*SPA>no <*SPA>hay 
+C: la gente no tiene forraje
+
+nmlch-pmlrc2_1_0111_nmlch_00:´
+M: Ngelay <*SPA>forraje 
+C: ¿No hay forraje?
+
+nmlch-pmlrc2_1_0112_pmlrc_00: 
+M: Mülelay 
+C: No hay
+nmlch-pmlrc2_1_0113_nmlch_00: ¡Aa! 
+C: ¡Aa!
+
+nmlch-pmlrc2_1_0114_pmlrc_00:
+M: Re <!1ye> talajemu mongekey <!1mongeki>
+C: Con puro talaje viven 
+
+M: mongelkiyiñ pichin 
+C: poco viven
+
+nmlch-pmlrc2_1_0115_nmlch_00:
+M: ¿tamün kulliñ <uh> chem ilo doy <!1soy> ikeymün tüfamu eymün peñi
+C: ¿Que animal, que carne comen ustedes aquí peñi
+
+M: tamün kuyfi tami küpalmemu
+C: antiguamente los descendientes
+
+M: ka feula petu ka chem ilo doy <!1soy> ingekey <!1ingeki> tüfamu? 
+C:  y ahora, que carne comen más?
+nmlch-pmlrc2_1_0116_pmlrc_00:
+M: Doy ilo ingekey tati kawell ilo doy ingekey ta kuyfi 
+C: Se comía más carne de caballo antes
+
+nmlch-pmlrc2_1_0117_nmlch_00:
+M: Kawellu ilo 
+C: Carne de caballo
+
+nmlch-pmlrc2_1_0118_pmlrc_00: <%>
+M: <*SPA>Pero tüfa ta <*SPA>pueblo ilo pütrüke fali
+C: Pero ahora en el pueblo vale mucho
+
+ M:<*SPA>cien +/luk/+ <*SPA>cien <*SPA>mil <*SPA>pesos tranayawi tati pataka 
+C: cien, cien, mil pesos, andan votados los de cien pesos 
+
+M: <*SPA>mil feyta doy nielu ta ilo piy
+C: mil, el que tiene más compra carne
+
+M: ka tati pichi kullingelu kapüra ta iloy ka ufisa 
+C: el que tiene animal chico como la cabra lo mata , también ovejas 
+nmlch-pmlrc2_1_0119_nmlch_00: 
+M: Feychi ilo doy <!1soy> ingekey 
+C: Esa carne se come más
+
+nmlch-pmlrc2_1_0120_pmlrc_00: 
+M: doy ingekey <!1ingeki> 
+C: Se come más
+
+nmlch-pmlrc2_1_0121_nmlch_00: 
+M: Rumel ikiymün feychike ilo 
+C: ¿Siempre comen esa carne?
+
+nmlch-pmlrc2_1_0122_pmlrc_00:
+M: <*SPA>Igual umañlu ka umañ ikiyiñ fey,
+C: Igual se come la carne de un día para otro
+
+M: feyñi armalu chanchu nielu chanchu
+C:  el que se arma o tiene chancho
+
+M: fey kay ka fey rume dañinu chañchu
+C: tiene, pero son muy dañinos
+M: niekefuyiñ tati tüfata küpa niewekelayiñ <*SPA>muy dañiñu 
+C:  no es capaz de tenerlo, por eso nosotros no lo tenemos más, muy dañino
+
+nmlch-pmlrc2_1_0123_nmlch_00: <uh>
+M: Welu <uh> kulliñ ilo kay <*SPA>vacuno <!1vacunu> 
+C:  ¿Hay también carne de vacuno?
+
+nmlch-pmlrc2_1_0124_pmlrc_00: 
+M: <*SPA>Vacuno <!1vacunu> <*SPA>muy <*SPA>raro ilokelay che
+C: Muy raro la carne de vacuno, no matan mucho
+
+ M: TA ALÜNELU ILOKELAFUY 
+C: el que tiene harto no mata
+
+M: kiñe, epu, küla nelu ilormelafuy trokifiñ ke che
+C: el que tiene poco, uno, dos, tres no puede hacerlo la gente
+
+nmlch-pmlrc2_1_0125_nmlch_00:
+M: Femrumelay che 
+C: No lo hacen la gente
+
+nmlch-pmlrc2_1_0126_pmlrc_00: 
+M: <*SPA>Si <*SPA>pues <!1pu> femkelay 
+C: Si pues no lo hacen
+
+nmlch-pmlrc2_1_0127_nmlch_00: 
+M: Kawellu fey doy 
+C: Se mata más caballo
+
+nmlch-pmlrc2_1_0128_pmlrc_00: 
+M: Kawellu doy ingekey <!1ingeki> 
+C: Se come más el caballo
+
+nmlch-pmlrc2_1_0129_nmlch_00: 
+M: Feytichi ilo rume sanungepelay feymu penu <!1peno>
+C: Esa carne es más sana debe ser por eso
+
+M: kutranchengelaymün eymün 
+C: ustedes, no son enfermizos ustedes
+
+nmlch-pmlrc2_1_0130_pmlrc_00: 
+M: Tati ilo kawellu may,
+C: Esa carne de caballo, si
+
+M: sanukay tati ilo kawell, sanu kawell
+C: es muy raro esa carne de caballo, es muy sana
+
+M: tati chem rume ikelay kawell <*SPA>limpio 
+C: no come cualquier cosa, es limpio
+
+M: <*SPA>pasto iy küme limpio ko *yite kawellu 
+C: come pasto y agua muy limpia, come el caballo
+
+M: <*SPA>siempre tamu,
+C: siempre por aquí
+
+M: tamu tachi pu ka müley <*SPA>carnicería ilo
+C: por aquí hay carnicería, de carne
+
+M: tamu müley tamu,
+C: por aquí hay
+
+M: tamu re <!1ye> ilo ko 
+C: por aquí, carne y agua
+
+nmlch-pmlrc2_1_0131_nmlch_00:
+M: Wingka müte ikelay ilo kawellu
+C: El winca no come carne de caballo
+
+M: pingey feyngey <!1feyngi> 
+C: dicen así
+
+nmlch-pmlrc2_1_0132_pmlrc_00:
+M: Müte ikelay 
+C: No come mucho
+
+nmlch-pmlrc2_1_0133_nmlch_00: 
+M: ¿Feymu chi ta doy <!1soy> kutranchengeymün? 
+C: Es por eso que son tan enfermizos
+
+nmlch-pmlrc2_1_0134_pmlrc_00:
+M: Feymu chimay 
+C: Es por eso
+
+nmlch-pmlrc2_1_0135_nmlch_00: <Cough> 
+M: No ke müley ta pichike wingka pichike señora wariamu <uh> müna <*SPA>corto <*SPA>de <*SPA>vista ngeyngün 
+C: Es por eso que los niños y niñas wincas del pueblo son harto cortos de vista
+
+nmlch-pmlrc2_1_0136__pmlrc_00: 
+M: femlleyi may 
+C: Es cierto
+
+nmlch-pmlrc2_1_0137_nmlch_00: 
+M: <*SPA>Lente tuyaükingün <uh> <Cough> pichike señora<Cough> 
+C: Andan con lentes los niños
+
+M: welu mapuche femngi felekelay tüfa petu peuküli 
+C: pero los mapuches nunca andan con lentes, todavía ven bien
+
+nmlch-pmlrc2_1_0138_pmlrc_00: 
+M: <*SPA>No felelay tamu lentetuley 
+C: Por eso no usan lentes
+
+M: <*SPA>muy <*SPA>alguno lentetulay che tamu 
+C:muy algunos por aquí, no usan lentes
+
+nmlch-pmlrc2_1_0139_mlch_00: 
+M: Lentetulay yagel penu <!1peno> 
+C: No usan lentes por las comidas
+
+M: kangechi iyagel ikiyiñ iñchiñ mapuchengenmu 
+C: otras comidas comimos nosotros porque somos mapuches
+
+M: feymu peno doy <!1soy> küme mongen müley ta lofmu 
+C: debe ser por eso llevamos buena vida en la comunidad
+
+nmlch-pmlrc2_1_0140_pmlrc_00:
+M: fempelay ke lentetulu feyta <hes> punual chi che tati 
+C: Debe ser por eso no usan lentes, no le alcanza la plata a la gente
+
+M: <*SPA>edad nielu feyta elungey <*SPA>lente elungey <!1elungi> pitalmu
+C: el que tiene edad le dan lentes en el hospital
+
+M: newe pelowenolu 
+C: los que poco ven
+
+nmlch-pmlrc2_1_0141_nmlch_00: 
+M: Newe pelowenolu 
+C: ¿Los que poco ven?
+
+nmlch-pmlrc2_1_0142_pmlrc_00: 
+M: newe pelowenolu 
+C: Los que poco ven
+
+NMLCH-PMLRC2_1_0143_NMLCH_00: 
+M: WELU LOFMU MAPUCHE MÜTE NIELAY FEYCHI <%> WITRIN 
+C: PERO EL MAPUCHE NO TIENE ESO......
+
+nmlch-pmlrc2_1_0144_pmlrc_00: 
+M: <*SPA>No ngelay tamu mülelay tati ta oyga 
+C: No hay, por aquí no hay oiga
+
+nmlch-pmlrc2_1_0145_nmlch_00: 
+M: kiñe kutran müley 
+C: Hay una enfermedad aquí
+
+M: ta tifu pingey akukey <!1akuki> faupüle kay 
+C: esa llamada tifus, ¿a llegado por aquí?
+
+nmlch-pmlrc2_1_0146_pmlrc_00: 
+M: Kuyfika akuy pingekey <!1pingeki> 
+C: Antes dicen que llegaba
+
+M: kimpalan kimpalan feychi kutran 
+C: no supe esa enfermedad
+
+nmlch-pmlrc2_1_0147_nmlch_00: 
+M: Feula *tachiku tripantumu pichikeche pichike wentru konlay 
+C: Ahora este año a los niños hombres no le entra esta enfermedad
+
+nmlch-pmlrc2_1_0148_pmlrc_00: 
+M: <*SPA>No konlay kiñe nurume <!1norume> 
+C: En ninguno entró
+
+nmlch-pmlrc2_1_0149_nmlch_00: 
+M: Ngelay feychi kutran faupüle 
+C: Por aquí no hay otra enfermedad
+
+nmlch-pmlrc2_1_0150_pmlrc_00: 
+M: Mülelay feychi kutran 
+C: Hay esa enfermedad
+
+nmlch-pmlrc2_1_0151_nmlch_00: 
+M: Fey pitalmu mongetuymün 
+C: Se mejoran en el Hospital
+
+nmlch-pmlrc2_1_0152_pmlrc_00:
+M: Pitalmu mongekingün tati
+C: En el Hospital se mejoran
+
+M: ta pitalmu müten konkelu kay che rume weda <!1weya> kutran 
+C: en el hospital van las personas cuando tienen enfermedades mala
+
+nmlch-pmlrc2_1_0153_nmlch_00: 
+M: chumngechi trikimünmukay tüfa wingka
+C: Como  conocen de eso los wincas
+
+M: püuyem pitalmu küme atiendengekimün 
+C:  llegan en el hospital y lo atienden bien
+
+nmlch-pmlrc2_1_0154_pmlrc_00: 
+M: Küme atendekakeyiñmu tati 
+C: Lo atienden bien
+
+M: küme atendekey welu komantü mekekey <!1mekeki> 
+C: lo atienden bien, pero estamos todo el día
+
+M: che <*SPA>uno <*SPA>tiene <*SPA>llegar <*SPA>la <*SPA>seis +/püu/+ mülepuyi pitalmu
+C: la gente, uno tiene que llegar a las seis en el hospital
+
+M: fey tripay rangiantü küpan rangiantü tripay fey rume weda <!1weya> 
+C: de ahí sale a las doce, después de las doce, eso es muy malo
+
+M: kutran ngelu puede nolu küpayal
+C: el que tiene enfermedad no puede venir
+
+M: fey <*SPA>ambulancia küpalketueyu rukamu 
+C: entonces ambulancia lo trae a la casa
+
+M: fey puedelu ka yengepayafuy tati 
+C: y si se puede, lo pueden venir a buscar
+
+M: puedenolu engu tüfau <Noise> <*SPA>como <*SPA>dos <*SPA>meses wüla empesay  
+C: el que no puede, dos meses después empieza por aquí 
+
+M: tamu kiñe <*SPA>escuela flong küley timu 
+C: allí hay una escuela blanca 
+
+M: feymu ta akuy tati <*SPA>pu' <*SPA>disisiete 
+C: ahí llega el diecisiete
+
+M: disisietumu akualu akuy tati 
+C: el diecisiete e iba a llegar y llegó
+
+M: <*SPA>enfermero akuy 
+C: llegaron enfermera
+
+M: <*SPA>matrona akuy y l'awen'tupafi che 
+C: llego matrona y llego el que le da remedio a la gente
+
+M: <*SPA>indección tukulelpafi 
+C: vino a colocar inyección
+
+M: patilla elupafi wengen wüla empesaley <!1empesali>
+C: nos dio pastilla, hace poco empezó
+
+M:  tachi walüngka 
+C:  empezó en el verano
+
+nmlch-pmlrc2_1_0155_nmlch_00: 
+M: Fey anta <*SPA>estación <*SPA>medica rural pikey <!1piki> wingka 
+C:  Entonces, estación medica rural dicen los wincas
+
+nmlch-pmlrc2_1_0156_pmlrc_00: 
+M: feyti feyta feypikey <P> feyta feypikey <!1feypiki> 
+C: Así, dicen así, dicen así
+
+nmlch-pmlrc2_1_0157_nmlch_00: 
+M: Kuyfi pengelafuy piy 
+C: Antes no se veía así
+
+nmlch-pmlrc2_1_0158_pmlrc_00: 
+M: <*SPA>No mülelafuy kuyfi mülelafuy 
+C: No, antes no había
+
+nmlch-pmlrc2_1_0159_nmlch_00: 
+M: Rume weda <!1wesa>kutran nielu cheu werküngey <!1werküngi>
+fau <*SPA>temuco 
+C: ¿Un enfermo grave donde lo mandan aquí a Temuco?
+
+nmlch-pmlrc2_1_0160_pmlrc_00: 
+M: <*SPA>Temuco tati puedelu <*SPA>temuco <*SPA>y <*SPA>victoria 
+C: Temuco el que puede, Temuco y Victoria
+
+nmlch-pmlrc2_1_0161_nmlch_00: Victoria 
+C: Victoria
+
+nmlch-pmlrc2_1_0162_pmlrc_00: 
+M: Victoria Temuco mülepukey <!1mülepuki> 
+C: Están Victoria y Temuco
+
+
+M: ka Victoria feymu ta mandangey <!1mandangi> 
+C: también a victoria lo mandan
+
+nmlch-pmlrc2_1_0163_nmlch_00: 
+M: Feypüle amulngey <!1amulngi> 
+C: Ahí lo mandan
+
+nmlch-pmlrc2_1_0164_pmlrc_00: 
+M: Feypüle amulngey tati operangelu Victoria 
+C: Lo que dicen lo mandan para operarlo en Victoria
+
+M: operangey tati Temuco tamu ta operangealu 
+C: también lo van a operar en Temuco
+
+nmlch-pmlrc2_1_0165_nmlch_00: 
+M: Rume alün che müley tüfamu lofmu operangekelu 
+C: Hay mucha gente en la comunidad que se ha operado
+
+M: kam müte ngelay che operangekelu 
+C: o no hay mucha gente que se ha operado
+
+nmlch-pmlrc2_1_0166_pmlrc_00: 
+M: Müte mülelay, müte mülelay 
+C: No hay muchos
+
+nmlch-pmlrc2_1_0167_nmlch_00: 
+M: ¿Feytichi kutran <*SPA>diaveti pingerkey <!1pingerki> müli fau kay? 
+C: Esa enfermedad que se llama diabetes hay aquí
+
+nmlch-pmlrc2_1_0168_pmlrc_00: 
+M: Ka mülepelay allkeñngekelay chi 
+C: Debe de haber no lo he escuchado
+
+nmlch-pmlrc2_1_0169_nmlch_00: 
+M: Allkengekelay 
+C: No se ha escuchado
+
+nmlch-pmlrc2_1_0170_pmlrc_00: <*SPA>no
+C: No
+ 
+nmlch-pmlrc2_1_0171_nmlch_00: 
+M: Ka müley tüfichi ti kutran y pendiciti pikey ta wingka 
+C: Hay esa enfermedad que se llama apendicitis dicen los wincas
+
+nmlch-pmlrc2_1_0172_pmlrc_00: 
+M: Feyno feychi kutran +/allkenge/+ 
+C: Eso no, esa enfermedad no
+
+
+nmlch-pmlrc2_1_0173_nmlch_00: 
+M: Allkengekelay 
+C: No se ha escuchado
+
+nmlch-pmlrc2_1_0174_pmlrc_00: 
+M: Allkengekelay 
+C: No se ha escuchado
+
+nmlch-pmlrc2_1_0175_nmlch_00: 
+M: ¡Aa! ulsera pikey ka wingka 
+C: ¡Aa! También dicen ulcera los wincas
+
+nmlch-pmlrc2_1_0176_pmlrc_00: 
+M: Kafeyta feyta allkengekey <*SPA>ulsera 
+C: Eso se ha escuchado, ulcera
+
+nmlch-pmlrc2_1_0177_nmlch_00: 
+M: Fey pichike allkükimi 
+C: Eso escuche poco
+
+nmlch-pmlrc2_1_0178_pmlrc_00: 
+M: allkenkefiñ <*SPA>avece 
+C: Eso he escuchado,  a veces
+
+M: kiñekentu ulseramu operangekey <!1operangeki>
+C: algunos son operado de ulcera
+
+M: pu domo kiñeke füchake domo,
+C: algunas mujeres mayores
+
+M: wecheke wentru kiñekentu <*SPA>ulsera 
+C: hombres jóvenes algunos tienen ulcera
+
+nmlch-pmlrc2_1_0179_nmlch_00: 
+M: kimlafimu chemu ñi konken 
+C: ¿No sabe como entra la enfermedad?
+nmlch-pmlrc2_1_0180_pmlrc_00:
+M: Kimlafiñ ka chemu 
+C: No se como entra en la gente
+
+<%> 
+M: kimney doctoramu operachekey <!1operacheki> 
+C: los doctores saben y operan
+
+nmlch-pmlrc2_1_0181_nmlch_00: 
+M: Welu müte ngelay ka fey ka 
+C: ¿No hay mucho de eso?
+
+
+nmlch-pmlrc2_1_0182_pmlrc_00: 
+M: No müte mülelay ta feychi kutran newe mülelay 
+C: No hay mucho enfermedad de eso, hay poco
+
+nmlch-pmlrc2_1_0183_nmlch_00:
+M: ¡Aa! <P> kümerkey <!1kümerki> tati peñi 
+C: ¡Aa! Bien peñi
+
+M: eymün tamün müte kutran chengenon tüfameu 
+C: ustedes no tienen mucha enfermedades aquí
+
+_1_0184_nmlch_00185_pmlrc_00:
+M: femlli may 
+C: Así es pués
+
+nmlch-pmlrc2_1_0185_nmlch_00: 
+M: Kiñeke lekey <!1leki> mütenkutran feyta ka lofmu femtreley <!1fentreli> ta kutran 
+C: Alguna enfermedades hay harto en otra comunidad
+
+nmlch-pmlrc2_1_0186_pmlrc_00: 
+M: femlli kay 
+C: Así es pués
+
+nmlch-pmlrc2_1_0187_nmlch_00: <uh> 
+M: Chumngelu chemay feyta iñche ka ramtuan tañi pu peñi 
+C: Por que será, yo vine a preguntar a mi peñi
+
+<uh>
+M: ka mapuche pin feymu ta tripapan faupüle 
+C: porque es mapuche dije, por eso salí para acá
+
+nmlch-pmlrc2_1_0188_pmlrc_00:
+M: Feley 
+C: Cierto 
+
+nmlch-pmlrc2_1_0189_nmlch_00: 
+M: Kimfel engün fey kamñi ka felerpun 
+C: Sabrán ellos como van las cosas
+
+M: ka engün kam petu tañi felenon engün <Noise> <uh> askülimün ta petu tati 
+C: ustedes todavía no saben como va a seguir, estamos escuchando eso
+
+nmlch-pmlrc2_1_0190_pmlrc_00: 
+M: Feley <!1feli> 
+C: Cierto
+
+nmlch-pmlrc2_1_0191_nmlch_00: 
+M: ka feyentulimün ta mapuche tañi taiñ ngillatunmu <uh>
+C: Ustedes creen en su ngünechen y el ngillatun
+
+M: feymu penu <!1peno> ka fente küme mongen nieymün 
+C: debe ser por eso que tienen buena vida
+
+nmlch-pmlrc2_1_0192__pmlrc_00: 
+M: Feymu pe, 
+C: Puede ser por eso
+
+
+M: feymu pilen nuamfe <!1noamfe>
+C: por eso digo yo
+
+M: feymu ta <Noise> kuyfi ta mülekefuy meli antü,
+C: es por eso que antiguamente se hacían por cuatro días
+
+M:  küla antü lekefuy
+C: tres días corridos
+
+M: tüfa ta umañngi müte
+C: ahora un día y medio nomás
+
+M: wün püle tripatuy epu antükey <!1antüki> müten  
+C: comúnmente sale por dos días, nomás
+M: kuyfi fantewe ta mülekefuy ta meli antü küla antü, küla umañkefuy 
+C: antiguamente tal día se hacía , se hacía cuatro días, tres días, tres alojadas
+
+M: che feula tripakey <!1tripaki> <Noise> 
+C: la gente recién salía 
+
+M: küla antü mekingün tüfa 
+C: por tres días lo hacían
+
+M: <*SPA>no umañkey <!1umañki> 
+C: no dormían
+ 
+M: müten pu <*SPA>antiguo femkunuy 
+C: así lo dejaron los antiguos
+
+nmlch-pmlrc2_1_0193_nmlch_00: 
+M: Feulakay inautyem che 
+C: Ahora cuando muere la gente
+
+M: petu müley <!1müli> chumngechi elüukimün eymün 
+C: todavía hay, ¿cómo hacen el entierro ustedes
+
+M: kellüukeymün kam <uh>
+C: se ayudan ustedes
+
+M: kiñe <*SPA> sementerio niymün eymün 
+C: tienen un cementerio ustedes?
+
+nmlch-pmlrc2_1_0194_pmlrc_00: 
+M: <*SPA>Cementerio <*SPA>no tüfi müten niyiñ ka <*SPA>cementerio nieyiñ <P>
+C: Cementerio, no, allí nomás tenemos un cementerio 
+
+M: wingkamu ta müley <*SPA>cementerio <P>
+C: en el  pueblo hay cementerio
+
+M: <*SPA>cementerio nielayiñ tamu 
+C: aquí no tenemos cementerio
+
+M: <*SPA>antiguo ta femkunuel kuyfi ngekelay pu antiwüyem <*SPA>cementerio
+C: los antiguos dijeron que no tenían cementerio
+M: adwelafuy tati inalepalu niepuafuy 
+C: no es bueno para los que vienen más atrás
+
+M: <*SPA>cementerio tüfa kofrangey <!1kofrangi> 
+C: este cementerio cobra
+
+M: kiñe pofre <*SPA>treinta <*SPA>mil, <*SPA>treinta <*SPA>cinco <*SPA>mil <*SPA>pesos 
+C: un pobre le cobran entre treinta y treinta y cinco mil pesos
+
+M: <*SPA>estar <!1'tar> <*SPA>sepultado <!1sepultu> <*SPA>uno <!1unu>  sepultangeal 
+C: por estar sepultado uno, para sepultar a uno
+
+nmlch-pmlrc2_1_0195_nmlch_00: 
+M: ¿Kullikeymün eymün? 
+C: Le cobran entonces
+
+nmlch-pmlrc2_1_0196_pmlrc_00: 
+M: Kullikeyiñ chi 
+C: Si, pagamos
+
+nmlch-pmlrc2_1_0197_nmlch_00: 
+M: <*SPA>Aparte tamün inautual ka kullikimün 
+C: Aparte de tener su muerto, igual pagan
+
+nmlch-pmlrc2_1_0198_pmlrc_00: 
+M: ka kullikiyiñ ka tati tawülkang itro fendengey <!1fendengi> 
+C: Si pagamos, la urna también lo venden
+
+M: ta tawül kuyfi deu deumaluwi paysano 
+C: antes se hacia la urna paisano
+
+M: tüfa ta nelu ta tawül ka ngillalu <*SPA>cien mil <*SPA>pesos 
+C: ahora se compra en cien mil pesos
+
+M: falita ciento <*SPA>veinte <*SPA>segun <*SPA>el <*SPA>la <*SPA>hurna 
+C: vale ciento veinte según la urna
+
+M: pillelay wingka ta tawül pingey 
+C: dicen los wincas, tienen que tener ataúd
+
+M: feyta kuyfi ta deumalüukefuy
+C: por eso antiguamente lo hacían solos
+
+M: kidutu deumakefuy <*SPA>antiguo <!1antiwü>
+C: solo lo fabricaban los antiguos
+
+M: tafla deumangey <!1deu<*SPA>mangi> sepillangey ta tüfa 
+C: de tabla lo hacían, bien cepillado
+
+nmlch-pmlrc2_1_0199_nmlch_00: 
+M: Doy wechali feychi dungu ka 
+C: Ahora ni hablar de eso
+
+nmlch-pmlrc2_1_0200_pmlrc_00: 
+M: Doy wechali feychi dungu nielu ta <*SPA>plata ta kümelu nienolu 
+C: Ni hablar de eso, por eso el que tiene plata compra bueno
+
+M: <*SPA>plata <*SPA>como <*SPA>lismona <!1limona> reke rupay ta tamu ta che 
+C: plata como limosna pasa por ahí la gente
+
+M: rume wechali tiemu newe kümetulay tamu ti 
+C: muy malo que, por allí no esta muy bueno
+
+nmlch-pmlrc2_1_0201_nmlch_00: 
+M: Feychimu kümelelaymün 
+C: Es por eso que no están bien
+
+nmlch-pmlrc2_1_0202_pmlrc_00: 
+M: Feychi newe kümelelayiñ 
+C: Es por eso que no estamos bien
+
+M: feli taiñ dungu tati 
+C: así estamos pasando
+
+M: pensionaukülelu feyta lifreniey ta tawül 
+C: el que está pensionado tiene libre el ataúd
+
+M: ka <*SPA>pensionado <!1pensionau> pingeki ta tati 
+C: dicen que es pensionado
+
+nmlch-pmlrc2_1_0203_nmlch_00: 
+M: May, may, may 
+C: Si, si, si
+
+nmlch-pmlrc2_1_0204_pmlrc_00: 
+M: Feyta lifre 
+C: Ese está libre
+
+M: <*SPA>tienen chumpüsalu rume <*SPA>pensionado <!1pensionau> 
+C: sin hacer nada, pensionado 
+
+M: famün piy elufemngey tawül <*SPA>ese <*SPA>vá <*SPA>libre <!1liure> lifre fey 
+C: se muere y le pasan altero la urna, ese va libre, ese es libre
+
+M: <*SPA>pero pa umau chi che <*SPA>descuenta neymangey <!1neymangi> <* SPA>algo <!1algu>
+C: para la gente que se duerme le descuentan y le quitan algo
+
+M: ka descuentaneymangelay kütu kiñe pensionado <!1pensionau> 
+C: pero no le descuentan a su pensionado
+
+M:entuney <!1entuni> ta tamu <*SPA>treinta <*SPA>seis <*SPA>mil <*SPA>pesos <*SPA>con <*SPA>dosciento <*SPA>cincuenta <*SPA>pesos 
+C: va a sacar en eso treinta y seis mil pesos con doscientos cincuenta pesos
+
+nmlch-pmlrc2_1_0205_nmlch_00: 
+M: Eymi pensionaüküleymi 
+C: Usted está pensionado
+
+nmlch-pmlrc2_1_0206_pmlrc_00: 
+M: May iñche <*SPA>pensionado <!1pensionau> nentunen 
+C: Si, yo saco pensión
+
+nmlch-pmlrc2_1_0207_nmlch_00: 
+M: welu feytichi pensionaukülelu ka fey elungerme tawül ka,
+C: Así ese que esta pensionado le dan urna
+
+
+ M: ka femngechi müten ka kullikey <!1kulliki> <*SPA>treinta <*SPA>cinco <!1cincu> 
+C: Así es así como se paga treinta y cinco
+
+
+
+nmlch-pmlrc2_1_0208_pmlrc_00: 
+M: ka femngechi chi 
+C: Así nomás es
+
+M: <*SPA>aparte <*SPA>esos treinta cinco 
+C: aparte esos treinta y cinco
+
+nmlch-pmlrc2_1_0209_nmlch_00: 
+M: Müna weda <!1wesa> <*SPA>no 
+C: Allallay no
+
+nmlch-pmlrc2_1_0210_pmlrc_00: 
+M: Wecha dungu <*SPA>pues, 
+C: Eso es malo pués
+
+
+M: wecha dungu antiguo <!1antiwu> tañi femkunel 
+C: malo de lo antiguo que dejo así
+
+M: <*SPA>antiguo niekeleyem kiñe kidu, 
+C: como antiguo no lo tenían
+
+M: kiñe tem müleam kiñe chem <*SPA>cementerio 
+C: no dejaron para hacer un cementerio
+
+M: niafuyem femürkolerpuante feymu 
+C: así iremos a seguir
+
+M: iñchiñ tiyemu müliyiñ <*SPA>cementerio
+C: nosotros allí teníamos cementerio
+
+M:feyta seralu winka kofrangiyiñmu 
+C: así los wincas lo cerraron y ahora nos cobran
+
+nmlch-pmlrc2_1_0211_nmlch_00: 
+M: ¡Aa! wecha kunungeymün ka 
+C: ¡Aa! Harto mal los dejaron
+
+nmlch-pmlrc2_1_0212_pmlrc_00:
+M: Well wesakunungeyiñ pu antiguo <!1antiwo>
+C: Así lo dejaron lo antiguo
+
+M: <*SPA>ni <*SPA>culpa kuyfike che mülekelay petu <*SPA>cementerio 
+C: tiene culpa, la culpa que los antiguos no tenían cementerio
+
+M: yem <*SPA>aparte nekele engün felerpuafuy 
+C: aparte tenían para seguir así 
+
+M: <*SPA>antiguedad ti inal tremkülelu,
+C: los que vienen creciendo
+
+M: tremkülelu puche ka femngechi <*SPA>cementerio 
+C: la gente que va creciendo así usaba cementerio
+
+M: <*SPA>cual chem kuydayafuy 
+C: cual puede cuidar
+
+M:<*SPA>pues <!1pu'> tüfa wingka müntuy <*SPA>entonces <*SPA>para <!1pa'> ellos 
+C: pues estos wincas quitaron entonces para ellos
+
+nmlch-pmlrc2_1_0213_nmlch_00:
+M: Ngüneymangetuyngün 
+C: Se lo quitaron
+
+nmlch-pmlrc2_1_0214_pmlrc_00: 
+M: Ngüneymangetuyngün 
+C: Se lo quitaron
+
+nmlch-pmlrc2_1_0215_nmlch_00:
+M:Müna weda <!1wecha> <*SPA>no wechakunungeymün ka 
+C: Muy malo, muy malo
+
+nmlch-pmlrc2_1_0216_pmlrc_00: 
+M: Weda <!1wecha> 
+C: Malo
+
+nmlch-pmlrc2_1_0217_nmlch_00: 
+M: Weda <!1wecha> kunungeymün 
+C: Lo dejaron muy mal
+
+nmlch-pmlrc2_1_0218_pmlrc_00: 
+M: weda kunungiyiñ 
+C: Lo hicimos muy mal
+nmlch-pmlrc2_1_0219_nmlch_00: 
+M: chumngeafuy ta fey weda <!1wecha> 
+C: Como hacerlo, ese mal
+
+M: amulimün welu petu ngütrankalmün doy newentupeafuymün ka 
+C: pueden ustedes ir a conversar , tendríamos fuerza común
+
+nmlch-pmlrc2_1_0220_pmlrc_00: 
+M: Femafuy chi 
+C: Así puede ser
+
+nmlch-pmlrc2_1_0221_nmlch_00: 
+M: May, may, may, may feyta tüfa kañpüle allkukepelaymi noticiamu
+C: Si, si, si, si estas cosas otra parte lo han escuchado en las noticias
+
+
+M: <*SPA>contaminación pikey <!1piki> ta wingka 
+C: contaminación dicen los wincas
+
+M: feychi dungu ngelay tüfamu 
+C: esa conversa no hay aquí
+
+nmlch-pmlrc2_1_0222_pmlrc_00: 
+M: Mülelay, mülelay feychi dungu 
+C: No hay, no hay esa conversa, no hay
+
+nmlch-pmlrc2_1_0223_nmlch_00: 
+M: ngelay <*SPA>contaminación 
+C: No hay contaminación
+
+nmlch-pmlrc2_1_0224_pmlrc_00: 
+M: Mülelay <*SPA>contaminación 
+C: No hay contaminación
+
+nmlch-pmlrc2_1_0225_nmlch_00: <uh> 
+M: tüfa wechake kürüf el-lay ta wedake <!1wechake> <*SPA>contaminación 
+C: el viento malo no ha dejado la mala contaminación
+
+nmlch-pmlrc2_1_0226_pmlrc_00: 
+M: <*SPA>No mülelay <Noise> 
+C: No hay nada
+
+nmlch-pmlrc2_1_0227_nmlch_00: 
+M: Kichuke wedake <!1wechake> kutran pekan kutran müten kompakey <!1konpaki> 
+C: Cada enfermedad que aparece aquí no es contaminante
+
+nmlch-pmlrc2_1_0228_pmlrc_00: 
+M: Fey +/wesake/+  pekan kutran müten kompakey <!1kompaki> más <!1ma'> 
+C: Si cualquier enfermedad comun entra
+
+nmlch-pmlrc2_1_0229_nmlch_00: 
+M: ¡Aa! <P> <Noise> fey peñi ta <uh> kümi tami kimfiel tati 
+C: ¡Aa! Así es peñi, que bueno que te conocí
+
+M: fey iñche kamapu tripapan tüfa 
+C: por eso yo vengo de lejos aquí
+
+nmlch-pmlrc2_1_0230_pmlrc_00: 
+M: feley <!1feli> 
+C: Cierto
+
+nmlch-pmlrc2_1_0231_nmlch_00: 
+M: kontüupapiyiñ tüfa ngütramkamean tañi peñi pipen 
+C: vamos a conversarle a mi peñi dije
+
+
+M: ka kinmiafiñ chumlen engün 
+C: para saber como están ustedes
+
+<uh>
+M:  chumngechi tañi llellipuken engün 
+C: como hacen llellipun ustedes
+
+M: chumechi tañi ingkaneuken kutranmu pipen 
+C: como se ayudan por enfermedad, me dije
+
+M: feymu peupapiyiñ tati 
+C: por eso vine aquí
+
+nmlch-pmlrc2_1_0232_pmlrc_00: 
+M: Feley <!1feli> gracia 
+C: Cierto, gracias
+
+nmlch-pmlrc2_1_0233_nmlch_00: 
+M: Kümey <!1kümi> tamün müte kutranchengenon 
+C: Que bueno que no son enfermizos
+
+M: Ka kümey <!1kümi> tamün  petu akunon ta wedake kutran 
+C: bien bueno que no han llegado las malas enfermedades
+
+M: welu ka rumel llellipulelmün kompalayay tati 
+C: siempre estén haciendo llillipun, así no entraran
+
+nmlch-pmlrc2_1_0234_pmlrc_00: 
+M: Femay 
+C: Se hará
+
+nmlch-pmlrc2_1_0235_nmlch_00: 
+M: Iñche <uh> amuletuan peñi 
+C: Yo me voy peñi
+
+M: fentepuay tañi ngütram 
+C: hasta aquí llega la conversa
+
+nmlch-pmlrc2_1_0236_pmlrc_00: 
+M: Gracia, may peñi gracia ngütramkapay fey 
+C: Gracias, si peñi, gracias por venir a conversar
+
+nmlch-pmlrc2_1_0237_nmlch_00: <uh>
+M: Duamtuneuputuayiñ <!1suamtuneuputuayiñ> tati eymiam 
+C: Lo recordaremos a ustedes
+
+M: wüne trekalelu tüfa 
+C: usted es mayor aquí
+
+<uh>
+M: kayu mari kayu tripantu tiene pipeymi ama 
+C: sesenta y seis años dijo usted
+
+nmlch-pmlrc2_1_0238_pmlrc_00: 
+M: May <*SPA>setenta <*SPA>cinco <*SPA>años 
+C: Si, setenta y cinco años
+
+nmlch-pmlrc2_1_0239_nmlch_00: 
+M: ¡Aa! kayu mari kechu 
+C: ¡Aa! sesenta y cinco años
+
+nmlch-pmlrc2_1_0240_pmlrc_00:
+M: May 
+C: Si
+
+nmlch-pmlrc2_1_0241_nmlch_00: 
+M: Feyti fey alün kimün nieymi tati 
+C Es por eso que sabe harto
+
+M: alün dungumu ta rupakey <!1rupaki> tami longko feymu pepiyu tati peñi
+C: por hartas cosas ha pasado en su cabeza sabemos peñi
+
+nmlch-pmlrc2_1_0242_pmlrc_00: 
+M: Gracia may peñi gracia 
+C: Gracias, si peñi, gracias
+
+nmlch-pmlrc2_1_0243_nmlch_00: 
+M: Feula ta amuletuan 
+C: Ahora me voy
+
+M: y peumangelmi doy <!1soy> alüniaymi ka mongen ka kimün
+C: y ojalá le de más vida y más saber
+
+M: ka fey kom kümeliaymün 
+C: y que este muy bien
+
+nmlch-pmlrc2_1_0244_pmlrc_00: 
+M: Feley <!1feli> 
+C: Cierto
+
+nmlch-pmlrc2_1_0245_nmlch_00: 
+M: Fentepuay nga peñi tüfa chaltu may, chaltu peñi 
+C: Hasta aquí llegamos peñi
+
+nmlch-pmlrc2_1_0246_pmlrc_00: 
+M: <*SPA>Ya <*SPA>gracias. 
+C: Ya gracias
+
+
+
+

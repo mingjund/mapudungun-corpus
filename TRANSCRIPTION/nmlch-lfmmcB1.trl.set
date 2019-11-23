@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nmlch-lfmmcB1_x_%04d_nmlch_00
+nmlch
+nmlch-lfmmcB1_x_%04d_lfmmc_00
+lfmmc
+UserLables: 2
+<*SPA>
+<Laugh>
+LableMenuFile
+C:\Program

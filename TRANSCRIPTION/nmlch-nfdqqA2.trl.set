@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 365
+SpeakerNum: 2
+nmlch-nfccpA2_x_%04d_nmlch_00
+nmlch
+nmlch-nfccpA2_x_%04d_nfccpA_00
+nfccpA
+UserLables: 2
+<*SPA>
+<Throat>
+LableMenuFile
+C:\Program

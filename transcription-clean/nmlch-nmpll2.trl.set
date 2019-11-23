@@ -1,0 +1,13 @@
+InfoVersion 1
+TurnCounter 194
+SpeakerNum: 2
+nmlch-nmpll2_x_%04d_nmlch_00
+nmlch
+nmlch-nmpll2_x_%04d_nmpll_00
+nmpll
+UserLables: 3
+<*SPA>
+<Cough>
+<Throat>
+LableMenuFile
+C:\Program

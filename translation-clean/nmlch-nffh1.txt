@@ -1,0 +1,2258 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nffh1 
+; Last changes made on 09/21/2001 
+; Transcriber: Marcela Collio  
+; Comments:  
+; Traduce: Maria Soledad Catrilaf
+
+nmlch-nffh1_x_0000_nmlch_00:
+M : Mari, mari lamuen 
+C  : Buenos dias hermana .
+
+nmlch-nffh1_x_0001_nffh_00:
+M : Mari, mari lamuen
+C : Buenos dias hermano .
+
+nmlch-nffh1_x_0002_nmlch_00: 
+M : ¿chumlimi eymi?
+C : ¿Como estás tú?.
+
+nmlch-nffh1_x_0003_nffh_00:
+M : kümelkalen 
+C : Estoy bién .
+
+nmlch-nffh1_x_0004_nmlch_00:
+M : kümelkalimi
+C : Estas bién.
+
+nmlch-nffh1_x_0005_nffh_00:
+M : may 
+C: Sí .
+
+nmlch-nffh1_x_0006_nmlch_00: <uh>
+M :  chem dungu 
+C :  Que se cuenta .
+
+M : rume ngelay tami lofmew
+C : Alguna noticia en su lugar . 
+
+nmlch-nffh1_x_0007_nffh_00: <uh> <SPA>
+M :No ngelay
+C : No, no hay. 
+
+nmlch-nffh1_x_0008_nmlch_00:
+M : Ngelay
+C : No hay. 
+
+nmlch-nffh1_x_0009_nffh_00:
+M : Ngelay
+C : No hay.
+
+nmlch-nffh1_x_0010_nmlch_00:
+M : ¿ini pingimi eymi?
+C : ¿Como te llama?. 
+
+nmlch-nffh1_x_0011_nffh_00:
+M : Inche Fabiola Huentel pingen
+C : Yo me llamo Fabiola Huentel. 
+
+nmlch-nffh1_x_0012_nmlch_00: 
+M :Fey 
+C : sí
+
+M : ¿ini pingi tami lof ?
+C : ¿Como se llama su lugar? .
+
+nmlch-nffh1_x_0013_nffh_00:
+M : Pajal pingi ñi lof
+C : Pajal se llama mi lugar. 
+
+nmlch-nffh1_x_0014_nmlch_00:
+M: feley lamuen Pajal pingi
+C : Así es hermana, Pajal se llama. 
+
+nmlch-nffh1_x_0015_nffh_00: 
+M :May feli 
+C : Sí , así es .
+
+nmlch-nffh1_x_0016_nmlch_00:
+M :Feli lamuen 
+C : Así es hermana
+
+M :inche tüfa ramtuan
+C : yo, voy a preguntarle
+
+M : ñi lamuen pipen 
+C: a mi hermana
+
+M:fey rakiduamün
+C:por eso pensé
+
+M : nieyu tami kimün eymi 
+C: tienes tú conocimiento
+
+M: feymu ramtupeyu fey tüfi 
+C: por eso té pregunto
+
+M: inche ramtuayu tüfa 
+C: yo te voy a preguntar esto
+
+M: chumuechi ñi kimngeken kutran
+C: cómo se conoce la enfermedad
+
+M: ka chumuechi tañi müleken mongenmu 
+C: y como se tiene buena vida.
+
+nmlch-nffh1_x_0017_nffh_00: 
+M : feley <Noise>
+C : Así es.  
+
+nmlch-nffh1_x_0018_nmlch_00: 
+M:¿eymi lamuen tami mongenmu
+C:¿ Usted  hermana  para sanarse 
+
+M:tami kimünmu kutranchengimi?
+C:  tú sabés  que está enfermo?.
+
+nmlch-nffh1_x_0019_nffh_00: 
+M: femnglan inche -/kutran/-
+C: Yó no tengo enfermedad
+
+M:kutranchengelan inche
+C:yo no me enfermado.  
+
+nmlch-nffh1_x_0020_nmlch_00: 
+M: ¿kutranchengelaymi/
+C:¿ Y usted no se a enfermado ?.
+
+nmlch-nffh1_x_0021_nffh_00:
+M : <SPA>no 
+C : No.
+ 
+nmlch-nffh1_x_0022_nmlch_00:
+M: tami ñuke, chaw 
+C : Su mamá  o papá.
+
+nmlch-nffh1_x_0023_nffh_00: 
+M: Tañi ñuke kutranchengi <uh>
+C : Mi madre está enferma 
+ 
+M: itrofill kutrannieki kom <uh>
+C: tenía variadas enfermedades.
+  
+nmlch-nffh1_x_0024_nmlch_00:
+M: ¿Inakeyu kutran?
+C: ¿Sígue  con la enfermedad? .
+
+nmlch-nffh1_x_0025_nffh_00:
+M: May <uh> 
+C: Sí
+
+M: kutranküleki <SPA>siempre <uh>
+C: está siempre enfermo.
+ 
+nmlch-nffh1_x_0026_nmlch_00:
+M: Rumel 
+C: Siempre .
+
+nmlch-nffh1_x_0027_nffh_00:
+M: May <Noise> 
+C: Sí.
+
+nmlch-nffh1_x_0028_nmlch_00:
+M: ¿Kuyfi dewma?
+C: ¿Ahora  ya es tarde?.
+
+nmlch-nffh1_x_0029_nffh_00:
+M: Kuyfi pu kuyfitu pütra kuyfi ñi kutranküleken <uh>
+C: De hace tiempo , hace mucho tiempo que  tiene esa enfermedad.
+ 
+M: amuli ñi kutran <uh>
+C: se fue  mi enfermedad.
+ 
+nmlch-nffh1_x_0030_nmlch_00:
+M: ¿Tunten tripantu küla mari epu mari?
+C: ¿Cuantos  años son treinta y dos? .
+
+nmlch-nffh1_x_0031_nffh_00:
+ <uh> 
+
+nmlch-nffh1_x_0032_nmlch_00:
+M: Mari kiñe
+C: Once .
+ 
+nmlch-nffh1_x_0033_nffh_00:
+M: Feypüle peno
+C: Por ahí  tiene que ser .
+ 
+nmlch-nffh1_x_0034_nmlch_00:
+M: ¡Ah!
+C: Ah.
+
+nmlch-nffh1_x_0035_nffh_00:
+M: Chumlen.
+C: Como estoy .
+ 
+nmlch-nffh1_x_0036_nmlch_00: 
+M: ¿Chem doy?
+C: ¿Qué más ?.
+
+nmlch-nffh1_x_0037_nffh_00: <uh>
+M: Furi, furi kutranki piki longko 
+C: Me duele la cabeza dice él longko
+
+M:longkotukeyu ñi  kutran  <uh>
+C: le llegó a la cabeza la enfermedad
+ 
+M: ka kom foro, foro kutranki piki fey, fey 
+C: y también  todo mis dientes me duele dice él.
+
+_x_0039_nffh_00038_nmlch_00:
+M: Femuechi piki
+C:  Eso dice él.
+ 
+nmlch-nffh1_x_0040_nffh_00:
+M: Femngechi müleki tañi kutran femngechi
+C: Así está mi enfermedad así.
+
+nmlch-nffh1_x_0041_nmlch_00:
+M: Fey lamuen tüfi 
+C: Así es hermano.
+
+M:¿+/chew/+ +/pewki/+ chew pewütuki?
+C:¿ cuándo lo vió? .
+
+nmlch-nffh1_x_0042_nffh_00: <uhm>
+ 
+nmlch-nffh1_x_0043_nmlch_00:
+M: pitalmu 
+C: Hospital
+
+M:¿konkelay machimu?
+C:¿ no ha visto  en  machi?.
+
+nmlch-nffh1_x_0044_nffh_00:
+M: Pitalmu miawki <Noise>
+C :Al  hospital voy ..
+
+M: ka<uh> uyu <uh> machi l'awen'tuki ka <uh
+  remedio de machi estoy tomando 
+
+M: ka femngechi ka 
+C: así, de esta manera
+
+M:ka epuñpüle miawki
+C: así en dos partes anduve.
+ 
+nmlch-nffh1_x_0045_nmlch_00:
+M: epu rume l'awen'
+C: Dos clase de remedio .
+ 
+nmlch-nffh1_x_0046_nffh_00:
+M: may epuñpüle mapuche l'awen'tuki ka 
+C:  Sí  dos  clases  de  remedio mapuche estoy tomando.
+
+nmlch-nffh1_x_0047_nmlch_00:
+M: wingka l'awen'
+C: Remedio  wingka.
+ 
+nmlch-nffh1_x_0048_nffh_00:
+M: wingka l'awen'
+C: Remedio wingka
+
+M: ka miawki pitalmu
+C: también anduve  en el hospital.
+
+nmlch-nffh1_x_0049_nmlch_00:
+M: Eymi tami rakiduammew 
+C: En tús conocimiento
+
+M:¿chuchi l'awen' doy küme künukiyu?
+C: ¿Cuál  remedio es más bueno ....
+
+nmlch-nffh1_x_0050_nffh_00:
+M: Mapuche l'awen'
+C: Remedio mapuche
+ 
+M: mapuche doy kümelkakiyu
+C: es más bueno el mapuche . 
+
+nmlch-nffh1_x_0051_nmlch_00:
+M: Fey 
+C: Ah  sí.
+
+nmlch-nffh1_x_0052_nffh_00:
+M. fey e'te <uhm>
+C: Yó
+
+M: dewma fütra kuyfi
+C. ase mucho  tiempo 
+
+M: ñi pütokolena mapuche l'awen'
+C: estoy tomando  remedio mapuche 
+
+M: doy kümelkaleki
+C: pués ,es más  bueno.
+
+nmlch-nffh1_x_0053_nmlch_00:
+M: fey lamuen
+C:  Así es hermano 
+
+M:tüfi ñi longko kutraniem kimlafimi 
+C: hace tiempo que me dolía  la cabeza no sabías 
+
+M: chumuechi ñi tun 
+C: cómo lo puedo hacer 
+
+M:femuechi kutran kidu feypikelay 
+C: de está  enfermedad no contaba 
+
+M: feymu tüfiñ feychi kutran pikelay
+C: por eso  le dige  que esa enfermedad no era. 
+  
+nmlch-nffh1_x_0054_nffh_00:
+M: kimlan ke fey feypikelayu weda kutranki müten <SPA>
+C: No se como me contagié  esta enfermedad 
+
+M:pero kimlay chum kimlay chumuechi tufel chi kutran kimlay <uh>
+C. pero no sé  donde me contagié la enfermedad.
+    
+nmlch-nffh1_x_0055_nmlch_00:
+M: chew ñi tufiel
+C: Dónde  lo sacó.
+ 
+nmlch-nffh1_x_0056_nffh_00:
+M: may ñi
+C: Sí..
+ 
+nmlch-nffh1_x_0057_nmlch_00:
+M: chumuechi ñi ka mongetual
+C:  Como me voy a mejorar .
+ 
+nmlch-nffh1_x_0058_nffh_00:
+M: kimlay, kimlay <SPA>
+C: No sé , no sé 
+
+M:ósea pütokoki l'awen' elungekefuy <SPA>y 
+C: ó sea  estoy  tomando  remedio que me habían dado.
+ 
+nmlch-nffh1_x_0059_nmlch_00:
+M: pichi
+C: Poco..
+ 
+nmlch-nffh1_x_0060_nffh_00:
+M: pichi kümelkakefuy ka <SPA>
+C: Poco es más bueno
+
+M: y <SPA> depue ka
+C: y más después también. 
+ 
+nmlch-nffh1_x_0061_nmlch_00:
+M: ka akutuki
+C: Llegó de vuelta .
+ 
+nmlch-nffh1_x_0062_nffh_00:
+M: ka akutuy
+C: Llego otra véz 
+
+M: ka akuy chi kutran
+C: otra vez volvió la enfermedad. 
+ 
+nmlch-nffh1_x_0063_nmlch_00:
+M: feychi lamuen fey <uh>
+C: Por eso  hermano 
+
+M: tüfi chem, chem l'awen' elungeki pitalmu 
+C: que remedio le dieron en el hospital
+
+M:¿kimkfimi?
+C:¿ lo conocías?.
+
+nmlch-nffh1_x_0064_nffh_00: 
+<uh>
+ 
+nmlch-nffh1_x_0065_nmlch_00:
+M: <SPA>pastilla
+C: Pastillas.
+
+nmlch-nffh1_x_0066_nffh_00: 
+M:<SPA>pastilla müten pu <SPA>
+C: Solamente pastillas 
+
+M: pastilla elungeki <SPA>de <SPA><SPA><SPA>
+C: me dieron solamente pastillas 
+
+M:repente kom kuerpu kutrankülelu <SPA>
+C: de repente  me duele todo el cuerpo 
+
+M: inyección tukungeki vey  pichi
+C: me pusieron una inyección  y nada más .
+
+ffh1_x_0067_nffh_00o 
+M: ka  n tukungeki vey  pichi<SPA>
+C: También me pusieron  un poquito
+
+M: pastilla elungeki <SPA >
+C:  me  dieron pastillas
+
+M: de <SPA><SPA><SPA>rep00:
+C: de
+
+M:  ka, ka küpatuy chi
+C: me vine de regreso .
+  
+nmlch-nffh1_x_0068_nmlch_00:
+M: Wüñtukiyu
+C: Volvemos ....
+ 
+nmlch-nffh1_x_0069_nffh_00:
+M: +/wüño/+ Wüñotukiyu chi kutran
+C:  Volvió  la enfermedad
+ 
+nmlch-nffh1_x_0070_nmlch_00:
+M: femuechi kutranmu wüño,
+C: Esa clase  enfermedad vuelve ..   
+
+M: wüñongelu
+C: vuelve 
+
+M: fey ka newe pekelay l'awen'
+C:  es más no se encuentra remedio 
+
+M: pingi tati lamuen
+C: así dicen hermano  
+
+M: fey ka welu mapuche l'awen'mu
+C: y también en la medicina mapuche
+
+M: kimfimi chem l'awen' pütokoken 
+C: conoces que remedio  estoy tomando . 
+
+nmlch-nffh1_x_0071_nffh_00:
+M: fey ke ta kimlan 
+C : Esó no lo sé  
+
+M : elungeki müten kidu tañi chaw  ta <uh>
+C:  sé lo da  solamente su papá.
+ 
+nmlch-nffh1_x_0072_nmlch_00:
+M: l'awen'ngi l'awen'tukiyu 
+C: Posee remedio , tomamos remedio 
+
+nmlch-nffh1_x_0073_nffh_00: 
+M: <SPA>no <SPA>no <uh>
+C: No no
+
+M: tañi chaw ngillalmkey l'awen' <uh>
+C: mi padre  compra el remedio .
+ 
+nmlch-nffh1_x_0074_nmlch_00:
+M: ¿Machimu?
+C:¿ En la machi ?.
+
+ nmlch-nffh1_x_0075_nffh_00:
+M: machimu, machimu <uh>
+C: En la machi , en la machi 
+
+M: pütokoki kidu fey doy kümelkaletuki
+C: ella  tomaba agua y se mejoraba ...
+  
+nmlch-nffh1_x_0076_nmlch_00:
+M: tünküfimu
+C: Ah  pretendo.
+
+nmlch-nffh1_x_0077_nffh_00: 
+M: May.
+C: Sí.
+
+M: doy pichi tañi
+C: es más chico mi.
+ 
+nmlch-nffh1_x_0078_nmlch_00:
+M: ¿feyti lamuen <uh>
+C: Así  es hermano 
+
+M: kidu machimu pewtukelay?
+C: ella no va a ver  a una machí. 
+ 
+nmlch-nffh1_x_0079_nffh_00:
+M: femkelay, femkelay, femkelay pütokokimüten l'awen'
+C :No lo hecho , no lo hecho , no lo hecho tomo remedio no más 
+
+M: <SPA>pero <uh> newe kimlay tañi chem nien 
+C: pero no sabe  mucho lo  tiene  
+
+M:<SPA>porque wüñotumekeyu chi kutran 
+C: porque de la enfermedad no se sana 
+
+M:fey kimlay ñi chem nien
+C:  y no sabe  que enfermedad es 
+ 
+nmlch-nffh1_x_0080_nmlch_00:
+M: feley eymi tami rakiduamew 
+C: Así es, en tus conocimientos 
+
+M:chem chi kümefuy kay kutran longkomu 
+C: que es lo que será bueno también  para el dolor de cabeza  
+
+M:eymi kutranfule tami longko <uh>
+C: sí a ti te llegara a doler la cabeza 
+
+M:femün pielmu kiñe wen'i domo
+C: eso me  sucedió te dijera una amiga 
+
+M:müna kutrani longko pifelmu 
+C: me duele la cabeza  te dijera 
+
+M:chem eluafuymi 
+C: Que le darías 
+
+M:chumuechi piafuymi.
+C:  y como que dirías.
+ 
+nmlch-nffh1_x_0081_nffh_00:
+M: <uhm> chem l'awen' chi kimlan
+C: Que remedio  , no lo sé  
+
+M: <SPA>haber<SPA>haber <SPA>
+C: haber ,haber
+
+M:a'pirina tuafun wingka l'awen' müten tuafun 
+C: aspirina tomaría , remedio wingka   tomaría .
+
+nmlch-nffh1_x_0082_nmlch_00:
+M: eymi femuechi kutranülmi  tami longko
+C: A tí te doliera de ésa manera  la cabeza.  
+ 
+nmlch-nffh1_x_0083_nffh_00: 
+M:may, may femafun tati
+C: Sí , sí  eso me pasaría de repente .
+
+nmlch-nffh1_x_0084_nmlch_00:
+M:  kiñekemu femuechi tuteki eylla
+C: A veces así es bueno poco 
+
+M: femuechi feli kutran 
+C: así  es  la enfermedad
+
+M:welu ka rume amukoni
+C: pero cuando avanza realmente   
+
+M_: ka tutewekelay pingi feyngepi tüfi ka
+C:  ya no es bueno  le dijeron así es eso.   
+ 
+nmlch-nffh1_x_0085_nffh_00:
+M: femngepe femnge femngi ka <uh>
+C: que  sea así es , así  será y así es 
+
+M: rupayalu rupaki chi kutran 
+C: cuando  va a pasar , pasa la enfermedad 
+
+M:rupanolu rupakelay
+C: y sí  no pasa  no pasa.
+ 
+nmlch-nffh1_x_0086_nmlch_00:
+M: feli pu lamuen
+C: Así  es hermano  .
+
+nmlch-nffh1_x_0087_nffh_00:
+M: wingka l'awen'mu
+C: En el remedio wuingka.
+ 
+nmlch-nffh1_x_0088_nmlch_00:
+M: feli pu lamuen 
+C: Así es  hermano  
+
+M:feyti a'lün' tripantu dewmalleli tami ñuke felen
+C: esos artos año desde que tú madre es así
+ 
+nmlch-nffh1_x_0089_nffh_00: <Cough>
+M: pütra kuyfi ñi tuel chi kutran pütra kuyfi
+C: Hace  tanto tiempo  que me  contagié  de ésa  enfermedad , hace tiempo
+
+M:  <uhm> <Noise> kom
+C: todo.
+
+nmlch-nffh1_x_0090_nmlch_00:
+M: feli lamuen fey
+C: Así es hermano así
+
+M: femuechi kutran ka kam chi padmu
+C: esa enfermedad y o él pasmo
+
+M: chi tunieyu padmu longko kimimi tüfi
+C: que estamos contagiado  de pasmo de la cabeza sabés.
+ 
+nmlch-nffh1_x_0091_nffh_00:
+M: kimlafiñ inche feychi kutran 
+C: Yo no conózco  ese tipo de  enfermedad.
+
+nmlch-nffh1_x_0092_nmlch_00:
+M: <uh> femuechi kofili tañi kalül che
+C: Así está  ardiendo mi cuerpo.
+
+nmlch-nffh1_x_0093_nffh_00:
+M: may 
+C: Sí.
+
+nmlch-nffh1_x_0094_nmlch_00:
+M: ka küchawi feyta
+C: También se lava está
+
+M: femuechi ta padmuki pingi feyngepi
+C: así  se enfermó  de pasmo se dice, así es.
+ 
+nmlch-nffh1_x_0095_nffh_00:
+M: !Ah¡ fem 
+C: Ah así .
+
+nmlch-nffh1_x_0096_nmlch_00:
+M: feyngi
+C: Así es.
+
+nmlch-nffh1_x_0097_nffh_00:
+M: feynge feyngepelay 
+C: Es o no es  
+
+M:<SPA>Ah<SPA>lo <SPA>mejor femngi chi fey
+C: ah lo mejor  es así eso 
+
+M:feychi kutranfel chi kimlan
+C: esa enfermedad no lo conózco. 
+
+nmlch-nffh1_x_0098_nmlch_00:
+M: fey lamuen eymi padmukelaymi
+C: Así hermano , usted  no se ha pasmado. 
+ 
+nmlch-nffh1_x_0099_nffh_00:
+M: inche <SPA>
+C: Yo
+
+M:no inche <SPA>
+C: yo no 
+
+M:no tüspu inche kutranchengekelan inche <SPA>
+C: no nunca yó no soy una persona enfermiza 
+
+M:no tukelay tukelan feychi kutran 
+C: yó no me e contagiado  de ésa enfermedad
+
+M:chem kutran rumetukelan
+C: no me contagió  de ninguna enfermedad.
+  
+nmlch-nffh1_x_0100_nmlch_00:
+M: kutrankelaymi
+C: No se ha enfermado usted. 
+ 
+nmlch-nffh1_x_0101_nffh_00:
+M: kutrankelan inche
+C: Yo no me enfermado.
+ 
+nmlch-nffh1_x_0102_nmlch_00: 
+M:kimlafimi chi padmu
+C: No conoces  el pasmo.
+ 
+nmlch-nffh1_x_0103_nffh_00:
+m: kimlafiñ, kimlafiñ tañi chaw ke ta <Cough> 
+C:No conozco , no conzco ....
+
+M:<uh> kuyfi pamuy <uh>
+C: hace tiempo me pasme 
+ 
+M:foromu pa pamuy <uh>
+C: en los dientes me dió el pasmo 
+
+M: müna wechalkalefuy dewma kiñe <uh>
+C: estuve  muy mal un tiempo.
+ 
+nmlch-nffh1_x_0104_nmlch_00:
+M: tripantu
+C: Año.
+
+nmlch-nffh1_x_0105_nffh_00:
+M: no <uh>
+C: No
+
+M: kiñe kiyen amuli ñi pamu <uh>
+C: hace un mes se fue mi pasmo 
+
+M: müna wechalkalefuy <uh> chem ru chem dungu <uh>
+C: estuve   muy mal..
+
+M: chem l'awen' chi pütokoy kimlan 
+C: que remedio es lo que tomo no lo sé
+
+M:fey ke ta kimlan eluni ta ke l'awen' rupay 
+C: eso sí ,no lo sé me dan remedio y  se me pasa  
+
+M:pero müna wechalkalefuy müna <%>
+C: pero estuve muy  mal , estuve.   
+ 
+nmlch-nffh1_x_0106_nmlch_00:
+M: wecha chemfuy
+C: Estuvo mal. 
+ 
+nmlch-nffh1_x_0107_nffh_00:
+M: may 
+C: Sí.
+
+nmlch-nffh1_x_0108_nmlch_00:
+M: ¿feyti <Cough> küpalay pitalmu? 
+C: ¿Esé día no vine al hospital ?.
+
+nmlch-nffh1_x_0109_nffh_00:
+M: küpalay müli rukamu müten
+C: No vine estuve en la casa solamente 
+
+M: rukamu müley pilay ñi küpayal pu rukamu müten mülean pi tripapalay 
+C: en la casa va a estar,  no quiere salir  en la casa no más va a estar dice él  no voy a salir.
+  
+nmlch-nffh1_x_0110_nmlch_00:
+M: kintulelngi l'awen'
+C: Ve a buscar remedio.
+ 
+nmlch-nffh1_x_0111_nffh_00:
+M: may kintulelngi <Cough> 
+C: Sí  búsquele   
+
+M:elungi fey <uh> <SPA>sulfato pingi <SPA>
+C: y denle eso , se llama sulfato
+
+M:sulfato tukuafimi pingi fey aguantanolu
+C: sulfato se hecha  dice  él que no aguanta más  
+
+M: fey tukuvi tukuvi dewma afi ñi foro kom afi aftuy ñi foro <uh>
+C: entonces se colocó , se acabaron  sus dientes   
+
+M: aguantanolu ñi kutran tuku
+C: No  aguantaba más mi dolor,  puse 
+
+M: tukukafuy tukuy rupatuy pu rupatuy mongetuy
+C:  había  puesto , pasó y se sano
+
+M: fey kümelkatuy <SPA>pero aftuy ñi kom ñi foro
+C: y se mejoró , pero  se me cayó  todo mis dientes.      
+ 
+nmlch-nffh1_x_0112_nmlch_00:
+M: ¿feyti l'awen'erkefel welu <uh>
+C: ¿ Ese remedio había dejado pero
+
+M: ka femuechi apomkerki foro?
+C: también acabó  con la dentadura?.
+
+nmlch-nffh1_x_0113_nffh_00:
+M: May müna wechalkay, wechalkay <SPA>
+C: Sí estuve muy mal , muy mal
+
+M:porque kom apümi ñi foro
+C:poque  se terminó mis dientes .
+   
+nmlch-nffh1_x_0114_nmlch_00:
+M: feli lamuen tüfi padmu <Noise>
+C: así es  hermano es el pasmo 
+
+M: ta ngelay ka l'awen' pitalmu pingi feyngepi ti
+C: no hay  más  remedio  en el hospital dicen así     
+
+M: eymi tami rakiduammu
+C: usted  que piensa .
+ 
+nmlch-nffh1_x_0115_nffh_00:
+M: felepelay tati lamuen <SPA>
+C: Así será hermana  
+
+M:porque <uh> pitalmu konki che padmumu <uh>
+C: porque  en el hospital entran  personas con pasmo  
+ 
+nmlch-nffh1_x_0116_nmlch_00:
+M: mongekelay
+C: No sana
+
+nmlch-nffh1_x_0117_nffh_00:
+M: mongekelay , mongekelay 
+C: No se mejora ,no se mejora 
+
+M:<Noise> elungekelay chem chemno rume
+C:no me dieron  nada
+
+M: <SPA>pastillano rume 
+C:ni siquera pastillas
+
+M:+/monge/+ mongekelay  pu mongekelay
+C: no se mejora 
+
+M: <Noise> y mülepeafuy, mülepeafuy wingka l'awen'
+C: habrá o no habrá  remedió wingka
+
+M: mülepeavuy ta pamu konlu chi l'awen'
+C: habrá remedio para él pasmo.
+  
+nmlch-nffh1_x_0118_nmlch_00:
+M: ngelay ka
+C: No hay más
+ 
+nmlch-nffh1_x_0119_nffh_00:
+M: Ngelay ngepeavuy ngelay
+C: No hay , habrá , no hay.
+
+nmlch-nffh1_x_0120_nmlch_00:
+M: feyti lamuen eymi tami rakiduamew <uh>
+C: Así  hermana  usted en su conocimiento
+ 
+M: inchiñ mapuchengen 
+C:nosotros  que somos mapuches 
+
+M:fill l'awen' müli mapumu pingi feyngepi
+C: existen diferentes  remedió en él campo decían.  
+ 
+_x_0122_nmlch_0023_nffh_00:
+M: feyngi tati feyngi <uh> <SPA><SPA>
+C: Así dícen así 
+
+M:repente kimlaiñ<Cough> ñi chem l'awen'ngekel <SPA>
+C: de repente no sé que remedió tengo 
+
+M:pero müli, müli pütrüli l'awen' 
+C: pero hay ,hay harto remedio
+
+M:inchiñ tañi, tañi mapumu wentemu
+C:nosotros en mi campo en él alto 
+
+M: +/miawma/+ miawfiñ rume tañi l'awen'mu kimlavuiñ kimlafiñ <SPA>y <SPA><SPA>
+C: porque anduvo siempre con remedio y no lo conocìa, no lo conozco
+
+M:repente kutran, kutran rumi ta che
+C: de repente se enferma , se enferma la gente 
+
+M: fey kümi pingi kintungi 
+C:eso es bueno dicen , busquen     
+
+M:ka -/fam/- feymu müten müli chi l'awen' <uh> 
+C: también ahí hay solamente remedio . 
+
+nmlch-nffh1_x_0123_nmlch_00:
+M: feymu ta duamtuki l'awen'  che 
+C: Ahí  pregunta remedio la gente .
+
+nmlch-nffh1_x_0124_nffh_00:
+M: fey feymu wüla duamtuki l'awen' <uh> 
+C:Sí , asi ahora  pregunta él remedio  
+
+M:tüfa ta l'awen' piki ta che
+C: este es el remedio dice la gente 
+
+M: tüfa fel ta l'awen' piki ta che <SPA>
+C: aquí esta el remedio  dice la gente  
+
+M:pero kimnofilu kay ta che <SPA>de <SPA><SPA><SPA>
+C: pero si no lo conoce el remedio la gente 
+
+M:repente <uh> kimkelay ta l'awen' ta che <SPA>
+C: de repente no lo conoce los remedios la gente  
+
+M:pero miawki wente l'awen'mu pünotullawki
+C: pero hay en el alto ,hay remedio..
+ 
+nmlch-nffh1_x_0125_nmlch_00:
+M: feli lamuen 
+C:Así es hermano  
+
+M:feyta inchiñ ta wechengenmu 
+C:asi cuando nosotros eramos jóvenes
+
+M:fey petu ñamümtufiñürke ta feytichi l'awen'
+C: se esta perdiendo ese remedio
+
+M: rume kümeke l'awen'fel pingi ta tüfi 
+C:buenos remedio eso dice él
+
+M:fey tüfallam ka rakiduam mületulu
+C: él está aquí también en el pensamiento hoy   
+
+M: feymu ta inchiñ ka rume inawentuletuiñ 
+C: por eso ahora  estamos repitiendo  
+
+M:ka rakiduammu pingi
+C: tiene algo que contar 
+
+M: eymi tami rakiduammu feyngepi tüfi
+C: usted en su conocimiento ,conoce 
+
+nmlch-nffh1_x_0126_nffh_00:
+M: feyngi tati feyngi tati lamuen <uh> <%> 
+C: Así es ,así hermana. 
+
+nmlch-nffh1_x_0127_nmlch_00:
+M: inawentuletuiñ
+C: Estamos repitiendo 
+
+nmlch-nffh1_x_0128_nffh_00: 
+M:may inchiñ <Cough>ta inawentuniñ ta dungu <uh>
+C: Sí nosotros estamos repetiendo lo que eran antes
+ 
+nmlch-nffh1_x_0129_nmlch_00: <uhm>
+ 
+nmlch-nffh1_x_0130_nffh_00:
+M: müna inaduamkületuiñ
+C:  Estamos observando.
+ 
+nmlch-nffh1_x_0131_nmlch_00:
+M: fewla 
+C: Por ahora .
+
+nmlch-nffh1_x_0132_nffh_00:
+M: fewla <uhm> tañi
+C: Por ahora ..
+ 
+nmlch-nffh1_x_0133_nmlch_00:
+M: tañi kimün
+C: Que sé .
+
+nmlch-nffh1_x_0134_nffh_00:
+M: kimün tañi..
+C: Sé .
+
+nmlch-nffh1_x_0135_nmlch_00:
+M: kuyfikeche
+C:Antiguamente la gente.  
+ 
+nmlch-nffh1_x_0136_nffh_00:
+M: ke kuyfikecheyem  fele,
+C: También antes  la gente era 
+
+M: feley 
+C: asi es .
+
+nmlch-nffh1_x_0137_nmlch_00:
+M: feley lamuen 
+C: Asi es hermano 
+
+M:feyti ta kuyfi petu akunolu wingka
+C: sí, antes que llegaran los wingkas   
+
+M: tufey taiñ pichi inchiñ taiñ fütakeche rume
+C: asi eran pocos , nosotros que estamos viejos..  
+
+M: pepiluufuy l'awen'mu pingi tami rakiduam tufi fy felepi
+C: sabes que remedio és  ..
+ 
+h1_x_0138_nmlch_00_nffh_00:
+M: feleki +/fep/+
+C: Asi  és 
+
+M: feley may +/felepe/+ -/felefi/- <uh>
+C: sí,asi és. 
+ 
+nmlch-nffh1_x_0139_nmlch_00:
+M: felepefuy
+C: Sí asi fuera. 
+ 
+nmlch-nffh1_x_0140_nffh_00:
+M: felepefuy tati <uh> tañi kuyfikecheyem müna kim l'awen'tu 
+C: Sí ,asi era antiguamente la gente sabia de remedio
+
+M:müna kim l'awen'
+C: sabia de remedio. 
+ 
+nmlch-nffh1_x_0141_nmlch_00: 
+M:tuchefuy
+C: Lo hacia bién.  
+ 
+nmlch-nffh1_x_0142_nffh_00: 
+M:tuchefuy pu vey <uh> mongekevuy 
+C:Que hace los remedio buenos y sanan 
+
+M:re inchiñ tañi mapu mongekefuy 
+C: nosotros en el campo sanabamos 
+
+M:ñi kuyfikecheyem kim l'awen'tufuy 
+C: antiguamente las personas sabian de remedio 
+
+M:kim l'awe'tufuy <uh> kom kimniy chi l'awen'
+C: sabian hacer toda clase remedio 
+ 
+M: <SPA>y fey kichuengün müten 
+C: si ,solo lo hacia  
+
+M:ta mongentukefuyngün ka <Noise>
+C: y sanaba el enfermo.  
+  
+nmlch-nffh1_x_0143_nmlch_00:
+M: welu kechi mongeluutukefuyngün
+C: Entre ellos se hacen remedio. 
+ 
+nmlch-nffh1_x_0144_nffh_00:
+M: may <Noise> may
+C: Sí ,sí .
+ 
+nmlch-nffh1_x_0145_nmlch_00:
+M: feyti lamuen
+C: Así ,es hermano 
+
+M: fey eymi tami rakiduamew kim papeltulafuyngün 
+C: en tú conocimiento sabias ,sin haber estudiado 
+
+M:amukelafuy chilkatuwe rukamuengün
+C:no iba estudiar estaba en la casa 
+
+M:  chumlimu eymün fewla
+C: y cómo éstas ahora.  
+
+nmlch-nffh1_x_0146_nffh_00:
+M: may
+C: Sí.
+  
+nmlch-nffh1_x_0147_nmlch_00:
+M: welu trürfüyngün <SPA>doctor 
+C:Pero algunos doctores coinciden
+
+M:ka trürfüyngün <SPA>médico
+C:también coinciden con médicos
+
+M: chumuelu chi femngefuyngün
+C: porque, será así 
+
+M: fentenengün chumuelu chi fente
+C:son hartos ..
+
+M: kimfuy l'aawen'engün Ngünechen elukefeyu kimün 
+C: saben bastante de remedios ya que nuestro Dios les da saviduría.  
+
+nmlch-nffh1_x_0148_nffh_00:
+M: femngi ka lamuen
+C: Así es hermano 
+ 
+M:<SPA>porque kidu ñi kidu ñi kimün müten
+C:porque solo uno sabe no mas 
+
+M: <SPA>que kimfingün  chi l'awen' fey 
+C: que saben de remedio
+
+M:l'awen'tukevi ka che kutranlu
+C:solo toma remedio cuando la persona está enferma
+ 
+M: Chaw Ngünechen ta elueyu ta elueyu ta kimün
+C: nuestro Dios nos da sabiduria 
+
+M: ka feymu ta +/kimü/+ kim l'awen'tuyngün 
+C: asi tambien conociento en remedio en general
+
+M:ka mongekeyngün kiduengün kidu tañi l'awen'engu
+C: también sanan solo con los remedios.
+ 
+nmlch-nffh1_x_0149_nmlch_00: 
+M:ka fey fellentulekefuy rumelengün 
+C: Él también creía en forma permanente.
+
+nmlch-nffh1_x_0150_nffh_00:
+M: may feley lamuen feley
+C: Sí, asi es hermana asi
+ 
+nmlch-nffh1_x_0151_nmlch_00:
+M: rume fellentukefuyngün
+C: Ellos creían mucho
+ 
+nmlch-nffh1_x_0152_nffh_00:
+M: may <Noise> 
+C: Sí.
+
+nmlch-nffh1_x_0153_nmlch_00:
+M: fewla inchiñ ta taiñ pu che wekeche
+C: Ahora la gente joven 
+
+M: newe fellentuwetulay pingi
+C: no estan creyendo 
+
+M: eymi tami rakiduam felepefuy 
+C: si,tú pensamiento  será así
+
+nmlch-nffh1_x_0154_nffh_00: 
+M:feley tati lamuen feley <SPA>
+C: Así era hermana así
+
+M:porque inchiñ ta kiñeke ta <SPA>toma encuentakelay 
+C:porque  algunos no toman encuenta 
+
+M:tañi inchiñ tañi l'awen' <uh>
+C:nuestro remedio 
+
+M: we re wingka l'awen'tule  tuliñ müten 
+C: solamente remedio wingka no más 
+
+M:re wingka l'aawen'tuy müten ta 
+C: que toman solamente remedio wingka
+
+M: tüfa ñi pu che tañi kuyfi l'awen' ta <SPA>toma enkuentakelavi 
+C:  Ahora nuestra gente no toma encuenta los remedios antiguos
+
+M: <uh> fey <SPA>hace kasokelay tañi kuyfikecheyem taiñ fütachem 
+C:  él no hace caso a las gentes antiguas ...
+
+M: <Noise> fellentukelafi wingka l'awen' müten ta tualu ta 
+C: así no eran  
+
+nmlch-nffh1_x_0155_nmlch_00:
+M: manelnefi 
+C: confía 
+
+nmlch-nffh1_x_0156_nffh_00: 
+M: manelniefi welu ta wingka l'aawen' ta ka kümey ka
+C: confía en los remedios del wingka, ya que este es bueno también
+
+M:  <SPA>pero inchiñ tañi l'aawen' ta doy kümefuy tati 
+C: pero nuestro remedio es más bueno que el otro
+
+M: doy kümefuy porque inchiñ ta kuyfikecheyem doy kim l'awen'tuy
+C: era mejor porque nosotros las gentes antiguas, sabían más de remedios 
+
+M: welu ta kiñeke ta kimlay
+C: pero algunos no saben
+
+M: <uh> doy manelniefi ta wingka l'awen' 
+C: confían más en los remedios wingkas.
+
+nmlch-nffh1_x_0157_nmlch_00:
+M:  fewla kimnoluürke müpetuiñ tüfa Noise> kimnoluürke 
+C: ahora no savía ..
+
+nmlch-nffh1_x_0158_nffh_00:
+M:  kimnolureke ka <SPA>ósea <uh> 
+C: No savía .
+
+nmlch-nffh1_x_0159_nmlch_00:
+M: newe dumnewetulayürke
+C:
+
+nmlch-nffh1_x_0160_nffh_00: 
+M: newe duam niey
+C: no toma encuenta 
+
+M:  newe dumaniengelay rumerke ta kuyfi l'awen' feymu ta
+
+M: feymu ta feley ka kiñeke ta 
+C: por eso algunos son así
+
+_nffh1_x_0162_nffh_00lch_00:
+M:  re kutrani müten duampetuki
+C:  solamente enfermedad...
+
+nmlch-nffh1_x_0163_nffh_00: 
+M: fey <SPA>si pu feyta kutranlu müten ta kintuy ta l'awen'
+C: Sí, solamente cuando se enferma toma remedio
+
+M:  feymu fellentuki ka kutranwetunolu ka 
+C: por eso cuando no están enfermos no toman remedios
+
+nmlch-nffh1_x_0164_nmlch_00: 
+M: ngullituy
+C: le da hambre
+
+nmlch-nffh1_x_0165_nffh_00:
+M:  ngullituy tañi l'awen' <Noise> ngullituy <uh> <uhm>
+C: Le da hambre nuestra hermana, le da hambre.
+
+nmlch-nffh1_x_0166_nmlch_00: 
+M:feley lamuen feley
+C: Así es hermana, así es
+
+M: tüfa inche ka kimnen
+C: Ahora yo también sé 
+
+M: ka femuechi tañi mülekefel ka welu <Noise> kom kutranmu
+C: por eso también había variados tipos de enfermedades 
+
+M:  mülekerkefuy ta l'awen' kuyfi 
+C: antiguamente había remedios
+
+M: fey fewla inchiñ tfa kimwetulaiñ feychi l'awen' 
+C: Ahora  nosotros no sabemos muchos de ese remedio
+
+M: ka chew kompay ka rakiduam peno
+C: porque entro otro tipo de pensamientos
+
+M: inchiñ ka rume inawentutufiñ feychi rakiduam
+C:siempre   nosotros seguimos el pensamientos
+
+M:feymu ta inchiñ falintuwetulaiñ ta feychi l'awen' pe ka 
+C: por eso será que no valorizamos el remedio
+
+nmlch-nffh1_x_0167_nffh_00:
+M: -/fele/- feli tati lamuen 
+C: Así es hermano,
+
+M: inchiñ ta kiñeke tafeyentuy
+C: nosotros algunos creemos,
+
+M: fellentuki  
+C: cree,
+
+M: kiñeke ta fellentukelay tañi kuyfi l'awen'ka
+C: algunos no creen en sus antiguos remedio pues.
+
+nmlch-nffh1_x_0168_nmlch_00: 
+M: feley pu lamuen feley
+C: Así es hermana,  así es 
+
+M: fey eymi tami lofmew fewla müli <SPA>posta kay
+C: ahora en su lugar hay posta?
+
+nmlch-nffh1_x_0169_nffh_00: 
+M: may müli, müli 
+C: Si hay, hay
+
+M:<uh> <SPA>repente ngelay 
+C: de repente no hay 
+
+M: ka tüfa ta müli, müli küpay ta che
+C: ahora también hay,  y viene las personas
+
+M: küpaki elungeki <SPA>pastilla 
+C: vienen y le dan pastillas
+
+M:<SPA>inyección feyta rupaki tañi welu tañi kutran 
+C: con la inyección se le pasa la enfermedad 
+
+M:pero ka <uh> ka küpa 
+C: después regresa
+
+nmlch-nffh1_x_0170_nmlch_00: 
+M:ka wüñotutuy 
+C: Vuelven nuevamente
+
+nmlch-nffh1_x_0171_nffh_00:
+M: ka wüñotutuki tañi kutrannegün
+C: Regresa nuevamente la enfermedad
+
+M: fey miawikingün pütakeche pichikeche 
+C: por eso andan personas adultas, niños
+
+M: ka miawkingün welu ta kümey, kümey ta wingka l'awen'
+C: también es bueno ir, es bueno el remedio del wingka.....
+ 
+ M: ka kiñeke kutranmu kümey pu
+C:  para algunas enfermedades es bueno
+
+nmlch-nffh1_x_0172_nmlch_00: 
+M:feli ka lamuen
+C: Así es hermana
+
+M: fey <uh> eymu tüfa fey pichi domongelu tüfimi <SPA>control tüfi 
+C: usted cuando era una niña chica iba a control?
+
+nmlch-nffh1_x_0173_nffh_00:
+M:may
+C: Sí
+
+M: fey feychi postamu inche ta controlakevun kuyfi 
+C: en esa posta me controlaba yo antiguamente 
+
+M: <SPA>siempre küpakefun ka y miawki
+C: venía siempre a menudo
+
+M: tüfa ta miawkelan ka tañi ñuke müten ta
+C: ahora no vengo mucho , solamente mi mamá viene
+
+M:<SPA>repente küpaki miaawki <SPA>presión miawki
+C: de repente viene para verse la presión
+
+M:  <SPA>control presionmu fey küpaki
+C: viene cuando tiene control para verse la presión
+
+M: miawki <SPA>siempre
+C:siempre anda
+
+M: inche ke ta no küpakelan porque kutrankelan 
+C: yo no vengo, porque no me enfermo
+
+M: inche pu kutranchengekelan kay ta inche 
+C: como te digo no soy una persona enfermiza .
+
+nmlch-nffh1_x_0174_nmlch_00:
+M: kutranchengelaymi
+C: No eres una persona enfermiza?.
+
+nmlch-nffh1_x_0175_nffh_00: 
+M:kutranchengelan inche 
+C: Yo no soy una persona enferma 
+
+nmlch-nffh1_x_0176_nmlch_00: 
+M: fey küme mongen niymi tati lamuen
+C:Por eso tienes una vida sana hermana
+
+ M: feymu ta eymi montulekimi welu ka 
+C: por eso que estas viva
+
+M:<uh> niyfimi rakiduam tati feymu ta
+C: por eso tu tienes un pensamiento
+
+M: ka eymi ka fellentukimi ta 
+C: por eso tu a veces estas así
+
+M: eymi ta feymu feyta feymew eymi ta fülkelay <%> kutran ka
+C: por eso a usted no se le acerca la enfermedad
+
+ M: welu tunte <%> tripantu montukelay che
+C:pero las personas  ahora no duran tanto tiempo
+
+nmlch-nffh1_x_0177_nffh_00:
+M: feley pu fey lamuen 
+C: Así es hermano.
+
+nmlch-nffh1_x_0178_nmlch_00:
+M: montukelay che pingi tati 
+C: No se escapa la gente dicen
+
+M:fey eymi <SPA>y tukefuymi lichi feychi postamew 
+C: Y usted iba a sacar leche a esa posta?
+
+nmlch-nffh1_x_0179_nffh_00:
+M: may , may
+C: Sí, sí
+
+M: <Cough> inche ta lichi lichituyawken ka 
+C: yo tomo leche
+
+M:tañi pu pichike lamuen ka
+C: también mis hermanos chicos toman
+
+M: miawki ka lichi elungeki 
+C: van y le dan leche
+
+M:<uh> itrofill itrofill <SPA>siempre elungeki <SPA>arroz ta fente ka elungi 
+C: le daban variados tipos de leche y también siempre le daban arroz
+
+nmlch-nffh1_x_0180_nmlch_00: 
+M:<SPA>vitamina
+C: vitaminas
+
+nmlch-nffh1_x_0181_nffh_00:
+M: may, may
+C:Sí,sí
+ M:ka -/fem/- elngeki <SPA>vitamina
+C:también le daban vitaminas
+
+nmlch-nffh1_x_0182_nmlch_00:
+M: kiñekemu llowki vakunaengün ka 
+C:también  algunas veces recibían vacunas 
+
+nmlch-nffh1_x_0183_nffh_00: 
+M:may, may vakunangeki ka 
+C: Sí, sí los vacunaban también 
+
+M: <uh> tain kutrannoal ka kutranoal 
+C: para no enfermarnos más
+
+nmlch-nffh1_x_0184_nmlch_00: 
+M: kutranlu 
+C: cuando se enfermaba?
+
+nmlch-nffh1_x_0185_nffh_00: 
+M: May 
+C: Sí.
+
+nmlch-nffh1_x_0186_nmlch_00:
+M: feyti notukelu ka
+C:
+
+nmlch-nffh1_x_0187_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-nffh1_x_0188_nmlch_00:
+M: Yafuleam 
+C: Para estar más fuerte
+
+nmlch-nffh1_x_0189_nffh_00:
+M: May feli ka
+C: Sí , así es
+
+nmlch-nffh1_x_0190_nmlch_00:
+M: feyti lamuen
+C: Esa hermana
+
+M: kuyfi kiñe weda kutran tripay
+C:Antes salió una enfermedad muy mala
+
+M: fill lofmu pingi 
+C: dijieron que salieron en distintos lugares
+
+M:eymi chi tami lofmu tripay
+C:en su lugar llegó esa  enfermedad
+
+M: kam tripalay chi 
+C: o no salió?
+
+nmlch-nffh1_x_0191_nffh_00: 
+M: Chem kutran chi <SPA>no 
+C: Qué enfermedad será?
+
+nmlch-nffh1_x_0192_nmlch_00: <uh> 
+M:feychi kutran pitru pingi 
+C: Esa enfermedad que se llama sarna 
+
+nmlch-nffh1_x_0193_nffh_00:
+M: ¡Ah! Pitru
+C:¡Ah! Sarna.
+ 
+nmlch-nffh1_x_0194_nmlch_00: 
+M:may pitru 
+C:Sí, sarna
+
+nmlch-nffh1_x_0195_nffh_00:
+M: chem inchiñ ta tokalaiñ <SPA>parece kim
+C: Parece que nosotros no nos tocó
+
+M:<SPA>pero miawki feychi kutran
+C: pero anda esa enfermedad
+
+M:inche tufiñ chi kimlan fey ngullitun 
+C:parece que yo alguna vez lo tuve, pero no me acuerdo
+
+M:<SPA>pero tu tufiñ ta tuin ta 
+C: pero lo tuve
+
+M:<SPA>porque müna niawki feyti chi kutran 
+C: porque  andaba esa enfermedad
+
+M:kuyfi müna tripaki ta feyti kutran fey 
+C:antes salió mucho esa enfermedad
+
+M:<SPA>pero welu ta kimlan ngullin ngullin 
+C: pero no me acuerdo si lo tuve
+
+
+nmlch-nffh1_x_0196_nmlch_00: 
+M:ngullituymi
+C:te acuerdas ahora? 
+
+nmlch-nffh1_x_0197_nffh_00:
+M: may ngullin 
+C: si me acuerdo
+
+nmlch-nffh1_x_0198_nmlch_00:
+M: eymi tami rakiduammu
+C: en tu pensamiento
+
+M: kiñekemu pekimi pitrulelu tami lofmew 
+C: algunas veces decían que tenían esa enfermedad en mi lugar
+
+nmlch-nffh1_x_0199_nffh_00: 
+M:may kuyfi ta
+C:si anteriormente
+
+ M:kuyfi ta müna mülekefuy ta tfa 
+C:Antes siempre solía saliar esta enfermedad
+
+M:ke ta tripawekela feychi kutran
+C:ahora ya no sale esa enfermedad
+
+M:<SPA>parece kuyfi ta pekevun inche kolegiomu ka
+C:antes cuando ibamos al colegio siempre veíamos este tipo de enfermedad
+
+M: miaawkevuyngün kakelu pichikeche 
+C:solíamos andar con los otros niños
+ 
+M:ka pitrungekingün
+C: y tenían la sarna
+
+M:<SPA>y feyta <SPA>posta müten miawkepelayngün tati 
+C: y desde luego recurrian a esta posta
+
+M: feymu mongetukefuyngün 
+C:por eso nos sanabamos
+
+M: ka mongetuyngün 
+C: también sanaba
+
+M:ka tüfa ka ngelay feychi kutran 
+C:ahora ya no existe esa enfermedad
+
+nmlch-nffh1_x_0200_nmlch_00: 
+M: ngelay ka 
+C: No hay más. 
+
+nmlch-nffh1_x_0201_nffh_00:
+M: ngelay tüfa ta tripawekelay tripakelay 
+C: Ahora no hay y no sale
+
+nmlch-nffh1_x_0202_nmlch_00: 
+M: newe pengewekelay tüfa
+C: ya no se ve esta
+
+nmlch-nffh1_x_0203_nffh_00:
+M: tüfa ta pengewekelay <Noise> 
+C: Ahora ya no se ve 
+
+nmlch-nffh1_x_0204_nmlch_00: 
+M: feyti kay<Noise>  lamuen 
+C: Esa hermana
+
+ M:tüfi <uh> ka kiñe kutran müli püñu pingi <Noise> 
+C: hay otra enfermedad alfombrilla dicen 
+
+nmlch-nffh1_x_0205_nffh_00:<Noise>
+M:  kimlafiñ feytichi kutran chem 
+C: no conozco esa enfermedad
+
+nmlch-nffh1_x_0206_nmlch_00: 
+M: ka <SPA>sarampión pingi 
+C: También conocido como el Sarampión
+
+nmlch-nffh1_x_0207_nffh_00: 
+<Noise> 
+
+nmlch-nffh1_x_0208_nmlch_00: 
+M: fill pichikechemu puuki pingi 
+C: En los niños chicos llegan dicen.
+
+nmlch-nffh1_x_0209_nffh_00: 
+M: May 
+C: Si.
+
+nmlch-nffh1_x_0210_nmlch_00:
+M: kiñenmu kiñentu mongenmu 
+C: algunas veces sobreviven
+
+M:fill che müli tañi nial feychi kutran pingi 
+C:todas las personas deben tener esta enfermedad dicen
+
+M:feyngepi kimlaymi pekelaymi 
+C:así dicen, no sabías o no veías
+
+nmlch-nffh1_x_0211_nffh_00: 
+M: <uh> feley felepelay tati 
+C: asi debe ser 
+
+M:<SPA>porque inchiñ fey ke ta tufiñ inchiñ 
+C:porque nosotros eso lo tuvimos
+
+M:inche <SPA>no ka
+C:yo no tuve
+
+M:tañi lamuen pichike lamuen tüfi
+C: los hijos de mi hermana menor tuvieron
+
+M:fey miawki miawki postamu
+C: iban a la posta
+ 
+M:mongetuki mongetuki <SPA>depue
+C: después se sanaron
+
+M:<SPA>pero chem elungefel kimlan 
+C: pero lo que le dieron no me acuerdo
+
+M:<SPA>pero <SPA>pero tañi lamuen tüfi feychi 
+C:ese día mi hermana tuvo esa enfermedad
+
+nmlch-nffh1_x_0212_nmlch_00: 
+M:feychi kutran <uh> 
+C:esa enfermedad?
+
+nmlch-nffh1_x_0213_nffh_00:
+M: kuyfi, kuyfi ta <Noise> femi kuyfi welu ka
+C:antes de mucho antes tuvo también
+
+ nmlch-nffh1_x_0214_nmlch_00:
+M:kuyfi dewma 
+C: hace tiempo ya 
+
+nmlch-nffh1_x_0215_nffh_00: 
+M:kuyfi kuyfitu 
+C:hace ya mucho tiempo
+
+nmlch-nffh1_x_0216_nmlch_00: 
+M:fey postamu pey feyti l'awen' 
+C: En la posta encontró el remedio?
+
+nmlch-nffh1_x_0217_nffh_00: 
+M:may postamu elungeki l'awen' 
+C:Si en la posta le dieron el remedio
+
+M:fey feymu mongetuy ka mongetuy  may 
+C:si por se sanó 
+
+nmlch-nffh1_x_0218_nmlch_00: 
+M:fey <uh> lofmew mapumu mülepi l'awen' kay
+C:En tu lugar hay ese remedio siquiera
+
+M: kimlaymi 
+C:o no sabes
+
+nmlch-nffh1_x_0219_nffh_00:
+M: kimlan feyta kimlan inche mülen ta l'awen' 
+C:Yo no se si ese remedio
+
+M:welu mülepelavuy mülepelavuy tati 
+C:existira yo creo
+
+M:kimaliñ kimlaiñ müten 
+C:no si se habrá no se
+
+M:kim kimngelay müten feychi l'awen' 
+C: realmente no  sé si habrá ese remedio
+
+nmlch-nffh1_x_0220_nmlch_00: 
+M:feli fentreli ta kutran
+C: Así es hay hartas enfermedades
+
+M: mongenmu lamuen ka fentreli ta l'awen'
+C:por haberse sanado a mi hermana con  hartos remedios
+
+M: welu müli ta kutran pital ta 
+C:hay hartas enfermedades en el hospital dicen
+
+M:mongekenolu pingi
+C:que no se sanan dicen
+
+ M:tüfi müli kiñe kutran trafentun pingi 
+C:hay una enfermedad que es cuando la persona esta ahojado
+
+
+fh1_x_0221_nmlch_00nffh_00: 
+M:may
+C:Sí?
+ 
+nmlch-nffh1_x_0222_nmlch_00:
+M: welu tüfi nielay ta l'awen' pitalmu pingi
+C:Pero no hay remedio  en el hospital para esta enfermedad dicen
+
+M:feyngepi ti tüfi tami rakiduammu 
+C:que no cambie de opinión y que su pensamiento siga igual
+
+nmlch-nffh1_x_0223_nffh_00: 
+M:feyngi, feyngi tati 
+C:Ese es, ese es
+
+M:feyngi feychi chi kutran pekelay ta wingka 
+C:esa enfermedad no lo ven los wingka
+
+M:ta pekelay feychi kutran
+C: no se encuentra esa enfermedad
+
+M:<uh>  chem rume nielay pingi ta che ka wüñotuy
+C: que no se encuentra esa enfermedad dicen las personas pero aveces vuelven
+
+M: wüñtuy ta ruka feletuy felepuy müten 
+C: vuelve a  la casa y se queda ahí
+
+M: chi che mongekelay pitalmu tati
+C: dicen que las personas no se mejoran en el hospital
+
+ M: feychi kutranmu ta che welu mapuche l'awen'
+C: que con la medicina mapuche se puede curar esta enfermedad
+
+M : müna müley müli tati müli 
+C: dicen que hay muchos, muchos
+
+M: <uh> inche ta kimlan ñi chem ñi pingen feychi l'awen' 
+C: yo no sé como se llama ese remedio 
+
+M: <SPA>pero müli müleñ tañi chaw ñuke nütramkaki
+C: pero dicen que existe porque mi papá y mi mamá conversan
+
+M:  <SPA>pero inche tañi kimlafiñ feychi chi l'awen' <Noise> 
+C: pero yo no sé como se llama el remedio. 
+
+nmlch-nffh1_x_0224_nmlch_00:
+M:welu eymi fellentulimi 
+C: Pero tu confías  en eso
+
+M: ta inchiñ tañi küpalmemu fey mapuchengenmu 
+C: nosotros los mapuches  creemos en eso 
+
+M: <Noise> fey mongetuafuy
+C: por eso se mejora.
+ 
+nmlch-nffh1_x_0225_nffh_00:
+M: mongetuafuy, mongetuafuy
+C: Se mejora, se mejora
+
+M: <Cough> l'awen'tungele mapuche 
+C: con los remedios mapuches
+
+M: l'awen'tule mongetuafuy feyti chi che 
+C: si tomara remedio se sanaría esa persona
+
+M: <Noise> welu ta kimlafiñ inche pu
+C:  yo no se de eso
+
+M: welu ta mongeafuy tati 
+C: pero se que sana
+
+nmlch-nffh1_x_0226_nmlch_00:
+M: mongeafuy 
+C: Se sanaría 
+
+nmlch-nffh1_x_0227_nffh_00:
+M: mongeafuy lamuen 
+C: Se sanaría hermano
+
+nmlch-nffh1_x_0228_nmlch_00: 
+M:feychi kutran welu müley 
+C: Pero existe esa enfermedad
+
+M:fill mongen müley <Noise>
+C: hay varias personas sanas
+ 
+nmlch-nffh1_x_0229_nffh_00: <uh>
+ 
+nmlch-nffh1_x_0230_nmlch_00:
+M: domo wentru welu<Noise>  feyti pelayafuy l'awen' pitalmu pingi 
+C:Pero mujer o hombre no encontraron remedio en el hospital dicen
+
+M:eymi tami fellentumu rüf felelngi 
+C: que tus creencias es relamente así
+
+_x_0232_nmlch_0033_nffh_00:
+M:  feley, feley tati lamuen 
+C: Así es, así es hermano 
+
+nmlch-nffh1_x_0233_nmlch_00:
+M: rüf feli 
+C: Efectivamente así
+
+nmlch-nffh1_x_0234_nffh_00:
+M:may feley 
+C: Sí, así es 
+
+nmlch-nffh1_x_0235_nmlch_00:
+M: ka müli tüfi kiñeke katrü fünkelu pingeki
+C: hay otro cuando te cortas , algunos maduran dicen
+ 
+M: welu tüfi ka nielay l'awen' pingi ospitamu feyngi tüfi
+C: pero dicen quew no hay remedio en el hospital dicen
+
+nmlch-nffh1_x_0236_nffh_00: <uh>  
+M:fey ke ta kimlan inche
+C:eso si que no se yo
+
+M:<SPA>pero ngelay ka
+C: pero no hay dicen
+
+M:<SPA>porque ti tañi lofmu kiñe lamuen ta femngi
+C: porque en mi lugar un hermano esta así
+
+M: fem fey tuy tiychi kutran
+C: tiene esa enfermedad
+
+M: <SPA>y küpay ta pitalmu fey elungelay chem rume 
+C: y vino al hospital y le daban cualquier cosa
+
+M: ka feli müten 
+C: y sigue igual
+
+nmlch-nffh1_x_0237_nmlch_00: 
+M: peñmangelay 
+C: yo se le vió
+
+nmlch-nffh1_x_0238_nffh_00: 
+M:peñmangelay tañi kutran
+C: no se le ve la enfermedad
+
+M: <SPA>y ka mautuy 
+C: 
+
+M:ka uyu l'awen'tungetuy 
+C: y tomo remedio
+
+M:fey feymu mongeuty pu mongetuy
+C:por eso  se sana de la enfermedad
+
+M: <SPA>pero pitalmu ngepeafuy feychi l'awen'
+C: pero en el hospital tendrá ese remedio.
+  
+1_x_0239_nffh_0028_nmlch_00:
+M: ngelay ka
+C: Ya no hay más.
+ 
+nmlch-nffh1_x_0240_nffh_00:
+M: ngelay, ngelay tati lamuen
+C:no hay más , no hay más hermana  
+
+nmlch-nffh1_x_0241_nmlch_00: 
+M: feymu lamuen tüfa petu müli ta falin dungu <Noise>
+C: por eso son cara la consulta hermana ?
+ 
+nmlch-nffh1_x_0242_nffh_00: 
+M:may 
+C: Sí
+
+nmlch-nffh1_x_0243_nmlch_00:
+M: inchiñ tañi mapuche ñi kimünmu 
+C: con los conocimiento que tenemos nosotros los mapuches
+
+M:fey ka müli feytichi fentren l'awen' pingi
+C: pero dicen que hay hartos remedios
+
+M: welu ka wingkamu pengelay feychi l'awen'
+C: pero los wingkas no  encuentran ese tipo de remedio
+
+M: pipiyunga trafentun
+C:
+ 
+nmlch-nffh1_x_0244_nffh_00: 
+M:may 
+C: Sí.
+
+nmlch-nffh1_x_0245_nmlch_00: 
+M: feyti müleafuy rume fillantü pitalmu 
+C: No creo que exista todos los días en el hospital ese remedio
+
+M: che mongelafuy pingi 
+C: no es seguro que las personas se sanen
+
+M: eymi feyngi tüfi
+C: tu piensa igual
+ 
+nmlch-nffh1_x_0246_nffh_00: 
+M: feyngi pu feyngi rupayafuy antü pitalmu 
+C: así es , así es pasaba días en el hospital
+
+M: ta che mongelayafuy
+C: no estaba segura si se sanaba
+ 
+nmlch-nffh1_x_0247_nmlch_00:
+M: tripantu rume müleafuy
+C: Existio durante año 
+ 
+nmlch-nffh1_x_0248_nffh_00:
+M: tripantu rume müleafuy doy chi müleafuy 
+C: Durante años podían existir
+
+M:<uh> mongelayafuy
+C: no iba a vivir 
+
+ M:<SPA>porque pengea pengelay tañi kutran 
+C: porque no le encontraban su enfermedad
+
+M: <SPA>y chem rume ta elungelay pu chem rume ta
+C: le daban cualquier cosa
+
+M: <uh> chumkelayu rume felekay müten 
+C: estaba así no más
+
+M: rüf feley
+C: efectivamente es así
+
+ M: rupay antü feley müten chi che 
+C: pasaba el día y estaba igual la persona 
+
+nmlch-nffh1_x_0249_nmlch_00: 
+M: tunten <SPA>doctor rume leliafeyu
+C: Cuántos doctores lo veían
+
+M:<SPA>radiografía rume tuñmangeafuy kimngelafuy 
+C: ni siquiera sabían si le iban a tomar la radiografía
+
+nmlch-nffh1_x_0250_nffh_00:
+M: kimngelayafuy
+C: No sabían
+
+M: <SPA>porque veytichi kutran pekelay ta wingka, 
+C: porque de esa enfermedad no sabían los wingkas
+
+M.wingka ta kimlay feytichi kutran 
+C: los wingkas no saben de esa enfermedad
+
+M:chem rume ngelay pingi ta che
+C: no tienes nada le dicen a las gentes
+
+M: <SPA>pero müli, müli inchiñ ta feytichi che 
+C: existe esa persona que tiene la enfermedad
+
+M:ka kutranküli sentini tañi kutran
+C: estan enfermos y también sienten su enfermedad
+
+M: <SPA>pero pengelay, pengelay kiñe <SPA>doctor 
+C: pero un doctor no lo encuentra
+
+M.chem <SPA>doctor rume ta pelayafuy feychi kutran 
+C: ningun doctor veía esta enfermedad
+
+nmlch-nffh1_x_0251_nmlch_00: 
+M: feyti lamuen eymi tami rakiduamew 
+C: Bueno hermana en su pensamiento
+
+M: ini pilefuy ini mongelafuy pilefuymi 
+C: con quien se va a sanar
+
+nmlch-nffh1_x_0252_nffh_00: <uhm> 
+M:tañi kiñe machi peno
+C: Con una machi creo
+
+M: tati mongeafuy mongelafuy
+C:se sanaría , antes de eso no se sanaría
+
+M: <Noise> <SPA>porque kiñeke machi o medika 
+C: porque alguna machi o medica
+
+M:mülelu tiypüle kim l'awen'tuy
+C: saben de remedio
+
+M:  <SPA>pero repente kimlay 
+C: pero de repente no saben
+
+M:<Noise> ñi chem l'awen'tuafel
+C: no saben que remedio dar
+
+M: <SPA>pero kiñe küme machi ta kimfi feychi chi l'awen'
+C: pero una buena machi saben de remedio
+ 
+nmlch-nffh1_x_0253_nmlch_00:
+M: mongelafuy 
+C: Se sanaría
+
+nmlch-nffh1_x_0254_nffh_00:
+M. mongelafuy feyti feychi kutran <Noise> 
+C: Se  sanaría de esa enfermedad?
+
+nmlch-nffh1_x_0255_nmlch_00: 
+M:feli lamuen feley 
+C: Así es hermana así es
+
+M:feyti llemay ta kimün inchiñ mapuchengenmu
+C: como te digo existe esa sabiduría en los mapuches
+
+M: fey feytichi kimün wingkamu ngelay <Noise>
+C: este conocimiento los wingkas no lo tienen
+ 
+nmlch-nffh1_x_0256_nffh_00: 
+M:ngelay, ngelay wingkamu ngelay feytichi <Noise>
+C:No hay , no hay este conocimiento en los wingkas
+ 
+nmlch-nffh1_x_0257_nmlch_00: 
+M:feytichi kimün müli mapuchemu 
+C: Este conocimiento hay en los mapuches
+
+M:feyta feymu petu falili tañi kimün welu <SPA>no
+C: por eso valen sus conocimientos
+ 
+nmlch-nffh1_x_0258_nffh_00:
+M: feley, feley inchiñ ta falintuni falintuniefiñ feychi dungu wüla
+C: Así es así es nosotros valoramos nuestros conocimientos ahora
+
+M: <uh> wingaka ta ngull kimlay
+C: los wingkas no saben de remedio
+
+M: inchiñ ta doy niyn ta kimün l'awen'mu
+C: nosotros sabemos más de remedio
+
+M: <uh> doy <uh> mongeltuchekingün 
+C: que sanamos a las personas
+
+M:tachi pu <Noise> che ta machi medika mülelu
+C: las personas como las machis que existen
+
+M: <Noise> itrofill küme l'awen'tulu ta +/mongel/+ mongeli ta che
+C:tenían variados tipos de remedio,son buenos y sanan a las personas
+
+M:ka feyta pu wingka ta<Noise> mongealufulu
+C: también a los wingkas sanaban
+
+M:feyta pu machi ta mongelfi 
+C: con las machis lo sanaba
+
+M:ka inchiñ ta inchiñ ta doy küme l'awen' 
+C:nosotros tenemos mejores remedios
+
+M:ta nieviñ niyn tati lamuen 
+C: que teníamos hermana 
+
+nmlch-nffh1_x_0259_nmlch_00: 
+M:mapumu tüfi 
+C: En la tierra los toma
+
+nmlch-nffh1_x_0260_nffh_00:
+M: may taiñ mapu doy küme l'awen' ni müli 
+C:en nuestra tierra hay mejores remedio
+
+nmlch-nffh1_x_0261_nmlch_00: 
+M:eymi tami rakiduammu
+C:Tú que piensas
+
+M:feyti fentre kutran
+C:de las enfermedades
+
+M: kimi machi
+C:Saben las machis
+
+M: kim papeltulay ka kim chilkatulay tüfi 
+C: si no saben leer y también no iban  a las escuelas
+
+M:<Noise> chew peki kimün piymi 
+C:donde sacan conocimientos
+
+M:kay ini elukiyu feytichi kimün<Noise>  pikimi eymi 
+C: tú sabes quién le da los conocimientos
+ 
+nmlch-nffh1_x_0262_nffh_00: 
+M:Chaw Ngünechen ta elukiyu ka
+C:Nuestro Dios le da
+
+M: <uh> kidu tañi kimün tüfa inche tañi kimün pilafuy ta che ka <Noise>
+C: uno no puede decir que tiene sus propios conocimientos
+
+ M:elungeki ta kimün 
+C: le dan conocimiento
+
+M:elungi ta feytichi l'awen'
+C:le dan remedio
+
+M: kintuaymi pingi ta che kintuy dew
+C: hay que buscar le dicen a uno 
+
+ M:<Noise> inche kimniefiñ pikelay ta che
+C: uno no dice que sabe del remedio
+
+ M:inche kimnefiñ tüfachi l'awen' pikelay ta che 
+C: uno no dice que conoce del remedio
+
+M:<uh> feypingi Chaw Ngünechen müten peno
+C: Sólo Dios sabe que remedio dar 
+
+M:feypieyu fey kintuaymi feychi l'awen' pingi
+C:le dicen que busquen el remedio
+
+M: ta kintuy ta che ka
+C: ahí salen a buscar las personas 
+
+M: fey femngechi ta kimnefi ta kim kimnerpufi l'awen'
+C:por eso saben de remedio
+
+M: itrofill,itrofill l'awen'
+C: de variados tipos de remedios 
+
+nmlch-nffh1_x_0263_nmlch_00:
+M: feymu ka femuechi anün newen kimün 
+C: Por eso  tienen conocimientos
+
+M:ni feymu fey pewütukefi che
+C: por eso ven a las gentes
+
+M: ka peañmakefi tañi kutran 
+C:y también ven las enfermedades
+
+nmlch-nffh1_x_0264_nffh_00: may <uh> <SPA>
+M: sí pu Cahw Ngünechen tañi tañi +/feypil/+ ka feypin 
+C: Si nuestro Dios  dijo 
+
+M:<uh>  chumuechi chi pewütukefiel ta kimlan ka welu ta
+C: como ver si no me acuerdo
+
+nmlch-nffh1_x_0265_nmlch_00:
+M: eymi fellentukimi welu tüfi 
+C:Tú eres así ahora
+
+nmlch-nffh1_x_0266_nffh_00:
+ M: kidu fellentuken inche pu 
+C: A veces estoy sólo 
+
+M: tañi ñuke kay ta feypingi
+C: mi mamá también 
+
+M: welu ta kidu ta fellentukelay fellentukelay tañi chaw 
+C: pero no esta solo mi papá
+
+M.tañi chaw ta ni ñuke machi niy 
+C: mi papá y mi mamá van a ver una machi
+
+M: ta ñuke fey amuke
+C: mi mamá va
+
+M: amuaymi pingefuy 
+C. vas a ir me decían
+
+M:y kidu ta maulay ta amulay 
+C: y solo no iba
+
+M:welu ta pu machi kümeke machi müli tati 
+C: pero existe muy buenos machis
+
+M:tañi <uh> kimnien feytichi l'awen'
+C: saben muchos de remedios
+
+M: pewütualu ta che kom kimni pu
+C: si la persona se va a mejorar lo saben todo
+
+M. <uh> ka famngechi feypingi ta che
+C: así dicen la gente
+
+M: ta chem kutran ta ni ka femngechi pelontuwun
+C: también saben que enfermedad tienen
+
+nmlch-nffh1_x_0267_nffh_00:
+M: feyti lamuen
+C: Esa hermano
+
+M: inchiñ yafkatuperkiñ Ngünechenmu
+C: Nosotros cometemos una falta ante Dios
+
+M: chew fellentuwetuketulaiñ ka <Noise>
+C:donde vamos no obedecemos a Dios
+ 
+nmlch-nffh1_x_0268_nffh_00: 
+M:+/fem/+ fempelay tati lamuen femi ka -/fem/-
+C: Así sera hermana asi sera
+
+nmlch-nffh1_x_0269_nmlch_00:
+M: inchiñ ngullitukeliñ <uh> fellentuwetunofuliñ<Noise>
+C: Si nosotros no creyeramos no estariamos así 
+
+M:  feychi newen püyü ka l'awen' küme
+C: esa fuerza llego en el remedio bueno
+ 
+M:künülafiñ kiñekemu ka <Noise>
+C: que no lo hace bien a veces.
+
+nmlch-nffh1_x_0270_nffh_00: 
+M:feley pu lamuen feley 
+C: Así es hermana así es
+
+M:<SPA>e'te inchiñ ta ngullintufiliñ 
+C: este nosotros rogamos a D ios
+
+M:feytichi kuyfi dungu
+C: esa es sabiduría de antes 
+
+M: feytichi kom tañi kimün <SPA>
+C: esa es toda su sabiduría
+
+M:porque inchiñ tañi kimün ta elerpuy <uh> tañi fütacheem 
+C: porque nosotros sabemos lo que nos enseñaron nuestros padres
+
+M:tañi fütakeche eler <Noise> elerpuy ta kimün l'awen'
+C:lo que dejaron nuestros antepasados, dejaron sus sabios remedios
+
+M: kom inchiñ ta repente ngullituiñ <SPA>o <SPA>
+C: todos nosotros de repente le rogamos a Dios
+
+M:toma enkuenatakelafiñ müten <SPA>y feymu ta..
+C: no toman mucho  encuenta..  
+
+nmlch-nffh1_x_0271_nmlch_00:
+M: llafkatukiñ
+C: cometemos culpa.
+
+nmlch-nffh1_x_0272_nffh_00:
+M: llafkatukiñ, llafkatukiñ feymu <SPA>y <Noise> <SPA>
+C:Por eso cometemos culpa, cometemos culpa
+
+M:pero inchiñ ta kimlaiñ chum chumuechi tañi
+C: pero nosotros no sabemos que es
+
+nmlch-nffh1_x_0273_nmlch_00: 
+M:llafkaken
+C: Nos da pena
+ 
+nmlch-nffh1_x_0274_nffh_00:
+M: llafkaken <SPA>porque inchiñ,
+C: Porque a nosotros nos da pena
+
+M: inchiñreke ta müten kiñeke ta ngullituki
+C: al igual que nosotros algunos no más 
+ 
+nmlch-nffh1_x_0275_nmlch_00:
+M: feyti lamuen <uh>
+C: Esa hermana
+
+M: Ngünechen elu tüfa tachi mapu 
+C:  nuestro Dios nos dio la tierra
+
+M:inchiñ ka eleymu tamu tüfamu ka eleymu <uh> ta l'awen'
+C: también nos dejo los remedios 
+
+M: ka elfi ta kimalu l'awen' ta <Noise> 
+C:más nos dejo .....
+
+M:feyti notualu kutran 
+C:para aliviar de esa  enfermedad
+
+M:feyti eymi tami rakiduammu rüf feyngi tüfi
+C: usted que piensa con respecto a eso.  
+ 
+nmlch-nffh1_x_0276_nffh_00:
+M: feyngi, feyngi tati <uh> 
+C:Así es, así es eso
+
+M:kom eli ta Chaw Ngünechenpu ini kom ta 
+C:todo nos dio nuestro Dios ..
+
+M:ini tañi kimal  l'awen'
+C:en conocer los remedios
+
+M: ini tañi pelotual 
+C:en ver 
+
+M:ka ini ta yen yenel ta dungu kay 
+C:también en saviduría ..
+
+M:fey kom elrpuy ta Chaw Ngünechen 
+C:él todo creó nuestro Dios 
+
+M:fey <Noise> felerpuy ta dungu
+C:es así .. 
+
+M: ka kom kimal ta itrofill l'awen'
+C: también savía bastante de remedios que tenía.
+
+nmlch-nffh1_x_0277_nmlch_00: <Noise> 
+M:feli tati lamuen 
+C:Así es hermano
+
+M:inchiñ ta newe pepilwetukelaiñ ka
+C: nosotros a veces nuestra fuerza no lo sabemos manejar
+
+M: chew ka rakiduam tukupaiñ <uh> 
+C: que pensamiento habrá tenido
+
+M:inawentuletuiñ kake rakiduammu 
+C:              nuestro pensamiento
+
+M:feymu inchiñ ta ngullinetuiñ ta
+C: por eso nostros le rogamos a Dios
+
+M: inchiñ tañi kimün kuyfike fütakeche elelupetew piken inche
+C: antiguamente nuestra gente savían mucho digo yó 
+
+M: eymi tami rakiduam feli
+C:usted que opina es así?
+ 
+nmlch-nffh1_x_0278_nffh_00: 
+M:feley, feley tati ka
+C:Así es , así es eso también  
+
+M: ka femuechi rakiduamken inche fley, 
+C: por eso también ..
+
+M:feley tati lamuen feley
+C:así es eso hermana , así
+ 
+nmlch-nffh1_x_0279_nmlch_00:
+M: feyti lamuen 
+C:eso  hermano
+
+M:inchiñ tañi küpalmemu 
+C:nosotros para venir 
+
+M:tañi mapuchengen
+C: nosotros como mapuche
+
+M:kuyfi petu akunolu ta kake rakiduam che wingka tüfi
+C: antes que llegara  otro pensamiento de personas wingka 
+
+M: inchiñ rume yamkerkefuiñ ta peko
+C:nosotros siempre 
+
+M: kariamkefuy ta mawida kürüf 
+C: respetaba los montes y el viento 
+
+M:ka itrofill mülelu mapumu kiñe karukatu che trokinekefuiñ 
+C:también tenía en el campo unos vecinos  así le pareciamos
+
+M:inchiñ kuyfi eymi tami rakiduam fey.
+C: nosotros antes teniamos tu pensamiento.
+
+
+
+

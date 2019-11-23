@@ -1,0 +1,620 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-lflql2 
+; Last changes made on 11/20/2001 
+; Transcriber: Cristian C. Anton  
+; Comments:  
+; Traduce: Camilo Quilaman.
+
+nmlch-lflql2_x_0000_nmlch_00: 
+M: <uh> ¿Chemama wechakunuki nga 
+C: ¿Qué es lo que hacía tan mal 
+
+M: <*SPA> salmon engu lichi ano
+C: la leche con salmón
+
+M: ile wecha kunuafuy 
+C: si come eso mal le va hacer 
+
+M: mülepefuy l'awen'
+C: debe haber remedio
+
+M: kay kimlaymi?.
+C: y tu no sabes?.
+
+nmlch-lflql2_x_0001_lflql_00: 
+M: Müli welu <%> ka fey müli ngaweñtuy pu.
+C: Pero hay, también hay  
+
+nmlch-lflql2_x_0002_nmlch_00: 
+M: ¿Müli?.
+C:  ¿Hay?.
+
+nmlch-lflql2_x_0003_lflql_00: 
+M: <*SPA> Si.   
+C: Sí.
+
+nmlch-lflql2_x_0004_nmlch_00: 
+M: Kiñe wesam pichikeche
+C: Un niño más travieso
+
+M: soy inawluwki fijakelay 
+C: no se fija para hacer las cosas
+
+M: chem ñi iyal ifemki müten. 
+C: cualquier alimento lo comen así no más.
+
+nmlch-lflql2_x_0005_lflql_00: 
+M: Empachu <*SPA> sera empachu pingi fey. 
+C:  Empacho será, empacho le dicen. 
+
+nmlch-lflql2_x_0006_nmlch_00: 
+M: Ka fey ka empachu 
+C: También para el empacho
+
+M: ka fey mülepi l'awen' empachumu kay. 
+C:  también hay remedio para el empacho.
+
+nmlch-lflql2_x_0007_lflql_00: 
+M: ¿Müli l'awen'? 
+C:  ¿Hay remedio?
+
+nmlch-lflql2_x_0008_nmlch_00: 
+M: ¿Chempingefuy tüfeychi l'awen' tüfeychi papay?. 
+C: ¿Qué remedios me podrías decir de estos mamita?
+
+nmlch-lflql2_x_0009_lflql_00: 
+M: Feyti kullin mu tripay chi l'awen' ti.
+C: Del animal sale el remedio. 
+
+nmlch-lflql2_x_0010_nmlch_00: 
+M: ¡Ah! 
+C:  ¡Ah!
+
+nmlch-lflql2_x_0011_lflql_00: 
+M: Fey kampu l'awen' 
+C: Es remedio de campo
+
+M: kiñe kawellu feichi wano kawellu fey
+C: de un caballo, ese el guano del caballo
+
+M: feyti chi chi chempingiama tichi
+C: así es como se llamaba ese remedio
+
+M: feytichi rumel ka iyagel ilu 
+C: para el que comió muchas comidas 
+
+M: feyti kiñekelu fey inchakiñ cuerpu.
+C: así algunos se nos hincha el cuerpo.
+
+ql2_x_0012_lflql_00_nmlch_00: 
+M: May. 
+C: Sí.
+
+nmlch-lflql2_x_0013_lflql_00: 
+M: Apurawkülelu fey fey 
+C: Anda apurado con esto
+
+M: fey kawellu fey tungi wechi yengemey chi areko engu 
+C: si del caballo le dan el guano nuevo con agua hirviendo
+
+M: kiñe llakomelngi chi ko 
+C: y le fueron a entibiar agua 
+
+M: feytipüle tüyümngeki kiñe kiñe fuente ralimu. 
+C: por ahí se va a buscar una, una fuente, un plato de greda.
+
+nmlch-lflql2_x_0014_nmlch_00: 
+ <hm> 
+
+nmlch-lflql2_x_0015_lflql_00: 
+M: Fey fey pütrengetuki en um colador.<*SPA>
+C: Y así en cuela en un colador. 
+
+nmlch-lflql2_x_0016_nmlch_00: 
+M: ¿Chemu pütrengeafuy kalüfisamu?.
+C: ¿También se puede colar con lana de oveja?.
+
+nmlch-lflql2_x_0017_lflql_00: 
+M: Kalüfisamu <*SPA> si no,
+C: Con la lana de oveja, sino, 
+
+M: kalufisamu  <*SPA>mejor, 
+C: la lana de oveja es mejor,
+
+M: fey pütreneay <*SPA> tasa  ti <*SPA> tasa  
+C: y en la tasa tiene harto 
+
+M: fey worküngeki altiro coretuki pu 
+C: y si esta vaporeando altiro corre pues
+
+M: feymu re wentekekal 
+C: y de ahí por encima de la lana
+
+M: desimflatuki todo el malo.
+C: se desinflama todo lo malo.
+
+nmlch-lflql2_x_0018_nmlch_00: 
+M: Tripatuki kom tripatuki pürüm. 
+C: Se sale todo, sale inmediatamente.
+
+nmlch-lflql2_x_0019_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Pichin müten 
+C: Un poco no más
+
+M: ti müli ti <*SPA> copa 
+C: debe estar en la copa,
+
+M: feyti kiñe <*SPA> una <*SPA> caña.
+C: en una caña. 
+
+nmlch-lflql2_x_0020_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-lflql2_x_0021_lflql_00: 
+M: Femi kiñe ñi tio faw
+C: Así lo hace un tío de acá
+
+M: famngechi rumen kayi kutrani empachuy 
+C: así cuando esta muy enfermo del empacho
+
+M: femngechi l'awen'tufin 
+C: el se hace remedio
+
+M: mongetuy 
+C: y se mejora 
+
+M: en ese mismo rato 
+C: en ese mismo rato,
+
+M: reventalu femi kümesuamtuy.
+C: se le revienta y así le hace bien eso sabe.  
+
+nmlch-lflql2_x_0022_nmlch_00: 
+M: ¡Ah! 
+C: ¡Ah!
+
+nmlch-lflql2_x_0023_lflql_00: 
+M: Feychi l'awen'mu.
+C: Con ese remedio.
+
+nmlch-lflql2_x_0024_nmlch_00: 
+M: ¿Kawellu tañi <uh> wanu? 
+C: ¿Con el guano de caballo?
+
+nmlch-lflql2_x_0025_lflql_00: 
+M: Ti fey kawellu.
+C: De eso del caballo.
+
+nmlch-lflql2_x_0026_nmlch_00: 
+M: Fey. 
+C: Así es.
+
+nmlch-lflql2_x_0027_lflql_00: 
+M: Fey kawellu folil.
+C: Del caballo y la raíz.
+
+nmlch-lflql2_x_0028_nmlch_00: 
+M: ¿Ankü lewelu llemay?.
+C: ¿Esta secó pues?.
+
+nmlch-lflql2_x_0029_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+
+M: Madki weñmaliay rume aküleay igual <*SPA> no ma.
+C: ----------- mucho va estas llegando igual no más.
+
+nmlch-lflql2_x_0030_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Feyti ta müli tañi teyümngeal famngechi ralimu.
+C: Eso hay que hacerlo pedazo en un plato.  
+
+nmlch-lflql2_x_0031_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+ 
+M: Küme teyümngeal.
+C: Despedazarlo bien. 
+
+nmlch-lflql2_x_0032_nmlch_00: 
+M: ¿Eñum komu?.
+C: ¿Se calienta en agua?
+
+nmlch-lflql2_x_0033_lflql_00: 
+M: Eñum komu.
+C: Se calienta en agua.
+
+nmlch-lflql2_x_0034_nmlch_00: 
+M: Fey ka tungetuy kalufisamu 
+C: Y otra vez hay que colocarlo en la lana de oveja
+
+M: kiñe <*SPA> tasa mu fey pütokoki.
+C: en una tasa se bebe.
+
+nmlch-lflql2_x_0035_lflql_00: 
+M: Fey tripatuy re grito 
+C: Y sale como un grito
+
+M: ese el yüfken 
+C: ese es el grito 
+
+
+M: fey ünütungefuy 
+C: así había vuelto 
+
+M: pero kutranmu müli ñi workal pu' 
+C: pero la enfermedad     pues.
+
+nmlch-lflql2_x_0036_nmlch_00: 
+M: ¿Mongetuy ka fey? 
+C: ¿Se mejora también?
+
+nmlch-lflql2_x_0037_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Mongetuy pu'.
+C: Se mejora pues.
+
+nmlch-lflql2_x_0038_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Feyta wecha kunuki tati 
+C: Ese es algo malo que entra pues
+
+M: femngechi chemafuy cheka 
+C: así que se le puede suceder a la gente pues
+
+M: layafuy ka feyka.
+C: que se muere también.
+
+nmlch-lflql2_x_0039_lflql_00: 
+M: ¿Layafuy? 
+C: ¿Se puede morir?.
+
+nmlch-lflql2_x_0040_nmlch_00: 
+M: Layafuy. 
+C: Se puede morir.
+
+nmlch-lflql2_x_0041_lflql_00: 
+M: Laki alguno famngechi l'awen' workülay 
+C: Se mueren algunos si no se colocan el remedio de ---
+
+M: fey elu patina ngelay laki che pu'.
+C: y si le dan pastilla no muere la gente pues.
+
+nmlch-lflql2_x_0042_nmlch_00: 
+M: ¿Laki?. 
+C: ¿Muere?.
+
+nmlch-lflql2_x_0043_lflql_00: 
+M: <%> We kutalmeno pu 
+C: ------------ 
+
+M: <*SPA> no ke kimkelayin.
+C: no que no lo sabemos.
+
+nmlch-lflql2_x_0044_nmlch_00: 
+M: Müli ka kiñe kutran papay 
+C: Hay otra enfermedad mamita,
+
+M: tüfa pafmu pingeki ¿kimfimi?. 
+C: este el pasmo se llama ¿lo conoces?.
+
+nmlch-lflql2_x_0045_lflql_00: 
+M: Kimlafin fey. 
+C: No lo conozco ese.
+
+nmlch-lflql2_x_0046_nmlch_00: 
+M: ¿Allkükimi pin welu? 
+C: ¿Pero no haz escuchado decir?
+
+nmlch-lflql2_x_0047_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Allküken.
+C: He escuchado.
+
+nmlch-lflql2_x_0048_nmlch_00: 
+M: Pafmuli pingerumi che 
+C: Pasmo le dice la gente, 
+
+M: pafmuki tañi foro 
+C:  pasmo a los huesos,
+
+M: pafmuki tañi ange 
+C: pasmo a la cara,
+
+M: nge rume pafmuafuy ka fey.
+C: al ojo le da mucho pasmo también.
+
+nmlch-lflql2_x_0049_lflql_00: 
+M: Matetumu feyti tripamu wekun 
+C: Cuando están bebiendo mate y salen afuera 
+
+M: fey pafmuki pingi pu. 
+C: así le entra el pasmo que se llama pues.
+
+nmlch-lflql2_x_0050_nmlch_00: 
+M: ¿Kürüftulu? 
+C: ¿Lo pesca el viento?
+
+nmlch-lflql2_x_0051_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Kürüftulu.
+C: Lo pesca el viento. 
+
+nmlch-lflql2_x_0052_nmlch_00: 
+M: ¿Mülepefuy l'awen' kay papay kimlafimi? 
+C: ¿Habrá remedio también mamita, lo conoces?
+
+nmlch-lflql2_x_0053_lflql_00: 
+M: Awardiente fey, 
+C: El agua ardiente ese,
+
+M: fey kümey pingi pafmu sofawal. 
+C: es bueno dicen si hay pasmo se soba.
+
+nmlch-lflql2_x_0054_nmlch_00: 
+M: ¿Awardiente?. 
+C: ¿Agua ardiente?.
+
+nmlch-lflql2_x_0055_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Awardiente.
+C: Agua ardiente.
+
+nmlch-lflql2_x_0056_nmlch_00: 
+M: ¿Fey kümefuy ta pasmu?.
+C: ¿Ese es bueno para el pasmo?.
+
+nmlch-lflql2_x_0057_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Fey kümey pingün.
+C: Es bueno dicen.
+
+nmlch-lflql2_x_0058_nmlch_00: 
+M: ¡Ah! 
+C: ¡Ah!
+
+nmlch-lflql2_x_0059_lflql_00:  
+M: <*SPA>Vecina femngechi feypienew.
+C: La vecino eso es bueno me dijo.
+
+nmlch-lflql2_x_0060_nmlch_00: 
+M: ¿Ngütramkaymu femngechi? 
+C: ¿Conversan de esto?
+
+nmlch-lflql2_x_0061_lflql_00: 
+M: <*SPA> Si.  
+C: Sí.
+
+nmlch-lflql2_x_0062_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Fey ti awardiente ¿chew pengeafuy 
+C: Ese el agua ardiente ¿donde se encuentra
+
+M: ngillangeki ta wariamu kam? 
+C: o se compra en la ciudad?
+
+nmlch-lflql2_x_0063_lflql_00: 
+M: Waria mu ngillangeki pu'.
+C: En la cuidad se compra pues.
+
+nmlch-lflql2_x_0064_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Küllüwtuleay awardientemu che.
+C:  Se debe lavar con agua ardiente la gente
+
+nmlch-lflql2_x_0065_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Pasmu ngelu fey, fey kümey. 
+C: Si tiene pasmo, eso es bueno.
+
+nmlch-lflql2_x_0066_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+
+M: <uh> Lüfiyem che 
+C: Cuando se quema la gente
+
+M: ¿kimlaymi chem ñi kümefel kay 
+C: ¿no sabes que es lo que es bueno
+
+M: mapucheñi asmüwünmu?.
+C: los Mapuche saben también de esto?.
+
+nmlch-lflql2_x_0067_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Kimlan fey. 
+C: No sé eso.
+
+nmlch-lflql2_x_0068_nmlch_00: 
+M: ¿Kimlafimi?. 
+C: ¿No sabes eso?.
+
+nmlch-lflql2_x_0069_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql2_x_0070_nmlch_00: 
+M: <uh> ¿Ka kiñe <uh> kimfimi 
+C: ¿Uno más conoces
+
+M: ti tüfinga müleki itrofill asümüwün tüfa 
+C: de esto hay varias cosas que sabe hacer 
+
+M: langümcheki tüfichi llallin pingeki nga 
+C: se muere la gente con este llallin que se llama
+
+M: kiñekemu ünatungeki che 
+C: a veces muerde a la gente
+
+M: kam fawpüle ¿chem pingeki che 
+C: por acá ¿qué dice la gente
+
+M: mayta <uh> kimlafimi? 
+C: pero tu no lo conoces? 
+
+M: ¿feyti ünatungi che chem ñi kümefel?.
+C: ¿cuándo lo muerde a la gente que puede ser bueno?.
+
+nmlch-lflql2_x_0071_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Kimlafin ti. 
+C: No se de eso.
+
+nmlch-lflql2_x_0072_nmlch_00: 
+M: ¿Kimlafimi?.
+C: ¿No sabes?.
+
+nmlch-lflql2_x_0073_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql2_x_0074_nmlch_00: 
+M: Feyti ünatueyu che laki pingi tati 
+C: Si muerde a la gente se muere dicen pues
+
+M: layafuy ka fey 
+C: también se mueres pues
+
+M: welu mülepelafuy asümüwün mapumu 
+C: pero también debe haber quienes saben de la tierra
+
+M: mapuche mu <uh> kiñeke asümüwküleki ka fey
+C: de lo Mapuche algunas personas que sepan también
+
+M: ka ni pepiluwün.
+C: que sean inteligentes para esto.
+
+2_x_0075_nmlch_0075_lflql_00: 
+M: Mülepefuyma pero inche asümlafin chi.
+C: Deben haber más, pero yo no lo se hacer.
+
+nmlch-lflql2_x_0076_nmlch_00: 
+M: ¿Asümlafimi tüfey?.
+C: ¿No sabes de esto?.
+
+nmlch-lflql2_x_0077_lflql_00: 
+M: Asümlafin chi. 
+C: No sé de eso.
+
+nmlch-lflql2_x_0078_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M:  <%> ¿Chi kimlaymi chem ñi tukulelngekel 
+C: ¿No sabes los que se lo coloca
+
+M: chem üñi l'awen' tungekefel kay papay 
+C: que remedio se le coloca también mamita,
+
+M: kiñekemu trewa 
+C: y algunos perros
+
+M: ka unatucheki <*SPA> no ke.
+C: no que también muerden a la gente.
+
+nmlch-lflql2_x_0079_lflql_00: 
+M: Ka fey kimlan l'awen' 
+C: Tampoco se de remedio,
+
+M: ka fey kimlan l'awen' pu. 
+C: tampoco sé de remedios pues.
+
+nmlch-lflql2_x_0080_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Kimlafimi tüfey? 
+C: ¿No sabes de esto?
+
+
+nmlch-lflql2_x_0081_lflql_00: 
+M: Feyti fey ünatungeyem trewa 
+C: Cuando muerde un perro
+
+M: fey ñi ese pelo del perro 
+C: con el pelo de perro
+
+M: feymu fey <*SPA> no demora ma mejorar.
+C: con eso no demora nada en mejorar. 
+
+nmlch-lflql2_x_0082_nmlch_00: 
+M: Fey papay tüfa inche perrupapiyu 
+C: Así es mamita por eso yo te pase a ver 
+
+M: ta tüfey <uh> ramtuan ñi papay 
+C: y de esto también te pregunte mamita
+
+M: chumleken pipen 
+C:  como esta te digo,
+
+M: feyta ramtuafin ka l'awen' kimnele 
+C: le voy a preguntaba de remedios cuales sabe
+
+M: fey kiñeke ka ñi chumngechi ñi kutranken pipen tati 
+C: que algunos como se enferman digo yo pues
+
+M: fey pe'rupapiyu tati papay 
+C: así te he venido a ver mamita
+
+M: femngen ta ngütramka nepapiyu tati.
+C:  así hemos podido conversar pues.
+
+nmlch-lflql2_x_0083_lflql_00: 
+M: Fey, fey küme sungu pue gracia ñi perpapefiel.
+C: Así es, buenas palabras pues gracias por venir a verme. 
+
+nmlch-lflql2_x_0084_nmlch_00: 
+M: Fey pewmangelmi 
+C: Si el sueño se cumple 
+
+M: ta peneymuaymi l'awen 
+C: vas a seguir encontrando remedio 
+
+M: ka inaneymuami ta kümeke l'awen' 
+C: también va a seguir los bueno remedios
+
+M: y <uh> petuafuymi tati l'awen' 
+C: y te vas a encontrar con el remedio
+
+M: peumangelmi tüfa, 
+C: debes soñar con esto,
+
+M: inche tüfa rupaletuan
+C: yo seguiré pasando
+
+M: amuletuan tüfa 
+C: ya me voy a mi lugar
+
+M: inche fente puay ngütram.
+C:  hasta aquí llego y con mi conversación.

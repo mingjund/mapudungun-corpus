@@ -1,0 +1,10 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nmlch-lfrcl1_1_%04d_nmlch_00
+nmlch
+nmlch-lfrcl1_1_%04d_lfrcl_00
+lfrcl
+UserLables: 0
+LableMenuFile
+\\Nguluche\Audios\trl-avenue.mnu

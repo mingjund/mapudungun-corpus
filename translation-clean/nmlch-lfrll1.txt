@@ -1,0 +1,2771 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-lfrll1 
+; Last changes made on 11/22/2001 
+; Transcriber: Cristian C. Anton. 
+; Comments:  
+; Traduce: Luis Melillan.
+
+nmlch-lfrll1_x_0000_nmlch_00: 
+M:  Mari mari papay.
+C:  Buenos dias mamita.
+ 
+nmlch-lfrll1_x_0001_lfrll_00: 
+M: Mari mari chaw.
+C: Buenos días padre.
+
+nmlch-lfrll1_x_0002_nmlch_00: 
+M: ¿Chumngechi li tami lof 
+C: ¿Cómo esta su comunidad
+
+M: fawpüle chem dungu rume ngelay?
+C: por aquí no hay ninguna cosa?
+
+nmlch-lfrll1_x_0003_lfrll_00:
+M:  Ngelay.
+C: No hay.
+ 
+nmlch-lfrll1_x_0004_nmlch_00:
+M: ¿Kom kümeli tami pu ka rukache?.
+C: ¿Todos tus vecinos estan bien?
+
+nmlch-lfrll1_x_0005_lfrll_00: 
+M: Kom kümeli.
+C: Todos estan bien.
+
+nmlch-lfrll1_x_0006_nmlch_00:
+M: ¿Kümelingün?
+C: ¿Estan bien?
+
+
+nmlch-lfrll1_x_0007_lfrll_00: 
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0008_nmlch_00:
+M:  ¿Ini pingi chi mapu tüva?
+C: ¿Cómo se llama este lugar?
+
+nmlch-lfrll1_x_0009_lfrll_00:
+M:  Inche mülen lonko waka.
+C: Yo estoy en Lonko vaca.
+
+nmlch-lfrll1_x_0010_nmlch_00:
+M: ¿Veypingi?
+C: ¿Así se llama?
+
+nmlch-lfrll1_x_0011_lfrll_00:
+M: Veypingi tani mapu.
+C: Así se llama mi tierra.
+
+nmlch-lfrll1_x_0012_nmlch_00:
+M: ¿Vey chumeluchi veypingi vey?
+C: ¿Y por qué se llama así?
+
+nmlch-lfrll1_x_0013_lfrll_00:
+M: Lonko waka pingeki
+C: Cabaza de vaca se llama porque
+
+M:  rume mülekevuy kullin.
+C: había muchos animales.
+nmlch-lfrll1_x_0014_nmlch_00: 
+M: ¿Mülekevuy?
+C: ¿Había?
+
+nmlch-lfrll1_x_0015_lfrll_00:
+M: Rume mülekevuy kullin 
+C: Había muchos animales
+
+
+M: veymu vey lonko waka pingi 
+C: por eso se llama cabeza de vaca
+
+M: tachi winkul lonko waka pingeki welu.
+C: este de arriaba cabeza de vaca, pero se le dice.
+
+nmlch-lfrll1_x_0016_nmlch_00: 
+M:  ¿Winkul?.
+C: ¿Arriba?
+
+nmlch-lfrll1_x_0017_lfrll_00:
+M:  Winkul lonko waka
+C: Arriba cabeza de vaca,
+
+M:  welu inche kimpan
+C: pero yo vine a saber
+
+M:  chew rume mülekevuy kullin
+C: en cualquier parte había animales
+
+M:  veymu vey lonko waka pingi.
+C: por eso se le llama cabeza de vaca.
+nmlch-lfrll1_x_0018_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+M: ¿Veyta <uh> lof <uh> mapu kuyvi ngekelavuy ta
+C: ¿En esta tierra antes no había 
+
+M:  <uh> l'awen'tuchekelu
+C: quien hiciera remedio
+
+M:  katripache eymi kimimi 
+C: ----------- usted sabe
+
+M: vey ngekelavuy?
+C: esto no había?
+
+nmlch-lfrll1_x_0019_lfrll_00: 
+M: ¿Kuyfi mew?
+C: ¿Antiguamente?
+nmlch-lfrll1_x_0020_nmlch_00: 
+M: May
+C: Sí.
+
+M: ¿ <*SPA>Doctor pingi
+C: ¿Doctor se le llama
+
+M:  vey ka <*SPA>medico piki ta winka 
+C: este también medico le llama el huinca
+
+M: <uh> posta ngekelavuy mülekevuy?.
+C: posta no había y/o había?
+ 
+nmlch-lfrll1_x_0021_lfrll_00:
+M:  Kuyvi ta müte ngelay posta.
+C: Antes no había muchas postas.
+
+nmlch-lfrll1_x_0022_nmlch_00:
+M: ¿Ngelavuy?.
+C: ¿No había?
+
+nmlch-lfrll1_x_0023_lfrll_00:
+M: Ngelavuy.
+C: No había.
+
+nmlch-lfrll1_x_0024_nmlch_00:
+M: ¿Chumngechi l'awen'tuw 
+C: ¿Cómo se hacían remedio
+
+M: kevuychi papay
+C: antes mamita
+
+M:  <uh> chachay rume pichikeche 
+C: papito y también los niños chicos 
+
+M: <uh> chumngechi chi mongeluwkevuy?
+C: cómo sera que lo hacían vivir?
+
+nmlch-lfrll1_x_0025_lfrll_00:
+M: Mapumu ta yemeki l'awen' ka.
+C: En la tierra hiban a buscar remedio también.
+
+nmlch-lfrll1_x_0026_nmlch_00:
+M: ¿Mapumu?.
+C: ¿En la tierra?
+
+nmlch-lfrll1_x_0027_lfrll_00: 
+M: May.
+C: Sí.
+
+M: Winkul mu.
+C: En el cerro.
+
+nmlch-lfrll1_x_0028_nmlch_00:
+M: ¿Winkul mew?.
+C: ¿En el cerro?
+
+nmlch-lfrll1_x_0029_lfrll_00:
+M: May.
+C: Sí.
+
+M:  Meno komu ka müli l'awen'.
+C: En el menoco también hay remedio.
+
+nmlch-lfrll1_x_0030_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: ¿ Vill che l'awen'tuchekevuy 
+C: ¿Todas las gentes se hacía remedio
+
+M: kam mülevuy ta l'awen' tuchelu?
+C: o habia gente que hacía remedio?
+
+nmlch-lfrll1_x_0031_lfrll_00: 
+M: Mülekvuy ta machi 
+C: Había la machi
+
+M: ka müli ta medika 
+C:  también la medica
+
+M: re medica ka müli pu'.
+C: solo medica había también pues.
+
+nmlch-lfrll1_x_0032_nmlch_00:
+M: ¿Vemngechi l'awen' tuwkevuyngün?
+C: ¿Así hacían remedio?
+
+nmlch-lfrll1_x_0033_lfrll_00:
+M: Vemngechi l'awen'tuwkevuyngün.
+C: de esa manera se hacían remedio. 
+
+nmlch-lfrll1_x_0034_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M:  ¿Vey pichi keche 
+C:  ¿Y los niños chicos
+
+M: <uh> akuayem mapumew
+C: que llgan a la tierra
+
+M:  vey kidu engün ten püñeluwkebuyngün?
+C: ellos solos no más tenían hijos?
+
+nmlch-lfrll1_x_0035_lfrll_00:
+M: Kidu müten llemay.
+C: Solo no más pues.
+
+nmlch-lfrll1_x_0036_nmlch_00:
+M: ¿Kidu?
+C: ¿Solo?
+
+nmlch-lfrll1_x_0037_lfrll_00:
+M: Kisu.
+C: Solo.
+
+nmlch-lfrll1_x_0038_nmlch_00:
+M: ¿Mülekvuy ta kimlu <uh> elkelu ta püñeñ 
+C: ¿Había quien sabía hacer nacer un hijo
+
+M: kim dapial kom?
+C:hacerlo todos de eso?
+
+nmlch-lfrll1_x_0039_lfrll_00:
+M: Kom llemay tachi 
+C: Todo pues esto
+
+M: chew ta püñeñelngi ta tachi pu' malen.
+C: donde tienehijo esta pues hija.
+
+nmlch-lfrll1_x_0040_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-lfrll1_x_0041_lfrll_00:
+M: Aso felewelay,
+C: Así no esta,
+
+M:  aso felewelay amukaki 
+C: así no esta se va
+
+M: doy ka tripachemu che.
+C: más también donde sale la gente.
+
+nmlch-lfrll1_x_0042_nmlch_00:
+M: ¿Vewla?.
+C: ¿Ahora?
+
+nmlch-lfrll1_x_0043_lfrll_00:
+M: Aso aso.
+C: así, así.
+
+nmlch-lfrll1_x_0044_nmlch_00:
+M: Veley veley vey ka
+C: Eso, eso eso también
+
+M:  <uh> mapumu nentukevuy l'awen' 
+C: en la tierra sacaba remedio
+
+M: vill l'awen' tripakevuy mapumu.
+C: de todo tipo de remedio salía en la tierra.
+
+nmlch-lfrll1_x_0045_lfrll_00:
+M: Vill l'awen' vill, vill,
+C: Todo tipo de remedio, todo tipo, todo tipo,
+
+M:  vill l'awen' vill l'awen' 
+C: todo tipo de remedio, todo tipo de remedio
+
+M: tüfa llenoanta otubrey chi chaw.
+C: ahora no es que en octubre pues padre.
+ 
+nmlch-lfrll1_x_0046_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0047_lfrll_00:
+M: Otubrey vey tüfa küpali ta l'awen'
+C: Octubre este, trae remedio
+
+M:  doy pewvaluwi 
+C: más se muestra 
+
+M: winkul mew 
+C: en el cerro
+
+M: meno ko mew vey rayikingün tati.
+C: en el menoco, ahí florecen pues.
+ 
+nmlch-lfrll1_x_0048_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-lfrll1_x_0049_lfrll_00:
+M:  Kiñeke ta nieki ta kallfü rayen
+C: A veces tiene 
+
+M:  kiñeke nieki ta lig
+C: a veces tiene blanca
+
+M:  <uh> rosaw rayen ngetukeyngün 
+C: flor rosadas tenian
+
+M: vünki kütu nuan ta l'awen' chaw.
+C: tenian hasta fruto el remedio que se iba a escoger padre.
+
+nmlch-lfrll1_x_0050_nmlch_00:
+M: ¿Vünki ka vey?
+C:  ¿Este también daba fruto?
+
+nmlch-lfrll1_x_0051_lfrll_00:
+M: Müna vünki ta l'awen'.
+C: Daba mucho fruto eel remedio.
+
+nmlch-lfrll1_x_0052_nmlch_00:
+M: Vey otubre tüva chem pingeki 
+C: En octubre, esto se dice
+
+M: ta küyen mapuche mew.
+C: en el año, en el mapuche.
+
+nmlch-lfrll1_x_0053_lfrll_00:
+M: Walün nuanchi.
+C: En la cosa no es pues.
+
+nmlch-lfrll1_x_0054_nmlch_00:
+M: Ah. 
+C: Ah.
+
+M: Walüng pingeke vuy.
+C: En la cosecha sedecía.
+
+nmlch-lfrll1_x_0055_lfrll_00:
+M: ¿Walüng?
+C: ¿En la cosecha?
+nmlch-lfrll1_x_0056_nmlch_00:
+M: Ah.
+C: Ah.
+ 
+nmlch-lfrll1_x_0057_lfrll_00: 
+M: Walüng pingi ta 
+C: En la cosecha se dice esto
+
+M: ta walüng,
+C: en la cosecha,
+
+M:  welu kiñeke ka pewü ka,
+C: pero a veces también en primevera,
+
+M: kake ka üy ni ka.
+C: en distintos nombres también.
+
+nmlch-lfrll1_x_0058_nmlch_00:
+M: ¿Ka chem üy müli?.
+C: ¿Qué otros nombreshay?
+
+nmlch-lfrll1_x_0059_lfrll_00:
+M: Pewü pingi ta otubre.
+C: Primaver se le llama a octubre.
+
+nmlch-lfrll1_x_0060_nmlch_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0061_lfrll_00: 
+M: Veyta chi noviembre kuru pewü pingi.
+C: Este pues noviembre primavera negra se le dice.
+
+nmlch-lfrll1_x_0062_nmlch_00:
+M: Ah.
+C: Ah.
+
+M: ¿Kurü pewü?
+C: ¿Primavera negra?
+
+nmlch-lfrll1_x_0063_lfrll_00: 
+M: May.
+C: Sí.
+
+M:  Kurü pewü.
+C: Primeveranegra.
+
+nmlch-lfrll1_x_0064_nmlch_00:
+M: ¿Chumngelu chi pewü pingi?
+C: ¿Por qué se le dice primavera?
+
+nmlch-lfrll1_x_0065_lfrll_00: 
+M: Chew kom ta pewü ki ka,
+C: Todo brota pues también,
+
+M:  pewü ki ta kallwe anümka
+C: suelen bratar las plantas 
+
+M:  pewüki ta l'awen',
+C: brotan también los remedios,
+
+M:  pewüki ta kom, 
+C:  brota todo,
+
+M: kom pewüki
+C: todo brota
+
+M:  veymu ta pewü pingeki y 
+C: por eso se le llama primevera y
+
+M: walün pi ta taiñ mapuche ngen
+C: en el verano decimos nosotros los mapuches
+
+M:  walüng itrofill akuy 
+C: en el verano todo llega
+
+M: tukun akuki
+C: lo que se siembra llega
+
+M: tukun müleki 
+C: lo que hay en la Huerta
+
+M: ta awar müleki 
+C: también hay habas
+
+M: ta allvida akuki ta poñü, 
+C: llegan la arvejas, las papas,
+
+M: müleki ta tukukan, 
+C: hay Huertas,
+
+M: kom küpaki itro vill
+C: todo llega, de todo
+
+M:  veymu llemay ta walüng
+C: por eso pues es primevera
+
+M: piki ta che tati chaw.
+C: dice esto pues padre.
+
+nmlch-lfrll1_x_0066_nmlch_00:
+M: ¿Veymu?
+C: ¿Por eso?
+
+nmlch-lfrll1_x_0067_lfrll_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0068_nmlch_00: 
+M: ¿Vey <uh> chumngelu chi ka 
+C: ¿Y por qué sera que
+
+M: <uh> kuyvi <uh> doy kümeke foro niekevuy che
+C: antes mejor diente, tenía la gente
+
+M:  pichikeche o pütakeche 
+C:  los chicos y/o los mayores 
+
+M: rume llankükelavuy tañi voro
+C: se me caían muchos los dientes
+M:  chumnelu chi veula niewelay voro che
+C: por qué será que ahora no tiene diente la gente
+
+M:  müna llanküki voro
+C: se le cae, mucho los dientes
+
+M:  chemu iyagelmu kam <uh>?
+C:  con qué, con la comida?
+
+nmlch-lfrll1_x_0069_lfrll_00:
+M: No.
+C: No.
+
+nmlch-lfrll1_x_0070_nmlch_00: 
+M: Chemu chi.
+C: ¿Cómo sera?
+
+nmlch-lfrll1_x_0071_lfrll_00:
+M:  Kümeke voro ngeki che
+C: buenos dientes tiene la gente 
+
+M:  ikefi chi newen ngeluam
+C: come, lo que, se tiene que tener fuerza para comer
+
+M:  mapu müleki tachi wa 
+C: el la tierra hay este maíz
+
+M: müna kümelkaleki chi wa tati
+C: esta muy bueno el maíz pues
+
+M:  üngül tukuneki ñi fün.
+C:  ----- se hacha a ervir. 
+
+nmlch-lfrll1_x_0072_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lfrll1_x_0073_lfrll_00:
+M:  Vey vey ünatuy 
+C: Ahí, ahí lo muerde
+
+M: vey ka vemngechi inanentuki ñi voro 
+C: ahí también así saca su diente
+
+M: pütra ke wamu.
+C: con los maices grandes.
+
+nmlch-lfrll1_x_0074_nmlch_00:
+M: Ah.
+C: Ah.
+
+nmlch-lfrll1_x_0075_lfrll_00:
+M:  Pütrüke tremfuy kay wa.
+C: Crecía mucho los maices.
+
+nmlch-lfrll1_x_0076_nmlch_00:
+M: ¿Veley?
+C: ¿Así es?
+
+nmlch-lfrll1_x_0077_lfrll_00: 
+M: May. 
+C: Sí.
+
+M: Külli kolli weki wa une akulu
+C: 
+
+M:  unepalu kolü
+C: los primeros que se colocan de colores
+
+M:  kolüweki ñi payun, payun wa.
+C: se pone rojo so barba, la barba de el maíz.
+ 
+
+nmlch-lfrll1_x_0078_nmlch_00:
+M: Vey vey.
+C: Eso, eso.
+
+nmlch-lfrll1_x_0079_lfrll_00:
+M: Vey ikefingün.
+C: Ahí lo comían.
+
+nmlch-lfrll1_x_0080_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M:  ¿Cheman tachi wa?
+C: ¿Qué, el choclo?
+
+nmlch-lfrll1_x_0081_lfrll_00: 
+M: Wa.
+C: El choclo
+
+nmlch-lfrll1_x_0082_nmlch_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0083_lfrll_00: 
+M: Wa llemay tukungeki ta mapumu.
+C: El choclo pues se coloca en la tierra.
+
+nmlch-lfrll1_x_0084_nmlch_00:
+M: ¿Iyagel?
+C: ¿Para comer?
+
+nmlch-lfrll1_x_0085_lfrll_00:
+M: Yagel.
+C: Para comer.
+
+nmlch-lfrll1_x_0086_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+M: Iyagel vey.
+C: Para comer, eso
+
+nmlch-lfrll1_x_0087_lfrll_00: 
+M: Pichi wa ka müday ngeki pu'.
+C: Los choclos pequeños se hacen bebida mapuche pues.
+
+nmlch-lfrll1_x_0088_nmlch_00: 
+M: ¿Müday?
+C: ¿Bebida mapuche?
+
+nmlch-lfrll1_x_0089_lfrll_00: 
+M: May. 
+C: Sí.
+
+M: Chefkü ngeki <uh> rüngo
+C: Se sine la harina
+
+M:  ngeki mürke
+C: se hace la harina
+
+M:  ngeki itrofill ka ngeki.
+C: se lehace a todo también se le hace.
+
+nmlch-lfrll1_x_0090_nmlch_00:
+M: Vey wa vey ka vey l'awen' 
+C: El choclo ese, también el remedio 
+
+M: kungeki ka vey.
+C: se hace agua tambiém eso.
+
+nmlch-lfrll1_x_0091_lfrll_00:
+M: Ka vey ka l'awen' ngeki.
+C: También este remedio también se hace.
+
+nmlch-lfrll1_x_0092_nmlch_00:
+M: Ah.
+C: Ah.
+
+ nmlch-lfrll1_x_0093_lfrll_00:
+M: Ka l'awen' ngi
+C: También remedio se hace
+
+M:  <uh> pütrüke konkefuy ta wa kuyvi,
+C:  harto entraba el choclo antes,
+
+M:  pütrüke konkevuy 
+C: bastante entraba antiguamente
+
+M: vey vantepumuam 
+C: esto ahora
+
+M: ngewenolu che chaw 
+C: como no hay gente padre
+
+M: ti ape <uh> kimwa 
+C: 
+
+M: femngefuy kimwa a
+C: así 
+
+M:  kimimi ka chaw.
+C: sabe también padre.
+
+nmlch-lfrll1_x_0094_nmlch_00:
+M:  <*SPA> No. 
+C: No.
+
+M: Kimlavin.
+C: No lo conosco.
+
+nmlch-lfrll1_x_0095_lfrll_00:
+M:  Vey llemay kinwa
+C: Esa es la quinoa pues
+
+M:  tüva vantupu ngewelay tati kinwa.
+C: por aquí no existe  la quinoa pues. 
+
+nmlch-lfrll1_x_0096_nmlch_00:
+
+M: ¡Chem vel?.
+C:  ¿Qué es?
+
+nmlch-lfrll1_x_0097_lfrll_00:
+M:  <uh> Iyagel ka
+C: Comida también
+
+M:  vey pu' 
+C: eso pues
+
+M: muday ngeki l'awen' 
+C: se hacía bebida y remedio
+
+M: ngeki ta ka.
+C: se hace también.
+
+nmlch-lfrll1_x_0098_nmlch_00:
+M: ¿Ka vey?
+C: ¿Eso también?
+
+nmlch-lfrll1_x_0099_lfrll_00: 
+M:  May. 
+C: Sí.
+
+M: Kinwa müna kümi müdayünmu 
+C: Quinoa es muy bueno para hacer bebida
+
+M: pu kinwa.
+C: la quinoa.
+
+nmlch-lfrll1_x_0100_nmlch_00: 
+M: ¿Vemngechi?
+C:  ¿Es así?
+
+nmlch-lfrll1_x_0101_lfrll_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0102_nmlch_00:
+M: ¿Tukun kutu l'awen' mawkevuy?.
+C: ¿Se hechaba hasta en los remedios?.
+
+nmlch-lfrll1_x_0103_lfrll_00:
+M: May. 
+C: Sí.
+
+M: L'awen' mawkevuy
+C: Se hacía hasta remedio
+
+M:  eymiam ramtupelu kimavin 
+C:  usted que pregunta lo voy a saber
+
+M: pipimi chi wa
+C: digiste por el choclo
+
+M:  vey ñi yavü voro ngeken che
+C: de los dientes fuertes que tenía la gente
+
+M:  vey pütrake wa pu'
+C: como los dientes grande de los choclos
+
+M:  inayentukefi tachi wa
+C: lo saca de estos choclos
+
+M:  ta chumlen wa kay
+C: como esta el choclo pues
+
+M:  müna kümelkali veychi 
+C: estaba muy bueno eso
+
+M: voro ünatuki
+C: con los dientes los muerde
+
+M:  vey yavü voro ngeki che
+C: por eso tiene los dientes fuertes la gente
+
+M:  tüva anta müte amul watukerki ta che 
+C:  ahora, hoy no comé muvho choclo la gente
+
+M: tawül wawelay rume.
+C: 
+
+nmlch-lfrll1_x_0104_nmlch_00:
+M: ¿Rume alün ngüneluwün
+C: ¿Mucho 
+
+M:  niekevuy mapuche pingi
+C: tenía el mapuche se dice
+
+M:  kuyvi feyngepi tüvey?
+C: esto sería asíantes?
+
+nmlch-lfrll1_x_0105_lfrll_00:
+M: Feyngi ka.
+C: Así debe haber sido.
+
+nmlch-lfrll1_x_0106_nmlch_00:
+M: Veyngi.
+C: Así fue.
+
+nmlch-lfrll1_x_0107_lfrll_00:
+M: Feyngi llemay.
+C: Así fue pues.
+
+nmlch-lfrll1_x_0108_nmlch_00:
+M: ¿Veymu kidu engün mongeluwkevuyngün?.
+C: ¿Por eso solo ellos se hacían vivir?
+
+nmlch-lfrll1_x_0109_lfrll_00: 
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0110_nmlch_00:
+M:  Kakiñe ramtun nien tüva
+C: tra pregunta también tengo 
+
+M:  <uh> vewla <uh> pichikeche 
+C: ahora los niños chicos
+
+M: pütakeche rume
+C: la gente grande siquiera
+
+M:  niewelay ta kümeke nge pelon
+C: no tiene buena visión
+
+M:  <uh> lente tuletuki vewla 
+C: tiene lente ahora
+
+M: ¿chumngelu chi kuyvi pütakeche pingi
+C: ¿Por qué sera que antes la gente mayor se dice
+
+M:  <uh> vemlekelavuy
+C: no estaba así
+
+M:  niekevuy vente küme nge 
+C: tenía muy buena vista
+
+M: pelokevuyngün kimlaymi tüvi
+C: veían bien no sabe esto
+
+M:  chumnelu vel?
+C: por qué sera?
+
+nmlch-lfrll1_x_0111_lfrll_00:
+M:  ¿Kuyfi may chaw?
+C: ¿Antes pues padre?
+
+nmlch-lfrll1_x_0112_nmlch_00:
+M:  May.
+C: Sí.
+
+
+nmlch-lfrll1_x_0113_nmlch_00:
+M: Kuyvita che pingi 
+C: Antes le gente se dice
+
+M: pütrake püliwen witray 
+C: muy tenprano se levantaba
+
+M: narpachi wün mew  
+C: cuando enpesaba el día
+
+M: inche ta ka vey chi nawpachi wün mu 
+C: yo también al comensar el día
+
+M: witrakevun 
+C: me levantaba
+
+M: vey tuy küme küme kürüf 
+C: así toca muy buen viento
+
+M: fiskü kürüf trelüngi lonko y 
+C: viento fresco recibe la cabeza y
+
+M: feymu penow
+C: por eso de ser
+
+M:  küme nge niekevuy che chaw.
+C: buena vista tenía la gente padre.
+
+nmlch-lfrll1_x_0114_nmlch_00:
+M: Ah. 
+C: Ah.
+
+M: ¿Püliwen?
+C: ¿En la mañana?
+
+nmlch-lfrll1_x_0115_lfrll_00:
+M: Puliwen.
+C: En la mañana.
+
+nmlch-lfrll1_x_0116_nmlch_00:
+M: ¿Petu tañi tripapanon antü petuno?
+C: ¿Antes que salgo el sol, cuando todavía no sale?.
+
+nmlch-lfrll1_x_0117_lfrll_00:
+M: Petuno
+C: Cuando todavía no sale
+
+M:  petu ta amuy ta külliüwtumealu 
+C: todavía va a lavarse 
+
+M: re komew kuyvi ke cheam 
+C: con pura agua la gente antigua
+
+M: ini rume petu trekantunolu ko
+C:  nadie aun cuando no camina en el agua
+
+M:  veymu külliüwtumiaymi
+C: por eso se anda lavando
+
+M:  veymu vey kutranlayaymi
+C: por eso no te vas a enfermar
+
+M:  pilümkevuy ta pütakeche
+C: se ponía sorda la gente mayor
+
+M:  veula iniam vi memay petu
+C: ahora quién hace este todavía
+
+M:  ñi trekantumenol ko
+C: de ir al agua así no más
+
+M:  küllümtumeay vemlay pu chaw.
+C: de ir a lavarse, no hace esto pues padre.
+
+nmlch-lfrll1_x_0118_nmlch_00:
+M: Ah. 
+C: Ah.
+
+nmlch-lfrll1_x_0119_lfrll_00:
+M: Femlay.
+C: No hace eso.
+
+nmlch-lfrll1_x_0120_nmlch_00: 
+M: ¿Eñum komu küchakelavuy ñi ange engün?.
+C: ¿Con agua calentita, se lavaban la cara?
+
+nmlch-lfrll1_x_0121_lfrll_00:
+M: Eñumkomu <*SPA> no.
+C: Con agua calentita, no.
+
+nmlch-lfrll1_x_0122_nmlch_00: 
+M: ¿Re fiskükomu?
+C: ¿Sólo con agua fresca?
+
+nmlch-lfrll1_x_0123_lfrll_00:
+M: Firkü firkü.
+C: Fresca, fresca.
+
+nmlch-lfrll1_x_0124_nmlch_00:
+M: Ah.
+C: Ah.
+
+M:  Firkü.
+C: ¿Fresca?
+
+nmlch-lfrll1_x_0125_lfrll_00:
+M: May.
+C: Sí.
+ 
+nmlch-lfrll1_x_0126_nmlch_00: 
+M:¿ Veymu pe rume kümeke kintun niekevuyngün?
+C: ¿Si es por eso buena vista tenían?
+
+nmlch-lfrll1_x_0127_lfrll_00: 
+M: Rume kümeke kintun nieki ngün
+C: Muy buena vista tenían
+
+M:  tüfa ta vemwelay che
+C: ahora no hace esto la gente
+
+M:  pelowelay newe amulay rume 
+C: no ve, no ve desde lejos siquiera
+
+M: ñi witrintun engün.
+C:  a su alrededor.
+
+rll1_x_0129_lfrll_00nmlch_00:
+M: ¿Veleyka?
+C: ¿Así es esto?
+
+nmlch-lfrll1_x_0130_lfrll_00:
+M: Wütrintu kavuyem 
+C: 
+
+M: amulay wütrintukavel müten.
+C: 
+
+nmlch-lfrll1_x_0131_nmlch_00: 
+M: Ah.
+C: Ah.
+
+
+nmlch-lfrll1_x_0132_lfrll_00: 
+M: Viskü komu kallumtu 
+C: Con agua fresca 
+
+M: küchay muy muy ange 
+C: se lavaban sus caras
+
+M: vey küme ngeli.
+C: así estaban bien.
+
+nmlch-lfrll1_x_0133_nmlch_00:
+M: Vey ka müli tüva
+C: Aquí hay también
+
+M:  <uh> müna wesa ligki tañi lonko ta che
+C: esta muy mal la cabeza de la gente
+
+M:  kuyvi vemkelavuy pingi
+C: antes no le pasaba esto se dice
+
+M: ¿ chumeluchi vente ligi lonko
+C:  ¿por qué sera que se coloca muy blanca la cabeza
+
+M:  vewla mülepevuy 
+C: ahora habrá
+
+M: ngüneluwün tüvey ka vey?.
+C: dominio esto también esto?
+
+nmlch-lfrll1_x_0134_lfrll_00:
+M: Kuyfi ta mülefuy ta ngüneluwün 
+C: Antes había  el -------------------
+
+M: tichi mülekevuy tachi fay
+C: esto había aquí pues
+
+M:  wüllen kiñeptra metawemew 
+C: orina en un cantaro grande
+
+M: vey vayümngi chi willen
+C: se deja fermentar la orina
+
+M:  feymu ta küchay tañi lonko ta che,
+C:  con eso se lavaban el pelo la gente,
+
+M:  küchakunumeki lonko
+C:  se lavaban el pelo
+
+M:  vey visküy liglay tüva 
+C: con esto se refreca y no se pone blanco este
+
+M: mari tripantu
+C. diez años
+
+M:  mari kechu tripantu müten ni che 
+C: trece años tiene no más la gente
+
+M: dewma ligüy lonko
+C.  ya tienen blanco el pelo
+
+M:  chew ta küchafi ta katripache, 
+C: las personas de antes
+
+M: katripache ñi asümüwünmu 
+C. la sabiduría de gente antigua
+
+M: veymu küchafi y 
+C: por eso se lavaban y
+
+M: kuyfi femlay willen müten
+C: antes no hacían con orina no más
+
+M:  fisküy müna küme visküm 
+C: se refrescaba, se refrescaba muy bien
+
+M: ka kunungi lonko tüfa ta femlay.
+C: también toda la cabeza, ahora no hace eso.
+
+nmlch-lfrll1_x_0135_nmlch_00:
+M: ¿Re willen mu küchay ñi lonko?
+C: ¿ Solo con orina se lavaban la cabeza?
+
+nmlch-lfrll1_x_0136_lfrll_00:
+M: Re willenmu
+C: Solo con orina
+
+M:  küchaki tachi lonko tati chaw.
+C: la cabeza pues padre.
+
+nmlch-lfrll1_x_0137_nmlch_00: 
+M: ¿Ngelavuy ta kavon omu?.
+C: ¿No había jabón, omo?
+
+nmlch-lfrll1_x_0138_lfrll_00: 
+M: Ngelay pu' ngelay pu'.
+C: No había pues, no había pues.
+
+nmlch-lfrll1_x_0139_nmlch_00: 
+M: ¿Winka ñi küchawkemu ngelavuy?
+C: ¿Con lo que el huinca se lavaba, no había?
+
+nmlch-lfrll1_x_0140_lfrll_00:
+M:  Ngelavuy.
+C:  No había.
+
+nmlch-lfrll1_x_0141_nmlch_00:
+M: Ah.
+C: Ah.
+
+nmlch-lfrll1_x_0142_lfrll_00: 
+M: Kuyvi ka inche 
+C: Antes yo también 
+
+M: kimpan lel wütrintuken vemngechi 
+C: vini a saber --------------así
+
+M: <uh> kupil ngi tachi küde ke uvicha 
+C: se amarraban las avejas viejas
+
+M: fey wütruymangi tachi kal
+C: y se le quitraba su lana
+
+M:  femngechi küchanentungekefuy tachi,
+C: así se lavaban estas lanas,
+
+M:  tachi wesakelu taiñ tukupel ta che,
+C: esas ropas que usa la gente,
+
+M:  lifkevuy welu chaw.
+C: pero se limpiaba pues padre.
+
+nmlch-lfrll1_x_0143_nmlch_00:
+M: ¿Veychi?
+C: ¿Eso?
+
+nmlch-lfrll1_x_0144_lfrll_00:
+M:  Ngekeperkalavuymay ta kavon perke.
+C: No debe haber existido el jabón aún.
+
+nmlch-lfrll1_x_0145_nmlch_00:
+M: Ah. 
+C: Ah.
+
+M: ¿Vemngechi?
+C: ¿De esa manera? 
+
+nmlch-lfrll1_x_0146_lfrll_00:
+M: May. 
+C: Sí.
+
+M: Ferü kal pingi tati.
+C: ___ lana se dice pues.
+
+nmlch-lfrll1_x_0147_nmlch_00:
+M: Liftuwkevuy.
+C: ¿Se limpiaba?
+
+nmlch-lfrll1_x_0148_lfrll_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0149_nmlch_00:
+M: Ah.
+C: Ah.
+
+M:  Vewla ngewelay vey.
+C: ¿Ahora no hay eso?
+
+nmlch-lfrll1_x_0150_lfrll_00:
+M:  Ngewelay.
+C: No hay.
+
+nmlch-lfrll1_x_0151_nmlch_00:
+M: Veley veley 
+C: Esta bien, esta bien
+
+M: vey ka kiñe kutran müli 
+C: eso también una enfermedad hay
+
+M: tüfa mongenmew tüva
+C: aquien la vida aquí
+
+M:  <uh> kiñekemu ta pelmu kutranki che
+C: a vecces la garganta le duele a la gente
+
+M:  ka chumngelu chi vemki 
+C:  también por qué sera que hace
+
+M: ka mülepi ngüneluwün ta 
+C: también debe haber dueño
+
+M: <uh> chemlu tañi pel tüvamu 
+C: como que hace asími garganta
+
+M: kiñekemu ta moletaki pel
+C: a veces malesta la larganta
+
+M:  kutranki welu.
+C: pero duele.
+
+nmlch-lfrll1_x_0152_lfrll_00:
+M: Kutranki ta pel ta eñumkülelu ta kürüf tulu.
+C:  Duele la garganta cuando esta calinte y recibe aire fresco.
+
+nmlch-lfrll1_x_0153_nmlch_00: 
+M: ¿Kürüfmu?.
+C: ¿Viento?
+
+nmlch-lfrll1_x_0154_lfrll_00:
+M: Kürüfmew
+C: Cuando pasa frio
+
+M:  <uh> petu eñum iyagel ilu chem rume 
+C: cuando esta caliente por la comida 
+
+M: fiskü famtukutuy
+C: fresco lo tomaba  
+
+M:  tukukan rume petu katrükangi
+C: la siembra aun no se a cortado
+
+M:  vemngechi anüli che 
+C: así va la gente
+
+M: ta veyta küpa llikay 
+C: este se asusta
+
+M: vey vamkoni vamtukuy
+C: ahí se hace un lado
+
+M:  veymu llemay
+C: por eso pues
+
+M:  taveyta kutrantuki tachi pel 
+C: por eso es que duele la garganta
+
+M: tachi chaw.
+C: por esto padre.
+
+nmlch-lfrll1_x_0155_nmlch_00:
+M: ¿Veymu kutrani pel?
+C: ¿Por eso duele la garganta?
+
+nmlch-lfrll1_x_0156_lfrll_00:
+M: Veymu <*SPA> no.
+C: Por eso, no.
+
+nmlch-lfrll1_x_0157_nmlch_00: 
+M: ¿Mülepi ngüneluwün notual vey?
+C: ¿Debe haber algo que haga que pase esto?
+
+nmlch-lfrll1_x_0158_lfrll_00: 
+M: Mülellimay müley
+C: Hay pues, hay
+
+M:  vey val val lutukawi che
+C: siente como una burbuja la gente
+
+M:  val val tuy l'awen' mew 
+C: burbuja con el remedio
+
+M: fürechi l'awen' mew 
+C: con un remedio fuerte
+
+M: veyta rupay tati.
+C: este pasa pues.
+
+_x_0160_lfrll_00158_nmlch_00:
+M:  ¿Ini pingi chi l'awen' vey fürelu?
+C: ¿Cómo se llama el remedio fuerte(amargo)?
+
+nmlch-lfrll1_x_0161_lfrll_00:
+M: Chi l'awen' chi fürelu folil natrüng pingi.
+C: Este remedio que es amargo Folil Natrung se llama.
+
+nmlch-lfrll1_x_0162_nmlch_00: 
+M: ¿Folil natrüng?
+C: ¿Folil Natung?
+
+nmlch-lfrll1_x_0163_lfrll_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0164_nmlch_00: 
+M: ¿Vey chem l'awen' 
+C: ¿Y qué remedio
+
+M: mamüll l'awen' 
+C: remedio de palo
+
+M: kachu l'awen' tüfi?
+C: remedio de pasto este?
+
+nmlch-lfrll1_x_0165_lfrll_00:
+M: Ti chi l'awen' mayta mamüll l'awen' tati.
+C: Este remedio es un remedio de palo pues.
+
+nmlch-lfrll1_x_0166_nmlch_00: 
+M: ¿Mamüll l'awen'?
+C:  ¿Remedio de palo?
+
+nmlch-lfrll1_x_0167_lfrll_00:
+M: Mamüll l'awen'.
+C: Remedio de palo.
+
+nmlch-lfrll1_x_0168_nmlch_00: 
+M: Chew pengeafuy
+C: ¿Dónde se encontrarìa 
+M:  feyta kintule pele che 
+C: esto si se buscara la gente y lo encuentre
+
+M: uwamle müleki 
+C: dónde hay
+
+M: <uh> mallinmu kam müleki 
+C: en el mallín o también hay
+
+M: küllegmew kam mawisa mew?
+C: ewn la primavera o en la montaña?
+ 
+nmlch-lfrll1_x_0169_lfrll_00: <*SPA> 
+M: No. 
+C: No.
+
+M: Vemlay mülekelay
+C: No es así, no hay
+
+M:  mallinmew tichi folil natrün
+C: en el mallin la raiz del natrun
+
+M:   tripaki ta winkulmew.
+C: sale en el cerro.
+
+nmlch-lfrll1_x_0170_nmlch_00:
+M: ¿Winkulmew?
+C: ¿En el cerro?
+
+nmlch-lfrll1_x_0171_lfrll_00: 
+M: Winkulmew tichi folil yemengey
+C: En el cerro esta raíz se va a buscar
+
+M:  katrüka ngi
+C: se corta
+
+M:  vey waskümngi 
+C:  después se hirve
+
+M: fey dew wasküy 
+C: después que hierve
+
+M: vey li chi tapanan kunungetuy
+C: ahí se tapa
+
+M:  fey newen ngi pi ta füchakeche
+C: así con fueza dice la gente mayor
+
+M:  tripanolu tañi mütrol tripanolu 
+C: lo que no sale que al sacudirlo no sale
+
+M: vey eñumtukunewi 
+C: ahí se hireve
+
+M: ella küme dewma firkülewey 
+C: cuando ya esta bien frio
+
+M: vey val valutuy che tati chaw 
+C: y así se lo bebe la gente pues padre
+
+M: veytachi veytachi elngelu 
+C: a este, a este que le dan
+
+M: pelmu kümelu tati.
+C: para la garganta es bueno pues.
+
+nmlch-lfrll1_x_0172_nmlch_00:
+M: ¿Vemuechi?.
+C: ¿Así?
+
+nmlch-lfrll1_x_0173_lfrll_00:
+M: May:
+C: Sí.
+
+M: Vemngechi.
+C: Así.
+
+nmlch-lfrll1_x_0174_nmlch_00:
+M: ¿Poñi vente kümeke l'awen'
+C: ¿Poñi es muy buen remedio
+
+M:  ta wülkerkevuy ta mapuka?.
+C: daba también la tierra?
+
+nmlch-lfrll1_x_0175_lfrll_00: 
+M: Rumey maw ka.
+C: Cuando se estaba muy mal también.
+
+nmlch-lfrll1_x_0176_nmlch_00:
+M: ¿Alün l'awen' wüli mapu?
+C: ¿Hartos remedio daba la tierra?
+
+nmlch-lfrll1_x_0177_lfrll_00: 
+M: Rumey maw kuyvi inche 
+C: Pasaba mal la gente antes
+
+M: kimpan chaw 
+C: vine a saber padre
+
+M: vemngechi chemu chi
+C: así de que manera pues
+
+M:  küchakevuy lonko che 
+C: se lavaba la cabeza la gente
+
+M: pipellelaymi ama.
+C: decias pues .
+
+lfrll1_x_0179_lfrll_00lch_00:
+M: Veley.
+C: Por supuesto.
+
+nmlch-lfrll1_x_0180_lfrll_00: 
+M: Vey yemekevuy tichi mongo 
+C: Ahí se iba a buscar el mongo
+
+M: pütake foki kechili 
+C: era como enredadera 
+
+M: püray wenu wallemu 
+C: subía arriba en el hualle
+
+M: chemu rume püray 
+C: en cualquier parte subía
+
+M: wechukevuy 
+C: subía
+
+M: vey witranan ngi
+C: por eso se tiraba
+
+M:  yüfküki kavon reke trorfanki 
+C: al refregarlo parecía como jabón hacía espuma
+
+M: feymu küchakevuy lonko inche.
+C:  por eso se lavaba la cabeza la gente. 
+
+nmlch-lfrll1_x_0181_nmlch_00: 
+M: ¿Vemngechi liftuwkevuymün?
+C: ¿Así se limpiaban?
+
+nmlch-lfrll1_x_0182_lfrll_00:
+M:  May.
+C:  Sí.
+
+M: Müna küme lifkevuy welu voke ka.
+C: Pero limpiaba muy bien también la enredadera.
+
+nmlch-lfrll1_x_0183_nmlch_00: 
+M:  Ah. 
+C: Ah.
+
+nmlch-lfrll1_x_0184_lfrll_00:
+M:  Pütrake voki
+C: Grandes enredadera
+
+M: vey yüfküpaketuvuy ñuke
+C:-------------------- la mamá
+ 
+M:  vey küchange 
+C: ahí lavate
+
+M: tami lonko tamew pikevenew
+C: tu cabeza con esto me decía
+
+M:  veymu penow trürelkallenmay,
+C: por eso debe ser --------------------,
+
+M:  welu petu kurüli lonko inchepu chaw.
+C: pero todavía esta negro mi pelo padre.
+
+frll1_x_0185_lfrll_00mlch_00: 
+M: Veleyka veley llemay.
+C: Así esta pues, así esta.
+
+nmlch-lfrll1_x_0186_lfrll_00: 
+M: Veychichi pütrake anüm 
+C: Por eso a lo mejor es grande
+
+M: kalwe l'awen' mew 
+C: el kalhue remedio 
+
+M: vey küchakevuy lonko.
+C: con eso le lavaban la cabeza.
+
+nmlch-lfrll1_x_0187_nmlch_00: 
+M: ¿Pengeavuy chew vewla veychi l'awen'?
+C: ¿Se encontraría este remedio ahora?
+
+nmlch-lfrll1_x_0188_lfrll_00: 
+M: Uw mülefuy mayta 
+C: Puede haber ahora
+
+M: pütrake mawidamu 
+C: en las grandes montañas
+
+M: tüva vantepu mu pengewelay
+C: ahora no se encuentra
+
+M:  veychi l'awen' pu'.
+C: este remedio pues.
+
+nmlch-lfrll1_x_0189_nmlch_00: 
+M: Mülevuy mawida
+C: ¿Había en las montañas
+
+M:  vewla tachi mongenmew 
+C: ahora en la vida
+
+M: kam ngewelay?.
+C: o no hay?
+
+nmlch-lfrll1_x_0190_lfrll_00:
+M: <*SPA> No. 
+C: No.
+
+M: Müte ngewelay tati chaw.
+C: No hay mucho de esto padre.
+
+nmlch-lfrll1_x_0191_nmlch_00: 
+M: ¿Ngewelay ka vey ka?
+C: ¿No hay de esto tampoco?
+
+nmlch-lfrll1_x_0192_lfrll_00:
+M:  Müte ngewelay 
+C: No hay mucho
+
+M: müleluam tachi konpalu anta winka
+C:como hay en toda parte huincas
+
+M:  tañi anümka
+C: sus plantas
+
+M:  feymu llemay ta lefi
+C: por eso pues esta así
+
+M:  ngewetulay rume 
+C: no hay siquiera
+
+M: ta müte ngeweturkian ta ko rume wüfko.
+C: no hay mucho agua en todas partes.
+
+nmlch-lfrll1_x_0193_nmlch_00: 
+M: ¿Ngewelay?
+C: ¿No va quedando?
+
+
+
+nmlch-lfrll1_x_0194_lfrll_00: 
+M: May 
+C: Sí.
+
+M: Veymu tachi l'awen' veyta lefi.
+C: Por eso este remedio se perdió.
+
+nmlch-lfrll1_x_0195_nmlch_00:
+M: Vey <uh> anküy kon ka ngewelay
+C:Este se seco, ya no hay todo
+
+M:  mawida pingeki <uh> 
+C: en la mantaña se dice
+
+M: ¿Chumngelu akulu pinu
+C: ¿Por qué llegaron los pinos 
+
+M:  kaliptu vemngelu?
+C: eucaliptus que son así?
+
+nmlch-lfrll1_x_0196_lfrll_00:
+M: Feymew veymew llemay.
+C: Por eso, por eso pues.
+
+nmlch-lfrll1_x_0197_nmlch_00:
+M: Vey mew ka veyta 
+C: Por eso aquí también
+
+M: impolngepimayta mawida
+C: se lleno la montaña
+
+M:  lüpümtukungepi feywüla
+C: se quemo ahora
+
+M:  vey ka anümelngetuy ka anümka.
+C: así también avanzan las plantaciones.
+
+ll1_x_0199_nmlch_00_lfrll_00: 
+M: Feyllemay.
+C: Así pues.
+
+nmlch-lfrll1_x_0200_nmlch_00:
+M: Ah.
+C: Ah.
+
+M: ¿Müliki tati müleki müleki
+C: ¿Hay esto, hay. hay
+
+M:  veyta venten l'awen' ta mülekerkevuy
+C: el remedioo que esta a la vista había
+
+M:  kuyvi ka?
+C: antes también?
+
+nmlch-lfrll1_x_0201_lfrll_00:
+M: Alün.
+C: Bastante.
+
+nmlch-lfrll1_x_0202_nmlch_00: 
+M: ¿Alün l'awen'?
+C: ¿Harto remedio?
+
+nmlch-lfrll1_x_0203_lfrll_00: 
+M: Pütrün.
+C: Harto.
+
+nmlch-lfrll1_x_0204_nmlch_00:
+M: Ah.
+C: Ah.
+ 
+nmlch-lfrll1_x_0205_lfrll_00:
+M: Pütrün l'awen'.
+C: Muchos remedios.
+
+nmlch-lfrll1_x_0206_nmlch_00: 
+M: ¿Veley chi maychi veley chi maychi?.
+C: ¿Así es esto pues, así es esto pues?
+
+nmlch-lfrll1_x_0207_lfrll_00: 
+M: May. 
+C: Sí.
+
+M: Pütrüken l'awen' 
+C: Muchos remedios
+
+M: inche tañi mapu
+C: en mi tierra
+
+M:  chew müli tani ñuke 
+C: donde está mi madre 
+
+M: pütrükelevuy ta l'awen'
+C: había mucho remedio
+
+M:  ngemekenoluam inche veypüle 
+C: como yo no estaba por ahí
+
+M: vey müli ta veypüle 
+C: había por ahí
+
+M: ta küla tapül pingi ta l'awen' 
+C: tres hojas se llamaba el remedio
+
+M: ta ka trafen trafen pingi 
+C: también había trafen trafen que se llamaba 
+
+M: chavo l'awen' pingi
+C: remedio para el resfriado se dice
+
+M:  feypüle wayo ka tachi mapu 
+C:  por ahí ------ también en esta tierra 
+
+M: veyta chi mapu 
+C: en esta tierra 
+
+M: ta malal kawellu pingi tati.
+C: que se llama Malalcahuello.
+
+nmlch-lfrll1_x_0208_nmlch_00: 
+M: ¿Malal kawe?
+C: ¿Malalcahue?
+
+nmlch-lfrll1_x_0209_lfrll_00:
+M: Malal kawellu pingi
+C: Malacahuello le llaman
+
+M:  chew müli tachi l'awen' 
+C: donde hay este remedio
+
+M: pütrükeli fantepumu ka müte
+C: había harto ahora no mucho
+
+M: küme kimwetulafin chi l'awen' 
+C: no conosco mucho el remedio
+
+M: pefili kimkapelayafun 
+C: silo viera quizás lo conocería
+
+M: ka tichi weñkü pingi 
+C: también este huencu se le llama
+
+M: ka rume l'awen' ngi
+C: también es un buen remedio
+
+M: tachi mapu malal kawellu pingelu rume ni l'awen'.
+C: en la tierra Malalcahuello que le llaman hay mucho remedio.
+
+nmlch-lfrll1_x_0210_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+M: ¿Mawida entüngi?
+C: ¿En la montaña se saca?
+
+nmlch-lfrll1_x_0211_lfrll_00:
+M:  May.
+C: Sí.
+
+nmlch-lfrll1_x_0212_nmlch_00: 
+M: Velepemay. 
+C: Que sea así.
+
+nmlch-lfrll1_x_0213_lfrll_00:
+M:  Ka tichi meno komu 
+C: También en el menoco
+
+M: tripaki tichi chaku yiwiñ pingi tati 
+C: sale este pasto llihuin se le llama pues este
+
+M: chaku lliwiñ veytachi trekawenolu
+C: pasto llihuin donde se camina 
+
+M:  veymu küchaki n'amun' 
+C: con eso se lavan los pies
+
+M: pingeki tati chaw.
+C: se dice pues padre.
+
+nmlch-lfrll1_x_0214_nmlch_00: 
+M: ¿Chemantachi vey mamüll kam kachu?.
+C: ¿Qué es esto,un palo o un pasto?
+
+nmlch-lfrll1_x_0215_lfrll_00: 
+M: Saku <*SPA> no  kachu.
+C: --------  no pasto.
+
+nmlch-lfrll1_x_0216_nmlch_00:
+M: ¿Kachu l'awen'?
+C: ¿Remedio de pasto?
+
+nmlch-lfrll1_x_0217_lfrll_00:
+M:  Kachu.
+C:  Pasto.
+
+nmlch-lfrll1_x_0218_nmlch_00: 
+M: ¿Vey trafen trafen kay kachu kam mamüll?.
+C: ¿El trafen trafen es un pasto o un palo? 
+
+nmlch-lfrll1_x_0219_lfrll_00: 
+M: <*SPA> No.
+C:  No.
+
+M: Trafen trafen ta mamüll.
+C: Trafen trafen es un palo.
+
+nmlch-lfrll1_x_0220_nmlch_00: 
+M: ¿Mamüll l'awen?
+C: ¿Remedio de palo.?
+
+nmlch-lfrll1_x_0221_lfrll_00:
+M:  Mamüll l'awen'.
+C: Remedio de palo.
+
+nmlch-lfrll1_x_0222_nmlch_00:
+M: ¿Chumal vey tapül kümi kam volil?.
+C: ¿Qué es bueno la hoja o la raíz?
+
+nmlch-lfrll1_x_0223_lfrll_00:
+M: <*SPA> No. 
+C: No.
+
+M: Tapül müten.
+C: La hoja no más.
+
+nmlch-lfrll1_x_0224_nmlch_00:
+M: ¿Tapül, pütokongeki?
+C: ¿La hoja se toma?
+
+nmlch-lfrll1_x_0225_lfrll_00:
+M: Fücha küllwi.
+C: --------------.
+
+nmlch-lfrll1_x_0226_nmlch_00:
+M: <*SPA> No 
+C: No.
+
+M: Fey trafen trafen.
+C: El trafen trafen.
+nmlch-lfrll1_x_0227_lfrll_00:
+M : Ah.
+C: Ah.
+
+M: ¿Trafen trafen?
+C: ¿Trafen trafen?
+
+nmlch-lfrll1_x_0228_nmlch_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0229_lfrll_00:
+M: <*SPA> No. 
+C: No.
+
+M: Ngüllfüwki müten che.
+C: Se amarra no más la gente.
+
+nmlch-lfrll1_x_0230_nmlch_00:
+M: ¿Ngüllfüwki?.
+C: ¿Se amarra?
+
+nmlch-lfrll1_x_0231_lfrll_00: 
+M: Ngüllfüwki müten.
+C: Se amarra no más.
+
+nmlch-lfrll1_x_0232_nmlch_00:
+M: ¿Vey chem kutran nielu femki?
+C: ¿Qué enfermedad tiene cuando hace eso?
+nmlch-lfrll1_x_0233_lfrll_00:
+M: Tichi trafentulelu.
+C: Cuaando está poseido por una fuerza negativa.
+
+nmlch-lfrll1_x_0234_nmlch_00:
+M: ¿Trafentulelu.?
+C: ¿Cuándo está poseido por una fuerza negativa?
+
+nmlch-lfrll1_x_0235_lfrll_00:
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0236_nmlch_00: 
+M:  ¿Chemanta 
+C:  ¿A qué se le llama
+
+M: trafentu pingi?
+C: que este poseida por una fuerza negativa?
+
+nmlch-lfrll1_x_0237_lfrll_00: 
+M: Trafentu pingi
+C: Fuerza negativa se le llama
+
+M:  ta amuyawkechi wedake kürüf ta pun ka.
+C: cundo anda mal espíritu, aire malo en la noche también.
+
+nmlch-lfrll1_x_0238_nmlch_00:
+M: ¿Trafielu?
+C:  ¿Cuándo encuentra?
+
+nmlch-lfrll1_x_0239_lfrll_00:
+M: Trafielu ka trafiey 
+C: Cuando lo encuentra también cuando lo encuentran
+
+M: ta rüpümu trafiey
+C: cuando pasa lo encuentra
+
+M: feymu trafentu pingetuy.
+C: por eso se llama fuerza maligna.
+
+nmlch-lfrll1_x_0240_nmlch_00:
+M: Ah.
+C: Ah.
+
+M:  ¿Veychi kutran traventu pepiafuy 
+C: ¿Esta enfermedad de fuerzas negativas 
+
+M: l'awen' pitalmu kam müli l'awen'?.
+C: encontraría remedio en el hospital?
+
+nmlch-lfrll1_x_0241_lfrll_00:
+M: Ngekelay.
+C: No hay.
+
+nmlch-lfrll1_x_0242_nmlch_00: 
+M: ¿Ngekelay?
+C: ¿No hay?
+
+nmlch-lfrll1_x_0243_lfrll_00: 
+M: Ngekelay trafen müli ta mapumu 
+C: No hay para la fuerza negativa hay en la tierra
+
+M: adümelngi l'awen' ka
+C: se sabe remedio también
+
+M:  fey datungi
+C: este se le hace rogativa
+
+M:  vey mongeki tichi ka tripan may
+C: ahí vive este también donde sale pues
+
+M:  katripachemu mongepüdalay 
+C:  en otras gente no habría vivido
+
+M: ta trafentulan.
+C. el que esta poseido por fuerzas negativas.
+
+nmlch-lfrll1_x_0244_nmlch_00:
+M: Ah.
+C: Ah.
+
+M:  ¿Penole l'awen' katripachemu
+C: ¿Si no encontrara remedio en otras personas
+
+M:  vey <uh> inawtuperkiavuy vey?
+C: este habría seguido esto.?
+
+nmlch-lfrll1_x_0245_lfrll_00:
+M: Femllavuy may.
+C: Eso habría hecho pues.
+
+nmlch-lfrll1_x_0246_nmlch_00:
+M: Ah.
+C: Ah.
+
+M: ¿Mongelayavuy?
+C: ¿No habría vivido?
+
+nmlch-lfrll1_x_0247_lfrll_00:
+M:  Mongelayavuy.
+C: No habría vivido.
+
+nmlch-lfrll1_x_0248_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M:  ¿Veley llemaychi 
+C:  ¿Así es pues
+
+M: venten falin nierkevuy ta mapu
+C: mucha importancia tenía la tierra
+
+M:  ta l'awen' ngekerkevuy kuyvi
+C: remedio tenía antiguamente
+
+M:  vey vewla chumngechi ta
+C: esto ahora por qué será
+
+M:  <uh> aftuy ta l'awen' 
+C: que se termino el remedio
+
+M: ka vemngechi ta petu aftuy kimün
+C: también así se esta terminando la sabiduría
+
+M:  pin ngütram müleki veyngepi 
+C: se dice en las conversaciones que era así
+
+M: vey kuyvi?
+C: esto ante?
+
+nmlch-lfrll1_x_0249_lfrll_00:
+M: Vemllimay vemlipu 
+C: Asé es pues el que dice
+
+M: chumechi anküli l'awen' tamu
+C: cómo seco el remedio 
+
+M:  pipimi tati chaw 
+C: como habías dicho padre
+
+M: chumngechi afküli l'awen'
+C: cómo se habrá terminado el remedio
+
+M:  ka vemngechi afküli chi kimün llemay.
+C: también así se  esta secando la sabiduría pues.
+
+nmlch-lfrll1_x_0250_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-lfrll1_x_0251_lfrll_00:
+M: Ka vemngechi.
+C: También así.
+
+nmlch-lfrll1_x_0252_nmlch_00: 
+M: ¿Vewla velewetulay?.
+C: ¿Ahora no esta así?
+
+
+nmlch-lfrll1_x_0253_lfrll_00:
+M:  Velewetulay.
+C: No esta así.
+
+nmlch-lfrll1_x_0254_nmlch_00: 
+M: Veyka venten newen niekerkevuy mapu
+C: Y también toda la fuerza que tenía la tierra
+
+M:  veula vey ngewelay l'awen'.
+C: ahora esta no tiene remedio.
+
+nmlch-lfrll1_x_0255_lfrll_00: 
+M: Ngewelay newen inche
+C: No hay fuerza, yo
+
+M:  incheta chew konpay
+C: yo que tiene que ver
+
+M:  tachi pi pu pino tichi
+C: con esos pinos esos
+
+M:  ka tripache 
+C: de otrs personas
+
+M: veymu penow newen 
+C: por eso que no hay fuerza
+
+M: ngewelay mapu piken.
+C: no hay en la tierra digo.
+
+nmlch-lfrll1_x_0256_nmlch_00:
+M: ¿Ka vey?
+C:  ¿También esto?
+
+nmlch-lfrll1_x_0257_lfrll_00:
+M: May. 
+C: Sí.
+
+
+
+M: Ka veymu piken
+C: También por eso digo
+
+M: feymu llemay mapu 
+C:por eso pues la tierra 
+
+M: vey newen ngewelay 
+C: esta no tiene fuerza
+
+M: wülkewelay tukun 
+C: no da lo que se siembra
+
+M: vey mülelu am ka tripache 
+C: como hay pues otrs personas
+
+M: kelluwtuy chi salitre ahono 
+C:que se ayuidan de salitres, avonos
+
+M: vey tukulelngi 
+C: eso se le hecha
+
+M: vey kümey tukun kuyfi mew vemlay pingi 
+C: esto es bueno hecharle, antes no era bueno se dice
+
+M: veymu chi anükan chi pu winka anümpalu 
+C: por eso las plantas de los huincas que vino a plantar
+
+M: veymu penow vemi chew müli kaliwtu 
+C: por eso debe ser que pasa esto donde hay eucaliptus
+
+M: vey kachu rume weflay pu chaw.
+C: ni pasto siquiera no sale pues padre.
+
+nmlch-lfrll1_x_0258_nmlch_00:
+M: ¿Wefwelay ka?
+C: ¿No sale tampoco?
+
+
+
+
+nmlch-lfrll1_x_0259_lfrll_00:
+M: Wef welay ka
+C: No sale tampoco
+
+M: vey llemay ta vey newen ngewelay mapu
+C: eso pues, por eso no tiene fuerza la tierra
+
+M:  veymu llemay ta fantenmu 
+C: por eso pues hasta aquí
+
+M: ta veyta tukungetuy tachi salitre ahono
+C: ahora se coloca salitre, abono
+
+M:  veymu may 
+C: por eso pues
+
+M: veymu penow ka che 
+C: por eso debe ser que la gente
+
+M: ngewen ngewekelay
+C:no tiene fuerza
+
+M:  newen ngewelay.
+C: no tiene fuerza.
+
+nmlch-lfrll1_x_0260_nmlch_00:
+M: ¿Inakoni?
+C: ¿Le afecto también?
+
+nmlch-lfrll1_x_0261_lfrll_00:
+M: Inakoni mapumu inchin am mapuche.
+C:  Le afecto como a la tierra nosotros que somos mapuches.
+
+nmlch-lfrll1_x_0262_nmlch_00: 
+M: Veley ka veley inchin mapuche 
+C: ¿Esto también es así, yo soy mapuche
+
+M: ta laku konküli ta mapumu 
+C: esta relacionada cmo una abuela por parte madre con la tierra
+
+M: tañi <uh> mülen ka.
+C: en nuestra estadía también.
+
+nmlch-lfrll1_x_0263_lfrll_00:
+M: Veley llemay chaw.
+C:  Así es pues padre.
+
+nmlch-lfrll1_x_0264_nmlch_00:
+M: Velellimay
+C: Así es pues
+
+M:  veymu peno rume venteküme
+C: por eso  debe ser que muy bien
+
+M:  pekevuy l'awen' 
+C: encontrba remedio
+
+M: ka kimkevuy ta l'awen'
+C: también sabía remedio
+
+M:  ¿Chumelu chi kimkevuy ka l'awen'
+C: ¿Por qué será que conocía también remedio
+
+M:  <uh> machi chumngelu chi ka
+C: la machi por qué será también
+
+M: kimkevuy l'awen' 
+C: conocía remedio
+
+M: kim l'awen'tuchelu 
+C: que sabía hacerle remedio a la gente
+
+M: iñi chi elukevuyu kimün vey?.
+C: quién será que le daba esta sabiduría?.
+
+nmlch-lfrll1_x_0265_lfrll_00:
+M: Elukeveyu ta elchen ka.
+C: Le  daba el que dejo  la gente también.
+
+nmlch-lfrll1_x_0266_nmlch_00:
+M: ¿Elchen?.
+C: ¿El que dejo a la gente?
+
+nmlch-lfrll1_x_0267_lfrll_00:
+M: Elchen.
+C: El que dejoa la gente.
+
+nmlch-lfrll1_x_0268_nmlch_00: 
+M: ¿Vemngechi elchen elkevuy?
+C: ¿De esta manera Elchen lo dejaba?
+
+nmlch-lfrll1_x_0269_lfrll_00:
+M:  May. 
+C: Sí.
+
+M: Pewmaka elungi pu.
+C: En el suño le daba pues.
+
+nmlch-lfrll1_x_0270_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+M: ¿Pewma?
+C:  ¿En el sueño?
+
+nmlch-lfrll1_x_0271_lfrll_00:
+M: Pewma.
+C: En elsueño.
+
+nmlch-lfrll1_x_0272_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+M: ¿Ngütram mu elungelay pewma welu vey?
+C: ¿En conversacion no le dan, pero en sueño eso?.
+nmlch-lfrll1_x_0273_lfrll_00: 
+M: Pewmamew.
+C: En el sueño.
+
+nmlch-lfrll1_x_0274_nmlch_00:
+M: Ah.
+C: Ah.
+
+nmlch-lfrll1_x_0275_lfrll_00:
+M: Tüfa l'awen' pingi.
+C: Este remedio se le dice.
+
+nmlch-lfrll1_x_0276_nmlch_00:
+M: Ah.
+C: Ah.
+
+M: ¿Umawtulu vey pewmakevuy?
+C: ¿Al dormirse soñaba?
+
+nmlch-lfrll1_x_0277_lfrll_00: 
+M: May. 
+C: Sí.
+
+M: Rakika l'awen' ngeli,
+C: Contar remediosime hacen,
+
+M:  raki l'awen' elngi
+C: remediocontado se dejo
+
+M:  veyta machi
+C: la machi
+
+M:  veyta machi pillantüy pillantu 
+C: la machi -----------------------------
+
+M: yetuy tañi raki ka l'awen'nül
+C: se lo lleva 
+
+M: ¿eymi ta veyta pillantun
+C: ¿usted este pillantun
+M:  kimlaymi tati chaw?
+C: no lo conoce este padre?
+
+nmlch-lfrll1_x_0278_nmlch_00: 
+M: Kimlan.
+C:No lo conosco.
+
+nmlch-lfrll1_x_0279_lfrll_00:
+M: Kimlaymi pillantunmew
+C: No conoce el pillantu 
+
+M:  pütrütu amuy ta raki ka l'awen'nun.
+C: entra harta en la enfermedad de vómito.
+
+nmlch-lfrll1_x_0280_nmlch_00: 
+M: Ah. 
+C: Ah. 
+
+nmlch-lfrll1_x_0281_lfrll_00: 
+M: Pütrü amuy tati
+C: Va harto pues
+
+M:  vey fantepumu anta 
+C: y esto ahora
+
+M: re winkangetuvulu tachi che
+C: solo la gente que loconocía
+
+M:  veula ta vey petu petu wiñoy ngün tati
+C: ahora estavolviendo esto pues
+
+M:  petu wüñotuyngün y 
+C: ahora estan volviendo y
+
+M: ka vemngechi kümetuay taiñ ngülu mapu 
+C: también así esta mejormuestra tierra donde se siembra
+
+M: pin nieken inche ta ka vey.
+C:dichotambién tengo yo esto.
+
+nmlch-lfrll1_x_0282_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-lfrll1_x_0283_lfrll_00: 
+M: Mapuche ta ngülu mapu pillelanta.
+C:Mapuche donde siembra no esque ya dije.
+
+nmlch-lfrll1_x_0284_nmlch_00:
+M: Veleyka.
+C: Asídebeser pues también. 
+
+nmlch-lfrll1_x_0285_lfrll_00: 
+M: Ngülumapu pingi tati.
+C: La tierra donde siembra se dice pues.
+
+nmlch-lfrll1_x_0286_nmlch_00: 
+M: Ah.
+C:  Ah.
+
+nmlch-lfrll1_x_0287_lfrll_00:
+M: Ngulumapu.
+C: La tierra donde siembra.
+
+nmlch-lfrll1_x_0288_nmlch_00:
+M: ¿Vey <uh> kuivi 
+C: ¿Esto antes
+
+M: ka pichikeche papeltukelavuy
+C: también los niños chicos iban al colégio
+
+M:  chillkatulavuy,
+C: estaba estudiando,
+
+M:  welu ventren kimün nivuy
+C: pero bastante conocimiento tenía
+
+M:  chumngechi kimkevuy dungu 
+C: Cómo será que sabía las cosas
+
+M: chumlerpual ka 
+C: cómo iban a estar también
+
+M: ta chumngechi tañi müleal 
+C: Cómo van a estar
+
+M: tañi mongenmu.
+C: nuestras vida.
+
+nmlch-lfrll1_x_0289_lfrll_00:
+M: ¿Pichikeche?
+C: ¿Los niños chicos?
+
+nmlch-lfrll1_x_0290_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0291_lfrll_00:
+M: ¿Kimkepevuy may?.
+C: ¿Sabría pues?.
+
+nmlch-lfrll1_x_0292_nmlch_00: 
+M: Kimkevuy chumngelu chumngelu.
+C: Sabía por què, por qué.
+
+nmlch-lfrll1_x_0293_lfrll_00:
+M: Chaw llemay ta ngülamiyu ñuke,
+C: El padre le dio consejo a la madre,
+
+M:  welu dullilelngelay kiñeke 
+C: pero no le eligiron uno
+
+M: füchakeche llemay ta ngülamchey 
+C: las personas ancianas dan consejos
+
+M: kuyfikeche inche ta vemngechi ta
+C: gente antigua, yo así
+
+M:  kiñe antü ta lelinelngelay
+C: un día no solo se mira
+
+M:  tañi ngülamngeal pun
+C: para darle consejo en la noche
+
+M:  wüni ngülamnengi che 
+C: alamanecer se leda consejo a la gente
+
+M: yafütuley che 
+C: tiene fuerzala gente
+
+M: ngülamnengi chewpüle
+C: se le dá consejo en cualquier parte
+ 
+M:  werküngi fapi puaymi pingi
+C: se manda eso dijo vas a decir e dice
+
+M:  küme chalichekeaymi 
+C: vas a saludar bien
+
+M: ayetuchekelayaymi feytachi
+C: no vas a reirte de las gentes, esta
+
+M:  <*SPA>escuela vel ka küme 
+C: escuela también buen
+
+M: füfa ngülamkunungi.
+C: consejole dan.
+
+nmlch-lfrll1_x_0294_nmlch_00:
+M: ¿Vemngechi ta kümekechi 
+C: ¿Así  de buena forma
+
+M: ta trekayawi wechekeche?
+C:  anda caminando las personas joven?
+
+nmlch-lfrll1_x_0295_lfrll_00:
+M: May. 
+C: Sí.
+
+M: Küme ngülam rume ngülam 
+C: Buen consejo, muchos consejos
+M: inche ta ta fante tremlu 
+C: yo hasta donde e crecido
+
+M: ta niefulu tani ñuke
+C: que tenía mi madre
+
+M:  ta fente küme ta trana ngülamngi 
+C: muy buen consejo entregaba
+
+M: niekefenew trana ngülamngi 
+C: me entregaba buen consejo
+
+M: ngülamngi ñi küdawfengeal
+C: me daba consejo para que sea una persona trabajadora
+
+M:  ñi chem rume ñi wenuntunual
+C: sacar adelante todo
+
+M:  ñi inanial müten
+C: de seguir no más
+
+M:  küme küdaw ñi ütrir chenual rume 
+C. buen trabajo para no envidiar
+
+M: chuchi che kümelkalele 
+C: a la gente que este bien
+
+M: inche kay küdawli 
+C: yo si trabajo
+
+M: ka felean pikiaymi 
+C. también voy a estar así vas a decir
+
+M: pikefenew tañi ñukeyem.
+C: me decía mi madre.
+
+nmlch-lfrll1_x_0296_nmlch_00:
+M: ¿Vemuechi?
+C: ¿Así?.
+
+nmlch-lfrll1_x_0297_lfrll_00: 
+M:May. 
+C: Sí.
+
+M: Vemngechi ngülam nengi 
+C: Así se daba consejo
+
+M: fey tachi <*SPA>escuela.
+C: en esta escuela.
+
+nmlch-lfrll1_x_0298_nmlch_00:
+M: ¿Femngechi yamkevuy ta pichi keche pütakeche kom?
+C: ¿Así se criaba los niños chicos, las personas mayores, todas?
+
+nmlch-lfrll1_x_0299_lfrll_00:
+M: Kom.
+C: Todas.
+
+nmlch-lfrll1_x_0300_nmlch_00: 
+M: ¿Vemngechi kimkevuy tañi lof kom mülen?
+C: ¿Así  sabían todo lo que en sulugar había?
+
+nmlch-lfrll1_x_0301_lfrll_00:
+M: Kom yami.
+C: Todas sabía.
+
+nmlch-lfrll1_x_0302_nmlch_00:
+M: ¿Kom yamwi?
+C: ¿Todos sabían?
+
+nmlch-lfrll1_x_0303_lfrll_00: 
+M: Ngülam ngülam nengi
+C: Los consejos,los consejos se consideraban
+
+M:  re trekalayaymi hijo pingi 
+C: no vas a caminar de puro gusto hijo le decía
+
+M: ngillaymay kunuaymi pingi che.
+C: vas  a comprarte le dicen a la gente.
+
+nmlch-lfrll1_x_0304_nmlch_00:
+M: ¿Trekarumekelafuy komu re vemng echi?
+C: ¿No caminaba sobre las aguas así no más?
+
+nmlch-lfrll1_x_0305_lfrll_00:
+M: Re vemngechi ka une ngillatuki.
+C: Así no más no, primero hace rogativa.
+
+nmlch-lfrll1_x_0306_nmlch_00: 
+M: ¿Ngillatukunuvuy may?.
+C: ¿Hacía rogativa pues?
+
+nmlch-lfrll1_x_0307_lfrll_00: 
+M: May.
+C: Sí.
+
+nmlch-lfrll1_x_0308_nmlch_00:
+M: ¿Veyta ngülam mu ta kimfimi vemngechi tañi femal?
+C: ¿Esto lo sabes por consejos , que tenía que hacer esto?
+
+nmlch-lfrll1_x_0309_lfrll_00:
+M: Vey ñi vemal chaw llemay.
+C: De tener que hacer esto pues padre.
+
+nmlch-lfrll1_x_0310_nmlch_00:
+M: Ah.
+C: Ah.
+
+M:  ¿Re komu müten llamkevuy?.
+C:  ¿Solo con agua  crecía?
+
+nmlch-lfrll1_x_0311_lfrll_00:
+M: Komu mawida müli ngen mawida ngen winkul.
+C: En el agua, la mntaña tiene dueño, dueño de la montaña del cerro.
+
+nmlch-lfrll1_x_0312_nmlch_00:
+M: ¿Ka vey ta müli pikievuy tañi llamafiel engün?
+C: ¿También esto hay decía como lo llamaban ellos?.
+
+
+nmlch-lfrll1_x_0313_lfrll_00: 
+M: Llamafiel engün.
+C: Como lo llamaban ellos.
+
+nmlch-lfrll1_x_0314_nmlch_00:
+M: Veymu vey vamngechi kim tripay 
+C: Por eso esto así sabían salir
+
+M: tañi yamial ko'
+C: para ir a buscar agua
+
+M:  ka yamieavel ta mawida ka
+C: también andar en la montaña también
+
+M:  tañi yamniavel ta winkul 
+C: para ir al cerro
+
+M: ka <uh> chumelu chi vente
+C: también por qué tanto
+
+M:  <uh> ngülamngekevuy  
+C:  le daban tanto consejos
+
+M: veyta ñi llamviel ta veyti ta chi pu' 
+C: para no perder esa vez pues esto
+
+M: <uh> winkul ko' ka vey chi mawida.
+C: el agua del cerro tambiénla montaña.
+
+nmlch-lfrll1_x_0315_lfrll_00:
+M: Tañi kim chengellan kay 
+C: Para ser una persona buena pus
+
+M: wes wes ngenuam yamkefi 
+C: para no ser loca 
+
+M: müleluam ngen ngelu 
+C: como hay pues quien tiene dueño
+
+
+M: veymu müley ngen müli ngen ngelu
+C: por esohay dueño, hay quien tiene dueño
+
+M: müley ngen ko'
+C:  hay dueño del agua
+
+M:  müli ngen winkul rüpü
+C: hay dueño del camino del cerro
+
+M:  ketu ni ngen ngelu pingi tati chaw.
+C: tiene dueño se dice pues padre.
+
+nmlch-lfrll1_x_0316_nmlch_00:
+M: Ah.
+C: Ah.
+
+nmlch-lfrll1_x_0317_lfrll_00:
+M: Kichu lelay ta rüpü 
+C: Solo no esta el camino
+
+M: inche kimnen kichulenon,
+C: yo sé que no esta solo,
+
+M:  welu inche renche pewmaken 
+C: pero  yo  no sueño por soñar no más
+
+M: pewmaken vey mew vey, 
+C: sueño por eso, por eso,
+
+M: veymu veypipeyu chaw 
+C: por eso le he dicho padre
+
+M: pewmaken ini rume veypingeki
+C: sueño lo que a nadie le dice
+
+M:  pilayan inche ta pewmaken.
+C:  no voy a decir yo sueño.
+
+nmlch-lfrll1_x_0318_nmlch_00: 
+M: ¿Ni ta ngen ngelu rüpü?
+C: ¿De que el camino tiene dueño?
+
+nmlch-lfrll1_x_0319_lfrll_00:
+M: Müley ta ngen rüpü rüpü ta.
+C:  Haydueño del camino, del camino este.
+
+nmlch-lfrll1_x_0320_nmlch_00:
+M: ¿Kidulelay?
+C: ¿No esta solo?
+
+nmlch-lfrll1_x_0321_lfrll_00: 
+M: Sulelay.
+C: No esta solo.
+
+nmlch-lfrll1_x_0322_nmlch_00: 
+M: ¿Mawida <*SPA> no rume?
+C: ¿Ni la montaña siquiera?
+
+nmlch-lfrll1_x_0323_lfrll_00:
+M: Mawida <*SPA> no rume.
+C: Ni la montaña siquiera.
+
+nmlch-lfrll1_x_0324_nmlch_00: 
+M: ¿Veymu pütakeche kom pengelelkevuy
+C: ¿Por eso la gente mayor todo lo mostraba
+
+M:  tañi yamafiel rüke?
+C: como que se ibaa perder?
+
+nmlch-lfrll1_x_0325_lfrll_00:
+M: Vey mew llemay.
+C: Por eso pues.
+
+nmlch-lfrll1_x_0326_nmlch_00: 
+M: ¿Vey may ñi tuteleam vel?
+C: ¿Eso pues para estar bien?
+
+nmlch-lfrll1_x_0327_lfrll_00:
+M: Tuteluam pu'.
+C: Para estar bien pues.
+nmlch-lfrll1_x_0328_nmlch_00: 
+M: ¿Mongen mew?
+C: ¿En la vida?
+
+nmlch-lfrll1_x_0329_lfrll_00:
+M: May. 
+C: Sí.
+
+M: Yafkanuam.
+C:  Para no peliar.
+
+nmlch-lfrll1_x_0330_nmlch_00:
+M: ¿Yafkanuam?
+C: ¿Para no peliar?
+
+nmlch-lfrll1_x_0331_lfrll_00: 
+M:  May.
+C:  Sí.
+
+nmlch-lfrll1_x_0332_nmlch_00:
+M: ¿Rume kümeke kimün 
+C: ¿Muy buena sabiduria
+
+M: ta niekerkevuy ta füchakeche
+C: tenía el la gente anciana
+
+M:  vey ka veymu may ka vente tutekevuy
+C: este también por eso pues también estaba bien
+
+M:  taelchen mu pe'?.
+C: con elchen pues?
+
+nmlch-lfrll1_x_0333_lfrll_00:
+M: Vey mew llemay 
+C: Por eso pues
+
+M: veymu tutekevuy elchen mew
+C:por eso estaba bien con elchen
+
+M:  müleluam taiñ eluetew 
+C: hay pues quien nos dejó
+
+M: veymu vey vemngechi 
+C: por eso esto así
+
+M: vey vengechi 
+C. esto así
+
+M: vey felekevuy che pu'.
+C: así estaba la gente pues.
+
+nmlch-lfrll1_x_0334_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: ¿Pichikeche kom pengelelmuy kümi sungu?
+C: ¿Los niños chicos le mostraban toda la buena cosas?
+
+nmlch-lfrll1_x_0335_lfrll_00: 
+M: Pero vantepumu ta vemwelay ta che pu' chaw.
+C: Pero ahora no hace esola gente pues padre.
+
+nmlch-lfrll1_x_0336_nmlch_00:
+M:  Ah.
+C: Ah.
+
+M:  ¿Vemwelay ka?
+C: ¿No se hace esto  tampoco?
+
+nmlch-lfrll1_x_0337_lfrll_00:
+M: Vemwelay kimwelay veymu peno yafkaki vey mew.
+C: No hace eso no sabe por eso debe ser que se enoja por eso.
+
+nmlch-lfrll1_x_0338_nmlch_00:
+M: ¿Vey mew ka?
+C: ¿Por eso debe ser también?
+
+nmlch-lfrll1_x_0339_lfrll_00:
+M: May.
+C:  Sí.
+nmlch-lfrll1_x_0340_nmlch_00:
+M: Müna lechi kay 
+C: Es muy 
+
+M: veli ta rupaletuki ta tripantu
+C: así pasa el año
+
+M: ka amuletuki antü,
+C: también va pasando el año,
+
+M: welu <uh> chumleki ta mongen
+C: pero cómo esta la vida
+
+M:  kuyvi velewetulay vewla vey ka
+C: como ante no esta ahora esto también
+
+M:  <uh> ñamürki ta ventreken kimün ka.
+C: se a perdido muchas sabiduría también.
+
+nmlch-lfrll1_x_0341_lfrll_00:
+M: Ñami pütrüken.
+C: Se  perdido mucha.
+
+nmlch-lfrll1_x_0342_nmlch_00:
+M: ¿Alün kimün ñami?
+C: ¿Mucha sabiduría se perdió?
+
+nmlch-lfrll1_x_0343_lfrll_00: 
+M: Pütrüken.
+C: Muchaas.
+
+nmlch-lfrll1_x_0344_nmlch_00: 
+M: Vey ka kuyvi tüva 
+C:Esto también antes
+
+M: <uh> ventren l'awen' ta
+C: muchos remedios 
+
+M:  eli ta mapumu mülekevuy 
+C: lo que daba la tierra había
+M: vey ngünechen tani elel che
+C: esto ngenechen que dejo la gente
+
+M: ka mayta elpi ta l'awen'
+C: también habrá dejado los remedios
+
+M: ta ñi müpüwam kutran 
+C:para que se hagan de la tierra las enfermedades
+
+M: vey pe ka vey
+C: este también debe ser esto
+
+M: veymu peno veymew llemay re el lafi che.
+C: por eso debe ser por eso pues así no más no dejo a la gente.
+
+nmlch-lfrll1_x_0345_lfrll_00:
+M: Re el lafi che eli
+C: Así no más no dejo a la gente
+
+M:  elchen eli tañi ngülu mapu 
+C: elchen dejo  su 
+
+M: mülealuam kutran 
+C: porque iba ver enfermedd
+
+M: veyta itrokom l'awen' eli 
+C: por eso distinto tipo de remedio dejó
+
+M: tati itrokom l'awen' 
+C: pues diferentes remedios
+
+M: kutranürkealuam ñi pu naw mapu' 
+C:  porque se ibam a enfermar los de la tierra visible
+
+M: vey mew.
+C: por eso.
+ 
+lfrll1_x_0346_lfrll_00lch_00: 
+M: Vemngechi veyta ñi notuwam 
+C: Así esto para sanarsé
+M: ka tañi inkanewam kutran mew ka.
+C: también ..---------- enfermedad también.
+
+nmlch-lfrll1_x_0347_lfrll_00:
+M: Vey mew llemay.
+C: Por eso pues.
+
+nmlch-lfrll1_x_0348_nmlch_00:
+M: Ah. 
+C: Ah.
+
+M: ¿Ka elelfi ta kinün 
+C: ¿También dejo la sabiduría
+
+M: veyta ñi kümekechi tañi trekarupayawal 
+C: esto para que bien  camine
+
+M: trekatripayawal ta mongen mew?.
+C: para salir adelante en la vida?
+
+nmlch-lfrll1_x_0349_lfrll_00: 
+M: Vey mew.
+C: Por eso.
+
+nmlch-lfrll1_x_0350_nmlch_00:
+M: Ah.
+C: Ah.
+
+M:  Vey inche ramtupevin tati vey ka.................
+C: Por eso yo le pregunte esto, por eso.................
+

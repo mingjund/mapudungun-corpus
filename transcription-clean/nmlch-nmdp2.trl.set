@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 88
+SpeakerNum: 2
+nmlch-nmdp2_x_%04d_nmlch_00
+nmlch
+nmlch-nmdp2_x_%04d_nmdp_00
+nmdp
+UserLables: 2
+<*SPA>
+<Cough>
+LableMenuFile
+C:\Program

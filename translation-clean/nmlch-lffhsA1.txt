@@ -1,0 +1,1925 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-lffhsA1 
+; Last changes made on 12/17/2001 
+; Transcriber: Cristian C. Anton 
+; Comments:  
+; Traduce: Juan Licanqueo.
+
+nmlch-lffhsA1_x_0000_nmlch_00: 
+M: Mari mari papay.
+C:  Hola mamita.
+
+nmlch-lffhsA1_x_0001_lffhs_00: 
+M: Mari mari chaw. 
+C: Hola padre.
+
+nmlch-lffhsA1_x_0002_nmlch_00: 
+M: ¿Chumlimi fawpüle? 
+C: ¿Cómo esta por acá?
+
+nmlch-lffhsA1_x_0003_lffhs_00: 
+M: Kümelen.
+C: Estoy bien. 
+
+nmlch-lffhsA1_x_0004_nmlch_00: 
+M: <uh> Tami <uh> <*SPA> pu'   
+C: Tus pues
+
+M: che ka ruka kom kümeli.
+C: parientes en la todos estan bien.
+ 
+nmlch-lffhsA1_x_0005_lffhs_00: 
+M: Kom kümelingün.
+C:  Todos están bien.
+
+nmlch-lffhsA1_x_0006_nmlch_00: 
+M: Ngelay chem dungumu norme.
+C: No hay ninguna novedad pues.
+ 
+nmlch-lffhsA1_x_0007_lffhs_00: 
+M: Ngelay chem dungu norme.
+C: No hay ninguna novedad.
+ 
+nmlch-lffhsA1_x_0008_nmlch_00: 
+M: Ini pingi tami mapu tüfamew.
+C: Como se llama tu comunidad aquí. 
+ 
+nmlch-lffhsA1_x_0009_lffhs_00: 
+M: Kallvüko pingi.
+C: Calbuco se llama.
+ 
+nmlch-lffhsA1_x_0010_nmlch_00: 
+M: Kallvüko.
+C: Calbuco.
+ 
+nmlch-lffhsA1_x_0011_lffhs_00: 
+M: May kallvüko.
+C: Sí, calbuco.
+ 
+nmlch-lffhsA1_x_0012_nmlch_00: 
+M: <uh> Veyti y chumngelu veypingi pe ti papay.
+C: Y ese por que se llama así mamita.
+ 
+nmlch-lffhsA1_x_0013_lffhs_00: 
+M: Kallvüko.
+C: Calbuco.
+ 
+nmlch-lffhsA1_x_0014_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0015_lffhs_00: 
+M: Kallvüy chi ko.
+C: El agua es azul.
+ 
+nmlch-lffhsA1_x_0016_nmlch_00: 
+M: Kallvüy.
+C: Es azul
+ 
+nmlch-lffhsA1_x_0017_lffhs_00: 
+M: Kallvüy chi ko veymu 
+C: Es azul el agua ahí
+
+M: vey kallvüko pingi.
+C: por eso se llama calbuco.
+ 
+nmlch-lffhsA1_x_0018_nmlch_00: 
+M: Veley veley vey inche tüva 
+C: Esta bien, y yo aquí
+
+M: <uh> pepapegeyu ta ramtuavin 
+C: te vengo a visitar voy a ir a preguntarle
+
+M: <uh> kiñeke l'awen' pipen müleki 
+C: algunos remedios que se encuentran dije 
+
+M: ta vill dungu tüva <uh> mongen mew 
+C: en diferentes cosa aquí de la vida
+
+M: vey inche ramtupevin papay 
+C: y yo le pregunte mamita
+
+M: kimlu l'awen' vey mew vey küpapen 
+C: el que conoce de remedio y por eso vine
+
+M: <uh> tañi ramtuavel eymi tüvamew.
+C: para preguntar a usted aquí.
+ 
+nmlch-lffhsA1_x_0019_lffhs_00: 
+M: Veli chem l'awen' nan vey ramtupimi.
+C: Esta bien que remedio vienes a preguntar.
+ 
+nmlch-lffhsA1_x_0020_nmlch_00: 
+M: <uh> Mapu l'awen' 
+C: Remedio mapuche
+
+M: mapu l'awen' mülelu tüva.
+C: remedio mapuche que hay acá.
+ 
+nmlch-lffhsA1_x_0021_lffhs_00: 
+M: Mapu l'awen' ramtuaymi 
+C: Remedio mapuche preguntarás
+
+M: veymu inche veypiayu 
+C: por eso yo te voy a decir
+
+M: chem l'awen' tami kimal.
+C: que remedio debes conocer.
+ 
+nmlch-lffhsA1_x_0022_nmlch_00: 
+M: Vey ta mongenmu mülekey alün 
+C: En esta vida se encuentra hartas 
+
+M: ken kutran vey tüvey <uh> 
+C: enfermedades y eso
+
+M: kuyvi petu akukenolu ta 
+C: antes de la llegada de los 
+
+M: winka tañi l'awen'
+C: huinca todavía nuestro remedio
+
+M: mülekerkevuy ta <uh> kutran 
+C: se encontraban para el enfermo
+
+M: vey eymün chumngechi ta l'awen' 
+C: y ustedes como el remedio
+
+M: tuwkevuymün kuyvi eymün.
+C: preparaban antes ustedes.
+ 
+nmlch-lffhsA1_x_0023_lffhs_00: 
+M: Kuyfi mew.
+C: Antes pues.
+ 
+nmlch-lffhsA1_x_0024_nmlch_00: 
+M: May. 
+C: Sí.
+
+nmlch-lffhsA1_x_0025_lffhs_00: 
+M: Kutran llemay ta 
+C: El enfermo pues, 
+
+M: chem kutran rume llemay
+C: cualquier enfermedad claro 
+
+M: ta nieki ta üy tati chaw 
+C: tienen su nombre eso padre
+
+M: rülepemay kutran lonko.
+C: para pasar el dolor de la cabeza.
+ 
+nmlch-lffhsA1_x_0026_nmlch_00: 
+M: No, <*SPA> no chumngechi l'awen' 
+C: No, no como se hacían 
+
+M: tuwkevuymün eymün kuyvi 
+C: remedio ustedes antes
+
+M: petu akukenolu ta katripache winka 
+C: antes que llegaran los huinca
+
+M: ¿chumngechi l'awen'tuwkevuymün? 
+C: ¿cómo se hacían remedio?
+
+M: ngillamekevuymün tüvey pitalmu 
+C: iban a comprar en el hospital
+
+M: wariamew kam <*SPA> no chumngechi vel.
+C: en la ciudad o no como sería.
+ 
+nmlch-lffhsA1_x_0027_lffhs_00: 
+M: Kutrani ta che kimngiam vey satungekevuy 
+C: Se enfermaba la persona ahí se hacía satun
+
+M: satun satungey vey kimeyu vilew 
+C: satun, se hacía satun ahí se sabía filew
+
+M: veymu vey witramelngekevuy 
+C: ahí le iban a buscar
+M: chi mapu l'awen' <*SPA> pu'   chaw.
+C: el remedio mapuche pues padre.
+ 
+nmlch-lffhsA1_x_0028_nmlch_00: 
+M: ¿Chemam chi filew?
+C: ¿Qué es el filew?
+ 
+nmlch-lffhsA1_x_0029_lffhs_00: 
+M: Filew pingeki ta machi.
+C: La machi se le llama la machi.
+ 
+nmlch-lffhsA1_x_0030_nmlch_00: 
+M: Machi.
+C:  Machi.
+
+nmlch-lffhsA1_x_0031_lffhs_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0032_nmlch_00: 
+M: Vill machi 
+C: Toda las machis 
+
+M: vill che machingi kam.
+C: todas las persona son machi.
+
+nmlch-lffhsA1_x_0033_lffhs_00: 
+M: Kom che machingekelay <*SPA> pu'.
+C: No todas las personas son machi pues.
+   
+nmlch-lffhsA1_x_0034_nmlch_00: 
+M: ¿Ini machingeki?
+C: ¿Quién es machi?
+ 
+nmlch-lffhsA1_x_0035_lffhs_00: 
+M: Chaw ta veyta veyta trokitukeyu 
+C: Padre esta, estas creo 
+
+M: vey machi ngeki che.
+C: ahí es machi la persona.
+nmlch-lffhsA1_x_0036_nmlch_00: 
+M: <uh> Chumal machingeki che.
+C: Por que es machi la persona.
+ 
+nmlch-lffhsA1_x_0037_lffhs_00: 
+M: Trokitueyu ngünechen ngen pewma ngeki 
+C: Pienso que es ngünechen lo sueñan
+
+M: vey ngen pewma ngeyem 
+C: el es dueño del sueño
+
+M: vey ngütramelngeki l'awen' 
+C: ahí le conversan sobre los remedios
+
+M: ta pewmamu ka 
+C: él los sueños también 
+
+M: pengelelngeki l'awen'
+C: le enseñan sobre los remedios
+
+M: vey dew pengelelngi l'awen' ta 
+C: y una vez que le muestran el remedio
+
+M: vilew fey tumeki <*SPA> pu'   
+C: filew ahí lo adquiere pues
+
+M: tumeki konki ta meno ko mew 
+C: lo adquiere en los pantanos
+
+M: <uh> püraki ta winkul mew 
+C: sube en los cerros 
+
+M: <uh> vemngechi kintufi chi 
+C: así busca su
+
+M: chi kofin kutran ngelu kintufi chi l'awen' 
+C: busca el remedio para resfriado
+
+M: chew ta pekenoelchi antü.
+C: donde no se encuentra en el día.
+nmlch-lffhsA1_x_0038_lffhs_00: 
+M: Chake mawida mew koni feyti chi 
+C: En las montañas grandes entra esa
+
+M: kofin kutrangelu <uh> kintulpevi tachi 
+C: el que tiene enfermedad le busca este
+
+M: küllon küllon <*SPA> no tichi lig 
+C: maque, maque no, ese blanco
+
+M: tichi lig tripachi l'awen' 
+C: ese remedio blanco que sale 
+
+M: pekenol chi antü
+C: que nose encuetra en el día
+
+M: vey witralmengeki chi 
+C: ahí le van a buscar el que 
+
+M: kovin kutrankülelu
+C: esta resfriado enfermo
+
+M: y pewmakeluam vilew vey, 
+C: y como sueña la machi ahí,
+
+M: vey kintungeki üytuki l'awen' vilew 
+C: ahí le buscan nombra el remedio la machi
+
+M: veymu vey kintungeki chi l'awen' 
+C: ahí recién buscan el remedio
+
+M: kiñeptra mawisamew y ka elungi pewma 
+C: por un lado de la montaña y le dan en el sueño
+
+M: vilew ka menoko mu konay pingi.
+C: la machi que entre en el menoco se le dice.
+ 
+nmlch-lffhsA1_x_0039_lffhs_00: 
+M: Ka, ka yemengi tichi tichi l'awen' 
+C: También, le van a buscar ese remedio
+
+M: chi tichi wa' l'awen' pingeki 
+C: remedio wa, sé llama
+
+M: wa' kechili tati chaw wa' kechili 
+C: wa se parece el maíz es te padre
+
+M: fey witramelngi tichi chi che make 
+C: ahí le van a buscar ese maqui
+
+M: pekenolu antü engün 
+C: no ven el sol ellos
+
+M: vey cofin kutran ngealu eymiam 
+C: ahí enfermedad de calor tendrá tú
+
+M: vey kiman machi 
+C: y debe saber la machi 
+
+M: chumngechi kimki l'awen'
+C: como sabe sobre el remedio
+
+M: filew chumngechi kimki pelu 
+C: la machi como sabrá eso 
+
+M: veymu vey ngütramnelayu l'awen'.
+C: por eso que le conversa el remedio.
+ 
+nmlch-lffhsA1_x_0040_nmlch_00: 
+M: Veley veley vey machi 
+C:  Esta bien pues la machi 
+
+M:anta vilew pingeki.
+C: entonces le dicen fileu.
+
+nmlch-lffhsA1_x_0041_lffhs_00: 
+M: Machi ta vilew pingeki.
+C: La machi se le dice fileu.
+ 
+
+nmlch-lffhsA1_x_0042_nmlch_00: 
+M: Machi vill che machingelay.
+C: No cualquier persona es machi.
+ 
+nmlch-lffhsA1_x_0043_lffhs_00: 
+M: <*SPA> No.
+C: No.
+
+nmlch-lffhsA1_x_0044_nmlch_00: 
+M: Veyti.
+C: Ese.
+
+nmlch-lffhsA1_x_0045_lffhs_00: 
+M: Mülekey müten chi chaw ta veyta trokitueyu 
+C: Se encuentra eso no mas padre este creo 
+
+M: <*SPA> pu'   veyta trokitunengi 
+C: pues esto se piensa que es
+
+M: vey küme niengelay vey elungi pewma 
+C: ahí no tienen bien ahí le dan sueño
+
+M: pewma pewmayey l'awen' 
+C: sueño, sueña el remedio
+
+M: machingeaymi pipiengi pewmamu 
+C: serás machi le dicen en el sueño
+
+M: ka chumngechi ta wiri wiri yelngi 
+C: también como le escriben 
+
+M: chilkamew müli tañi machingepual 
+C: en un cuaderno debes de ser machi
+
+M: machingey machingi vey kimi l'awen' 
+C: es machi, es machi ella y conoces de remedio
+
+M: welu machingealu machingealu ta konki ta. 
+C: pero el que va ser machi es el que entra. 
+
+nmlch-lffhsA1_x_0046_lffhs_00: 
+M: Kiñe vüs kiñe vücha ruka voyemew 
+C: En una casa vieja de canelo pues
+
+M: sewmalelngeki chi ruka voye dew dewi 
+C: se le construye la casa de canelo se hace
+
+M: chi ruka voye vey 
+C: la casa de canelo ese 
+
+M: ka dewmangi wichu chi
+C: también se le hace a parte ese
+
+M: rakümtukulelu kidu mülealu 
+C: debe estar en la casa sola
+
+M: kidu koni veymu.
+C: sala entra ahí.
+ 
+nmlch-lffhsA1_x_0047_nmlch_00: 
+M: Ruka voyemew.
+C: En la casa de canelo.
+ 
+nmlch-lffhsA1_x_0048_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Vey wekuntu chi ruka voye mew elngeki 
+C: Ahí fuera de la casa le dejan canelo
+
+M: koll küsa elngeki añpe vey vemngechi 
+C: ...............le dejan creo es así pues
+
+M: elngeki ta machi welu fante 
+C:  le dejan a machi pero, de este porte  
+
+M: fante chi taiñ tremün mew 
+C: de este porte de nuestro crecimiento
+
+M: vemngewetukelay machi tati chaw 
+C: no lo hacen mas la machi es padre
+
+M: tam ngelewetulay kuyvi vemkevuy 
+C: ya no queda mas antes se hacía
+
+M: vey vantenmu vey 
+C: y hoy en día esto sé a 
+
+M: ñamtuy llamkületuy
+C: perdido, se ha ido perdiendo
+
+M: vemngechi elngen machi <uh> 
+C: así me dejaron machi
+
+M: vemngechi ta inche ta.
+C: así soy yo pues.
+ 
+nmlch-lffhsA1_x_0049_lffhs_00: 
+M: Pekevun ta elngekevuy ta machi 
+C: Veía como dejaban a la machi
+
+M: tam chaw welu tüva kay chew püle 
+C: padre pero esto por donde  lo
+
+M: peaymi vemngechi vemngechi 
+C:  vera así, así donde la vera
+
+M: ngelay tati ta chaw vemngelay tati.
+C: no hay esto padre no lo hacen eso.
+ 
+nmlch-lffhsA1_x_0050_nmlch_00: 
+M: Vey machi <uh> elungeki püllü.
+C: y la machi le dieron espíritus.
+nmlch-lffhsA1_x_0051_lffhs_00: 
+M: Elungeki püllü.
+C: Le dieron espíritu.
+
+nmlch-lffhsA1_x_0052_nmlch_00: 
+M: Vey dew nievi püllü 
+C: Esa ya tiene espíritu
+
+M: vey ka müli tañi dewmangeal.
+C:  y también se debe de hacer. 
+ 
+nmlch-lffhsA1_x_0053_lffhs_00: 
+M: Dewmangeal.
+C: Debe hacerse.
+ 
+nmlch-lffhsA1_x_0054_nmlch_00: 
+M: Dewmangeyem petu veyta <uh> 
+C: Sé esta haciendo ahora esta
+
+M: <hm> rumleay umayal ruka voye mew.
+C:  no paso la noche en la casa de canelo.
+ 
+nmlch-lffhsA1_x_0055_lffhs_00: 
+M: Epu trafia.
+C:  Dos noches.
+
+nmlch-lffhsA1_x_0056_nmlch_00: 
+M: Eputrafia.
+C: Dos noches.
+ 
+nmlch-lffhsA1_x_0057_lffhs_00: 
+M: Epu trafia vey epu trafia le vey <uh> 
+C: Dos noches ahí dos noches le quedaba
+
+M: küpa lele küpa lele wün nawpachi wün 
+C: al venir la mañana bajando la mañana
+
+M: mew nentungetuki tichi vücha ruka 
+C: se saca de la casa vieja
+
+M: voyemew tripaki chi fücha purun 
+C: de canelo sale un gran purun
+
+M: kiñeptra purun dew tripay 
+C: un purun grande ya sale
+
+M: vey welu dew anüleki chi aliwen.
+C: pero ahí ya se va la mañana.
+ 
+nmlch-lffhsA1_x_0058_nmlch_00: 
+M: ¿Chemanta chi voye chemanta voye pingeki?
+C: ¿Qué es el canelo que se le llama canelo?
+ 
+nmlch-lffhsA1_x_0059_lffhs_00: 
+M: Voye.
+C: Canelo.
+ 
+nmlch-lffhsA1_x_0060_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0061_lffhs_00: 
+M: Mülelu ta meno komu ka.
+C: El que esta en los pantanos pues.
+ 
+nmlch-lffhsA1_x_0062_nmlch_00: 
+M: Mamü tüvi.
+C: Laña ese.
+ 
+nmlch-lffhsA1_x_0063_lffhs_00: 
+M: Mamüll.
+C: Leña.
+ 
+nmlch-lffhsA1_x_0064_nmlch_00: 
+M: Mamüll müley tüvey menokomew.
+C: Leña hay ahí en el pantano.
+ 
+nmlch-lffhsA1_x_0065_lffhs_00: 
+M: Müley chi meno komew ka yemengeki 
+C: Hay en el pantano también se va a buscar
+
+M: chañpe pollküsa vey nawpachi liwen mew 
+C: .............................ese que baja en la mañana 
+
+M: tripatuki ta kiñepcha purun mu 
+C: sale un gran purun 
+
+M: ta machi tati <*SPA> pero 
+C:  a la machi pero 
+
+M: vewla inichi tañi vemavel.
+C: ahora quien hace eso.
+ 
+nmlch-lffhsA1_x_0066_nmlch_00: 
+M: Ini yemetuy voye 
+C: Quien fue a buscar el canelo 
+
+M: kellupelu kam.
+C: los que ayudaron.
+
+nmlch-lffhsA1_x_0067_lffhs_00: 
+M: Kellupelu ta vantepumu mayta 
+C: Los que ayudaron hasta  aquí
+
+M: velewelay che chaw yemengeki voye 
+C: ya no este así la gente padre van a buscar canelo
+
+M: ka tumengi müten pewka tumengi 
+C: y se coloca no mas ahí se coloca
+
+M: ka anümngi chaliwen.
+C: también se planta ........
+ 
+nmlch-lffhsA1_x_0068_nmlch_00: 
+M: Vey vey.
+C: Eso es pues.
+ 
+nmlch-lffhsA1_x_0069_lffhs_00: 
+M: Ka yemengi kuyfi mew inche pichi domo ngen 
+C: También se iba a buscar antes cuando yo era niña.
+
+M: kim tripan yemengeayem voye 
+C: aprendí como se iba a buscar canelo
+
+M: yengeki metawemu yengi musay.
+C: se llevaba en un cántaro se llevaba mudai.
+ 
+nmlch-lffhsA1_x_0070_nmlch_00: 
+M: Chumal tüvey.
+C: Para que era eso.
+ 
+nmlch-lffhsA1_x_0071_lffhs_00: 
+M: Metawemu yengi chi muday 
+C:  Con el cántaro se llevaba el muday
+
+M: tichi muday vey ngillatunge llemay tüvey 
+C: con ese muday se hacía guillatu pues así
+
+M: chi menokomu müli ngen ngelu 
+C:  en el pantano hay dueños 
+
+M: vey wenu chaw mu llemay ta wüna 
+C: y arriba el padre  claro .................
+
+M: ta ngillatupuy ka ngillatulngi tachi 
+C: se hace guillatu también se le hace guillatu 
+
+M: tachi anüymanielu tañi tañi meno ko 
+C: este que esta en el pantano 
+
+M: vey dew ngillatuy pütokoy chi katrüalu 
+C: y cuando se hace el guillatu bebe el corta
+
+M: voye müday tupuy vey wüla vey 
+C: el canelo bebe el muday ahí recién 
+
+M: katrüki voye <*SPA> no <*SPA> pu'   
+C: se corta el canelo no pues
+
+M: wüne wütrunamki muday ka pütokongi 
+C: primero se rosa con muday también se bebe 
+
+M: chi müday vewla katrüngeki 
+C: el muday ahí recién se corta
+
+M: chi voye tati chaw.
+C: el canelo este padre.
+nmlch-lffhsA1_x_0072_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-lffhsA1_x_0073_lffhs_00: 
+M: <*SPA> Pero vatepumuanta veychi 
+C: Pero hoy en día esas 
+
+M: veychi dungu ta mülewerki.
+C: esas cosas habían.
+ 
+nmlch-lffhsA1_x_0074_nmlch_00: 
+M: Ngewelay.
+C: No hay más.
+ 
+nmlch-lffhsA1_x_0075_lffhs_00: 
+M: Ngewelay ngewelay amuy che datuwalu 
+C: No hay más se han las personas que asían satun 
+
+M: vemngen <uh> kimno ka, kinm 
+C: así es el que no sabe, sabe
+
+M: <*SPA> no ka datuwi che kimweke 
+C: no también hace satun las persona que nosabe
+
+M: ngewekenoluam veychi dungu re kimno 
+C: como no hay esos asuntos solos que no saben
+
+M: ka datuwketuy che ta kuyvi 
+C: y se asía satun las personas antes
+
+M: velekelavuy tati velekelavuy tati chaw.
+C: no era así, no sabía estar esto padre.
+ 
+nmlch-lffhsA1_x_0076_nmlch_00: 
+M: Ñamkületuy reke kimün.
+C: Como que sé esta perdiendo el conocimiento.
+
+nmlch-lffhsA1_x_0077_lffhs_00: 
+M: Ñami ñamkületuy vücha ñami may, 
+C: Se perdió, como que sé a perdido pues,  
+
+M: vücha ñami vewla vey pichike, pichike 
+C:  hace tiempo se perdió ahora un poco, un poco 
+
+M: <uh> pürapa piwkeletuy taiñ mapuchengen 
+C: como que esta volviendo el ser mapuche nuevamente 
+M: welu re welulkamekingün kimnolu 
+C: pero solo se equivocan los que no saben
+
+M: engün kay tati chaw.
+C: ellos también eso padre.
+ 
+nmlch-lffhsA1_x_0078_nmlch_00: 
+M: Cheman tachi muday pipimi nga.
+C: Qué es el muday dijo usted.   
+ 
+nmlch-lffhsA1_x_0079_lffhs_00: 
+M: Muday tichi muday <uh> noyil ngeki 
+C: Muday es el muday se muele el 
+
+M: chi kachilla kiñe kiñe kütrün kunungeki 
+C:  trigo de un puñado se va dejando
+
+M: küchulngi komew vey noyilngeki kiñe 
+C:  como locro con agua ahí se deja fermentar 
+
+M: <uh> meli trafia mülekepelay doy peno 
+C: uno cuatros noche creo que es mas
+
+M: kütrünkunungi vey küme traw traw külewi 
+C: se deja fermentar ahí que muy bueno 
+
+M: vey elngetuy pañimu vey 
+C: ahí se deja en el sol
+
+M: <uh> vücha noyipu.
+C: ahí se fermenta.
+ 
+
+nmlch-lffhsA1_x_0080_nmlch_00: 
+M: Noyi.
+C: Se fermenta.
+ 
+nmlch-lffhsA1_x_0081_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Noyi vücha noyi vey ka tulle 
+C:  Queda bien fermentado ahí
+
+M: püsüm pütra püsüm kunungetuy antü mew 
+C:  ahí se deja reposar en el sol
+
+M: vey namuni küme ankülewetuy chi kachilla 
+C: ahí queda bien seco el trigo 
+
+M: küme ankütuy vey rülngepay kudi mew 
+C: se seca bien ahí se pasa por la piedra de moler
+
+M: kudimew kuyvi am ngenolu tichi, 
+C: en la piedra demoler como no hay eso,
+
+M: tichi chem atemkemu chi kachilla 
+C: ese para moler el tirgo
+
+M: kuyvi ta re kudituy che <*SPA> pu.'
+C: antes con la piedra demoler no mas pues.
+   
+nmlch-lffhsA1_x_0082_nmlch_00: 
+M: Chem chi kudi tüvey?.
+C: Que es el cusi?
+ 
+nmlch-lffhsA1_x_0083_lffhs_00: 
+M: Kudi tichi püchake kudi <uh> 
+C: Piedra de moler es la piedra de moler grande
+
+M: püchake kura pue chaw 
+C: una piedra grande pues padre
+
+M: püchake kura wichake kura 
+C: piedra grande, piedra grande
+
+M: vey ka müleychi pitiyma 
+C: y también ahí piedra chica
+
+M: veyti epuñ püle tual vey 
+C: eso para trabajar en dos lado
+
+M: vey tañi tañi rüngüm.
+C: ahí es donde se muele.
+ 
+nmlch-lffhsA1_x_0084_nmlch_00: 
+M: Rüngo.
+C: Harina.
+ 
+nmlch-lffhsA1_x_0085_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Veymu rüngüngetuy vey 
+C:  Ahí es donde se muele
+
+M: vey eñumko engu deyulkunungetuy 
+C: y con agua caliente se revuelve
+
+M: vey chi muday <*SPA> pu'   
+C: ese es el muday pues
+
+M: vey chi muday waskümngekelay chaw 
+C: ese muday  no se hierve padre
+
+M: veychi muday eñum eñum tungeki chi 
+C: ese muday tibio, tibio se bebe el
+
+M: chi tikün tikün ngetuy <*SPA> pu.'
+C:  el locro, parece locro pues.
+   
+nmlch-lffhsA1_x_0086_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0087_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Wüne noyilngetuy dewpue ka tikül ngetuy 
+C: Primero se muele después se hace locro
+
+M: tikün pingetuy welu tikün no, tikün 
+C: locro se llama pero locro no, locro
+
+M: <*SPA> no y noyil kachilla <*SPA> pu'   
+C: no y trigo molido pues
+
+M: vey nga tikün tikün mudayayin 
+C: ese locro, locro se hace muday 
+M: pi kuyvi ke che
+C: decían antes la gente
+
+M: tikün mudayngi apokunungi chi, 
+C: locro muday se dejaba lleno él
+
+M: chi meñkuwe vey ka trari kunuymangi lonko 
+C: cántaro ahí se dejaba amarrado la cabeza  
+
+M: welu mayta ka antü ta pütokofemngelay 
+C: pero el día después no se bebía inmediatamente 
+
+M: pütoko vemngelay chi muday wüne 
+C: no se bebía el muday primero 
+
+M: ngillatukevuy tañi ñukeyem 
+C:  hacia una rogativa mi madre  
+
+M: vey wüla pütokoaymi pingekevuyin.
+C: ahí recién pueden beber nos decía.
+ 
+nmlch-lffhsA1_x_0088_lffhs_00: 
+M: Vey vemngechi vemkevuy <*SPA> pu'   
+C: Y así lo hacíamos pues
+
+M: vemngechi pütokokevuy ñi dew ngillatuy 
+C: así se bebía una vez hecha la rogativa
+
+M: vey pütokokevuyin vey vewla 
+C: ahí bebíamos ahí recién 
+
+M: vewla vey ikevuyin.
+C: ahí recién nos servíamos.
+ 
+nmlch-lffhsA1_x_0089_nmlch_00: 
+M: ¿Chemama meñkuwe?
+C: ¿Qué es el meñcuhue?
+ 
+nmlch-lffhsA1_x_0090_lffhs_00: 
+M: Meñkuwe may.
+C: El meñcuhue pues.
+ 
+nmlch-lffhsA1_x_0091_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0092_lffhs_00: 
+M: Meñkuwe ta rag nam chaw rag 
+C: El meñcuhue es degreda padre
+
+M: ta meñkuwe tichi rag rag engu 
+C: el meñcuhue esa greda es
+
+M: re ragno welu pu chaw rag engu 
+C: solo greda no pero pues padre con greda
+
+M: chem pingeki tati rüngün kuyim 
+C:  como se llama esa arena molida
+
+M: <uh> inchin ta <uh> üko pingeki.
+C: nosotros le décimo üko se llama. 
+ 
+nmlch-lffhsA1_x_0093_nmlch_00: 
+M: Üko.
+C: Uco.
+ 
+nmlch-lffhsA1_x_0094_lffhs_00: 
+M: Üko pingetuy welu rüngün kura.
+C: Uco se le dice pero son de piedras molida.
+ 
+nmlch-lffhsA1_x_0095_nmlch_00: 
+M: Rüngün kura.
+C: Piedra molida.
+ 
+nmlch-lffhsA1_x_0096_lffhs_00: 
+M: Rüngün kura kiñepta kiñe vücha kiñe 
+C: Piedra molida una, una gran 
+
+M: vücha vütrake chemu pañillwemu nentungeki 
+C: con una gran colgador se sacaba 
+
+M: vamngechi mütrowngeki 
+C: así es se movía
+
+M: mütrowngeki vey wid wid küleki.
+C: se movía ahí quedaba ...............
+ 
+nmlch-lffhsA1_x_0097_nmlch_00: 
+M: Vey anta rag.
+C: Eso es greda.
+ 
+nmlch-lffhsA1_x_0098_lffhs_00: 
+M: <*SPA> No vey tachi kura pütrake kuramu 
+C: No es de piedra con grandes piedras
+
+M: welu amuki che <*SPA> pu'   
+C: pero va la gente pues
+
+M: vamnengeki vey, vey wid wid küleki 
+C: así se hace ahí y .......................queda 
+
+M: vey yemengi veychi rag engu trapümngi 
+C: eso es así esa con greda se junta 
+M: vey püno ngeki püno ngeki rag engu tichi  
+C: ahí se pisotea se pisotea con la greda ese  
+
+M: tichi wid wid kura y vey wüla 
+C: esa piedra molida ahí recién
+
+M: vey ümül ümül tungi chi rag ka kintungi 
+C: y sé hecha a rodar la grada también se busca
+
+M: chi kiñe ketroko ketro, ketro chem 
+C:  en una aguas corta, corta
+
+M: tichi ikemum chi rüfüwe mew pichike rüfüwe 
+C: ahí donde comen con el cucharón, cucharas chicas 
+
+M: ketro pichike rüfüwe 
+C: cucharas chicas
+
+M: fey vamngengi pürali, pürali, pürali.
+C: ahí así se hace subido, subido, subido.
+ 
+nmlch-lffhsA1_x_0099_lffhs_00: 
+M: Pürali dew pürali vey ka vamtukungi 
+C: Subido ya subido ahí se deja así
+
+M: chew müli ñi chew ta niay tañi tañi pilun 
+C: donde hay y donde tendrá la oreja
+
+M: pey vamnengi vey 
+C: así se le hace
+
+M: tachi meñkuwe tati chaw.
+C: este cántaro pues padre. 
+ 
+nmlch-lffhsA1_x_0100_nmlch_00: 
+M: Vey meñkuwe.
+C: Ese cántaro.
+ 
+
+
+nmlch-lffhsA1_x_0101_lffhs_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0102_nmlch_00: 
+M: ¿Rag chew pengeki?
+C: ¿Greda donde se encuentra?
+
+nmlch-lffhsA1_x_0103_lffhs_00: 
+M: Rag ta pekan ka püle ta mülelay tati.
+C: Greda en cualquier lugar no se encuetra.
+ 
+nmlch-lffhsA1_x_0104_nmlch_00: 
+M: Mapumu.
+C: En la tierra.
+ 
+nmlch-lffhsA1_x_0105_lffhs_00: 
+M: Mapumu müli rag.
+C:  En la tierra hay greda.
+
+nmlch-lffhsA1_x_0106_nmlch_00: 
+M: Eleg ke ti.
+C: Se dejo ahí.
+
+nmlch-lffhsA1_x_0107_lffhs_00: 
+M: Pele welu chew müli rag müleki ko pue chaw 
+C:  Donde encontrar greda hay en el agua pues padre
+
+M: müleki ko inche yemekevun rag 
+C: hay en el agua yo iba a buscar greda 
+
+M: allven mu ka konki rag <*SPA> pero.
+C: en la herida también es bueno la greda.
+ 
+nmlch-lffhsA1_x_0108_nmlch_00: 
+M: L'awen' reke.
+C: Como remedio.
+ 
+
+
+nmlch-lffhsA1_x_0109_lffhs_00: 
+M: L'awen' ka vey tichi rag.
+C: Como remedio es la greda.
+ 
+nmlch-lffhsA1_x_0110_nmlch_00: 
+M: ¿Chem kutranmu kümi rag?
+C: ¿ En que enfermedad en bueno la greda?
+ 
+nmlch-lffhsA1_x_0111_lffhs_00: 
+M: Rag kümi katrümu pütra katrü 
+C: La greda es bueno para la cortadura 
+
+M: de estomago kümeki
+C: de estomago es bueno
+
+M: rag allfen mew inche chew mülen tichi 
+C: la greda para la herida yo donde hay eso
+
+M: kallvüko ngeyi mapu 
+C: en Calfuco hay 
+
+M: pipellelayu ama chaw.
+C: no te dije pues padre.
+ 
+nmlch-lffhsA1_x_0112_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0113_lffhs_00: 
+M: Veymu chew mülelu kallvüko pichi 
+C: Ahí donde hay en Calfuco un poco
+
+M: üyüwpüle veymu müli rag.
+C: asía allá ahí hay greda.
+ 
+nmlch-lffhsA1_x_0114_nmlch_00: 
+M: Veymu müli rag.
+C: Ahí hay greda.
+ 
+
+nmlch-lffhsA1_x_0115_lffhs_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0116_nmlch_00: 
+M: Vey l'awen' ka demangeki ta meñkuwe.
+C: También remedio se hace con el cántaro.
+ 
+nmlch-lffhsA1_x_0117_lffhs_00: 
+M: L'awen' dewmangeki meñkuwe 
+C: Remedio se hace con el cántaro
+
+M: dewmangeki rali dewmangeki pücheke doy 
+C: se hace platos se hace un poco más chico
+
+M: chi doy vüchakeyma vey llikañ pingetuy 
+C:  y más grandes y lican se le llama
+
+M: <*SPA> pero vey chi mismo rag <*SPA> pu.'
+C: pero ahí esa misma greda pues.
+       
+nmlch-lffhsA1_x_0118_nmlch_00: 
+M: Vey, vey, vey.
+C: Ese, ese.
+ 
+nmlch-lffhsA1_x_0119_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Alün, alün rali dewki dewmakevuy 
+C: Hartos platos se hace,  hacía
+
+M: ñukeyem vey mari epu tuam pikevuy 
+C:  mi finada madre doce hacía decía
+
+M: mari epu tuan tañi, tañi rali 
+C: doce hacía sus platos
+
+M: pikevuy kiñepcha, kiñepcha trumaw 
+C: decía .............................................
+M: niekevuy rali  fante püra kevuy rali 
+C: tenía platos de este porte eran los platos
+
+M: ñi ñuke veyti rag llemay ta mekekevuy kisu 
+C: mi madre esa greda pues trabajaba sola
+
+M: dewma kidu dewmakevuy, 
+C: hacía sola, hacía,
+
+M: kidu dewmakevuy ñi rali ka ñi metawe 
+C: sola hacía sus platos y sus cántaros
+
+M: vey chew dew dewmay kiñe 
+C: y donde hacía un
+
+M: metawe vey kuvilkevi, kuvilkevi.
+C: cántaro ahí lo calentaba, lo calentaba. 
+ 
+nmlch-lffhsA1_x_0120_lffhs_00: 
+M: <uh> Diküll kiawülki ñi metawe 
+C: Lo andaba moviendo su cántaro en fuego 
+
+M: diküllkiawülkevi 
+C: lo andaba moviendo 
+
+M: ñi metawe ñi rali
+C: su cántaro en fuego sus platos
+
+M: ka tukukevi <uh> kuvill pingi tati chaw 
+C: también le coloca cufil se llama eso padre
+
+M: kuvill kuvillkevi, kuvillkevi dew kuvillfi 
+C: lo pone a calentar, lo calienta ya cosido
+
+M: vey ka pichi <uh> ankü nagi 
+C: ahí lo seca un poco
+
+M: vey yemekevuy ñi külon külon make 
+C: ahí buscaba su maquí, maquí 
+
+M: katrüy ñi külon make pey veymu 
+C: corta su maquí, maquí encuentra ahí 
+
+M: vey vamngechi vey yingüd kevi yingüd 
+C: así lo hacía lo emparejaba, lo empareja 
+
+M: kevi vey <uh> miel kechilewetukevuy.
+C: ahí como miel quedaba.
+ 
+nmlch-lffhsA1_x_0121_lffhs_00: 
+M: Kom müñetukunutuvi chi metawe 
+C: Todo lo bañaba los cántaros
+
+M: ka müñetukunutuy ñi rali pütrün, pütrün rali 
+C: lo dejan lavado sus platos, hartos platos 
+
+M: vey ka antü wünmew petu ñi kürüf non 
+C: al otro día en la mañana antes del viento
+
+M: petu ñi kürüf non vey witrakevuy pichi 
+C. antes del viento ahí se levantaba un poco 
+
+M: ali wün witrakevuy ñi chaw ka ñuke 
+C: bien temprano se levantaba mi padre y mi madre
+
+M: veyñi ñi chaw vey katrükakunukevuy 
+C: y mi padre lo dejaba cortado
+
+M: tatrün mamüll ka antü kay tati mülelu.
+C: leña cortada también hay al otro día. 
+ 
+nmlch-lffhsA1_x_0122_lffhs_00: 
+M: Avülkayam pücha kütraltu.
+C:  Para coserlo fuego grande.
+
+nmlch-lffhsA1_x_0123_nmlch_00: 
+M: Veli.
+C: Así es.
+ 
+
+nmlch-lffhsA1_x_0124_lffhs_00: 
+M: Vey pütra kütral sewmapakevuy 
+C: Y con fuego grande lo venía hacer
+
+M: ñi chaw petu tañi kütral dewnon welu 
+C: mi padre antes de hacer el fuego
+
+M: <uh> vücha <uh> kom anüntukunekevuy 
+C: pero grande, todo lo dejaba puesto 
+
+M: ñi metawe ñi rali vey wallo kunelkevuy 
+C: sus cántaros sus platos los dejaba cosiendo 
+
+M: mamüll wallo kunuvin mamüll 
+C: con leñas lo cocíamos con leña
+
+M: vey despue vey püna kunungeki 
+C: ahí después lo dejaban pegado 
+
+M: ñi kütral vey lululüy lululuki chi kütral 
+C: en el fuego ahí prende el fuego
+
+M: vey incheam pichiche vemngen 
+C: y yo como era niña chica me hicieron
+
+M: vey witrakevun kay ñi wütrintual.
+C: y me levantaba también para tirar.
+ 
+nmlch-lffhsA1_x_0125_lffhs_00: 
+M: Wütrintuleam piken y wütrintuken 
+C: Para tirar digo y para tirarle
+
+M: vey afki pütra kütral kam kümeki chi pütra 
+C: ahí se terminaba en el fuego la guata es bueno
+
+M: kütral kürüf külenolu kay tati 
+C: el fuego, como no hay viento
+
+M: chuchi püle rume amulay chi kürüf tati chaw 
+C:  en ninguna parte se iba el viento pues padre
+M: chuchi püle rume amulay chi kürüf 
+C: en ninguna parte no iba el viento
+
+M: vey lulul küli müten lulul küli müten 
+C: y solo prendía no mas, prendía no mas
+
+M: chi kürüf lulul küli chi kürüf vey avichi 
+C: el viento prendía el viento ahí se termino
+
+M: avichi kütral aviem chi kütral 
+C: se termino el fuego, se termino el fuego 
+
+M: tüvichi metawe chaw metawe engun 
+C: ese cántaro padre con el cántaro 
+
+M: rali vücha kelü kelüweki.
+C: platos quedan de color rojo.
+ 
+nmlch-lffhsA1_x_0126_lffhs_00: 
+M: Vücha kelü kelü weki chi, chi metawe 
+C: Quedan muy rojos, el cántaro
+
+M: chi rali kelü kelü weki chi metawe 
+C: el plato queda de color rojo el cántaro 
+
+M: inche may epeke tumekevuy kuydani 
+C: yo pues casi lo alcanzaba a cuidarlo
+
+M: <uh> wütriñkülekelu kay tañi ñuke 
+C:  como estaba muy acalorada mi finada madre
+
+M: kidu kunungekeli mayta tumekepeavuyin 
+C: sola lo realizaba claro lo podríamos alcanzar
+
+M: tachi metawe pue vemkepeavun 
+C: este cántaro pues creo que no es así 
+
+M: cheam ta pichike che anta wes wes.
+C: gente los niños chico como es desordenada.
+ 
+nmlch-lffhsA1_x_0127_nmlch_00: 
+M: Vemngechi dewmangeki.
+C: Así se realizaba pues.
+ 
+nmlch-lffhsA1_x_0128_lffhs_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0129_nmlch_00: 
+M: Metawe.
+C: Cántaro.
+ 
+nmlch-lffhsA1_x_0130_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Vey lelinekeviyin wütrintuneken.
+C: Ahí lo observábamos como lo hacían. 
+ 
+nmlch-lffhsA1_x_0131_nmlch_00: 
+M: Vey.
+C: Ahí.
+ 
+nmlch-lffhsA1_x_0132_lffhs_00: 
+M: Wütrintuneken vey dew vey chomg nawtuy 
+C: Le tiraba y se apagaba 
+
+M: chi kütral vey kelüleweki 
+C: el fuego ahí quedaba rojo 
+
+M: pipellelayu am chaw
+C: es lo que te dije pues padre
+
+M: kelü leweki vücha kelüleki vey vemngechi 
+C: que de color rojo queda muy rojo y así pues 
+
+M: avülngekichi metawe 
+C: le llega al cántaro
+
+
+M: vemngechi avülngekichi rali.
+C: así le llega el plato.
+ 
+nmlch-lffhsA1_x_0133_nmlch_00: 
+M: Vey dewmayayam muday.
+C: Ahí se hacía el muday.
+ 
+nmlch-lffhsA1_x_0134_lffhs_00: 
+M: Musayam.
+C: Muday.
+ 
+nmlch-lffhsA1_x_0135_nmlch_00: 
+M: Musayam ta ngillatuam mürke.
+C: Muday para hacer guillatu.
+ 
+nmlch-lffhsA1_x_0136_lffhs_00: 
+M: Ngillatuam mürke llemay.
+C:  Para hacer guillatu pues.
+
+nmlch-lffhsA1_x_0137_nmlch_00: 
+M: Petu tañi entumengenuam voye 
+C: Antes de que se vaya acortar el canelo
+
+M: veyta müdaymu ngillatukunuwi.
+C: y ahí con el muday se hace guillatu.
+ 
+nmlch-lffhsA1_x_0138_lffhs_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0139_nmlch_00: 
+M: Pu wentru domo yemealu.
+C: Pues los hombres, mujeres que van a buscar.
+ 
+nmlch-lffhsA1_x_0140_lffhs_00: 
+M: May.
+C: Sí.
+ 
+
+
+nmlch-lffhsA1_x_0141_nmlch_00: 
+M: Menokomu.
+C: En el pantano.
+ 
+nmlch-lffhsA1_x_0142_lffhs_00: 
+M: Metawe vey <uh> weke, weke metawe 
+C: Con un cántaro con cántaros nuevos 
+
+M: müli vüchake metawe ka <*SPA> pu'   
+C: hay grandes cántaros también pues 
+
+M: vey chuchi doy alüli che vey amuy 
+C: y donde hay mas gente ahí sé va
+
+M: kiñe metawe doy alüli che 
+C: un cántaro o cuando hay harta gente 
+
+M: epu metawe yengi
+C: dos cántaro se lleva
+
+M: vey yemeayin voye pi che yameayin 
+C: y vamos a buscar canelo dicen vamos a buscar
+
+M: katrümeayin foye pi pütokokunumi.
+C: vamos a cortar camelo dicen y beben.
+ 
+nmlch-lffhsA1_x_0143_nmlch_00: 
+M: Vey chumal chi vemki che re 
+C: Ahí el muday así hace las personas
+
+M: entumekelavi tachi voye 
+C: no lo van a sacar por sacar el canelo
+
+M: vemngechi yamfielmu ngen ko pe.
+C: así por respetar el dueño del agua.
+ 
+nmlch-lffhsA1_x_0144_lffhs_00: 
+M: Yam ngen mu llemay.
+C: Por que se le respeta pues.
+ 
+nmlch-lffhsA1_x_0145_nmlch_00: 
+M: Vey ta ka newen tripapayam pe.
+C: Esto para que salga la otra fuerza creo.
+ 
+nmlch-lffhsA1_x_0146_lffhs_00: 
+M: Newen tripapayam welu wenu pücha 
+C: Para salir la fuerza pero arriba el anciano 
+
+M: chawmu wüne püraki 
+C: padre sube primero
+
+M: ngillaymawün ka chaw.
+C: se hace el pago pues padre.
+ 
+nmlch-lffhsA1_x_0147_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+nmlch-lffhsA1_x_0148_lffhs_00: 
+M: Y kichuam vey elngelu vey ñi anüymaniavel 
+C: Y como lo dejaron solo para que lo proteja 
+
+M: chi menoko vey ka ngellipungeki 
+C: el pantano y también se le hace guillatu
+M: tati chaw y vemngechi vey yeyaymün 
+C: este padre y así pueden llevar
+
+M: müday pikevuy tañi ñuke 
+C: muday decía mi madre
+
+M: welu vewla anta velewerki chi chaw.
+C: pero ahora no esta así pues padre.
+ 
+nmlch-lffhsA1_x_0149_nmlch_00: 
+M: Vey dew nentumengi veyti chi voye 
+C: Ya cuando lo sacan ese canelo
+
+M: akulngetuy rukamew veyta 
+C: lo traen a la casa este
+
+M: dewmangepatuy kiñe ruka voye.
+C: y vienen hacer una casa de canelo. 
+ 
+ffhsA1_x_0151_nmlch_00ffhs_00: 
+M: May.
+C: Sí.
+
+ M: Kiñeptra ruka.
+C: Una gran casa.
+ 
+nmlch-lffhsA1_x_0152_nmlch_00: 
+M: Ruka voye.
+C: Casa de canelo.
+ 
+nmlch-lffhsA1_x_0153_lffhs_00: 
+M: Kiñeptra ruka voye.
+C: Una gran casa de canelo.
+ 
+nmlch-lffhsA1_x_0154_nmlch_00: 
+M: Umayam veyti nielu ta l'awen' ngechi domo.
+C: Para alojar aquella mujer que tiene remedio. 
+ 
+nmlch-lffhsA1_x_0155_lffhs_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0156_nmlch_00: 
+M: Petu dewma naw dewmangekelu.
+C: todavía lo realizaban.
+ 
+nmlch-lffhsA1_x_0157_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Petu ta tichi may filew ngelu.
+C: Todavía a la que era machi.
+ 
+nmlch-lffhsA1_x_0158_nmlch_00:
+M: Vey, vey, vey.
+C: Esa, esa.
+ 
+nmlch-lffhsA1_x_0159_lffhs_00: 
+M: Vilew ngelu ven wütriñtunekevin 
+C: Que era machi le rociaban 
+
+M: <*SPA> pu'   wütriñtunekevin chi dewki 
+C: pues lo rociaban el que lo hacía
+
+M: chi ruka voye dewi chi ruka 
+C: la casa de canelo  se hace la casa
+
+M: vey chi rakümwe ka <uh> ka dewmangi 
+C: y en la casa también se hace
+
+M: <*SPA> pu'   rakümtukuneal kidu.
+C: pues para dormirse ella sola.
+ 
+nmlch-lffhsA1_x_0160_nmlch_00: 
+M: ¿Chemanta kollküsa pingi pipimi ka, 
+C: ¿Qué es colcusa dijo usted? 
+
+M: Ka nieki kollküsa pipimi nga.
+C:  También tiene colcusa dijo usted.
+ 
+nmlch-lffhsA1_x_0161_lffhs_00: 
+M: Kollküsa ka vemngechi llemay 
+C: Colcusa también pues
+
+M: wüfkita mawidamew.
+C: aparece en le montaña.
+nmlch-lffhsA1_x_0162_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0163_lffhs_00: 
+M: Kollküsa llenuanta külkongeki chaw.
+C: Collcusa con eso se hace canasto padre.
+ 
+nmlch-lffhsA1_x_0164_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0165_lffhs_00: 
+M: Külko tripay ta kollküsa külko ta doy küme 
+C: Canasto sale con el collcusa y es mejor
+
+M: külkopi küchayam 
+C: canasto dijo para lavar
+
+M: ta küchayam ta kako.
+C: para lavar el mote.
+ 
+nmlch-lffhsA1_x_0166_nmlch_00: 
+M: Vey anta kollküsa ta tripay mawidamu.
+C: Eso es collcusa sale en le montaña.
+ 
+nmlch-lffhsA1_x_0167_lffhs_00: 
+M: Tripaki mawidamu külko külkongeki 
+C: Sale en la montaña se hace canasto
+
+M: vey tichi machimu ka konki.
+C: ahí en la machi también entra.
+ 
+nmlch-lffhsA1_x_0168_nmlch_00: 
+M: Vüchake mawidamu kam 
+C: En las grandes montañas 
+
+M: pichike mawidamu.
+C: en montaña chica.
+ 
+nmlch-lffhsA1_x_0169_lffhs_00: 
+M: Vüchakemu anan <*SPA> no müte 
+C: En grandes para sentarse no mas  
+M: vakücha mawidamu <*SPA> no chaw 
+C: en grandes montañas no padre
+
+M: pichike mawidamu ta rüpü püle 
+C: en montaña chica hacía el camino
+
+M: müli tati vey konkelu ta filew ngelu.
+C: hay ese y entra para el que va ser machi.
+ 
+nmlch-lffhsA1_x_0170_nmlch_00: 
+M: Vey ampe chem.
+C: Eso es pues.
+ 
+nmlch-lffhsA1_x_0171_lffhs_00: 
+M: Añpe ka yemengekipu.
+C: Añpe también se va a buscar.
+ 
+nmlch-lffhsA1_x_0172_nmlch_00: 
+M: Iwiñ tüfey kam konalu müten 
+C: Grasa eso que entra no mas
+
+M: veychi dungumu mew.
+C: en esas cosas pues. 
+ 
+nmlch-lffhsA1_x_0173_lffhs_00: 
+M: <*SPA> No konalu müten veychi dungu mew 
+C: No entra no mas esos asuntos pues
+
+M: tichi añpe l'awen' nge kepi pemay.
+C: ese añpe es remedio también eso.
+ 
+nmlch-lffhsA1_x_0174_nmlch_00: 
+M: Veyti kimni l'awen' ngelu.
+C: Ese que sabe de remedio.
+ 
+nmlch-lffhsA1_x_0175_lffhs_00: 
+M: May.
+C: Sí.
+
+M:  Vüchake añpe müli mawidamew 
+C: Grandes añpe hay en la montaña
+
+M: ka müli epu rume epu 
+C: también hay de dos tipo
+
+M: rume añpe müli tati chaw.
+C: hay hartos añpes pues padre.
+nmlch-lffhsA1_x_0176_nmlch_00: 
+M: Veley.
+C: Es asi.
+ 
+nmlch-lffhsA1_x_0177_lffhs_00: 
+M: Ka kiñe ka müli ta añü añpe 
+C: Y uno también hay un añu añpe
+
+M: pingi ta müna pitiki.
+C: se llama es muy chico.
+ 
+nmlch-lffhsA1_x_0178_nmlch_00: 
+M: Chemanta chew pengeafuy 
+C: Que es y donde se puede encontrar 
+
+M: ampe chuchipüle rume. 
+C: añpe en cualquier lugar.
+
+nmlch-lffhsA1_x_0179_lffhs_00: 
+M: <*SPA> No chuchipüle rume nga 
+C: No en cualquier lugar pues
+
+M: vüchake mawidamu müli veychi 
+C: en las grandes montañas hay eso
+
+M: añü añpe müli chew müli wüfko.
+C: añu añpe hay donde hay cerca el agua.
+ 
+fhsA1_x_0181_lffhs_00nmlch_00: 
+M: Wüfko mew.
+C: Cerca del agua. 
+ 
+nmlch-lffhsA1_x_0182_lffhs_00: 
+M: Wüfko mu müli añü añpe inche müli tati 
+C: Cerca del agua hay añu añpe en mi lugar hay
+
+M: kallvüko nometu 
+C: calfuco al otro lado
+
+M: kallvüko müli añü añpe.
+C: en calfuco hay añu añpe.
+ 
+nmlch-lffhsA1_x_0183_nmlch_00: 
+M: Chem chi wüfko pingi chew tripaki ko.
+C:  Que es wufko se dice donde sale el agua.
+ 
+nmlch-lffhsA1_x_0184_lffhs_00: 
+M: Chew tripaki ko.
+C: Donde sale el agua.
+ 
+nmlch-lffhsA1_x_0185_nmlch_00: 
+M: Weflu komu.
+C: Sale el agua.
+ 
+nmlch-lffhsA1_x_0186_lffhs_00: 
+M: Chew wefki ko tati chaw veyta.
+C: Donde sale el agua  eso es padre.
+
+nmlch-lffhsA1_x_0187_nmlch_00:
+M: Wüfko.
+C: Salida del agua.
+ 
+nmlch-lffhsA1_x_0188_lffhs_00: 
+M: Wüfko.
+C: Salida del agua.
+ 
+nmlch-lffhsA1_x_0189_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-lffhsA1_x_0190_lffhs_00: 
+M: Val val küleki tati inche ta kuyvi 
+C: Esta hirviendo ese yo antes 
+
+M: kuyvi kallvüko veypituken tañi pu 
+C: antes Calfuco yo digo a mis
+
+M: püñeñ müleki chi kuydakefuluam 
+C: hijos estaban cuidando 
+
+M: inche kullin vey rüpütulekevun rume kevun 
+C: yo animales ahí por el camino pasaba
+
+M: müna wemfül ofülpüramkevuyin 
+C:  subíamos .............. 
+
+M: chi eñum ko chaw ofülpüramkevuyin ah 
+C: el agua tibia padre ...............................
+
+M: katrü pütra ayiwmakevuyin.
+C: se cortaba pitra nos alegrabamos.
+ 
+nmlch-lffhsA1_x_0191_nmlch_00: 
+M: Veley veley.
+C: Es así pues.
+ 
+nmlch-lffhsA1_x_0192_lffhs_00: 
+M: Eñumko vel am vey ovül tukukevin 
+C: Agua caliente ahí lo bebíamos
+
+M: rupatun ka ovül tukukevin ka ovülkakefun 
+C: en la pasada y lo aspiraba también 
+
+M: vey vütra val val küleki vey tüva 
+C: ahí esta hirviendo eso pues 
+
+M: küpa wotrintumekevuyin <uh> 
+C: teníamos ganas de tirarnos
+
+M: wütrintuwekelavin welu tüva küpa 
+C. pero no le tirábamos este tenía gana 
+
+M: wütrintukevin ñi velen ñi velekan nga 
+C: de tirarle de cómo estaba de cómo estaba
+
+M: ñi velenon tati chaw.
+C: de que no esta así pues padre.
+ 
+nmlch-lffhsA1_x_0193_nmlch_00: 
+M: Veley.
+C: Esta bies.
+ 
+nmlch-lffhsA1_x_0194_lffhs_00: 
+M: Wüfko.
+C: Salida del agua.
+nmlch-lffhsA1_x_0195_nmlch_00: 
+M: Veley vey alün.
+C: Es así harto.
+ 
+nmlch-lffhsA1_x_0196_lffhs_00: 
+M: May.
+C: Sí.
+
+M: Chew müli chi val val ko müna 
+C: Donde esta el agua que hierve
+
+M: pekevun tichi pichike üñüm pitike 
+C: ahí se encuentran muchos pájaros
+
+M: kurü üñüm vücha ayiwkevun may chaw.
+C: pájaros negros me alegro muchos pues padre.
+ 
+nmlch-lffhsA1_x_0197_nmlch_00: 
+M: Veley.
+C: Es así.
+ 
+nmlch-lffhsA1_x_0198_lffhs_00: 
+M: Tichi kurü pichike üñüm tichi 
+C: Esos pájaros chicos de color negros 
+
+M: chem pingiama pichike kurü üñüm.
+C: como se llaman lo s pájaros chico de color negro.
+ 
+nmlch-lffhsA1_x_0199_nmlch_00: 
+M: Kürü üñüm.
+C: Pájaros negros.
+ 
+nmlch-lffhsA1_x_0200_lffhs_00: 
+M: Veywiñ kelu.
+C: Feihuiñ colrado.
+ 
+nmlch-lffhsA1_x_0201_nmlch_00: 
+M: Veli vey welu machi 
+C. Es así pero la machi
+
+M: dewmangelu pipeymi nga.
+C: cuando le hacen dijo usted.
+ 
+nmlch-lffhsA1_x_0202_lffhs_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0203_nmlch_00: 
+M: Vewlu nga machi vey machi 
+C: Cuando se hace machi ahí
+
+M: chillkatulay welu alün kimün 
+C:  no estudia pero hartos conocimientos 
+
+M: ta llowi veymu ka chumngechi 
+C: recibe por eso, como 
+
+M: chi kimvi veychi llowün 
+C: lo sabe y lo recibe ese
+
+M: chumngechi kimkevi l'awen' 
+C: como conoce el remedio
+
+M: ka chumngechi ta kimkevi kutran.
+C: y como conoce a los enfermos.
+ 
+nmlch-lffhsA1_x_0204_lffhs_00: 
+M: Machi may.
+C: La machi claro.
+ 
+nmlch-lffhsA1_x_0205_nmlch_00: 
+M: May.
+C: Sí.
+
+
+M: ¿Chumngechi kimvi?
+C: ¿Cómo lo conoce?
+ 
+nmlch-lffhsA1_x_0206_lffhs_00: 
+M: Machi ta <uh> konpa püllüy kiñe 
+C: La machi le entra un espíritu
+
+M: ngütrümtun nielngi vey akuy tañi küymin 
+C: se lo llaman ahí llega su trance
+
+M: ketu veymu ta wütrintupavi ta kutran 
+C: por eso que le tira el enfermo
+
+M: veyta kom llemay kimki vey wüla 
+C: estos todos pues sabe ahí recién
+
+M: re vemngechi machi kimchekelay chaw.
+C: solo así no mas no sabe la machi padre.
+ 
+nmlch-lffhsA1_x_0207_nmlch_00: 
+M: Kimchekelay.
+C: No conoce a las personas.
+  
+nmlch-lffhsA1_x_0208_lffhs_00: 
+M: Kimchekelay müli ta ngütrümtun 
+C: No conce a la persona hay el que llama
+
+M: ngütrümtulngi tati ngütrümtun ta epu fücha 
+C: se le llama eso, llaman los dos anciano 
+
+M: epu rupa ta trüpuki ta kultrun vewla 
+C: dos veces suena el cultrun ahora
+
+M: mayta inche ta vewlata vücha 
+C: pues yo no hace mas los anciano
+
+M: perimontutuken chaw tüva vemkelayin 
+C: he visto visión sobre natura padre ahora no hacemos mas
+
+M: vantepumu vemkelay machi chaw.
+C: hoy en día no hace mas la machi padre. 
+ 
+nmlch-lffhsA1_x_0209_nmlch_00: 
+M: Velewetulay.
+C:  No se hace más.
+
+nmlch-lffhsA1_x_0210_lffhs_00: 
+M: Velewetulay vey chumavun nan vey 
+C: No se hace mas y que podemos hacer
+
+M: <uh> liliken <*SPA> pu'   
+C: miro pues
+
+M: leli wintrintuken engün.
+C: miro le tiro a ellos.    
+ 
+nmlch-lffhsA1_x_0211_nmlch_00: 
+M: Veley.
+C: Es así.
+ 
+nmlch-lffhsA1_x_0212_lffhs_00: 
+M: <uh> Velelay.
+C: No esta así.
+ 
+nmlch-lffhsA1_x_0213_nmlch_00: 
+M: Veley.
+C: Esta así.
+ 
+nmlch-lffhsA1_x_0214_lffhs_00: 
+M: Inche ñi pewma veypilayu rume pichin norume 
+C: Yo en mi sueño te dije no es muy poco 
+
+M: <*SPA> no vey ya, ya.
+C: no ese ya, ya.
+
+nmlch-lffhsA1_x_0215_nmlch_00: 
+M: Veley veley amulepe ta dungu papay 
+C: Esta así que siga la palabra mamita 
+
+M: amulepe ta dungu veyti inche ramtupeyu 
+C: que siga l a palabra eso yo te pregunte
+
+M: nga machinga <uh> choyingi vey nga 
+C: de la machi se planta eso pues
+
+M: machi erkeno veyta dewmangekerki 
+C: no es machi ese se hace
+
+M: ta machi vey chumngelu chi vente 
+C: la machi y por que será que
+
+M: nietukerki ta kimün 
+C: tienen hartos conocimientos 
+
+M: vey ta ñi mongen mew.
+C: en su vida pues.
+ 
+nmlch-lffhsA1_x_0216_lffhs_00: 
+M: Dewchi machi.
+C: Cuando se hace la machi.
+ 
+nmlch-lffhsA1_x_0217_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-lffhsA1_x_0218_lffhs_00: 
+M: Dewchi machi nietuki kimün vey nawtupakeyu 
+C. Cuando se hace la machi tiene conocimiento ahí se
+
+M: ta wenu mapu' wenu mapu ta küpaki 
+C: encomienda hacía arriaba, en la tierra de arriba biene  
+
+M: ta werken witraymapuve ta <uh> filew 
+C: el mensajero acompaña la machi
+
+M: witraymapuve ta l'awen' ngelu pipiengeki 
+C: acompáñala con el que tiene remedio se le dice 
+
+M :vemngechi ta tranan nentupaki ta dungu 
+C: así se saca bien la conversación
+ 
+M: ta wenu werkenan chaw vemngechi 
+C. el que vino de arriba padre así
+
+M: tranan netupaki ñi dungu engün 
+C: sacan bien su conversación ellos
+
+M: kiñe ngütrümtunmu llemay ta ngütrümngeki 
+C: en una conversación claro se le conversa
+
+M: veyta chi machi dew chi ramtupeluam 
+C: esta la machi ya a preguntado 
+
+M: eymi chumngechi dewken machi 
+C. tú como se hace la machi
+
+M: chumngechi doy kim cheken vey chi
+C: como en conocen las personas
+ 
+M: machi nag nietukelu kay ta püllü 
+C: la machi que tiene espíritu
+
+M: tralka llipakiyu tañi sungulatew y wüyi 
+C:  el trueno le viene a buscar el que hablará por él
+
+M: lonkokingün vey veypi veypingetukingün 
+C: se vuelven loco y dice, y comentan ellos
+
+M: velu mayta küymin mu veypikechetuymi 
+C: pero cuando entra en trance ahí le dicen a la gente
+
+M: müli tañi ñi sunguatew ta kom 
+C: hay para que alguien hable por mí todo
+
+M: ta trananentutuki ta sungu tati chaw.
+C: saca bien la conversación ese padre.
+ 
+nmlch-lffhsA1_x_0219_nmlch_00: 
+M: Welu machi may kisu.
+C: Pero la machi sola.
+
+
+
+
+

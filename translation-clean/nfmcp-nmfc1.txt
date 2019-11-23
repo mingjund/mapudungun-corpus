@@ -1,0 +1,1717 @@
+
+ ; CDR: 00.00 
+; TRV: 00.00 
+; File: nfmcp-nmfc1 
+; Last changes made on 08/27/2001 
+; Transcriber: Cristian Antón.
+; Comments:  
+; Traduce: Rosa Huenchumilla.
+
+
+nfmcp-nmfc1_x_0000_nfmcp_00:
+M: Marimari lamngen. 
+C: Hola hermano.
+
+nfmcp-nmfc1_x_0001_nmfc_00: 
+M: Marimari lamngen.
+C:  Hola hermana.
+
+nfmcp-nmfc1_x_0002_nfmcp_00:
+M: ¿ <uh> *Chumleymi <!1chumlimi> eymi kümel?
+C:  ¿Cómo estas tú?
+
+nfmcp-nmfc1_x_0003_nmfc_00: 
+M: Iñche kümelkalen, lamngen.
+C: Yo estoy bién hermana.
+
+nfmcp-nmfc1_x_0004_nfmcp_00:
+M: <uh ¿Iñi <!1ini> pingeymi <!2pingimi?
+C:  ¿Cómo se llama?
+
+nfmcp-nmfc1_x_0005_nmfc_00:
+M: Iñche ñi üy pingen Felipe Kolin pingen...
+C: Mi nombre es Felipe Colin me llamo...
+
+M: Iñche ta tuwün comunidad Antonio Llankin pingechi mapumeu
+C: Provengo de la comunidad llamada Antonio Llanquin
+
+M: akun tüfachi tarde 
+C: llegué esta tarde
+
+M: eymingami küpange pifielmeu
+C: por haberme dicho  que viniera
+
+M: feymu tati mülepatun <!1mülepan> tüfa tüfachi tati tarde lamngen.
+C: por eso estoy aquí en esta tarde pues, hermana.
+
+nfmcp-nmfc1_x_0006_nfmcp_00: 
+M: Ya, lamngen
+C:  Ya, hermana.
+
+M: +/Iñche/+ iñche ñi üy fey Maria Isabel pingen
+C: Yo, mi nombre es María Isabel, me llamo.
+
+M: iñche Maria Isabel Koñoepan
+C: yo soy María Isabel Coñoepan
+
+M: iñche ta tamu tamu llegün 
+C: yo nací aquí... aquí 
+
+M: kawün mapumu tamu 
+C: aquí en tierra de Cahuemu
+
+M: <uh> kawemu Isla Wapi
+C: Cahuemu Isla Huapi
+
+M: tamu fey ngütramkalepatun
+C: y ahora estoy conversando aquí
+
+M: +/tachi/+ tachi <*SPA> tarde tamu tañi rukamu
+C: esta tarde aquí en mi casa
+
+M: <uh> tachi <*SPA>tarde ngütramkayayu <uh>
+C: esta tarde conversaremos.
+
+M: chumngechi anta müleken kutran
+C: como es que existen las enfermedades
+
+M: chumngechi tañi <!1tañ> müleken l'awen' 
+C: como es que existen los remedios.
+
+M: ka winka l'awen' ka mapu l'awen'
+C: ya sea remedios mapuches o remedios huincas.
+
+M: feyta tachi ngütram tuupayay tachi <*SPA>tarde <uh>
+C:  esta conversación se iniciará esta tarde,
+
+M: fey iñche ramtuayu feula <uh>
+C: entonces yo te preguntaré
+
+M: +/chem chem/+ chem kutran ta kimün eymi
+C: qué... qué... qué enfermedad conoces
+
+M: kam chem kutran nien
+C: y que enfermedad tienes
+
+M: kam niey <!1ni> tremuoken <!1tremüngen>
+C: o si eres sano 
+
+M: fey ta ramtuayu *une
+C: eso te preguntaré primero,
+
+M: ¿+/eymi/+... eymi *tremolekimi? 
+C: ¿tú... tú has estado bién?
+
+nfmcp-nmfc1_x_0007_nmfc_00:
+M: Iñche tremueleken, lamngen
+C:  Yo suelo estar sano, hermana
+
+M: tremueleken ka kom tremuelekeyiñ
+C: he estado sano y todos hemos estado sanos
+
+M: tañi pu <!1familia>
+C: mi familia
+
+M: tuntelen tañi kompañ
+C: todos los que somos compañeros
+
+M: fentren kutran ta müley <!1müli> welu
+C: pero hay muchas enfemermedades
+
+M: fey iñche kutrankülelan tati, lamngen.
+C: pero yo no estoy enfermo hermana.
+
+nfmcp-nmfc1_x_0008_nfmcp_00:
+M: <*SPA>Ya <P> <uh>
+C:  Ya,
+
+M: <P> ka ramtuayu iñche 
+C:  yo te preguntaré
+
+M: <uh> ¿eymi ñi kom mi pu <*SPA>familia kay tremueley <!1tremueli>?
+C: ¿de tu parte, todos tus familiares están sanos. 
+
+nfmcp-nmfc1_x_009_nmfc_00: 
+M: Kom tremueley <!1tremueli> pu <*SPA>familia, lamngen
+C: Estan todos sanos mis familiares, hemana
+
+M: kiñe kutrankülelay rume.
+C: no hay ninguno enfermo siquiera.
+
+nfmcp-nmfc1_x_0010_nfmcp_00: 
+M: <*SPA>Ya
+C: Ya,
+
+M: ¿<P> eymi +/chem/+ chem l'awen' kimfuymi <!1kimfimi>
+C: ¿tú qué... qué remedios conoces
+
+M: <P> chem l'awen' <*SPA>o chem kutran kimfuymi <!1kimfimi>? 
+C: que remedios o que enfermedad conoces?
+
+nfmcp-nmfc1_x_0011_nmfc_00: 
+M: Iñche kutran kimfiñ
+C: Yo conozco enfermedad
+
+M: <*SPA>este <*SPA>pulmonía ka feytichi fesikula <*SPA>vesicula ka
+C: esta pulmonía, también esa vesícula pues
+
+M: ka fentre kutra müley <!1müli>
+C: y hay muchas enfermedades
+
+M: fentren kutran müley <!1müli> fey
+C: existen muchas enfermedades de esas
+
+M: ka *müli l'awen' ka lafpeyem <!1llafpeyem>. 
+C: también hay remedios para mejorarse.
+
+nfmcp-nmfc1_x_0012_nfmcp_00:
+M: Ya <uh>
+C:  Ya,
+
+M: ¿eymi kay kutrankeymi <!1kutrankimi>?
+C: ¿tú también te enfermas?
+
+nfmcp-nmfc1_x_0013_nmfc_00:
+M: <*SPA>No iñche kutrankelan lamngen
+C: No yo no me enfermo, hermana
+
+M: kutrankelan tremuechengen <!1tremochengen>.
+C: no me enfermo soy una persona de buena salud.
+
+mcp-nmfc1_x_0014_nfmcp_00: 
+M: <uh> ¿Chem kutran rume ka kimlafuymi <!1kimlafimi> soy mülen tami familiamu?
+C: ¿Tampoco conoces ninguna enfermedad más que haya en tu familia? 
+
+ M: ¿+/kam/+ kam ñi +/ku/+ pu karukatu che?
+C: ¿o... o tus vecinos?
+
+nfmcp-nmfc1_x_0015_nmfc_00: 
+M: Mülekey <!1Müleki> kutran, 
+C: Suele haber enfermedades
+
+M: welu feyti kutran fey <P> kuyfike, kuyfi deuma rupamu
+C: pero esas enfermedades y antes... 
+
+M: welu feula fey lef kimngewetulay ti kutran
+C: y de pronto ya no se conoce esa enfermedad
+
+M: <P> fey <P> ka mülekey <!1müleki> ti kake kutran ka
+C: pero también existen esas otras enfermedades pues
+
+M: feyti <*SPA>sarna pingechi kutranngati
+C: esa enfermedad que se llama sarna pues
+
+M: feyti infektakelu
+C: ese que infecta
+
+M: fey ka mülekey <!1müleki>, welu fey niey  l'awen' lamngen. 
+C: pero también existe remedio...remedio para ello.
+
+nfmcp-nmfc1_x_0016_nfmcp_00: 
+M: <*SPA>Ya 
+C: Ya,
+
+M: ¿eymi<uh> cheu +/soy/+ soy lawentüukeymi <!1l'awen'tuukimi>?
+C: ¿tú donde te medicinas más?
+
+M: <uh> ¿putukeymi <!1putukimi> l'awen' kay
+C: ¿y bebes remedio
+
+M: <uh> tremueleal kam putukelaymi l'awen'?
+C: para estar sano o no  bebes remedio?
+
+nfmcp-nmfc1_x_0017_nmfc_00: 
+M: Iñche, lamngen putukelan l'awen'
+C: Yo no bebo remedio, hermana
+
+M: welu kiñekemu tual l'awen
+C: pero algunas veces para pedir remedio 
+
+M: fey amun postamu
+C: ahí entonces voy a la posta
+ 
+M: fey peken <*SPA>pastilla 
+C: ahí veo pastillas (comprimidos)
+
+M: ka peken feytichi fakuna
+C: también veo  esas vacunas
+
+M: welu soy kake l'awen' putukelan, lamngen. 
+C: pero no bebo más de otros remedios, hermana.
+
+nfmcp-nmfc1_x_0018_nfmcp_00:
+M: <uh> ¿*Mi señorakay +/mi/+ mi kompañkay fey tremuengey <!1tremongi>?
+C: ¿Y tu señora tu... tu compañera ella es sana?
+
+nfmcp-nmfc1_x_0019_nmfc_00:
+M: Tremuengey <!1Tremongi> kafey kompañ
+C: Es sana también mi compañera
+
+M: kuyfi kutranngefuyem
+C: antes era enferma
+
+M: welu fey kiñeleürkey <!1kiñeleürki> l'awen'tuchekelu
+C: pero hay una persona que remedia la gente
+
+M: pingeürkey <!1pingeürki> ta Cristo Jesus
+C: que es llamado Cristo Jesus
+
+M: feyta laftuleyu <!1llasküleyu> feyta entuymayu ñi kutran
+C: él teniendo paciencia le saca su enfermedad
+
+M: feyta operayu 
+C: él la operó
+
+M: feymufey lafchengetuy <!1llafchengi> ñi kompañ
+C: por eso mi compañera es persona sana
+
+M: iñche llemay ka felefun kuyfi
+C:  pues yo también estaba así antes
+
+M: welu Cristo Jesus fey laftuleneu <!1llafküleneu>
+C: pero Cristo Jesús me la sanó
+
+M: feyñi duam 
+C: por él
+
+M: fey <*SPA>hasta fachantü tremowentrungen
+C: y hasta el día de hoy soy hombre sano 
+
+M: chem rume sentiwelan
+C: ya no siento ninguna cosa
+
+M: ka kutrankülelan, lamngen
+C: tampoco estoy enfermo, hermana
+
+M: kom ñi pu ñawe ka ngelay kutran 
+C: y todas mis hijas tampoco tienen enfermedades.
+
+
+M: Lamngen iñche ñi iñche ñi trawameu pian
+C: Hermana, en mi... en mi propia piel diré
+
+M: iñche ñi pu familiameu
+C: en mis familiares
+
+M: kom pu *tremoli, lamngen. 
+C: estan todos sanos, hemana.
+
+nfmcp-nmfc1_x_0020_nfmcp_00: 
+M: <*SPA>Ya
+C: Ya
+
+M: <uh> iñchenga ramtukeyu kutranmu
+C: yo te he preguntado sobre las enfermedades
+
+M: <uh> eymi kinlafimi kutran <*SPA>entonce'
+C: tú no conoces la enfermedad entonces
+
+M: ¿kimlafimi?
+C: ¿no la conoces? 
+
+nfmcp-nmfc1_x_0021_nmfc_00: 
+M: kimlafiñ kutran Kimlafiñ chi... kimlafiñ chi, lamngen
+C: No conozco la... no se de enfermedad, hermana
+
+M: <P> fey küpawümawün kuyfingati feypiayu
+C: eso sí, te voy a decir que antes me daba ganas de dormir
+
+M: fey kiñe doctornga mülelu
+C: y un doctor que hay
+
+M: wenumapungati
+C: en la tierra de arriba pues
+
+M: fey lapümeneu <!1llakümeneu> 
+C: él me calmó
+
+M: fey kake kutran soy niewelan
+C: y otras enfermedades ya no tengo
+
+M: ka feula niewelan kutran. 
+C: y ahora no tengo más enfermedades.
+
+nfmcp-nmfc1_x_0022_nfmcp_00:
+M: <*SPA>Ya
+C:  Ya,
+
+M: <uh>¿eymi fey +/chem/+ chem pipefen ta
+C: y usted qué... qué era lo que me estabas diciendo
+
+M: tachi ngütrammu
+C: en esta conversación
+
+M: <uh> hospitaldungu faliley <!1falili> ta +/l'awen'/+ lawen'
+C: sí en el hospital es valido el remedio... remedio
+
+M: <*SPA>hospital-l'awen'
+C: remedio el hospital
+
+M: ¿kam soy faliley <!1falili> ta mapu l'awen'
+C: ¿o vale más el remedio de la tierra
+
+M: kam trür falilepeyngu <!1falilepingu>? 
+C: o los dos tienen el mismo valor?
+
+nfmcp-nmfc1_x_0023_nmfc_00: 
+M: Tachi l'awen' mülelu feula
+C: Estos remedios que existen ahora
+
+M: tachi müleluam fentren kutran,
+C: y como ahora hay muchas enfermedades
+
+M: welu feytichi doy <!1soy> l'awen'tuchekelu
+C: pero ese que medicina más a la gente
+
+M: feyti femtren kutran mülelu
+C: de esas tantas enfermedades que existen
+
+M: ka kutranüuma ka fey
+C: y los que se han enfermado también
+
+M: feyti kiñe <*SPA>doctor pingey <!1pingi> tati
+C: ese que se le dice un doctor pues
+
+M: feyti doy lapümchelu <!1llapümchepelu> 
+C: ese que ha calmado más 
+
+M: Cristo Jesus pingey <!1pingi>
+C: Cristo Jesus se llama.
+
+M: Ka müley <!1müli> ti doctor <*SPA>hospital
+C: También hay doctor del hospital
+
+M: feymu ta pekey <!1peki> l'awen' <*SPA>pues <!1pu'> kutranlu
+C: ahí encuentran remedio los que se enferman
+
+M: feymu ta tremuekey <!1tremoki> ti puche
+C: ahí se mejoran las personas
+
+M: domo <!1somo>, wentru 
+C: mujer, hombre
+
+M: feymu ka mülelu itrofill l'awen' ka feyti 
+C: como ahí hay distintos remedios también.
+
+M: mapul'awen' mapuchel'awen' ka müley <!1müli>
+C: Remedio del campo, remedio mapuche también hay
+
+M: mawisa ka elkunuy Chau Ngünechen
+C: la montaña también lo dejó Padre Ngünechen
+
+M: ka feymu müley <!1müli> ti l'awen'
+C: también por eso existe el remedio
+
+M: +/fey/+ <P> fey femngechimu
+C: y... y así...
+
+M: fey feychi l'awen' fey müley <!1müli> tati, lamngen.
+C: y ese tipo de remedio existe pues, hermana.
+
+nfmcp-nmfc1_x_0024_nfmcp_00: 
+M: <*SPA>Ya
+C: Ya,
+
+M: <uh>  soy ta <uh> chemu soy chemu
+C: con qué más, con qué más
+
+M: kake kutran kim allkükefuymi <!1allkükefimi> mülen eymi.
+C: tú has escuchado de la existencia de otras enfermedades.
+
+nfmcp-nmfc1_x_0025_nmfc_00: 
+M: Feyti mülekey <!1müleki> ti <*SPA>pulmón piy ngati
+C: Pues suele haber pulmanía dijo pues
+
+M: fey mülekey <!1müleki>, ka mülekey <!1müleki> ti fesikula  <*SPA>vesícula,
+C: eso suele existir, existe la vesicula
+
+M: ka mülekey <!1müleki> ti feytichi <*SPA>reumatismo <!1romatismu> ka,
+C: también suele existir ese reumatismo pues
+
+M: ka mülekey <!1müleki> ti piruforo ka mülekey <!1müleki>,
+C: y también están las caries de los dientes
+
+M: ka mülekey <!1müleki> ti kutran pilunkey che ka,
+C: también existe... también le da dolor de oídos a la gente
+
+M: +/ka/+ ka mülekey <!1müleki>
+C: también... también existe
+
+M: ti nielu -/tu/-<*SPA>tumor pingekey <!1pingeki> ti kutran kafey
+C: aquellos que tienen... tumor se le dice a esa enfermedad también
+
+M: Feychi kutran fey kimnefiñ
+C: Esa enfermedad la conozco
+
+M: allkükefiñ famngechi
+C: la he oído así
+
+M: fey iñchiñ fey felepelayamfe, lamngen. 
+C: así debe ser que estamos nosotros pues, hermana.
+
+nfmcp-nmfc1_x_0026_nfmcp_00:
+M: +/Sí/+, <*SPA>si
+C: Sí, si.
+
+M: *Femtreli kutran ka fill kutran müley <!1müli>
+C:  Hay muchas enfermedades pues, también hay muchas enfermedades
+
+M: ka müley <!1müli> kutran tüfey nienolu l'awen
+C:  también hay enfermedades que no tienen remedio
+
+M: ka müley <!1müli>
+C: también hay
+
+M: <uh>eymi feyta kom üytuymi ta kutran
+C: tú has nombrado todas las enfermedades
+
+M: feyti fill kutran <uh>
+C:  distintas enfermedades
+
+M: kiñechuchi rume fey üytulme feula 
+C: 
+
+M: feypiayu
+C: te diré
+
+M: chumngelu pe fey küpakey <!1küpaki> tachi kutran
+C:  por qué será que viene esta enfermedad
+
+M: +/kiñe/+ kiñe chuchi rume 
+C: de a uno cualquiera...
+
+M: fey chuchi kutrangeafuy rume fey feypian
+C: y cualquier enfemedad que sea eso diré
+
+M: ¿chumngechi, chumngelu pekan küpakey <!1küpaki>?
+C:  ¿cómo, por qué será que vienen estos?
+
+nfmcp-nmfc1_x_0027_nmfc_00: 
+     M: Feytichi kutran küpakey <!1küpaki>
+C: Esa enfermedad viene...
+
+M: fey inchiñngam mapuche müleyiñ <!1müliyi> kampumeu 
+C:  y nosotros que somos mapuches, vivimos en el campo
+
+M: ka niyiñ fill lelfünmeu lepünmeu müleyi <!1müliyi> wechakelu
+C:  también tiene en todo su campo y su hogar hay vestimentas
+
+M: ka müley <!1müli> ti müley <!1müli> ti fañu müleyti <!1müliti> koral
+C:también esta el... también está el baño ese corral 
+
+M: feychi <*SPA>infección feyta kürüf reke lefantay 
+C:  y esa infección se levanta como el viento 
+
+M: fey amuy tichi chemu 
+C: eso va en la persona pues
+
+M: feymufey wefkey <!1wefki> ti kutran
+C:  ahí entonces brotan las enfermedades
+
+M: feymu feyta fey tripakey <!1tipaki>.
+C: por eso sale esto.
+
+M: ti kutran mülekey <!1müleki> kafey
+C: La enfermedad brota también 
+
+M: chi ngünesuammuukelayiñ mapuchengen
+C: nosotros que somos mapuches no tomamos conciencia
+
+M: ka pichin ngünesuamuukefuliyiñ
+C:  sí tomaramos un poco más de conciencia
+
+M: fey ngekelaafuy kutran
+C:  así no habrían enfermedades,
+
+M: welu fey femngen kam mapuchengen
+C:  pero como somos asó los que somos mapuche
+
+M: fey pichike allmeñ feyentukelayin reke ñi liftuwal
+C:  y ni siquiera creen un poco para limpiarse
+
+M: feymufey küpakey <!1küpaki> ta kutran lamngen. 
+C:  por eso vienen las enfermedades, hermana.
+
+nfmcp-nmfc1_x_0028_nfmcp_00:
+M: <uh>iñchenga ramtukeyu 
+C:  Eso también te he preguntado
+
+M: +/chemu/+ chemu pekam küpakey <!1küpaki> kutran
+C:  con qué... con qué será que vienen las enfermedades
+
+M: <uh>eymi chempikeymi <!1chempikimi> ta
+C:  tú qué dices 
+
+M: <uh>komu ka küpakey <!1küpaki> pi kutran ko.
+C:  con el agua también viene dijo, agua enferma.
+
+nfmcp-nmfc1_x_0029_nmfc_00: 
+M: Komu ka küpakey <!1küpaki>, lamngen 
+C:  Con el agua también viene, hermana
+
+M: küpakey <!1küpaki> feyti ko fey liftungelay +/fey/+
+C: viene en el agua cuando no lo limpia 
+
+M: fey fill fichu konüy <!1koni>
+C:  entonces entran distintos bichos 
+
+M: feymeu <*SPA>entonce feymu fey küpakey <!1küpaki> ti kutran
+C:  ahí entonces así... así vienen las enfermedades
+
+M: welu liftunengele ti ko 
+C:  pero sí mantienen limpia el agua 
+
+M: fey ngelayafuy kutran
+C:  entonces no habría enfermedades
+
+M: ka feytichi ko mülekey <!1müleki> 
+C: también existe el agua
+
+M: kiñeke müleki ko mülekey <!1müleki> <*SPA>pozo pingekey <!1pingeki>
+C:  existe agua... se le dice agua de pozo
+
+M: feymu chemrume ütrüfkonkey <!1ütrüfkonki>
+C:  ahí cáe cualquier cosa 
+
+M: feymu fey tripakey <!1tripaki> ti <*SPA>algún
+C:  por eso entonces sale algún...
+
+M: kiñeke wülkutrankechi wechake üñüm ka mülelu
+C:  también aquellos pájaros que existen y que dan malas enfermedades
+
+M: ta ka mapumu welu ka mülekey <!1müleki> ti ko 
+C: pero en otras comunidades también suele haber agua
+
+M: feyti anka külleg kiñeu tripalu
+C:  ese que sale a medias
+
+M: fey wütrunko pingekey <!1pingeki> tati
+C: eso se le dice vertiente pues
+
+M: feychi ko fey rume lifko
+C: Esa agua es un agua muy limpia
+
+M: fey feytichi komu keta fey ngelay kutran 
+C:  entonces en esa agua si que no hay enfermedades.
+
+nfmcp-nmfc1_x_0030_nfmcp_00: 
+M: Eymi <uh> <P>
+C:  Usted 
+
+M: <uh> <P> ¿chempipefuymi ta 
+C:  ¿que puedes decir al respecto
+
+M: feytichi mapuche dungu ñamnofule fey kümepefuy?
+C:  eso del saber mapuche sería bueno que no se pierdiera?
+
+nfmcp-nmfc1_x_0031_nmfc_00: 
+M: Mapuchedungun feyta ñamlayay 
+C: El saber mapuche no se va a perder
+
+M: ka feyka  ka iñche llemay mapuchedungumeken
+C:  pues yo también estoy hablando en mapuche
+ 
+M: iñche ka mapuche kafey mapuchengefuyem mapuchenga
+C:  yo también soy mapuche, también soy mapuche
+
+M: feymu mapuchengefuy ñi chawem
+C:  pues mi finado padre era mapuche
+
+M: ka mapuchengefuy ñi ñukeyem 
+C:  y mi finada madre también era mapuche
+
+M: kom ñi awelu ka ñi awela
+C:  todos mis abuelos y mi abuela
+
+M: fey iñche fey chumael llanken mapuche dungu pipefun chau 
+C:  y yo pensaba, que se habría hecho el saber mapuche padre
+
+M: Ngünechen feynga mapuche elkunulu 
+C:  Es Ngünechen quien dejó el mapuche
+
+M: ka elkunuy wingka
+C:  también dejo al huinca
+
+M: fey müley <!1müli> ñi müleal mapuche müten, lamngen 
+C:  por eso el mapuche siepre debe existir, hermana
+
+M: iñche fey *moymakelan
+C:  y yo eso no  lo olvido
+
+M: ka yewekelan mapuchedungual
+C:  y no me avergüenzo hablar en mapuche,
+
+M: cheurume miawün *müli ñi mapuchedungual, lamngen 
+C:  donde quiera que ande mi deber es hablar en mapuche, hermana.
+
+nfmcp-nmfc1_x_0032_nfmcp_00:
+M: <uh>¿Eymikay fakunaukeymi <!1fakunaukimi? 
+C:  ¿Y tú te vacunas?
+
+nfmcp-nmfc1_x_0033_nmfc_00: 
+M: May
+C:  Sí.
+
+M: *Fakunauken kiñekemu 
+C: Algunas veces me vacuno
+
+M: ellamu fakunawün 
+C: hace poco me vacune
+
+M: fey kutranfunem 
+C: y me había enfermado pués 
+
+M: feychi feymu fey *fakunan
+C:  por eso esa vez me vacuné
+
+M: ka putukefiñ ti l'awen' <*SPA>pastilla.
+C: también he tomado remedio en pastillas.
+
+nfmcp-nmfc1_x_0034_nfmcp_00:
+M: ¿ <*SPA>Ya, ¿Eymi +/tunten/+ tunten pichike che nieymi?
+C: ¿Ya, Tú cuántos... cuántos niños tienes?
+
+nfmcp-nmfc1_x_0035_nmfc_00:
+M: Iñche nien kayu ñawe 
+C: Yo tengo seis hijas,
+ 
+nfmcp-nmfc1_x_0036_nfmcp_00:
+M: kayu ñawe 
+seís hijas tengo.
+
+nfmcp-nmfc1_x_0037_nmfc_00:
+Kayu nawe nien.
+C: 
+
+nfmcp-nmfc1_x_0038_nfmcp_00: 
+M: <*SPA>Ya.
+C: Ya.
+
+M: ¿Feyengünkay kom tremuelingün <!1tremolingün>?
+C: ¿Y ellas estan todas bién?
+
+M: ¿kam kutranngeyngün <!1kutranngingün>?
+     C: ¿o son enfermizas?
+
+nfmcp-nmfc1_x_0039_nmfc_00:
+     M: Feyengün kom tremuelingün <!1tremolingün>
+C: Todas ellas están bién
+
+M: ka kom tremuengingün <!1tremongingün>
+C: y todas son sanas
+
+M: kiñe nurume <!1norume> kutranngelay
+C: ninguna tiene enfermedad
+
+M: kom fey ta -/llaf/- lafküleyngün <!1llafkülingün> nielayngün ta kutran.
+C: todos ellos estan aliviados, no tienen enfermedad
+nfmcp-nmfc1_x_0040_nfmcp_00:
+M: <*SPA>Ya.
+C: Ya.
+
+M: <uh>Eymi <uh> <P> feychi dungu kimlafimi
+C: Tú no conoces a esa cosa
+
+M: kimlafimün kimlafimi kutran dungu
+C: no la conocen, no conoces el asunto de la enfermedad
+
+M: ¿pichikechemu <uh> rupalfimi feychi dungu?
+C: ¿pasaste ese asunto con los niños?
+
+nfmcp-nmfc1_x_0041_nmfc_00: 
+M: <*SPA>No, kimlafiñ, rupalay feychi dungu rupalay.
+C: No, no lo conozco, no pasó ese problema, no pasó.
+
+nfmcp-nmfc1_x_0042_nfmcp_00:
+M: <uh> ¿Nielaymün?
+C: ¿No tienen ustedes?
+
+M: ka femngechi <*SPA>accidente dungu <!1sungu> 
+C: así también los problemas de accidentes
+
+M: <*SPA>accidente pingey <!1pingi> ta <*SPA>castellano dungumu <!1sungumu>.
+C: accidente se llama en el idioma castellano.
+
+nfmcp-nmfc1_x_0043_nmfc_00: 
+M: May. 
+C:  Sí.
+
+nfmcp-nmfc1_x_0044_nfmcp_00: 
+M: Rupalafuymün <!1rupalafimün> ka.                                            
+C: No pasaron por eso entonces. 
+
+nfmcp-nmfc1_x_0045_nmfc_00: 
+M: <*SPA>No ngelay <*SPA>gracia Chau Ngünechen
+C: No hubo, por la gracia de Padre Ngünechen
+
+M: ta kom tremuengey <!1tremongiñ> pu ñawe tati.
+C: todas mis hijas son sanas pues.
+
+nfmcp-nmfc1_x_0046_nfmcp_00:
+M: <uh> ¿Tami señorakay?
+C: ¿Y tu señora?
+
+M: ¿fey tami konpañ kay
+C: ¿y tu compañera
+
+M: fey kafey kutrankaulay
+C: ella tampoco sufrió
+
+M: ¿kam rume kütrankawüy <!1kutrankawi> ta nialu <*SPA>familia ta nialu ta püñeñ?
+C: ¿o sufrió mucho cuando tuvo familia, cuando tuvo hijos?
+
+nfmcp-nmfc1_x_0047_nmfc_00: 
+M: Fey nielu ñi <*SPA>familia femngechi <!1femechi> esperalelu
+C: Así cuando estaba esperando e iba a tener su familia
+
+M: feymu tati winka dungumeu müte kutrankaulay 
+C: ahí pues por el sistema huinca no sufrió mucho
+
+M: feymu fey mülekey <!1müleki> rukameu kansatulekey <!1kansatuleki>
+C: por eso ella está en la casa descansando
+
+M: feymu kafey küsaukelafuyem
+C: por eso ella ya no trabajaba tampoco
+
+M: ka piesamu müten mülekefuy
+C: y solamente estaba en la pieza
+
+M: fey müte *aflikiulay 
+C: entonces no se afligió mucho
+
+M: <*SPA>después <!1depue'> wüla fey akuliy ni nial
+C: recién después llegó el momento para tener
+
+M: feula feyta fey kutrankawüy <!1kutrankawi>
+C: ahí recién ella sufrió
+
+M: ka feynga iñche kimüñmanofilunga +/fey/+ fey kimniey <!1kimni>
+     C: y como yo no le reconocí ella, ella sabía
+
+M: tañi chumngechi kutrankawün, lamngen.
+C: como fue su sufrimiento, hermana.
+
+nfmcp-nmfc1_x_0048_nfmcp_00: 
+     M: <*SPA>Ya
+C: Ya,
+
+M: <uh> fey fey mekorawüy <!1mekorawi> ta llakoy ta pitalmüten. 
+C: así... así se fue mejorando solamente en el hospital
+
+nfmcp-nmfc1_x_0049_nmfc_00:
+M: Fey amuy hospitalmeu
+C: Ahí fue al hospital
+
+M: niepualu tañi <*SPA>cria
+C: para tener su cria
+
+M: feymufey laftripamey <!1llaftripami>, lamngen.
+C: ahí entonces salió bién, hermana.
+
+nfmcp-nmfc1_x_0050_nfmcp_00:
+M: ¿ <*SPA>Ya, <P> fey kay pütukelay l'awen', mapu l'awen'?
+C: ¿Ya, Y ella no bebe remedio, remedio del campo?
+
+M: ¿kam winka l'awen'?
+C: ¿o remedio de huinca?
+
+nfmcp-nmfc1_x_0051_nmfc_00:
+M: Pütukelay l'awen', putukelay mapu l'awen'.
+C: No bebe  remedio, no bebe remedio del campo.
+
+nfmcp-nmfc1_x_0052_nfmcp_00:
+M: Eymi tami pu yall <!1yal> ta fey pu ñawe
+C: Tus hijos y tus hijas
+
+M: ¿feyta fakunaukey <!1fakunauki> eskuelamu?
+C: ¿ellas se vacunan en la escuela?
+
+nfmcp-nmfc1_x_0053_nmfc_00: 
+M: May.
+C: Sí.
+
+M: fakunaukey <!1fakunauki> eskuelamu kon fey *fakunangingün.
+C: Se vacunan al entrar en la escuela los vacunan.
+
+nfmcp-nmfc1_x_0054_nfmcp_00:
+M: <uh> ¿chem kutran ta soy kimngekey <!1kimngeki> ta pichikechemu
+C: ¿Qué enfermedad se conoce más en los niños
+
+M: kom pichikechemu? 
+C: en todos los niños?
+
+nfmcp-nmfc1_x_0055_nmfc_00: 
+M: Pichikechemu kimngekey <!1kimngeki> kutran
+C: En los niños se reconoce la enfermedad
+
+M: ti kiñekemu mülekey <!1müleki> ti sarnangati tati
+C: algunas veces hay sarna pues
+
+M: tripakey <!1tripaki> tati trawameu 
+C: eso sale en la piel
+
+M: müna wesa ünakey <!1ünaki>
+C: da una picazón deseperante
+
+M: ka kiñeke pichikechemu tripakey <!1tripaki> ti piruforo
+C: también algunas veces salen carien en los niños
+
+M: feychi kutran ka tripakey <!1tripaki> ti pichikechemu
+C: esa enfermedad también sale en los niños
+
+M: ka kiñeke ta fey chumngechi ñi kutran pürañmakey <!1pürañmaki>
+C: además algunos no se saben como le brota la enfermedad
+
+M: ta pichikeche <*SPA>tocando <*SPA>pues <!1pu'> lamngen.
+C: cuando les toca a los niños pues, hermana.
+
+nfmcp-nmfc1_x_0056_nfmcp_00: 
+M: <*SPA>Ya
+C:  Ya,
+
+M: <uh> ka feyta fey fakunaukeyngün <!1fakunaukingün> ta  <uh> postamu
+C: también estos se vacunan en la posta
+
+M: ta fey kafey fakunangekeyngün <!1fakunangekingün> ka.
+C: y estos también se vacunan pues.
+
+nfmcp-nmfc1_x_0057_nmfc_00: 
+M: May
+C: Sí.
+
+M: Postamu fey amukeyngün <!1amukingün>
+C: Ellos van a la posta
+
+M: feymu pemekeyngün <!1pemekingün> l'awen'
+C: ahí encuentran remedios
+
+M: fakunaukeyngün <!1fakunangekingün>
+C: los vacunan
+
+M: ka feyti entuñmangelu foro 
+C: y también a aquel que le extraen los dientes
+
+M: fey amukey <!1amuki> ta hospitalmu 
+C: él va a hospital
+
+M: fey entuymangey <!1entuñmangi> ñi foro engün piruforolelu.
+C: entonces le extraen sus dientes que están con caries.
+
+nfmcp-nmfc1_x_0058_nfmcp_00:
+M: <uh> Eymikay tachi tripantu küpalu
+C: Y tú este año que viene
+
+M: ta rupalelu ta seuma
+C: éste que ya esta pasando
+
+M: ¿kimfimi ta wechake kutran ta mülen kiñeke partemu?
+C: ¿supo que hubo malas enfermedades en algunas partes?
+
+nfmcp-nmfc1_x_0059_nmfc_00: 
+M: Tachi tripantu rupalelu
+C: Este año que esta pasando
+
+M: ta kutran müleyepika
+C: habrá habido enfermedades
+
+M: fey welu iñche fey allkülafin reke
+C: pero yo como que no lo escuché 
+
+M: ka feytamu iñchiñ,
+C: y aquí nosotros, 
+
+M: iñche ta fey kimlafin pial
+C: por eso yo no se qué decir 
+
+M: kafey kinfun iñche 
+C: también yo sabía
+
+M: fey <*SPA>recién feyta kiñeke kutranüyngün <!1kutraningün>
+C: y ahora recién se enferman algunos
+
+M: fey *lafketukeyngün <!1llaftukingün>
+C: pero se alivian
+
+M: ka femngechi feley <!1feli> ta che rupalen ta tripantu, lamngen.
+C. también esta así la gente al pasar los años, hermana.
+
+nfmcp-nmfc1_x_0060_nfmcp_00: 
+M: <*SPA>Ya <uh>
+C:  Ya,
+M: kimyelafimi newe <*SPA>entonce' kimlafimi reke.
+C: no oo conoces mucho entonces, como que no lo conoces mucho.
+
+nfmcp-nmfc1_x_0061_nmfc_00: 
+      M: Kimlafiñ reke, lamngen
+C: Como que no lo conozco mucho, hermana.
+
+M: iñche kimlafin kimnoluam iñche
+C: yo no lo conozco, como yo no se
+
+M: kimli fey kimün tati ka piafun. 
+C: si supiera entonces diría que se.
+
+nfmcp-nmfc1_x_0062_nfmcp_00:
+M: ¿Eymi <uh> chem ayipiafuymi
+C:  ¿A ti qué te gustaría
+
+M: soy kimngeal ta mapu l'awen'
+C: que se sepa más del remedio del campo 
+
+M: soy kimngefule?
+C: que se conozca más?
+
+nfmcp-nmfc1_x_0063_nmfc_00: 
+M: Mapu l'awen'
+C: Remedio del campo.
+
+nfmcp-nmfc1_x_0064_nfmcp_00: 
+M: Doydoy kimngepufule ta winkamu
+C: Que cada vez más se sepa en el huinca
+
+M: kam pitalmu kam kafey
+C: o en el hospital también
+
+M: welu fey kafey kimngeay <!1pinengi>
+C: pero eso también se sabrá se dice
+
+M: ka +/soy/+ doy wefay ti kimün
+C: y cada vez más aparecerá el conocimiento
+
+M: mapu l'awen' pingey <!1pingi> pitalmu müleal kafey. 
+C: se dice que se esta permietiendo remedios naturales en el hospital también.
+
+nfmcp-nmfc1_x_0065_nmfc_00:
+M: Fey felele ti mapu l'awen'
+C: Y si es así ese remedio del campo 
+
+M: mülele ka ti mapuche l'awen'
+C: si está y además el remedio mapuce
+
+M: ti <*SPA>yerba pingekey <!1pingeki> tati
+C: eso que se le dice hierbas pues
+
+M: feyti feyta feychi mawida
+C: ese... esta... esa montaña
+
+M: fey elkunuy Chau Ngünechen 
+C: ese lo dejó Padre Ngünechen
+
+M: fey feleale fey ngüllale
+C: y si va a estar así, si eso aumenta
+
+M: Ngünechen fey femay ka, lamngen 
+C: Ngünechen hará eso pues, hermana
+
+M: müleay ti l'awen' peka 
+C: probablemente haya ese remedio pues
+
+M: fey l'awen'tulelu che
+C: y si la gente se está medicinando
+
+M: fey lafkelu
+C: y los que se mejoran
+
+M: kiñeke ta fey re femngechi ta lladkülechi l'angenmu 
+C: algunos solo por eso se enojan por los muertos
+
+M: l'awen' mülen piay
+C: habiendo remedio dirá
+
+M: lladküy fey felele
+C: se enojará por estar así
+
+M: fey fentren kutran ka mülelu feyta fey.
+C: como hay muchas enfermedades pues.
+
+nfmcp-nmfc1_x_0066_nmfc_00:
+     M: Mülechi kutran 
+C: Las enfermedaes que existen
+
+M: fey kimngelu ti chumngechi 
+C: esas de las que se saben cómo
+
+M: chem l'awen'mu ñi llafal 
+C: con qué remedio se aliviará
+
+M: fey llafay tati, lamngen. 
+C: para que se mejore pues, hermana.
+
+nfmcp-nmfc1_x_0067_nfmcp_00:
+M: <*SPA>Ya 
+C:  Ya,
+
+M: fey eymi... ta feula <!1fola> <uh> kutran
+C: y tú... ahora la enfermedad
+
+M: ta +/soy/+ doy ta kimngewelay
+C: cada vez se conoce menos 
+
+M: +/soy/+ doy ta akulüy <!1akuli>
+C: cada vez trae más
+
+M: ka kota <*SPA>médico ta fey ¿soy/+ doy kimlay reke
+C: y como que cada vez sabe menos el médico 
+
+M: kimlayngün petu ta kiñeke kutran
+C: no conocen todavía algunas enfermedades
+
+M: ka wechake kutran ta müleyey <!1müleyi>
+C: también hay malas enfermedades
+
+M: ¿fey chumngechi pekam fente akulüy <!1akuli> feyta tachi kutran +/soy/+ doy?
+C: ¿y cómo será que cada vez llega más esta enfermedad?
+
+nfmcp-nmfc1_x_0068_nmfc_00: 
+M: Feley, lamngen
+C: Así es hermana
+
+M: fey tachi kutran ta fenten tripatripangey <!1tripatripangi>
+C: esta enfermedad que esta saliendo cada vez más
+
+M: ka mülemülengey <!1mülemülengi> 
+C: y esta brotando cada vez más
+
+M: welu fey feypilu kam
+C: pero como cuando dijo eso
+
+M: chilkatun ñi dungu Chau Ngünechen
+C: las cosas escritas de Padre Ngünechen
+
+M: ngütramka rüf dungu kafey
+C: su conversa también es verdadera pues
+
+M: kafey ngünetukelay
+C: tampoco lo controla
+
+M: fey püllelepalu kam che 
+C: ya que estan cerca las personas
+
+M: <*SPA>venía <*SPA>de küpaleyngati <!1küpalingati> Chau  Ngünechen. 
+C: venía de... pues lo trajo padre Ngünechen.
+
+M: fotüm fey... feynga müleay <!1müliay> kutran... kutrannga
+C: su hijo, el anunció enfermedad
+
+M: kimngewelayay
+C:  ya no se conoce
+
+M: <*SPA>doctorrume kimwelayay
+C: ni los doctores lo sabrán
+
+M: müleaynga ngüñün müleaynga +/fill/+... fill kutran 
+C: habrá hambre, habrá diferentes... diferentes enfermedades
+
+M: pilekey <!1pileki> ta chillkatun 
+C: eso dice en la escritura
+
+M: fey deuma kumpliley <!1kumplili>
+C: eso ya se está cumpliendo
+
+M: kafey felele fey doctorrume
+C: y si está así ni el doctor
+
+M: medica rume fey kimlayay ti. 
+C: ni la médica sabrá eso.
+
+nfmcp-nmfc1_x_0069_nmfc_00: 
+M: Kutran feynga fey felelu 
+C: Esa enfermedad la que está así 
+
+M: fey femngechi femüy <!1femi> feytichi l'awen'
+C: y eso le paso a  los remedios
+
+M: pingekey <!1pingeki> ta kiñekemu
+C: se dice algunas veces
+
+M: fey tutewelayay kutran
+C: y ya no hace efecto para las enfermedades
+
+M: feynga fey tati l'awen' müten 
+C: ese... ese remedio no más pues
+
+M: welu feyti wentru l'awen'tuchepelu
+C: pero ese hombre que medicina a las personas
+
+M: fey wentru müten 
+C: es solo hombre
+
+M: welu fey may doy kimniey <!1kimni> ti Ngünechen
+C: pero eso lo sabe mejor Ngünechen
+
+M: mülelu wenu mapu
+C: que vive en la tierra de arriba
+
+M: feyta kom asngey <!1asngi> chumkünuateu iñchiñ
+C: sólo él sabe como nos tendrá a nosotros
+
+M: fey feyentuleliyiñ feymu, lamngen 
+C: y si creemos en él, hermana
+
+M: fey montuayiñ kafey
+C: entonces  nos salvaremos también
+
+M: kutranlayayiñ 
+C: no nos enfermaremos
+
+M: fülkelayay ti wedake kutran 
+C:  ni se acercaran las malas enfermedades,
+
+M: welu feyentunoliyiñ, lamngen 
+C: pero si no creemos, hermana
+
+M: fey kutranafuyiñ ka, fey lefafuyiñ cheuchi
+C: entonces nos enfermaríamos pues, y no se hacía donde correríamos 
+
+M: piafuyiñ ka doctormu 
+C: querríamos también al doctor
+
+M: puuliyiñ fey pelayayiñ l'awen'
+C: cuando lleguemos entonces no encontratremos remedios
+
+M: ka feyti medikamu ka
+C: y también donde la médica
+
+M: fey tutelayayiñ chumngechi rume.
+C: y de ninuguna manera nos hará efecto.
+
+nfmcp-nmfc1_x_0070_nmfc_00: 
+M: Estudiayafuyin fey Ngünechen
+C: Estudiaríamos y Ngünechen
+
+M: feyta fey *kimni tati, lamngen. 
+C: este es el que sabe pues, hermana.
+
+nfmcp-nmfc1_x_0071_nfmcp_00:
+     M: <uh>¿Eymi ta fey chem pikeymi <!1pikimi>
+C: ¿Y tú qué dices
+
+M: ta che ta fey doy doy ta feyentulewelay ta pu che
+C: ahora la gente cada vez cree menos la gente
+
+M: kam <uh> feyentulelmu
+C: o porque esta creyendo
+
+M: ta femngechi dungu ta küpaley <!1küpali>?
+C: ese tipo de cosas trajo?
+
+nfmcp-nmfc1_x_0072_nmfc_00:
+     M: <uh> <*SPA>Este feyta chi kutran
+C: Este... esta enfermedad
+
+M: küpaley <!1küpali> rume feytachi 
+C: aunque venga esto aún así no hay creencia
+
+M: fey ngelay feyentun
+C: pues no hay creencia
+
+M: rume pichiley <!1pichili> tati feyentulelu
+C: hay muy pocos que creen
+
+M: ka müley <!1müli> ti feyentunolu 
+C: también estan los que no creen
+
+M: feymu feula feytichi kutran 
+C: por eso ahora esa enfermedades
+
+M: rume weda tripay 
+C: salió muy mal
+
+M: küpaley <!1küpali> kafey ñi chumngechi ñi feyentungeal
+C: también trajo el como creer
+
+M: Ngünechen ñi rüf mülen
+C: que en verdad Ngünechen existe
+
+M: rüf feyentungele
+C: si verdaderamente creen
+
+M: fey kom feyentule, feyentuliyiñ
+C: y si todos creen, si todos creemos
+
+M: feymu fentrenke müley <!1müli> pu <*SPA>familia
+C: por eso hay muchas familias
+
+M: petu ta feyentulayngün
+C: que aún no creen
+
+M: ka ñi feyentuyin Chau Ngünechen pile engun 
+C: y si ellos dicen que creen en Padre Ngünechen
+
+M: welu Chau Ngünechen 
+C: pero Padre Ngünechen 
+
+M: fey kewün  müten fey Chau Ngünechen pingün
+C: sólo de lengua no más hablan de Padre Ngünechen
+
+M: welu piukentukulafi petu engün 
+C: pero aún no lo tienen en su corazón
+
+M: feymufey Chau Ngünechen 
+C: por eso Padre Ngünechen
+
+M: kam fey piukemu kimateu inchiñ. 
+C: 
+
+M: fey kom rakiduam kimniey <!1kimni>
+C: él conoce todos los pensamientos
+
+M: kom kimniey <!1kimni> may ñi chumngechiñ amuleal
+C: él sabe todo como va a continuar
+
+M: kafey feymu füla
+C: además por eso 
+
+M: fey femngechi kutran küpaley <!1küpali>
+C: entonces ese tipo de enfermedades trae
+
+M: welu feytichi feyentulu
+C: pero aquel que cree
+
+M: ka feyentualu feyta fey montuay
+C: y aquel que va creer ellos se salvaran
+
+M: ka feyta kutranuulayay 
+C: y éste tampoco se enfermará
+
+M: feymeu, lamngen tachi <*SPA>tarde fey ngütramkamekiyu tati
+C: por eso, hermana esta tarde estamos conversando pues
+
+M: fey eymi kafey nierkefuymi <!1nierkefimi> tüfachi küdau
+C: y es que tú también tienes este trabajo
+
+M: fey kichuke füta kimneaymi 
+C: y sólo tú lo sabrás bién
+
+M: püta Chau elchi l'awen'
+C: remedios que dejó el Gran Padre
+
+M: fey femngechi feypiken tati lamngen. 
+C: y eso es lo que pienso pues, hermana.
+
+nfmcp-nmfc1_x_0073_nfmcp_00: 
+     M: <*SPA>Ya
+C:  Ya,
+
+M: <uh> *folü fey ka tukupayayu 
+C: y ahora también vamos a tratar
+
+M: feyti <uh> chumngechi ñi amuken ta forokutran
+C: de cómo entra la enfermedad a los huesos
+
+M: feychi ngütram ta tukuayu. 
+C: de es tema hablaremos.
+
+nfmcp-nmfc1_x_0081_nmfc_00: 
+M: ¿Feyti piru foro pimi lamngen?
+C: ¿De esos dientes con caries, hermana?
+
+nfmcp-nmfc1_x_0082_nfmcp_00: 
+M: Fey, may fey... fey. 
+C: Eso pues, eso...eso.
+
+nfmcp-nmfc1_x_0083_nmfc_00: 
+M: Feyti *puruforo
+C:  Esos dientes con caries
+
+M: fey *küpaki tichi kiñeke fey pafmu *piki tati kiñeke
+C: eso viene algunas veces por pasmo dicen algunos pues
+
+M: fey rume asukartukelu pi ka kiñeke,
+C: y los que consumen mucho azúcar dicen algunos
+
+M: kiñeke fey küchanolu ni foro
+C: algunos porque no se lavan los dientes
+
+M: püreukupaunolu tañi lifküleal tañi foro
+C: quien no se preocupa de mantener limpios sus dientes
+
+M: fey küpan *ikingün 
+C: y después de comer
+
+M: fey küchautukelayngün foro engün
+C: ellos no lavan sus dientes
+
+M: ka antü ka *une in ka feleki müten
+C: al otro día en la primera comida están así no más
+M: feymu feyti re che iyal müten
+C: por eso por lo que come la gente no más
+
+M: fey *funalki foro 
+C: es lo que hace podrir los dientes, 
+
+M: feymufey *piruforokingün ti lamngen
+C: por eso le entra bacterias en sus dientes
+
+M: femngechi *feypingeki tati, lamngen 
+C: así le dicen pues, hermana
+
+M: welu feyti küchakelu foro kay fey piruürkelay.
+C: pero el que se lava los dientes a él no le entra caries.
+
+nfmcp-nmfc1_x_0084_nfmcp_00:
+M:  Feyta fey kiñeke fey ka *piki ta iyalmu
+C: Y también algunos dicen que es por la comida
+
+M: fey küpay ta rume ta mületunmu <*SPA>azúcar
+C: eso viene porque ahora hay mucha azúcar
+
+M: feyta fey rume ta  fey afi foro *pikingün ta fey
+C: y entonces  se acaban mucho los diente dicen ellos
+
+M: chem pimita *felepi... *felepi tañi. 
+C: lo que dijiste, será así... será así su...
+
+nfmcp-nmfc1_x_0085_nmfc_00: 
+M: Asukarmu fey iñche felelu
+C: Como yo estoy así por la azúcar
+
+M: <%> fey tati asukarmu
+C: eso es por azúcar
+
+M: ¿fey femlayafuy kafey?
+C: ¿y cómo no iba a ocurrir eso?
+
+M: feytichi liftukelay ñi foro engün <*SPA>parece
+C: al parecer ellos no se limpiam los dientes
+M: feymufey *afki ñi foro engün,lamngen.
+C:  por eso se les acaba su dientes, hermana.
+
+nfmcp-nmfc1_x_0086_nfmcp_00:
+M: Eymi fey ayipefuymi soysoy mülefule
+C:  A ti te gustaría que haya cada vez más 
+
+M: soy kimnelifule ta feyta puche
+C: si  supieran más de estos las personas
+
+M: <uh> pütakeche ta fey kimelngennga pilelayngün ka
+C: los ancianos no dicen estos nos dieron a conocer pues
+
+M: kafey iñche... iñche nien kimün *pikingün ka
+C: yo... yo también tengo sabiduría dicen pues
+
+M: fey kimelngepeafuy
+C: y se le daría a conocer
+
+M: kam... kam pichikechemu kimelngefule 
+C: o... o si se le enseñara a los niños
+
+M: ¿fey kümepefuy tachi dungü kimelnengeal?
+C: ¿y sería bueno que se supiera este asunto?
+
+nfmcp-nmfc1_x_0087_nmfc_00: 
+M: Feytachi dungü femngechi
+C: Así estas cosas
+
+M: fey kongentu kimelngele engün 
+C: y si a ellos se les da a conocer 
+
+M: <*SPA>familia' kiñe rukamu mülelu
+C: familias, que viven en una casa
+
+M: ti *unenkülelu ka kom fey pichike felpielem fey,
+C: ese que es mayor debería encargarse de decirle a los niños
+
+M: fey... fey femkapeyafuy, lamngen 
+C: y...y puede que pase eso, hermana
+M: fey felpingeanka
+C: y  eso me diran pués
+
+M: fey iñirume fey kimelnoliyu 
+C: y si nadie le da a conocer
+
+M: fey femlayaynga
+C: entonces no lo habrá hecho
+
+M: fey kichu müten yelen kimün engün
+C: y si sólo ellos llevan el conocimiento
+
+M: welu pichike feypiel engü 
+C: pero lo poco que digan ellos
+
+M: kiñeke rume feyentuyel
+C: algunos siquiera que crean
+
+M: fey welu kom inakintuule engün 
+C: pero si ellos ven eso 
+
+M: fey komfemafuyngün tati, lamngen. 
+C: así todos lo harían pues, hermana.
+
+nfmcp-nmfc1_x_0088_nfmcp_00:
+M: <uh>Feula ta fey ayipefuymi ta müleal
+C: Te gustaría que hubiera ahora
+
+M: soysoy ta mülefule ta pu kimlu ti forokutran
+C:  si hubiera más de los que saben de la enfermedad de los huesos
+
+M: l'awen' kutran mülefule 
+C: su hibiera remedio para la enfermedad
+
+M: ta soy ta inchi ta fey islantukuliyin
+C: pero si nosotros nos ailamos más
+
+M: kafey ta nielay ta kiñekemu 
+C: tampoco tiene algunas veces
+
+M: naüta kutrankiyin ta pu lamngen pichikeche
+C: se nos enferman más hermanas, niños
+
+M: fey ngelay l'awen'
+C: y no hay remedios
+
+M: chempipefuy eymi ta chem chumpefuyin ka.   
+C: que dirías tú... y qué podemos decir pues.
+
+nfmcp-nmfc1_x_0089_nmfc_00: 
+M: Fey feytichi l'awen'tuchelu foromu
+C: Y aquellos que medicinan los dientes a la gente
+
+M: fey mülefule fey kümefuy 
+C: si hubiera eso sería bueno
+
+M: estudiangele feyti chumngechi ñi afüluwal ti foro 
+C: si se estudiara  eso de cómo ....... los dientes
+
+M: ngewenualu ti piruforo
+C: para que no existan más las caries
+
+M: kafey l'awen' mülefuleka 
+C:  y si hubiera remedio también 
+
+M: fey... fey kümefuy, lamngen. 
+C:  eso... eso sería bueno, hermana.
+
+nfmcp-nmfc1_x_0090_nfmcp_00:
+M: <uh>Tachi Wapimu ta fey petu ta ngelay
+C:  En esta isla aún no hay eso
+
+M: ngelay feyti l'awen'tukelu ta foro ka... mülepi ta...
+C: pues no hay quien medicine los dientes pues... habrá ahora...
+
+nfmcp-nmfc1_x_0091_nmfc_00:
+M: Wapimu fey kimngelay petu lamngen
+C:  En Huapi aún no se conoce eso, hermana
+
+M: tamu kafey kiñekemu akukelu feyti entuforopelu
+C:  aquí también algunas veces han llegado dentistas
+
+M: *küpaki kiñeke *küpalki <*SPA>operativo 
+C:  vienen a veces traen operativos
+
+M: ka *küpaki ti feyti wariamu pu doctor
+C:  también vienen doctores de la ciudad
+
+M: welu fey <*SPA>al <*SPA>año fey *küpaki 
+C:  pero, eso vienen al año
+
+M: <*SPA>dos <*SPA>veces 
+C:  dos veces
+
+M: a <*SPA> vece' fey kiñe tripantu
+C:  a veces un año
+
+M: fey kiñe <%> ngepatuy kafey
+C:  y viene a dar una vuelta también
+
+M: iñche ka alükamapulelu wariamu 
+C:  y como yo estoy lejos de la ciudad
+
+M: fey pepi amukelayin ospitalmu
+C:  entonces no podemos ir al hospital
+
+M: ka fentre llikan
+C: además me da mucho miedo
+
+M: kafey ka suamiyin ti miwam ti mikromu llemay
+C: y también necesitamos para andar en la micro, claro
+
+M: suamkiyin <*SPA> plata <*SPA> a tiempu
+C: necesitamos plata a tiempo
+
+M: ngekelay fey rume suamfuyiñ ta wapiñ
+C: ni siquiera hay cuando necesitamos los de Huapi
+
+M: <%>  kimün mülealu kiñe <*SPA>como...    
+C: saber habrá uno como....
+nfmcp-nmfc1_x_0092_nfmcp_00:
+M: Kiñe ta rukan l'awen'tuwam ta <*SPA>consultorio.
+C: Una casa para medicinar, consultorio. 
+
+nfmcp-nmfc1_x_0093_nmfc_00: 
+M: Kiñe ruka l'awen'tuwam
+C: Una casa de para remediarse
+
+M: kiñe <*SPA>consultorio famngechi müleal
+C:  para que así haya un consultorio 
+
+M: ka müleal tüfichi pichike kimlu
+C:  para que también haya un poco de los que saben
+
+M: fey l'awen'tuulu 
+C:  aquellos que medicinan
+
+M: fey mülele feychi... feychi l'awen'tuam foro
+C:  y si existe aquello... aquello que medicine a los dientes
+
+M: feyta fey kümefuy ka
+C: esto sería bueno pues
+
+M: müleaychi kake kutran ka
+C:  quizas habrá otras enfermedades
+
+M: kake kutran ka *müleki kimngekelay
+C: también existen otras enfermedades que no se diagnostica
+
+M: feyti estudiangele
+C:  si eso se estudia
+
+M: kimlu fey akule <*SPA>o kiñe ñom elupale
+C: sí llega el que sabe o sí viene a dar algo
+
+M: fey... fey kümefuy, lamngen 
+C:  eso... eso sería bueno, hermana
+
+M: *mülimi fey kiñe küme l'awen'tualu
+C:  estas para medicinar bien
+
+M: kiñe küme rüf wülalu l'awen' 
+C:  alquien que verdaderamente de remedios
+
+M: kafey kiñe tripantu mülepanole
+C:  también si no se establece más de un año
+
+M: epu tripantu mülepale sino. 
+C:  sino está más de dos años.
+
+nfmcp-nmfc1_x_0094_nmfc_00: 
+M: <*SPA>que mülepale <*SPA>para <*SPA>siempre
+C:  que esté para siempre
+
+M: permaneselepale
+C:  si viene a permanecer
+
+M: fey feyta kümefuy lamngen
+C:  eso sí sería bueno, hermana
+
+M: <*SPA>o kiñe kay fau Wapimu kafey tripafule reke
+C:  y sí saliera uno de aquí de esta misma isla
+
+M: <*SPA>o chumngechi rume
+C:  o como quiera que sea
+
+M: ¿fey asümkawün mülepelayafuy? lamngen. 
+C:  ¿y quizas habría habilidades? Hermana.
+
+nfmcp-nmfc1_x_0095_nfmcp_00: 
+M: Fey kümefuy ka kümefuy
+C:  Eso sería bueno, también sería bueno
+
+M: <uh>feyta fey newentulefule pu che
+C:   eso si se mantuviera con fuerza la gente
+
+M:  fey mülerupuafuy ka, mülerupuafuy
+C:  eso llegaría a existir pues, llegaría a existir
+
+M: ka wechekeche ta *müli ta kimafulu ka
+C:  y los jóvenes estan para que adquirieran conocimientos pues
+
+M: fey feytachi dungu kafey l'awen'tuchem
+C:  entonces este asunto también el medicinar a la gente
+
+M: chumngechi ta l'awen'tuñngekemu ta foro
+C:  como se remedia los dientes
+
+M: ka chumngechi *tañ l'awen'tungeken ta fill kutran ka
+C:  y como se remedian también las distintas enfermedades pues
+
+M: fey soysoy kimngefule fey kümeafuy. 
+C:  sí eso se supiera cada vez más, eso sería bueno.
+
+nfmcp-nmfc1_x_0096_nmfc_00: 
+M: Feli llemay, lamngen fey mülellimay
+C:  Así está hermana, eso es lo que hay pues
+
+M: kiñeke wechekeche ka *müli
+C:  también hay algunos jóvenes
+
+M: ti wecheke domo
+C:  esas mujeres jóvenes
+
+M: welu fey kiñeke allkükelayngün 
+C:  pero algunas veces no escuchan
+
+M: ka allkütukelayngün sungungealengün
+C:  y ellos no escuchan para que les hablen
+
+M: <*SPA>ahora allkütufuleengün
+C:  ahora si ellos escucharan
+
+M: fey rume kümeafuy 
+C:  eso sería muy bueno
+
+M: kichu tani lapümuafelengün 
+C:  para su propio bienestar
+
+M: ka niele engün <*SPA> familia
+C:  y sí ellas tienen familia
+
+M: <*SPA>despue' nierupuleengün ka
+C:  y después si llegan  a tener
+
+M: feytafey llafküleafuyngün tati, lamngen. 
+C:  entonces ellas estarían bien pues, hermana.
+
+nfmcp-nmfc1_x_0097_nfmcp_00:
+M: May
+C:  Sí.
+
+M: Fey feleafuy <uh>
+C:  Eso sería así
+
+M: eymi ta ka ramtuayu <uh>
+C: a ti también te preguntaré
+
+M: amulechi kutran deuma 
+C:  la enfermedad ya avanzada
+
+M: ta rupalechi kutran deuma
+C:  la enfermedad que ya está pasando
+
+M: ta <uh> rupalechi feyti kutran
+C:  y esa enfermedad que ya ha pasado
+
+M: feyti l'awen'tungeafel <uh> ¿niepi ta l'awen'? 
+C:  para medicinarlo, ¿tendrá remedio?
+
+nfmcp-nmfc1_x_0098_nmfc_00:
+M: Nielay ka nielay
+C:  Claro que no tiene, no tiene
+
+M: fey niele fey laffuuyafuy
+C:  si tuviera ese se mejoraría
+
+M: ti wentru laffuuyafuy ti che
+C:  ese hombre aliviaría a la persona
+
+M: fey rupale ti kutran fey amuy 
+C:  y si se pasa la enfermedad entonces se va (muere)
+
+M: deu fey foroluwi 
+C:  cuando ya esta enraizado
+
+M: fey tripakelay, lamngen
+C:  eso no sale, hermana
+
+M: chumngechi rume fey re l'awen'mu ta tripay
+C:  como quiera que sea, sale sólo con remedios
+
+M: l'awen' kafey l'awen'mu *tügürki
+C:  con remedio también, y es que con remedio se calmó,
+
+M: welu fey feyti ella konlu chi kutran 
+C:  pero esa enfermedad que ha entrado recién
+
+M: ella petu  konkülelu, fey tañi l'awen' fey...    
+C: que recién a comenzado, entonces su remedio...
+

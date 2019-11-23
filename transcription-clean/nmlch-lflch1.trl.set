@@ -1,0 +1,20 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nmlch-lflch1_x_%04d_nmlch_00
+nmlch
+nmlch-lflch1_x_%04d_lflch_00
+lflch
+UserLables: 10
+*..
+..%
+<%>
+<*SPA>
+<Cough>
+<hm>
+<Laugh>
+<Noise>
+<uh>
+<uhm>
+LableMenuFile
+C:\Program

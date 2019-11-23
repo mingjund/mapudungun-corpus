@@ -1,0 +1,2520 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-lmfhp 
+; Last changes made on 10/04/2002 
+; Transcriber: Cristian C. Anton  
+; Comments:  
+; Traduce: Gloria Melipil.
+
+nmlch-lmfhp1_x_0000_nmlch_00:
+M: ¡Marimari ta chachay!
+C: ¡Buenos días tío!
+
+nmlch-lmfhp1_x_0001_lmfhp_00: 
+M: ¡Mari mari chacha!
+C: ¡Buenos días sobrino! 
+
+nmlch-lmfhp1_x_0002_nmlch_00: 
+M: ¿<*SPA>Y chumlimiam tüfa chumngechi ..= 
+C: ¿Y cómo ha estado?
+
+nmlch-lmfhp1_x_0003_lmfhp_00: 
+M: -/..Che *fey <*SPA>pu'
+C: 
+
+nmlch-lmfhp1_x_0004_nmlch_00: 
+M: Fey amuleay ngütram tüfa chachay
+C: Así iniciaremos nuestra conversación tío
+
+M: eymi kuyfi seuma ta nieymi <!1niymi> mongen
+C: usted ya ha vivido harto 
+
+M: tüfa chumli sungu
+C: cómo eran las cosas 
+
+M: ¿feula felekepeafuy ta kuyfi? .
+C: ¿ahora estará como antes? .
+
+nmlch-lmfhp1_x_0005_lmfhp_00: 
+M: ¿Mapuche dungun?
+C: ¿Cosas de los mapuche? 
+nmlch-lmfhp1_x_0006_nmlch_00: 
+M: May. 
+C: Sí.
+
+nmlch-lmfhp1_x_0007_lmfhp_00: 
+M: Mapuche dungu
+C: Cosas de los mapuches 
+
+M: *fey pichin ta *tukupayafeyu ta
+C: así le puedo dar un poco
+
+M: *tüfey <!1tüfi> ti iñchiñ taiñ ngillañmawün. 
+C: así como nosotros hacíamos rogativa. 
+
+nmlch-lmfhp1_x_0008_nmlch_00: 
+M: Feley llemaychi. 
+C: Así es pues. 
+
+nmlch-lmfhp1_x_0009_lmfhp_00: 
+M: Taiñ ngillatun
+C:  Nuestra rogativa
+
+M: taiñ chumlekefel ta kuyfi <!1kuyvi>
+C: de cómo eran antiguamente  
+
+M: fey <!1vey> iñchiñ ta fey
+C: y así nosotros 
+
+M: *feypikeymu ta pu weni
+C: así le dicen sus amigos 
+ 
+M: pu weniy wingka
+C: los amigos huincas
+
+M: *tüfachi pu mapuche kimlayngün
+C: estos mapuches no saben 
+
+M: *tüfa engün ta
+C: todos estos 
+
+M: *salfajeürke engün
+C: son salvajes ellos 
+
+M: pirkegeyiñmeu
+C: así nos decían 
+
+M: welu *felelay
+C: pero no es así 
+
+M: iñchiñ ñukeyem ta *machingefuy
+C: mi finada madre era machi
+ 
+M: *machingefuy taiñ ñukeyem
+C: era machi mi finada madre
+
+M: Manuela Pichulman Painen
+C: Manuela Pichulman Painen
+
+M: küme dungu *nentukefuy
+C: sacaba cosas buenas 
+
+M: küme *ngillatukefuy wenu mapu ta. 
+C: hacia buenas rogativas hacia el cielo esta. 
+
+nmlch-lmfhp1_x_0010_lmfhp_00: 
+M: Müley <!1müli> ta Chau Ngünechen
+C: Está el Padre Ngünechen
+
+M: *pikefeneu taiñ ñukeyem
+C:  me solía decir mi finada madre 
+
+M: *fey *amulekefuy ñi ngillatun
+C: y así seguía su rogativa
+
+M: küme ngillatuyiñ
+C: haciamos buena rogativa 
+
+M: *tutekefuyiñ ta Chau Ngünechen
+C: el padre genechen nos escuchaba 
+
+M: amuy ta kiñe wesa tripantu
+C: si pasaba un mal año 
+
+M: amuy ta *fey cosechamu
+C: iba también en la cosecha 
+
+M: *afese *fey mawi maulu
+C: a veces cuando iba a llover
+
+M: ngillatuy taiñ ñukeyem
+C: hacía rogativa mi finada madre
+
+M: welu pu *afkadi mülelu
+C: pero él que estaba a su lado 
+
+M: *fey tuterkelayngün
+C: ellos no lo hacíab bien 
+
+M: müley mayta chicha
+C: porque había chicha 
+
+M: müley mayta pulku
+C: también había vino 
+
+M: tutengelay ta chau ngünechen.
+C: no le hicieron caso al padre genechen. 
+
+nmlch-lmfhp1_x_0011_lmfhp_00:
+M: *Feula *fey ka ngillatungelu engün
+C: Ahora cuando nuevamente hicieron rogativa ellos
+
+M: *feula *fey ngelay pulku
+C: ahora ya no hay vino
+
+M: ngelay chichatun
+C: no hay chicha
+
+M: *feula *fey tuteyngün
+C: ahora si ya lo hicieron bien 
+
+M. rupay ta mau doy mawünlay
+C: paso la lluvia ya no llueve más
+
+M: feymu ta inche ta nien ta
+C: por eso es que yo tengo 
+
+M: *feyentun wüpiltun
+C: hice caso 
+
+M: *fey *feyentun ka pingetuy tati
+C: también le dicen que el hizo caso 
+
+M: *fey *feymu iñchiñ
+C: pues por eso nosotros 
+
+M: *feula *fey doy ta konkületuyiñ ta wingka
+C: ahora estamos más con los huincas 
+
+M: tañi in tañi pu peñi
+C: nuestros hermanos
+
+M: wingka welu chumley ta *fiflia. 
+C:  pero el huinca cómo esta la biblia. 
+
+nmlch-lmfhp1_x_0012_lmfhp_00: 
+M: Chumley ta <*SPA>mandamientu
+C: Cómo están los mandamientos 
+
+M: ta *fifliamu ka *felekay müten
+C: así no más es en la biblia 
+
+M: ta mapuche dungun
+C: en cosas de los mapuches 
+
+M: ka *felekay müten ta llellipun
+C: así también son las rogativas 
+
+M: ngillatun lukutuy
+C: de rodillas hace rogativa
+
+M: küme lukutuy
+C: se arodilla bien 
+
+M: welu küme duamngemu
+C: pero cuando se tiene buen pensamiento 
+
+M: *fey *faliltuy tañi sungun
+C: así se valoran nuestras cosas
+
+M: *faliltumi ta machi
+C: si valoras a la machi 
+
+M: *faliltumey ta *fileu iñchiñ
+C:  si valoraran lo nuestro 
+
+M: elüumetukiyiñ ta sungu meu
+C: si no entregaramos nuestras cosas 
+
+M: ngelay ta ini ta norümalu ta sungu
+C: no hay quien guíe bien las cosas 
+
+M: kiñe wentru kiñe *füchache. 
+C: un hombre, una persona de edad.
+
+nmlch-lmfhp1_x_0013_lmfhp_00: 
+M: Ngelay ta wenuntualu
+C: No hay quien las levante 
+
+M: yeweymautuy
+C:  tienen vergüenza 
+
+M: welu *felenoafulu iñchiñ ta
+C: pero no debieramos estar así nosotros 
+
+M: chumngechi kimi ta chuchi
+C: cómo sabe que 
+
+M: *mollfüñ rume gringu
+C: la sangre de gringo siquiera 
+
+M: *mollfüñ wingka kañi itrokom
+C: también la sangre de huincas 
+
+M: *feypikefuy taiñ ñukeyem
+C: así decía mi finada madre 
+
+M: kiñe ngünechen müten ta eleyiñmeu
+C: un solo genechen nos dijó
+
+M: konpay ta wingka ta *tüfachi mapu meu
+C: llegó el huinca en estas tierras 
+
+M: taiñ iñchiñ
+C: en donde nosotros 
+
+M: taku wün ngeam 
+C: para taparnos la boca 
+
+M: welu tañi üseunual
+C: pero para no tener rencor 
+
+M: üdeukelayaymün 
+C: no se tendran rencor 
+
+M: *pikefeneu taiñ ñukeyem
+C: me decía mi finada madre
+
+M: peñi ta *tüfey. 
+C:  es hermano aquel. 
+
+nmlch-lmfhp1_x_0014_lmfhp_00: 
+M: Peñi ta üsengekelay
+C: Al hermano no se odia 
+
+M: ka ruka tumu kata müley
+C: en los vecinos también hay 
+
+M: ta pu weniy
+C: los amigos 
+
+M: *fey üsengekelay
+C: tampoco a ese se odia 
+
+M: llasküki ta Chau Ngünechen
+C: se enoja el padre genechen 
+
+M: *pikefeneu ñi ñukeyem
+C: me decía mi finada madre 
+
+M: *fey *feley <*SPA>pu'
+C: y así es eso pues 
+
+M: *feley inche ta nien ta
+C: así es pues yo tengo 
+
+M: *fiflia fifliamu ta chem
+C: biblia,  en la biblia 
+
+M: *pikefeneu taiñ ñukeyem ka
+C: me decía mi finada madre también 
+
+M: *femngechi ta *felerkay <*SPA>los <*SPA>mandamiento.  
+C:  así deben estar los mandamientos. 
+
+nmlch-lmfhp1_x_0015_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-lmfhp1_x_0016_lmfhp_00:
+M: Kiñe ngünechen müten
+C: Un solo genechen no más 
+
+M: kiñe <*SPA>mandamiento
+C: un mandamiento 
+
+M: ka kiñe ngünechen müten
+C: también un solo genechen no más 
+
+M: ta mülerkelu *feyentukefiñ weupiñ
+C: hay, y en el creemos pues 
+
+M: *tukefiñ ngillatukellen may
+C: hacemos bien cuando le rogamos pues 
+
+M: apewün *fey ngillatuken
+C: hago rogativa de madrugada 
+
+M: ngellipuken taiñ kümeleal
+C: hago rogativa para estar bien 
+
+M: *fey *tüfa ta müley <!1müli> ta kewan
+C: ahora suele haber peleas 
+
+M: ta kamapu mapu meu
+C: en otras tierras lejanas 
+
+M: kamapu mapu meu ka müley <!1müli> ta
+C: en otras tierras también hay 
+
+M: *füchake mawün
+C: grandes lluvias 
+
+M: welu inche ngillatuken
+C: pero yo hago rogativa 
+
+M: femngechi ta ngillatuaymi
+C: de esta forma vas hacer rogativa 
+
+M: üdeukelayaymün
+C: no se odiaran 
+
+M: *pikefeneu taiñ ñukeyem
+C: me decía mi finada madre 
+
+M: rume kimi <*SPA>mi <*SPA>mamá.
+C:  sabía mucho mi mamá. 
+
+nmlch-lmfhp1_x_0017_lmfhp_00: 
+M: Mi ñuke
+C: Mi madre 
+
+M: <*SPA>quien <*SPA>paz <*SPA>descanza
+C: quien en paz dencanza
+
+M: <*SPA>ahora welu
+C: pero ahora  
+
+M: *feley doy *amulniafuy ta ngütram
+C: así seguiría nuestra conversación 
+
+M: soy *amulniafuy ta ngütram
+C: más avanzaría nuestra conversación 
+
+M: welu ka petu müley <!1müli> ta küpali ta antü
+C: pero todavía vienen días 
+
+M: taiñ trawütual 
+C: para juntarnos 
+
+M: taiñ ngütramkayal
+C: para conversar
+
+M: *tüfamu ta miawi tañi choküm
+C: aquí andan mi sobrinos
+
+M: inche tañi rukamu ta mülepay
+C: en mi casa está
+
+M: Florindo Maykiñir rukamu
+C: en la casa de Florindo Maiquiñir 
+
+M: <uh> *fey choküm *tüfa
+C: ese sobrino 
+
+M: <uh> Lius Cañiupil Huaiquiñir. 
+C:  Luis Caniupil Huaiquiñir. 
+
+nmlch-lmfhp1_x_0018_lmfhp_00: 
+M: Ilowe tuwi tañi weni
+C: Viene de la comunidad de Ilohue
+
+M: welu *mañumniefiñ
+C: pero estoy agradecido de él 
+
+M: *fey *tüfa *tüfa *fey
+C: y así este, éste 
+
+M: *tüfachi <*SPA>momento
+C: este momento 
+
+M: *mañumnefiñ taiñ che trokieteu
+C: le agradezco por tratarme como gente 
+
+M: *fey kiñeñpüle kunulaneu
+C: no me dejo a un lado 
+
+M: wütupaneu 
+C: me vino a ver, 
+
+M: petu ngütramkali ta
+C: vino a conversar
+
+M: *tüfa *fau anülepay. 
+C: aquí estuvo sentado. 
+
+nmlch-lmfhp1_x_0019_nmlch_00: 
+M: Feley <!1feli> tati chachay
+C: Así es pues tío
+
+M: tüfa <uh>eymi alün tripantu deuma nieymi <!1niymi>
+C: usted ya tiene muchos años 
+
+M: tami mongen meu
+C: en su vida 
+
+M: rulpaymi ta ngillatun
+C:  paso el gillatun 
+
+
+M: pikeymi <!1pikimi> llellipun <uh> tüfa <uh>
+C: decia en su rogativa 
+
+M: chempeafuymi 
+C: se debe acordar  
+
+M: chumngelu chi 
+C: por qué razón 
+
+M: machingekefuy che kuyfi
+C: eran machi las personas antes 
+
+M: ¿fill <*SPA>siempre mayta machingekefuy?
+C: ¿siempre habrán sido machi?
+
+M: ¿kam inichi machingekefeyu che?
+C: ¿o quién las hacía machi?
+
+M: eymi tami rakisuam mu
+C: en el pensamiento suyo 
+
+M: ¿chem piafuymi kay?
+C: ¿qué nos puede decir?
+
+M: ¿kam ngünechen sullikefuy re mapuche ta? 
+C: ¿o genechen solo elegía a los mapuches para esto?
+
+nmlch-lmfhp1_x_0020_nmlch_00: 
+M: ¿Machingealu?
+C: ¿Quién iba ser machi? 
+
+nmlch-lmfhp1_x_0021_lmfhp_00: 
+M: Ngünechen, Ngünechen ta adkunueyu
+C: Genechen,  genechen lo dejó así 
+
+M: Ngünechen ta sullintueyu
+C: genechen lo eligió
+
+
+
+M: dullintun somo
+C: elegir a la mujer 
+
+M: küme domo *üllkufe ngelay *
+C: una mujer buena no era mañosa 
+
+M: dallukafe ngelay
+C: que sea peleadora 
+
+M: *fey lli kisu tañi küyenmu
+C:  por su propia luna 
+
+M: ta fileu ngelay tati machi
+C: la machi no está 
+
+M: fileu pingekey <!1pingeki> ka chumley ta 
+C: se llama fileo a como está un 
+
+M: kiñe <*SPA>paston 
+C: un pastor 
+
+M: chumley ta kiñe kiñe pagre
+C: cómo está un padre 
+
+M: <*SPA>Cura ka *feley müten ta. 
+C: como está el cura también está ésta. 
+
+nmlch-lmfhp1_x_0022_lmfhp_00:
+M:  Machi <uh> femngechi ta iñchiñ
+C: Así tambien nosotros
+
+M: ta müley <!1müli> tañi *faliluwal
+C: tenemos que valorar 
+
+M: müley iñchiñ tañi
+C: nosotros debemos 
+
+M: *fey pita wingka sungumeu
+C: eso dice en el hablar de los huinca 
+
+M: müley <!1müli> taiñ ngütramkayal
+C: tenemos que conversar 
+
+M: müley <!1müli> tañi <*SPA>modernisayal tañi süngu
+C: tenemos que modernisar nuestras cosas 
+
+M: müley <!1müli> tañi *faliltuyafiel
+C: tenemos que volver a valorarlo
+
+M: müley <!1müli> tañi <*SPA>transformangeal
+C: tenemos que tranformarlos 
+
+M: ta *tüfey <!1tüfi> chi ngillaymawün
+C: ese tipo de rogativa 
+
+M: o ni ta *tüfeyta okaramu
+C: 
+
+M: waria pingetuy
+C:  la ciudad le dicen 
+
+M: ka anüli ta rewe 
+C: también está sentado el rehue 
+
+M: *faleltumenmu ta *tüfey <!1tüfi> 
+C: por que nos valoran 
+
+M: *faliltuy ta <*SPA>gobiernu
+C: nos valora el gobierno 
+
+M: *faliltuy ta <*SPA>senador. 
+C: lo valora el senador. 
+
+nmlch-lmfhp1 x_0023_lmfhp_00:
+M:  *Faliltuy ta <*SPA>diputado,
+C: Lo valora el diputado
+
+M: <*SPA>alcalde
+C: alcalde 
+
+M: *femngechi sungumu mületukiyiñ
+C: en esas cosas estamos 
+
+M: mületuay ta küme tripantu
+C: habrán buenos años 
+
+M: *feypikefeneu tañi ñukeyem
+C: así me decía mi finada madre 
+
+M: iñchiñ tañi %askafel iñchiñ
+C: para que nosotros siguieramos esa idea 
+
+M: *afkakiyiñ ta ngünechenmu
+C: dejamos de lado a genechen 
+ 
+M: *feymu kutrankamekiyiñ
+C: por eso estamos sufriendo 
+
+M: *pikefeneu tañi ñukeyem. 
+C: me decía mi finada madre. 
+
+nmlch-lmfhp1_x_0024_nmlch_00: 
+M: Malle feyta kiñe kiñe falin sungu
+C: Tio, esto es algo muy importante
+
+M: tukupeyu tüfa
+C: que acordamos ahora 
+
+M: ¿chemamta rewe pingey <!1pingi> ta mapuche meu? .
+C: ¿a qué le dicen rehue en mapuche? .
+
+lmfhp1_x_0025_nmlch_00fhp_00: 
+M: Rewe pingey <!1pingi> *tüfey
+C: Rehue le dicen a ese 
+
+M: *tüfeychi rewe
+C: a ese rehue 
+
+M: chumley ta kiñe <*SPA>pulpito
+C: así cómo esta un pulpito
+
+M: cheu ta dunguki ta kiñe <*SPA>pastor
+C: en donde habla un pastor 
+
+M: kiñe<*SPA> obisto risko
+C: un obispo 
+
+M: feyta reke müley <!1müli> ta *tüfey <!1tüfi>
+C: así cómo eso esté esto 
+
+M: *fey *foye ta *tüfey <!1tüfi> anüli
+C: así el canelo está plantado
+
+M: *fey *feytañi dungupemum
+C: ahí en donde hablan 
+
+M: *feyta *tüfichi mamüll
+C: así está esa madera 
+
+M: *tüfichi *foye
+C: aquel canelo 
+ 
+M: *femngechi dungumu
+C: en esas cosas 
+
+M: ta eleyu ta chau ngünechen
+C: nos dejó el padre genechen 
+
+M: *fey tañi witrapual ta pu werken. 
+C: para que se levanten los mandados. 
+
+nmlch-lmfhp1_x_0026_lmfhp_00: 
+M: Püllü müleyelu ta wenu mapu
+C: El espíritu que está sobre la tierra 
+
+M: *tüfey engün
+C: todos aquellos 
+
+M: ta *lif *lif *lif keche
+C: todas aquellas personas limpias 
+
+M: *lif ke wentru *tüfey engün
+C: son hombres limpios ellos 
+
+M: sipulayngün *tüfey engün ta
+C: 
+
+M: *pütufengelayngün
+C: no son gente que toman 
+
+M: *feymu ta iñchiñ
+C: por eso nosotros
+
+M: <uh> müley <!1müli> katrüal ka
+C: tenemos que cortar también
+
+M: *fey tañi iltun, ngillatun ta mülele
+C: si hay comida en una rogativa 
+
+M: pu doy tañi ngewenoam ta pülku,
+C: no debe haber más vino 
+
+M: pülku tuwelayayiñ 
+C: ya no tendremos más vino
+
+M: *tüfichi pulku re mudaymu llemay
+C: sólo será con muday pues
+
+M: *kuyfi ta *ngillatufuy
+C: antes hacían rogativa 
+
+M: *fey  *füchakeche inche ta
+C: pero nosotros somos personas de edad 
+
+M: *kimpafiñ inche. 
+C: vine a conocer eso. 
+
+nmlch-lmfhp1_x_0027_lmfhp_00: 
+M: Regle mari epu tripantu. 
+C: Setenta y dos años. 
+
+nmlch-lmfhp1_x_0028_nmlch_00: 
+M: Kuyfi seuma ta 
+C: Antiguamente ya 
+
+nmlch-lmfhp1_x_0029_lmfhp_00: 
+M: Kuyfi. 
+C: Antiguamente.
+
+nmlch-lmfhp1_x_0030_nmlch_00: 
+M: Feyti kiñe falin sungu ka tukupaymi tüfa
+C: Aquí recordó algo muy importante 
+
+M: *foye pipimi nga cheu tripaki foye
+C: dijo canelo ¿en dónde sale el canelo?
+
+M: tüfamu fey malle fill mapu 
+C: ahora tío, en distinto lugares 
+
+M: ¿kam feyta <uh> ütün mapumu tripakefuy foye?
+C: ¿o en un lugar determinado salía el canelo?
+
+nmlch-lmfhp1_x_0031_lmfhp_00: 
+M: Müley <!1müli> menokomu
+C: Hay en las vertientes
+
+M: cheu müley *fey chañchañko
+C: en donde esta el agua detenida  
+
+M: *fey *tüfey *fey cheu müleki *fega
+C: ahí pues,  en donde hay vega 
+
+M: pingetuy ka
+C: le dicen también 
+
+M: *feymu tripaki *tüfichi *foye
+C: ahí sale ese canelo 
+
+
+
+M: *feychi *foye kada uno nieki
+C: ese canelo cada uno tiene
+
+M: *foye ka müley <!1müli> ta añipe
+C: tambien hay canelo 
+
+M: *feyta machi tañi witrane pual ta *tüfey
+C: para que la machi lo tenga de pie 
+
+M: *femngechi ta adkunuy ta wenu mapu chau
+C: asi lo dejó el padre de arriba 
+
+M: *feymu ta rumel ta *feleay
+C: por eso es que está así
+
+M: *feypikefeneu tañi ñukeyem
+C: asi me decía mi finada madre 
+
+M: chucheken rume *aflayay ta ngillatun. 
+C: en ninguna parte se terminarán las rogativas. 
+
+nmlch-lmfhp1_x_0032_lmfhp_00: 
+M: Afle ngillatun
+C: Si se terminan las rogativas 
+
+M: itrokom dungu ta amuay
+C: se iran todas las cosas 
+
+M: pikefuy ngañi ñukeyem
+C: me decía pues mi finada madre 
+
+M: asike *fey *tüfa
+C: asi que ahí recién 
+
+M: *fey *fentren ñi ngütram ka
+C:  pero toda la conversación también
+
+M: peuliyiñ wüla ka ngütramkayayiñ. 
+C: cuando nos veamos seguiremos conversando.
+
+nmlch-lmfhp1_x_0033_nmlch_00: 
+M: Malle ¿feytinga <uh> feyti foye
+C: Tío  ¿y también el canelo?
+
+M: ka feytichi añpe yengu
+C:  tambien esta 
+
+M: rume falin mamüllürke anta
+C: es una madera muy valiosa 
+
+M: tüfey <!1tüfi> ta mongenmu
+C: en nuestras vidas 
+
+M: mapuche ñi mongenmeu.
+C: en la vida del mapuche.
+
+_x_0034_nmlch_00035_lmfhp_00: 
+M: Rume *fali tüfey <!1tüfi> konlay
+C: Es muy valioso 
+
+M: katrüngelay tañi carbonelngeal
+C: no se corta para hacer carbón 
+
+M: katrükangeal tañi malalngeal
+C: se corta para hacer cerco 
+
+M: *fey *femal müte
+C: eso no se debiera hacer mucho 
+
+M: ta eleyu ta chau ngünechen
+C: lo dejó el padre genechen 
+
+M: rangiñelwe ta *femngechi ta askunueyu werken
+C: de mediador, así como dejó al mensajero 
+
+M: koñi ta askunueyu
+C: así dejó a sus críos 
+
+
+
+M: feyta newen peneyu
+C: está le da la fuerza 
+
+M: inchin mayta nielayiñ
+C: nosotros pues no tenemos 
+
+M: ta nielayiñ ta papeltulayiñ
+C: nunca aprendimos a leer 
+
+M: tañi iñchiñ ta papeltulayiñ tañ mapuche ngen
+C: los que somos mapuche nunca aprendimos a leer
+
+M: welu müley <!1müli>  ta. 
+C:  pero hay quien. 
+
+nmlch-lmfhp1_x_0035_lmfhp_00: 
+M: Müley <!1müli> ta longko pu longko akuy
+C: Estan los logko que llegaron 
+
+M: ta *filewün akuy ta machimu
+C: también de todo llega donde la machi 
+
+M: *femngechi ta *kimfiyiñ
+C: de esta forma conocimos 
+
+M: chumlen ta süngu
+C: cómo están las cosas 
+
+M: chumngechi künun ta chau ngünechen
+C: así como lo dejó el padre genechen 
+
+M: *feymu iñchiñ müley <!1müli> tañi
+C:  por eso nosotros tenemos que 
+
+M: kümeke mapuchengen
+C: de ser buenos mapuches 
+
+M: *tüfa wesake mapuche ngelayayiñ doy
+C: no tenemos que haber mapuches malos 
+
+M: *üdengeafuyiñ <uh> welu
+C: nos pueden odiar 
+
+M: *fey *tüfa üsengewelayayiñ
+C: ahora ya no nos odiaran
+
+M: kiñeutuayiñ kiñeutuayiñ
+C: seremos uno solo 
+
+M: itrokom mollfüñ
+C: de diferente sangre 
+
+M: kiñeutuayiñ kiñeutuayiñ
+C: seremos uno solo 
+
+M: mapuche kiñeutuayiñ
+C: los mapuches seremos uno solo
+
+M: ta itrokom <*SPA>raza ta müley
+C: hay distintas razas
+
+M: kiñeutuayiñ kiñe. 
+C: seremos cómo uno solo. 
+
+nmlch-lmfhp1_x_0036_lmfhp_00: 
+M: Kiñe lelfünmu
+C: En un solo lugar 
+
+M: kiñe rukamu ngillatuayiñ
+C: en una sola casa haremos rogativas
+
+M: chumngechi ta ngillatuyiñ ta iñchiñ
+C: de la forma de que nosotros hacemos rogativa 
+
+M: y mapuche ngillatukiyiñ
+C: y nuestra rogativa mapuche 
+
+M: kisuengün kay chumngechi ngillatuyiñ
+C: y solo ellos también, así cómo hacemos rogativas 
+
+M: iñchiñ kichu tañi kewünmu ka
+C: también en nuestra propia lengua 
+
+M: *femngechi ngillaley pu wingka
+C: así hacen rogativa los huincas 
+
+M: pu gringo itrokom <*SPA>raza
+C: los gringos y todas las razas 
+
+M: *fey *femngechi *feypiaymi
+C: y de esta forma tienes que decir 
+
+M: *femngechi *femayiñ
+C: de esta forma lo haremos 
+
+M: pikefeneu tañi ñukeyem
+C: me decía mi finada madre 
+
+M: *fey *feley *fey ka chem *piafun.
+C: y eso es asi,  que más puedo decir. 
+
+nmlch-lmfhp1_x_0037_nmlch_00: 
+M: Malle feytika <uh>
+C: Tío y eso también  
+
+M: ¿eymi tami ñuke machingefuy
+C: ¿su madre era machi?
+
+M: tüfey <!1tüfi> rume alün kimün ta niekefuy
+C: y tenía mucho conocimiento
+
+M: ta feychi mongen meu <uh>
+C: en esa vida 
+
+M: feula fente küme alün kimün 
+C: ahora ese mismo conocimiento 
+
+M: niewetulay ta che
+C: ya no tienen las personas 
+
+M: somo wentru pikeymi <!1pikimi> tüfa?
+C: los hombres las mujeres dices ahora?
+
+nmlch-lmfhp1_x_0038_lmfhp_00: 
+M:*Feley welu müley <!1müli> ta kümeke püllü
+C: Así es, pero hay buenos espíritus  
+
+M: wesake püllü
+C: malos espíritus
+
+M: koila koilangeki ta *tüfeychi püllü
+C: mienten y mienten esos espíritus
+
+M: koilatuki welu müley <!1müli> ta kümeke püllü
+C: mienten,  pero hay buenos espíritus
+
+M: pelocheki müleyem peloche püllü
+C: hay quienes ven, quienes ven los espirítus
+
+M: *tüfeyta müley <!1müli> ta wenu mapu
+C: esto está en el cielo 
+
+M: müley <!1müli> ta *tüfey <!1tüfi> engün
+C: ahí están ellos 
+
+M: *feypikefeneu taiñ ñukeyem
+C: así me decía mi finada madre 
+
+M: trawüki ta wenuy mapu
+C: se juntan en el cielo 
+
+M: trawülüukingün ngütramkakingün
+C: se juntan para conversar 
+
+M: *fey nagümpaki ta ko
+C: ahí tiran el agua 
+
+M: *feypikefeneu ñukeyem
+C: así me decía mi finada madre  
+
+M: *feyentufiñ *feley <!1feli> *feleluam. 
+C: y le hice caso como es así.
+
+nmlch-lmfhp1_x_0039_lmfhp_00: 
+M: Welu *fey *tüfa iñchiñ
+C: Pero ahora nosotros 
+
+M: ngillatukiyiñ
+C: hacemos rogativa 
+
+M: soyngelayay ta pulku
+C: ya no habrá más vino
+
+M: müte putukeyiñ
+C: tomamos muchos 
+
+M: y müley ta müley <!1müli> tañi sukewal
+C: 
+
+M: müley <!1müli> *felewenual
+C: ya no debemos estar así
+
+M: piukeyeutuayngün mapuche
+C: los mapuches tienen que quererse 
+
+M: piukeyeutuayiñ wingka peñi
+C: al hermano huinca tenemos que quererlos
+
+M: *tüfey cringu  peñi
+C: aquellos hermanos gringos 
+
+M: müley kiñe ngünechen müten ta eleyiñmeu
+C: hay un solo genechen que nos dejó
+
+M: *pikefeneu tañi ñukeyem
+C: me decía mi finada madre 
+
+M: machi, machi *ñukengefun
+C: tenía una madre que era machi
+
+M: inche *fey tati fileu pingekey <!1pingeki>.
+C:  yo pues, fileo le decían. 
+
+nmlch-lmfhp1_x_0040_nmlch_00: 
+M: Feyti mallem <uh> eymi
+C: Y aquel tío suyo 
+
+M: tami ñukeyam machi fel
+C: como su madre era machi 
+
+M: <uh> mülekefulu mayta
+C: como también había 
+
+M: pütrake kaliutumu ..% kuyfi <uh>
+C: grandes eucaliptus 
+
+M: pipiminga mawelayngün mawülkefuy. 
+C: había dicho cuando querían hacer llover llovia. 
+
+nmlch-lmfhp1_x_0041_lmfhp_00: 
+M: May. 
+C: Sí.
+
+nmlch-lmfhp1_x_0042_nmlch_00: 
+M: Ka katuayu mawün
+C: También atajabamos la lluvia 
+
+M: ka katrütukefuy pipimi nga fey
+C: también lo atajaban dijo pues  
+
+M: <uh> chumkefuyngün nam
+C: que es lo que hacían 
+ 
+M: <uh> ¿ñi katrütu mawülam engün?
+C: ¿para atajar la lluvia ellos?
+
+M: ¿cheu amukefuyngün?
+C: ¿a donde iban? 
+
+
+M: ¿kisuengün kam mawelayem engün?
+C: ¿solos ellos o pedían ayuda?
+
+M: ¿cheu amukefuyngün?
+C: ¿a donde es que iban?
+
+M. ¿chumngechi ngillatukefuyngün? 
+C: ¿de qué forma hacían rogativas?
+
+nmlch-lmfhp1_x_0043_lmfhp_00: 
+M: Taiñ kümelal. 
+C: Para que estemos bien. 
+
+nmlch-lmfhp1_x_0044_nmlch_00:
+M: May. 
+C: Sí.
+
+nmlch-lmfhp1_x_0045_lmfhp_00: 
+M: *Fey kümelal 
+C: Para estar bien 
+
+M: kümengetual
+C: y que hayan buenos días
+
+M: katrüal ta mawün
+C: para atajar la lluvia 
+
+M: *pürakefuyiñ winkul meu.
+C: subíamos al cerro.
+
+nmlch-lmfhp1_x_0046_nmlch_00:
+M: ¿Winkulmeu?. 
+C: ¿En el cerro?
+
+nmlch-lmfhp1_x_0047_lmfhp_00: 
+M: May.
+C: Sí.
+
+
+
+M: winkulmu fey taiñ mawelay kay
+C: en el cerro, si de ahí viene la lluvia pues  
+
+M: askintunge tüfey
+C: se mira para todos los lados 
+
+M: konkefuyiñ ta yag yagmu
+C: entrabamos 
+
+M: yag yag pingey <!1pingi> ta tüfey <!1tüfi> cheu
+C: --------------------------
+
+M: *tüfey <!1tüfi> müley <!1müli> ta yag yag
+C:-----------------------
+
+M: *feymu amukefuyiñ
+C: ahí es donde íbamos
+
+M: *feymu *ngillamengekefuy ta ko
+C: ahí se le hacía rogativa al agua 
+
+M: *feymu mawelkefuyiñ ürkü
+C: ahí hacíamos llover 
+
+M: *feymu ta niyiñ ta kiñe küyentun
+C: por eso es que tenemos una luna 
+
+M: iñchiñ chumngechi ta chumley
+C: nosotros, de la manera que está 
+
+M: ta chumley ta pu peñi
+C: cómo están los hermanos 
+
+M: taiñ <*SPA>mandamientu
+C: nuestros mandamientos
+
+M: *fifliamu ta müley <!1müli> ta <*SPA>mandamientu
+C: en la biblia están los mandamientos
+
+
+M: mapuche ta ka.
+C: el mapuche también. 
+
+nmlch-lmfhp1_x_0048_lmfhp_00:
+M: *Femngechi ka *femngechi
+C: De esta forma también 
+
+M: <*SPA>mandamientu ta ni welu
+C: el mandamiento tiene pero
+
+M: iñcheam ñi ñukeyem
+C: mi finada madre 
+
+M: wedakunuy ta wiringeal
+C: deja todo mal al escribir 
+
+M: ta papelmu ta ñegal ta süngu
+C: llevar el conocimiento en un papel 
+
+M: *feymu ta el lay welu
+C: así no se olvidó, pero 
+
+M: <*SPA>memoria inarumen
+C: la memoria sigue quedando 
+
+M: kimelkawün *fey müley <!1müli> tati
+C: hay aprendizaje, eso hay pues
+
+M: <*SPA>cómo <*SPA>un cadenayitu amuley
+C: va como encadenado
+
+M: *femngechi ta amuleleayiñ
+C: y de esta forma iremos nosotros  
+
+M: *femngechi tañi mapuchengen
+C: de esta forma los que somos mapuches 
+
+M: welu *faliltuwayiñ *faliltuwayiñ
+C: volveremos a valorarnos 
+
+M: müley <!1müli> ta wenu mapu
+C: está el cielo 
+
+M: chau ngünechen ta eleyiñmu. 
+C: el que el padre genechen nos dejó. 
+ 
+nmlch-lmfhp1_x_0049_lmfhp_00: 
+M: Ini rume ta doy ta elayeñmu peuman
+C: Nadien más nos dejó en sueños  
+
+M: ta *niefuy taiñ ñukeyem
+C: tenía mi finada madre 
+
+M: *peumakefuy 
+C: solía soñar 
+
+M: *fey küme *peuma *niefuy
+C: ella tenía buenos sueños 
+
+M: chumngechi tañi peuma
+C: cómo eran sus sueños 
+
+M: itrokom *fey *tripalekefuy
+C: todos salía de igual forma 
+
+M: *l'awen'tuchekefuy
+C: le hacía remedio a las personas 
+
+M: mongelchekefuy <*SPA>y ka
+C: mejoraba a las personas también 
+
+M: *chumpeafun inche. 
+C: que puedo hacer yo. 
+
+nmlch-lmfhp1_x_0050_nmlch_00: 
+M: Alün kimün niefuy. 
+C: Tenía bastante conocimiento.
+
+nmlch-lmfhp1_x_0051_lmfhp_00: 
+M: May.
+C: Si.
+
+M: alün kimün *niefuy.
+C: tenía bastante conocimiento. 
+
+nmlch-lmfhp1_x_0052_nmlch_00: 
+M: Feyti kay malle
+C: Y eso también tío 
+
+M: eyminga pipeymi <!1pipimi>
+C: cómo usted dijo 
+
+M: fentrenchi mayta l'awen'
+C: muchos remedios pues 
+
+M: tupefuy ta kisu tañi mongenmeu
+C: sacaban para mejorarse por sí solos 
+
+M: kam petu chi mongeley chi
+C: o tal vez todavía está viva
+
+M: tañi l'awen' tupel
+C: a la persona que le hizo remedio
+
+M: fey cheuchi amufuy
+C:  quizas en donde fue 
+
+M: papeltual kichu fentren kimafiel
+C: a estudiar para así tener mucho conocimiento 
+
+M: kam Ngünechen elufiyu
+C: o tal vez genechen le dio 
+
+M: tüfeychi püllü.
+C: ese espíritu. 
+
+nmlch-lmfhp1_x_0053_nmlch_00: 
+M: Ngünechen Chau Ngünechen
+C: Ngünechen padre genechen
+
+M: werken püllü werken püllü
+C: el espíritu de un mensajero 
+
+M: *feyta *tufeyu wenu mapu
+C: y eso lo encontramos en el cielo
+
+M: peumaken chemuam müley <!1müli> machi
+C:  sueño en donde hay machi
+
+M: *tüfa <*SPA>pue Chau Ngünechen
+C: así pues, padre genechen 
+
+M: ta niey <!1ni> ta machi
+C: tiene la machi 
+
+M: *feypikefeneu ta werkün püllü
+C: así me decía mi mensajero del espíritu
+
+M: pelu peloy nga ta
+C: cunado ven la luz estas 
+
+M: <*SPA>pues <!1pu'> peloy ta *tüfey engün
+C:  cuando ven ellos 
+
+M: *feypikellefuy mayta tañi ñukeyem
+C: así decía pues mi finada madre 
+
+M: kiñekentu *feypi *
+C: algunas veces decía 
+
+M: fey kimelkawün ta niey
+C: ella tiene la sabiduría 
+
+M: satana ta *tüfey pi <*SPA>no
+C: satanás no, decía
+
+M: <*SPA>no <*SPA>es <*SPA>na'
+C:  no es para nada 
+
+
+M: <*SPA>satana 
+C: satanás
+
+M: <*SPA> no <*SPA>es <*SPA>na' *weküfü.
+C: no ese no es el diablo.
+
+nmlch-lmfhp1_x_0054_lmfhp_00:
+M: <*SPA>To' <*SPA>podemos
+C: Todos podemos 
+
+M: <*SPA>ser *weküfü
+C: ser un diablo
+
+M: <*SPA>pero <*SPA>segun <*SPA>su
+C: pero según su 
+
+M: <*SPA>obra pingey <!1pingi> tati wingka
+C: obra dice el huinca 
+
+M: dungunmu doy ta wingka
+C: el huinca que conversa más 
+
+M: dungun ama nieli iñchiñ
+C: cuando nosotros tengamos algo 
+
+M: *fey mapuche dungumu ta iñchiñ
+C: así nosotros en lengua mapuche 
+
+M: *pingetufel chi welu küme küme sungu
+C:  volvemos a decir, pero nuestras cosas buenas 
+
+M: tati küme dungu machi dungu
+C: cosas de machis son muy buenas 
+
+M: y ngillatun kürüf rume küme sungu. 
+C:  y la rogativa en el viento es mucho mejor. 
+
+nmlch-lmfhp1_x_0055_nmlch_00:
+M: ¡Ah! 
+C: ¡Ah!
+
+nmlch-lmfhp1_x_0056_lmfhp_00: 
+M: Ine am *tüfey <!1tüfi> iniam
+C: Pero quien es 
+
+M: *ngünefi tachi kürüf
+C: el que domina al viento 
+
+M: ¿iniam ngüney?
+C: ¿quién lo domina? 
+
+M: ¿*tüfichi waywen waywen llemay?
+C: ¿este viento del sur, del sur pues?
+
+M: ta küpali ta pelon küpali ta
+C: que trae la claridad
+
+M: *fey antü ngetuy 
+C: cuando hay esos días  
+
+M: mületuy ta antü rupay ta mau
+C: hay esos día pasa la lluvia 
+
+M: *fey mületual ta *tüfey <!1tüfi> tachi
+C:  y para que halla esto
+
+M: tachi küme antü
+C: este días mejores 
+
+M: *femngechi ta *feypikefuy ñi ñukeyem
+C: así decía mi finada madre 
+
+M: *fey ka, ka chem *piafun tati
+C: que más es lo que puedo decir  pues
+
+M: deuma tayi deuma ngütramkayu
+C: ya hace rato que estamos conversando
+
+M: *fentren ngütram ngitrayu. 
+C:  conversamos hartas cosas.
+
+nmlch-lmfhp1_x_0057_nmlch_00: 
+M: Feyti kay malle
+C: Pero eso también tío 
+
+M: welu petu pütrüli ramtun tüfey <!1tüfi><Laugh>
+C: pero todavía quedan bastantes preguntas
+
+M: tüfinga pipimi
+C: eso que ya ha dicho 
+
+M: <uh> ngünechen may
+C: genechen pues 
+
+M: elukeperkefiyu fentren rakisuam
+C: le habrá dado tanto conocimientos 
+
+M: fey kimkefuy l'awen'
+C: para que conozca remedios 
+
+M: ka kimkefuy kutran
+C: también conociera algunas enfermedades 
+
+M: <uh> papel tunoluam fey
+C: cómo nunca aprendio leer
+
+M: mongelkefuy kutran tüfey <!1tüfi>. 
+C:  mejoraba las enfermedades. 
+
+nmlch-lmfhp1_x_0058_lmfhp_00: 
+M: *Mongelkefuy ka
+C: También mejoraba 
+
+M: *kimkefuy doy doy akuy
+C: sabía mucho más 
+
+M: ñi rakiduam ka *kimkefuy
+C: en su pensamiento también sabía 
+
+
+M: ta chumlerupual ta tripantu. 
+C: cómo vendrían los años. 
+
+nmlch-lmfhp1_x_0059_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+M: soy üyüupüle. 
+C: más allá.
+
+nmlch-lmfhp1_x_0060_lmfhp_00: 
+M: May.
+C: Sí.
+
+M: *fey chumngechi mawün tripantu ngeal
+C: y cómo sería el año en lluvias 
+
+M: ka *kimkefuy ka
+C: también lo sabía pues 
+
+M: ka *feypingekentukefuy taiñ ñukeyem
+C: también solía decir eso mi madre 
+
+M: *feymu iñchiñ tremiyiñ
+C: así crecimos nosotros
+
+M: peñiwen *ngefuyiñ
+C: eramos hermanos 
+
+M: *mülefuy ta pu lamngen
+C: estaban las hermanas 
+
+M: *feypikefeneu ngülam llemayta
+C: así decia en su consejo ésta
+
+M: *niefuy küme ngülam
+C: tenía un buen consejo
+ 
+M: üseukelayaymün piukeyeukeaymün
+C: no se odiaran,  se deben querer 
+M: <uh> üsewülmün *weküfu
+C: si se odian,  el diablo
+
+M: *konpayafuy mupikefeneu
+C: puede entrar solía decirnos 
+
+M: taiñ ñukeyem *femngechi ta tremiyiñ. 
+C: así crecimos con mi finada madre. 
+
+nmlch-lmfhp1_x_0061_lmfhp_00: 
+M: Küme tremümeyiñmu taiñ ñukeyem
+C: Mi madre nos crió muy bien 
+
+M: küme machi ñukeyem
+C: muy buena machi mi madre 
+
+M: *femngechi ta *felefuy
+C: de esta forma estaba 
+
+M: *femngechi ta iñchiñ küme tremiyiñ
+C: por eso es que nosotros crecimos bien 
+
+M: iñchiñ *piukeyeukefuyiñ iñchiñ
+C: nosotros nos queriamos mucho
+
+M: *üdeukelafuyiñ.
+C: no nos odiabamos. 
+
+nmlch-lmfhp1_x_0062_nmlch_00:
+M: ¡Aa!
+C: ¡Ah! 
+
+nmlch-lmfhp1_x_0063_lmfhp_00: 
+M: <uh> *Feychi dungu *feychi ngütram
+C: Esas cosas, esa  conversación 
+
+M: *femngechi ta
+C: de esta forma pues 
+
+M: *femngechi müte ta mülekey <!1müleki> ta pütawentru
+C: de esta forma están los grandes hombres 
+
+M: *femngechi müten ta müliki ta kiñe,
+C: de esta forma es que están algunos
+
+M: kiñe küme, küme <*SPA>familia
+C: una buena, buena familia 
+
+M: yall pingetuy ta ka. 
+C: hijos también le dicen. 
+
+nmlch-lmfhp1_x_0064_nmlch_00: 
+M: Feley llemaychi
+C: Así es pues 
+
+M: feytikay malle tüfey <!1tüfi> <uh>
+C: eso también tío 
+
+M: ¿chumlekefuy kay kuyfi yagel?
+C: ¿cómo eran las comidas antiguamente?
+
+M: ¿chumleki feula?
+C:  ¿cómo son ahora? 
+
+M: ¿kuyfi ka felekefuy yagel?
+C: ¿así eran antiguamente las comidas?
+
+M: ¿kam kuyfi mülekefuy ka kangechi yagel?
+C: ¿o también antes había otro tipo de comida 
+
+M: ¿mülekefuy kam chem yagel?
+C: ¿qué tipo de comida había? 
+
+M: ¿mülekefuy ta ngillatun mu?
+C: ¿solía haber en las rogativas?
+
+M: müleki pingey <!1pingi> ta ngüllokiñ
+C:  dicen que había mollokin
+
+M: mültrün pingekey <!1pingeki> ka chemchi yagel
+C:  pan de trigo cocido le llaman la comida 
+
+M: chem fel chi pichi rakisuam
+C:  que sería eso en su pensamiento
+
+M: mafuymu feyti yagel
+C: 
+
+M: pipen nga malle tüfey <!1tüfi>. 
+C: había dicho pues tío.
+
+nmlch-lmfhp1_x_0065_nmlch_00: 
+M: Kuyfike yagel chumlekefuy kay. 
+C: Cómo era la comida antes. 
+
+nmlch-lmfhp1_x_0066_lmfhp_00: 
+M: *Kuyfike yagel müley <!1müli>
+C: Antes la comida 
+
+M: tikün müley müllokiñ
+C: en la siembra estaba 
+
+M: müley napor kuetun poñi
+C: esta el yuyo papas azadas 
+
+M: *sefolla kuetungi kütralmu tati. 
+C: se tuesta la cebolla en el mar.  
+
+nmlch-lmfhp1_x_0067_nmlch_00:
+M: ¡Aa! 
+C: ¡Ah!
+
+nmlch-lmfhp1_x_0068_lmfhp_00: 
+M: *Kofin trufkenmu rüngalngi
+C: Se entierra en cenizas caldiadas 
+
+M: *femngechi *ikefuyiñ.
+C: de esta forma se comia. 
+
+nmlch-lmfhp1_x_0069_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-lmfhp1_x_0070_lmfhp_00: 
+M: *Femngechi yagelmu tremün inche
+C: Con este tipo de comida creci yo 
+
+M: *fey *tüfa mayta ngewelay ngewenolun kam
+C: pero ahora ya no hay porque 
+
+M: *tüfeychi kudi ngewelay
+C: esa piedra ya no hay 
+
+M: *tüfeychi deumayalu ka. 
+C: tambien quien lo hace. 
+
+nmlch-lmfhp1_x_0071_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+ nmlch-lmfhp1_x_0072_lmfhp_00: 
+M: *Fey *tüfa mayta *fey 
+C: Pero esto pues 
+
+M: ¿cómo <*SPA>modernisando
+C: ¿cómo modernisando
+
+M: müley <*SPA>arroz
+C: hay arroz
+
+M: mületuy ta <uh> <*SPA>tallarines
+C: estan los tallarines
+
+M: <*SPA>fideu
+C: fideos
+
+M: welu iñchiñ ngealu
+C: pero que son para nosotros 
+
+M: akurki ta *tüfichi <*SPA>pu' pu peñi wingka
+C: lo trajeron los hermanos huincas
+
+M: konpay *fey <*SPA>
+C: ellos los trajéron 
+
+M: por <*SPA>mandamiento<*SPA> de Dios
+C: por mandamiento de Dios 
+
+M: kisu ñi ngünewünmu konpalay
+C: no es de su propio regalo
+
+M: *pikefeneu ñi ñukeyem. 
+C: me decia mi finada madre. 
+
+nmlch-lmfhp1_x_0073_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+nmlch-lmfhp1_x_0074_lmfhp_00: 
+M: Incheñ ñi ñukeyam
+C: Mi madre 
+
+M: *peumalngefulu
+C: le daban en sueños 
+
+M: *feymu ta *femngechi kimelngeken
+C: por eso de esta forma lo dejaron bien 
+
+M: *femngechi peumaken
+C: por eso es que sueño
+
+M: üdeukelayaymün pi
+C: no se odiaran 
+
+M: kümelkaleaymün üdechekelayaymün
+C: estaran bien no odiaran a las personas 
+
+M: piukeyeguaymün *pikefeneu.
+C: se ban a querer me decia.
+
+nmlch-lmfhp1_x_0075_nmlch_00: 
+M: Feypikefuy. 
+C: Eso decia. 
+
+nmlch-lmfhp1_x_0076_lmfhp_00: 
+M: *Feypikefuy. 
+C: Eso decia. 
+
+nmlch-lmfhp1_x_0077_nmlch_00: 
+M: <Noise> feyti fey ka kinkefuy 
+C: perop el tambien conocia
+
+M: mawayüm pipiminga
+C: 
+
+nmlch-lmfhp1_x_0078_lmfhp_00: 
+M: May. 
+C: Si.
+
+nmlch-lmfhp1_x_0079_nmlch_00: 
+M: Chumngechi chi kimkefuy mawayemkay. 
+C: Como es que sabia --------------
+
+nmlch-lmfhp1_x_0080_lmfhp_00:
+M: *Peumakeyefuy may. 
+C: Soñaba pues. 
+
+nmlch-lmfhp1_x_0081_nmlch_00:
+M: Peumakefuy. 
+C: Soñaba. 
+
+nmlch-lmfhp1_x_0082_lmfhp_00:
+M: *Peumakefuy werken
+C: Soñaba el mensajero 
+
+M: püllü ta *feypikefeyu
+C: el espiritu decia eso 
+
+M: *fey *feypingeken  müleayta
+C: eso me decían hay 
+ 
+M: *tüfamu müleayta
+C: aquí habra 
+
+M: wesa tripantu
+C: malos años 
+ 
+M: küme ngillatuaymün
+C: aran buenas rogativas
+
+M: ngolli kunuulayaymüm
+C: no se ban a envorrachar 
+
+M: y müley <!1müli> ta *tüfamu tripawe antü
+C: -------------------------
+
+M: ta allkütuley ta *tüfey <!1tüfi> chau ngünechen
+C: porque genechen esta escuchando 
+
+M: müleyem ta ngillatun miauki ta
+C: en donde hay rogativa anda el 
+
+M: *tüfichi werken püllü miali tañi <*SPA>libru. 
+C: este mensajero  anda con su libro.
+
+nmlch-lmfhp1_x_0083_lmfhp_00: 
+M: Chumngechi tañi ngillatuken engün
+C: De cómo es que hacen rogativa ellos
+
+M: taiñ ngillatuken ta inchin
+C:  cómo nosotros hacemos rogativas 
+
+M: chuchi ta *tüfichi wed wedka mekelu
+C:  pero quien esta haciendo locuras
+
+M: wed wedka dungulu
+C: el que habla cosas malas 
+
+M: itrokom ta anotakey ta
+C: todo lo anota él 
+
+M: *tüfey <!1tüfi> *pikefeneu ñi ñukeyem 
+C: eso me decía mi madre 
+
+M: *tüfeyta ni ta müpü engün
+C:  ellos tienen tierras
+
+M: *fey kawellu tiaukingün ka
+C: y andan a caballo 
+
+M: *pikefeneu ñukeyem
+C: me decía mi finada madre
+
+M:  *feymu rume
+C: por eso es que 
+
+M: *feley <!1feli> dungu ta ngillatun rume delikau
+C: así estan las cosas las rogativas son delicadas 
+ 
+M: *fey *pikefeneu ñi ñukeyem
+C: así me decía mi madre 
+
+M: *femngechi, *femngechi ina rume
+C:  de esta forma seguia 
+
+M: *niefiñ *feymu. 
+C: por eso es que lo tengo. 
+
+nmlch-lmfhp1_x_0084_lmfhp_00: 
+M: *Tüfeyta <*SPA>danza pi ta wingka
+C: Danza le llama el huinca 
+
+M: taiñ mapuchengen purun pi 
+C: los mapuches le llamamos purrun 
+
+nmlch-lmfhp1_x_0085_nmlch_00:
+M: Aa. 
+C: Ah.
+
+nmlch-lmfhp1_x_0086_lmfhp_00: 
+M: Pürualu ta *tüfey ngillatualu
+C: Va a bailar el que va a ser una rogativa 
+
+M: re pichikeche ta wünentukunungeki
+C:  los niños chicos ban primero
+
+M: wif küli tachi pichikeche
+C: estan alrededor los niños chicos 
+
+M: lukuleyngün wichuke ta
+C: todos estan de rodillas 
+
+M: *fey müley ta *tüfey engün
+C: ahí estan ellos 
+
+M: <*SPA>despue deu ngillatuyiñ
+C: despues que se hizo la rogativa 
+
+M: *feyta ka *mületukefuy ta purun
+C: ahí tambien habia vailes 
+
+M: <*SPA>danza pingey <!1pingi> tati wingkamu
+C: danza le llama el huinca 
+
+M: <*SPA>danza una <*SPA>danza
+C: danza, una danza 
+
+M: *feymu *fey müley <!1müli> ñi wichuke purual
+C: por eso hay que bailar separado
+
+M: *tüfichi ngillatun puedelay
+C: en el la rogativa no se puede 
+
+M: tañi wed wedkamekeal
+C: de estar haciendo desorden 
+
+M: kiñe weche wentru engu. 
+C: con una persona joven. 
+
+nmlch-lmfhp1_x_0087_lmfhp_00: 
+M: Kiñe pütapüra  kiñe purulayngün
+C: -----------------------------
+
+M: re wichuke *pürukefuyngün
+C: solo vailaban separados 
+
+M: *feypikefuy ñukeyem
+C: eso decia mi madre
+
+M: *feleki ngillatun
+C: así eran las rogativas 
+
+M: *feymu tuteki ta chau ngünechen
+C: de esta forma 
+
+M: *feymu ta tüteay *pikefüñ.
+C: decia que así le aria bien. 
+
+
+nmlch-lmfhp1_x_0088_nmlch_00: 
+M: rume alün yamünngefuy 
+C: --------------------------
+
+nmlch-lmfhp1_x_0089_lmfhp_00: 
+M: May.
+C: Si.
+
+M: konpa püllü *lekefuy llemay
+C: siempre le llegaba el espiritu
+
+M: tati küymin pingetuy tati. 
+C: entro en trance le dicen. 
+
+nmlch-lmfhp1_x_0090_nmlch_00: 
+M: Aa. 
+C: Ah.
+
+nmlch-lmfhp1_x_0091_lmfhp_00: 
+M: *Femngechi ta *ngütramtukefuy ngütram
+C: De esta forma combersaba 
+
+M: *ngütramtukefuy tañi ñukeyem. 
+C: conversaba mi finada madre. 
+
+nmlch-lmfhp1_x_0092_nmlch_00: 
+M: Aa.  
+C: Ah.
+
+nmlch-lmfhp1_x_0093_lmfhp_00: 
+M: Weluyi kiñekentuam
+C: Pero algunas veces era diferente 
+
+M: *feyta müngeltunolu
+C: algunas veces no lo sanaba 
+
+M: weupiltulay tati
+C: --------------------
+
+M: *feymu ta wedalkameketuy doy
+C: por eso lo sta haciendo cada ves mas mal 
+
+M: müley ta pulku
+C: porque hay vino 
+
+M: <*SPA>no pulku ta rechasau küley ta
+C: el vino esta rechasado 
+
+M: <*SPA>por <*SPA>mi <*SPA>mamá,
+C: por mi mamá
+
+M: <*SPA>por <*SPA>mi <*SPA>mamita
+C: por mi mamita 
+
+M: <*SPA> que
+C: que 
+
+M: <*SPA>en <*SPA>paz <*SPA>descanza
+C: en paz descanza 
+
+M: <*SPA>ahora y <*SPA>ta' *prifau
+C: ahora es privado 
+
+M: <*SPA>ese <*SPA>no <*SPA>debe
+C: eso no se debe 
+
+M: <*SPA>haber *fino
+C: haber vino 
+
+M: <*SPA>no, <*SPA>no
+C: no no 
+
+M: <*SPA>debe müley <!1müli> ñi ngenoal ta pulku
+C: no debe  haber vino 
+
+M: müley ngenoal ta chicha müley
+C: no tiene que haber chicha 
+
+M: tañi wed wedka dungunual
+C: para no hablar cosas malas 
+
+M: <*SPA>muy <*SPA>delicau
+C: eso es muy delicado 
+
+M: *femngechi ta *tutekefuy ta tuteaymün. 
+C: de esta forma salia todo bien. 
+
+nmlch-lmfhp1_x_0094_lmfhp_00: 
+M: *Pingekefuyiñ ngütram
+C: Decia en su conversación 
+
+M: tumeki tañi ñukeyem kompa püllüli. 
+C: cómo hacia mi madre cuando le llegaba el espiritu.
+
+nmlch-lmfhp1_x_0095_nmlch_00:
+M: Pelotukefuy chi. 
+C:  Tal vaz veia. 
+
+nmlch-lmfhp1_x_0096_lmfhp_00: 
+M: *Femkefi ka 
+C: Y de esta forma lo hacia 
+
+nmlch-lmfhp1_x_0097_nmlch_00: 
+M: Pelotukefuy. 
+C:  Veía. 
+
+nmlch-lmfhp1_x_0098_lmfhp_00: 
+M: *Pelotukefuy. 
+C: Veía. 
+
+nmlch-lmfhp1_x_0099_nmlch_00: 
+M: ¡Aa! 
+C: ¡Ah!
+
+nmlch-lmfhp1_x_0100_lmfhp_00:
+M: *Femngechi konpa püllüli
+C: De esta forma le entraba el espiritu 
+
+M: akuy ta pu longko
+C: llegaron los longkos 
+
+M: akun may ta *tüfa
+C: aquí llege pues 
+
+M: *pingefuy *fey *femngechiam
+C: le decian  pues así 
+
+M: *felelu pu machi mari mari
+C: estaban las machis, buenos dias  
+
+M: *tupakefeyiñmeu
+C:   nos venia a tocar         
+
+M: *femngechi ta *feley <!1feli>
+C: así es que esta 
+
+M: ta mapuche dungun qui *fachi mapu
+C: las la cultura de los mapuches aqui
+
+M: *feley <!1feli> *fey kam doy üyüupüle
+C: así es pero más allá 
+
+M: chewam tañi ka *felenoafel ka
+C: en donde no seria así 
+
+M: *felekay müten
+C:  así es no más 
+
+M: *femngechi ta *feley <!1feli> tati
+C: así estan las cosdas pues 
+
+M: *tüfey <!1tüfi> y choküm. 
+C: así es sobrino. 
+
+nmlch-lmfhp1_x_0101_nmlch_00: 
+M: Fey tüfey <!1tüfi> kay <uh> chumngelu
+C:  Pero esto porque
+
+M: chi kichuengün
+C: ellos solos 
+
+M: ka fenteke tukefuy mongen
+C: -------------------------
+
+M: taiñ pütakeche pingey <!1pingi>
+C: nuestras personas mayores 
+
+M: feyngepefuy may
+C: tal ves serian ellos 
+
+M: fentreke tukefuy mongen engün. 
+C: ellos tenian una vida larga. 
+
+nmlch-lmfhp1_x_0102_lmfhp_00: 
+M: *Fentreke *tukefuy mongen engün. 
+C: Tenian una vida muy larga. 
+
+nmlch-lmfhp1_x_0103_nmlch_00: 
+M: Kutran chengekelafuyngün ka engün pingey <!1pingi>. 
+C:  Se decia que no eran enfermiso. 
+
+nmlch-lmfhp1_x_0104_lmfhp_00:
+M: May. 
+C: Sí.
+
+nmlch-lmfhp1_x_0105_nmlch_00: 
+M: Kam yagelmu l'awen'
+C: O en los mismos alimentos 
+
+M: maukülekefuyngün chi 
+C: tal vez dormian ahí 
+
+nmlch-lmfhp1_x_0106_lmfhp_00:
+M: *fentreketukefuy mongen
+C: tenian la vida muy larga 
+
+M: welu *tüfey <!1tüfi> engün
+C: pero ellos 
+
+M: matetulayngün *kafe tulayngün
+C: no tomaban mate ni café 
+
+M: re iyagel yagel müten
+C: solo comida no más 
+
+M: ka mülelli mayta kofke. 
+C: tambien habia pan.
+
+nmlch-lmfhp1_x_0107_nmlch_00:
+M: Aa. 
+C: Ah.
+
+nmlch-lmfhp1_x_0108_lmfhp_00:
+M: Müley <!1müli> poñü itrokom
+C: Habia papas y todo 
+
+M: re müllokiñ müten mülelay
+C: no solo mollokin habia 
+
+M: re mültrün müten mülelay
+C: y no solo mültrün habia 
+
+M: inche *kimpafiñ *tüfey deuma,
+C: yo vine a conoser eso ahora 
+
+M: deuma kümeke iyagel
+C: pero ya las buenas comidas 
+
+M: müley kümeke iyagel
+C: hay buenas comidas 
+
+M: küme iyagel pingey <!1pingi> tati
+C:  buenas comidas le dicen 
+
+M: *fey welu ka *felekafuy
+C: pero eso tambien estaba así 
+
+M: tañi tañi in iñchiñ inche,
+C:  pero nosotros
+
+M: inche *fey matetulan y ñukeyem
+C: pero yo no tome mate, mi madre  
+
+M: ta *matetukefuy *femngechi ta
+C:  tomaba mate y así
+
+M: *alutukefuy ta mongen engün.
+C: le daba más vida a ellos. 
+ 
+nmlch-lmfhp1_x_0109_lmfhp_00:
+M: Welu amuleluam tripantu
+C: Pero cómo los años avanzan 
+
+M: *feymu ta *femngechi ta welu
+C: así de esta forma 
+
+M: *chumngeafuy
+C: que se le va a hacer 
+
+M: deu *femkunun chau ngünechen
+C: si genechen ya lo dejo así
+
+M: ñi *fenkunun ñukeyem
+C: mi madre lo dejo así 
+
+M: *feypikefeneu ngütramtuy
+C: asi me decia en su conversación 
+
+M: *peumakefuy rume chau ngünechen
+C: soñaba mucho con genechen 
+
+M: tañi *femkunun ini rume ta
+C: de cómo el lo dejo y ni nadien 
+
+M: *fey rütre layayu ta dungumu
+C: y n----------------------
+
+M: chau ngünechen ta
+C: padre genechen 
+
+M: *weupife chau ngünechen
+C: --------------------------------
+
+M: ta *tüfey <!1tüfi> ta *koyautufe küme, küme ngünechen
+C: antiguamente el buen genechen 
+
+M: *tüfey <!1tüfi> ta müley <!1müli> ta wenu mapu
+C: el que esta en el cielo 
+
+M: deumay ta mapu
+C: hizo la tierra 
+
+M: itrokom <*SPA>paise
+C: todos los paises 
+
+M: ta eli chau ngünechen tañi
+C: lo dejo padre genechen 
+
+M: *fenkunun ta *tüfey <!1tüfi>. 
+C: el lo dejo así. 
+
+nmlch-lmfhp1_x_0110_lmfhp_00:
+M: *Feypikellefeneu may
+C: Así me decia pues 
+
+M: *fey welu *kümelkakefuy
+C: pero el lo hacia bien 
+
+M: taiñ ñukeyem chumli ta
+C: mi madre y como esta  
+
+M: *fiflia <*SPA>mandamiento
+C:  la biblia los mandamientos 
+
+M: ka *felefuy müten ta ngütram ka
+C: así tambien estaba su conversación 
+
+M: *femngechi mandamiento
+C: estos mandamientos 
+
+M: kim papel *tufule
+C: para quien sabia leer
+
+M: *femngechi *elpuafuy ka
+C: así tambien lo dejaría 
+
+M: *fey tañi wirin welu iñchiñ
+C:  la escritutra de él  pero nosotros 
+
+M: *fantenmu kim papeltuyiñ.
+C: ahora ya sabemos leer. 
+
+nmlch-lmfhp1_x_0111_nmlch_00:
+M: Feley. 
+C: Asi es. 
+ 
+nmlch-lmfhp1_x_0112_lmfhp_00:
+M: Kim papeltuyiñ kim wiriyiñ
+C: Sabemos leer y escribir 
+
+M: *fey ka chem, ka chem
+C: pero que otra cosa 
+
+M: *piafun inche *fey choküm.
+C: puedo decir yo sobrino.
+
+nmlch-lmfhp1_x_0113_nmlch_00:
+M: Chumlekefuy mandamiento
+C: Cómo estaban los mandamientos 
+
+M: feula chumngechi pekimi
+C: ahora cómo used ve 
+
+M: ka felekefuy ñi rakisuam
+C: mi pensamiento tambien era así 
+
+M: tami ñuke kuyfi alkütukefuymi. 
+C: cómo antes escuchaba a su madre. 
+
+nmlch-lmfhp1_x_0114_lmfhp_00:
+M: Ka *felekefuy ka *felekefuy. 
+C: Tambien estaba así. 
+
+nmlch-lmfhp1_x_0115_nmlch_00:
+M: Aa. 
+C: Ah.
+
+nmlch-lmfhp1_x_0116_lmfhp_00:
+M: Ka *felekefuy. 
+C: Tambien estaba así. 
+
+nmlch-lmfhp1_x_0117_nmlch_00:
+M: Fentren kimün nierkefuy. 
+C: Tenia bastante conosimiento. 
+
+nmlch-lmfhp1_x_0118_lmfhp_00:
+M: *Fentren kimün *niefuy 
+C: Tenia muchos conosimientos 
+
+nmlch-lmfhp1_x_0119_nmlch_00:
+M: Aa. 
+C: Ah.
+
+nmlch-lmfhp1_x_0120_lmfhp_00:
+M: Chemuam *nielafuy kimelkawün
+C: De cualquier cosa tenia cosas buenas 
+
+M: chewam *nielafuy
+C: en donde ni tenia 
+
+M: *fey kiñe kimelkawün
+C: para estar bien 
+
+M: kiñe kimeltun
+C: un bien estar
+
+M: *tüfey <!1tüfi> *feypingetuy ta
+C: eso le dijieron 
+
+M: *tüfey <!1tüfi> wingkamu wingka peñi meu
+C: ahí con los hermanos huincas
+
+M: y <*SPA>santa *fiflia pingey <!1pingi>
+C: y la santa biblia le dicen 
+
+M: *tüfey *fey <*SPA>ese
+C: aquel ese ese 
+
+M: <*SPA>era <*SPA>
+C: era 
+
+M: una <*SPA>cierva <*SPA>de Dios
+C:  una cierva de dios 
+
+M: <*SPA>escogidos <*SPA>de Dios
+C: escogido de dios 
+
+M: <*SPA>ecogido <*SPA>
+C: escogido 
+
+M: quere <*SPA>decir dullintun domo
+C: quiere decir la mijer elegida 
+
+M: dullintueyu wenu mapu 
+C:  lo eligieron del cielo
+
+M: chau ngünechen
+C: padre genechen 
+
+M: *feymu ta *femngechi ta *feleyiñ
+C: por eso es que estamos así
+
+M: *femngechi ta iñchiñ ta. 
+C: por eso nosotros. 
+
+nmlch-lmfhp1_x_0121_lmfhp_00:
+M: Pekan ka che no iñchiñ ta chumley ta ka,
+C: No somos cualquier personas 
+
+M: kake peñi ka *felekayiñ müten
+C: otro hermano asi estamos no más 
+
+M: y ka chem, ka chem
+C: que otra cosa 
+
+M: *pingiafuy *tüfey müley key
+C: se le puede decir cómo el está 
+
+M: ta trawün müleki ta kimelkawün,
+C: en los encuentros 
+
+M: kimelkawün <*SPA>una
+C: de hacerce un bien 
+
+M: <*SPA>sabiduría kimelkawün
+C: una sabiduria  para estar bien 
+
+M: <*SPA>un <*SPA>una <*SPA>cultura
+C: un una cultura 
+
+M: papel müley <!1müli> tati. 
+C: para eso esta el papel. 
+
+nmlch-lmfhp1_x_0122_nmlch_00:
+M: *Feley llemaychi *feley llemaychi. 
+C: Así es pues asi es. 
+
+nmlch-lmfhp1_x_0123_lmfhp_00:
+M: <*SPA>Entonce iñchiñ ka
+C: Entonces nosotros tambien 
+
+M: *fey müley <!1müli> tañi *femal
+C: tenemos que hacerlo asi 
+
+M: *fey cheftun mapu itrokom mapu
+C:  por todas las comunidades 
+
+M: *feypilli may cheptun
+C: eso dijieron pues  
+
+M: mapu kichu tañi chau ngünechen
+C: la tierra es solo de genechen 
+
+M: tañi elel kichu tañi trünkür
+C: de dejar ---------------
+
+M: mapumu ta müliyiñ
+C: en la tierra estamos 
+
+M: mapuche werken püllü
+C: el mensajero espiritual mapuche 
+
+M: *feypi tati trünkür mapu pi
+C: eso decia .--------------------
+
+M: <*SPA>quere <*SPA>decir<*SPA>
+C: quiere decir 
+
+M: el <*SPA>mündo <*SPA>entero. 
+C: el mundo entero.
+
+nmlch-lmfhp1_x_0124_nmlch_00:
+M: Fey llemay chi
+C: Solo a él pues 
+
+M: ¿feyti kay lafken <uh> lafken mayta
+C:  pero tambien el mar 
+
+M: <uh> eleukepefuyu ta kiñeke
+C: le dejo una ves 
+
+M: pewütun lafken mülekepefuy
+C: --------------------------
+
+M: pewütun lafkenmu kay
+C: -----------------
+
+M: chumlial tripantu ka
+C: cómo vendra el año
+
+M: nüyüki nüyün pütake
+C:  grandes movimientos
+
+M: sungu rupay kuyfiam am tami mongen mu tüfey
+C: pasaron cosas antes en su vida 
+
+M: <uh> chumngechi pütake
+C: cómo grandes 
+
+M: nüyün kimpalaymi?
+C:  conosio los temblores 
+
+nmlch-lmfhp1_x_0125_lmfhp_00:
+M: Nüyen *mülekefuy nüyen 
+C: habian temblores 
+
+nmlch-lmfhp1_x_0126_nmlch_00:
+M: Ah. 
+C: Ah.
+
+nmlch-lmfhp1_x_0127_lmfhp_00:
+M: *fey *tüfichi nüyün
+C: pero aquel  temblor 
+
+M: *pikefuy ñukeyem
+C: me decia mi madre 
+
+M: *tüfey <!1tüfi> mayta kümel maputun 
+C: sera para dejar bien la tierra 
+
+nmlch-lmfhp1_x_0128_nmlch_00:
+M: Ah. 
+C: Ah.
+
+nmlch-lmfhp1_x_0129_lmfhp_00:
+M: *Chumlefel chemay
+C: Cómo estaba pues 
+
+M: *fey tañi newenkunungetual
+C: para dejarlo con más fuerza 
+
+M: ta kümel mapun ta *tüfey
+C: es para dejar bien la tierra 
+
+M: *fey neyüki ta *tüfey chemuam
+C:  por eso es que tiene 
+
+M: ta neyüki kümel mapum
+C:  por eso se mueve para que quede bien 
+
+M: küme elngetuy ta mapu
+C: dejan bien a la tierra 
+
+M: *feyta *kimlafiñ *femngechi
+C:  pero esto no lo conocí así 
+
+M: *feypikefuy kümel mapun
+C: así decia 
+
+M: newen kunungetual ta mapu
+C:  para que la tierra de deje con fuerza 
+
+M: *fey tañi müleal ta *feyentun
+C: para que aioga creencia 
+
+M: *fey tañi müleal ta ngünechen tañi mülen
+C: para que este genechen porque esta 
+
+M: *feymu ta nengümki ta mapu
+C: por eso se mueve la tierra 
+
+M: *feymu ta nüyüki ta *tüfey. 
+C:  por eso es que  mueve. 
+
+nmlch-lmfhp1_x_0130_lmfhp_00:
+M: Kiñekentuam
+C: Por que algunas veces 
+
+M: chem <*SPA>raza ngeay rume
+C: cualquier raza que sea 
+
+M: ngeweu ngelay ta Dios pingün
+C: ya no esta dios dicen 
+
+M: ngelay ta ngünechen
+C: no esta genechen 
+
+M: *feyta *mofelki tañi mapu nüyülki. 
+C:  así mueve su tierra.
+
+nmlch-lmfhp1_x_0131_nmlch_00:
+M: Aa. 
+C: Ah.
+
+nmlch-lmfhp1_x_0132_lmfhp_00:
+M: *Fey tañi *feyentuam engün
+C:  Para que ellos crean 
+
+M: ta pu ngulu taiñ pu'
+C: -----------------------
+
+M: mapu pu ngulu
+C: -------------------
+
+M: *feypikefuy taiñ ñukeyme
+C: me decia mi madre 
+
+M: *feyerke *feyta nüyüli
+C: este es que 
+
+M: kiñekentu ngelay ngünechen pi
+C: algunas veces no hay genechen 
+
+M: y *feyentuam engün
+C: y para que crean ellos
+
+M: pi *pikefuy tañi pu longko.
+C: decian nuestros presidentes.
+
+nmlch-lmfhp1_x_0133_nmlch_00:
+M: Ah. 
+C: Ah.
+
+nmlch-lmfhp1_x_0134_lmfhp_00:
+M: *Femngechi peumaken
+C: Así soñaba 
+
+M: ngütramkalerken
+C: estaba conversando
+
+M: *feypikefuy ñukeyem
+C: eso decia mi finada madre 
+
+M: *fey putualmün kay
+C: pero tampoco tomaran
+
+M: ya pütualmün,
+C: y al tomar 
+
+M: pütualmün mayta
+C: no tomaran 
+
+M: mesamu ta putuaymün inche
+C: en la mesa tomaran 
+
+M: tañi tunieteu mesamu ta putuy
+C:  porque tenia un mal tomaba 
+
+M: <*SPA>solamente un
+C: solamente un cañaso 
+
+M: <*SPA>cañaso<*SPA> no
+C: un cañaso no 
+
+M: <*SPA>ma, <*SPA>mas
+C:  no más 
+
+M: <*SPA>no ngollikelayaymi ngollilmi
+C: no se ba a envirrachar
+
+M: *falilayaymi *pikefeneu ñi ñukeyem.
+C:  no seras valorado me decia mi madre. 
+
+nmlch-lmfhp1_x_0135_nmlch_00:
+M: Ah. 
+C: Ah.
+ 
+nmlch-lmfhp1_x_0136_lmfhp_00:
+M: *Femngechi dungu
+C: Cosas cómo esta 
+
+M: *niefuy taiñ ñukeyem
+C: tenia mi madre
+
+M: *feymu *fantenmu ta
+C: por eso asta aquí 
+
+M: *femngechi ta *feletuy
+C: de esta forma esta 
+
+M: *felerki *feytichi ...
+C: así esta ese 

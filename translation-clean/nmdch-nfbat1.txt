@@ -1,0 +1,2918 @@
+; TRV: 00.00 
+; File: nmdch-nfbat1 
+; Last changes made on 24/04/2001 
+; Transcriber: María Elena  
+; Traduce: María Elena 
+; 
+nmdch-nfbat1_x_0000_nmdch_00: 
+M: ¿Chumeluam?
+C: ¿Por qué?
+
+M: feychi ko 
+C: ese agua
+
+M: feula fantepumeu
+C: ahora hasta ahora 
+
+M: <uhm> weda ko?
+C: agua contaminada? 
+
+M: <uhm> kutran ko piki ta che 
+C: agua contaminada dice la gente; 
+
+M: taiñ mapuchengenmeu 
+C: nosotros los mapuches.
+
+nmdch-nfbat1_x_0001_nfbat_00: 
+M: Feyti taiñ mapumu
+C: Esa es nuestra tierra
+
+M: mülerkelu ta <uhm> wedake ko
+C: como hay agua mala 
+
+M: ka kümeke ko ka 
+C: también agua limpia pues ;
+
+M: fey wecha <uhm> kontufielmeu chi mayta
+C: así por entrarle mal será pues 
+
+M: üllkukey ta pu ngen 
+C: se enoja los dueños 
+
+M: ngenke ko
+C: dueño del agua;
+
+M: feymeu 
+C: es por eso
+
+M: feyta kiñekemeu
+C: entonces algunas veces 
+
+M: kutranelkeymeu ka
+C: nos hace enfermar, también.
+
+nmdch-nfbat1_x_0002_nmdch_00: 
+M: Welu feychi ka
+C: Pero eso también,  
+
+M: feychi wedake <uhm> 
+C: esos malos, 
+
+M: müli ta ngenmawida,
+ C: existe dueño de montaña,  
+
+M: ngenwinkul 
+C: dueño del cerro 
+
+M: ngenmenoko pingekey
+C: dueño de un pantano dicen
+
+M: ta kiñekemu ka
+C: a veces también, 
+
+M: ka fau ka müli ka 
+C: aquí también hay.
+
+nmdch-nfbat1_x_0003_nfbat_00: 
+M: Ka müley llemay
+C: además también existen,
+
+M: feyti fotrantumo 
+C: en donde hay mucho barro; 
+
+M: feyta kiñekenmeu 
+C: entonces algunas veces;
+
+M:<uhm> witrakey ko pingekeiñ
+C: el agua se detiene, nos dicen 
+
+M: ka fey pichikechengemeu
+C: también así, porque éramos niños 
+
+M: ta fey feypiniekeiñ ñi pekankeyaunual 
+C: a si nos dicen que no andemos por andar,
+
+M: ka feymeu ñi kutrannual 
+C: también por eso, para no enfermarnos. 
+
+nmdch-nfbat1_x_0004_nmdch_00:
+M: Feychi ta feychi doctor ta feypielumu
+C: Ese, ese doctor que te dijo
+
+M: eymi amuaymi machimu pieymu
+C: tu vas a ir a la machi, te dijo, 
+
+M: fey feychi l'awen' tuleymu
+C: así, ese remedio te hizo bien 
+
+M: ¿fey feychi l'awen' doy kümelkaymeu?
+C: es ese remedio que te hizo bien.
+
+nmdch-nfbat1_x_0005_nfbat_00:
+M: May
+C: Sí.
+
+M: Feyta doy kümelkaeneu ka
+C: eso me hizo mejor, también 
+
+M: ka femechimeu
+C: así, también,
+M: fey kidu ka <uhm> kuñuitukülekeaymi 
+C: así, sola debes cuidarte 
+
+M: femngechi ñi <uhm> müte wütrekenual
+C: para que no pases mucho frío; 
+
+M: tami küme femiawal pieneu
+C: para que te sientas bien, me dijo;
+
+M: feymeu ta kidu l'awen'tuküleken ka 
+C: por eso, sola me hago remedio, también.
+
+nmdch-nfbat1_x_0006_nmdch_00: 
+M: ¿Chumngechiam tüfaluwimi machimeu?
+C: ¿Cómo se hizo ver la machi?
+
+M: ¿ini doctor feypieymu?
+C: Quién el doctor te dijo.
+
+M: ¿Welu eymi feyentukefimi?
+C: ¿Pero tu le crees? 
+
+M: femngen nien newen
+C: a penas tengo animo
+
+M: nien ta kümeke kimün ta machi 
+C: al tener buenos conocimientos la machi.  
+
+nmdch-nfbat1_x_0007_nfbat_00:
+M: May.
+C: Sí.
+
+M: Feyentuken ka
+C: También le creo
+
+M: feymeu tañi amual <%>  ta machimeu 
+C: por eso, debemos  ir a la machi.
+
+nmdch-nfbat1_x_0008_nmdch_00: 
+M: Feychi, feychi amulu eymi
+C: Esa vez, esa vez cuando fue usted,
+
+M: fey machimeu
+C: así a la machi, 
+
+M: ¿Chumechi peymu?
+C: ¿Como te diagnostico? 
+
+M: pelotuimeu chem yefimi?
+C: para que te diagnostique que le llevaste.
+
+nmdch-nfbat1_x_0009_nfbat_00: 
+M: pelotueneu 
+C: me diagnostico
+
+M: ta chem <uhm> <%> l'ay
+C: eso...que murió
+
+M: fey wülleñmeu 
+C: así en la orina.
+
+nmdch-nfbat1_x_0010_nmdch_00:
+M: May. 
+C: Sí.
+
+nmdch-nfbat1_x_0011_nfbat_00: 
+M: Feyta yelelfin 
+C: Eso le lleve 
+
+M: feymeu feyta pelotueneu 
+C: de esa forma entonces me vio,
+
+M: feymeu feypinierpeneu
+C: por eso, eso es lo que me dijo;
+
+M: chem tañi chumngechi küpan tañi kutran 
+C: Cómo y por qué me vino esa enfermedad 
+
+nmdch-nfbat1_x_0012_nmdch_00: 
+M: Welu weda kutran <*SPA>no ka 
+C: Pero no es una mala enfermedad, pues.
+
+nmdch-nfbat1_x_0013_nfbat_00:
+M: <*SPA>No weda kutran <*SPA>no
+C: No es una mala enfermedad no
+
+nmdch-nfbat1_x_0014_nmdch_00: 
+M: <%> Ka müli chi feychi weda kutran
+C: También hay tal vez esa mala enfermedad,
+
+M: ka nüngi <uhm> pünakey
+C: también cuando se toma se pega.
+
+M: ta chemu pingeki fey 
+C: como se llama eso.
+
+nmdch-nfbat1_x_0015_nfbat_00: 
+M: <*SPA>No fey <*SPA>no re, re ütre kutranerke pieneu
+C: No así, no puro, puro en una enfermedad de frío me dijo
+ 
+nmdch-nfbat1_x_0016_nmdch_00:
+M: May 
+C: Sí.
+
+nmdch-nfbat1_x_0017_nfbat_00: 
+M: Fey nieymi ta l'awen' pieneu
+C: Así, tiene remedio me dijo 
+
+M: fey würkenka 
+C: entonces mande alguien pues
+
+nmdch-nfbat1_x_0018_nmdch_00: 
+M: Fey fantepumeu
+C: Así hasta ahora.
+
+M: ¿Eymi nieymi feyentun?
+C: ¿Usted tiene obediencia? 
+
+M: machi feyentun?
+C: obedecimiento de la machi.
+nmdch-nfbat1_x_0019_nfbat_00: 
+M: May. 
+C: Sí.
+
+M: feyentukefin
+C: obedezco.
+
+nmdch-nfbat1_x_0020_nmdch_00: 
+M: Chem piafuimi kay 
+C: Que más puedes decir
+
+M: kakelu che tami pu lamngen 
+C: otras personas sus hermanos, 
+
+M: wentru lamngen 
+C: hermanos hombres, 
+
+M: domo lamngen 
+C: hermanas mujeres
+
+M: karukatu rukam ka che 
+C: los vecinos también son parte de la casa
+
+M: ka chem piafuimi kay 
+C: que más puedes decir pues,
+
+M: kutrankülelen pefimi 
+C: le vistes cuando estaba enfermo.
+
+nmdch-nfbat1_x_0021_nfbat_00: 
+M: Fey tañi utuafiel 
+C: Así debo ir donde él, 
+
+M: feytichi machiengün ka
+C: esas machis pues 
+
+M: ni kontuafiel  
+C: para visitar pues
+
+M: ta feyti kidu machi ñi kimün
+C: así éste propio conocimiento de la machi
+
+M: kümeke kimün
+C: buen conocimiento 
+
+M: ka müley mapu l'awen' ñi feyentualengün 
+C: también hay remedio de la tierra para que obedezcan,
+
+M: tunte amuleyenu pitalmeu
+C: por más que vaya al hospital
+
+M: tañi wingka l'awen'tual 
+C: para hacerce remedio chileno, 
+
+M: welu ka femechiley ñi <uhm> feyentual 
+C: pero también debemos obedecer,
+
+M: ka mapu l'awen'meu ka
+C: también remedios de la tierra, pues
+ 
+nmdch-nfbat1_x_0022_nmdch_00:
+M: Feychi mapu 
+C: Esa tierra 
+
+M: <hm> machi entuki ta mapumeu l'awen'
+C: la machi saca el remedio de la tierra 
+
+M: feyta kiduküneu
+C: entonces  me dejo solo 
+
+M: kidu ñi felen ta felelay 
+C: no esta así por estar, 
+
+M: ka niey 
+C: también tengo  
+
+M: ta nien
+C:  esto...tengo
+
+nmdch-nfbat1_x_0023_nfbat_00: 
+M: Feli llemay
+C: Así no más
+
+M: kidu ngüneukülelayngünka
+C: no se mandan solos, pues 
+
+M: mapu ka elunieyuengün ta l'awen'
+C: la tierra también les da remedio, 
+
+M: kidu tañi fütra mapu
+C: solo nuestra gran tierra;
+
+M: müley ta fillke l'awen' yenuam 
+C: existen distintos remedio 
+
+M: <uhm> newen ta nielu ka
+C: que tienen fuerza, pues 
+
+M: ka kiduke niey ñi nienengün ka
+C: también de uno que tienen pues 
+
+nmdch-nfbat1_x_0024_nmdch_00: 
+M: Feley eymi tami rakiduammeu may. 
+C: Así es... tú pensamiento pues.
+
+M: tüfachi mapuche mongen 
+C: éste vivir mapuche 
+
+M: <uhm> kiñekemeu 
+C: algunas veces 
+
+M: ta epe kiñeke lof 
+C: en casi...alguna comunidad;
+
+M: kiñeke lelfünmeu 
+C: en alguno lugares 
+
+M: newe mapudunguwelay ta che ka
+C: ya no hablan mapudungun las personas, pues
+M: mapudungu nienulu ka 
+C: si no tienen mapundugun pues 
+
+M: newe ayüwelay ta ngillatun
+C: no les agrada mucho el ngillatun 
+
+M: palin chem dungu
+C: el palin que cosa 
+
+M: chem mapuche dungu rume
+C: cualquier temas mapuche puede ser 
+
+M: eymi fey feychi rakiduam nielaymi ka.
+C: tú no tienes ese pensamiento, pues.
+
+nmdch-nfbat1_x_0025_nfbat_00: 
+M: <*SPA>No iñche feychi rakiduam ta nielan ka
+C: No yo no tengo ese pensamiento pues
+
+M: fey may iñcheam
+C: así como yo pues
+
+M: kimeltuche pichikechelelu
+C: enseñar a los niños... 
+
+M: feyta <uhm> kimtukunierpukefinengün 
+C: entonces esos lo estuvieron aprendiendo 
+
+M: tañi feychi dungu ta mülen
+C: que esa cosa existe 
+
+M: taiñ tañi feyentulerpual
+C: nosotros que obedescamos 
+
+M: taiñ witrampüram 
+C: nuestros levantamiento 
+
+M: nietual feychi kümeke dunguka 
+C: para tener esa buena cosa pues 
+
+nmdch-nfbat1_x_0026_nmdch_00: 
+M: Eymi tüfachi chilkatuwe
+C: Tú en éste colegio 
+
+M: kimeltuwe ruka küdauküleymi 
+C: trabajas en la casa del conocimiento.
+
+nmdch-nfbat1_x_0027_nfbat_00: 
+M: May 
+C: Sí.
+
+nmdch-nfbat1_x_0028_nmdch_00: 
+M: ¿Chem pingi ñi üy am tüfachi?
+C: ¿Cuál es el nombre de éste?.
+
+nmdch-nfbat1_x_0029_nfbat_00:
+M: Tüfachi kimeltuwe ka 
+C: Este colegio pues, 
+
+M: feyta <uhm> escuela Particular 114 Plom Metrengko 
+C: esta escuela Particular 114 Plom Metrenco 
+
+nmdch-nfbat1_x_0030_nmdch_00: 
+M: Feley 
+C: Así es.
+
+M: ¿Tunten pichikeche müley tami <uhm> kimeltukefiel tüfamu? 
+C: ¿Cuántos niños hay en tu escuela aquí?
+
+nmdch-nfbat1_x_0031_nfbat_00: 
+M: <uhm> Kom pichikeche
+C: Todos los niños, 
+
+M: feyta müley reglemari ka 
+C: este... hay setenta, pues.
+
+nmdch-nfbat1_x_0032_nmdch_00:
+M: Reglemari 
+C: Setenta.
+
+nmdch-nfbat1_x_0033_nfbat_00:
+M: Reglemari pichikeche
+C: Setenta niños.
+ 
+nmdch-nfbat1_x_0034_nfbat_00:
+M: Fill lof küpay ka 
+C: Vienen de distintas comunidades, pues
+
+nmdch-nfbat1_x_0035_nfbat_00: 
+M: May 
+C: Sí.
+
+M: Fill lof
+C: Distintas comunidades 
+
+M: faupüle müleyelu 
+C: los que están a éste lado, 
+
+M: fey küpakey fau 
+C: así vienen aquí.
+
+nmdch-nfbat1_x_0036_nmdch_00: 
+M: Fey kay <Throat> küdaukeymi 
+C: Así es que trabajas 
+
+M: fey re kimeltunuafen müten
+C: Así para enseñar no más,
+
+M: kam feyti <uhm> kontukulpakefimi
+C: oh ese entra sin culpa 
+
+M: <uhm> ñi küme mongen niealengün
+C: para tener un buen vivir 
+
+M: kümemu <uhm> küme -/ra/- <uhm> tremonialengün 
+C: es bueno que estén sanos.
+
+nmdch-nfbat1_x_0037_nfbat_00: 
+M: May
+C: Sí.
+M: feley pichikecheam 
+C: Así son los niños;
+
+M: fey müchayke kutrankeluengün
+C: Así se enfermaban ha cada rato 
+
+M: wütremu 
+C: en el frío 
+
+M: külchafeneu <*SPA>pa' pukemngen 
+C: se moja para el invierno 
+
+M: feyta <uhm> kimeltunierpukefinengün tañi <uhm> <%>
+C: entonces  les enseño a ellos mi...
+
+M: kam kuñiwtukuküleengün ka
+C: oh, para que tengan cuidado, pues
+
+M: ka kiduengün may 
+C: también solos, sí 
+
+M: <uhm> feypinierpueyu ñi pu che 
+C: les estoy diciendo a mi gente, 
+
+M: ñi l'awen'tualengün ka
+C: que se hagan remedio, pues 
+
+M: femechi kidu l'awen'tungekeyngün rukameu
+C: Así solos se hacen remedio en su casa 
+
+M: mapuche l'awen' 
+C: remedio mapuche;
+
+M: mapu l'awen' ka 
+C: remedio de la tierra, pues 
+
+M: femechi lef kutranenmeuengün ta fau chilkatuwemeu
+C: así cuando rápido aquí en el colegio, 
+
+M: fey yekefiñ  ta pitalmeu ka 
+C: así los llevos al hospital, pues.
+
+nmdch-nfbat1_x_0038_nmdch_00: 
+M: Welu tüfameu kay
+C: Pero acá pues,
+
+M: tüfachi kimeltuwe rukameu
+C: en esta casa del conocimiento,
+
+M: <%>chilkatuwe rukameu müley 
+C: en el colegio hay 
+
+M: akukey kay 
+C: llegan pues
+
+M: feyti pu doctor 
+C: esos doctores 
+
+M: kakelu che ñi l'awen'tupayafiel 
+C: para hacerles remedio a otras persona.
+
+nmdch-nfbat1_x_0039_nfbat_00:
+M: May 
+C: Sí
+
+M: akuki ta 
+C: llega pues
+
+M: fillke tripantu akukey
+C: todos los años llega;
+
+M: feyta chi pu Temuco waria mülelu 
+C: estos que están en el pueblo de Temuco,
+
+M: feyti <*SPA>consultorio Miraflores
+C: ese consultorio Miraflores,
+
+M: feyengün ta akukey 
+C: ellos llegan, 
+
+M: <uhm> vakunangepakey ti pichikecheka
+C: los vienen a vacunar a los niños, pues
+
+M: ñi kutrannualengün
+C: para que no se enfermen 
+
+M: ta fillke kutran ñi <%> 
+C: de distintas enfermedad tiene.
+
+nmdch-nfbat1_x_0040_nmdch_00: 
+M: Tunualengün
+C: Para no contagearse.
+
+nmdch-nfbat1_x_0041_nfbat_00: 
+M: Tunualengün 
+C: Para no contagearse.
+
+nmdch-nfbat1_x_0042_nmdch_00:
+M: Mapuchemeukay ngenule
+C: Para que en los mapuche no haya, 
+
+M: feyti akunuelmeu 
+C: ese por no lleguar, 
+
+M: feychi <*SPA>doctor
+C: ese doctor;
+
+M: <uh> feyti pu <*SPA>medico
+C: esos medicos;
+
+M: kakelu l'awen'tuchefe
+C: otros curandero 
+
+M: chumafuimün ka
+C: que pueden hacer, pues
+
+M: fau feyti mapu eyminga 
+C: aquí, esa tierra es tuya, pues 
+
+M: feyentun mapu machimu pikimi
+C: obedeces en la tierra de la machi dices 
+
+M:  fey tukungepakelay fau
+C: entonces no lo deja entrar aquí
+
+M: ¿tukupakelafimi?
+C: ¿no lo deja entrar?
+
+M: kellupakelayngün kutranniem pichikeche 
+C: no te vienen ayudar cuando se enferman los niños. 
+
+nmdch-nfbat1_x_0043_nfbat_00:
+M: Ta pu <uhm> kimlu mapu l'awen'
+C: Estos que conocen el remedio de la tierra.
+ 
+nmdch-nfbat1_x_0044_nmdch_00:
+M: May 
+C: Sí.
+
+nmdch-nfbat1_x_0045_nfbat_00:
+M: <*SPA> No petu feula -/fe fey/-
+C: No todavía, ahora sí;
+
+M: feula nütramyetufeiñ ta pu ngenke yall ka 
+C: ahora lo llevamos en comberzación 
+
+M: tañi feyentutualengün tañi mülen ta
+C: para obedecer al estar aquí, pues
+
+M: feychi kimlu mapu l'awen' ka 
+C: ese que conoce el remedio de la tierra, pues 
+
+M: welu petu konlentupalayngün
+C: pero todavía no han entrados  
+ 
+nmdch-nfbat1_x_0046_nmdch_00:
+M: Welu amuleymün dungu
+C: Pero avanzan en el tema
+
+nmdch-nfbat1_x_0047_nfbat_00:
+M: May
+C: Sí.
+
+M: Amulniefin ka
+C: Lo sigo pues
+
+M: ñochikechi
+C: con cuidado.
+
+nmdch-nfbat1_x_0048_nmdch_00: 
+M: ¿Chem kutranam doy tripakey fau? 
+C: ¿Qué enfermedades son los que más aparecen, aquí? 
+
+M: feyti pichikechemu doy kimniekey 
+C: esos en los niños se conoce más
+
+nmdch-nfbat1_x_0049_nfbat_00: 
+M: Feyti l'al'a kutran tripalu trawameu 
+C: Esa......enfermedad que sale en la piel; 
+
+M: ka feytichi kutran pütraengün
+C: también cuando se enferman del estomago, 
+
+M: chumngechi rume feyünmeu
+C: como sea en esa cosa 
+
+M: pekan ngenmeuengün
+C: por ser curioso 
+
+M: ka kutran pütrakeyngün
+C: también les da dolor de estomago, 
+
+M: ka feytichi foro kutran ka
+C: también ese dolor de muela, pues.
+
+nmdch-nfbat1_x_0050_nmdch_00: 
+M: Forokutran  
+C: Dolor de muela.
+
+nmdch-nfbat1_x_0051_nfbat_00:
+M: May.
+C: Sí.
+
+M: Feyta rume müley ti 
+C: Esto hay mucho sí.
+
+nmdch-nfbat1_x_0052_nmdch_00:
+M: ¿Fey chem, chem l'awen'?
+C: ¿Entonces, qué, qué remedio?
+
+M: ¿mapul'awen'am?
+C: ¿cómo remedio de la tierra?
+
+M: -/ku/- kümekey feychi foro kutranmeu
+C: es bueno para el dolor de muela.
+
+nmdch-nfbat1_x_0053_nfbat_00:
+M: Feytichi trarintukuaymün
+C: Eso tienen que amarrarse
+
+M: feyti tapül foye pikefiñ ka
+C: esa hoja de canelo le digo, pues
+
+M: ka müley 
+C: también hay,
+
+M: feyti kiñe fotrantumu tripaki kiñe l'awen' 
+C: ese uno que sale en el barro un remedio.
+
+nmdch-nfbat1_x_0054_nmdch_00: 
+M: May 
+C: Sí.
+
+nmdch-nfbat1_x_0055_nfbat_00:
+M: <uhm> Tapül kachu l'awen' 
+C: Hoja de remedio en pasto,
+
+M: feyta trarintukuaymün pikefin ta pichikeche
+C: eso se van amarrar les digo a los niños.
+ 
+nmdch-nfbat1_x_0056_nmdch_00:
+M: Kangelu kutrannga üytupeyminga feyti.
+C: La otra enfermedad que nombraste este...
+
+nmdch-nfbat1_x_0057_nfbat_00:
+M: ¿narnar?
+C: ........ 
+
+nmdch-nfbat1_x_0058_nmdch_00:
+M: narnar ¿Chumeluam tripaki?
+C: ......¿Por qué sale?
+
+nmdch-nfbat1_x_0059_nfbat_00: 
+M: Feyta <uhm> pekanka yawüymuengün
+C: Entonces anduvieron molestando,
+
+M: feymeu chi may tripakey
+C: por eso quizás sale, 
+
+M: kam mayta antümeu
+C: oh, tal vez por el clima;
+
+M: ta amunmu wütreke antü 
+C: al andar en el día frío,
+
+M: feymeu chi may tripakey
+C: por eso quisas sale,
+
+M: welu feyta mandakefiñ
+C: pero eso lo mando 
+
+M:  ta pitalmeu ka 
+C: al hospital pues.
+
+nmdch-nfbat1_x_0060_nmdch_00:
+M: ¡Aa!. 
+C: ¡Ah!.
+
+M: Werken pitalmeu.
+C: Mensajero del hospital.
+ nmdch-nfbat1_x_0061_nfbat_00:
+M: May.
+C: Sí.
+
+M: Feymeu 
+C: Por eso.
+
+nmdch-nfbat1_x_0062_nmdch_00:
+M: Feychi inanau kutran
+C: Ese me persiguio la enfermedad 
+
+M: feyta trawamu tripay 
+C: esto sale en la piel.
+
+nmdch-nfbat1_x_0063_nfbat_00:
+M: May.
+C: Sí.
+
+M: Trawameu 
+C: En la piel.
+
+nmdch-nfbat1_x_0064_nmdch_00:
+M: Pitru reke 
+C: Como granos.
+
+nmdch-nfbat1_x_0065_nfbat_00:
+M: Pitru reke 
+C: Como granos.
+
+nmdch-nfbat1_x_0066_nmdch_00:
+M: ¿Fey chem chumelu eymi kimeltuchefe?
+C: ¿Entonces usted por qué es educardor?. 
+
+M: ¿Chumelu trokifimi ni tripaken?.
+C: ¿Por qué cree que sale?. 
+ 
+nmdch-nfbat1_x_0067_nfbat_00: 
+M: Kiñekemeu 
+C: Algunas veces,
+
+M: feyta <uhm> pichikecheam kuidakenolu 
+C: como estos niños no se cuidan;
+
+M: chumngechi rume 
+C: como sea no más,
+
+M: fey dapiwlay 
+C: entonces no se cuido 
+
+M: kam <uhm> ñimitui kiñeke fün mamüll 
+C: oh escogio algún fruto de un palo,
+
+M: fey <*SPA>manzana pingey
+C: así manzana le llaman;
+
+M: fey podkülelu küchanuelam
+C: así, sucio no lo lavo, pues 
+
+M: fey femechimeu
+C: ahí entonces,
+
+M: feyta <uhm> tripakepelay 
+C: entonces no sale 
+
+M: feychi l'al'a kutran
+C: ese .....enfermedad 
+
+nmdch-nfbat1_x_0068_nmdch_00: 
+M: Welu tüfachi narnarkutran 
+C: Pero esta .............enfermedad
+
+M: kiñe pichi malen 
+C: una niña chica 
+
+M: ka kiñe pichi peñi akule 
+C: también un niño si llega, 
+
+M: niele tulufingün kay 
+C: si tiene les contagian, pues
+
+M: ka tuluafui che 
+C: también se puede contagear la persona.
+
+nmdch-nfbat1_x_0069_nfbat_00:
+M: May.
+C: Sí.
+
+M: Kiñekemeu ta tuluchi narnar
+C: Algunas veces se contagea ................
+
+M: feyta tuluwingün ka
+C: entonces se contagean, pues
+
+M: welu kiñekemeu tulukelayngün
+C: pero muchas veces no se contagean,
+
+M: kiñekemeu feyti l'al'a tripakey ta angemeu
+C: muchas veces eso ..............sale en la cara 
+
+M: ka kiñekemu kom, kom kalül ka 
+C: también muchas veces todo, todo en el cuerpo, pues
+
+M: welu kiñekemeu 
+C: pero muchas veces
+
+M: feyta tuluanchi l'a l'a
+C: entonces tomo ..................
+
+M: fey tuluwingün
+C: esos se contagearon 
+
+M: ka kiñekemu tuluwkelayngün 
+C: también a veces no se contagean.
+
+nmdch-nfbat1_x_0070_nmdch_00:
+M: Feychi tüfachi l'al'a kutran kay 
+C: Entonces esto .............nfermedad, pues
+
+M: feychi pichikechi niele 
+C: entonces los niños tienen
+M: ka tañi pu chau -/ñu/- nuke
+C: también mi padre, mamá 
+
+M: feychi pichiche pichikechi ka nietui pikingün 
+C: entonces niños, niños también tienen dijerón
+
+M: may niekepeyngün may
+C: sí... tienen que tener sí.
+
+nmdch-nfbat1_x_0071_nfbat_00: 
+M: Feyta <uhm> ayeniekey 
+C: Entonces se burla,
+
+M: ñi kom, 
+C: para todos, 
+
+M: kom ñi l'awen'tufalengen
+C: todos se hagan remedio 
+
+M: ka chau nuke
+C: también mi madre 
+
+M: ka niele pu pichike lamngen 
+C: también si tiene hermanos menores,
+
+M: feyta kom <uhm> feypikefiñ 
+C: entonces a todos les digo
+
+M: amual ta pitalmeu 
+C: para que vayan al hospital 
+
+M: ñi l'awen'tufaluwalengün.
+C: para hacerse remedio. 
+
+nmdch-nfbat1_x_0072_nmdch_00: 
+M: Fey ka tüfachi foro kutran kay 
+C: Así también el dolor de muela pues,
+
+M: ¿chumngeluam rüf% kom pu che? 
+C: ¿por qué, en verdad todas las personas?  
+M: ta mülelu fill lof
+C: que viven en distintas comunidades 
+
+M: lof mapu reke müleki tüfachi kutran
+C: comunidad tierra hay esta enfermedad
+
+M: ¿chumngelu kay tüfameu?
+C:  ¿por qué pues aquí?.
+
+nmdch-nfbat1_x_0073_nfbat_00: 
+M: Fey taiñ ñi ta pichikeche 
+C: Así nuestros niños,
+
+M: ta newe tañi <uhm> sapiwlayngün 
+C: no se cuidan mucho 
+
+M: ka sapilay taiñ tañi foroengün 
+C: también no cuidan nuestros dientes ellos  
+
+M: foroam sapi, sapiñeñmeu 
+C: los diente se debe cuidar 
+
+M: feyta küme, 
+C: entonces buena, 
+
+M: küme foro ta nieiñ ka
+C: buena dentaduras tenemos pues,
+
+M: feulamu 
+C: ahora, 
+
+M: feyta rume pirukeyngün
+C: entonces tienen muchos caries
+
+M: piru foronieyngün 
+C: tienen dentaduras con gusanos,
+
+M: feymeu feyta kutran weluken
+C: por eso entonces me enfermo 
+
+M: kutrankeyngün 
+C: se enferman.
+
+nmdch-nfbat1_x_0074_nmdch_00:
+M: ¿Chumeluamkay fey kuyfimeu 
+C: ¿Por qué entonces así en la antigüedad,
+
+M: ta femkelafuy pingün ta 
+C: no les pasaba eso, dicen ahora. 
+
+nmdch-nfbat1_x_0075_nfbat_00: 
+M: Feyti iyalmeu trokikefiñ iñche
+C: Esa comida me parece 
+
+M: iyalmeu peno 
+C: la comida debe ser 
+
+M: fantepuam newe ingewenolu 
+C: en estos momentos no se come mucho,
+
+M: feyti <uhm> mapun yael 
+C: esa comida de la tierra;
+
+M: re wingka iyal rume tripaynga 
+C: salieron puras comidas de chileno 
+
+M: feytichi kochilu
+C: eso dulce 
+
+M: kochilu pichike fill <*SPA>golosina 
+C: dulces chicos de todo tipos de golosinas 
+
+M: feyti pichikeche fantepu rume ingün ka
+C: esos niños ahora comen mucho, pues
+
+M: feymeu peno 
+C: por eso debe ser 
+
+M: fey wecha foro nieyngün
+C: Así tienen mala dentadura.
+nmdch-nfbat1_x_0076_nmdch_00:
+M: Ka feychi iyael pimi
+C: También esa comida dijistes,
+
+M: fey chem iyaluam 
+C: así que debe comer.
+
+nmdch-nfbat1_x_0077_nfbat_00: 
+M: Fantepu iñche nütramkakefin pichikeche 
+C: Hoy en día yo les conversó a los niños,
+
+M: feyti kimngewelay reke 
+C: eso no lo conocen casi
+
+M: feyti mapu ni iyael
+C: esa comida de la tierra
+
+M: kiñe rukameu müten 
+C: en una casa solamente
+
+M: <uhm> deumakeyngün ka 
+C: lo preparan pues
+
+M: feytichi tükün kachilla 
+C:  ese locro de trigo 
+
+M: <uhm> mültrun tuwelay 
+C: ya no come catuto
+
+M: kiñeke kimwelay rume  ni pichikeche
+C: algunos no conocen, ni siquiera los niños 
+
+M: ni ta chem ta mültrun
+C: que es el catuto,
+
+M: ka feyti <uhm> fill mapu ni iyael
+C: también la comida de distintas tierra 
+
+M: ka kiñeke pidkuwelay pu domo 
+C: también algunas mujeres no cocinan legumbres
+M: re wingka iyal müten 
+C: pura comida de huinca solamente
+
+M: feyti fiseo pingün
+C: ese fideo dicen 
+
+M: feychi iyal müten ta yeniefi pichikeche 
+C: esa comida solamente lleva los niños
+
+M: feymeu kütu peno 
+C: por eso yo creo.
+
+nmdch-nfbat1_x_0078_nfbat_00: 
+M: Fill wedake kutran tripakey
+C: Salen distintas malas enfermedades
+
+M: ta <uhm> pichikechemeu 
+C: en los niños pues.
+
+nmdch-nfbat1_x_0079_nmdch_00: 
+M: Ka feychi piru foro chumngeluam 
+C: También el tiene caries en la dentadura,
+
+M: wefki feyti kochilumu müten
+C: se produce por lo dulce solamente.
+
+nmdch-nfbat1_x_0080_nfbat_00: 
+M: Kochilumu ka
+C: Por lo dulce pues.
+ 
+nmdch-nfbat1_x_0081_nmdch_00: 
+M: Am kam newe dapinuyum ka 
+C: Oh también no hay higíene pues
+
+nmdch-nfbat1_x_0082_nfbat_00: 
+M: Ka newe dapinngenonmu ka 
+C: además no tiene mucho higíene pues. 
+
+nmdch-nfbat1_x_0083_nmdch_00: 
+M: ¿Fey chem pikiam
+C: ¿Entonces que dice 
+
+M: feychi ngen yall kay?
+C: el dueño hijo pues.
+
+nmdch-nfbat1_x_0084_nfbat_00:
+M: <uhm> Fey femechi iñche -/nütram/- nütramkafeneu 
+C: Así de esa forma yo me conversaba pues
+
+M: ni, ni dapiñial ta foro 
+C: para, para cuidar sus dentaduras
+
+M: ti pichikeche 
+C: esos niños 
+
+M: petu feula püraletui chi foro 
+C: todavía le esta saliendo los dientes,
+
+M: ñi küme foro nieluengün 
+C: para que tengan buenas dentaduras
+
+M: fey kümey ni dapialengün 
+C: entonces es buena la higiene
+
+M: ka ñi <uhm> wedake pekankealyenuaelengün
+C: también para que no anden sin motivo, 
+
+M: ka tañi lichi, lichitualengün 
+C: también leche deben tomar leche 
+
+M: feypikefinengün 
+C: eso les digo pues.
+
+nmdch-nfbat1_x_0085_nmdch_00: 
+M: Feychi <hm> mapuche iyael kay 
+C: esa comida mapuche pues.
+
+M: ¿Chem iyal kay doy <uhm> doyumngeki fau
+C: ¿Qué comida se prefiere más aquí, pues 
+
+M: tüfachi eymi kimeltukefimi 
+C: esto tu lo enseñas, 
+
+M: ñi chumechi ñi deumangeal 
+C: como se puede preparar.
+
+nmdch-nfbat1_x_0086_nfbat_00:
+M: May
+C: Sí.
+
+M: ta mapu iyael 
+C: comida de la tierra,
+
+M: feytichi <uhm> mülenmeu kiñemeu
+C: esos que estas algunas veces
+
+M: ta nag kachilla
+C: bajo el trigo 
+
+M: ka tripakey feyti napor
+C: también sale ese yuyo
+
+M: napor tuaymün pikefinengün
+C: yuyo tienen que comer les digo,  
+
+M: mürketuaymün pikefinengün
+C: deben comer arina, les digo 
+
+M: ka ñi <uhm> tükün kachilla
+C: también locro de trigo 
+
+M: <uhm> -/kora/- korütualengün ka
+C: para que hagan sopa, pues 
+
+M: welu ti pu ngenke püñeñ ta
+C: pero las dueñas de los hijos pues,
+
+M: feyta ka feypikefinengün
+C: entonces también les digo,  
+
+M: ni femechi re wingka iyaltulealengün
+C: así de esta manera pura comida
+
+M: femechi ñi doy, doy küme felealengün ka 
+C: así para que estén mucho mejor, pues.
+
+nmdch-nfbat1_x_0087_nmdch_00: 
+M: Feychi kutran foro deuma piruyem
+C: Esa enfermedad de dentadura que esta infectada, 
+
+M: chumkiam chi pichikeche
+C: que le sucede con el niño, 
+
+M: küpaki pu -/enge/- entuki ni foroengün
+C: viene para sacarle sus sentaduras, 
+
+M:  chewam amukeyngün kam küpaki pu.
+C: en donde van, oh vienen pues.
+
+nmdch-nfbat1_x_0088_nfbat_00:
+M: May
+C: Sí.
+
+M: tüfa <uhm> wengepu ula pu 
+C: esto es nuevo recién pues 
+
+M: kiñe <uhm> kamelngepelay ula
+C: puede ser como un año esto;
+
+M: fey llitui kiñe <*SPA>programa 
+C: así comenzo un programa, 
+
+M: feyti pital Makewe
+C: en el hospital Maquehue,
+
+M: feyti <*SPA>salu' <*SPA>bucal pingi ñi üy 
+C: ese salud bucal se llama 
+
+M: feyta kom müley chi chilkatuwe ruka 
+C: entonces están todos en casa de estudio
+M: faupüle tüfachi fütra lofpüle
+C: por estos lados esta gran comunidad.
+
+nmdch-nfbat1_x_0089_nmdch_00:
+M: Lof <hm> 
+C: Comunidad.
+
+nmdch-nfbat1_x_0090_nfbat_00: 
+M: Feyta <uhm> amukeyngün 
+C: Entonces van,
+
+M: ka koneltukeyngün ñi l'awen'tungealengün
+C: también participan para que sean remediados
+
+M: ka ñi <*SPA>tratamiento deumalelngekeyngün
+C: también para se les haga tratamientos.
+
+M: ni foromu pichikeche
+C: sus dentaduras a los niños
+
+M: kiñeke nentumayngen ñi foro 
+C: alguno se le saca la muela 
+
+M: ka kiñeke liftuimangekeyngün
+C: también algunos se le hace una limpieza;
+
+M: ka tukulekeyngün kiñe pichi lapan
+C: también les colocan una tapadura chica
+
+M: tukulelngekeyngün ñi küme ñi fütranueluengün 
+C: le colocan bien para que no aumente 
+
+M: fey <uhm> kiñe, kiñe küyen amukey
+C: así un, un me, mes van;
+
+M: kiñe <*SPA>colegio ka
+C: un colegio pues, 
+
+M: ka küyen amukey kangelu 
+C: también el otro mes le corresponde al otro.
+M: femechi tiwaykülepurkey ti dungu
+C: de esa forma va dando vuelta las cosas 
+
+nmdch-nfbat1_x_0091_nmdch_00: 
+M: Kiñeke chilkatuwe ruka
+C: A veces, en la casa del conocimiento,
+
+M: amukey küyenmu
+C: va en los meses.
+
+nmdch-nfbat1_x_0092_nfbat_00:
+M: May 
+C: Sí.
+
+nmdch-nfbat1_x_0093_nmdch_00: 
+M: Famechi kom, kom koneltuleyngün 
+C: de esa forma todos, todos participan.
+
+nmdch-nfbat1_x_0094_nfbat_00: 
+M: Kom koneltual
+C: Todos participan,
+
+M: ñi kom ñi pual feychi <*SPA>programa 
+C: para que todos lleguen a ese programa,
+ 
+M: kom chi kolegiomeu pilayngün
+C: en todos los colegios no quisieron,
+
+M: femechimeu
+C: de esa forma; 
+
+M: feyta doy <uhm> -/fill/- fill küyen amukey
+C: entonces todos lo meses van,
+
+M: kiñe trokinchikechi amukey
+C: como un grupo va,
+
+M: kayupura kiñekemeu mari 
+C: sesenta y ocho a veces diez,
+
+M: fey femngechimeu ta l'awen'tuwlekeyu 
+C: así de esa forma nos hacemos remedio.
+
+nmdch-nfbat1_x_0095_nmdch_00: 
+M: Feley 
+C: Así es.
+
+M: ¿Ka <Throat> tüfachi <Throat> kutran foro kay 
+C: también éste dolor de muela pues,
+
+M: <uhm> füchakechemeu kay 
+C: gente mayor pues,
+
+M: ¿chem chumkeyngün?
+C: ¿qué hacen ellos?
+
+nmdch-nfbat1_x_0096_nfbat_00: 
+M: Feyta amukeyngün pitalmeu
+C: Entonces van al hospital, 
+
+M: kiñeke kutran foroam 
+C: un dolor de muela pues,
+
+M: fey re, re kiñekemeu
+C: así puro, puro a veces pues,
+
+M: deu -/nie/- niewenulu l'awen' 
+C: cuando ya no tenía remedio, 
+
+M: feyta nentunmangey müten 
+C: entonces le sacaron no más
+
+M: fey tremoki ka 
+C: así se mejora pues;
+
+M: ka kiñekemeu
+C: también a veces,
+
+M: <uhm> petu feula lituchi foro kutran
+C: todavía ahora comenzando el dolor,
+M: feyta kiñekemeu <uhm> -/l'a/- liftulelngeyngün
+C: entonces a veces -/l'a/- les limpian,
+
+M: ka l'apan tukulelngeyngün
+C: también se le coloca parche,
+
+M: feymeu feyta ñi küme felealengün
+C: por eso entonces para que se sienta bien.
+ 
+nmdch-nfbat1_x_0097_nmdch_00: 
+M: May. 
+C: Sí.
+
+M: ka tukulpapeyminga 
+C: también te colocaste pues;
+
+M: feychi fakuna
+C: esa vacuna,
+
+M: ngepaki pichikeche pi pipiminga
+C: vienen niños dijiste pues,
+
+M: ¿fey chem kutran nieyem?
+C: ¿así que enfermedad tienen?
+
+M: ta pichikeche fakunangeki
+C: los niños los vacunan.
+
+nmdch-nfbat1_x_0098_nfbat_00: 
+M: Feytichi trawa kutran pipennga
+C: Esa enfermedad de la piel me dijeron pues;
+
+M: ñi <%> nualengün
+C: para no contagiares,
+
+M: ka feytichi <*SPA>peste pingeki
+C: también éste peste le llaman,
+
+M: <*SPA>variela pingey 
+C: varicela se llama,
+M: fey tañi ñi fütranualengün
+C: así para que no siga aumentando,
+
+M: ka feytichi rele <%> <uhm> kompakey
+C: también ese resfriado entra;
+
+M: feytichi vakunangepakey ti pichikeche
+C: ahí vienen a vacunar los niños,
+
+M: fey ñi kutrannualengün ka
+C: así para que ellos no se enfermen pues.
+
+nmdch-nfbat1_x_0099_nmdch_00:
+M: Chem küyenmu amuküpakeyngün am
+C: En qué mes suelen venir ellos pues,
+
+M: am nieyngün kiñeke
+C: tal vez tienen alguno.
+
+nmdch-nfbat1_x_0100_nfbat_00: 
+M: Kiñekemeu küpa akukeyngün
+C: Algunas veces les da ganas de venir,
+
+M: ta llituchi tripa
+C: es algo que sale reciente,
+ 
+M: <uhm> llitunmeu ñi küdau
+C: estaba listo mi trabajo 
+
+M: ta pu pichikeche
+C: estos niños
+
+M: fau ka <*SPA>marzo küyen 
+C: aquí, también en el mes de marzo;
+
+M: ka kiñekemu <*SPA>abril küyen 
+C: también algunas veces en el mes de abril,
+
+M: ka kiñekemeu 
+C: también algunas veces,
+M: mülelmeu kiñe <uhm> -/ku/-<uhm> kutran
+C: al haber una enfermedad;
+
+M: chem pingenmeu 
+C: como le llaman 
+
+M: <*SPA>peste pingenmeu 
+C: peste le llaman;
+
+M: feyta akukeyngün
+C: entonces llegan 
+
+M: chem, chem küyen rume ka
+C: en cualquier, cualquier mes no más.
+ 
+nmdch-nfbat1_x_0101_nmdch_00:
+M: ¿Feychi <Throat> püñu kutran kay
+C: Ese ................
+
+M: müliki kiñekemeu?
+C: hay algunas veces.
+
+nmdch-nfbat1_x_0102_nfbat_00: 
+M: May 
+C: Sí.
+
+M: kiñekemeu
+C: algunas veces,
+
+M: welu müte peufaluukelay
+C: pero no se ve mucho.
+ 
+nmdch-nfbat1_x_0103_nmdch_00: 
+M: -/tu/- ¿Chem kutranam?
+C: -/tu/- ¿Qué enfermedad pues?
+
+M: doy kimnieki tüfachi lofmeu
+C: se conoce más en esta comunidad.
+ 
+nmdch-nfbat1_x_0104_nfbat_00: 
+M: Feytichi varisela
+C: esa varicela.
+ 
+nmdch-nfbat1_x_0105_nmdch_00: 
+M: ¿Feyti chem?
+C: ¿Eso qué?.
+
+nmdch-nfbat1_x_0106_nfbat_00: 
+M: Kiñe <*SPA>peste pitru reke 
+C: Una peste como grano,
+
+M: -/püra/- pitru reke no ka 
+C: sube como grano no pues,
+
+M: feyti kiñe chem, chem püraki reke 
+C: eso uno que, que como que sube;
+
+M: feytichi trawameu 
+C: eso en la piel
+
+M: fey nieki
+C: así tiene
+
+M: fey ko 
+C: así agua
+
+M: feyta ngüfi pichikeche
+C: entonces se congestiono el niño
+
+M: feyta <uhm> chipakey ko
+C: entonces sale agua.
+ 
+nmdch-nfbat1_x_0107_nmdch_00: 
+M: Feychi, feychi pitru reke 
+C: Eso, eso como grano 
+
+M: ¿fey machi l'awen'mu kümelkakiam?
+C: ¿así con el remedio de la machi se mejora? 
+
+M: am pital l'awen' doy kümelkaki
+C: oh, el remedio del hospital le hace mejor.
+ 
+nmdch-nfbat1_x_0108_nfbat_00: 
+M: Wingka l'awen'mu doy kümelkaki
+C: Remedio del huinca le hace bien.
+
+nmdch-nfbat1_x_0109_nmdch_00: 
+M: <*SPA>Ya% chumngelu kay doy kümelkakelay
+C: Ya% Por qué pues no hace bien
+
+M: feyti mapu l'awen'mu
+C: ese remedio de la tierra.
+
+nmdch-nfbat1_x_0110_nfbat_00: 
+M: Feytichi, feytichi pesteam 
+C: Esa, esa peste pues,
+
+M: fey wingka kutrannu
+C: Así la enfermedad del huinca
+
+M: wingka ñi akulel peno 
+C: al llegar el huinca será;
+
+M: feymeu ta <uhm> nietulay
+C: por eso esté no tiene
+
+M: ta <uhm> mapu l'awen' ñi koneltual ka
+C: esté remedio de la tierra debe entrar pues.
+
+nmdch-nfbat1_x_0111_nmdch_00: 
+M: Feychi -/map/- <uhm> mapuche machi 
+C: Esa machi mapuche;
+
+M: re kidu kutranmeu müten
+C: sólo ella, en la enfermedad solamente,
+
+M: fi doy puwi ka
+C: así llego más pues
+
+M: kakelu kutranmu kay
+C: otra enfermedad también,
+
+M: kakelu fillkutran
+C: otras distintas enfermedades,
+
+M: ta tripatripangi
+C: éste salen, salen 
+
+M: fantepumeu
+C: hasta ahora;
+
+M: fey newe newe
+C: así no mucho, no mucho.
+ 
+nmdch-nfbat1_x_0112_nfbat_00: 
+M: Che% trokikefiñ
+C: Lo considero como persona,
+
+M: müley ta müley
+C: hay pues hay 
+
+M: <uhm> müleyey kutran fillke
+C: hay distintas enfermedades;
+
+M: feyta wingka, wingka l'awen'mulu
+C: entonces se remedio con huinca, huinca,
+ 
+M: wingka müley
+C: huinca hay;
+
+M: fey kiñeke kutran 
+C: así alguna enfermedad,
+
+M: feyta re mapu l'awen'
+C: entonces puro remedio de la tierra,
+
+M: machi tañi <uhm> witra, wichangemeki ka
+C: la machi lo van a contratar pues
+
+M: welu ka müley kiñeke kutran
+C: pero también hay alguna enfermedad 
+
+M: fey epunpüle yeniengefui ti mür l'awen'
+C: así en dos parte llevaban los dos remedios
+
+M: wingka l'awen' <uhm> doctor ni piel
+C: remedio huinca dijo el doctor;
+
+M: ka machi l'awen'
+C: también remedio de machi.
+ 
+nmdch-nfbat1_x_0113_nmdch_00: 
+M: Feychi pichikeche
+C: Ese niño,
+
+M: fey <uhm> kutran nieymu 
+C: así al tener dolor
+
+M: famechi nieymu pichike kutran
+C: de esa forma tiene algún dolor 
+
+M: fill pekan kutran yengeki machimeuam
+C: de distinta enfermedad llevan a la machi pues
+
+M: doy, doy <%> yengeal ta pitalmeu.
+C: para llevarlo mas seguido al hospital.
+
+nmdch-nfbat1_x_0114_nfbat_00: 
+M: Fau may püyelelu ta pital Makewe
+C: Aquí si, esta cerca el hospital Maquehue;
+
+M: feyta yengeki ta pitalmeu ka
+C: entonces lo llevan al hospital pues
+
+M: femechi feyti <uhm> doctor l'awen'tuchefe
+C: de esa forma, ese doctor curandero;
+
+M: feyta tüfa yenmui ta machimeu
+C: entonces esté lo llevarón a la machi pues
+
+M: kam mapu l'awen' <%> feyta
+C: oh, remedio de la tierra entonces.
+ 
+nmdch-nfbat1_x_0115_nmdch_00: 
+ <%> 
+
+nmdch-nfbat1_x_0116_nfbat_00: 
+M: Ngenke yall 
+C: Dueño del hijo 
+
+M: fey ka yefi machimeu ka 
+C: así también lo llevo a la machi pues.
+
+nmdch-nfbat1_x_0117_nmdch_00: 
+M: Feychi tüfachi varisela pipiminga
+C: Ese, éste varicela dijiste pues
+
+M: pitru kutran
+C: enfermedad grano,
+
+M: ¿chumngeluam tripaki?
+C: ¿por qué sale?
+
+M: ¿chumngelu -/tuke/- tukukefimi?
+C: ¿por qué -/conta/- te contagiaste?
+
+M: doy tripaken antünmeu
+C: salgo más al sol;
+
+M: mawünmeu <%> <uhm> 
+C: lluvía pues 
+
+M: kürüf ko
+C: viento, agua.
+
+nmdch-nfbat1_x_0118_nfbat_00: 
+M: Feytichi pu feley kimlu ta l'awen'tuchefe
+C: Esos que saben de remedio están ahí 
+
+M: feyti doctor 
+C: ese doctor 
+
+M: feyta feychi, feychi l'awen'
+C: entonces ese, ese remedio
+
+M: feychi kutran ta feley tani tual
+C: esa enfermedad es la que voy a tener;
+
+M: ta pu kom pu che pikeyngün
+C: entonces todas las personas dicen esto.
+
+M: kom pichikeche tañi tual 
+C: todos los niños deben tener;
+
+M: feychi kutran müleperkelay
+C: esa enfermedad debe haber
+
+M: feychi kutran ni kom tual
+C: esa enfermedad todos deben tener
+
+M: <uhm> kiñekemu pichikeche 
+C: algunas veces los niños 
+
+M: che tunonmu feychi kutran 
+C: la gente al no tomar esa enfermedad
+
+M: fey fütachengemu ula
+C: así cuando ya de grande;
+
+M: fey ka nüki 
+C: así también les da; 
+
+M: feychi kutran ka
+C: esa enfermedad pues.
+ 
+nmdch-nfbat1_x_0119_nmdch_00: 
+M: Müli ñi -/tu/- komtualengün.
+C: Deberían -/tu/- todos contagiarse.
+ 
+nmdch-nfbat1_x_0120_nfbat_00: 
+M: Müli ni komtualengün pikeyngün
+C: Deben todos contagiarse dicen.
+ 
+nmdch-nfbat1_x_0121_nmdch_00: 
+M: Pichichengele
+C: Si es niño;
+ 
+M: we che wentrungele 
+C: cuando es un hombre joven,
+
+M: we che chengeleam 
+C: cuando es una persona joven pues
+
+M: ¿fücha chengelu rume? 
+C: ¿aunque sea mayor?.
+
+nmdch-nfbat1_x_0122_nfbat_00: 
+M: Fücha chengele rume 
+C: Aunque sea mayor
+
+M: welu müley 
+C: pero hay
+
+M: ñi kiñe rupa ñi tual 
+C: una vez debe tener;
+
+M: feychi kutran pikeyngün 
+C: esa enfermedad dicen.
+
+nmdch-nfbat1_x_0123_nmdch_00: 
+M: Fey kiñemum
+C: Así algunas veces
+
+M: kiñe rupa müten nüki 
+C: una vez no más les da.
+
+nmdch-nfbat1_x_0124_nfbat_00:
+M: Kiñe rupa müten ka 
+C: Una sola vez pues.
+
+nmdch-nfbat1_x_0125_nmdch_00:
+M: Ka kiñe rupa l'awen'tuki ka 
+C: también una vez se hace remedio pues.
+
+nmdch-nfbat1_x_0126_nfbat_00: 
+M: May.
+C: Sí.
+
+M: ka kiñe rupa müten 
+C: también una sola vez.
+
+nmdch-nfbat1_x_0127_nmdch_00: 
+M: Feykay tüfachi kangelu kutran 
+C: Así pues éste, esa otra enfermedad 
+
+M: fey narnar kutrankay
+C: así bajo, bajo la enfermedad pues
+
+M: fey rüf fill <uhm> küyenmeu
+C: así eso todo los meses
+
+M: fill tripantu 
+C: todos los años.
+
+nmdch-nfbat1_x_0128_nfbat_00: 
+M: Tuntepu rume ka
+C: cuanto sea no más
+
+M: fey kiñekemu 
+C: así algunas veces
+
+M: pichikeche ta tuituliwinga 
+C: los niños ..........................
+
+M: de'pue' ka 
+C: después también 
+
+M: chumngechi ñi fütra che
+C: como mi gente antigua
+
+M: fey ka tuafui feychi kutran ka 
+C: así también puede tocar esa enfermedad.
+
+nmdch-nfbat1_x_0129_nmdch_00: 
+M: Fütache fütakeche rumetui
+C: Las personas adultas pasaron a ser ancianos. 
+
+nmdch-nfbat1_x_0130_nfbat_00: 
+M: Fütakeche rume ka
+C: Los mayores como demasiado pues.
+
+nmdch-nfbat1_x_0131_nmdch_00:
+M: ¿Feychi <uhm> fakungepaki kay 
+C: Esos los vienen  vacunar pues
+
+M: feyti varisela vakunaki 
+C: eso de varicela se vacunan 
+
+M: ¿vakunay?
+C: ¿se vacuna?.
+
+nmdch-nfbat1_x_0132_nfbat_00:
+M: <%> <*SPA>varicela ka 
+C: varicela pues
+
+M: feyti kiñekemeu <%> 
+C: eso algunas veces.
+
+nmdch-nfbat1_x_0133_nmdch_00: 
+M: ¿-/faku/- fakunaymui <*SPA>no?
+C: ¿-/vacu/- se vacunó no?
+
+nmdch-nfbat1_x_0134_nfbat_00: 
+M: May. 
+C: Sí.
+
+M: vakunanmui
+C: se vacunó
+
+M: ka feytichi <*SPA>saranpion pikeyngün 
+C: también ese sarampión dicen ellos 
+
+M: fey vakunangey pichikeche 
+C: así los vacunan a los niños.
+
+nmdch-nfbat1_x_0135_nmdch_00:
+M: Feyti <*SPA>saranpion 
+C: Ese sarampión 
+
+M: chemngekey ñi üy
+C: qué significado tiene el nombre
+
+M: mapuche dungunmeu 
+C: en el idioma mapuche.
+
+nmdch-nfbat1_x_0136_nfbat_00: 
+M: Ka femechi nagnagki
+C: también de esa forma le da comezón
+
+M: trawa pichike kelükünuuki ka
+C: la piel se le pone un poco colorada.
+
+nmdch-nfbat1_x_0137_nmdch_00:
+M: <hm> fey eymi ta kimeltunielmi 
+C: así tú les enseñas 
+
+M: ta pichikeche
+C: a los niños
+
+M: fau akuli
+C: aquí llega
+
+M: akuyem kiñeke kutran
+C: llegan algunas enfermedades 
+
+M: <uhm>  tüfachi l'al'a kutran
+C: esta enfermedad ..............
+
+M: tuuliki l'akeluengün kay
+C: se contagian cuando se mueren pues
+M: eymi kay tukelaymi
+C: tú pues no te contageas
+
+M: eymi ta kimeltuchefe
+C: tú eres educador 
+
+M: tungekelaymi eymi
+C: no te contagias tú
+
+nmdch-nfbat1_x_0138_nfbat_00: 
+M: <*SPA>No iñche petu tulelngen
+C: No yo todavía no me contageo
+
+M: tukelan kiñe l'al'a kutran rume
+C: no tocó ninguna enfermedad pues
+
+M: feyta ñi pichikeche ni tuleteu
+C: entonces los niños me contagiaron
+
+M: <uhm> welu müte ngekalay 
+C: pero no hay mucho 
+
+M: feytichi <uhm> tulu chi kutran l'al'a
+C: esos que tocan esa enfermedad..........
+
+nmdch-nfbat1_x_0139_nmdch_00: 
+M: Re femechi müten wenche
+C: Puro de esa forma mas o menos no más 
+ 
+nmdch-nfbat1_x_0140_nfbat_00: 
+M: Re femechi wenche müten
+C: Puro de esa forma mas menos no mas 
+ 
+nmdch-nfbat1_x_0141_nmdch_00: 
+M: Fey <Throat> <uhm> tunten rupa müleki vakuna
+C: Así cuánto tiempo pasa que hay vacuna 
+
+M: pipimiama am müle
+C: dijiste así hay...
+nmdch-nfbat1_x_0142_nfbat_00: 
+M: Fillke tripantu akukey 
+C: Todos los años llegan 
+
+M: feyti kiñekemeu marzo küyen
+C: eso algunas veces en el mes de marzo
+
+M: ka kiñekemu 
+C: también algunas veces 
+
+M: abril püle akukey
+C: como en el mes de abril llegan.
+
+nmdch-nfbat1_x_0143_nmdch_00: 
+M: Feychi vakuna che
+C: Esa vacuna de personas,
+
+M: vakuna ta kechi che 
+C: se vacunan las personas
+
+M: re pu wingka ngekiam
+C: son puros huincas pues 
+
+M: kiñeke konki kam mapunche
+C: oh, a veces entran mapuche.
+ 
+nmdch-nfbat1_x_0144_nfbat_00: 
+M: <*SPA>No re pu wingka ka
+C: No puro huinca pues.
+ 
+nmdch-nfbat1_x_0145_nmdch_00: 
+M: Eymi tami rakiduammeu kay 
+C: Tú en tus pensamientos pues;
+
+M: <Throat>tüfachi kutran tripatripangey
+C: esta enfermedad que está saliendo,
+
+M: fey <Throat>re kiñekemu 
+C: así solo algunas veces 
+
+M: pitalmui müten ka <uhm> 
+C: necesita solo hospital pues
+
+M: pitalmu puwi 
+C: al hospital llegó 
+
+M: fey doctor 
+C: ese doctor 
+
+M: fey, fey ula eypieyu 
+C: ese, ese recién le dijo 
+
+M: amuaymi machimu pingeki 
+C: que vaya a la machi le dicen 
+
+M: eymi kay chem piafuimi 
+C: tú pues que le puedes decir 
+
+M: feula tichi pichikeche <hm>     
+C: en estos momentos a esos niños.
+
+nmdch-nfbat1_x_0146_nfbat_00: 
+M: Kutran rumeleengün
+C: Si suelen tener alguna enfermedad.
+ 
+nmdch-nfbat1_x_0147_nmdch_00: 
+M: Kutran rumeleengün
+C: Si llegan a tener alguna enfermedad.
+ 
+nmdch-nfbat1_x_0148_nfbat_00: 
+M: Femngechi wenche kimünmafielmeu
+C: Así de esa forma les enseñaría  
+
+M: ñi wingka l'awen'muen
+C: que se hagan remedio huinca
+
+M: feyta amuaymün ta pitalmeu 
+C: entonces deben ir al hospital 
+
+M: pikefinengün
+C: les digo a ellos pues 
+
+M: ka kiñenke püñeñ
+C: también algunos hijos 
+
+M: feypifiñ yefimi ta pitalmeu 
+C: les digo llévalo al hospital,
+
+M: welu ka kiñekemeu
+C: pero también algunas veces;
+
+M: newe kimfaluulu chi kutan
+C: no se nota mucho la enfermedad 
+
+M: feyta ka -/amu/- amuaymün pitalmu
+C: entonces también deben ir al hospital
+
+M: fey <uhm> newe tremon trokinieymün
+C: así los que no se ven muy sanos 
+
+M: feyta ka kintuaymün
+C: entonces también deben buscar 
+
+M: kampüle l'awen' machimeu
+C: en otra parte remedio de machi;
+
+M: pikefiñengün ka
+C: les digo a ellos pues.
+ 
+nmdch-nfbat1_x_0149_nmdch_00: 
+M: ¿Fey chumechi lloukeyngün kay
+C: Así cómo lo reciben pues
+
+M: feychi dungu
+C: ese tema
+
+M: feychi ngülamtun dungun?
+C: ese consejo.
+
+nmdch-nfbat1_x_0150_nfbat_00: 
+M: May.
+C: Sí.
+
+M: kiñeke ta küme llowngekey
+C: algunas veces lo reciben bien
+
+M: ka kiñeke
+C: también a veces 
+
+M: fey newen feyentunuluam machimeu
+C: así no le obedece mucho a la machi 
+
+M: feyta newen dungu kelayngün ka
+C: entonces no hablan mucho pues 
+
+M: ka feyti lofmeuam mülepal
+C: también eso en la comunidad que vienen
+
+M: feyti chi fillke <*SPA>religion
+C: esas distintas religiones 
+
+M: feymu feyta ka 
+C: por eso entonces pues
+
+M: feyentuwetulayngün
+C: no obedecen 
+
+M: ta kidu ñi mapuche l'awen'muengün
+C: nuestro propio remedio mapuche 
+
+M: ka müleyeluam pu evangeliku 
+C: también están los evangélicos 
+
+M: feyti fillke sexta kiñeke
+C: esas distintas sextas
+
+M: feyta feychi dungu unentulelu
+C: entonces ese tema esta primero 
+
+M: feyta newe feyentukelay ka
+C: entonces no hacen mucho caso pues
+ 
+nmdch-nfbat1_x_0151_nmdch_00: 
+M: Feychi mapudungunmeu kay
+C: Ese mapudungun pues 
+
+M: ¿chumechi llowkeyngün?
+C: ¿cómo lo reciben?.
+ 
+nmdch-nfbat1_x_0152_nfbat_00: 
+M: May.
+C: Sí.
+ 
+nmdch-nfbat1_x_0153_nmdch_00: 
+M: <uhm> ayeki ñi re
+C: se ríe solo para...
+
+nmdch-nfbat1_x_0154_nfbat_00: 
+M: Mapudungu
+C: Mapudungu
+
+M: re adumünmeu 
+C: para entederse
+
+nmdch-nfbat1_x_0155_nmdch_00:
+M: May.
+C: Sí.
+ 
+nmdch-nfbat1_x_0156_nfbat_00: 
+M: May. 
+C: Sí.
+
+M: feyta kom küme 
+C: entonces todo bién 
+
+M: llowingün 
+C: reciben bién
+
+M: feyti dungu 
+C: ese asunto.
+nmdch-nfbat1_x_0157_nmdch_00: 
+M: Feyti kangelu chi 
+C: Ese otro tal vez 
+
+M: feyti fangeliku pipiminga
+C: esos evangélicos dijiste pues
+
+M: feychi fey ñi pu yall kay
+C: eso así nuestros hijos pues
+
+M: ayekey ñi -/itu/- <uhm>
+C: se ríen...
+ 
+nmdch-nfbat1_x_0158_nfbat_00: 
+M: May.
+C: Sí.
+
+M: ka fey ayükeyngün
+C: también así les agrada.
+ 
+nmdch-nfbat1_x_0159_nmdch_00: 
+M: Kimekeyngün
+C: deben saber.
+
+nmdch-nfbat1_x_0160_nfbat_00: 
+M: Ayükeyngün
+C: Les agrada,
+
+M: fey ñi feyentutual may
+C: aso para obedecer si.
+
+M: feytichi mapuche l'awen' 
+C: ese remedio mapuche;
+
+M: feyti machimeu 
+C: esa machi pues 
+
+M: feymu feyta <uhm> weluletui
+C: por eso entonces 
+
+M: ñi rakiduamkeyngün ka
+C: en sus pensamientos.
+
+nmdch-nfbat1_x_0161_nmdch_00: 
+M: Chumngelu kam ka fey
+C: Por qué oh también así.
+
+nmdch-nfbat1_x_0162_nfbat_00: 
+M: Feyti kampüle kimün küpalu kay
+C: Ese otro conocimiento viene pues
+
+M: feytichi fillke <*SPA>sexta
+C: esas distintas sextas,
+
+M: feyta <uhm>feymeu feypingeki
+C: entonces por eso dicen 
+
+M: ñi feychi pu machi
+C: a ellas nuestras machi,
+
+M: kam mapu l'awen' 
+C: oh remedio de la tierra 
+
+M: feyta falilay
+C: entonces no lo valorizan,
+
+M: <uhm> re weküfü
+C: puro diablo,
+
+M: fey feyta 
+C: así entonces.
+
+nmdch-nfbat1_x_0163_nmdch_00: 
+M: Femeyu pingi <%>
+C: Le hizo dijeron.
+ 
+nmdch-nfbat1_x_0164_nfbat_00: 
+M: Femeyu pingi ka 
+C: Le hizo dijeron pues,
+
+M: feymeu feyta newe feyentutulayngün
+C: por eso entonces no obedecen mucho ellos 
+
+M: kiduengün tati 
+C: solos pues
+
+M: feymeu koneltulelu pu che
+C: por eso la gente que participa.
+
+nmdch-nfbat1_x_0165_nmdch_00: 
+M: ¿Feychi pu füchake che kay? 
+C: Esas personas mayores pues?
+
+M: doy une tremkülelu fau 
+C: los más antiguos de aquí?
+
+M: <Throat><uhm> nieyüm iyalengün
+C: al tener comida ellos
+
+M: fey kiñekemu
+C: así algunas veces
+
+M: allküle feychi dungu
+C: si escucha ese tema,
+
+M: chem piki ñi rakiduamengün kay
+C: que dicen pensamientos de ellos pues.
+
+M: <uhm> chumngen tukefimi eymi?
+C: cómo lo piensas tú.
+
+nmdch-nfbat1_x_0166_nfbat_00: 
+M: Feyti doy <uhm> tremkewen
+C: Esos los que tienen más edad.
+
+M: tremke che 
+C: gente adulta,
+
+M: feyta doy <uhm> 
+C: entonces más...
+nmdch-nfbat1_x_0167_nmdch_00: 
+M: Doy küme ngülam -/entu/-
+C: Los mejores del consejo.
+
+nmdch-nfbat1_x_0168_nfbat_00: 
+M: Doy küme ngülam
+C: Los mejores del consejo,
+
+M: ta nentungey petu
+C: los sacan todavía,
+
+M: ka feyti pu -/wecheke/- pu wechekeche
+C: también los -/joven/- las personas jóvenes
+
+M: weke kurewen che 
+C: los matrimonies nuevos,
+
+M: feyta newe -/kim/- kimkalayngün
+C: entonces no -/sab/- saben mucho ellos
+
+M: mapuche kimün ka
+C: conocimiento mapuche pues
+
+M: ka mapuche ngülam 
+C: también consejo mapuche
+
+M: feymeu feyti ngewenuluam
+C: por eso él no tiene pues 
+
+M: deuma ngewelay 
+C: ahora no hay 
+
+M: doy fütrake che 
+C: las personas mayores 
+
+M: trem wentru
+C: hombre adulto,
+
+M: feyta feymeu
+C: entonces por eso; 
+M: feyta iñchiñ
+C: entonces nosotros 
+
+M: ka tüfa chilkatun
+C: también éste colegio 
+
+M: ka ngülamtuketufin chi pichikeche
+C: también aconsejo a los niños 
+
+M: ñiuñiu witraletualengün
+C: ñiuñiu para que estén levantados, 
+
+M: ni mülen ta kümeke kimün
+C: al haber buenos conocimientos 
+
+M: iñchiñ taiñ pu mapuchengenmeu ka 
+C: nosotros los mapuches que somos pues.
+
+nmdch-nfbat1_x_0169_nmdch_00: 
+M: Kom tüfachi kutran foro
+C: Todos dolor de muela,
+
+M: kutran kangelu 
+C: otras enfermedades,
+
+rüle kutran ka 
+C: resfrios pues
+
+M: feyti nagnag kutran
+C: ese enfermedad que baja y baja
+
+M: kom tripalilley
+C: a todos les sale,
+
+M: fillke kake antüngey 
+C: cada día más;
+
+M: fey eymi kay 
+C: así tú pues 
+
+M: chumechi, chumechi ñi kuñiwtukuafel che
+C: cómo, cómo se deben cuidar las personas,
+
+M: chem ngülam entungeki kay
+C: qué consejo sacan pues,
+
+M: tüfameu 
+C: aquí pues
+
+M: chumechi ñi ngülamtual 
+C: como aconsejarnos,
+
+M: chi pichikeche 
+C: nuestros niños.
+ 
+nmdch-nfbat1_x_0170_nfbat_00: 
+M: Feyta <uhm> fau
+C: entonces aquí,
+
+M: ta chilkatuwemeu che
+C: en el colegio pues la persona
+
+M: kimeltu% 
+C: saben...
+
+M: feyti pichikeche fillke antü
+C: esos niños todos los días 
+
+M: fey <uhm> ngülamtungekefiñengün
+C: así los aconsejo pues,
+
+M: ñi dapiwalengün
+C: para que se cuiden
+
+M: <uhm> ñi pekankellenualengün
+C: para que no anden por andar
+
+M: pekanllenualengün ka
+C: no anden por andar pues
+
+M: re femechi tañi re kimeltunuafel
+C: puro de esa forma no se puede saber,
+
+M: kiñeke kimün ka
+C: algunos conocimientos pues
+
+M: ka femechi ngülamkefi 
+C: también de esa forma lo aconseja
+
+M: ñi <uhm> doy kümeke chengealengün
+C: para que sean gentes mejores,
+
+M: <uhm> kimchengealengün 
+C: para que sean unas personas sabias 
+
+M: yamal
+C: respetar,
+
+M: ta kom fillke chemküm
+C: todos distintos productos,
+
+M: mülelu tüfachi fütra mapumeu
+C: los que están aquí en esta gran tierra. 
+
+nmdch-nfbat1_x_0171_nfbat_00: 
+M: Taiñ doy kümeke che ngerpual
+C: para que seamos personas mejores 
+
+M: ka taiñ doy küme mongen -/nia/- nial
+C: también para tener un mejor vivir 
+
+M: ka taiñ kutran pütrangenual
+C: también para que no nos den dolores de estomago, 
+
+M: femechimeu
+C: de esa forma pues
+
+M: fey ngülamtuniepurkefin chi pichikeche
+C: así los aconsejo a los niños
+
+M: ni <uhm> kümeke, kümeke chengeal ka 
+C: para que sean buenas, buenas personas pues.
+
+nmdch-nfbat1_x_0172_nmdch_00: 
+M: Küme adniey ta che tremolenmu 
+C: Tiene buen carácter la persona cuando esta sana
+
+M: feyta ayüwuli ka. 
+C: también esta contento pues.
+
+nmdch-nfbat1_x_0173_nfbat_00: 
+M: Ka femechimeu fey ayüwküley
+C: También de esa forma así esta contento
+
+M:  <uhm> pu che ayüwküley 
+C: nuestra gente esta contenta, 
+
+M: ta lof <%> ta fill wedake dungu
+C: en la comunidad distintos problemas
+
+M: ka fill wedake kutran
+C: también distintas enfermedades malas
+
+M: femechimeu ti pichikechemeu 
+C: de esa forma esos niños pues
+
+M: fey <uhm> ngülamtukunierpukefeiñ ka
+C: así los estoy aconsejando pues
+
+M: -/feme/- ka femechi pichikeche ka
+C: -/asi/- también de esa forma los niños pues
+
+M: kidu nütramkaputuiñ
+C: solo fuimos a conversar
+
+M: ñi rukameuengün
+C: en nuestras casas 
+
+M: fey ka femechi kimtukunierpui
+C: así también va aprendiendo 
+M: ti ngenke yall
+C: los dueños hijos
+
+M: ngenke pu lamngen
+C: los dueños hermanos
+
+M: mülelu rukameu
+C: que están en la casa pues.
+
+nmdch-nfbat1_x_0174_nmdch_00: 
+M: Feychi deuma
+C: Ya ahora.
+
+M: nieymu kutran ta che
+C: al tener enfermedad la persona
+
+M: feyta <uhm> kutranküli
+C: entonces esta enfermo 
+
+M: ta pichikeche 
+C: los niños chicos
+
+M: yall <uhm> domo
+C: hijo mujer 
+
+M: wentrungefui rume
+C: aunque sea hombre 
+
+M: feyta kom 
+C: entonces todos
+
+M: newe kümelkaukülekelay
+C: no se sentía muy bien,
+
+M: ta che ka
+C: la persona pues.
+
+nmdch-nfbat1_x_0175_nfbat_00: 
+M: Femke llemay
+C: Eso es pues.
+ 
+nmdch-nfbat1_x_0176_nmdch_00: 
+M: Rakiduam küleki
+C: Esta pensativo, 
+
+M: weñanküleki
+C: tiene pena.
+ 
+nmdch-nfbat1_x_0177_nfbat_00: 
+M: Rakiduam külekey
+C: Esta pensativo 
+
+M: weñankülekey ka
+C: tiene pena pues
+
+M: pichikeche amulay
+C: los niños no van
+
+M: chilkatuwemeu
+C: a la escuela
+
+M: ka femechi kutrankülenmeu
+C: también por estar enferma de esa forma,
+
+M: rume <uhm> faltaki clasemeu
+C: falta mucho a clases
+
+M: ta fillke antü ta amukelay
+C: éste todos días no va,
+ 
+M: femechimeu
+C: de esa forma 
+
+M: fey ñi küme dapiukülele
+C: así si tiene un buen cuidado
+
+M: ñi <uhm> kuñiutukuleleengün
+C: para que tengan cuidado 
+
+M: femechimeu
+C: de esa forma 
+
+M: fey ngelay kutran pikefinengün
+C: entonces no hay enfermedad les digo pues
+
+M: femechi kom ayüukeleaiñ
+C: de esa forma todos estaremos contentos;
+
+M: <uhm> fillke antü küpay 
+C: todos los días va a venir
+
+M: taiñ ni doy -/kiki/- kimalfi
+C: para comprenderlo más,
+
+M: fillki kimün pikefinengün
+C: distintos conocimientos les digo a ellos.
+
+nmdch-nfbat1_x_0178_nmdch_00: 
+M: May.
+C: Sí.
+
+M: feychi <uhm> tüfachi ngülamtun
+C: ese, éste consejo
+
+M: kimeltun dungun
+C: le enseño las cosa,
+
+M: ¿mapudungunmu feypikefimi?
+C: en mapudungun les dices.
+
+nmdch-nfbat1_x_0179_nfbat_00: 
+M: Mapudungun feypikefinengün 
+C: Mapudungun les digo a ellos;
+
+M: ka wingka dungunmeu
+C: también en castellano 
+M: -/feypi/- ngülamtukefinengün
+C: -/dijo/- los aconsejo,
+
+M: mülenmeu fantepuam
+C: como hay ahora 
+
+M: mülenmu pichikeche
+C: como hay niños
+
+M: newe allkünulu mapudungun
+C: no saben mucho mapudungun 
+
+M: feymeu feyta -/epun/- epurume
+C: por eso entonces -/dos/- dos no más,
+
+M: dungukefiñengün
+C: les hablo pues
+
+M: wingka dungunmeu
+C: en castellano 
+
+M: mapundungunmeu
+C: mapudungun.
+
+nmdch-nfbat1_x_0180_nmdch_00:
+M: Feychi l'awen'
+C: Ese remedio 
+
+M: wülkechi machi l'awen' 
+C: remedio que da la machi 
+
+M: machi wülkechi
+C: lo que da la machi
+
+M: kiñeke würkalchi
+C: algunos de tomar 
+
+M: würkalchi l'awen'
+C: remedio de tomar
+
+M: kam re putual llemay
+C: oh para puro tomar no más,
+
+M: fey fau 
+C: así aquí 
+
+M: eymi kimeltukelafimi
+C: tu lo conoces
+
+M: nielay chumechi ñi deumayal
+C: no tiene cómo prepararlo 
+
+M: ta l'awen' 
+C: el remedio,
+
+M: fey adumünkelafimi pichikeche
+C: así no domina los niños.
+
+nmdch-nfbat1_x_0181_nfbat_00: 
+M: Kiñeke l'awen' ka
+C: algunos remedios pues
+
+M: feyti mülenmeu
+C: eso existe
+
+M: fey inafill müleyechi
+C: así en la orilla están
+
+M: <uhm> mawidameu mülenmu
+C: los que hay en la montaña
+
+M: kiñekemeu l'awen' 
+C: algunos remedios
+
+ M: feyta, feyta putokoaymün
+C: entonces, entonces deben tomar
+
+M: pikefiñengün kiñekemeu
+C: les digo a ellos algunas veces,
+ 
+M: <uhm> pifiñ 
+C: les digo 
+
+M: pichike
+C: en pequeñas 
+
+M: kutranenmeuengün ka
+C: enfermedades pues.
+
+nmdch-nfbat1_x_0182_nmdch_00: 
+M: Feychi feyti
+C: Ahí ese.
+ 
+nmdch-nfbat1_x_0183_nfbat_00: 
+M: Ka kidu kimnieyngün
+C: También solo saben ellos,
+
+M: iñche fey, fey putokoan 
+C: yo así, así voy a tomar
+
+M: <uhm> pikenewengün
+C: me dicen ellos,
+
+M: femechi ñi kutran foromeu
+C: de esa forma mi dolor de muela
+
+M: feyta pütokon
+C: entonces tome.
+
+M: feymeu rupay 
+C: por eso se calmo 
+
+M: ñi kutran pikeyngün
+C: su enfermedad dicen.
+
+M: ka kiñekemeu relelmeuengün
+C: también algunas veces 
+
+M: feyta feynga putokon ka
+C: eso entonces tome pues
+
+M: ñi rukamu kimniey pu che
+C: en  mi casa saben mi gente
+
+M: ka chem l'awen'
+C: también que remedio 
+
+M: ñi eluael pichikecheengün
+C: para prepararse por los niños
+ 
+nmdch-nfbat1_x_0184_nmdch_00: 
+M: Feley.
+C: Así es.
+
+M: ka feychi
+C: también ese 
+
+M: feychi kom ñi yempurayal
+C: así todos juntos unidos
+
+M: ñi dunguengün
+C: el asunto de ellos,
+
+M: tüfa pu pichikeche
+C: aquí los niños
+
+M: ka pu füchakeche
+C: también la gente mayor,
+
+M: fey chumechi 
+C: así como 
+
+M: <uhm> re pichikeche müten amuldungun
+C: puro  niños chicos informa no más
+
+M: -/kefimiam/- trapümkefimün ka?
+C: -/lo vez/- les juntan también.
+
+nmdch-nfbat1_x_0185_nfbat_00: 
+M: May.
+C: Sí.
+
+M: ka mülenmeu
+C: también al haber,
+
+M: feytichi trawün küpanmeu
+C: esa reunión al venir 
+
+M: ta pu winkeyall
+C: esa comida de costumbre
+
+M: ka feymeu ñi nütramkefiñ
+C: también por eso les conversó;
+
+M: ka nütramelkefeiñ
+C: también les conversó,
+
+M: feyti ñi <uhm> mülen
+C: eso que hay 
+
+M: müleal ta dapiwün
+C: para que haya limpieza 
+
+M: <uhm> küme iyal ñi deumalelngeal
+C: para se le prepare una buena comida;
+ 
+M: pichikeche iyal
+C: comida del niño,
+
+M: ka ñi <uhm> ituleal
+C: también para que estén comiendo;
+
+M: mapun iyal
+C: comida de la tierra,
+
+M: re ni wingka iyal tulelualengün
+C: pura comida de huinca 
+
+M: kom feychi dungun
+C: todo esé tema,
+
+M: pichike nütramkakefiñ 
+C: les conversó un poco;
+ 
+M: ta trawünmeu
+C: en la piel
+
+M: ñi doy küme mongen
+C: para un mejor vivir,
+
+M: ta nietual pichikeche
+C: para tener niños 
+
+M: ta kom fütrake che
+C: y todas las personas grandes
+
+M: ka lofmeu 
+C: también en la comunidad.
+
+nmdch-nfbat1_x_0186_nmdch_00: 
+M: ¿Feyti pichikeche kutranyem
+C: Esos niños que están enfermos
+
+M: <uhm> mülekey ayentukeyngün
+C: hay quienes se burlan,
+
+M: ka chaf mapuche
+C: también entre mapuche
+
+M: kam re, re wingka
+C: oh, puro, puro huinca;
+
+M: ka kiñekele fau
+C: también hay algunos aquí.
+
+nmdch-nfbat1_x_0187_nfbat_00: 
+M: <*SPA>No ngelay ta wingka reke
+C: No, no hay huincas no más
+
+M: re kom, kom mapuchengey
+C: pero todos, todos son mapuches.
+ 
+nmdch-nfbat1_x_0188_nmdch_00: 
+M: Welu ayengeukelayngün ka
+C: Pero no se burlan pues.
+
+nmdch-nfbat1_x_0189_nfbat_00: 
+M: <*SPA>No mülelay feychi dungu
+C: No, no hay ese asunto;
+
+M: -/aye/-, ayengey
+C: -/rie/- se burlan.
+
+nmdch-nfbat1_x_0190_nmdch_00: 
+M: ¿Ayetuukelayngün?
+C: No se burlan ellos.
+
+nmdch-nfbat1_x_0191_nfbat_00: 
+M: <*SPA>No.
+C: No.
+
+nmdch-nfbat1_x_0192_nmdch_00: 
+M: Kiñekemu ta mapuche
+C: Algunas veces los mapuche
+
+M: rüf küme mollfüñ nielu 
+C: que tienen buena sangre 
+
+M: küme mongen nielu
+C: tienen un buen vivir 
+
+M: ta kutrankelay
+C: no se enferman 
+
+M: müli ta kiñeke che
+C: hay algunas personas 
+
+M: ¿kiñekeli?.
+C: ¿hay algunos?.
+
+nmdch-nfbat1_x_0193_nfbat_00: 
+M: May.
+C: Sí.
+M: kiñekeley llemay 
+C: hay algunos pues.
+
+nmdch-nfbat1_x_0194_nmdch_00: 
+M: Kiñeke feyti kutranngenulu
+C: Algunas veces los que no están enfermos
+
+M: feyta, feyti kutrankelu
+C: entonces ese que se enferma;
+
+M: feyta ayengekefi
+C: entonces se burla.
+
+nmdch-nfbat1_x_0195_nfbat_00: 
+M: <*SPA>No feychi dungu mülekelay
+C: No ese asunto no hay 
+
+M: <uhm> kom kimni
+C: todos saben; 
+
+M: ñi ini rume ñi kutranafel
+C: cualquiera se puede se enfermar
+
+M: <uhm> che tunte pu rume ka 
+C: quién sea la persona no más pues 
+
+M: fey kom kimni chi pichikeche
+C: entonces todos los niños saben;
+
+M: ini rume
+C: quién sea 
+
+M: ta <uhm> iñche kutranlan
+C: este... yo no me enfermo 
+
+M: pilafuy pikeiñ ka
+C: no quería decimos pues
+
+M: ini rume
+C: quién sea,
+
+M: chem <uhm> tunte pual rume
+C: este...puede llegar a cualquier parte
+
+M: fey kutranafui
+C: así se puede enfermar
+
+M: feymeu kümelaymün
+C: por eso no es bueno 
+
+M: ayentual pikefiñengün
+C: se rían les digo a ellos;
+
+M: iñche ka 
+C: yo pues.
+
+nmdch-nfbat1_x_0196_nmdch_00: 
+M: Feley.
+C: Así es.
+
+M: Ka chumechi tüfachi l'awen'
+C: También como éste remedio 
+
+M: fill l'awen'
+C: distintos remedios
+
+M: kiñeke pu füchake che 
+C: a veces para las personas mayores
+
+M: kimniey foro kutranmu 
+C: se conoce para el dolor de muela 
+
+M: konkechi l'awen'
+C: remedio que sirve para esto;
+
+M: l'angelu rüle kutranmu
+C: si mure del resfrio
+
+M: konkechi l'awen'
+C: remedio que sirve para esto;
+
+M: ka feychi <uhm> trüna <uhm> kutranmeu 
+C: también .............
+
+M: narnar kutranmeu
+C: ...............
+
+M: mülepi l'awen'peka
+C: debe haber remedio pues 
+
+M: ka fey chumechi kay
+C: también así como pues 
+
+M: tüfachi chilkatuwe rukameu 
+C: en esta casa del conocimiento
+
+M: kom trapumngefui
+C: todo lo juntaron 
+
+M: fey ni l'awen'tual pichikeche?
+C: eso para hacerle remedio a los niños
+
+nmdch-nfbat1_x_0197_nfbat_00: 
+M: Feyta <uhm> trapumngefi 
+C: Entonces lo juntaron,
+
+M: feytichi fillke l'awen'
+C: eso, si distintos remedios
+
+M: fillke kimün
+C: distintos conocimientos
+
+M: fey mülele ta kom 
+C: así si están todos;
+
+M: <uhm> chempingiama
+C: que dijeron 
+
+M: feyta  kom ayüle 
+C: entonces...
+M: ti pu che femngetual feyta femafuyiñ ka.
+C: 

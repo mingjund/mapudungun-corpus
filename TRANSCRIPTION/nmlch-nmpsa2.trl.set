@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 519
+SpeakerNum: 2
+nmlch-nmpsa2_x_%04d_nmlch_00
+nmlch
+nmlch-nmpsa2_x_%04d_nmpsa_00
+nmpsa
+UserLables: 2
+<*SPA>
+<Cough>
+LableMenuFile
+C:\Program

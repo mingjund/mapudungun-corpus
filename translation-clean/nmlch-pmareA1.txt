@@ -1,0 +1,2506 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmareA1 
+; Last changes made on 01/30/2003 
+; Transcriber: Julio Marileo 
+; Comments:  
+;Traduce: Celestina Carilao.
+
+nmlch-pmareA1_1_0000_nmlch_00: 
+M: Marimari peñi.
+C: Buenas tardes hermano.
+ 
+nmlch-pmareA1_1_0001_pmare_00: 
+M: Marimari.
+C: Buenas tardes.
+
+nmlch-pmareA1_1_0002_nmlch_00: 
+M: ¿Chumleymiam <!1chumlimiam> tüfapüle?.
+C: ¿Como estan por aca?.
+
+nmlch-pmareA1_1_0003_pmare_00: 
+M: Kümelekan peñi, kom kümelekayiñ.
+C: Estoy bien hermano, estamos todos bien. 
+
+nmlch-pmareA1_1_0004_nmlch_00:
+M: ¡Ah!.
+C: ¡Ah!.
+
+nmlch-pmareA1_1_0005_pmare_00:  
+M: ¿Eymi tami mapu <%> chumleymi <!1chumlimi> kay peñi?.
+C: ¿Por su lugar como estan pues hermano?.
+
+nmlch-pmareA1_1_0006_nmlch_00: 
+M: Iñche tañi mapumeu <!1mapumu>ta kümelkaleyiñ <!1kümelkaliñ>
+C: En mi lugar estamos todos bien
+
+M: kom kümelkaleyiñ<!1kümelkaliñ> 
+C: estamos todos bien
+
+M: iñche ta tripapan <uh>wüya tripapan epe kiñe antü ta <uh> küpan tati fau 
+C: yo sali, ayer sali me demore casi un dia para venir aca
+
+M: pewenche pemean tañi peñi pin
+C: ire a ver a los pehuenche, mis hermanos dije
+
+M: fey Lonquimay pingey <!1pingi>tachi mapumeu <!1 mapumu>ta 
+C: pues Lonquimay se llama este lugar pues
+
+M: miaupan tati fey tüfameu <!1tüfamu> pentuküpapeyu tati.
+C: ando aca pues, lo vine a visitar pues.
+
+nmlch-pmareA1_1_0007_pmare_00: 
+M: Fey tati peñi, fey tati ¿tami fütra <!1ta>chau mülekay?.
+C: Asi es hermano, asi es¿ su gran padre se encuentra?.
+
+nmlch-pmareA1_1_0008_nmlch_00: 
+M: May. 
+C: Sí.
+
+M: Müley <!1müli> tañi fütra chau +/kümel/+.
+C: Esta mi gran padre.
+
+nmlch-pmareA1_1_0009_pmare_00: 
+M: ¿Mür külfunley <!1külvunli>?.
+C: ¿Los dos estan bien?.
+
+nmlch-pmareA1_1_0010_nmlch_00: 
+M: Mür.
+C: Los dos.
+
+nmlch-pmareA1_1_0011_pmare_00: 
+M: ¿Mür müleyengu <!1müliengu>külfunleyngu <!1külvünlingu>?.
+C: ¿Los dos estan, estan bien?.
+
+nmlch-pmareA1_1_0012_nmlch_00: 
+M: May. 
+C: Sí.
+
+M: Mür külfünküleyengu < !1külfunkülingu>tüfa.
+C: Ahora los dos están bien.
+
+nmlch-pmareA1_1_0013_pmare_00: 
+M: Fey müten ta kümeluam külfünleanta kümey peñi küme trekayawün ta kümey.
+C: Eso esta bien, estar bien es bueno hermano, cuando se anda caminando bien es bueno.
+ 
+nmlch-pmareA1_1_0014_nmlch_00: 
+M: Feley pues <!1pu> feley.
+C. Así es pues.
+
+nmlch-pmareA1_1_0015_pmare_00:  
+M: Feley
+C: Así es.
+
+nmlch-pmareA1_1_0016_nmlch_00: 
+M: Küpalafun iñche fey.
+C: Yo no iba a veni.r
+
+nmlch-pmareA1_1_0017_pmare_00: 
+M: Fey.
+C: Eso.
+ 
+nmlch-pmareA1_1_0018_nmlch_00:
+M: Tati küpalayu dungu.
+C: El que iba a traer la noticia.
+
+nmlch-pmareA1_1_0019_pmare_00: 
+M: Fey, fey.
+C: Eso, eso.
+
+nmlch-pmareA1_1_0020_nmlch_00:
+M: ¿Eymi ta kom tami<uh> lof tüfameu <!1 tüfamu> +/tror/+  trürkümekaleymün ka?.
+C: ¿Usted, aquí toda su comunidad, están todos bien?.
+
+nmlch-pmareA1_1_0021_pmare_00: 
+M: May. 
+C: Sí.
+
+M: Kumeleyiñ <!1kümeliñ>tati kümeleyiñ <!1kümeliiñ> 
+C: Estamos bien pues, estamos bien
+
+M: <*SPA>y chuntelen tüfameu <!1 tüfamu> taiñ 
+C: los que habemos aca, los que 
+
+M: konkenmu ta rewemeu <!1rewemu>tüfeymu <!1tüfimu> taiñ ngillatukemu 
+C: entramos al rehue, allí donde hacemos la rogativa
+
+M: feymu ta kom kümeleyiñ <!1kümeleiñ> kom kümeleyiñ.
+C: por eso estamos todos bien, estamos todos bien.
+
+nmlch-pmareA1_1_0022_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+nmlch-pmareA1_1_0023_pmare_00: 
+M: Kom kümeley <!1kümeli>.
+C: Esta todo bien.
+
+nmlch-pmareA1_1_0024_nmlch_00: 
+M: Kom kümelkaleygün <!1kümelkalingün> may.
+C: Están todos bien pues.
+
+nmlch-pmareA1_1_0025_pmare_00: 
+M: Fey kümeleyiñ.
+C: Pues estamos bien.
+ 
+nmlch-pmareA1_1_0026_nmlch_00: 
+M: ¿Feyti peñi iney <!1ini> pingey <!1pingi> anta peñi lof tüfa 
+C: ¿Pues hermano como se llama, pues hermano esta comunidad 
+
+M: tami mapu tüfameu <!1tüfamu>?.
+C:su lugar aca?.
+
+nmlch-pmareA1_1_0027_pmare_00: 
+M: Bernardo Ñanco.
+C: Bernardo Ñanco.
+
+nmlch-pmareA1_1_0028_nmlch_00: 
+M:Bernardo Ñanco pingey <!1pingi>.
+C: Bernardo Ñanco se llama.
+
+nmlch-pmareA1_1_0029_pmare_00: 
+M: Bernardo Ñanco.
+C: Bernardo Ñanco se llama.
+
+nmlch-pmareA1_1_0030_nmlch_00: 
+M: ¿Eymi iney <!1ini> pingeymi <!1pingimi>tüfa?.
+C: ¿Usted ahora como se llama?.
+
+nmlch-pmareA1_1_0031_pmare_00: 
+M: Alberto Rozas Chanillao, Chanillao.
+C: Alberto Rozas Chanillao, Chanillao.
+
+nmlch-pmareA1_1_0032_nmlch_00: 
+M: Alberto Rozas Chanillao.
+C: Alberto Rozas Chanillao.
+
+nmlch-pmareA1_1_0033_pmare_00: 
+M: Chanillao<Noise>.
+C: Chanillao.
+ 
+nmlch-pmareA1_1_0034_nmlch_00: 
+M: ¿Tunten tripantu deumaneymi <!1deumalimi>peñi?.
+C: ¿ Cuantos años ya tiene hermano?.
+
+nmlch-pmareA1_1_0035_pmare_00: 
+M: <*SPA>Setenta <*SPA>años.
+C: Setenta años.
+
+nmlch-pmareA1_1_0036_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+M: Regle mari.
+C: Setenta.
+
+nmlch-pmareA1_1_0037_pmare_00: 
+M: Regle mari.
+C: Setenta.
+
+nmlch-pmareA1_1_0038_nmlch_00: 
+M: Alün tripantumu.
+C: Con hartos años.
+
+nmlch-pmareA1_1_0039_pmare_00: 
+M: Amülewüyey <!1amülewüyi> antü ka, 
+C: Van pasando los dias pues, 
+
+M: amülewüyey <!1amülewüyi> ta tripantu ka 
+C: van pasando los años pues 
+
+M: wedalen ka deupu<%>mütre alüymawelayan <!1alüymawelan>ka<Noise>
+C: estoy mal, ya no voy a estar mucho tiempo
+
+M:  traymawelayiñ ta mapumeu <!1mapumu>ka chi menguantün
+C: no vamos a pisar mucho la tierra y tambien el menguante
+
+M: eypile <!1pile>fütra <!1ta>chau ngütrüm müleymu  ta chau 
+C: si dice el gran padre, si me llama el gran padre 
+
+M: fey <!1vey>amüan <!1amon>ka <%> mülean ka.
+C: pues ire, voy a estar pues.
+
+nmlch-pmareA1_1_0040_nmlch_00: 
+M: Feley <!1feli> llemay chi.
+C: Asi es pues.
+
+nmlch-pmareA1_1_0041_pmare_00: 
+M: Fey <!1vey>, ta fey <!1vey>fütra <!1 ta >chau müten puulukelü iñchiñ tüfa<uh>
+C: Eso, eso pues por el gran padre hemos llegado hasta aca
+
+M: küme trekayauyiñ küme mongeleyiñ <!1mongeleiñ>piwüyiñ ka
+C: andamos caminando bien, estamos viviendo bien, nos decimos pues
+
+M: fütra chau pürakintunepuyiñ puliwen pürakintupafiyiñ 
+C: al gran padre alzamos la mirada en la mañana, le alzamos la mirada
+
+M: ngillatupafiñ <!1ngillatupaviñ> fütra chau, 
+C: le rogamos al gran padre,
+
+M: puliwen ta nguillatupafiñ <!1nguillatupaviñ> müdaymu
+C: en la mañana le rogamos con muday
+
+M: ngillatupaken moll tüfameu <!1tüvamu>taiñ kümeleyal tañi pu püñen
+C: siempre vengo a rogar aca, para que mis hijos esten bien 
+
+M: kümeleyal tañi pu weni, kümeleyal kiñenen wentru  püñen tüfa, 
+C: para que mis amigos esten bien, tengo un hijo varon ahora, 
+
+M: *pintrür tripatuy kümeleal tañi domo 
+C:............. salio, para que mi mujer este bien 
+
+M: nien kude <*SPA>ya tiupüle<!1tieple> Kümelepe, nien kude 
+C: tengo una anciana ya por allá, tengo una anciana 
+
+M: piken ngillatunmeu <!1ngillatunmu> ka lukutulpakefiñ fütra chau<Noise>
+C: digo en la rogativa, también me arrodillo ante Dios
+
+M:  fey <!1vey> müten elüneteu ta neiñ ta iñchiñ fütra <!1ta> chau müten
+C: ese no mas nos da vida a nosotros, el gran padre no mas 
+
+M:  puulin ta kümeley <!1kümeli> ka <Noise> 
+C: si llegamos va a estar bien
+
+M: welu femnoliyiñ kay  wedaleayiñ <!1wedaleaiñ>
+C: pero si no hacemos eso vamos a estar mal 
+
+M: lukutungey <!1lukutungi> fütra chau ngillatungey <!1ngillatungi> fütra chau 
+C: uno se arrodilla ante el gran padre, se le ruega al gran padre
+
+M: pewenmeu <!1pewenmu> mülepuyem ka ngillatukefiñ müley <!1müley> tati, 
+C: cuando estamos en las veranadas también le rogamos, hay pues,
+
+M: ka müley <!1müli> ta Kesucritu <!1jesucritu> ngillatuken kesucritumu ta kümey
+C: también esta jesucristo, le ruego a jesucristo es bueno
+
+M: re paisanu ngütranmu ngillatukefiñ <!1ngillatukeviñ> 
+C: solo en lengua mapuche le ruego
+
+M: witrampüramnen pikefiñ <!1pikeviñ> <Noise>
+C: mantenme de pie le digo
+
+M:  deu amülnen alün tripantu pikefiñ <!1pikeviñ>,
+C: ya llevo hartos años le digo,
+M:  allkuynga allkulay re poyentumu pu, 
+C: escucho pues, no escucha solo con recuerdos pues,
+
+M: pu kintufili pu kintulaneuca pu kintunolimu pu kintulaneuca
+C: si no lo busco, no me buscara, si no me busca que no me busca
+
+M: mudaymu ngillatupefuy <!1ngillatupevuy>
+C: con muday había rogado
+
+M:  pewenmeu <!1pewenmu> veranameu <!2veranamu> 
+C: en la cordillera, en la veranada
+
+M: puwün tam feychi antü pun tam doy puliwen <%> .
+C: llegue esa vez, de dia llegue o tal vez mas temprano.
+
+nmlch-pmareA1_1_0042_nmlch_00: 
+M: Kumelkakeymi <!1Kümelkakimi> tati peñi<Noise>, 
+C: Esta bien hermano
+
+M: feyta eymi <Noise> fentren<!1fenten> tripantu nieymi 
+C: pues usted todos esos años tiene
+
+M: welu kümekechi ta yenekey <!1yeneki> tami mongen <Noise> 
+C: pero lleva bien su vida
+
+M: feymu penu ta fente küme ta mongeleymi <!1mongelimi> ka fey ka<Noise>.
+C: yo creo que por eso esta viviendo bien, eso también pues.
+
+nmlch-pmareA1_1_0043_pmare_00: 
+M: Feymu <!1veymu> ta mongelen ka peñi, feymu <!1veymu> ta mongelen <%>.
+C: Por eso estoy vivo pues hermano, por eso estoy vivo.
+
+nmlch-pmareA1_1_0044_nmlch_00: 
+M: Lle<%> .
+C:
+
+nmlch-pmareA1_1_0045_pmare_00: <%> 
+nmlch-pmareA1_1_0046_nmlch_00: 
+
+M: Feyta rüme küme dungu pingey <!1pingi> tati.
+C: Eso es una muy buena cosa se dice pues.
+
+nmlch-pmareA1_1_0047_pmare_00: 
+M: Puwülu müten fütra chau kümey <!1kümi>
+C: Cuando llega no más, el gran padre es bueno
+
+M:  +/llatun/+  llatungey pekankonlay  che chemu rüme che ka
+C: se le pregunta, no entra asi no mas la persona en cualquier parte
+
+M: komu rüme <!1ume> pekan ka müley ko ka,
+C: ni siquiera en el agua asi no mas, también hay agua,
+
+M: müley ta küme ngen ta kuidanelu ko, 
+C: hay un buen dueño que cuida el agua, 
+
+M: müley ta mawidameu <!1mawidamu>  Kuidanelu 
+C: el que cuida esta en la cordillera 
+
+M: <*SPA>dueño elunengelu <*SPA>poder ta kuidal ta mawida
+C: el dueño que da poder para cuidar las cordilleras
+
+M: ka müley <!1müli> tüfey <!1tüfi> tati 
+C: también hay eso pues
+
+M:  ka müley <!1müli> tufachi <!1tuvachi> pu pewen, 
+C: también hay estas araucarias,
+
+M: kuidapelu pewen, Kuidapelu mamüll kom müley <!1müli> anay peñi, 
+C: el que cuida los pinos, el cuida las leñas, hay todo pues hermano,
+
+M: pekan utrunarkunulu tati, ngillatungi ta mamüll, 
+C: no porque si cae pues, se le pide leña,
+
+M: ngillatuy lukutulu ta mamüll eluali <!eloli> fütra che 
+C: se le pide, el que se arrodilla para pedir leña, una gran persona
+
+M: uluy taiñ mamüll uluy tañi pewen llatu 
+C: da su leña, da su araucaria...
+
+M: <*SPA>en <*SPA>valde <!2revalde> pekan treka konlay ta che 
+C: en valde no entra caminando la persona 
+
+M: kümelay trekakonün wesaley <!1wedali>tati.
+C: no sirve entrar, es malo pues.
+
+nmlch-pmareA1_1_0048_nmlch_00: 
+M: Mapuche rüme alünekefuy kimün pingey kuyfi ta peñi, 
+C: El mapuche tenia muchos conocimientos antiguamente se dice pues hermano,
+
+M: eymi ta kimpapelafimi<Noise>  ngütram,
+C: usted debe conocer las conversaciones,
+
+M: kimpapelafimi dungu kuyfi<Noise>  
+C: debe haber conocido las conversaciones antiguas
+
+M: fentren tripantu deuma nielueymi <!2nielimi>
+C: cuando tenia todos esos años
+
+M: <uh> rüme <!1ume> yamkefuy ta ko, menuko, 
+C: temia mucho al agua, al pantano,
+
+M: ngen ko <uh> mapuche pingey <!1pingi>.
+C: dueño del agua, mapuche se llama.
+
+nmlch-pmareA1_1_0049_pmare_00: 
+M. Fey llemay.
+C: Asi es pues.
+
+nmlch-pmareA1_1_0050_nmlch_00: 
+M: <Noise> ¿Felepelafuy tüfey <!1tufi>?.
+C: ¿ Era así?.
+
+nmlch-pmareA1_1_0051_pmare_00: 
+M: Feley <!1vely>peñi, rüme <!1ume>+/wed/+ <!1weda>chemngey <!1chemngi> ta ko 
+C: Así es hermano, se respetaba mucho el agua 
+
+M: ngillatukangey <!1ngillatukangi> ta pu rümey <!1ümi>ta che +/entu/+ 
+C: se le le pedia, para que la persona pasara  pues
+
+M: pekan konlay ta menuko ta che anay peñi wesaley <!1wedaley> tati 
+C: así no mas no entraba la persona en el pantano pues hermano, era malo pues
+
+M: ka pekan fütrake <!1trake> mawidameu <!1mawidamu>puulu
+C: tampoco cuando se llegaba  a las grandes cordilleras
+
+M: ka ngillatumengi ta mawida ka kümeyawual che küme rumeal <!1umeal> che, 
+C: tambien se le pedia a la cordillera, tambien para que la persona ande bien , para pasar bien
+
+M: iñchiñ ta mülepukelu putru mapu mülepukeiñ veranameu <!1veranamu> lle 
+C: cuando nosotros estamos muy lejos , estamos en la veranada pues
+
+M: pütrüpüra amukey <!1amuki> ta kiñeke neyin küllin üyeu waka neyin 
+C: muy arriba van algunos, tenemos algunos animales, alla tenemos vacas
+ 
+M: feyta puliwen tripakeyiñ feyta <!1veyta> pütra mawida müleyey <!1müleyi>
+C: pues salimos en la mañana, hay grandes cordilleras
+
+M: ngillatukefiñ <!1ngillatukeviñ>petu <!1metu> ñi amunmu ngillatuyaulkefiñ 
+C: le ruego cuando voy caminando siempre le ando rogando
+
+M: fütra chau tañi kume trekayawual miawun akutuy kume akutuy<Noise>.
+C. al gran Padre para caminar bien cuando ando y para llegar, bien.
+
+nmlch-pmareA1_1_0052_nmlch_00: 
+M: <Noise> ¿Küme akutukeymün?.
+C: ¿Llegan bien?.
+
+nmlch-pmareA1_1_0053_pmare_00: 
+M: Küme aküketuyiñ, küme aküketuyiñ.
+C: Llegamos bien, llegamos bien.
+
+nmlch-pmareA1_1_0054_nmlch_00: 
+M: ¿Welu eymi tüfa tami pichi wentrungen kimneymi <!1kimimi> tami  yamafiel ko
+C:¿Pero cuando era niño sabia que deberia respetar al agua
+
+M:  ka tami yamafiel mawida peñi tüfey <!1tüfi>?.
+C: y tambien respetar a las cordilleras hermano?.
+
+nmlch-pmareA1_1_0055_pmare_00: 
+M: Fey <!1vey>,fey <!1vey>,fey <!1vey>, kimün fey <!1vey> müten
+C: Eso, eso,eso e conocimiento no mas
+
+M:  eypial tañi pucheyem ta küyfi <!1küyvi>
+C: para que hubieran dicho mi gente fallecida antes
+
+M: tañi <*SPA>aweluyem <!1awueluem> tañi chauyem <!1chauem>
+C: mi abuelo fallecido, mi padre fallecido
+
+M: nefuy pütrün tripantu
+C: tenía hartos años
+
+M: l´ay fey tañi aweluyem <!1aweluem> doy nefuyem
+C. cuando fallecio mi abuelo tenía mas 
+
+M:  ka iñche pichi kampugen pichi wentru ngen yem
+C: y también yo era un niño, era un pequeño hombre
+
+M: witratuyaulkefiñ <*SPA>abuelo <!1awelu> yemelketufiyiñ
+C: andaba trayendo a mi abuelo, lo iba a buscar
+
+M: feymu <!1feymu> kimnefiñ <!1kimneviñ> pütrufuy tañi ngütram<Noise>
+C: por eso lo conocia, eran largas sus conversaciones 
+
+M: <*SPA>costa <!1 cota> ta küme ngen kuidaneyu pikey <!1piki>
+C: la costa lo cuida un buen dueño decia
+
+M: menuko müley <!1 müli> küme wentru kuidaneteu, 
+C: hay pantanos que son protegidos por buenos hombres,
+
+M: mawida müley <!1müli> küme gulmen pien
+C: hay montañas, buenos dueños me dijo
+
+M: pekan konlay ta che tati ngillatukunukeam
+C: asi no mas no entra la persona pues, primero se rogaba
+
+M: tripan <Noise>  amün <%> mawidameu <!1mawidamu>püralmün
+C. cuando se salia, cuando se iba a la montaña, cuando se subia
+
+M: nguillatukeafimün tamün küme trekayawal
+C: deben rogarle para que anden bien
+
+M: küme yawal pikefuyiñ <!1pikeviyiñ> taiñ fütrakeche anay peñi.
+C: para andar bien decian mis grandes gentes pues hermano.
+
+nmlch-pmareA1_1_0056_nmlch_00: 
+M: Fey llemay ta kümekechi ta ngülam ta afkületuy  tüfa peñi
+C: Asi es pues los buenos consejos se están terminando ahora hermano
+
+M:   weda <!1wesa> dungu ta konküley <!1konküli>
+C: las cosas malas están entrando
+
+M:  ta müley <!1müli> ta weda dungu ta müley <!1müli>
+C: pues hay, hay malas noticias, pues hay
+
+M: taiñ mongelelmeu <!1mongelelmu> inalepapelu<Throat> <Noise>  tati peñi.
+C: en nuestro vivir, los que vienen atrás pues hermano.
+
+nmlch-pmareA1_1_0057_pmare_00: 
+M: Afletuy, afletuy wingka taiñ duam femuy <!1 vemuy> ka peñi
+C: Se esta terminando, se esta terminando por causa de los huinca pues hermano
+
+M: wingka kiñeke wecheke wentru winkawüy<uh>
+C: huinca, algunos hombres jovenes se vuelven huinca
+
+M: fey <!1vey>duamwelafi <!1welavi> mapuche ngütram
+C: ya no quieren las conversaciones mapuche
+
+M: ngülchake duam, duamwelafi <!1duamwelavi> mapuche ngütram 
+C: conversaciones nuevas, ya no quiere las conversaciones mapuche
+
+M: apummaymekengey <!1apumaymekengi> tati<*SPA>religion konüy <!1koni>
+C: lo estan terminando, pues entro la religión
+
+M: wentekonlepay wedaley ti peñi, 
+C: esta metido, esta mal pues hermano,
+
+M: wedalefi <!1wedalevi> feychi <!1veychi>ngütram wedaley tati
+C: esta mal la conversacion, esta mal pues
+
+M: femngechi akuy chi ngütram <*SPA>religion ngütram moyma wedaley.
+C: asi llego la conversacion, la conversacion de la religion por equivocacion esta mal.
+
+nmlch-pmareA1_1_0058_nmlch_00: 
+M: ¿Feyta ngewetulay ngülam feyentungewetulay fütrakeche ka peñi?.
+C: ¿Pues no hay consejos, ya no le creen a las grandes personas hermano?.
+
+nmlch-pmareA1_1_0059_pmare_00: 
+M: Feyentungewetulay <!1veyentungewetulay>
+C: Ya no le creen 
+
+M: ka afüy <!1avuy>ta  apukumnumangey ñi ngütram,
+C: y también se termino, le terminaron sus conversaciones,
+
+M: apumkunumangey ngütram ta che
+C: le acabaron la conversacion a la persona
+
+M: feychi <!1veichi> pu<*SPA>religionmeu <!1religionmu>re wingka dunguy
+C: en esa religión hablan solo en castellano
+
+M: kantay tiüpüle amuy wechuñpüle müyauleyngün amuy
+C: cantan, van por allá por arriba, andar por ahí, van 
+
+M: tüfamu <!1tuvamu> <*SPA>menos <*SPA>mal <!2menumal>
+C: aquí menos mal
+
+M: iñchiñ pichilewuyiñ tati lof lewi ta fey <!1vey>femkenon
+C: nosotros quedamos pocos, pues queda como una reduccion que no hace eso
+
+M: fey puulu <%> fütra chau<*SPA> puro <!1puru> künuy
+C: pues cundo llego el gran padre, dejo todo puro
+
+M: chi dungu müten
+C: la conversación no mas
+
+M: epuchi puulu wütripantu puutuan
+C: o cuando llego dos ....................
+
+M: kechu konchi <*SPA>setiembre mülekey <!1müleki> tati tüfameu <!1tüvamu>
+C: cuando entra el cinco de septiembre hay aca pues
+
+M: pirenlepe rüme <!1üme> mülepe  piren rüme <!1üme> maupe rüme <!1üme>
+C: aunque este nevando, aunque haya nieve, aunque llueve
+
+M:  <*SPA>tenemos <!1tenimu> <*SPA>que <*SPA>estar <*SPA>ahí
+C: tenemos que estar ahí
+
+M: iñchiñ mülepoyiñ <*SPA>porque iñchiñ ta <*SPA>komprometiuleyiñ
+C: nosotros vamos a estar allá, porque nosotros estamos comprometidos
+
+M: y müleal <!1mülean> müten +/chema/+ chumlepe rüme <!1üme>.
+C: y para que haya no mas, sea como este.
+
+nmlch-pmareA1_1_0060_nmlch_00: 
+M: Rümeli <%>  pu kimün.
+C: Si paso los conocimientos.
+
+nmlch-pmareA1_1_0061_pmare_00: 
+M: May.
+C: Sí.
+
+M: Femkey <!1femki> tati peñi trumel trumel ngellipukeyiñ <!1ngellipukiñ>
+C así sucede pues hermano...............................rogamos
+
+M: ka tüfachi <*SPA>diciesiete <*SPA>de <*SPA>enero konkeyiñ <11konkiñ>
+C: y también este diecisiete de enero entramos
+
+M: <Noise> tüfa ka konayiñ<*SPA>dicisiete <*SPA>de <*SPA>enero
+C: ahora también vamos a entrar el diecisiete de enero
+
+M: pile fütra chau llemay fütra chau<Noise>nag adkünuay
+C: si el gran padre quiere, el gran padre, lo va a dejar asi
+
+M: chumtuafuy  <!1chumtovuy> rüme <!1üme>
+C: le puede suceder cualquier cosa
+
+M: ka chem antü rüme <!1üme> chumtofuy <!1chumtovuy>
+C: y también cualquier dia le puede suceder algo
+
+M: ngilliftofuy che ñamtofuy <!1ñamtovuy> anay peñi
+C: se puede volver huesos la persona, se puede perder pues hermano
+
+M: elmeleymi <!1elmelimi>  ngütram feychi <!1veychi><%> puwuayiñ taiñ rewemeu ka
+C: si va a dejar esa noticia, llegaremos a nuestro rehue pues
+
+M: ka <Noise> pichi trawükeyiñ tiemu <!1timu> pütra kaman che 
+C: también nos juntamos pocos allí, hartas personas 
+
+M: trawükey tiemeu <!1timu> akükey <!1akuki> nome che
+C: se juntan, llegan personas del otro lado
+
+M: kañpüle küpakey kiñeke kañpüle küpakey <!1küpaki> che
+C: algunos vienen de otras partes, de otras partes vienen personas
+
+M: <*SPA>Pedregoso <!1peireoso> mitrawquen ka tati
+C: Pedregoso, Mitrauquen también pues
+
+M: niey <!1ni> ta<%> <uh> kilken feypüle<!1viple>ka küpakey <!1küpapi> che
+C: los que tienen, las personas que estan por Quilquen también vienen
+
+M: pütrün <!1trü>trawükey <!1trawüki> tüfameu <!1tamu>.
+C: se juntan hartos aca.
+
+nmlch-pmareA1_1_0062_nmlch_00: 
+M: ¿<uhm> Alün<!1alü> trawükeymun <!1trawükimün>?.
+C: ¿Se juntan hartos?.
+
+nmlch-pmareA1_1_0063_pmare_00: 
+M: Alün <!1alü> pütrün <!1pütrü> trawükey <!1trawuki>
+C: Muchos, hartos se junta
+
+M: pütrü trawükey <!1trawüki> <%><%> kañi ka akulkey <!1akulki
+C: se juntan hartos, ese también trae 
+
+M: <*SPA>alcalde akuy feychi <!1veychi> pu <*SPA>autoridad
+C: alcalde llego esa vez pues, autoridad
+
+M: ka akuy welu wingka ka wingka.
+C: tambien llego, pero huinca, otro huinca.
+
+nmlch-pmareA1_1_0064_nmlch_00: 
+<%> .
+
+nmlch-pmareA1_1_0065_pmare_00: 
+M: <%> nelafuy <!1nelavuy> <*SPA> derecho,
+C: no tienen derecho,
+
+M: +/nela/+kechafel <!1kechavel> ta wingka ta iñchiñ
+C: nosotros deberiamos echar a los huinca
+
+M: niefuyiñ <!1nievuyiñ><*SPA>derecho taiñ kechafel <!1kechavel>
+C: tenemos derecho de echarlos
+
+M: iñchiñ wingka tiemu <!1timu> tukonofulu <!1tukunovulu> kay
+C: nosotros no deberiamos colocar a los huinca ahí pues
+
+M: iñchiñ taiñ rewe kay iñchiñ taiñ kewüemeu <!1kewüemü>
+C: como es un rehue de nosotros, en nuestro rehue 
+
+M: petu  <!1metu> ngütramkaulu iñchiñ kay
+C: ya que estamos conversando pues
+
+M:  fütra chau afisapefiyiñ <!1avisapeviyiñ> taiñ kümeleal
+C. al gran padre le avisamos para estar bien
+
+M: wingka traulnetofiyiñ <!1traunetovin> ka kümelay peñi
+C: tenerlos juntos a los huinca no es bueno pues hermano
+
+M: feymu <!1vimu> eypiukeyiñ kechakefuyiñ <!1kechakevuyin > ta wingka
+C: por eso nos deciamos, hemos echado a los huinca
+
+M. kiñeke weni wingka kompay kompakay elukefiñ <!1elukeviñ><*SPA> permiso
+C: algunos amigos huinca entra,entran le damos permiso
+
+M:  kimpayal<%> ramameu <!1ramameu>
+C: para que conozca la ramada
+
+M: amutuliyiñ wingkameu <!1wingkamu> wedaletofuyiñ
+C: si vamos al pueblo podemos estar mal
+
+M:  kechangetofuyiñ <!1kechangetovuyiñ>ka<Noise>.
+C: nos pueden echar pues.
+
+nmlch-pmareA1_1_0066_nmlch_00: 
+M: Feley <!1feli>.
+C: Asi es.
+
+nmlch-pmareA1_1_0067_pmare_00: 
+M: Feley <!1veli> tati peñi<Noise>.
+C: Asi es hermano
+ 
+nmlch-pmareA1_1_0068_nmlch_00: 
+M: Feyti peñi eymi ta rüme alün tripantü deuma ta femekekeimün
+C: Pues hermano usted hartos años lleva en esto
+
+M:  ta ngellü <Noise> femekekimün<uh> wintukimün ka ngenechen
+C: apenas han hecho eso................ a otro ser superior
+
+M: feymu <!1veymu> penu fente <!1vente> küme kellunekeymü
+C: yo creo que por eso le ayuda harto le ayuda para bien
+
+M: tami fentren mongentual ka feyta <uh> wecha kütrankomnol tam lofmeu
+C: para que viva harto pues, para que no entre una mala enfermedad en su comunidad
+
+M:  ka tami <%> meu.
+C: y tambien pues.
+
+nmlch-pmareA1_1_0069_pmare_00: 
+M: Fey <!1vey>llemay.
+C: Asi es pues.
+
+nmlch-pmareA1_1_0070_nmlch_00: 
+M: <uh> Chemu ngillatukimün tufamü peñi
+C: Con que ruegan aca hermano
+
+M:chemanta puwülkimün tami ngillatuemu.
+C: con que llegan donde hacen la ceremonia.
+
+nmlch-pmareA1_1_0071_pmare_00: 
+M: Puwülkeyiñ <!1 puwurkeiñ>  taiñ ngillatun ta<uh> pewen tapül keyiñ
+C: Donde hacemos la ceremonia llevabamos hojas de araucaria
+
+M: epu pichi pewen menü ka ta tukupuyiñ taiñ ofisa <!1ovisa>
+C: dos pequeñas araucarias, también la cabeza de pìñones, colocamos las ovejas
+
+M: epu ufisa <!1ovisa> kompukey feymu <!1veymu>
+C: dos ovejas entran ahi
+
+M: ka epu caballo <!1collu> trunkolkompukey <!1trunkolkompuki>
+C: también dos caballos, entra rodando
+
+M:  ka kiñe waka kurü waka kompuy
+C: también una vaca, una vaca entra 
+
+M. feyta <!1veyta>puwkintukefiñ <!1puwkintukeviñ>
+C: pues lo busco
+
+M: <%> ngillatulken feychi <!1veychi> pu küllin ta rewemeu <!1rewemu>.
+C: ruego con esos animales en el rehue.
+
+nmlch-pmareA1_1_0072_nmlch_00: 
+M: Pewentukey <!1Pewentuki>.
+C: Con araucaria.
+
+nmlch-pmareA1_1_0073_pmare_00: 
+M: Pewentuukey <!1pewentuiki>, menüluukey <!1menüluiki> <Cough>
+C: ..............
+
+M: <Noise> puwkey <!1puwki> taiñ küllin
+C: llegan nuestros animales
+
+M. ka puwkey <!1puwki> epu ufisa <!1ovisa>
+C: también llegan dos ovejas
+
+M: ka puwkey epu kollu kurü kollu<Noise>
+C: también llegan dos caballos, caballos negros
+
+M: ka kiñe waka puukey <!1puki>
+C: también llega una vaca
+
+M:<*SPA> novillo <!1novillu> <*SPA>toro kiñe toro puwuy
+C: novillo, llega un toro, un toro
+
+M: ngillatupufiñ <ngillatupuviñ>ta trewa
+C: le pedimos perros
+
+M: feychi <!1veychi><%> ellu nungey tüfa <!1tüva> pu küllin pikefiñ
+C: esa vez apenas agarraron este animal le decimos
+
+M: eluneymu<%> eluney ngilliu taiñ mongeleal 
+C: nos esta dando, esta dando piñones para sobrevivir
+
+M: kiñeke neyiñ ovisa fey <11vey> kümelepe taiñ ovisa traftripa pikey <!1piki>
+C: tenemos algunas ovejas, pues que esten bien las ovejas, lejos die
+
+M: ka kümelepe taiñ lelfün <!1lelvun> kachungepe taiñ lelfun <!1lelvun> pikeyiñ
+C: que también esten bien los campos, que tengan pastos los campos decimos
+
+M: kümele taiñ ko pikeyiñ komu mongelu ta che 
+C: que esten bien nuestras aguas decimos, ya que por el agua vive la gente
+
+M: tüfa <!1tüva> anküle ta ko ngewelafuy <ngewelavuy> ko
+C: si ahora se seca el agua, no quedarian aguas
+
+M: afafuy <!1avavuy > ko<%> fütra chau afafuy <!1avavuy> ko ngewelafuy ko 
+C: se acabaria el agua, el gran padre puede terminar el agua, no quedarian aguas
+
+M: gülmen piwenole entumeal ñi ko katrutule ñi ko gülmen
+C: si el dueño no quiere que vaya a sacar agua, si corta el agua el dueño
+
+M: fey <!1vey> afafuy <!1avavuy> ngewelafuy ko
+C: pues se acabaria, no quedaria agua
+
+M: küllin ta kodeafuy <!1jodeavuy>ka afafuy <Swallow><%> .
+C: los animales joderian, también se acabarian.
+
+nmlch-pmareA1_1_0074_nmlch_00: 
+M: ¿Eymün tüfa <Cough> peñi anta epu antu ka puwulkimün tamün llellipun?.
+C: ¿Ustedes ahora hermano, dos dias también dura su ceremonia?.
+
+nmlch-pmareA1_1_0075_pmare_00: 
+M: Epu antu, epu antu. epu antu nekey <!1neki> ta llellipun ta <*SPA>enero küyen,
+C: Dos dias, dos dias, en el mes de enero tienen dos dias de rogativas, 
+
+M: tüfa chi <*SPA>cinco <*SPA>de <*SPA>septiembre<!2cincueseptiembre>
+C: este cinco de septiembre
+
+M: kiñe antu müten.
+C: un dia no mas.
+
+nmlch-pmareA1_1_0076_nmlch_00: 
+M: Kiñe antu.
+C: Un solo dia.
+
+nmlch-pmareA1_1_0077_pmare_00: 
+M: Kiñe antu, kiñe antu mülekeyiñ.
+C: Un solo dia, un solo estamos.
+
+nmlch-pmareA1_1_0078_nmlch_00: 
+M:¿Feytimu<Throat>  puliwen<uh> amukimün feymu <!1vimu>?.
+C: ¿Ahí van en la mañana?
+
+nmlch-pmareA1_1_0079_pmare_00: 
+M: Feyta <!1vayta> <*SPA>enero ngen umañkonkeyiñ<!1umañkoyiñ>
+C: Pues cuando es enero nos alojamos
+
+M: iñche umañkonpuken
+C: yo voy alojar
+
+M: tüfameu <!1tamu> umañ kompuken tiemu <!1timu>puchi <!1chi> tripafel <!1tripavel>
+C: aca voy alojar, entro allá, eso que es cerca
+
+M: umañpuken pun kay trekayaumofun pun <%>
+C: de noche voy alojar, no puedo andar caminando de noche
+
+M: puliwen pepikaukeyiñ ka ngütramkaukey <!1ngütramkauki> ta pu longko,
+C: nos preparamos en la mañana, también conversan los dirigentes,
+
+M. ngütramkaukey<!1ngütramkauki>  ta pu afkadi, 
+C: conversan los acompañantes,
+
+M: ngütramkaukey <!1ngütramkauki>  pu kuse mülechi pu domo
+C: conversan las ancianas, las mujeres que estan
+
+M: fey <!1vey>ngütramkayem tripay <Noise> nentuy taiñ ngütram engün
+C: y cunado conversan, sale, sacan conversaciones
+
+M: fey wüla ta tukupay taiñ punden ka
+C: recien ahí colocan sus utensilios, tambien 
+
+M: tukungepay tati manchana tukungepay tati pewen
+C: se coloca la manzana, se coloca la araucaria
+
+M. tukungepay ta ngudke tukungepay pu kullin ngula
+C:se coloca la cabeza de piñones en formación, recien se colocan los animales 
+
+M: feywüla <!1veyula>kompakey <!1kompaki>.
+C: recien de ahí entra.
+
+nmlch-pmareA1_1_0080_nmlch_00: 
+M: ¡Aa!.
+C: ¡Ah!
+
+nmlch-pmareA1_1_0081_pmare_00:  
+M: Fey wüla empesakey <!1empezaki> tañi witramgey <!1witramngi> bandera
+C: Recien ahí comienza, se iza la bandera
+
+M: witramgey <!1witrangi> kom lituy fey wula pürukey <!1purüki> ta che
+C: se iza, cuando esta todo listo de ahí recien danza la persona
+
+M: wünen longko llemay purü punotu rewe pafi ti rewe punofi 
+C: el primer jefe pues, danzando pisa el lugar del rehue
+
+M: <*SPA>despues<*SPA>segundo,
+C: después el segundo,
+
+M: segundo longko ka purüyka femgechi <!1fangechi>.
+C: el segundo jefe tambien danza de esa manera.
+
+nmlch-pmareA1_1_0082_nmlch_00: 
+M: Inalelu.
+C: El que sigue.
+
+nmlch-pmareA1_1_0083_pmare_00: 
+M: Inalelu<*SPA>después <!1depue>ta meli chi tripa,
+C: El que sigue, despues tal vez salen cuatro,
+
+M: meli tripay purüm feyta <!1veyta> ngillatuyinka
+C: cuatro salen a danzar, pues hacemos la rogativa
+
+M: kom ngillatuyin feymu, kom ngillatuyin
+C: todos rogamos ahí, todos rogamos
+
+M: chi kawelltuyaulu muten ta müley <!1müli>
+C: el que anda a caballo no mas esta
+
+M:  ka ngillatumekellimay famgechi ngillatumekey <!1ngillatumeki> müten
+C: claro que esta rogando, asi esta rogando no mas
+
+M: wente kollu ngillatumekey <!1ngillatumeki> femgechi <!1vamngechi>
+C: encima del caballo esta rogando, asi
+
+M: puntefnentüy tañi <!1ñi> muday 
+C: derrama el muday
+
+M: akuy <*SPA>autoridad ka puntefnentupakey <!1puntefnentupaki>
+C: también llegan autoridades tambien ..................
+
+M:  ka <%> akukey <!1akuki> kiñeke paisanu
+C: también llegan algunos mapuche
+
+M: alutripa<%> wingka ka, ka famgechi elukifiyiñ muday
+C: también huinca que vienen de lejos, tambien asi le damos muday 
+
+M: puntefal ka lladkukelu iñchiñ kay<Noise>.
+C: para que....., como también nosotros nos enojamos. 
+ 
+nmlch-pmareA1_1_0084_nmlch_00:<hm>. 
+nmlch-pmareA1_1_0085_pmare_00: 
+
+M: Katrukeyiñ +/katrur/+ katrupe welu pikeyiñ <!1pikiyiñ>
+C: Cortamos, que se corte decimos
+
+M: ka fuyfi müna wesaleyiñ <!1wedaleyin> ta feychi <!1veychi> ta konuy 
+C: antes también estuvimos mal, esa vez cuando entro 
+
+M: ta <*SPA>volcan ta taiñ <*SPA>mocho ta wüechoduy wedaleyiñ
+C: el volcan, nuestro mocho cuando se rompio, estuvimos mal
+
+M: pütru akuy küpay <*SPA>Roble <*SPA> huacho
+C: llegaron hartos, vinieron de Roble Huacho
+
+M: <*SPA>asi <*SPA>que kimlu machi pütru akuy
+C: asi que cuando la machi supo llegaron hartos 
+
+M: feyta <!1vita> lukutüngepallimay taiñ kumeletuyial taiñ, 
+C: pues vinieron a arrodillarse para que estuviesemos bien,
+
+M: taiñ, taiñ<Cough> ketroneyiñ kümelepe
+C: nuestro, nuestro volcan mocho que este bien
+
+M: lif antü mülepetu <%> pingekey <!1pingeki>
+C: que existan dias buenos, limpios se decia
+
+M: tufameu <!1tamu> pirenley <!1pirenli> ka ta tati 
+C: aca estaba nevando, y también 
+
+M: üyeu tati tripaley <!1tripali> tati <*SPA>arena
+C: allá pues, salia la arena
+
+M:  tripalepay ta mochomü ta <*SPA>arena
+C: salia del mocho la arena
+
+M: <*SPA>como <*SPA>nieve <*SPA>estaba, 
+C: como nieve estaba,
+
+M: <*SPA>asi<*SPA>con <*SPA>nieve 
+C: asi con nieve
+
+M: <*SPA>también <!1tamien> <*SPA>revuelto <*SPA>con <*SPA>nieve 
+C: también revuelto con nieve
+
+M: <*SPA>el <*SPA>cinco <*SPA>de <*SPA>setiembre
+C: el cinco de septiembre
+
+M: <*SPA>fue <*SPA>eso,
+C: fue eso,
+
+M: <*SPA>amanecimos <!1manecimos> <*SPA>nosotros<*SPA>ahí
+C: amanecimos nosotros ahi
+
+M: pütru akuy che küpalu <*SPA>para <!1pa> <*SPA>fuera
+C: llegaron hartas personas, que vinieron de afuera
+
+M: <*SPA>menos <*SPA>mal <!2menomal> müley <!1müli> tati <*SPA>intendente 
+C: menos mal estaba el intendente
+
+M: <*SPA>gobierno<%> Pinochet müley <!1müli> feychi <!1veichi>
+C: esa vez estaba el gobierno de Pinochet
+
+M: ayuday, ayudafi <*SPA>para <!1pa> <*SPA>un <*SPA>almuerzo tati <*SPA>gente, 
+C: ayudo, le ayudo para un almuerzo a la gente,
+
+M: <*SPA>esa <*SPA>gente <*SPA>que <*SPA>vinieron <*SPA>lejos 
+C: esa ge nte que vinieron de lejos
+
+M:<*SPA>en <*SPA>el <*SPA>pueblo <!1pueulu> yetufi <!1yetuvi>
+C: los llevo para el pueblo
+
+M: kiñe gülcha +/wa=/+ <*SPA>una <*SPA>vaca
+C: una vaquilla, una vaca
+
+M: <*SPA>que <*SPA>lo <*SPA>carnearon
+C: que lo carnearon
+
+M: fey <!1vey> ayudafi pu <*SPA>comunidad <*SPA>pues <!1pu'>
+C: pues ayudo a las comunidades 
+
+M:  pero kiñe <*SPA>comunidad iñchiñ küme rüpan
+C: pero una comunidad, nosotros lo pasamos bien 
+
+M: y kompüle <!1komple>küpay ta <*SPA>comunidad <*SPA>pues <!1pu'>
+C. y de todas partes vinieron las comunidades pues
+
+M: Pedregoso <!1peireoso>, Icalma, Marimenuco, Krusako
+C: Pedregoso, Icalma, Marimenuco, Cruzaco
+
+M: <*SPA>todas <!1to'a> <*SPA>partes <*SPA>se <*SPA>lleno <*SPA>ahí.
+C: de todas partes , se lleno ahí.
+
+nmlch-pmareA1_1_0086_nmlch_00: 
+M: ¿Fey, fey feychi <uh>tripantumeu <!1tripantumu>
+C: ¿ Pues,pues ese año
+
+M: eymün inaulukülimün tüfameu <!tüfamu>?.
+C: ustedes estaban arrodllados aca?.
+
+nmlch-pmareA1_1_0087_pmare_00: 
+M: Fey ka fey.
+C: Eso pues, eso.
+
+nmlch-pmareA1_1_0088_nmlch_00: 
+M: Eymün inaukuluwlimün.
+C: Ustedes.....................
+
+nmlch-pmareA1_1_0089_pmare_00: 
+M: Iñchiñ ta <%>  wedaleyiñ ka.
+C: Nosotros estabamos mal pues.
+
+nmlch-pmareA1_1_0090_nmlch_00: 
+M: Wedaleymün <!wedalimün>, eymün ka.
+C: Estaban mal ustedes pues.
+
+nmlch-pmareA1_1_0091_pmare_00: 
+M: Wedaley <!wedali> nieyiñ kapura
+C: Estaba mal, teniamos cabras
+
+M. <*SPA>entro <*SPA>helada  <!1hela'> <*SPA>el <*SPA>pasto
+C: le entro hielo el pasto
+
+M: <*SPA>que <*SPA>comio 
+C: que comio
+
+M: <*SPA>se <*SPA>entro <Noise> <*SPA>adentro <!1 aentro>
+C: se entro adentro
+
+M: <*SPA>murio <*SPA>el +/ca/+ <Noise> mansun
+C: murio el buey
+
+M: iñche nien mansun pemen<!1pemi> mansun akulkatufün galponmeu <11walponmu>
+C: yo tenia bueyes, fui haber los bueyes, habia llegado al galpon 
+
+M:  fey mansun <*SPA>no <*SPA>pudo <*SPA>mas
+C: pues el buey no pudo mas
+
+M: lukutuyawüy ta <*SPA>se <*SPA>entro <*SPA>la <*SPA>arena <*SPA>adentro
+C: andaba de rodillas, le entro la arena adentro
+
+M: <*SPA>murio <*SPA>el <*SPA>buey <1weye>, 
+C: murio el buey,
+
+M: <*SPA>murio <*SPA>los <*SPA>caballo <11caballu>.
+C: los dos casballos murieron.
+
+nmlch-pmareA1_1_0092_nmlch_00: 
+M: Feyti chi.
+C: Pues el.
+
+nmlch-pmareA1_1_0093_pmare_00: 
+M: Tüfichi+/vol/+ tüfichi.
+C: Ese, ese.
+
+nmlch-pmareA1_1_0094_nmlch_00: 
+M: <*SPA>Volcan <*SPA>mocho.
+C: Volcan mocho.
+
+nmlch-pmareA1_1_0095_pmare_00: 
+M: <*SPA>Volcan <*SPA>mocho.
+C: Volcan mocho.
+
+nmlch-pmareA1_1_0096_nmlch_00: 
+M: ¿+/chu/+ chemanta entukey <!1entuki> pitrun pingün?.
+C: ¿Qué sacaba humos dijeron?.
+
+nmlch-pmareA1_1_0097_pmare_00: 
+M: Pitrun rulalkey <!1rulalki> pütrun ka, pütrun
+C: El humo sonaba, hartos también, hartos
+
+M:  <*SPA>un <!1una> <*SPA>fuego <!1 juegu> <*SPA>tenia <*SPA>grande
+C: tenia un fuego grande
+
+M:  tripay pitrün <*SPA>arena tripay,
+C: salia humo, salia arena ,
+
+M: wüne tiray <*SPA>puro <*SPA>fuego <!1juegu>
+C: primero tiro puro fuegos
+
+M: re kütral fütra <!1tra> kütral fanteke fütra <!1tra> ke küra
+C: solo fuegos, un gran fuego, piedras de este porte
+
+M:  ütrüftefy wechuñ<Noise>.
+C: lo tiraba hacia arriba.
+
+nmlch-pmareA1_1_0098_nmlch_00: 
+M: Feyti peñi feyta fey rüme wesalkalerkefeymün eymün tüfa
+C: Pues hermano, al parecer ustedes estaban muy mal aca
+
+M: fey <uh> llellipunmumay<%> feytamün rupa
+C: con la rogativa yo creo que pasaron 
+
+M:  feytichi wesa <!1weda> dungu.
+C: esa cosa mala.
+
+nmlch-pmareA1_1_0099_pmare_00: 
+M: Fey llemay <Noise> fey llellipuyiñ akuy taiñ pu peñi 
+C: Asi es, hicimos la rogativa, llegaron nuestros hermanos
+
+M: ayudapaymu<*SPA>para <!1pa'> <*SPA>afuera <11juera>
+C: nos vinieron ayudar lo de afuera
+
+M. kupa chi pu peñi <*SPA>roble <*SPA>huacho<!1uachu>
+C: vinieron los hermanos de roble huacho
+
+M: küpalu chi pu peñi kacique, machi akuy kompüle <!1komple>
+C: cuando vinieron los hermanos cacique, llegaron de todas partes
+
+M: akuy  <*SPA>distinta <*SPA>parte <*SPA>vinieron küpay engün
+C: llegaron, de distintas partes vinieron ellos
+
+M: <*SPA>y pepaymü tüfameu <!1túfamu> y ayuda ngillatupay tamü
+C. y nos vinieron a ver aca, y nos vinieron ayudar a rogar
+
+M: fey <!1vi> iñchiñ kay feyta <Cough> kümey <!1kümi>
+C: pues nosotros tambien, eso es bueno
+
+M: taiñ <!1tin> fempateu engün <!2vempatuyngün>
+C: los que vinieron hacer
+
+M: <*SPA>porque femnolengün <!1femnolingün> <*SPA>quisa upalafüy
+C: porque si no hubieran hecho eso quizas no hubiese pasado
+
+M:  küme kimnengeyiñ mandafiñ rüme <!1ume>  pimekepallimay  +/ma/+
+C: nos conocen bien, lo mandamos estaba diciendo aca 
+
+M:  tati küme gülmen machi akuy mandapey <!1mandapi> werken
+C: pues el buen dueño, llego la machi, mando un mensajero
+
+M: fürentu deumay ngüpitu llemay katrülnge
+C: hizo un favor.................................
+
+M:  +/tami/+, tami lelfunmeu <!1lelfunmu>pingey <!1pingi>tati
+C: en su campo se dice pues
+
+M:  kuidanelu ta tañi mocho ka tañi <*SPA>volcan <!1welcan>
+C: el que esta cuidando el mocho, y también el volcan
+
+M: fey küpay chi machi, meli machi ta entupay
+C: pues vino la machi, cuatro machi vinieron a sacar
+
+M: ka femekepay eymün eypiaymün  ka mekeyu
+C: estaba haciendo asi, ustedes deben decir, tambien estabamos en eso
+
+M: ka iñche nolpay katrüpapel tati katray tüfa ta pichike katray
+C: también yo, cruzo lo que vino a cortar, esto se va a cortar de a poco
+
+M: tamün mawida püle <!2mawidaple> tami wenu fijanekaymün <!1vijanekaymün>
+C: por su cordillera , su cielo deben estarlo fijando 
+
+M: chumuechi amutuyal tati ñochy amutoy
+C: como se va a ir pues, se fue de a poco
+
+M: fütra <!1tra>muna como <*SPA>nube <*SPA>va <*SPA>ir <!2pa'lla'> eypi <!1pi>
+C: el gran, como una nube se va ir dijo
+
+M: femkayka wüle puliwen tati lloftomun eypi <!1pi>
+C: asi fue, mañana temprano lo van a ver dijo
+
+M: lloftufiñ tati <*SPA>nube <*SPA>se <*SPA>fue <*SPA>anoche
+C: vimos la nube se fue anoche 
+
+M: amuy +/tati/+, tati ko tromürke +/amutu/+ kurü tromürke amutuy
+C: se fue , el agua como nube, como nube negra se fue 
+
+M: ñochi <!1ngochi> kalmay, ñochi kalmay tati mawida,
+C: poco a poco se calmo, poco a poco se calmo la cordillera,
+
+M: kalmatuy <*SPA>y <*SPA>ahí <*SPA>quedo <*SPA>tranquilamente <*SPA>quedo
+C: se calmo y ahí quedo tranquilamente, quedo
+
+M: pichike elüngekatuyiñ ta külliñ 
+C: nos dieron siquiera un poco de animales
+
+M: ka  kiñeke elungekatuyiñ iñche<%> ñangumün kiñe traiñ mansun l'ay ta tamu
+C: nos dieron algunos siquiera, yo perdi una yunta de bueyes, murio el buey
+
+M:  ka taiñ kawellu, kapura, ofisa
+C: y también mi caballo, cabras, ovejas
+
+M: +/llüp/ fey tañi<uhm> hay  +/vi/+ kom peymangepatun telefisangey <!1televisangey>
+C: pues mi, hay todos me lo vinieron a ver, lo vinieron a televisar
+
+M: peymangepatun <*SPA>aqui <*SPA>una <*SPA>autoridad <*SPA>Temuko <*SPA>vinieron
+C: me vinieron a ver aquí una autoridad, de Temuco vinieron,
+
+M: <*SPA>todos <*SPA>los <*SPA>muertos
+C: todos los muertos
+
+M: <*SPA>que <*SPA>habia <*SPA>ahí <*SPA>y kullingekatün pichin
+C: que había ahí, y me pagaron un poco siquiera
+
+M: kullingekatün subsidiongetun +/mita/+, mita müten
+C: menos mal me pagaron, me subsidiaron, la mitad no mas
+
+M:  mita <*SPA>del <*SPA>que <*SPA>animal
+C: la mitad del animal 
+
+M:  <*SPA>del <*SPA>que <*SPA>valia 
+C: del que valia
+
+M: <*SPA>la <*SPA>mitad kullingekatun ka peñi.
+C: la mitad siquiera me pagaron pues hermano.
+
+nmlch-pmareA1_1_0100_nmlch_00:
+M:  ¿Küllingekatuymi ragiñ?.
+C: ¿Le pagaron siquiera la mitad?.
+
+nmlch-pmareA1_1_0101_pmare_00: 
+M: Ragiñ, ragiñ, ragiñ pichy pekatun 
+C: La mitad, la mitad, la mitad siquiera encontre
+
+M: feymu ka % witratripakatun ka ñochi witratripakatuyiñ tati peñi feymu <!1vimu>
+C: con eso me levante, y de a poco nos volvimos a levantar pues hermano, por eso
+
+M: pelafuyiñ pekan pengenolü chi plata % pekan pengelay % 
+C: no hubiesemos encontrado, ya que la plata no se encuntra asi no mas
+
+M: fütrake mansun muna fali <!1vali> kiñeke pekan pelafiyiñ 
+C: los grandes bueyes cuestan hartos, algunos no lo encontramos asi no mas
+
+M: waka, kawuellu, kapüra pengekefuy tüfameu <!1tüfamu> ufisa pengefuy 
+C: vaca, caballos, cabras se encuentran aca, las ovejas se encuentran
+
+M: <*SPA>pero, <*SPA>pero alün pengey ka peñi,
+C: pero, pero se encuentra harto pues hermano,
+
+M: rüme <!1ume> wüya weñañlekeyiñ ta feychi
+C: esa vez estabamos muy triste
+
+M: kimkelayiñ ta chumal chi kom afpelayiñ pikefuyiñ ka 
+C: no sabiamos que hacer, tal vez todos nos acabaremos deciamos pues
+
+M: eipiyiñ <!1piyiñ>ta ngillatunmu, ngillatumean rangin fütra chau 
+C: deciamos en las rogativas, voy a ir a rogar la mitad, el gran padre
+
+M: feymu <!1vimu> ta puulken ta chau 
+C: por eso acudo al padre
+
+M: ngülpay tati pu machi<Noise> feymeu <!1veimu> puulu kim tüfa ka 
+C:........... las machi, por eso el que lleva el conocimiento ahora pues
+
+M: <*SPA>el <*SPA>cinco ngoyilafi ta <*SPA>cinco 
+C: el cinco, no hay que olvidar el cinco
+
+M: <*SPA>todo <!1to'o>  <*SPA>el <*SPA>tiempo <*SPA>+/tenemos/+ <!1tenimos>
+C: todo el tiempo tenemos 
+
+M: mülekey <!1 müleki >ta +/kechukon/+, kechukon mülekey <!1müleki>
+C: todos los cinco hay, los cinco hay 
+
+M: piren lepe rüme <!1üme> maulepe rüme <!1üme> mülekey <!1müleki> müten.
+C: aunque este nevando, aunque este lloviendo, se hace no mas.
+
+nmlch-pmareA1_1_0102_nmlch_00: 
+M: Pu wingka chem pikey tüfameu <!1tüfamu>
+C: Los huinca que dijeron aca 
+
+M: Lonquimay femekelu tüfa ta fütra ketro neyiñ?
+C: cuando en Lonquimay estaba haciendo eso el volcan mocho?.
+
+nmlch-pmareA1_1_0103_pmare_00: 
+M: +/Ayüw/+, Putrümna ayüwüy engün <!2ayüwüygün> 
+C: Se alegraron hartos
+
+M: ka müna<!1na> kümekey mapuche pi, 
+C: que bueno lo que estan haciendo los mapuche dijeron
+
+M: müna küme newen nerkey <!2newenerki> mapuche pi <Noise> 
+C: que buena fuerza tiene el mapuche dijeron
+
+M: üpatun <*SPA>despues wüla  rüpalu <!1üpalu> pifiñ<Throat>.
+C: pase, después que paso le dice.
+
+nmlch-pmareA1_1_0104_pmare_00: 
+M: Fey wüla feyentuy engün.
+C: Recien ahí ellos creyeron. 
+
+nmlch-pmareA1_1_0105_pmare_00:  
+M: Fey wüla feyentuyengün<Noise> 
+C: Ahí recien creyeron 
+
+M: müna küme nerkeyengün <!1nerkingün> ta newen ta metu mapuche pi, 
+C: que bueno que todavia tienen fuerza los mapuche dijeron,
+
+M: feymu  ta kortalpay engün pi pütrunche kay  trawüpay tüfameu  <!1tamu>
+C: por eso ellos vinieron a detener dijeron, como se juntaron hartas personas aca
+
+M: <*SPA> eso <*SPA>si ta chumlayiñ <!1 tumlayiñ> iñchiñ ta 
+C: eso si que a nosotros no nos paso nada
+
+M: re <*SPA>kodio <!1jodio> <*SPA>los <*SPA>animales <*SPA>no <*SPA>mas, 
+C: solo jodieron los animales no mas,
+
+M: kodey<!1jodey> küllin müten<Swallow><%> 
+C: joderieron los animales no mas
+
+nmlch-pmareA1_1_0106_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Fey tati iñche ka rakiduamken 
+C: Pues yo también medito 
+
+M: ka wesa dungumu  <!1 sungumu>amüley  <!1amüli> ta <*SPA>naturaleza<uh>
+C: tambien la naturaleza va en una mala situacion 
+
+M: rüme amuy ta <*SPA>sequia, rüme amuy ta mawün, 
+C: la sequia ahora ha ido avanzando, las lluvias han aumentado,
+
+M: fey wüla ta mapuche cheu chi lefuy tañi llellipun pikey <!1piki> ta wingka.
+C: recien ahí los huinca dicen donde esta la rogativa de los mapuche.
+
+nmlch-pmareA1_1_0107_pmare_00: 
+M: May.
+C: Sí.
+
+nmlch-pmareA1_1_0108_pmare_00: 
+M: Faupüle ka feleperkey <!1feleperki> may.
+C: Por aca debe ser igual.
+
+nmlch-pmareA1_1_0109_pmare_00: 
+M: Ka feley <!1veli> ka,  feley <!1veli> peñi, ka feley <!1feli> tati.
+C: Asi es pues, asi es hermano, asi es pues.
+
+nmlch-pmareA1_1_0110_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+nmlch-pmareA1_1_0111_pmare_00: 
+M: Ka feley <!1feli>.
+C: Asi es.
+
+nmlch-pmareA1_1_0112_nmlch_00: 
+M: ¿Eymün welu ta <uh> kuyfi tamün fütrakeche femkelafuy feytichi peñi?.
+C: ¿Pero ustedes, antes sus ancianos no le sucedia eso hermano?.
+
+nmlch-pmareA1_1_0113_pmare_00: 
+M: Femkelafuy <!1vemkelafuy>, femkelafuy <!1vemkelafuy, femkelafuy <!1vemkelafuy> 
+C: No sucedia, no sucedia, no sucedia
+
+M: kuyfi piam rupay <!1üpay> ka, ka rüpay <!1üpay> piam
+C: creo que antes paso también, también creo que paso
+
+M: fütra kuyfi <*SPA>como <*SPA>ciento <*SPA>veinte <*SPA>años
+C: hace mucho tiempo, como ciento veinte años
+
+M:  ütray piam ta +/mo/  ta <*SPA>volcan tati ketroneyiñ
+C: creo que estremecio el volcan, el mocho
+
+M:  ütrunaupay piam <*SPA>pedazo wechuñ, wechuñ +/ütrü/+ 
+C: creo que cayeron pedazos de arriba, de arriba
+
+M: <*SPA>como <*SPA>que <*SPA>partio 
+C: como que partio
+
+M: <*SPA>se <*SPA>corrio <*SPA>la <*SPA>piedra 
+C: se corrio la piedra
+
+M: <*SPA>tiro <*SPA>para <*SPA>alla <!2pa'lla> üyüpüle <!1yüwpüle>
+C: tiro para allá, para allá
+
+M:  witraküra taiñ mawida, wingkul mawida üyeuchi nagüy 
+C: por la montaña donde la piedra esta levantada, la montaña pequeña cayo por allá
+
+M: tapüle femlafuy tüfa ütrufpay faupüle pues <!1pu'> 
+C: por aca no habia sucedido eso, ahora tiro por aca pues
+
+M: feymu <11veymu> ta kodeyiñ ka ti wechod engü tati, tati mawida
+C: por eso jodimos, tambien con la erupcion pues, el gran cerro
+
+M:  <*SPA>puro <*SPA>fuego <!1 juegu> ütrüflukay, 
+C: puro fuego tiro pues,
+
+M: <*SPA>puro <*SPA>fuego <!1juegu>, <*SPA>y <*SPA>arena
+C: puro fuego y arena
+
+M:  <*SPA>y <*SPA>fuego<!1juegu>, <*SPA>hay pütruyma miawi che
+C: y fuego, hay hartos tiempo anduvieron las personas
+
+M: lloftumey <!1lloftumi> <*SPA>que <*SPA>le <*SPA>va <*SPA>hacer
+C: fue a mirar que le va hacer
+
+M: <*SPA>estaba <*SPA>negro +/pure/+ 
+C: estaba negro
+
+M: <*SPA>casi <*SPA>estaba <*SPA>oscuro 
+C: casi estaba oscuro
+
+M: <*SPA>puro<!1puru>, <*SPA>puro<!1puru>,  cheike.
+C: puro, puro , humos.
+
+nmlch-pmareA1_1_0114_nmlch_00:
+M:  ¿Feytichi degiñ<uh> katrülu peñi 
+C: ¿Cuándo ese volcanse corto hermano
+
+M: tüfey <!1tüfi><uh> wechodkületuy feula kam?.
+C: eso esta roto ahora hermano, o?
+
+nmlch-pmareA1_1_0115_pmare_00: 
+M: Tapatüy, tapatüy epe kom, epe kom tapaletuy ta<uhm>
+C: Se tapo, se tapo casi todo, ahora esta casi todo tapado
+
+M: chem rüme <!1üme> ütrufkonüy, chem ütrufkonüy
+C: cae cualquier cosa, cualquier cosa cae
+
+M: <*SPA>solo <*SPA>se <*SPA>tapo <*SPA>por <*SPA>el <*SPA>viento, 
+C:sólo se esapo con el viento
+
+M: <*SPA>remolino, tañi mülemu tati  <*SPA>arena,
+C:  hay remolin, one esta la arena
+
+M: <*SPA>piedra fey <!1vey> <*SPA>hay <*SPA>esta <!2ayta´> 
+C: la piedra ahí esta
+
+M: feyta <1vita> epeke tapatuy ta.
+C: esta casi  tapada, ahora
+
+nmlch-pmareA1_1_0116_nmlch_00: 
+M: epe.
+C: casi
+
+nmlch-pmareA1_1_0117_pmare_00: 
+<%> .
+
+nmlch-pmareA1_1_0118_nmlch_00: 
+M: ¿Eymün ngemekeymün kay peñi?.
+C: ustedes han ido a alcanzar hermano
+
+nmlch-pmareA1_1_0119_pmare_00: 
+M: Ngemekeyiñ<%>.
+C:hemos ido
+ 
+nmlch-pmareA1_1_0120_nmlch_00: 
+M: Chumlewey <!1chumlewi> nageltu adkintugey <!1adkintungi>?.
+C:¿cómo quedo cuando se mira por la orilla?
+
+nmlch-pmareA1_1_0121_pmare_00: 
+M: Adkintunungey <!1adkintunungi> pütrü kolau ki ellaka pütru konkey <!1konki> 
+C: cuando se mira se vuelve oscuro, de primera era muy profundo
+
+M: <*SPA>daba <!1da´> <*SPA>miedo, <*SPA>daba <!1da´><*SPA>miedo
+C: daba miedo, daba miedo
+
+M: <*SPA> ahora<*SPA>dicen<*SPA>que <*SPA>esta<Noise> 
+C: ahora dicen que esta 
+
+M: apoy pingey <!1pingi> epe apoletuy pingekey <!1pingeki>
+C: se ha dicho que se lleno, casi esta lleno se ha dicho
+
+M:  iñche ngemewekelan alütripakay chi pütru tripa. 
+C: yo no he ido alcanzar mas, ya que queda lejos
+
+M: ¿Eymi rüpakelaymi <!1üpakelaymi> ka peñi feypüle <!1veypule>?.
+C: ¿usted no ha pasado por ese lugar hermano?.
+
+nmlch-pmareA1_1_0122_nmlch_00: 
+M: <Swallow> Iñche fey püle rupakelafen<%> .
+C: Yo no he pasado por ahí.
+
+nmlch-pmareA1_1_0123_pmare_00: 
+M: No.
+C: No.
+
+nmlch-pmareA1_1_0124_nmlch_00: 
+M: Kimlafiñ fey.
+C: No conozco eso.
+
+nmlch-pmareA1_1_0125_pmare_00: 
+M: Kimlafimi munawüyalkaley <!1münawüyalkali>
+C: No lo conoce, esta muy feo 
+
+M: munawedalkaley <!1münawedalkali> <*SPA>pura <*SPA>piedra 
+C: esta feo, pura piedra
+
+M: <*SPA>puro<*SPA> volcán <*SPA>cerca volcán +/aut/+ +/pullu/+ upan autulleta
+C: puro volcan , cerca del volcan, donde paso el auto pues
+
+M:  feyta rompi fe <!1ve >+/ku/+ rupay autu ka kuyfi 
+C: se rompio pues, antes también paso auto
+
+M: rüpulu konüy <*SPA>tractor <%> wingka 
+C: cuando hizo camino el tractor huinca
+
+M: <*SPA>mucho<*SPA>antes<*SPA>sera<*SPA>pues<!1pu´>
+C: mucho antews sera pues
+
+M: <*SPA>y<*SPA>hay<*SPA>se<*SPA>rompio 
+C: y hay se rompio
+
+M: <*SPA>todo <!1too´><*SPA>el<*SPA>camino rüpümeu <!1rüpümu>.
+C: todo el camino, en el camino.
+
+nmlch-pmareA1_1_0126_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+nmlch-pmareA1_1_0127_pmare_00: 
+M: Rupümeu <!1rüpümu>.
+C: En el camino.
+
+nmlch-pmareA1_1_0128_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+nmlch-pmareA1_1_0129_pmare_00: 
+M: Re rüpümeu <!1rupümu> re rüpu.
+C: Solo en el camino, solo camino.
+
+nmlch-pmareA1_1_0130_nmlch_00: 
+M: ¿Fey rupawekelay ta engün?.
+C: ¿Ahora ya no pasan?.
+
+nmlch-pmareA1_1_0131_pmare_00: 
+M: Rupawelay  <!1upawelay> feymu <!1veymu> engün wechuñ re rupaketuy engün <!1ngün> 
+C: Ellos  Ya no pasan por ahí, solo pasan por arriba
+
+M: <*SPA>cruce faupüle kompüketuy no pasa na´ <*SPA>aca
+C: el cruce entra por aca, no pasa aca
+
+M: <*SPA> lado <!1lau><*SPA>arriba <*SPA>pasan.
+C: lado arriba pasan.
+
+nmlch-pmareA1_1_0132_nmlch_00: 
+M: ¿Ilkuychi ta ngen wenkün?.
+C: ¿Tal vez el dueño se molesta?.
+
+nmlch-pmareA1_1_0133_pmare_00: 
+M: Femuyka <!1vemuyka> ilkuy ka ngen kidulenochi mawida kay
+C: Asi es pues se molesta también el dueño, como la cordillera no esta sola
+
+M:  ilkuy müten lladküy dueñu kuidanelu tiemu <!1timu>
+C: se molesta no mas, el dueño se enoja, el que esta cuidando ahí
+
+M: ka mülelu küme ngen kuidanelu tiemu kay 
+C: también hay buenos dueños  que cuidan ahí pues
+
+M: <*SPA>en <*SPA>valde <!2revalde> mulelay chi feychimu <!1veychimu>
+C: en valde no esta ahi
+
+M:  feychi <!1veychi> mawida mülelay en valde <!2revalde> pues <!1pu´>
+C: en esa cordillera no esta en valde pues
+
+M: <*SPA>puro <*SPA>fuego <*SPA>tiene
+C: puro fuego tiene
+
+M: ilkuy feymu <!1vimu><%> kodey <!1jodey> pues <!1pu´>.
+C: se molesta por eso, jode pues.
+
+nmlch-pmareA1_1_0134_nmlch_00:
+M: ¿ Feyti chi wechod mapu kay peñi tüfey <!1tüfi> mülelu ta
+C: ¿ Ese hoyo que hay en la tierra pues hermano, ese que esta
+
+M: cheu rüpakey <!1üpaki> ta <*SPA>maquina ¿iney <!1iñi> deumay?
+C: donde pasan las maquinas, ¿quien lo hizo?
+ 
+M: ¿ kuyfi deumangey <!1deumangi> tüfey <!1tüfi>?
+C: ¿antes se hizo eso?
+
+M: ¿iney <!1iñi> wechoduy tachi mapu tüfey <!1tüfi>?..
+C: ¿quién rompio esa tierra, eso?.
+
+nmlch-pmareA1_1_0135_pmare_00: 
+M: <%> <%> ¿Chuchi peñi?.
+C: ¿Cuál hermano?.
+
+nmlch-pmareA1_1_0136_nmlch_00: 
+M: Tüfey <!1tüfi> <*SPA>túnel.
+C: Ese tunel.
+
+nmlch-pmareA1_1_0137_pmare_00: 
+M: <*SPA>Túnel fütra kuyfi fütra +/ku/+iñche pichi wentrungen, 
+C: El tunel mucho antes, mucho, yo era un niño,
+
+M: pichi wentrungen kudawün pütrun wingka paisanuymau kudawüy 
+C: era un niñocuando trabaje, hartos huincas, también mapuche
+
+M: feymu <!1veymu> <*SPA>entro <*SPA>mucho <*SPA> trabajadores peñi 
+C: ahí entro mucho trabajadores hermano
+
+M: fütra <!1tra> kuyfi  kudawüy feymu che +/che/+ iñche pichi wentrü ngen
+C: mucho antes trabajo la gente ahí, yo era un niño
+
+M: fey kudawüy che<*SPA>pero<*SPA>me +/hab/+kimnefiñ +/ ti/+ kudaengün ka
+C: pues trabajaba la gente, conozco lo que trabajaron pues
+
+M: <*SPA>habían <*SPA>mucho<*SPA>viejo 
+C: habian mucho viejo
+
+M: <*SPA>ese <*SPA>ahora kom l´atuy ta pu fücha <!1futa> 
+C: esos ahora, han muerto todos los ancianos 
+
+M: <*SPA>que<*SPA>trabajaban +/vichi/+
+C: que trabajaban
+
+M: feychi <!1veichi> tunélmeu <!1tunelmu><Noise><%> .
+C: en ese túnel.
+
+nmlch-pmareA1_1_0138_nmlch_00: 
+M : ¿Tunten<uh> chemu deumangiam tati re pikotamu?.
+C: ¿Cuántos, con que se haria sólo con picota?.
+
+nmlch-pmareA1_1_0139_pmare_00: 
+M: Re pikotamu, re pikotamu, re pikotamu taiñ ta
+C: Solo con picota, solo con picota, solo con picota pues los
+
+M: wingka <*SPA> y paisanu<*SPA>dicen <*SPA>que 
+C: huinca y mapuche dicen que 
+
+M: <*SPA>derrumbo <!1reumboui> piam tati, tati petu <!1metü> küdaumu ta 
+C: se derrumbo pues, cuando estaban trabajando pues
+
+M: <*SPA>como <*SPA>esta <*SPA>casa küdawuafuy tamu 
+C: podrian estar trabajando como en esta casa
+
+M: <%> püchimna amulnefuy <*SPA>excavacion<!1revocacion>
+C: habia avanzado harto la excavacion
+
+M:  igual que este asi<!2eteasi><*SPA> dicen<*SPA>que<*SPA>repente 
+C: igual que este, asi dicen que de repente
+
+M: famna choyoñ femuy  <*SPA>quedaron <*SPA>todo<*SPA>ahí
+C: cayeron de repente , quedaron todo ahi
+
+M:  l´alay piam kellullefe <!1kellulleve> <*SPA>la <*SPA>tierra
+C: creo que no murieron, la tierra ayudo
+
+M: <*SPA>como<*SPA>cuatro <*SPA>dias 
+C: como cuatro dias
+
+M: <*SPA>dicen <*SPA>que está <!1ta´> <*SPA>el <*SPA>mal palatuy kakelu ka 
+C: dicen que esta el mal, los otros tomaron la pala también 
+
+M: palatükunutuy engün kidu ka palatukunufemuy 
+C: ellos tomaron la pala, el también tomo la pala
+
+M: kidu wechod tripapatuy ngütramkakeneu kiñe fütra wingka
+C: el salio por un hoyo, me conversaba un gran huinca 
+
+M: felekeyiñ <!1velekeiñ>pi <*SPA>sufrimos <!1sufrimu><*SPA>mucho eypi chi +/ta/+ che 
+C: estabamos asi dijo, sufrimos mucho dijo la persona
+
+M: <%> ta wingka <*SPA><Noise> pero fütra kuyfi ka peñi chumte tripantumu chi<Noise>.
+C: el huinca, pero mucho antes pues hermano, quizas cuantos años.
+ 
+nmlch-pmareA1_1_0140_nmlch_00: 
+M: +/ Mar/+Iney <!1iñi> rüme l´ala.
+C: Nadie murio.
+
+nmlch-pmareA1_1_0141_pmare_00: 
+M: +/L´a/+ Iney rüme <!2iñirume> l´alay.
+C: Nadie murio.
+
+nmlch-pmareA1_1_0142_nmlch_00: 
+M: Traimafi pelü engün.
+C: Los aplasto cuando ellos los vieron.
+
+nmlch-pmareA1_1_0143_pmare_00: 
+M: Traimafi wechod nagpay 
+C: Los aplasto, bajo como un derrumbe
+
+M: wechu welu rüpalay <!1üpalay> ta wechod  tati 
+C: pero arriba no paso, el derrumbe pues
+
+M: trufulley <!1trufül li> +/napüp/+ napüy fütrun nagpay tüfameu <!1tamu> 
+C: estaba chueco.............hartos bajaron aca
+
+M: serafemuy ka, <*SPA>cerró <*SPA>el eñumko <%> neyeiñ<%> 
+C: se cerro pues, el agua tibia, tenemos
+
+M:  inatuymuchi<%> kakelu küdauküley <!1küdauli> pütrün <%> 
+C: tal vez nos sigui, los trabajan hartos
+
+M: <*SPA>cincuenta küdauleafuy tiemu <!1 timu> 
+C: cincuenta pueden estar trabajando ahi
+
+M: <*SPA> cincuenta mapuche <*SPA>o wingka <*SPA>no <*SPA>minero.
+C: cincuenta mapuche o huinca, no minero.
+
+nmlch-pmareA1_1_0144_nmlch_00: 
+M: ¿<Noise> <Swallow>Iney <!1iñi> rüme l'akelay feychi tunelmu peñi?.
+C: ¿Nadie ha muerto en ese tunel hermano?.
+
+nmlch-pmareA1_1_0145_pmare_00: 
+M:  No
+C: No
+
+M: l'akelay<%>  .
+C: no ha muerto.
+
+nmlch-pmareA1_1_0146_nmlch_00: 
+M: ¿Iney <!1Iñi> chem dungu  rüme <!1ume> ngekelay 
+C: ¿Nadie, no ha habido ninguna cosa,
+
+M: wedake <!1weshake>  dungu feymu?.
+C: malas cosas ahí?.
+
+nmlch-pmareA1_1_0147_pmare_00: 
+M: No. 
+C: No.
+
+M: Ngekelay wedake dungu peñi 
+C: No ha habido cosas malas hermano
+
+M: tüfameu <!1tamu> ta  tranglinkey <!1tranglinki> ta pükemu tati 
+C: aca cae helada en el invierno pues
+
+M: rümewüya <!1ümewüya> tranglinüy welu  chumkelay 
+C: cae mucha helada, pero no pasa nada
+
+M: <*SPA>pasa <*SPA>bien el +/wu/+ <*SPA>pasa kümelekey <!1kümeleki>, 
+C: pasa bien el, pasa, esta bien,
+
+M: kümey <!1kümi> autü kom kümelekey <!1kümeleki> chumkelay.
+C: es bueno, los autos estan todos bien, no le sucede nada.
+
+nmlch-pmareA1_1_0148_nmlch_00: 
+M: Ngekelay chem <%>.
+C: No hay nada.
+
+nmlch-pmareA1_1_0149_pmare_00: 
+M: No. 
+C: No.
+
+M: Ngekelay chem dungu rüme <!1üme> ngekelay tüfameu <!1tamu>,
+C: No ha habido ninguna cosa, no ha existido aca,
+
+M:  n'amuntu rümekey <!1ümiki>  kuyfi che ka
+C: a pie pasa la gente pues
+
+M:  iñche rümen < !1ümen> ka  n'amuntu karetatulen rümen <!1ümen>
+C: yo también he pasado a pie, pase con carreta
+
+M:  karetatulen ka kiñe fütra <!1ta> wentru iñchu +/yoa/+ 
+C: con carreta, y también acompañado de un gran hombre
+
+M: epu <*SPA>yunta mansun amuy yeneyu amuyü <*SPA>kurakautin <!Kürakagtün>
+C: fueron dos yuntas de bueyes, llevabamos, fuimos a Curacautin
+
+M: <*SPA>ahi <*SPA>pasamos.
+C: ahí pasamos.
+
+nmlch-pmareA1_1_0150_nmlch_00: 
+M: Sufimu.
+C: Subimos.
+
+nmlch-pmareA1_1_0151_pmare_00:  
+M: Dumiñpe tukunulfiyu <!1tukunulviyu>ta luz ta pichin ta müta mansunmu 
+C: Por la oscuridad le colocamos un poco de luz en el cacho del buey 
+
+M: ka ta yugu mutamu <*SPA>lampara 
+C: también en el yugo lampara
+
+M: fütrake <!1trake> <*SPA>lampara tripakey <!1tripaki> 
+C: grandes lamparas salian
+
+M: <*SPA>ahi <*SPA>pusimos <*SPA>uno pero +/lamite/+, 
+C: ahí pusimos uno, pero
+
+M: ka <*SPA>la mitamu chongpuy, chongpuy ta luz 
+C: cuando hibamos en la mitad se apago, se apago la luz
+
+M: taiñ feymu <!1veimu> elelmengey <!1elelmegi> weni tañi fütra <!1ta> wentru 
+C:pues ahí le fueron a dejar amigo a mi gran hombre
+
+M: fey amuy kidu, amuy <*SPA>reten <*SPA>de carabinerumu
+C: pues el fue, fue al reten de carabineros
+
+M: feyta <!1 veyta>afuy  taiñ chempel <*SPA>bencina pi 
+C: pues se acabo lo que utilice como bencina dijo
+
+M: fey aretumean ta taiñ rümeton <%> pi, amuy ka 
+C: pues ire a conseguir para pasar dijo, y fue
+
+M: yo<uh> <*SPA>estaba <*SPA>ahi 
+C: yo estaba ahi
+
+M: eperaneken  akuy kidu +/aku/+ akutuy,<Noise>.
+C: estaba esperando, llego el, volvio.
+
+nmlch-pmareA1_1_0152_nmlch_00: <Noise> <%> .
+nmlch-pmareA1_1_0153_pmare_00: 
+
+M: Feley <!1feli>, feley <!1feli> yemey <!1llemi>
+C: Asi es, asi es, fue a buscar
+
+M:  feymu <!1vimu> tripayu <*SPA>como, 
+C: por eso salimos como,
+
+M: <*SPA>como <*SPA>las <*SPA>once tripapukayu feypüle <!veypüle> ka
+C: como las once yo creo que salimos por allá,
+
+M: tripapuyu fey püle <!1veypüle>.
+C: salimos por allá.
+
+nmlch-pmareA1_1_0154_nmlch_00:  
+M: <*SPA>Once <*SPA>de <*SPA>la <*SPA>mañana.
+C: Once de la mañana.
+
+nmlch-pmareA1_1_0155_pmare_00: 
+M: <*SPA>Once <*SPA>de <*SPA>la <*SPA>mañana 
+C: Once de la mañana
+
+M: <*SPA>y <*SPA>volvimos <*SPA>las<*SPA> diez 
+C: y volvimos las diez
+
+M: <*SPA>de<*SPA> la <*SPA>noche.
+C: de la noche.
+
+nmlch-pmareA1_1_0156_nmlch_00: 
+<Laugh> .
+
+nmlch-pmareA1_1_0157_pmare_00: 
+M: <*SPA>Ninguna <*SPA>cosa rindelay pichike rindey <!1rendi> 
+C: Ninguna cosa no rinde, rinde poco
+
+M: treka pichike trekayu,<Noise> pichike trekakeyu 
+C: caminamos, caminamos poco, caminabamos poco
+
+M: ka tronküpukeyu kañpüle ka tronküpukeyu ka 
+C: también chocabamos, en otra parte también chocabamos pues
+
+M: <*SPA>dos<*SPA>yunta <*SPA>bueyes <!1weye><*SPA>llevabamos 
+C: dos yuntas de bueyes llebavamos
+
+M: <*SPA>con <*SPA>carro amual <!1amol> kürakagtun iñchu
+C: con carro, para ir a curacautin nosotros
+
+M: llemeal pichike yewün iñchu.
+C: para ir a buscar un pòco de cosas.
+
+nmlch-pmareA1_1_0158_nmlch_00: 
+M: ¿Cheu?.
+C: ¿Dónde?.
+
+nmlch-pmareA1_1_0159_pmare_00: 
+M: kürakatun.
+C: Curacautin.
+
+nmlch-pmareA1_1_0160_nmlch_00: 
+M: Kürakatra.
+C: Curacatra.
+
+nmlch-pmareA1_1_0161_pmare_00: 
+M: May.
+C: Si.
+
+M:  Kurakautin ahí.
+C: ahí en curacautin.
+
+nmlch-pmareA1_1_0162_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!. 
+
+nmlch-pmareA1_1_0163_pmare_00: 
+M: May.
+C: Si.
+
+M: Kurakautin yemekelu <*SPA>cosa.
+C: Curacautin, el que fue a buscar cosas.
+
+nmlch-pmareA1_1_0164_nmlch_00: 
+M: ¿Feyti  petikelafuy waria?.
+C: ¿Pues todavia no habia pueblo?.
+
+nmlch-pmareA1_1_0165_pmare_00: nge<%>.
+nmlch-pmareA1_1_0166_nmlch_00: 
+
+M: Tüfameu <!1tamu>.
+C: Aca.
+
+nmlch-pmareA1_1_0167_pmare_00: 
+M: Ngekelay, ngekelay, ngekelay kuyfi llechi tronge ngekelay kuyfi,  
+C: No había, no había, no había antes pues, monte, no habia nates,
+
+M: doy tiyeüpüle rüme <11üme>, doy ngekelay 
+C: ni siquiera mas paras alla, tampoco había
+
+M: menkümegekey <!1menkümengi> ta rüngo 
+C: se iba a buscar harina al hombro
+
+M: <*SPA>al <*SPA>otro <*SPA>lado üyüu ta 
+C: al otro lado, por alla
+
+M: <*SPA>manzanar <*SPA>para <*SPA>aca <!2pa'ca>
+C: de manzanar para aca
+
+M: fente palekey <!1paleki> tüfameu <!1tamu>
+C: hasta ahí llegaba, aca
+
+M:  rüpu ta ünkülüwi ta mapuche pu domo +/ñeau/+ fütrake <!1take> wentru
+C: el camino mapuche era un atajo, de las mujeres, los grandes hombres
+
+M: müna weda pofre mülelu ta kay  peñi kiñeke <*SPA>parte 
+C: ya que ahora hay muchos pobres que estan mal pues hermano, en algunas parte
+
+M: kuyfi münawüya pofre müley <!1müli>
+C: antes habían muchos pobres 
+
+M: fey <!1vey> menkümekey <!1menkümeki> 
+C: pues al hombro 
+
+M: ta <*SPA>medio <*SPA>quintal <*SPA>de <*SPA>harina 
+C: pues medio quintal de harina
+
+M: <*SPA>alguno<*SPA> un <*SPA>quintal <*SPA>de<*SPA> harina<Noise>
+C: algunos un quintal de harina
+
+M:  taiñ akulafel tüfichi pu Foliche akulafel 
+C: los que deberian traer esos boliches, deberian traer
+
+M: mandau <*SPA>de <*SPA>estos wingka <*SPA>si,
+C: enviados por estos huinca si,
+
+M: manday wingka tüfameu <!1tamu>amuy 
+C: el huinca lo manda aca, va
+
+M: yelmen <*SPA>tanta <*SPA>cosa fey amüy ka kisu ka küpay 
+C: anda buscarme tantas cosas, pues iba, tambien el venia
+
+M: saku yemean menkümey <!1menkumi> kechukünoymün 
+C: voy a ir a buscar sacos, iba a buscar al hombro, deben ir el cinco
+
+M: fey <!1vi> ngillakamey yewün furitu engün
+C: pues iban a comprar las cosas al otro lado
+
+M: fey akulüy <!1akuli> tüfameu <!2tamu> <*SPA>sufrieron <*SPA>mucho 
+C: y lo traian hasta aca, sufrieron mucho
+
+M: <*SPA>esta <*SPA>gente<%> <%> <*SPA>mucho kuyfi,
+C: esta gente, mucho antes,
+
+M: fente fütra kuyfi tüfa may +/mon/+ pütruley <!1pütruli> yewün tufameü <!1tamu> 
+C: mucho antes, ahora pues hay hartas cosas aca
+
+M: <*SPA>falta <*SPA>plata müten ka peñi entungepatofuy.
+C: falta plata no mas pues hermano, se pueden sacar.
+
+nmlch-pmareA1_1_0168_nmlch_00:  
+M: Alüley tufameü <!1tüfamu> yegün ka.
+C: Aca hay hartas cosas pues.
+
+nmlch-pmareA1_1_0169_pmare_00: 
+M: Pütruley yegün faltay <*SPA>plata müten 
+C: Hay hartas cosas, falta la plata no mas
+
+M: <*SPA>no <*SPA>como akuy müleyem <*SPA>plata ngelay 
+C: no como cuando llega, cuando hay plata no hay
+
+M: menkümengey <!1menkumegi> pichin kurütuy üyeü ta <*SPA>desecho <%> 
+C: se va a buscar al hombro un poco, se vueleve negro el desecho
+
+M: <*SPA>no <*SPA>iban <*SPA>a <*SPA>tener <*SPA>pues <!1pu'>
+C: no iban a tener pues
+
+M:  tiemu <!1timu> mülerkelay piam fütra kuyfi <%> re meno<%>.
+C: creo que alli no había pues, mucho antes, menos.
+
+nmlch-pmareA1_1_0170_nmlch_00: 
+M: <Smack> ¡Ah!.
+C: ¡Ah!.
+
+nmlch-pmareA1_1_0171_pmare_00: 
+M: Pa' <*SPA>lo<*SPA> jovene fütra wentrulay ka
+C: Para los jovenes, no son grandes hombres pues
+
+M: menkumeal tañi mongewe kay llemepelu engün
+C: para llevar al hombro sus viveres pues, lo que fueron a buscar
+
+M: ngillal chi pu mongewen engün <!1ngün>epu tripay rukamu
+C: compraron sus viveres ellos, dos salen de la casa
+
+M: pichi alü llemey <!1llemi> ka kidu llaule
+C: fue a buscar un poco, y si anda solo
+
+M: feychi ta lemule müten <!2lemlemuten> küpaley <!1küpali> ka 
+C: esa vez cuando podia no mas pasaba 
+
+M: ngillamey üyüu taiñ lemual müten.
+C: iba a comprar allá lo que podia no mas.
+
+nmlch-pmareA1_1_0172_nmlch_00: 
+M: ¿Kintal rüngo menkumeafuy che?.
+C: ¿Quintal de harina puede ir a buscar al hombro la persona?.
+
+nmlch-pmareA1_1_0173_pmare_00: 
+M: Menkumey <!1menkümi>, menküy fütrake wentru,
+C: Al hombro, al hombro los grandes hombres,
+
+M: rüme <!1ume> küme armaule<%> menkuñi pule 
+C: si se arman bien, al hombro pues
+
+M: maullutulelu ka engün <*SPA> ello <*SPA>andan <*SPA>con maullu,
+C: ellos tambien con maullu, elos andan con maullu,
+
+M: <Noise> <%>fütra maullu fantekechi pu maullu mülekey <!1müleki>
+C:  un gran maullu, los maullus de este porte hay
+
+M: fantekelu +/en la/+ n'amuntukunengey <!1n'amuntukünengi>,
+C: los de este porte, se colocan en los pies,
+
+M: n'amuntukünengey  <!1namuntukünengi> tati maullu kimkay mi chi 
+C: se colocan en los pies el maullu, tal vez lo conoce
+
+M: ¿kimlaymi eymi.?.
+C: ¿usted no lo conoce?.
+
+nmlch-pmareA1_1_0174_nmlch_00: 
+M:  ¿Chemam maullu pingey <!1pingi>?.
+C: ¿A que se llama maullu?.
+
+nmlch-pmareA1_1_0175_pmare_00: 
+M: Rüngi ta famkünungey <!1famkunugi> ka chompül 
+C: El colihue se hace así, y tambien torcido
+
+M: famkünungey <!1famkünungi> ta rüngi,
+C: asi se deja el colihue,
+
+M: famkünungey <!1famkünungi> ta rüngi 
+C: asi se deja el colihue
+
+M: fey <!1vi> tukunelgey <!1tukunelgi> <*SPA>cordon tüfapüle, 
+C: pues se le coloca cordón por aca,
+
+M: tüfapüle kom y deumalngey <!1demaulgi> kiñe pünowe, 
+C: todo por aquí, y se le hace una planta
+
+M: pünokunufemuy che mürpüle epüñpüle tañi n'amun tüfa 
+C: la gente pisa, por ambas partes, por los dos lados su pie ahora
+
+M: fey re kansu reke <!2kansürke> küpay wente piren 
+C: pues como ganso viene encima de la nieve
+
+M: chumgechi küpay kansu femgechi küpay wente piren
+C: asi como viene el ganso, asi se viene encima de la nieve
+
+M: felen küpaley <!1küpali> <*SPA>no <*SPA>entra <*SPA>adentro <!1entro> 
+C: asi viene, no entra adentro
+
+M: külallaule, meli llaule  inanpunonuuletuy müten ka 
+C: si andan tres, si andan cuatro, se siguen las huellas no mas pues
+
+M: felen taiñ mongen tüfameu <!1tamu> anay peñi.
+C: asi es nuestra vida aca pues hermano.
+
+nmlch-pmareA1_1_0176_nmlch_00: 
+M: Rüme wedalkalekefuymün <!1wesalkelekefuymün> may.
+C: Estaban muy mal pues.
+
+nmlch-pmareA1_1_0177_pmare_00: 
+M: Wedalekefuyiñ taiñ mongen 
+C: Era malo nuestro vivir
+
+M: l'achi fütrake  <!1take> wentru doy wüyaletulu amülu engün
+C: los hombres que murieron, estaban mas mal cuando se fueron
+
+M: tüfichi<%> yenelu tüfichi sufrimu menkumengey  <!1menkumengi> taiñ rüngo, 
+C: donde lleva, donde sufrio, al hombro iba a buscar su harina,
+
+M: menkümemu chi kachilla, menkumemu taiñ yerba ta müna wedaletulu tati.
+C: donde hecho al hombro su trigo, donde hecho al hombro su yerba, el que esta mal pues.
+
+nmlch-pmareA1_1_0178_nmlch_00: 
+M: Rüme wedaley.
+C: Esta muy mal.
+
+nmlch-pmareA1_1_0179_pmare_00: 
+M: Rüme <!1üme><Noise>  wedaletuy, wedaletuy.
+C: Esta muy mal, muy mal.
+
+nmlch-pmareA1_1_0180_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+nmlch-pmareA1_1_0181_pmare_00: 
+M: Tüfameu <!1tüfamu> elngey che kay, 
+C: Aquí dejaron a la gente pues,
+
+M: tüfameu elüy entüy mapu ta Bernardo Ñanco 
+C: aquí dieron, saco tierra Bernardo Ñanco
+
+M: fey müley <!1müli> müten ka cheu amofuy
+C: pues se quedo no mas, a donde mas puede ir
+
+M:  kañpüle kay <*SPA>no <*SPA>tiene <*SPA>a <%> mülepudal <*SPA>pues <!1pu'>
+C: en otra parte no tiene donde estar pues
+
+M:  <*SPA>que <*SPA>sacó
+C: que sacó
+
+M: <*SPA>con <%> <*SPA>menos <!1meno> <*SPA>mal ta 
+C: con, menos mal pues
+
+M: pütruney <!1pütrüni> mapu ta <Noise> 
+C: tiene harta tierra ahora
+
+M: +/kañ/+ ka pichi peay pimekeyiñ <!1pimikeiñ>
+C: va a encontrar un poco mas estamos diciendo
+
+M: tiepüle peliyiñ <%><%>  ta kullin kiñeke nekayiñ kullin petü <!1metü>.
+C: si encontramos por allá, animales todavía tenemos algunos.
+
+nmlch-pmareA1_1_0182_nmlch_00: 
+M: Ella<%>.
+C: Ella..
+
+nmlch-pmareA1_1_0183_pmare_00: 
+M: Ellangey<%>.
+C: Tiene un problema.
+
+nmlch-pmareA1_1_0184_pmare_00: 
+M: ¿Ellali peñi?.
+C: ¿...........hermano?.
+
+nmlch-pmareA1_1_0185_nmlch_00: 
+M: ¿Müna wesalekefuy engü?.
+C: ¿Estaban muy mal?.
+
+nmlch-pmareA1_1_0186_pmare_00: 
+M: Müna wesalekey <!1wesaleki>,<Noise>  müna  wesalekey <!1wesaleki> 
+C: Estaba muy mal, estaba muy mal
+
+M: <Noise> müna  wesalekey <!1wesaleki>.
+C: estaba muy mal.
+
+nmlch-pmareA1_1_0187_nmlch_00: 
+M: ¿Eymi tüfa<uh><Noise>  tami rakiduammu ta 
+C: ¿Usted ahora en sus pensamientos pues 
+
+M: kuyfi fütakeche doy newengekefuy ke feula?.
+C: antes las grandes personas, tenian mas fuerzas que ahora?.
+
+nmlch-pmareA1_1_0188_pmare_00: 
+M: Doy newengekefuy, doy newengekefuy fütrakeche <!3takeche>
+C: Tenian mas fuerzas, tenian mas fuerzas las grandes personas
+
+M:  feyta +/newenke/+ feymu lemyelu 
+C: pues por eso podian 
+
+M: <*SPA>cuarenta <*SPA>kilo rüngo 
+C: cuarenta kilos de harina
+
+M:  <*SPA>y <*SPA>quintal akulal ta yemey <!1yemi> üyüu furitu
+C:y llegar con el quintal, va a buscar allá al otro lado 
+
+M: akuy n'amüntu tüfameu <!1tamu> akütuy rukameu <!1rukamu> 
+C: llegan a pie, aca llegan en la casa
+
+M: newenürke <*SPA>queda <*SPA>por <*SPA>ahi 
+C: si no tiene fuerza queda por ahi
+
+M: <*SPA>no <*SPA>mas <*SPA>pues <!1pu'>
+C: no mas pues
+
+M:  tiüpüle <!1tipüle> müleafuy müten ka 
+C: por allá estaria no mas 
+
+M: <*SPA>la <*SPA>mitad rüpumüle kansafuy, 
+C: si esta a mitad de camino se puede cansar,
+
+M: müna <!1na> adumuukefuy taiñ maullumu 
+C: se le hacia mas facil con el maullu
+
+M: wente piren taiñ amol kansu reke <!2kansürke> <Noise>
+C: para ir encima de la nieve como ganso
+
+M:  felekefuy tati peñi felekefuy tañi mapumeu <!1mapumu>.
+C: asi era hermano, asi era en mi lugar.
+
+nmlch-pmareA1_1_0189_nmlch_00: 
+M: <*SPA>Y chumul<Cough> chi doy alünekefuy newen 
+C: Y cuando tendrian mas fuerzas
+
+M: kuyfi fütrakeche <!2takeche> pingekey <!1pingeki><Noise> <Swallow?.
+C: antes las grandes personas se dice?.
+
+nmlch-pmareA1_1_0190_pmare_00: 
+M: Fey newengefuy fütra <!1ta> chau elollu newen ka
+C: Pues tenian fuerza, el gran padre les daba fuerza pues
+
+M:  fütra<!1ta> chau elullu newen mapuche<Noise> 
+C: el gran padre le daba fuerzas a los mapuche
+
+M: ta feymu ta newengey <!1newengi> ka 
+C: por eso tenia fuerza pues
+
+M: <*SPA>no <*SPA>ves <!!2 no'vi> <*SPA>que 
+C:no vez que
+
+M: <*SPA>sangre mapuche <*SPA>tiene <*SPA>fuerza <!1juerza>.
+C: sangre mapuche tiene fuerza.
+
+nmlch-pmareA1_1_0191_nmlch_00: 
+M: Ngnechen elunefi newen.
+C: El ser superior da la fuerza.
+
+nmlch-pmareA1_1_0192_pmare_00: 
+M: Ngnechen eluney <!1eluni> newen kidu lenochi mapuche kay 
+C: El ser superor esta entregando fuerza, ya que el mapuche no esta solo pues
+
+M: ngenechen eluneyu <*SPA>alma newentual <Noise> felen amüley <!1amüli>.
+C: el ser superior le da almapara tener fuerza, asi va.
+
+nmlch-pmareA1_1_0193_nmlch_00: 
+M: Eymi ta fenten tripantu  nieymi deuma peñi tüfa
+C: Usted ahora tiene todos estos años ya hermano
+
+M: kinfimi ta fentren dungu tüfa ¿eymi kütranchegefuymi  kuyfi?.
+C:  ahora conoce todas estas cosas ¿usted era enfermizo antes?.
+
+nmlch-pmareA1_1_0194_pmare_00: 
+M: Iñche kütranchengelan peñi,  kütranchegelan <Noise>
+C: Yo no fui enfermizo hermano, no fui enfermizo
+
+M:  kütranchengelü petu <!1metu> tüfa kütranchengelan
+C: el que es enfermizo, ahora todavia no soy enfermizo
+
+M: <*SPA> claro kutrankey <!1kütranki> <Noise>tañi <!1ñi> chang
+C: claro que me enfermo, mi pierna 
+
+M: ta kütrankey <!1kütranki> kiñekemu mütre muñauyem
+C: me duele a veces cuando camino mucho
+
+M: namuntullauyem kutrankey chang  
+C: cuando ando a pie me duelen las piernas
+
+M: welu kütrankelan kütranchegelan, kütranchegelan 
+C: pero no me enfermo, no soy enfermizo, no soy enfermizo
+
+M: <*SPA>eso kojiamakeneu  kollü kuyfi 
+C: eso me cojio el caballo antes 
+
+M: <*SPA>me <*SPA>kojio <*SPA>un <*SPA>caballo 
+C: me cojio un caballo
+
+M: we ñongümnelu kiñe kollü kokillaneneu 
+C: cuando recien dome un caballo, le dio cosquillas
+
+M: <*SPA>me  <*SPA>hecho <*SPA>adentro <!1aentro>
+C: me hecho adentro 
+
+M: <*SPA> el <*SPA>nirental ngütrüftnagmeneu
+C: el nirental, me tiro
+
+M: <*SPA>ese <*SPA>me <*SPA>jodio, <*SPA>me <*SPA>jodio, 
+C: ese me jodio, me jodio,
+
+M: <*SPA>me <*SPA>jodio <*SPA>aqui <*SPA>la <*SPA>guata
+C: me jodio aquí la guata
+
+M:  tamu kütran nen pütramu ta <Noise> petü <!1metü> sentineken<Noise><uh>
+C: aca tengo una enfermedad en la huata, todavia lo siento
+
+M:  ka koden lonkomu feychi <!1veichi> welu chilanko pi 
+C: también jodi en la cabeza esa vez, pero ...........
+
+M: <*SPA>una <*SPA>me <*SPA>salvo
+C: una me salvo
+
+M:  fey mongetulu müten inche 
+C: pues cuando yo me alivie 
+
+M: fey <!1vey>  kümeleputün kodelan <!1jodelan>iñche.
+C: pues estuve bien, yo no jodi.
+
+nmlch-pmareA1_1_0195_nmlch_00:  
+M: Kodelaymi <!1Jodelaymi>.
+C: No jodio.
+
+nmlch-pmareA1_1_0196_pmare_00: 
+M: Kodelan <!1Jodelan> kokillay kollu
+C: No jodi, el caballo le dio cosquillas
+
+M:  kogokollü <*SPA>chucaro<Noise> kokillo<Noise> .
+C: era arisco, chucaro, le dio cosquillas.
+
+nmlch-pmareA1_1_0197_nmlch_00:
+M: ¡Ah!.
+C: ¡Ah!.
+ 
+M: Feyti ta.
+C: Pues eso.
+
+nmlch-pmareA1_1_0198_pmare_00: <Cough><Swallow>.
+nmlch-pmareA1_1_0199_nmlch_00: 
+
+M: <uh> Küme mongen nienmu ta doy küme 
+C: Por tener una buena vida, ahora mejor
+
+M: alün mongen tukey <!1tuki> ka <*SPA>osea kütranchengenolu.
+C: tiene larga viday también osea el que no es enfermizo.
+
+nmlch-pmareA1_1_0200_pmare_00: 
+M: Kutrangey <!1kütrangi> feyta mongeley <!1mongeli> ka 
+C: El que tiene enfermedad, pues esta vivo 
+
+M: mongeleupuy ka mongeleupuy
+C: sigue viviendo, tambien sigue viviendo
+
+M: puuluun fütra chau müten kümey <!1kümi> peñi
+C: acercarse al gran padre no mas es bueno hermano
+
+M: puuluun  müten fütra chau <*SPA>ese ülüy ta trekayauam  che 
+C: acercarse al gran padre, ese da para que la persona ande caminando
+
+M: <*SPA>alma elufi <!1eluvi> küme trekayaupe pingey <!1pigi> 
+C: le da alma, que ande caminando bien se dice
+
+M: <*SPA>por fütra chau müten pedingey <!1pidingi> ta kümeleal tati 
+C: por el gran padre no mas, se le pide estar bien pues
+
+M: ka müley <!1müli> ta Kesukritu ka pedingey <!1pidigi> ka, 
+C: también esta jesucristo, también s le pide pues,
+
+M: ka fentemandalekey <!1mandaliki> kidu ka 
+C: también el manda pues
+
+M: <*SPA>hijo <*SPA>de <*SPA>mi Dios
+C: hijo de mi Dios 
+
+M: <*SPA>ese <*SPA>también <*SPA>pues <!1pu'> 
+C: ese también pues
+
+M: fey <!1vey><hm>  pedingey <!1pidingi> kom ngillatungey <!1ngillatungi> 
+C: pues se le pide, todo se le pide
+
+M: mudaymu kümeley <!1kümeli> che ka, kümeley <!1kümeli> <Noise>. 
+C: con muday, esta bien la persona, esta bien.
+
+nmlch-pmareA1_1_0201_nmlch_00: 
+M: ¿Tami chau chumten tripantu niefuy?.
+C: ¿Su padre cuantoas años tenia?.
+
+nmlch-pmareA1_1_0202_pmare_00: 
+M: <*SPA>Ochenta <*SPA>año, <*SPA>ochenta <*SPA>año müten niefuy <!1nevuy>.
+C: Ochenta años, ochenta años no mas tenia.
+
+nmlch-pmareA1_1_0203_nmlch_00: 
+M: ¿Tami awelu kay?.
+C: ¿Y su abuelo?.
+
+nmlch-pmareA1_1_0204_pmare_00: 
+M: Doy nefuy <*SPA>parece <*SPA>que 
+C: Tenia mas, parece que 
+
+M: <*SPA>tenía <*SPA>mas <*SPA>de <*SPA>cien, 
+C: tenia mas de cien,
+
+M:<*SPA>ciento <*SPA>quince <*SPA>parece <*SPA>que <*SPA>tenia +/tru/+
+C: ciento quince parece que tenia
+
+M: trekawelay taiñ amun<Noise>.
+C: ya no rendian sus pasos.
+
+nmlch-pmareA1_1_0205_nmlch_00: 
+M: Fütra <!1ta>che.
+C: Gran persona.
+
+nmlch-pmareA1_1_0206_pmare_00: 
+M: Fütra<!1 ta> che, fütra <!1ta> che, fütra <!1ta> che.
+C: Gran persona, gran persona, gran persona.
+
+nmlch-pmareA1_1_0207_nmlch_00: 
+M: ¿Rüme kume kupal penu?.
+C: ¿Yo creo que de muy buena familia?.
+
+nmlch-pmareA1_1_0208_pmare_00: 
+M: Fempelay <!1vempelay> feymu <!1vimu> fente <!1vente> aguantallelu 
+C: Debe ser, por eso aguanto tanto
+
+M: pütruyma aguntay fey fütra <!1ta> wentru.
+C: hartos aguanto ese gran hombre.
+
+nmlch-pmareA1_1_0209_nmlch_00: 
+M: Feula che <%> newengewuelay.
+C: Ahorala gente ya no tiene fuerza.
+
+nmlch-pmareA1_1_0210_pmare_00: 
+M: Newengewelay che.
+C: La persona ya no tiene fuerza.
+
+nmlch-pmareA1_1_0211_nmlch_00: 
+M: Wentru küla mari tripantü nielu epu mari tripantu 
+C: Los hombres que tienen treinta años, veinte años
+
+M: fente küme fütrake newen tuntenekefuy kuyfi mapuche fentenewenolu feula ka.
+C: esa grandes fuerzas tenia antes el mapuche, ahora ya no tiene eso pues.
+
+nmlch-pmareA1_1_0212_pmare_00: 
+M: Femngewelay <!1vemngewelay> tufa ka fengewelay tufa <*SPA>pues <!1pu´>
+C: Ahora ya no es asi, ahora ya no es asi
+
+M: <*SPA> ahora <*SPA>no, <*SPA>ahora <%>.
+C: ahora no, ahora.
+
+nmlch-pmareA1_1_0213_nmlch_00: 
+M:  ¿Chumulchimu peñi yagelmu pe?.
+C: ¿Por qué sera hermano por el alimento?.
+
+nmlch-pmareA1_1_0214_pmare_00: 
+M: Yagelmu ka <uhm> mutewuya ify tati asukura
+C: por el alimeto pues, se come mucho el azucar 
+
+M: mute ifiyin tati pulku ka anay peñi pulku ta kodefi <!1jodebi> ta che 
+C: tomamos mucho el vino también pues hermano , jode a las personas
+
+M: <*SPA>el<*SPA> vino<*SPA> lo <!1lu><*SPA> jode <*SPA>la <*SPA>gente 
+C: el vino jode a la gente 
+
+M:<*SPA>el <*SPA>azucar <*SPA>no<*SPA> ve <*SPA>que 
+C: el azucar no ve que 
+
+M: <*SPA>muy <*SPA>dulce <*SPA>pues <!1pu> <Noise> 
+C: es muy dulce pues
+
+M: doy newenlafuyiñ doy kümeleafuyiñ <!1kümeleavuyin>
+C:  tendriamos mas fuerzas, estariamos mejor
+
+M:<*SPA> puro <!1puru> <*SPA>amargo matetukeiñ 
+C: tomamos solo mate amargo
+
+M: <*SPA>amargo<%> re <*SPA>amargo<Noise> 
+C: amargo solo amargo
+
+M: <*SPA>no <*SPA>ese <*SPA>dulce, 
+C: no ese dulce,
+
+M: <*SPA>dulce kodey <!1jodey> kafemu ikelay che.
+C: el dulce jode, en el café no se sirve la persona.
+
+nmlch-pmareA1_1_0215_nmlch_00: 
+M: Kuyfi<Noise> fütra kuyfi tami awelu eymi petu ngekenolu wingka tamu,
+C: Antes, muchos antes su abuelocuando todavia no habian huinca aca,
+
+M: wingka pulku alkulkelafuy  petü <!1metu>.
+C: el huinca todavia no traia vino.
+
+nmlch-pmareA1_1_0216_pmare_00: 
+M: +/akükela/+<%>.
+C: No habia llegado.
+
+nmlch-pmareA1_1_0217_nmlch_00:  
+<%> .
+
+nmlch-pmareA1_1_0218_pmare_00: 
+M: <Noise> akukelafuyem pulku putulafuyem,
+C: No habia llegado el vino, no habia tomado, 
+
+M: <Noise>  putulafuyem akunolu chi pulku kay ikelay pulku 
+C: no había tomado, como no había llegado el vino pues, no tomaba vino
+
+M: <*SPA>para <*SPA>afuera <!2pajuera>mülekelafuy ve,
+C: tal vez para afuera había,
+
+M: <*SPA> pero <*SPA>aqui <*SPA>no<*SPA> habia.
+C: pero aqui no había.
+
+nmlch-pmareA1_1_0219_nmlch_00: 
+M: Asukura cheu.
+C: Azucar donde.
+
+nmlch-pmareA1_1_0220_pmare_00: 
+<%>.
+
+nmlch-pmareA1_1_0221_nmlch_00: 
+M: ¿Nekelafuy engün?.
+C: ¿No tenian?.
+
+nmlch-pmareA1_1_0222_pmare_00: 
+M: Nekelafuy asukura nelekelay  re <*SPA>mate <*SPA>amargo
+C: No tenia azucar, no tenia, solo mate amargo
+
+M: <Noise> arkentinu <%> amuy arkentinu<%> re yerba kiñe saku<%> 
+C: a la argentina, fue a la argentina, solo yerba, un saco
+
+M <*SPA>un <*SPA>saco.
+C: un saco.
+
+nmlch-pmareA1_1_0223_nmlch_00: 
+M: <*SPA>Un saku<*SPA>yerba.
+C: Un saco de yerba.
+
+nmlch-pmareA1_1_0224_pmare_00: 
+M: <*SPA>Un saku<*SPA>yerba
+C: Un saco de yerba.
+

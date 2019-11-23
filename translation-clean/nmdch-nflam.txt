@@ -1,0 +1,3449 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmdch-nflam 
+; Last changes made on 02/01/2001 
+; Transcriber: Maria Elena Raguileo
+; Comments:  
+; Traduce: Pedro Coña.
+
+nmdch-nflam_x_0000_nmdch_00: 
+M: Marimari lamngen.
+C: Buenos días hermana.
+
+nmdch-nflam_x_0001_nflam_00: 
+M: Marimari lamngen.
+C: Buenos días hermano.
+
+nmdch-nflam_x_0002_nmdch_00: 
+M: ¿Feypiafuymi tami üy? 
+C: ¿Podrías decir tu nombre?
+
+M: fey tüfachi pañilwemeu alkututufuiñ 
+C: con este aparato lo escucharíamos después,
+
+M: y ka antü pu peñi pu lamngen mülelu
+C: que algún día los hermanos y hermanas que están
+
+M: tuchi mapuche dungulu 
+C: aquellos que hablan el idioma mapuche
+
+M: fey ta alkütutuay feypeymi üy lamngen. 
+C: vamos a escuchar lo que va a decir la hermana.
+
+nmdch-nflam_x_0003_nflam_00: 
+M: Feley lamngen, 
+C: Está bien hermano, 
+
+M: iñche ta Lidia Antilef Maliqueo pingen
+C: yo me llamo Lidia Antilef Maliqueo
+
+M: Makewe tuwün feymeu muley tañi chau
+C: en Maquehue estan mis padres
+
+M: feymeu chipan iñche lamngen.
+C: de allí salí yo hermano.
+
+nmdch-nflam_x_0004_nmdch_00:
+M: Feley, 
+C: Así es, 
+
+M: tami mongenmeu lamngen
+C: en tu vida hermana
+
+M: tufa mülepaymi ta <uhm> waria pitalmeu,
+C: ahora estás en el hospital de la ciudad, 
+
+M: küdauküleymi fey.
+C:  estás trabajando entonces.
+
+M: ¿Nieymi kutran kam kümelkalekeymi?
+C: ¿Tienes enfermedad o te mantienes con buena salud? 
+
+nmdch-nflam_x_0005_nflam_00: 
+M: Nien kutran lamngen 
+C: Tengo enfermedad hermano 
+
+M: kuyfi tañi deu niefel, 
+C: de antes que tenía esa enfermedad,
+
+M: feyta kutrankülekan ka.
+C: de esa vez que quedé enferma.
+
+nmdch-nflam_x_0006_nmdch_00:
+M: ¿Chem kutran am nieymi lamngen?
+C:  ¿Que enfermedad tienes hermana?
+
+nmdch-nflam_x_0007_nflam_00: 
+M: Angemeu ta nien ñi kutran lamngen 
+C: En la cara tengo la enfermedad, hermano.
+
+M: feyta kuyfi tañi pichike femngentufiel, 
+C: desde antes lo sentía un poco,
+
+M: welu <hes> chemkelafin 
+C: pero  no le hacía caso
+
+M: fey <*SPA>depue' ula 
+C: y después recién
+
+M: doy wechalkaeneu antümeu reke doy,
+C: me fui sintiendo más mal con el sol,
+
+M: kiñekemeu pitru reke ta chipakey
+C:  algunas veces como sarna sale 
+
+M: fey ta echa wedamakeeneu antü,
+C:  eso es seguramente el mal del sol,
+
+M: feymeu ta fey ula ta doy chemün,
+C:  por eso ahora recién estoy mejor,
+
+M: ka fey ta  l'awen'tun.
+C: también me remedie.
+
+nmdch-nflam_x_0008_nmdch_00: 
+M: Feley <hes>  tüfachi kutran kay 
+C: Así es esta enfermedad
+
+M: ¿Chem kutran pingey?
+C:  ¿Qué enfermedad tienes?
+
+nmdch-nflam_x_0009_nflam_00: 
+M: Machimeu ta mollfiñ kutran niemi pingen 
+C: La machi dijo que tenía enferma la sangre
+
+M: feyta ñi tami  chau ñuke
+C: la misma enfermedad de los padres
+
+M: niefuy tüfachi kutran
+C: tenían esta enfermedad
+
+M: feymeu ta eymi, 
+C: por eso tú tienes, 
+
+M: ka nieymi,
+C: también la tienes,
+
+M: feula pingen wingkameu kay 
+C: ahora en el hospital también te dijeron lo mismo 
+ 
+M: fey ta rociacianiami pi ka
+C: entonces ..............dijo tambien
+
+M: femngechi molfiñmeu 
+C: así en la sangre
+
+M: ta chemimi tami tuwünmeu 
+C: que te pasó eso por tus padres
+
+M: tami chemimi tati pingen feyta antü,
+C: que te ocurrió eso me dijeron este día,
+
+M: rume wedamakeemeu
+C: te hace muy mal 
+
+M: feyta antü tulallaymi pingen 
+C: entonces no tomaras sol me dijeron
+
+M: fey elungen l'awen'
+C: ahí me dieron remedio.
+ 
+nmdch-nflam_x_0010_nmdch_00: 
+M: ¿Machi eluymu l'awen'?
+C: ¿La Machi te dió remedio?
+
+nmdch-nflam_x_0011_nflam_00:
+M:  <hes> Machi ka machi l'awen' kan pütokolen lamngen
+C: La Machi y otra Machi estoy tomando, hermano.
+
+nmdch-nflam_x_0012_nmdch_00:  
+M: ¿Feychi machi l'awen' kay fey kümelkakeymu?
+C: ¿De esa misma machi, el remedio le está haciendo bien? 
+
+nmdch-nflam_x_0013_nflam_00: 
+M: May, 
+C: Sí,
+
+M: kumelkakeneu ka <hes> kiñekemeu ta, 
+C: me está haciendo bien a veces,
+
+M: <hes> feula llemay tremotun ñi ange 
+C: ahora me siento bien de mi ojo 
+
+M: fey meu tu ka fey kiñekemeu ta küchakeñ ñi ange
+C: a veces me siento enferma del ojo
+
+M: kom fishküken llemay.
+C: todo se refresca así.
+
+nmdch-nflam_x_0014_nmdch_00: 
+M: Tüfachi kutran lamngen <hes>
+C: Esta enfermedad hermana
+
+M: ¿chungechi tufimi kam kupanmeu niekey 
+C: ¿cómo se pegó la enfermedad
+
+M:<hes> mulekey tüfachi kutran
+C: donde había estos enfermos
+
+M:  kam nifimi kañelu reyuchi pu chemeu?
+C: o lo tienes con otras entre otras personas? 
+
+nmdch-nflam_x_0015_nflam_00:
+M: Küpanmeu pian ta nüfin lamngen 
+C: Porque vine aquí, me contagie, hermano
+
+M: fey iñche ta ka femngechi 
+C: por eso de esa manera 
+
+M: ina ramtun ka ñi chau we wentruñelu 
+C: pregunté a mi papá cuando era joven
+
+M: ta ka femngechi niefun ñi ange,
+C: acaso tenía también sus ojos igual,
+
+M: pikeeneu afkentufin kiñekemeu;
+C: me decía que a veces los tenía igual;
+
+M: turpu l'awen'tukelafun turpu pikeneu feyta <hes> 
+C: nunca tomaba remedio, nunca tomo remedio
+
+M: kidu müten ta l'awen'tukefuy, 
+C: él solo se remediaba, 
+
+M: ka pichiken l'awen' 
+C: también un poco de remedios 
+
+M: mapu l'awen'meu
+C: con remedios del campo
+
+M: welu doy fichalu fey ula tremotuy kidu.
+C: después cuando estaba viejito se alivió solo.
+
+nmdch-nflam_x_0016_nmdch_00: 
+M: Fey fey
+C: Está bien
+
+M: ¿Feyta mi pu tunten tripantu kay nieymi 
+C: ¿Y en esto cuántos años tienes
+
+M: fey müfü tripantu yenieimi
+C:  y llevas un par de años
+
+M:  tami tüfachi kutranmeu?
+C:  en tu enfermedad?
+
+nmdch-nflam_x_0017_nflam_00: 
+M: +/Mar/+ doy mari tripantu
+C: Diez más de diez años
+
+M: deu yenien
+C:  ya llevo
+
+M:  tañi femngechi kutran 
+C:  que estoy así enferma
+
+M: nien ka lamngen.
+C:  tengo también  pues hermano.
+
+nmdch-nflam_x_0018_nmdch_00:
+M:  <uh> ¿Fentreñma?
+C:  ¿Bastante?
+
+nmdch-nflam_x_0019_nflam_00: 
+M: May.
+C: Sí.
+
+M: Fentreñma nien.
+C: Tengo bastante.
+
+nmdch-nflam_x_0020_nmdch_00: 
+M: Fey tüfachi kutran <hes> pitalmeu 
+C: Bien, de esta enfermedad, en el hospital 
+
+M: ¿chem pikeymu feyti deu <*SPA> doctor?
+C: ¿qué le decía el doctor?
+
+nmdch-nflam_x_0021_nflam_00: 
+M: Tremolayaymi tüfachi kutranmeu pikeneu llemay
+C: No te vas a mejorar de esta enfermedad, me decía
+
+M: feyta amulay tami kutran, 
+C: no le va a seguir la enfermedad,
+
+M: welu ka femngechi doy kushelmi 
+C: pero cuando entre en más edad 
+
+M: feyula ta rupayafeymeu
+C: ahí se puede mejorar
+
+M: rupallale, pikeeneu,  
+C: si es que se le pasa, me decía
+
+M: welu femnuli kay feyta yerpuaymeu pikeeneu.
+C: pero si no lo hace no se va a mejorar, así me decía.
+
+nmdch-nflam_x_0022_nmdch_00: 
+M: Fey tami pu lamngenmeu kay
+C: Y también por tus hermanos
+
+M: wentru lamngenmeu domo lamngen nieymi fey 
+C: por hermanos hombres, hermanas mujeres tienes
+
+M: ¿ka femechi nieyngün kutran kay?
+C: ¿acaso tienen ellos la misma enfermendad?
+
+nmdch-nflam_x_0023_nflam_00: 
+M: <hes> Kiñekemeu ta ka kutrankey, 
+C: A veces también se enferman, 
+
+M: ka welu re femngechi kutran lef kutran müten ka.
+C: pero esta enfermedad es sólo pasajera.
+
+nmdch-nflam_x_0024_nmdch_00: 
+M: ¿Welu tüfachi tüfachi  kutran pipimi, 
+C: ¿Pero esta, esta enfermedad que decías tú, 
+
+M: mollfüñ kutran,
+C: enfermedad de la sangre, 
+
+M: ka feychi niengün kay?
+C: a lomejor tienen eso  mismo?
+
+nmdch-nflam_x_0025_nflam_00:
+M: <*SPA>No petu kinfalay
+C: No se sabe todavía
+
+M: kam lamngen kiñekemeu 
+C: o a veces hermano
+
+M: ka femngechi nieymi chi ta
+C:  también así tienes eso ahora
+
+M: welu ta petu.
+C: pero aún no.
+
+nmdch-nflam_x_0026_nmdch_00: 
+M: Petu peufalulay.
+C: Pero no se ha manifestado.
+
+nmdch-nflam_x_0027_nflam_00:
+M: Peufalulay turpu.
+C: Nunca se a manifestado.
+
+nmdch-nflam_x_0028_nmdch_00:
+M: ¿Fey re ange müten tripakey tüfachi kutran kam 
+C: ¿Solamente en la cara le salía esta enfermedad
+
+M: ka kalülmeu ka?
+C: o también en la saliva?
+
+nmdch-nflam_x_0029_nflam_00:
+M: <*SPA>No.
+C: No.
+
+M: Angemeu müten, 
+C: En la cara solamente, 
+
+M: angemeu müten.
+C: en la cara nomás.
+
+nmdch-nflam_x_0030_nmdch_00: 
+M: Feychi deutor ñi l'awen'kay
+C: Y ese remedio del doctor
+
+M: ¿kümelkakeymeu?
+C: ¿le está haciendo bien?
+
+nmdch-nflam_x_0031_nflam_00: 
+M: Ka kümelkallakeneu
+C: Me esta haciendo bien
+
+M: feymeu ta amukey pelfaumaluken pu winkameu.
+C: por eso voy a verme con el huinca.
+
+nmdch-nflam_x_0032_nmdch_00: 
+M: ¿Feychi l'awen' eluke tami eluketeu feychi doctor 
+C: ¿Ese remedio que le da el doctor 
+
+M:¿chumngekey? 
+C: ¿cómo es?
+
+M: ¿wulkalelekimi
+C:  ¿te lo buscan
+
+M: kam pastilla pikey pu winka? 
+C: o pastilla dicen los huincas?
+
+M: ¿Kam kochilu reke ikefimi?
+C: ¿Acaso comía puro dulce?
+
+nmdch-nflam_x_0033_nflam_00: 
+M: May. 
+C: Sí.
+
+M: <hes>Pastilla reke may, 
+C: Como pastillas pues, 
+
+M: fillantü ta pütokoniekefiñ.
+C: todos los días las bebo.
+
+nmdch-nflam_x_0034_nmdch_00:
+M: ¿Welu tripaley müten tüfachi kutran?
+C: ¿Pero está saliendo esta enfermedad?
+
+nmdch-nflam_x_0035_nflam_00:
+M:  Wenche rupakay ka lamngen,
+C: Algo me calma hermano,
+
+M: wenche rupakay ka  müten 
+C: me calma un poco nomás
+
+M: miaukelan antümeu
+C: no ando tomando sol
+
+M: ka kom küme femngechi amuken,
+C: todo muy bien así voy,
+
+M: chipakelan wekun, 
+C: no salgo afuera,
+
+M: muchayke ñi putokoal are,
+C: no salgo a cada rato al calor,
+
+M: kom femngechi trapi 
+C: todo no debe comer ají
+
+M: llemay ñi pulkutual
+C: ni tomar vino
+
+M:  kom femngechi ta chemkelan
+C: todo eso no lo hago
+
+M: feymeu ta doy tremotun ka
+C: por eso me mejoré.
+
+nmdch-nflam_x_0036_nmdch_00:
+M: Feychi kom fey
+C: Por todo eso
+
+M: tüfachi dungun pimi kimi
+C: esta asunto digistes lo sabe
+
+M: trapitunual tripanual antümeu arengele ka 
+C: que no salga afuera cuando haga calor
+
+M: <hes> putunual ta pulku fey 
+C: no tomar vino
+
+M: ¿feychi doctor feypimu?
+C: ¿así dijo el doctor?
+
+nmdch-nflam_x_0037_nflam_00:
+M: May.
+C: Sí.
+
+M: Welu machi ka feypineu lamngen.
+C: Pero la Machi me dijo lo mismo hermano.
+
+nmdch-nflam_x_0038_nmdch_00:
+M: Ka feypimu.
+C: Te dijo igual.
+
+nmdch-nflam_x_0039_nflam_00: 
+M: May.
+C: Sí.
+
+M: Are ta rume weda malkerkenu, pieneu,
+C: El calor muy mal te hace, me dijo,
+
+M: <hes> müte pillelelaymi 
+C: no tienes que estar muy cerca
+
+M: che meu kutral, pikeneu, 
+C: del fuego, me dice,
+
+M: ka müte are matetulayaimi
+C: también me dice que no tome mate muy caliente 
+
+M: pikeneu ka machi.
+C: también me dice la Machi.
+
+nmdch-nflam_x_0040_nmdch_00: 
+M: ¿Fey tüfachi kutran nieymi angemeu 
+C: ¿Esta enfermedad que tienes en la cara 
+
+M: fey kutran key am re femngechi müten pelfalukey ?
+C: esa enfermedad aparece de repente?.
+
+nmdch-nflam_x_0041_nflam_00: 
+M: Alülkey, <hes>  lamngen, alül <hes>. 
+C: Me arde, hermano, arde.
+
+nmdch-nflam_x_0042_nmdch_00: 
+M: Alülkey ta angemeu.
+C: Arde en la cara.
+
+nmdch-nflam_x_0043_nflam_00:
+M: lüf reke ka lüf reke 
+C:  Como que arde, como que arde
+
+M: fey ta kutran key fey 
+C: esa enfermedad también,
+
+M: kiñekemeu ta echawedakünukey ka
+C: a veces lo más probable que lo deje peor
+
+M: ünakey ka.
+C: mucho es tambien 
+
+nmdch-nflam_x_0044_nmdch_00: 
+M: Fey tüfachi kutran niem 
+C: Esa enfermed que tienes 
+
+M: famngechi newentu
+C: por eso te duele fuerte
+
+M: kutrayüm alül yim müna yim fey 
+C: cuando te enfermas te arde
+
+M: ¿chem chumkeymi?
+C: ¿qué es lo que hace?
+
+M: ¿chumngechi doy rulpatukefimi?
+C: ¿ cómo se te pasa el dolor?.
+
+nmdch-nflam_x_0045_nflam_00: 
+M: Feymeu ta chemken ta, lamngen, 
+C: Por eso lo hago así, hermano, 
+
+M: <hes> komeu ta chemken l'awen'
+C: con agua preparo remedio
+
+M: mapumeu ta elungeken feyta küchakeaymi 
+C: de la tierra me dan remedio para lavarme
+
+M: femngechi ti fe femelmi küchayaymi 
+C: así tienes que lavarte
+
+M: tami ange, pikeneu,
+C: tu cara, me dice,
+
+M: machi feymeu ta fenkefiñ.
+C: como me dice la machi lo hago.
+
+nmdch-nflam_x_0046_nmdch_00:
+M: ¿Kakelu kay tami pu cheu küdaukülemum?
+C: ¿Las otras tu gente donde estuvistes trabajando?
+      
+M: ¿fey chem pikeymeu tami pu lamngen,
+C: ¿que te dicen tus hermanos,
+
+M: wentru lamngen domo lamngen, 
+C: hermanos y hermanas,
+
+M: pu winkangelu ka mapuche 
+C: los que son huinca y mapuche
+
+M: chempikeymu tüfachi kutranmeu?.
+C: qué te dicen de esta enfermedad?
+
+nmdch-nflam_x_0047_nflam_00: 
+M: We <hes> tremoami ta ti pikeneu engün ka
+C: Te vas a aliviar me dicen ellos también
+
+M: <*SPA>porque iñche ta rume
+C: porque yo quiero
+
+M: weda weda duamfun tañi kutranmeu, 
+C: dudo por mi enfermedad que no me voy a mejorar,
+
+M: tañi tremonual tañi wedalkaleal ñi ange,
+C: no me voy a mejorar porque está mal mi cara,
+
+M: welu kidu engün 
+C: pero ellos
+
+M: ta rume chemkeneu engün 
+C: muy bien me hacen ellos
+
+M: ta ñi küme tremoaymi ta ti pikeneu ka lamngen.
+C: te vas a mejorar me dice otra hermana.
+
+nmdch-nflam_x_0048_nmdch_00:
+M: Tüfachi kutranmeu niey ta kutran ta che 
+C: Con esta enfermedad, tiene la gente
+
+M: <hes> küdaukülelmu kiñekemu
+C: tienen que cuidarse a veces
+
+M: ta tañi pu che ngen mülekey
+C: mi gente siempre esta ahí
+
+M: ta ayengewün, 
+C: ahora está para la risa, 
+
+M: ngütrirngekey reke,
+C: como que lo envidian,
+
+M: üpül  künükey reke 
+C: como que lo discriminan
+
+M: nieymu ta kutran 
+C: cuando los dos tienen enfermedad
+
+M: ¿eymi kay femngekimi?
+C: ¿A ti también te pasa lo mismo?
+
+nmdch-nflam_x_0049_nflam_00:
+M: Femngekelan lamngen, 
+C: No hago eso hermano,
+
+M: welu femngentukien iñche.
+C: pero me parece a mi.
+
+nmdch-nflam_x_0050_nmdch_00: 
+M: ¿Eymi femientukeymi?
+C: ¿A ti te parece que así es?
+
+nmdch-nflam_x_0051_nflam_00: 
+M: Femienturken welu femngekelafun 
+C: Me parece que es pero parece que no
+
+M: fey ka ayükelan ta ñi miawal 
+C: y no me gusta andar
+
+M: feytipüle ta ñi feypingeal, 
+C: por ahí para que me digan eso,
+
+M: felerki tañi ange chumimi am ta ñi pingel
+C: es cierto lo que te pasó me han de decir
+
+M: feyta llikaken chipayael 
+C: por eso me da miedo salir
+
+M: feymeu kiñekemeu 
+C: por eso algunas veces
+
+M: turpu ayüduamkelan ta ñi chipayael. 
+C: por eso no me gusta salir.
+
+nmdch-nflam_x_0052_nmdch_00:
+M: ¿Chungelu am llükakeymi? 
+C: ¿Por qué te da miedo?
+
+nmdch-nflam_x_0053_nflam_00: 
+M: <hes> Tañi üpülkünungeal trokiuken <*SPA> pu' lamngen,
+C: Pienso que me pueden dejar a un lado pues, hermano,
+
+M: rume weshallkaley ta tüfa ta 
+C: muy mal está ahora
+
+M: <*SPA> mejor chipanule doy kümeay 
+C: mejor si no sale será mejor
+
+M: pilelay piafun engün piken ka 
+C: no quiere les diría, y digo también          
+
+M: welu iñche ñi rakiduam ka.
+C: pero mi pensamiento también.
+
+nmdch-nflam_x_0054_nmdch_00:
+M: Welu.
+C: Pero.
+
+nmdch-nflam_x_0055_nflam_00: 
+M: Felelafuy, 
+C: No era así, 
+
+M: welu iñche ñi rakiduam ta femngechi,
+C: pero  mi pensamiento está así,
+
+M: felen ka femngechi 
+C: así estoy también de esa forma
+
+M: feypifiñ tañi machi
+C: le dije así a la machi
+
+M: kidu ka feypeneu 
+C: ella también me dijo, 
+
+M: ka eymi ta femngechi ta rakiduamkerkeymi, 
+C: también tú de esa forma piensas,
+
+M: welu femngelayaymi tati, 
+C: pero no serás así pues, 
+
+M: eymi küme domo
+C: tú buena mujer
+
+M: küme küdauküleymi 
+C: bien estás trabajando
+
+M: fey femlayaymi pikeneu, 
+C: entonces no harás eso me dice,
+
+M: ka feymeu ta doy newenkonün tati, lamngen,
+C: por eso más fuerza me dio pues, hermano,
+
+M: feymeu ta küdaukülen <uhm>
+C: por eso estoy trabajando
+M: amulen ta doy küme tremoael.
+C: voy caminando para mejorarme bien.
+
+nmdch-nflam_x_0056_nmdch_00:
+M: Tüfachi <uhm> kutran kay <uhm>
+C: Esta enfermedad
+
+M: ¿re domomeu konkey kam, 
+C: ¿sólo en mujeres entra o,
+
+M: kam wentrumeu kafey?
+C: o en los hombres también?
+
+nmdch-nflam_x_0057_nflam_00: 
+M: <*SPA>no <hes>
+C: No.
+
+M: Wentrumeu ka domomeu lamngen.
+C:  Tanto  el hombre como la mujer hermano.
+
+nmdch-nflam_x_0058_nmdch_00: 
+M: Epuñpüle.
+C: De las dos partes.
+
+nmdch-nflam_x_0059_nflam_00: 
+M: May, 
+C: Sí,
+
+M: epuñpüle, may.
+C: de las dos partes.
+
+nmdch-nflam_x_0060_nmdch_00: 
+M: <uhm>¿Tüfachi kutran foliluwereke tami angemeu?
+C:  ¿Esta enfermedad se enraiza en la cara?
+
+nmdch-nflam_x_0061_nflam_00: 
+M: Foliluwe deu ka lamngen. 
+C: Ya se enraizó ya pues, hermano.
+
+nmdch-nflam_x_0062_nmdch_00: 
+M: ¿fey chem pileymi kay kümelkatuam 
+C: ¿Qué dices, si te vas aliviar
+
+M: pileymi rakiduam,
+C: dice tu pensamiento,
+
+M: l'awen'tu rume l'awen'tulweymi,
+C: tienes que tomar todo el tiempo remedio,
+
+M: kam doy tuchi l'awen' ta doy tutelmeu, 
+C: que clase de remedio te va a hacer bien,
+
+M: trokieymeu wingka l'awen' kam
+C: te parece que el remedio del doctor te va hacer bien
+
+M: machi l'awen' tuteymeu?
+C: o el remedio de la machi te esta haciendo? 
+
+nmdch-nflam_x_0063_nflam_00:
+M: Iñche ta feula ta doy,
+C: Yo ahora estoy,
+
+M: doy kümelkaulu trokiwün ta 
+C: yo me estoy mejorando parece
+
+M: ti ka femngechi feypieneu tañi puche
+C: así me dice mi gente
+
+M: liftuy 
+C: se limpió 
+
+M: kom liftuay tami ange
+C: todo tu cara se limpió
+
+M: pikeneuengün feyta <uhm> femngechi; 
+C: me dicen todos así;
+
+M: <uhm> epu l'awen' tulean ka feyta rume 
+C: dos remedios tengo que tomar siempre
+
+M: <uhm> küme tultelmeu tüfachi l'awen', 
+C: me está haciendo bien este remedio,
+
+M: felean müten pingen ka fey
+C: siempre va a estar ahí
+
+M: mür l'awen' tutenieneu feula lamngen;
+C: los dos remedios me están haciendo bien ahora, hermano;
+
+M: feyta iñche ta tremoan pilen ka 
+C: pues yo me aliviaré digo también
+
+M: feymeu ta mongelen ka ta
+C: por eso estoy viva también
+
+M: ngillatuken tañi doy tremoal
+C: ruego para mejorme más
+
+M: fey doy tremotun. 
+C: y por eso más me alivié.
+
+nmdch-nflam_x_0064_nflam_00:
+M: Tüfachi küyen doy küme liftuy ñi ange 
+C: En este mes se limpió mejor mi cara
+
+M: kom küme chipatuy chi pitru reke felekelu
+C: todo salió bién lo que estaba como sarna
+
+M: ngewetulafiñ feula.
+C: ya no lo tengo ahora.
+
+nmdch-nflam_x_0065_nmdch_00: 
+M: ¿Chem küyenmeu 
+C: ¿En qué mes
+
+M: doy tripantu kefimi tüfachi kutran
+C: más te aparece esta enfermedad
+
+M: tüfachi walüng tripantumeu  kam,
+C: en el verano o
+
+M: kam pukem?.
+C: o en invierno?.
+
+nmdch-nflam_x_0066_nflam_00: 
+M: Walüngmeu ta dollelkeyka lamngen,
+C: En verano es peor pues, hermano,
+
+M: dollelkey antümeu.
+C: es peor con el sol.
+
+nmdch-nflam_x_0067_nmdch_00:
+M: Aremeu.
+C: Con el calor.
+
+nmdch-nflam_x_0068_nflam_00: 
+M: Aremeu dollelkey.
+C: Cuando hace calor me duele más.
+nmdch-nflam_x_0069_nmdch_00: 
+M: Feykay tami pu... pu che, 
+C: También tu gente, 
+
+M: pu karukatu <uhm>
+C: tus vecinos 
+
+M: ka femngechi tami pu weku
+C: también así tus tíos
+
+M: <uhm> chau tüwunmeu
+C: por parte de tu papá
+
+M: <uhm> tufin tüfachi kutran pipiminga.
+C: me contagie con esta enfermedad has dicho.
+
+M: ¿yey tami pu kakelu pu reñma
+C: ¿y tus otros parientes cercanos
+
+M: kafey mingün femngechi kutran?
+C:  también se contagiaron con la misma enfermedad?
+
+nmdch-nflam_x_0070_nflam_00:
+M: Nielayngün lamgen
+C: Nadie tiene hermano
+
+M: iñche müten ta niefin tati,
+C: yo solamente lo tengo pues, 
+
+M: welu kom feyngeken 
+C: pero todo tienen
+
+M: tami chau ta ka femngechi mülekekuy kuyfi
+C: tu padre también de esa manera estaba así antes
+
+M: wewentrungelu pingeken tati
+C: cuando era joven me dicen pues.
+
+nmdch-nflam_x_0071_nmdch_00:
+M: ¿Fey chem pikeymu tami chau kay?
+C: ¿Y qué te decía tu padre?
+
+nmdch-nflam_x_0072_nflam_00:
+M: Ka femngechi feypikeneu, 
+C: También me dice eso,
+
+M: fey ta iñche ta ka femngechi rupan 
+C: y yo también de esa manera pasé
+
+M: ayükelafun ñi pengeal, 
+C: no me gustaba me vieran, 
+
+M: tañi felerkeymi ta ñi pingel pikefun, 
+C: que no le gustaba que lo vieran así,
+
+M: kuyfi welu rupanew chi kutran pikeneu llemay
+C: pero no me pasa la enfermedad me dice
+
+M: fey tremoaymi ta ti newen küleaymi müten
+C: tienes que hacer un gran esfuerzo para mejorarte
+
+M: tremoaymi eymi we domo ta ti pikeneu ka.
+C: te vas a mejorar porque eres joven.
+
+nmdch-nflam_x_0073_nmdch_00:
+M: Feley <uhm>.
+C: Esta bién.
+
+M: ¿Tami chau tunten tripantu niey?
+C: ¿ Cuantos años tiene tu papá?
+
+nmdch-nflam_x_0074_nflam_00: 
+M: <uhm> <*SPA> haber deu pul niey doy
+C: Haber, ya tiene. 
+
+nmdch-nflam_x_0075_nmdch_00: 
+M: Regle mari pura mari.
+C: sesenta y ocho años.
+
+nmdch-nflam_x_0076_nflam_00:
+M: Pura mari ka lamngen.
+C: Ochenta  hermano. 
+
+nmdch-nflam_x_0077_nmdch_00: 
+M: Pura mari doy
+C: Más de ochenta
+
+M: ¿petu niey fey chi kutran kay?
+C: ¿ acaso tiene todavía esa enfermedad?
+
+nmdch-nflam_x_0078_nflam_00: 
+M: Niewetulay turpu kom.
+C: No tiene nada.
+
+nmdch-nflam_x_0079_nmdch_00:
+M:  ¿Chumngechi kam rulpay chi kutran, 
+C: ¿ Cómo pasó esa enfermedad,
+
+M: fey kam re puini 
+C: acaso llega hasta
+
+M: aftremitache kam kidu fentekunuki
+C: termina de crecer la gente  o solo se pasa
+
+M: kam l'awen'meu tremoy?
+C: o acaso con el remedio se mejoró?
+
+nmdch-nflam_x_0080_nflam_00:
+M:Kidu tremon pikey müten 
+C: Sólo se mejoró
+
+M: l'awen' tukelafin rume feleken müten fey,
+C: no tomaba remedio estaba así no más,
+
+M:  kidu rupay pikey ka pu tremlu,
+C: sólo pasó decía cuando se mejoró,
+
+M: <uhm> iñche feyula ta tremon pikeneu 
+C: ahora me alivié me decía
+
+M: pichike l'awen' tuleken müten
+C: poco remedio tomo
+
+M: welu iñche kidu pi amukelan machimeu
+C: yo solo no voy a la machi
+
+M: iñche kidutu l'awen' tunken pikey ka. 
+C: yo sólo me hago remedio,  decía.
+
+nmdch-nflam_x_0081_nmdch_00: 
+M: ¿Chumngelu kam amukelay
+C: ¿Por qué no va
+
+M:  newe feyentukelay
+C: no cree mucho 
+
+M:  chi machi kam 
+C: en la machi
+
+M: newe, newe, newe chemkelay ñi kutran?
+C: o no tama muy en cuenta su enfermedad?
+
+nmdch-nflam_x_0082_nflam_00: 
+M: Müte chemkelay ñi kutran ka
+C: No me afecta mucho mi enfermedad
+
+M:  fey ta fey meu ta amukelan,
+C:  por eso es que no voy,
+
+M:  rupayanew ta ti pikefin ta ñi pu che, 
+C:   me va a pasar le digo a mi gente,
+
+M: amuymi ta ti pikeneu engün 
+C: no es que vas me dicen 
+
+M: fey ta amukelan, 
+C: y no voy,
+ 
+M: küdauküleken müten
+C: trabajo no más
+
+M:  fey meu ta turpu chemlafin
+C: por eso no la tomo en cuenta
+
+M:  fey rüpale rupayay, femnuli kay 
+C:  si pasa pasa, si no es así
+
+M: femlayay  pikeneu müten.
+C: no va ser me dice no más.
+
+nmdch-nflam_x_0083_nmdch_00:
+M: ¿Eymi mi rakiduammeu
+C: ¿El pensamiento de usted
+
+M:  tüfachi tami pichin 
+C: este su poco
+
+M: fey pimeu kam 
+C: que le dice pues
+
+M: tüfachi kutran
+C: de esta enfermedad
+
+M:  kidu kutran ka 
+C: solo enfermedad también
+
+M: kidu ñi tripan ka?
+C: solo su enfermedad también?.
+
+nmdch-nflam_x_0084_nflam_00:
+M: May. 
+C: Sí.
+
+M: Kidu.
+C: Solo.
+
+nmdch-nflam_x_0085_nmdch_00: 
+M: Kidu ñi tuwiñi kutran fey feypikelaymu 
+C: Solo sabe de su enfermedad este lo que dice
+
+M: ¿Chumngelu ni nüng tüfachi kutran
+C: ¿Cómo tocó esta enfermedad 
+
+M:  kuyfimeu ella kidu ella pichi wentru ngelu?
+C:  antes casi solo, cuando era hombre chico?
+
+nmdch-nflam_x_0086_nflam_00: 
+M: Rume antümeu küdauken pikey,
+C: En el calor trabajaba mucho dice,
+ 
+M: kuyfi llemay ta rume küdaukelu che 
+C: antes trabajaba mucho la gente
+
+M: fey ta antümeu ta chemkey ñi 
+C: en el calor trabajaba  
+
+M: <uhm> kom are arentuken 
+C: todo el calor lo tocaba
+
+M: fey turpu kom,
+C: este nada,
+
+M: kom chi are ngemeu keday, 
+C: todo el calor queda en el ojo,
+
+M: fey entulafin
+C: este no lo saqué
+
+
+M:  fey meu kutranken, pikey ñi chau.
+C: por eso me enfemó, dijo mi padre.
+ 
+2nmdch-nflam_x_0087_nmdch_00: 
+M: Tüfachi kutran mollfüñma amuley
+C: Esta enfermendad con sangre sigue
+
+nmdch-nflam_x_0088_nflam_00:
+M: Mollfüñmeu pikeyngün.
+C:  Por la sangre dicen.
+
+nmdch-nflam_x_0089_nmdch_00: 
+M: ¿Feychi <*SPA>doctor meu kay chem,
+C: ¿Dónde ese doctor pues qué,
+
+M: chem <uhm> elukelaymu
+C: qué no le da
+
+M:  ñi chumngechi ñi chilkatungeal
+C: porque para estudiarlo
+
+M: pengeal chi mollfüñ entumakelaymu?
+C: para ver la sangre, le sacaba?
+
+nmdch-nflam_x_0090_nflam_00:
+M:  <uh> We chemlu iñche ta entungen mollfüñ 
+C: Cuando recién, a mi me sacaron sangre
+
+M: fey wüla ta feypingen tañi chemñi ngen,
+C: ahí recièn me dijeron qué era lo que tenía,
+
+M: welu <*SPA>despues ka femngechi
+C: pero después también así
+
+M:  fey pieneu 
+C: me dijo
+
+M: tañi tüfachi kutran rupalayaymeu ta
+C: que mi enfermedad no le va a pasar
+
+M: ti amuleay tami kutran nün
+C:  va avanzar su enfermedad 
+
+M: fey chemaymi müten 
+C: eso no más vas hacer
+
+M: müley tami l'awen'tungeal
+C: tiene que hacerse remedio
+
+M:  femngechi tremoal
+C: para así mejorarse
+ 
+M: tremoaymi ta ti pikeneu ka.
+C: se va a sanar me decia también.
+
+nmdch-nflam_x_0091_nmdch_00:
+M: ¿tüfachi kutran ünallem tami ange ka,
+C: ¿ Esta enfermedad le pica la cara también,
+
+M:  ka alülüy tami ange 
+C: también le arde la cara
+
+M: fey re tami kalül kay tami longko kom 
+ C: y solamente tu cuerpo y tu  cabeza, todo
+
+M: <uhm> kalül pingekey ta pu tañi mapuche ngen
+C:  cuerpo dicen  ahora pues,  que somos mapuches
+
+M:  kutran key kay kam aling 
+C: enfermedad es también pues la fiebre
+
+M: konkeymi kam femkelaymi?
+C:  le a afectado o no le pasa esto?
+
+nmdch-nflam_x_0092_nflam_00: 
+M: <uh> Longko pichike kutrankey lamngen,
+C: Un poco de dolor de cabeza pues hermano,
+
+M:  welu re longko müten.
+C: pero solo la cabeza no más.
+
+nmdch-nflam_x_0093_nmdch_00:
+M: ¿Re longko müte?
+C:  ¿Sólo la cabeza no más?
+
+nmdch-nflam_x_0094_nflam_00: 
+M: Re longko müten.
+C: Sólo la cabeza no más:
+
+nmdch-nflam_x_0095_nmdch_00: 
+M: Fey tüfachi kutran 
+C: Y esta enfermedad
+
+M: <uhm> <uhm> deuma eymi 
+C: ya usted
+ 
+M: tami feypin meu 
+C: por lo que dice
+
+M: tami rakiduam meu 
+C: en su pensamiento
+
+M: putuemi che may
+C: llegas a la gente pues
+
+M:  kidu rulpakepey ñi kutran 
+C: solo debe de pasar mi enfermedad
+
+M: tami chau reke pu tremi ñi tami chau
+C: como su padre esta creciendo su padre
+
+M: ¿Fey kidu afiñi kutran, tüfa niewelay?
+C: ¿ Y solo se terminó la enfermedad, ahora no tiene?
+
+nmdch-nflam_x_0096_nflam_00:
+M: Niewelay turpu lamngen
+C:  No tiene nada de nada hermano
+
+M: iñche <uhm> feula ta l'awen'tulen tulen 
+C: yo ahora estoy tomando remedio
+
+M: ka femngechi küme inafin chi machi
+C: también así muy bien seguí a la machi
+
+M:  ñi kom küme fey pieteu 
+C: todo bien me lo dijo
+
+M: <uhm> <*SPA>asi tremoan piken ka lamngen.
+C:  así me voy a sanar decía hermano.
+
+nmdch-nflam_x_0097_nmdch_00: 
+M: Fey tami küdaukülemün 
+C: Eso por estar trabajando
+
+M: feyti amuldungufemeu
+C: en eso que se mandan mensajes
+
+M: amuldungun pingey chi tüfachi
+C: se le dice amuldungun este
+
+M:  pichi trawün 
+C: pequeña reunión
+
+M: ¿Akukey kay ka femngechi che nge
+C: ¿Se termina también ese tipo de gente
+
+M:  femngechi che femngechi kutran nielu?
+C:  así la gente así es que tiene enfermedad?
+
+nmdch-nflam_x_0098_nflam_00: 
+M: Ka akukey llemay lamngen, 
+C: También llega así pues hermano,
+
+M: rume müley chi femngechi kutran feula, 
+C: hay mucho de esa enfermedad ahora,
+
+M: rume wecha chipay chi tripantu
+C: muy mal terminó el año
+
+M:  ka antü kom rume pukey lamngen.
+C: también todo en el invierno hermano.
+
+nmdch-nflam_x_0099_nmdch_00: 
+M:  ¿Fey eymi chem pikefimi fey ti che
+C: ¿Y usted qué le dice a esa gente
+
+M:  ngütramelkeymu 
+C: la que le converza
+
+M: kam ramtukeymu
+C: o que le pregunta
+
+M:  kam tukulpakeleymün fey chi kutran?
+C: o que le a dejado esa enfermedad?
+
+nmdch-nflam_x_0100_nflam_00:
+M: Ka femngechi ngütrakakeyin llemay lamngen
+C: También así le conversamos pues heermano
+
+M:  kiñekemeu ta akukey
+C: a veces llega
+
+M:  femngechi angemeu 
+C: así en la cara
+M: femngechi ange ka, 
+C: así en la cara también,
+
+M: nierkeymi lamngen, pikeneu,
+C: tienes hermana, me dice,
+
+M:  ka femngechi ta ngütramkaukeyiñ 
+C: también así lo conversamos
+
+M: fey kikemeu ka infidun ta
+C: ahí me conoce también, mal
+
+M:  ti pikeneu engün ka.
+C:  ese me dicen también.
+
+nmdch-nflam_x_0101_nmdch_00: 
+M: ¿Infitu?
+C: ¿Mal?
+
+nmdch-nflam_x_0102_nflam_00: 
+M: May.
+C: Si.
+
+nmdch-nflam_x_0103_nmdch_00: 
+M: ¿Chem anta chem infitun fey ti wedalkawün ta che?
+C: ¿ Qué es el infitu ese de hacer mal a la gente?
+
+nmdch-nflam_x_0104_nflam_00:
+M: Feyllemay lamngen, wedalkalu.
+C: Eso pues hermano, el que hace mal.
+
+nmdch-nflam_x_0105_nmdch_00: 
+M: ¿Fey kay eymi feyentukeymi fey?
+C: ¿ Y usted pues le cree a ella?
+
+nmdch-nflam_x_0106_nflam_00: 
+M: Feyentukefin llemay lamngen,
+C: Le creo pues hermano,
+
+M: welu ta machi ta 
+C: pero la machi 
+
+M: ngelaymi filladka, pieneu, 
+C: no tienes ma,l me dijo,
+
+M: feyta re kutran müten tati, pieneu,
+C: ahora sólo enfermedad no más, me dijo,
+
+M:  feymeu ta feyentukefin ka.
+C:  por eso le creo también. 
+
+nmdch-nflam_x_0107_nmdch_00: 
+M: ¿Eymi feyentukefimi machi?
+C: ¿Usted le cree a la machi?
+
+nmdch-nflam_x_0108_nflam_00: 
+M: Feyentukefin llemay lamngen.
+C: Le hago caso pues hermano.
+
+nmdch-nflam_x_0109_nmdch_00: 
+M: ¿Tüfachi machi mülelu taiñ mongenmeu
+C: ¿Esta machi que hay en nuestras vida
+
+M:  allmeñ ñochi ñi afkülen 
+C:  un poco lento se va terminando
+
+M: müte ñewelay machi kuyfi 
+C: no qudaba machi en ese tiempo
+
+M: ¿eymi chem pileymi 
+C: ¿usted qué dice
+
+M: kay l'awen'tufe che müten 
+C: de la gente que solo hace remedio
+
+M: ta ñewelay, chem pileymi 
+C: que ya no quedan, qué dice
+
+M: fey chi dungun kay?
+C: de esa cosa pues?
+
+nmdch-nflam_x_0110_nflam_00: 
+M: Weda llemay lamngen 
+C: Es malo pues hermano
+
+M: ka femngechi <uhm> ngewelayngün
+C: también así no quedan
+
+M:  iñche llemay ka mapu ñemeken  ta ti
+C: yo pues a otras tierra voy pues
+
+M:  ka kalelfün 
+C: en otros lugares
+
+M: iñche püle ta ngewelay machi
+C: donde yo no hay machi
+
+M:  ka ngewelay l'awen',
+C: tampoco queda remedio,
+
+M:  wecha llemay <uhm> mapuche
+C: malo pues el mapuche
+
+M: <uhm> re femngechi l'awen'tukefuy kuyfi 
+C: así no más se hacía remedio antiguamente
+
+M: feula ngenulu machi 
+C: ahora que no queda machi
+
+M: ta amukey wingkameu ka lamngen.
+C: va donde el huinca también hermano.
+
+nmdch-nflam_x_0111_nmdch_00: 
+M: ¿Tüfachi l'awen' tami eluketew chi machi <uhm>
+C: ¿Este remedio que le da la machi 
+ 
+M: kiñeke ina duam kelefimi
+C:  a veces, a mira como
+
+M: chem ngen kachu ngen
+C:  qué es, si es pasto 
+
+M:  anümka ngen tapül chem,
+C: si es planta, si es hoja,
+
+M:  chem trapumkey chi?
+C: qué es lo que une pues?
+
+nmdch-nflam_x_0112_nflam_00: 
+M: Kimlan lamngen, 
+C: No sé hermano,
+
+M: chem, chumngechi ñi
+C: qué, cómo es.....
+
+nmdch-nflam_x_0113_nmdch_00:
+M: ¿Welu würkalu chi l'awen' elukeymu?
+C: ¿ Pero remedio que da le da a usted?
+nmdch-nflam_x_0114_nflam_00:
+M: May.
+C: Si.
+
+nmdch-nflam_x_0115_nmdch_00: 
+ <uhm>
+
+M: ¿Fey re mapu dungun
+C: ¿Eso solamente en mapudungun
+
+M: ngillatumakeyman re elfe kim ti l'awen'?
+C: le hace rogativa solo se conoce el remedio?  
+
+nmdch-nflam_x_0116_nflam_00:
+M: <*SPA>No.
+C: No.
+
+M: Wüne ngillatu ngeken pu lamngen 
+C: Primero me hacen rogativa hermano
+
+M: <uhm> l'awen' ka ta ngulltukefi kom 
+C:  remedio también lo sacó todo
+
+M: fey wüla elukeneu.
+C: hay recién me da.
+
+nmdch-nflam_x_0117_nmdch_00:
+M: ¿Fey amuyim
+C: ¿Y fuimos
+
+M:  eymi  fey amuwerkeymi 
+C:  y usted, también, no fuiste
+
+M: kam kidu amukeymi 
+C: o sola vas
+
+M: kom afkad ngekeymi kompañekeymi?
+C: todo lo sabe usted lo andas trayendo de compañero?
+
+nmdch-nflam_x_0118_nflam_00: 
+M: Kiñekemeu kidu amuken
+C: A veces voy sola
+
+M:  kiñekemeu ta yemeal we l'awen'
+C: a veces para ir a buscar nuevo remedio
+
+M:  ta werküken che ta lamngen.
+C: mando  gente hermano.
+
+nmdch-nflam_x_0119_nmdch_00:
+M: ¿Fey tuntentu müfüke antü putukeymi fey chi l'awen'?
+C: ¿Eso cuánto tiempo tomas ese remedio?
+
+nmdch-nflam_x_0120_nflam_00: 
+M: Filla antü putuken lamngen
+C: Todos lo días tomo hermano
+
+M:  filla antü kiñe pichi, 
+C: todos los día un poco, 
+
+M: pichi metawe.
+C: en un pequeño cantaro.
+
+nmdch-nflam_x_0121_nmdch_00:
+M: Fentella pingekey ta.
+C: Fentella le llaman esto.
+
+nmdch-nflam_x_0122_nflam_00:  
+M: Fentella pikeyngün elungeken 
+C: Fentella le llaman a lo que me dan
+
+M: fey ta faltalu amukey llemeal ka.
+C: cuando esto falta voy a buscar más también.
+
+nmdch-nflam_x_0123_nmdch_00: 
+M: Welu tüfa eymi wariameu
+C: Pero esta usted en la ciudad
+
+M: ¿Küdaukülepaymi 
+C: ¿Estas trabajando
+
+M: feyti amuldungufe pital meu
+C: de facilitador intercultural del hospital 
+
+M:  müley chi küpami l'awen'
+C: hay del remedio que traes
+
+M:  chumngechi kam tufimi?
+C: cómo lo obtiene?
+
+nmdch-nflam_x_0124_nflam_00: 
+
+M: May. 
+C: Sí.
+
+M: Tüfameu ta niepan llemay 
+C: Aquí lo tengo pues
+
+M: tañi l'awen' lamngen,
+C: mi remedio hermano,
+
+M:  wariameu ta niepan.
+C: en la ciudad lo tengo.
+
+nmdch-nflam_x_0125_nmdch_00: 
+M: ¿Fey chem pikeymu kakelu tami pu
+C: ¿Y qué les dicen los demás
+
+M: tami kiñewün küdauelelu ti che?
+C: con los que trabajan? 
+
+nmdch-nflam_x_0126_nflam_00:
+M: <uhm> Ka femngechi mapuche domo 
+C: También así la mujer mapuche
+
+M: feyta fey kümey tami l'awen'tun
+C: este es pues muy bueno este remedio  
+
+M:  mapuche l'awen' tami meken 
+C: que estas con remedio mapuches
+
+M: pikeneu müten ka lamngen
+C: me dice no más también hermano
+
+M:  doy küme l'awen' ta ti pikeneu
+C:  es mejor remedio me dijo
+
+M:  kangelu kay re femngechi
+C: el otro pues así no más
+
+M:  chemnulu reke kiñekemeu trokikefin
+C: me hace a veces lo siento
+
+M:  re <*SPA>pastilla pingekelay ama 
+C:  pura pastilla no es que se dice
+
+M: fey re putokongekey che
+C: eso no más le dan para tomar a la gente
+M:  chumi chi putrameu piken
+C: que le hará al estómago digo
+
+M:  ka tüfa re ko doy fushki ngay piuke kom.
+C: también esto solo con agua más se refresca el corazón todo.
+
+nmdch-nflam_x_0127_nflam_00: 
+M: Doy ina mollfüñ alu pikelay ama pu.
+C: Que sigue más la sangre, no decía.
+
+nmdch-nflam_x_0128_nmdch_00: 
+M: May,may
+C: Sí, sí.
+
+M: Tüfachi kutran kay 
+C: Esta enfermedad pues
+
+M: nieymi eymi tami üllcha domo mongen
+C: tuvo usted cuando era mujer joven
+
+M:  üllcha malen ngen,
+C: cuando era niña,
+
+M: ¿ lladkikeymi tami nien
+C: ¿se enojaba porque tenía
+
+M:  fey chi kutran
+C: esa enfermedad
+
+M: kidutu lladkikeymi piuke?
+C:  sola se amargaba el corazón?
+
+nmdch-nflam_x_0129_nflam_00:
+M: Femküwi%  
+C:  Eso le pasaba...
+
+nmdch-nflam_x_0130_nmdch_00: 
+M: ¿üllkukefuymi nien chumngelu nien tüfachi kutran?
+C: ¿La enojaba porque tenía esa enfermedad?
+
+nmdch-nflam_x_0131_nflam_00:
+M: Femkefun llemay lamngen, 
+C: Eso hacía pues hermano,
+
+M: welu <uhm> kom küme ngütramkanew chi machi, 
+C: pero todo me lo conversó la machi,
+M: fey femlayaymi ta ti
+C: esta no va a pasarle 
+
+M: eymi lladkükerkeymi ta ti
+C: usted se entristece
+
+M: weshaymawürkeymi anküymi reke tati,
+C: es muy mal llegó casi pues,
+
+M: femlayaymi re kutran tati
+C: no le va a pasar eso solo es una enfermedad
+
+M:  tremuaymi, pikeeneu, 
+C: se va a majorar, me dice,
+
+M: ka femngechi ñi pu
+C: también así mi
+
+M:  fey pikeneu feymeu kom küme
+C:  eso me dice por eso muy bien
+
+M:  feula ta feletun ka lamngen.
+C: ahora estoy también hermano.
+
+nmdch-nflam_x_0132_nmdch_00:
+M: Feley tami pu che 
+C: Así está su gente 
+
+M: tami ñuke, lamngen fey
+C: tu madre, hermana ella
+
+M: kellunieymu rakidamün 
+C: te ayuda en tu pensamiento
+
+M: ka tami weñankünual kiñekemeu, 
+C: también para que no tengas pena algunas veces,
+
+M: ta müley ta kutran 
+C: ahora hay enfermedad
+
+M: cheu fill kalülmeu ningekey ti kutran
+C: dónde en diferentes partes del cuerpo se tiene enfermedad
+
+M:  eymi nieymi angemeu 
+C: tú tienes en la cara
+
+M: fey tami ayetungenual, tami ütrirngenual
+C: para que no se rían de ti, para así no envidiarte
+
+M:  ¿fey ta <uhm> küme dungunmeu 
+C: ¿y en tus buenos asuntos
+
+M: ngütrammeu kellukeymeu tami pu che?
+C: en conversación te ayudan tu gente?
+
+nmdch-nflam_x_0133_nflam_00:
+M: Femkeneu llemay, lamngen,
+C: Me hacen eso pues, hermano,
+
+M: ka femngechi ngillatuleaymi pikeneu ñi ñuke,
+C: también así vas a estar haciendo rogativas me dice mi madre,
+ 
+M:  fey ta rume chemkeneu engün, 
+C: esto me dicen mucho ellos,
+
+M: tañi weshanma 
+C: para no ser mala
+
+M: doy tañi kutranual ka.
+C: para no enfermarme más también.
+
+nmdch-nflam_x_0134_nmdch_00:
+M: ¿Tami ñuke kimi kay l'awen'?
+C: ¿Y tu madre sabe de remedio?
+
+nmdch-nflam_x_0135_nflam_00: 
+M: Pichike kimi, lamngen, 
+C: Un poco sabe, hermano,
+
+M:  müte kimlan müte chemkelafiñeu ñi%.
+C: no sé mucho, no mucho sucedia mi
+
+nmdch-nflam_x_0136_nmdch_00: 
+M: ¿Welu tulafi tüfachi kutran?
+C: ¿Pero no le a tocado esta enfermedad?
+
+nmdch-nflam_x_0137_nflam_00:
+M:  <*SPA>No, <*SPA> no 
+C: No, no. 
+
+M: Nielayngün, lamngen.
+C: No tienen, hermano.
+nmdch-nflam_x_0138_nmdch_00:
+M: Pu% mollfüñ amukey
+C: Dentro de la sangre va
+
+M:  tüfachi kutran 
+ C: esta enfermedad 
+
+M: <*SPA>infección pikey ta pu wingka,
+C:  infección  le llaman los huincas
+
+M:  inchiñ ta nüngükey cheu püle rume
+C: en nosotros se agarra en cualquier parte
+
+M:  chem kalü püle rume
+C:  en cualquier parte del cuerpo
+
+M:  nüngükey pikey
+C: se contagía mucho dice
+
+M:  fey femngelay may.
+C: eso no es así pues.
+
+nmdch-nflam_x_0139_nflam_00:
+M:  <*SPA>no, <*SPA>no nielan.
+C: No, no, no tengo.
+
+nmdch-nflam_x_0140_nmdch_00: 
+M: ¿Tami pu karukatu kay pu ka che
+C: ¿Sus vecinos tu gente 
+
+M:  <uhm> niengün pekelaymi 
+C: tiene no dices
+
+M: feychi tami feychi kutran nielu tami lofmeu?
+C: esta su enfermedad  que tiene su comunidad?
+
+nmdch-nflam_x_0141_nflam_00
+M: Tañi lofmeu <*SPA>no lamngen, 
+C: En mi comunidad no hermano,
+
+M: re ka kutran müten niengün, 
+C: solo de otra enfermedad tienen nomás,
+
+M: welu femngechi  nielangün iñche reke.
+C: pero así no tiene como yo.
+
+nmdch-nflam_x_0142_nmdch_00:
+M: Feley <uhm> 
+C: Así es, 
+
+M: tüfachi kutran taiñ mapuchengenmeu
+C: esta enfermedad en los que somos mapuches
+
+M: nüngükey
+C: se contagia,
+
+M:  ka pu wingka ka femngechi niey
+C: también los huincas de esa manera tiene
+
+M:  fey chi kutran ka.
+C: esa enfermedad también.
+
+nmdch-nflam_x_0143_nflam_00: 
+M: Ka nieyngün ka%.
+C:  También la tienen también. 
+
+nmdch-nflam_x_0144_nmdch_00: 
+M: ¿Pekefimi ka? 
+C: ¿La has visto también?
+
+nmdch-nflam_x_0145_nflam_00: 
+M: Ka nieyngün llemay, lamngen.
+C: También tienen ellos pues,  hermano.
+
+nmdch-nflam_x_0146_nmdch_00: 2
+M: ¿<uhm>Eymi fey ta pekeymi 
+C: ¿Tú has visto esto
+
+M: kakelu chem pikey kay? 
+C: y los otros que dicen?
+
+M: ¿chem pikeymi nieymün 
+C: ¿que les dicen por que tuvo
+
+M: fey chi kutran engün
+C: esa enfermedad ellos
+
+M: <uhm> famngechi kellungekeyngün
+C: así se ayudan
+
+M:  <uhm> küme newentuleyngün kay
+C: se dan fuerzas pues
+M: l'awen'tukey ngün ka
+C: se hacen remedios también
+
+M:  kam kiñeke femkünüwkey ta che
+C: o a veces así se deja la gente
+
+M:  chumngeyngün kakelu 
+C: como son los otros
+
+M: chem chumngechi pekefimi? 
+C: que, cómo les dices?
+
+nmdch-nflam_x_0147_nflam_00:
+M: Femi llemay, lamngen,
+C: Así es pues, hermano,
+
+M: kiñekemeu ta küme newentulay
+C: a veces no se dan muchas fuerzas
+
+M: ñi küme amual ñi l'awen' 
+C: para que vaya bién su remedio
+
+M: ñi l'awen'tun <*SPA>pu' lamngen,
+C: de hacerse remedio pues, hermano,
+
+M:  iñche llemay nien kiñe kompañ <*SPA>señora
+C:  yo pues tengo una compañera señora
+
+M: ka femngechi nierkey femngechi kutran, 
+C: también así tenía de esa enfermedad,
+
+M: welu rume weshañmawi <uhm>
+C: pero se puso muy mal
+
+M:  ka rukameu 
+C: en la casa  vecina
+
+M: ta ayüntu nierkeyew tañi pu lamngen<uhm>
+C: era preferida de los hermanos
+
+M: chumleweymi chi tüfey ka,
+C:  como estarás después de esta  también pues,
+
+M:  "ka kutran chi nieymi" 
+C: "quizás tienes otra enfermedad"
+
+M: pingeken pi 
+C: me dicen, dijo
+
+M: "epu cheleymi chi tati pingeken" pi.
+C: "estas embarazada quizás pues, me dicen", dijo.
+
+nmdch-nflam_x_0148_nflam_00: 
+M: Turpu chemngelan ñi rukameu 
+C: No me toman en cuenta en mi casa 
+
+M: chumngelu anta eymi <uhm> 
+C: por qué tú 
+
+M: putrü müna küme tremoymi
+C: tan bién te mejoraste
+
+M:  pikeneu ka lamngen.
+C: me dicen otras hermanas.
+
+nmdch-nflam_x_0149_nmdch_00:
+M: Iñchiñ taiñ mapuchechengenmeu
+C: Nosotros los que somos gente mapuche
+
+M:  kiñeke müley ta ayentungen ta che
+C: a  veces hay quien se ríe de la gente
+
+M:  <uhm> deuma tripayüm ta pitrü reke
+C: cuanndo ya comienza a salir como grano
+
+M:  <uhm> angemeu feyta ange pingen
+C: en la cara  esto en la cara me dicen
+
+M:  üll ta domo pingekey.
+C:  ...... la mujer se dice.
+
+M: ¿fey fey pingekey reke che?
+C: ¿eso así es más o menos lo que se le dice a la gente?
+
+nmdch-nflam_x_0150_nflam_00: 
+M: Rakiduammeu ta feypingekepelan, lamngen, 
+C: En el pensamiento eso yo creo que me dicen pues, hermano,
+
+M: welu femngechi dungunmeu ta
+C: pero en estas cosas 
+
+M: feypingekelan ka.
+C: no me dicen eso tampoco.
+
+nmdch-nflam_x_0151_nmdch_00: 
+M: ¿Welu kakelu 
+C: ¿Pero los otros
+
+M: fey tami ngütram kamepikeymi nga 
+C: de los que les conversan estabas deciendo pues
+
+M: feychi che, domo chumngechi weda,
+C: esa gente, la mujer como mala,
+
+M:  weda rakiduam tukukeñi ñi piukemeu?
+C:  mal pensamiento le ingresan al corazón?
+
+nmdch-nflam_x_0152_nflam_00:
+M: Femkey wecha echawedakünukeneu
+C: Eso sí mal me hacen muy mal
+ 
+M: tüfachi kutran pingekey, 
+C: esta enfermedad se le llama ,
+
+M: fey ta küpa mongelafin tati pikeneu
+C: eso no lo  quiero vivir me dice
+
+M:  chumngelu chi mongelen
+C: por qué estaré vivo
+
+M:  feley tañi ange pikeneu feula llemay; 
+C: esta así mi cara me dice ahora pues;
+
+M: kutran echakutrankawi
+C: la enfermedad afecta a veces
+
+M:  fey ta kandatuaymi 
+C:  y descansarás
+
+M: rukameu doy tremoaymi
+C: en la casa más te vas  a mejorar
+
+M: femngechi pingerkey, 
+C: así le dijeron,
+
+M: fey ta feula ta küdauetulay, 
+C: ahora ya no trabaja,
+
+M: welu dolleley pu lamngen,
+C: pero esta peor hermano,
+
+M: rume weñanküy, 
+C: se puso muy triste, 
+
+M: ngümakey ka
+C: llora también
+
+M: turpu tremolayan iñche, pikeneu,
+C: no me voy a mejorar nada yo, me dice,
+
+M: fey ta iñche ka femngechi ngütramkakefin.
+C: y yo también así de esa manera le converso.
+
+nmdch-nflam_x_0153_nflam_00: 
+M: Iñche ka femngechi felefun, 
+C: Yo así también estuve,
+
+M: welu chipan tati
+C: pero salí pues
+
+M: epeke chipangi kutranmeu pikefiñ.
+C: casi salir de la enfermedad le digo 
+
+nmdch-nflam_x_0154_nmdch_00:
+M: Feley, 
+C: Así es,
+
+M: feychi kiñeke ta weluduamküleki
+C: esta algunas veces está distraída
+
+M:  fey ñi taiñ kellungeam üllüm chi chi ka.
+C: para ayudarle hay que juntar a la gente.
+
+nmdch-nflam_x_0155_nflam_00:
+M: Feley llemay lamngen.
+C: Así es pues hermano.
+
+nmdch-nflam_x_0156_nmdch_00: 
+M: May.
+C: Sí.
+
+M: Nieymi ta kutran ta che
+C: Cuando tiene enfermedad la gente
+
+M:  tañi pu reñma
+C: su familia 
+
+M:  tañi pu, 
+C: su gente, 
+
+M:  pu che newe keyukelayu 
+C: la gente no le ayuda mucho
+
+M: ¿fey chi che pekefimi ka?
+C: ¿esa gente la ves también?
+
+nmdch-nflam_x_0157_nflam_00: 
+M: Pekefiñ llemay lamngen tüfa%
+C: La veo pues, hermano esto.
+
+nmdch-nflam_x_0158_nmdch_00: 
+M: Weluduamkey % reke 
+C: Como que se distrae, 
+
+M: ¿lokokey reke ñi piuke?
+C: ¿se pone como loco su corazón?
+
+nmdch-nflam_x_0159_nflam_00:
+M: May. 
+C: Sí.
+
+M: Tüfachi domo femi <*SPA>pu' lamngen,
+C: A esta mujer le pasó esto pues, hermano,
+
+M:  echawedakünufuy
+C: lo había hecho muy mal
+
+M: fey ta ngümakonkelekey müten
+C: y sólo llora
+
+M:  ñi küdaumeu, 
+C: por su trabajo,
+
+M: chumimi am pingekey, 
+C: en todas partes se dice
+
+M: feyta ka femngechi
+C: ésta así también
+
+M:  wedadungukefi che,
+C: le hablaba mal a la gente,
+
+M:  turpu kümeduamlay
+C: no se sentía nada de bien
+
+M:  turpu ñi küdaumeu
+C: para nada en su trabajo
+
+M:  feymeu tachi <*SPA>doctor 
+C: por eso este doctor
+
+M: feypirkeeyu:
+C: él le dijo:
+
+M: fey kansatuaymi, 
+C: vas a descanzar,
+
+M: rume weda amuleymi tami rakiduam, pingerkey,
+C: va muy  mal tu pensamiento, le dijeron,
+
+M: feymeu feula ta amuwetulay
+C: por eso ahora ya no va
+
+M: ñi küdau kalu%.
+C: a su trabajo.
+
+nmdch-nflam_x_0160_nmdch_00:
+M: ¿Tüfachi che fey wingkangelu kam mapuche?
+C: ¿Esta gente los que son huincas o los que son mapuche?
+
+nmdch-nflam_x_0161_nflam_00:
+M: <*SPA>Señora, lamngen, <*SPA>señora
+C: Señora, hermano, señora.
+
+nmdch-nflam_x_0162_nmdch_00: 
+M: ¿<*SPA>Señora? 
+C: ¿Señora?
+
+nmdch-nflam_x_0163_nflam_00: 
+M: May. 
+C: Sí.
+
+M: Señora.
+C: Señora.
+
+nmdch-nflam_x_0164_nmdch_00: 
+M: ¿Fey eymi fey feypikelafimi 
+C: ¿Y tú y no le dices que
+
+M: machi konlaymi, pikelafimi ka?
+C: entre a la machi, no le dices también?
+
+nmdch-nflam_x_0165_nflam_00: 
+M: May.
+C: Sí.
+
+M: Ka femngechi 
+C: Así también 
+
+M: feypikefin llemay, 
+C: eso le digo pues,
+
+M: "welu ta nielan turpu tañi kompañeal 
+C: "pero no tengo a nadie que me acompañe
+
+M: ñi pu che chemlaeneu turpu
+C: mi gente no me toma en cuanta para nada
+
+M:  tañi kutran,
+C: de mi enfermedad,
+
+M:  kutrannu tati" pikeneu pikeyka.
+C:  no es enfermedad ese" me dice, dice pues.
+
+nmdch-nflam_x_0166_nmdch_00:
+M: ¿Kam newe feyentukelafi machi?
+C: ¿O no cree mucho en la machi?
+
+nmdch-nflam_x_0167_nflam_00:
+M: Feyentukefi,
+C: Cree, 
+
+M: welu nielay ñi chumngechi
+C: pero no tiene como 
+
+M:  ñi kompañeal, 
+C:  para que la acompañe, 
+
+M: kompañtual.
+C: para que la acompañen.
+
+nmdch-nflam_x_0168_nmdch_00: 
+M: ¿Fey eymi fey kompañkelafimi,
+C: ¿Y tú no la acompañas, 
+
+M:  ka afkakelafimi?
+C:  también te alejas? 
+
+nmdch-nflam_x_0169_nflam_00:
+M: Femlafiñ pu lamngen,
+C: No lo hago pues hermano,
+ 
+M: küdaukülelu iñche kay
+C: como yo estoy trabajando pues
+
+M:  fey ta nielan tañi chumngechi ñi chipayal ka.
+C:  por eso no tengo como salir también.
+
+nmdch-nflam_x_0170_nmdch_00: 
+M: ¿<%> Pepitripalaymi?
+C: ¿No puedes salir?
+
+nmdch-nflam_x_0171_nflam_00:
+M: Pepitripalan.
+C: No puedo salir.
+
+nmdch-nflam_x_0172_nmdch_00:
+M: ¿Fey <uhm> tüfachi lamngen petu küdaukülekay?
+C: ¿Esta  hermana está todavía trabajando?
+
+nmdch-nflam_x_0173_nflam_00:
+M: May.
+C: Sí.
+
+M: Küdaukülekay. 
+C: Esta todavía trabajando.
+
+nmdch-nflam_x_0174_nmdch_00: 
+M: ¿Welu chem pikeyu tañi nielay tañi pu 
+C: ¿Pero  qué le dice que no tiene 
+
+M: nielay ñuke, tañi chau lamngen?
+C: no tiene madre, su padre, hermana?
+
+nmdch-nflam_x_0175_nflam_00: 
+M: Niey llemay, niey, 
+C: Tiene pues , tiene,
+
+M: welu turpu chemngekelan pi chem,
+C: pero no me toman en cuenta para nada,
+
+M: chem rume tukuaymi tami angemeu 
+C: cualquier cosa te va a echar en la cara
+
+M: fey ta kom takuay tati, pikeeneu, 
+C: esto todo te vas a poner, me dice,
+
+M: welu ka femngechi kutranün tati
+C: pero también así al enfermarse pues
+
+M: eymi müten may doy chemkefimi
+C: tu nomás pues más le haces caso
+
+M:  pikeeneu engün pi.
+C:  me dice, dijo.
+
+nmdch-nflam_x_0176_nmdch_00: 
+M: ¿Feychi <*SPA>doctor kay 
+C: ¿Y ese doctor pues
+
+M: chempikeyu
+C: qué le dice 
+
+M:  chem chumi l'awen' may pelayu
+C: cuando no le encuentra remedio
+
+M:  pepelayu may l'awen'?
+C:  no le habrá encontrado remedio pues?
+
+nmdch-nflam_x_0177_nflam_00: 
+M: Niey l'awen' pingeken, pikey,
+C: No tiene remedio me dicen, dice,
+
+M: welu kidu ñi rakiduam müten 
+C: pero sólo con su pensamiento 
+
+M: welu <uhm> chemi doy kutran eleyeu 
+C: pero le hizo enfermar más
+
+M:  ñi tañi felen chumlen chi pikey 
+C:  así como estoy, estoy como dice
+
+M: fütake chem pitru tripay, 
+C: granos grandes sale,
+M: kuyfi felekelafun 
+C: antes no esta así
+
+M: <uhm> ini nu rume ta konpañtukelaeneu
+C: nadie me acompaña
+
+M:  kom femngechi doy kutran eluwi.
+C:  todo así se enraizó su enfermedad.
+
+nmdch-nflam_x_0178_nmdch_00:
+M: Iñchiñ taiñ chengen may
+C: Nosotros que somos gente pues
+
+M:  müley ñi ngülliñ% chi
+C: debemos olvidar por
+
+M:  kutranmeu nien  
+C: la enfermedad tengo 
+
+M: ñi kutranche
+C: mi persona enfermiza 
+
+M: müley ñi fütra piukewalka.
+C: debo ser muy valiente pues.
+
+nmdch-nflam_x_0179_nflam_00: 
+M: Femi llemay, lamngen,
+C: Así es pues, hermano,
+
+M: feymeu ta tremotoy ta che
+C: por eso se mejora la gente 
+
+M: ka femngechi ngillatuleken, 
+C: también así estoy haciendo rogativa,
+
+M: ngillatulekeaymi pikey pu machi,
+C: vas a estar haciendo rogativa dicen las machis,
+
+M:  ka femngechi doy newenkoni che <*SPA>pu', lamngen, 
+C: también así toma fuerza la gente pues, hermano,
+
+M: wingka femlay 
+C: el huinca no hace eso
+
+M: wingka elungekey l'awen' müten
+C: el huinca le dan remedio nada más
+
+M:  fey pütoaymi tüfa pingekey.
+C:  y esto debes beber le dicen.
+
+nmdch-nflam_x_0180_nmdch_00: 
+M: ¿Ayüymi pürüm tremofemal? 
+C: ¿Querías sanarte pronto?
+
+nmdch-nflam_x_0181_nflam_00:
+M: <*SPA>Claro. 
+C: Claro.
+
+M: Feymeu ta kiñekemeu
+C: Por eso a veces
+
+M:  küme tremokelaymün pu lamngen,
+C: no se sanan muy bien hermano,
+
+M:  kidu ñi rakiduammeu
+C:  sólo con su pensamiento
+
+M: tañi püllü, 
+C: con el espiritu, 
+
+M: kom wechanmawurkey
+C: todo me estaba funcionando mal
+
+M:  feymeu doy kutrankeyngün ka.
+C:  por eso se enferman más también.	
+
+nmdch-nflam_x_0182_nmdch_00: 
+M: ¿Kiñeke müleyüm tüfachi kutran
+C: ¿A veces cuando hay esta enfermedad
+
+M: epu reñma epu karukatu kiñekemeu
+C: dos familiares, dos vecinos algunas veces
+
+M:  ta fureukünükey 
+C: se ayudan
+
+M: ta niechi kutran chi che?
+C: la gente que tiene esa enfermedad?
+
+nmdch-nflam_x_0183_nflam_00: 
+M: Feley llemay lamngen, 
+C:  Así es pues hermano, 
+M: feley llemay
+C: así es pues.
+
+nmdch-nflam_x_0184_nmdch_00: 
+M: Kutran che ka 
+C: La persona enferma también
+
+M: ¿welu eymi feychi rakiduam 
+C: ¿ pero tú ese pensamiento
+
+M: feychi weda dungun niekelaymi ka?
+C: esa mala cosa no la tiene también?
+
+nmdch-nflam_x_0185_nflam_00:
+M:  <*SPA>No.
+C: No.
+ 
+M: No lamngen.
+C: No hermano.
+
+nmdch-nflam_x_0186_nmdch_00: 
+M: ¿Müley küdau% <uhm> müleymi
+C: ¿Hay en el trabajo, donde está
+
+M: kom tami poyeniengemi ka?
+C: todos la quieren también?
+
+nmdch-nflam_x_0187_nflam_00: 
+M: May, may.
+C: Sí, sí.
+
+nmdch-nflam_x_0188_nmdch_00: 
+M: ¿Welu kelluniengemi?.
+C: ¿Pero te ayudan?.
+
+nmdch-nflam_x_0189_nflam_00: 
+M: Echa kellungeken lamngen, feymeu ta <uhm>. 
+C: Un poco me ayudan, hermano por eso es.
+
+nmdch-nflam_x_0190_nmdch_00: 
+M: ¿Ka eymi newentuleymi tami piuke?
+C: ¿También usted está con fuerza su corazón?
+
+nmdch-nflam_x_0191_nflam_00: 
+M: Feley lamngen. 
+C: Esta bién hermano.
+
+nmdch-nflam_x_0192_nmdch_00:
+M: Llellipuleymi feyentuleymi.
+C: Estas haciendo ruegos y sigues creyendo.
+
+nmdch-nflam_x_0193_nflam_00: 
+M: May.
+C: Sí.
+
+nmdch-nflam_x_0194_nmdch_00: 
+M: ¿Kiñeke che femlay ka?
+C: ¿Algunas gente así esta pues también?
+
+nmdch-nflam_x_0195_nflam_00: 
+M: Femlay <*SPA>pu' lamngen, 
+C: No hace eso pues, hermano,
+
+M: feymeu doy kutrankey,
+C: por eso más se enferma,
+
+M:  kiñekemeu turpu tremokelayngün.
+C:  a veces no se mejoran con nada.
+
+nmdch-nflam_x_0196_nmdch_00:
+M: ¿Eymimi trokowünmeu tüfachi
+C: ¿En tu parecer esto
+
+M: tüfachi kutran?
+C: esta enfermedad?
+
+M: eymi feyentuleymi  ta mapu l'awen'meu
+C: usted cree en los remedios de la tierra 
+
+M: feyentuleymi machi 
+C: cree en la machi
+
+M: fey eymimi pinmeu 
+C: y en su decir
+
+M: doy kümelkakey che 
+C: más se mejora la gente
+
+M: ka müley ta che, <*SPA>señora pipimi nga,
+C: también hay gente, señoras que has dicho,
+
+M:  newe feyentulafi ta machi,
+C: que no cree mucho en la machi,
+
+M:  fey eymimi troküwemeu 
+C: a tu parecer 
+
+M: ¿newe kümelkalay 
+C: ¿no hace muy bien 
+
+M: kam müley taiñ feyentual ta machimeu?
+C: o debemos creer en la machi?
+
+nmdch-nflam_x_0197_nmdch_00:
+M: ¿Kam feyentual ta <*SPA>doctor chem? 
+C: ¿O hay que creer en los doctores? 
+
+M: ¿Tuchimeu doy müley ta doy feyentual?
+C: ¿ Dónde hay que creer más?
+
+nmdch-nflam_x_0198_nflam_00: 
+M: Iñchiñ ta mapuchengeiñ
+C: Nosotros somos mapuche
+
+M: tañi feley taiñ feley
+C: tenemos nuestro estar como estamos
+
+M: ta feyeltungeal ta machika, lamngen, 
+C: tenemos que creer en la machi pues, hermano,
+
+M: feymeu ta küme amuley kom dungun
+C: así van bien todas las cosas 
+
+M: ka femngechi kutranmeu llemay
+C: también así en la enfermedad pues
+
+M: kom adkünukey machi,
+C: todo se sabe la machi
+
+M: ñi chumngechi ñi feleal 
+C: cómo vamos a estar 
+
+M: inchiñ kay pu mapuche <uhm>
+C: y nosotros los mapuche
+
+M:  tüfachi mapumeu 
+C: en esta tierra
+
+M: müley tañi küme feleal
+C: debemos estar bien
+
+M:  pu karukatumeu llemay 
+C: con los vecinos pues
+
+M: pu anümkameu ngan 
+C: con los árboles pues
+
+M: fill tañi küme müleal;
+C: con todo debe estar bien;
+
+M:  <uhm> kidulelaiñ ka, lamngen,
+C: no estamos solos pues, hermano,
+
+M: feymeu ta feyentukeyiñ 
+C: por eso creemos 
+
+M: elngey tüfachi mapumeu tañi küme feleal.
+C:  se dejó en esta tierra para nuestro bienestar.
+
+nmdch-nflam_x_0199_nflam_00: 
+M: Iñchiñ, kom pu che mapu kay 
+C: Nosotros, toda la gente en la tierra pues
+
+M: ka femngechi nielu kiduke newen,
+C: también así tiene sus propias fuerzas,
+
+M:  <uhm> wingka llemay femlay,  lamngen,
+C: al huinca no le ocurre eso pues, hermano,
+
+M:  fey amuy doctormeu che
+C: y va al doctor  la gente     
+
+M:  amuy müten michay,
+C: va nomás rapidamente
+
+M:  michaykünükey
+C: lo hace rápido
+
+M:  ñi <uhm> dunguntu pu <*SPA>doctor 
+C: el hablar con el doctor
+
+M: elungekey l'awen', 
+C: le dan remedio ,
+
+M:  kiñekemeu küme ramtungekelay rume
+C: a veces ni le preguntan bien siquiera
+
+M:  ñi chumngechi ñi putokolen ñi l'awen'
+C: de cómo se bebe el remedio
+
+M:  chumngechi ñi amulen ñi kutran
+C: como va su enfermedad
+
+M:  ramtungekelay rume,
+C: ni le preguntan siquiera,
+
+M: kiñekemeu michay
+C: a veces rápidamente
+
+M:  michay künükeyngün 
+C: lo hacen rápido
+
+M: fey ta machi ta femlay <*SPA>pu', lamngen, 
+C: y la machi no hace esto pues, hermano,
+
+M: kom inay ñi dungu.
+C: todo su asunto sigue.
+
+nmdch-nflam_x_0200_nflam_00: 
+M: Chumlen ka femngechi llemay
+C: Cómo está también pues,
+
+M:  pelotukey che
+C: ve a la gente
+
+M:  ñi chumngechi ñi mongelen,
+C: cómo esta viviendo,
+
+M:  tañi küme almulen chi kutran, 
+C: de cómo esta su enfermedad
+
+M: wecha amulen kom
+C: va muy mal todo
+
+M:  feypingekey 
+C: eso le dicen
+
+M: inaramtukey ka
+C: también pregunta
+
+M:  ñi chumley ñi pu che kom; 
+C: de cómo estan su gente todos;
+
+M: machi kom küme inakey dungu <*SPA>pu', lamngen, 
+C: la machi sigue muy bien las cosas pues, hermano,
+
+M: feymeu ta doy newenkoni che
+C: así más fuerza le entra a la gente
+
+M: newenkoni rakiduam
+C: con fuerza entra en el pensamiento
+
+M: tañi pülli kom küme, 
+C: el espiritu todo bien,
+
+M: norkechi amuy tañi tremoal müten <*SPA>pu', lamngen, 
+C: tranquilo va  mejorarse nomás pues, hermano,
+
+M: wingkameu kay felewetulay.
+C:  en los huincas ya no está así.
+
+nmdch-nflam_x_0201_nmdch_00: 
+M: Kaletuy dungu 
+C: Está diferente el asunto.
+
+nmdch-nflam_x_0202_nflam_00: 
+M: Kaletuy dungu <*SPA>pu'.
+C: Estan distintas las cosas pues.
+
+nmdch-nflam_x_0203_nmdch_00: 
+M: ¿Newe nielay feyentun engün ka?
+C: ¿No tiene fuerza su creencia también? 
+
+nmdch-nflam_x_0204_nflam_00: 
+M: Niewelayngün feyentun <*SPA>pu', lamngen, 
+C: Ya no tienen creencia pues, hermano,
+
+M: feley taiñ ñi mapuche 
+C: es de los mapuches 
+
+M: amuleal tañi doy küme  feyentual, 
+C:  para que siga mejor su creencia,
+
+M: ti pu machi feula llemay ngewelay,
+C: aquellas machis ahora pues ya no hay,
+
+M: kiñekeleweyngün
+C: algunas existen
+
+M: feymeu ta iñche ta rume feyetuken, lamngen.
+C: por eso yo creo mucho, hermano.
+
+nmdch-nflam_x_0205_nmdch_00: 
+M: Eymi fey tüfachi ngütram entumekeymi 
+C: Tú esta conversación que estás sacando 
+
+M: ¿fey feypifimi kay ka tami pu che <uhm>?
+C: ¿y le dices eso a tu gente?
+
+M: ¿feypikefimi ñi tami pu ina tremkülelu,
+C: ¿le dices eso a los que están creciendo detrás de ti,
+
+M:  une tremkülelu% 
+C: los que primero crecieron
+
+M: ngütramkefimi tüfeychi dungu?
+C:  le consersas sobre esas cosas?
+
+nmdch-nflam_x_0206_nflam_00:
+M: Ngütramerkefiñ llemay, lamngen.
+C: Le converso pues, hermano.
+
+nmdch-nflam_x_0207_nmdch_00:
+M: ¿Fey ñi feyentun, nieal feyentun? 
+C: ¿Para que crean, para que tengan creencia?
+
+nmdch-nflam_x_0208_nflam_00: 
+M: Fey llemay, lamngen, 
+C: Así es pues, hermano,
+
+M: ta femngechi kay pu mapuche 
+C: así pues los mapuche 
+
+M: tüfameu ta müley tañi müley 
+C: aquí están deben estar
+
+M: tañi  ka femngechi ngütramkale 
+C: también así cuando converse
+
+M: püral tañi pu...pu pichikeche
+C: levatar sus  niños
+
+M:  tremkülelu pu', lamngen,
+C: que están creciendo, pues hermano,
+
+M:  <*SPA>sino ta kom ngoymafün engün
+C: si no todo se le puede olvidar
+
+M:  wingka reke ta feleafuyngün, 
+C: y como los huincas pueden estar, 
+
+M: feymeu ta inchiñ ta müley tañi kom ngütramkayafiel
+C: por eso nosotros debemos conversarle todas
+
+M: tüfachi dungu, 
+C: estas cosas,
+
+M: chumngechi ñi mongeleken pu mapuche
+C: cómo viven los mapuches
+
+M: chumngechi ñi tremoken pu machi,
+C: de cómo se mejoran con la machi, 
+
+M:  kom küme adkününgekey
+C: todo se deja bien enseñado
+
+M:  pichikeche feymeu ta.
+C:  a los niños chicos pues.
+
+nmdch-nflam_x_0209_nflam_00:
+M: Longko ka longkotüwün 
+C:  Líder, o procedencia de líder
+
+M: niekeyngün 
+C: tienen ellos
+
+M: ñi küme amulealka, lamngen.
+C: para que le vaya bien en todo pues, hermano.
+
+nmdch-nflam_x_0210_nmdch_00: 
+M: Felekay tüfachi <uhm> 
+C: Así está aún este,
+
+M: eymi tami pu puwüen che kay
+C: y la gente donde tú llegaste
+
+M:  ñuke tami chau 
+C: madre, tu padre 
+
+M: fey ka feyentulengün machi ka.
+C: ellos también creen en la machi.
+
+nmdch-nflam_x_0211_nflam_00: 
+M: Ka femngechi feyentuleyngün, 
+C: También así creen,
+
+M: iñche ta <uhm> pichi domongelu
+C: yo cuando niña
+
+M: iñche ñi ñuke dungukeiñmou:
+C: mi madre nos conversaba:
+
+M: müley machi tati, 
+C: hay machi pues, 
+
+M: müley l'awen'
+C: hay remedio
+
+M: kiñekemeu ka füre pichike.
+C: algunas veces también es un poco amargo.
+
+M:  Kutranfuiñ llemay,
+C: Nos habíamos enfermado pues,
+
+M: welu l'awen' müley tati,
+C: pero remedio hay pues, 
+
+M:  küme l'awen' pikeñmeu ñi ñuke,
+C: buen remedio, nos decía mi madre,
+
+M:  ka femngechi kimiyiñ kiñeke l'awen' ka;
+C: también así conocimos algunos remedios pues;
+
+M: welu <uhm> nentuaymün 
+C: pero van a sacar 
+
+M: tunten ñi duamün müten 
+C: cuanto necesiten nomás
+
+M:  müte nentukelayaymün 
+C: no deben sacar muchos
+
+M: ka ngüllatuaymün tañi.
+C:  también deben rogar para...
+
+nmdch-nflam_x_0212_nflam_00: 
+M: ...pütoloafiel tañi nentuafiel
+C:  ...para beberlo para sacarlo 
+
+M: chi mapumeu, pikeymeu tañi ñuke,
+C:  de la tierra, nos decía mi madre, 
+
+M:  ka femngechi inchiñ ta putremiyiñ 
+C:  así también nosotros crecimos
+
+M: ta kom yenien femngechi kimün.
+C:  y llevamos todos esa sabiduría.
+
+nmdch-nflam_x_0213_nmdch_00: 
+M: ¿Rakiduam?
+C:  ¿Pensamiento?
+
+nmdch-nflam_x_0214_nflam_00: 
+M: Rakiduam.
+C: Pensamiento.
+
+nmdch-nflam_x_0215_nmdch_00:
+M: Fey ta kom che 
+C:  Y si todas las personas 
+
+M: kutrankülele,
+C: si se encuentra enferma,
+
+M: ta kutrankelu, 
+C:  que se encuentra enferma,
+
+M: nielu kutran 
+C:  que tiene enfermedad
+
+M: kiñekemeu ta pu taiñ mapuche
+C:  algunas veces los que somos mapuche
+
+M: newe feyentukelaiñ 
+C: no creemos mucho 
+
+M:  ka fey newe puwlay 
+C:  y por eso no llega mucho 
+
+M: ñi yowey ngün l'awen' 
+C:  en recibir ellos sus remedios
+M: lloukay müten
+C: lo recibe nomás
+
+M:  ¿fey ta feymeu penu 
+C:  ¿y por eso será
+
+M: newe tremokelayngün kiñekemeu?
+C: que a veces ellos no se mejoran mucho?
+
+nmdch-nflam_x_0216_nflam_00:
+M: Feley <*SPA>pu' lamngen,
+C: Así es pues, hermano,
+
+M: feula ta kamapu che 
+C: ahora la gente de otra tierra
+
+M: rume küme <uhm> chemlay
+C: no sana muy bien
+
+M:  ñi newe feyentulafi   
+C:  ni cree mucho
+
+M: tañi pu machiengün, 
+C:  en sus machis, 
+
+M: rume wingkawin ka <*SPA>pu', lamngen,
+C: se chilenizaron mucho también pues, hermano,
+
+M:  feymeu llemay wecha amüley,
+C:  por eso pues  va muy mal,
+
+M:  kiñekemeu kinfalmalay ñi kutran engün
+C:  a veces sus enfermedades son irreconocibles
+
+M: ka rume wingkaulu che kay
+C:  y como también por chilenizarse mucho la gente
+
+M: doy ayüduamuy
+C:  mas lo prefiere
+
+M:  ñi peafiel ñi pu wingka müten
+C:   ver solamente a sus huincas
+
+M:  ñi l'awen'tungeal 
+C:  para que los remedien
+
+M: wingka l'awen'meu, kom,
+C:  con remedios huincas, todos,
+
+M: fey kiñeñpülekünüketuy ñi pu che
+C:  y dejan a un lado a su gente
+
+M:  ñi machi ñi l'awen' 
+C:  el remedio de su machi
+
+M: feymeu ta kiñekemeu
+C:  y por eso algunas veces...
+
+nmdch-nflam_x_0217_nflam_00:
+M: ...tremokelayngün <*SPA>pu' lamngen,
+C: ...no se mejoran pues, hermano,
+
+M:  doyelkeynew kiñekemeu
+C:  le hacen peor algunas veces
+
+M:  fey ula ta rakiduamkeyngün ñi chumün 
+C:  de ahí recien piensan lo que les ha pasado
+
+M: külpaiñ chi tati, pikeyngün ka.
+C:  tal vez hemos sido culpables, dicen también.
+ 
+nmdch-nflam_x_0218_nmdch_00: 
+M: Fey tüfachi machi
+C: Y esta machi
+
+M:  fey deu tremoaymi 
+C:   y ya te mejorarás
+
+M: pinieymeu ka.
+C:  es lo que esta diciendo también.
+
+nmdch-nflam_x_0219_nflam_00: 
+M: May, 
+C: Sí,
+
+M: feypieneneu lamngen.
+C: eso me está diciendo hermano.
+
+nmdch-nflam_x_0220_nmdch_00: 
+M: Elunieneu l'awen'.
+C: Me está dando remedios.
+
+nmdch-nflam_x_0221_nflam_00: 
+M: Elunieyneu% l'awen'
+C:  Me está dando los remedios
+
+M: ka peeneu 
+C: también me vió
+
+M: ñi chumlen ñi ange ka, lamngen.
+C: como estaba  mi cara pues, hermano.
+
+nmdch-nflam_x_0222_nmdch_00: 
+M: Chumngechi ñi tremolen, 
+C: Como me estoy mejorando, 
+
+M: ka ñochi ñi tremolen.
+C: y lentamente me estoy mejorando.
+
+nmdch-nflam_x_0223_nflam_00:
+M: May feley.
+C: Sí, así es.
+
+nmdch-nflam_x_0224_nmdch_00: 
+M: <uhm> Tüfachi kutran may 
+C: Y ésta enfermedad
+
+M: eymimi müten 
+C: y en usted nomás
+
+M: ka <%> eymi küme rakiduam nielmi 
+C:  y si usted  tiene un buen pensamiento
+
+M: feyentulmi fey ñochi ñi tremon.
+C:  si crees que lentamente te estás mejorando.
+
+nmdch-nflam_x_0225_nflam_00:
+M: Feley llemay, lamngen, 
+C: Así es pues, hermano, 
+
+M: iñchengey müten
+C:  dependerá de mi solamente
+
+M: ka femngechi ñi küme feleal,
+C:  así también para estar bien,
+
+M:  küme rakiduamküleal 
+C:  para que piense bien
+M: tremoan tati,
+C: me  voy a mejorar pues,
+
+M: ñi püleal 
+C: estar diciendo eso
+
+M: ngillatuleal ka
+C: estar orando también 
+
+M:  ka femngechi tremoaymi tati, pieneu, 
+C:  así también te vas a mejorar pues, me dijo,
+
+M: iñche ka femngechi amulen ka, lamngen, 
+C:  yo también voy así pues, hermano,
+
+M: fillantü ngillatuken
+C:  todos los días oro
+
+M:  pütokokefin l'awen' 
+C:   bebo remedios
+
+M: tremoan tati, Elchen piken ka.
+C:  mejoraré pues, Elchen digo también.
+
+nmdch-nflam_x_0226_nmdch_00: 
+M: ¿Ngillatulekeymi?
+C:  ¿Siempre estás orando?
+
+nmdch-nflam_x_0227_nflam_00: 
+M: Ngillatuleken lamngen.
+C:  Siempre estoy orando hermano.
+
+nmdch-nflam_x_0228_nmdch_00: 
+M: ¿Fey ta tüfachi machi pu tremi 
+C: ¿ Y estos machi que ya han alcanzado la edad
+
+M: kam <hm>tami lof mapu kay 
+C: y en tu comunidad
+
+M: müley machi kam ngelay?
+C: hay machi o no hay?
+ 
+nmdch-nflam_x_0229_nflam_00: 
+M: Ngewelay, lamngen,
+C:  Ya no queda, hermano,
+
+M: feymeu llemay kamapu amun.
+C:  por eso a otra tierra fui.
+
+nmdch-nflam_x_0230_nmdch_00: 
+M: ¿Amukeymi kangelu lelfunmeu?
+C: ¿Has ido a otras tierras?
+
+nmdch-nflam_x_0231_nflam_00:
+M: May.
+C: Sí.
+
+nmdch-nflam_x_0232_nflam_00: 
+ <%> 
+
+nmdch-nflam_x_0233_nmdch_00: 
+M: Kangelu lof mapu.
+C: En otra comunidad.
+
+nmdch-nflam_x_0234_nflam_00: 
+M: May.
+C: Sí.
+
+nmdch-nflam_x_0235_nmdch_00: 
+M: ¿Tüfachi machi feyta ñi fey piketeu
+C:  ¿Aquella machi que te dijo eso 
+
+M:  fey pu tremi?
+C:   ya es de edad?
+
+nmdch-nflam_x_0236_nflam_00: 
+M: Pu tremi, lamngen, 
+C:  Ya de edad, hermano,
+
+M: doy kushey. 
+C:  es mayor.
+
+nmdch-nflam_x_0237_nmdch_00:
+M: ¿Kümelkaycheki ka che kümelkakefi pu kutran? 
+C: ¿Hace setir bien, le hace bien a los enfermos?
+
+nmdch-nflam_x_0238_nflam_00: 
+M: May. 
+C: Sí.
+
+M: Echa küme machi, pikeneu ñi pu che,
+C:  Es la mejor machi, me ha dicho mi gente,
+M:  feyta amün ka, lamngen, 
+C:   y por eso fui pues, hermano,
+
+M: tremolchekey pingekey,
+C:  hace mejorar a las personas me han dicho,
+
+M:  feymeu llemay amün.
+C:   por eso es que fui pues
+
+nmdch-nflam_x_0239_nmdch_00:
+M: ¿Feychi che 
+C:  Y esas personas
+
+M: tami feypieteu
+C:  quienes te dijeron eso
+
+M:  ¿eymi tami pu che 
+C:   ¿tu propia gente
+
+M: kam ka che feypiyeu?
+C:  u otra persona te lo dijo?
+
+nmdch-nflam_x_0240_nflam_00: 
+M: Ka che, lamngen,
+C:  Otra persona, hermano,
+
+M:  kimlafiñ rume chi mapu amün,
+C:  ni conocía la tierra cuando fui,
+
+M:  ramtulerupun ta epewünmeu.
+C:   fui preguntando de madrugada.
+
+nmdch-nflam_x_0241_nmdch_00: 
+M: ¿Fey pepufimi chi kutran?
+C: ¿Y llegaste a ver el enfermo?
+
+nmdch-nflam_x_0242_nflam_00: 
+M: May. 
+C: Sí.
+
+M: Pepufiñ.
+C:  Llegue a verlo.
+
+nmdch-nflam_x_0243_nmdch_00: 
+M: Cha%  Machi.
+C: Machi.
+
+nmdch-nflam_x_0244_nflam_00: 
+M: Pepufiñ ñi machi.
+C: Llegué a ver a mi machi.
+
+nmdch-nflam_x_0245_nmdch_00:
+M: ¿Fey müfü tripantu 
+C: ¿Y cuántos años
+
+M: yenieymi konkülen machimeu? 
+C: llevas tratándote con la machi?
+
+nmdch-nflam_x_0246_nflam_00:
+M: Kiñe tripantu doy yenien lamngen.
+C: Llevo más de un año hermano.
+
+nmdch-nflam_x_0247_nmdch_00: 
+M: <*SPA>¡Ah!
+C:  ¡Ah!
+
+M:  Wengen wüla.
+C:   Hace poco nomás.
+
+nmdch-nflam_x_0248_nflam_00: 
+M: May.
+C: Sí.
+
+nmdch-nflam_x_0249_nmdch_00: 
+M: ¿Fey ti pitalmeu kay?
+C: ¿Y en el hospital?
+
+nmdch-nflam_x_0250_nflam_00: 
+M: Doy epu tripantu yenien ka,lamngen.
+C:  Llevo más de dos años también, hermano.
+
+nmdch-nflam_x_0251_nmdch_00: 
+M: ¿Eymi tami ruf rakiduam, 
+C: ¿En la verdad de tus pensamientos,
+
+M: rakiduammeu 
+C:  en tu pensamiento
+
+M: wingka ñi tami eluketeu 
+C:  lo te ha dado el huinca
+
+M: feychi wingka l'awen',
+C:  ese remedio huinca, 
+
+M: newe piukemeu konlay 
+C:  no entra mucho en el corazón
+
+M: kam ka femngechi ka llowkefimi müten 
+C: o también lo recibes de igual forma nomás
+
+M: ka ruf yekefimi tunten putual?
+C:  y en verdad lo llevas cuantos vas a tomar?
+
+M:  ¿welu newe poyelafimi reke
+C:  ¿pero no le tienes mucho aprecio
+
+M:  tami rakiduammeu?
+C:  en tu pensamiento?
+
+nmdch-nflam_x_0252_nflam_00: 
+M: Pütokefiñ llemay,lamngen,
+C: Lo bebo pues, hermano,
+
+M:  welu ka femngechi müte kiñekemeu
+C:  pero también así  a veces no tanto algunas  veces 
+
+M: feyentukelafiñ
+C:  no le creo
+
+M:  chungelu tañi tremokenün,
+C:  porque no me he mejorado,
+
+M: tüfa <uhm> l'awen' mapu l'awen'tulu reke
+C:  ahora aunque beba remedio de la tierra 
+
+M:  iñche doy küme tremotun piken ka,
+C:  yo me sané mejor digo también, 
+
+M:  welu ka kiñekemeu ka feypiketun;
+C:  pero otras veces también eso digo;
+
+M:  kümelay ñi feypi
+C:  no esta bien eso
+
+M:  feypi niñuela,
+C:   ha dicho mi abuela,
+
+M:  ka femngechi Elchen
+C:   también así Elchen
+
+M: elkünüy pu fütake wingka
+C:  lo dejó a grandes huincas
+
+M:  pu diwlu tüfa füta kimlu ka piken,
+C:  que pueden que hayan alcanzado grandes saberes digo,
+
+M: feymeu ta ka chemketun ka.
+C: así también cambio de parecer.
+
+nmdch-nflam_x_0253_nmdch_00:
+M: ¿Famechi feyentukefimi?
+C:  ¿Así es como lo crees?
+
+nmdch-nflam_x_0254_nflam_00: 
+M: Feyentukefimi%  feyentukefiñ.
+C:  Lo crees,  lo creo.
+
+nmdch-nflam_x_0255_nmdch_00: 
+M: Welu wingka kimü engün ka.
+C: Pero es saber de huinca pues.
+
+nmdch-nflam_x_0256_nflam_00: 
+M: May.
+C: Sí.
+
+M: Wingka kimün
+C: Saber de huinca.
+
+nmdch-nflam_x_0257_nmdch_00:
+M: Mapuche may ta feyentuwi
+C: Entre mapuche se confían
+
+M: ta fenyentuley ta kom tripache mapumeuka
+C:  éste cree todo lo e otro origen, en la tierra pues.
+
+nmdch-nflam_x_0258_nflam_00: 
+M: May.
+C: Sí. 
+
+M:  Kom llemay.
+C:  Todo pues.
+
+nmdch-nflam_x_0259_nmdch_00: 
+M: Fill mongen mülelu ta tüfachi mapumeu. 
+C: Diferentes vidas existen en esta tierra.
+
+nmdch-nflam_x_0260_nflam_00: 
+M: May.
+C: Sí.
+
+M: Kom llemay, kom anümka l'awen', kom.
+C: Todo pues, todas las plantas medicinales, todo.
+
+nmdch-nflam_x_0261_nmdch_00:
+M:  ¿Eymi kay chempiafuymi 
+C: ¿Y usted qué puede decir
+
+M: feychi che ñi tüfachi feyentun 
+C:  de esas personas que  tienen esta creencia
+
+M: ñi rumel mülelu? 
+C:  que siempre  están?, 
+
+M: ¿chem piafuymi kay kakelu che
+C: ¿qué le puedes decir a las otras personas
+
+M: feypiafuymi tami kimeltuafiel
+C: le dirías eso para enseñarles
+
+M: ta nian feyentun engün 
+C:  para que tengan creencias
+
+M: kam eymi kidu müten niekan feyentun?
+C:  o usted le importa su creencia nomás?
+
+nmdch-nflam_x_0262_nflam_00:
+M:  <*SPA>No.
+C: No.
+
+M: <uhm> Ah.
+C: Ah.
+
+M: Femngechi ngutramkakefiñ engün ka, lamngen,
+C:  Así yo a ellos les converso pues, hermano,
+
+M:  ñi feyentual tañi kidu
+C:  debe  creer en lo que es propio
+
+M:  ñi l'awen'meu 
+C:  en su remedio
+M: kidu ñi mapuche kimün 
+C:  en su conocimiento mapuche 
+
+M: kom tañi wiñotuafiel <uhm>,
+C:  que pueda volver todo,
+
+M: kuyfike dungun tañi amüleal 
+C:  que deben seguir las cosas de antes
+
+M: doy küme amüleal chi  l'awen'tun 
+C:  para que vaya mejor el remediar
+
+M: ñi feyentun kom ka lamngen.
+C:  todas nuestras creencias también hermano.
+
+nmdch-nflam_x_0263_nmdch_00: 
+M: ¿Rumel afnuan tüfachi mapu dungun 
+C:  ¿Qué nunca se acabe el habla de la tierra
+
+M: kam ka mapuche l'awen' ka?
+C: o también  el remedio mapuche?
+
+nmdch-nflam_x_0264_nflam_00: 
+M: May.
+C: Sí.
+
+M: Kom llemay lamngen, kom.
+C: Todos pues hermano, todo.
+
+nmdch-nflam_x_0265_nmdch_00:
+M:  ¿Feyti amuldungufemeu kay <uhm>
+C:  ¿Y eso los medios de comunicación
+
+M: ñi rulpakel dungun 
+C: que pasan el asunto
+
+M: llekefel ta chi pu küdeke che
+C:  que llevan eso las  personas mayores
+
+M:  füchake che ramtukeymu,
+C:  las personas adultas te preguntan
+
+M:  ramtukeymi kay?
+C:  y le preguntas?
+
+M: ¿ramtungekeymi chem l'awen'
+C:  ¿preguntas qué remedios
+
+M:  ñi doy küme mapul'awen' ramtungekey,
+C:  cual es el remedio de la tierra más  buena, le preguntan
+
+M:  ramtukeymu kiñeke kutran?
+C: algunos enfermos te preguntan? 
+
+nmdch-nflam_x_0266_nflam_00:
+M: Ramtukeneu llemay, lamngen, 
+C: Claro que me preguntan pues, hermano,
+
+M: ka kiñeke kidu engün 
+C: y algunos ellos
+
+M: ta ka femngechi <uhm>
+C: también así
+
+M:  pewütawüfalukeyngün
+C:  se hacen la ceremonia de la observación
+
+M:  feyta iñche ta kom <uhm> adkonükefinengün 
+C:  y entoces yo lo dejo todo instruídos a ellos
+
+M: ka tami chumkününgeal.
+C:  y cómo lo van dejar.
+
+nmdch-nflam_x_0267_nmdch_00:
+M: Ñi amual chem machi rume.
+C: Para ir a cualquier machi.
+
+nmdch-nflam_x_0268_nflam_00: 
+M: May 
+C: Sí.
+
+M: Kom tañi entuñeal tañi ümol pingelay ama.
+C: A los que todo le interesa no se le dice  intruso. 
+
+nmdch-nflam_x_0269_nmdch_00: 
+M: May.
+C: Sí.
+
+M:  Ka ti pefalual ka pewutual.
+C:  Y se haga ver y examinar.
+
+nmdch-nflam_x_0270_nflam_00: 
+M: Mapumeu%.
+C: En la tierra.
+
+nmdch-nflam_x_0271_nflam_00: 
+M: May.
+C: Sí.
+
+M:  Puwütual may.
+C:  Para llegar sí.
+
+nmdch-nflam_x_0272_nmdch_00: 
+M: Fey amuyum engün fey wiñometuymün kay 
+C: Y cuando ellos van y vuelven también
+
+M: ¿pepaketuymu kiñekemeu, kiñeke wiñomekey?
+C: ¿ te vienen a ver a veces, algunos vuelven?
+
+nmdch-nflam_x_0273_nflam_00:
+M: Femkeyngün, lamngen, 
+C:  Sí eso hacen, hermano,
+
+M: kiñekemeu ta machi <uhm>
+C:  algunas veces la machi
+
+M:  mapuche kutran nierkeymi tati, 
+C: enfermedad mapuche es que tienes pues,
+
+M: pingekeyngün, 
+C: les dice,
+
+M: feyta müley tañi chipayal müten 
+C:  y tiene el deber de salir nomás
+
+M: rukameu ta amutaymi 
+C:  te vas a ir a tu casa
+
+M: feymeu ta l'awen'tuayü pingeken, 
+C: entonces te voy remediar  me han dicho,
+
+M: pingekeyiñ
+C: nos han dicho
+
+M:  kingekemeu tañi pu kutran, 
+C:  algunas veces nuestros enfermos,
+
+M: feyta chipakeytuyngün 
+C: así se salen 
+
+M: pitalmeu ka lamngen 
+C:  del hospital pues  hermano
+
+M: fey machimeu ta konkeyngün.
+C: y se tratan en la machi.
+
+nmdch-nflam_x_0274_nmdch_00: 
+M: <uhm> Tüfachi ngütram kutran,
+C: Esta conversación de sacar enfermedad,
+
+M:  entue entueyefiyu rüf
+C:  hemos sacado verdades
+
+M:  <uhm> tami newentulenmeu 
+C: por estar firme
+
+M: tami piuke 
+C:  tu corazón
+
+M: fey ka rüf feyentun nienmeu 
+C:  y por tener verdaderamente creencia
+
+M: tremotuaymi ka lamngen.
+C: te vas a mejorarar pues hermana.
+
+nmdch-nflam_x_0275_nflam_00:
+M: Iñche tañi ñi piuke 
+C:  Mi corazón
+
+M: ñi rakiduammeu lamngen
+C:  en mi pensamiento hermano
+
+M:  feman tremotuan,
+C:  voy hacer, me voy ha mejorar <uhm>
+
+M:  newenküley ñi piuke 
+C:  está firme mi corazón
+
+M: feula doy newe konün ñi rakiduam
+C:  ahora me puse más firme en mi pensamiento
+
+M: kom, ka femngechi, machimeu llemay
+C:  todo, también así, en la machi pues
+
+M:  tañi kom küme <uhm> chemafiel
+C: todo lo que debo  hacer bien
+
+M:  kom küme inayafiel
+C:  todo lo que debo seguir bién
+
+M:  chumngechi ñi kidu ñi
+C:  como ella misma
+
+M:  feypieteu kidu 
+C:  me lo dijo ella
+
+M: machi ka femngechi 
+C: la machi así también
+
+M: kidu elngelay tati, lamngen,
+C: sola no la dejaron pues, hermano,
+
+M:  ka niey kimün l'awen', niey,
+C:  también tiene conocimiento sobre remedio, tiene,
+
+M:  ka mapumeu müley ngan 
+C:  en otras tierras existen pues
+
+M: fill l'awen' 
+C:  variados remedios, 
+
+M: inchiñ tañi pu mapuche tañi.
+C: lo que es de nosotros los mapuches.
+
+nmdch-nflam_x_0276_nflam_00: 
+M: Elungeal llemay, 
+C: Le dieron pues, 
+
+M: feymeu ta doy feyentufin ka,
+C: por eso creo más pues,
+
+M: feypikefin tañi pu kutran
+C:  eso le digo a mis enfermos
+
+M:  ka iñche reke treaymün tati 
+C:  igual que yo se van mejorar pues
+
+M: pikefin feula llemay tati lamngen, 
+C:  les digo ahora pues hermano,
+
+M: iñche ta kuyfi feypikelafun 
+C: yo antes no decía eso 
+
+M: welu feula doy feyentun 
+C: pero ahora creo más
+
+M: ka femngechi newenkonün tati.
+C:  y así también tomé más fuerza pues.
+
+nmdch-nflam_x_0277_nmdch_00: 
+M: Feley, lamngen, 
+C:  Así es, hermana,
+
+M: fentepuyu tüfachi dungun 
+C: dejemos hasta aquí este asunto
+
+M: feyta peumangen 
+C: y ojalá
+
+M: küme tremoletuaymi 
+C: que se esté mejorando bién
+
+M: ka newentuleaymi tami piuke,
+C: y también dele firmeza a su corazón,
+
+M:  rumel ta newentuleaymi
+C: mantegase siempre con fuerzas
+
+M:  ka mapu l'awen'meu
+C:  también con los remedios de la tierra
+
+M:  ka kangelu l'awen' 
+C:  y  de otros remedios
+
+M: ka mülele 
+C: si es que existe
+
+M: ka mülimi feyentual ka
+C: y también debes creer pues.
+
+nmdch-nflam_x_0278_nflam_00: 
+M: feley lamgen, chaltu
+C: Así es hermano, gracias.
+
+Cañulef
+Huisca

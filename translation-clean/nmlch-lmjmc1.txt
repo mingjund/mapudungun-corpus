@@ -1,0 +1,2813 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-lmjmc 
+; Last changes made on 01/09/2003 
+; Transcriber: Cristian C. Anton 
+; Comments:  
+; Traduce: Marianela Collio.
+
+nmlch-lmjmc1_1_0000_nmlch_00: 
+M: Marimari peñi 
+C: Hola hermano.
+
+nmlch-lmjmc1_1_0001_lmjmc_00: 
+M: Marimari peñi
+C: Hola hermano
+ 
+nmlch-lmjmc1_1_0002_nmlch_00: 
+M: ¿chumngechi anta rupaley <!1rupali> ta antü 
+C:  ¿Cómo está pasando el tiempo
+
+M: tami lofmeu tüfameu?
+C: aquí en tu comunidad? 
+
+nmlch-lmjmc1_1_0003_lmjmc_00:			
+M: Küme rupaley <!1rupali> tati 
+C: está transcurriendo bien pues
+
+M: peñi feyta ngelay ta
+C: hermano ahora no hay
+
+M: chem sungu rume tati	
+C:  ninguna noticia mala pues
+
+M: fey küme rulpa antüliyiñ tati 
+C: y por eso  transcurre de buena manera el tiempo pues
+
+M: peñi fey chau ngünechen tañi pinmeu
+C hermano eso porque quiere Chau Ngünechen.				
+M: fey mongeliyin tati peñi.
+C: y por eso estamos vivos pues  hermano.												
+nmlch-lmjmc1_1_0004_nmlch_00:					 M: küme sungu tati							
+C: Es buena situación pues 							                                   
+
+M: peñi feyta kümekechi			
+C: hermano eso de buena manera 
+
+M: rupaley <!1rupali> antü mongenmeu <uh>
+C: pasa el tiempo en nuestras vida		
+
+M: tañi fürenmeu kom ñi lof fey						 C:  en todas las familias del lugar y,	
+
+M: kümekechi rupaley <!1rupali> ta 
+C: de buena manera avanza los 
+
+M: antü, tripantu tati peñi	
+C: días, los años pues hermano.
+
+
+nmlch-lmjmc1_1_0005_lmjmc_00:					 M: Feley llemay peñi +/fele/+  feley				                                         C: Asi es hermano, así.																 
+nmlch-lmjmc1_1_0006_nmlch_00:                                               M: Iñche ta tüfa tripapapen fachantü                                        C: Yo hoy dia me vine									 
+M: pemean tañi peñi pipe							 C: visitaré a mi hermano dijé 
+
+M: kimüymameafiñ ñi sungu engün                                                                                                                   C: para conocer su situación 				
+
+M: ñi rakisuam chumlen tañi lofmeu <uh>                                        
+C: su pensamiento,como se encuentra en su comunidad
+
+M: ngütramkameafiñ pipen tati peñi 				
+C: ire a conversarles dije pues hermano.
+
+nmlch-lmjmc1_1_0007_lmjmc 00:			                                  M: kümey llemay peñi feyta	
+C: Esto es bueno pues hermano							
+M: feychi peñi tañi *flata fey femngen 		
+C: eso, hermano su......  es así
+
+M: pichin pentukuwi ta peñiwen 				
+C: se visitan poco los hermanos
+
+M: chumlen ta doy chumlen ta mapu 				
+C: como está, como están las tierras
+
+M: feyta ayinefiyiñ ta iñchiñ
+C: esto nos agrada a nosotros				
+
+M: taiñ mapuchengen tati peñi 				
+C: nosotros que somos mapuche pues hermano	
+ 
+M: feyta ayiukülen taiñ piuke 						 C: por eso está contento	mí corazón 
+
+M: eymi ta fey küpaymi tati 						
+C: por que haz venido pues
+
+M: fey küsaukülerkimi 						              C: estás trabajando									
+
+M:<*SPA>y küme sungu tati peñi 	
+C: y estaban bien pues hermano
+	
+M: feymu ta kimay ta chumlen ta sungu 	
+C: de esa manera supe como estaban
+
+M: chumngechi taiñ amulen ta						
+C: como anda la,
+
+M: mapuche sungun tati peñi				             		  C: situación mapuche pues hermano.
+				 
+nmlch-lmjmc1_1_0008_nmlch_00: 					
+M: Feley <!1feli> peñi, feley <!1feli> <uh>			 
+C: Así es hermano, así
+
+M: iñche feytachi küsaumu 						
+C: yo en éste trabajo
+
+M: miawün <uh> pentukumean peñi 				
+C: ando visitando hermano
+
+M: chumleken wesake kutranmeu, 					
+C: de cómo están las malas enfermedades,
+
+M: chumleken ta wesake sungu 			
+C: de cómo están las noticias negativas
+
+M: rupaken fill mongenmu
+C: que pasan en nuestras vidas
+
+M: müley <!müli> kutran,
+C: hay enfermedades,
+
+M: fill lofmu müley <!1müli> kutran 					
+C: en todo lugar hay enfermedades
+
+M: feyta pentukumeafiñ engün pipen tati 
+C: por eso los visitaré dije pues. 
+
+nmlch-lmjmc1_1_0009_lmjmc_00: 				
+M: kümey llemaychi peñi 							
+C: Eso es bueno hermano
+
+M: feyta fey, fey feychi sungu tati						
+C: esto, es, así es la está situación pues
+
+M: fey feyngey <!1feyngi> chi sungu					 
+C: es así la situación
+
+M: tüfey <*SPA>porque tiañ mapuche ngen tati 		        C: eso porque nosotros los mapuches pues 
+
+M: masea kutran kutrankaukey <!1kutrankauki> tati 		
+C: de muchas enfermedades nos enfermamos pues
+
+M: fey mületuy nga pichin fey						
+C:  y hay poco de ese
+
+M: l'awen' wülngu nga fey tati						 
+C: remedio, .......eso pues
+
+M: mületuy posta pingi tati                                                          C: está en la posta se dice pues							
+M: welu femngen pichin	ta ngelay ta 					
+C: pero de esto no hay ningun poquito		
+
+M: feychi asentun tati peñi 							
+C: eso de imitar pues hermano
+
+M: fey <*SPA>siempre müngeltungelayiñ			               C: y siempre no nos obedecen										 
+
+M: fey, fey ka elungelayiñ l'awen'						
+C: y, y, tampoco no nos dan remedios
+
+M: rume tati peñi 								            C: demasiado pues hermano
+
+M: feymu feyta pensan ngetuy sungu tati peñi 
+C: por eso pense en la situación pues hermano
+
+M: <*SPA>porque taiñ mapuche ngen 
+C: porque somos mapuche 
+
+M: fey reke ngüllamtunengiyin ta taiñ, taiñ cheu 		
+C: por eso 
+
+M: felen tati peñi 
+C: es eso pues hermano.
+
+nmlch-lmjmc1_1_0010_nmlch_00:					 M: ¡Aa! 											
+C: ¡Aa!
+
+M: feley ka feley 								
+C:  eso es eso
+
+M: rumel felekey <!1feleki> ta feychi sungu ka 
+C: desde siempre ha sido así la situación. 
+
+nmlch-lmjmc1_1_0011_lmjmc_00: 				
+M: Rumel llemay peñi 						
+C: Es desde siempre hermano
+
+M: rumel tati	feyta								
+C:  de siempre pues ésto											 
+M: feychi dungu							
+C:  aquella  situación 
+
+M: feyta awüngetuyin tati peñi						 
+C: ahora ............pues hermano
+
+M: <*SPA>porque felenoafulu tati 				           C: porque no debería ocurrir así pues
+
+M: fey iñchin ta kutranfe ta 							
+C: y nosotros somos enfermizos
+
+M: fey kuyfi ta mülekefuy ta machi					 
+C: y antiguamente existian machis						 
+
+M: kümeke machi ta mülekefuy 						
+C: existian buenas machis
+
+M: fey pelotukefuy ta kutran 						           C: y diagnósticaban la enfermedad
+
+M: fey epe lalelu 								           C: del que estaba casi muerto	
+
+M: feyta mongeltukefuy tati peñi					            C: hay lo sanaba pues hermano
+
+M: fey fantenmu may  feyta,							         
+C: y en estos momentos,											 
+M: kuñifal kületuyiñ reke 					
+C: estamos como abandonados
+
+M: ta machimeu,									
+C:  de machis,    
+                                                                                                                                       
+M: pero mapumu ta pütrüley <!1pütrüli>ta			         C:  pero en las tierras hay variedades de                                                                           
+
+M: l'awen' peñi					
+C: remedios  hermano, 
+
+M: fentreley <!1fentreli> l'awen' 
+C: hay bastante remedios
+
+M: mapu wingkul				
+C: en la tierra de los cerros 
+ 
+M: müley <!1müli>ta menoko 	                                          C: hay en el pantano 		    
+
+M: müley <!1müli> ta fill foyentu tati peñi 			
+C: existe variedades de canelo pues hermano		
+		
+M: fey fentren l'awen' 								
+C: hay bastante remedio
+
+M: ta mületuy tati			
+C:  hay ahora pues,
+
+M: fey witranetuy ta kuseke papay
+C: y lo tiene presente las mujeres de edad
+
+M: kutran piukenmeu, 				
+C: para el dolor del corazón                              			
+
+M: kutran foromeu mületuy tati 					
+C: para el dolor de dentadura hay pues
+
+M: l'awen' tati peñi. 
+C: remedio pues hermano.
+
+nmlch-lmjmc1_1_0012_nmlch_00:					                      
+M: Petu müley <!1müli> ka. 
+C: Y todavía hay .
+
+nmlch-lmjmc1_1_0013_lmjmc_00:					
+M: Petu ta müley <!1müli> tati petu.
+C:  Todavía hay, todavía pues.
+
+nmlch-lmjmc1_1_0014_nmlch_00:			
+M: <*SPA>Ya peñi 								
+C: Ya hermano
+
+M: machi pipeymi <!1pipimi> nga					             C: machis, fue que dijistes							 
+
+M: tüfa tañi küpalmeu machi					                             C: esto de donde viene la machi			
+
+M: rume falin 	somo fel								
+C: es muy valiosa mujer 
+
+M: pingefuy ta	
+C: se decia  						             
+
+M: mongenmu feyngefuy tüfey <!1tüfi> 
+C: durante su vida era verdad eso.
+
+nmlch-lmjmc1_1_0015_lmjmc_00: 			
+M: uh<uh> Rume falin llemay 					                C: Es muy valiosa 
+
+M: ka peñi feyta machi ta						
+C: además hermano la machi 
+
+M: kuyfi ta 								
+C: antiguamente
+
+M: fey, fey nentukefulu tati 							
+C:  eso, eso se sacaba pues
+
+M: wesake l'awen' fey ka  							                                  
+C: malos remedios pues 
+
+M: mületukefuy fey 							              C: existian eso
+
+M: mal mekewün feyta	                                                              C: mal  realiza esa                                                                                
+
+M: operato, operakefuy machi	                                                    C: operación, operaba la machi					
+
+M: ka fey tati 									
+C: y además pues
+
+M: operakefuy ka		                                                                   C: también operaban							
+ 
+M: peumameu fey ka							          C: además en sus sueños  
+ 
+M: kintukey l'awen'								             C: buscaba  remedios		
+
+M: fey peumamu									   C: eso en sueños
+
+M: rüf wingkulmu yemetufi l'awen' tati				                C: siempre en los cerros buscaba remedios pues					
+M: feymu ta fentren ta mongekefu						    C: por eso  bastante se mejoraban                                                                                       												
+M: ta fütakeche yem kimpafiñ iñche tati peñi,			 C:  las persona mayores que conocí pues hermano 					
+
+M: kimpafiñ iñche feypikefuy						 C: yo los conocí decía
+
+M: taiñ füchakeche yem					 
+C: nuestros antepasados									
+M: fentren l'awen'fentren newen may ta				
+C: muchos  remedios bastante fuerzas	
+
+M: mülefuy ta kuyfi								 C: existia antiguamente	
+
+M: fantenmu feyta								  
+C: y en estos momentos
+
+M: welu	mapu ta fentren newen						
+C: pero en las tierras  bastante fortaleza										 
+M: petu müli tati peñi 
+C: todavía hay pues hermano.
+
+nmlch-lmjmc1_1_0016_nmlch_00: 				      M: Petu niey <!1ni> ka.                                                                    C: Y todavía tiene. 			               
+
+nmlch-lmjmc1_1_0017_lmjmc_00: 
+M: Fentren newen petu müley <!1müli> tati.
+C: Bastante fuerza queda todavía pues.
+
+nmlch-lmjmc1_1_0018_nmlch_00:					 M: Machi tüfa						
+C: Machis ahora 
+
+M: müme ngewelay ta lofmeu
+C: no quedan muchas en los lugares
+
+M: tami lofmu müley machi tüfa?
+C: en tu lugar todavía quedan machis?
+
+nmlch-lmjmc1_1_0019_lmjmc_00: 
+M: Fey kiñe müten müley tati peñi						 C: Hay una sola machi pues hermano		
+ 
+M: kuñifall kületuyiñ								 C: estamos como abandonados
+ 
+M: machimu tati								 	 C: de machi pues		
+
+M: feymu ta femngen feyta 							
+C: de esa manera nosotros
+
+M: awüngetukeyiñ tati 								
+C: sentimos dolor pues
+
+M: fey mületuya ngillatun					                    C: por eso hay rogatibas
+
+M: pingefuyiñ fey									 C: y nos decian 
+
+M: wenuntu sungutuayiñ 						
+C: hacia el firmamento hablaremos
+
+M: pikefuyiñ tati peñi 								 C: deciamos pues hermano				
+
+M: welu trürüukefuyiñ 								 C: pero nos uniamos		
+
+M: welu machi ta fey								 C: pero las machis 						
+
+M: pensangetuyiñ tati peñi 						              C: pensamos pues hermano						
+
+M: fey kañpüle wichametukeyiñ			                             C: y en otro lugar nos juntabamos				
+
+M: machi fey femngen  <!1femuen> 					 C: así es la machi 							
+
+M: amu lofkiyiñ 							                    C: ibamos a otros lugares
+
+M: fey femngen <*SPA>noticia					
+C: así es la noticia									
+
+M: kimkefiyiñ cheu müley <!1müli>	
+C: sabemos donde 	existe			
+
+M: machi tati fey 								
+C: la machi por eso pues 												
+M: machimu anta asllelay ta sungu peñi 
+C: por la machi asienta la situación hermano. 
+
+nmlch-lmjmc1_1_0020_nmlch_00:			
+M: Femi 
+C: Así es.
+
+nmlch-lmjmc1_1_0021_lmjmc_00:		
+M: Machi ta feyta									 
+C: La machi ésto
+
+M: fey wenuntuy ta 							           C: eso entrega hacia el firmamento
+
+M: sungu peuma fey ka	
+C: una  situación en sueños eso pues
+
+M: kultrun ka							
+ C: y el kultrung también
+
+M: püutuy che
+C: está capacitado la persona
+
+M: ayekameketuy che tati peñi,					 
+C: la gente se alegra de eso pues hermano									
+M: ayekameketuy machi 							 C: se alegra la machi	
+
+M: wüla llemay ta machi wüla 
+C: ahora pues la machi ahora.
+nmlch-lmjmc1_1_0022_nmlch_00: 			                 M: LLemay ta. 
+C: Pues.
+
+nmlch-lmjmc1_1_0023_lmjmc_00: 	                                M: machi ta müna kümelkay peñi 
+C: La machi son buenos hermano.
+
+nmlch-lmjmc1_1_0024_nmlch_00:					                                       M: fey llemay chi feyti <uh>							 C: Eso es así
+ 
+M: kuifi ngekenofulu								 C: antiguamente no iban a existir	
+
+M: pital ka ngekelafuy ta <*SPA>posta				
+C: no habia hospital, ni posta
+
+M: machi rume montulkefuy che 			
+C: antiguamente la machi sanaba a la gente
+
+M: kutranmu pingey <!1pingi> feyngefuy?				
+C: de enfermedades decian será así?					                                  
+
+									                                                                                                                                 nmlch-lmjmc1_1_0025_nmlch_00:					 M: Pu feyngechi sungu tati peñi 					
+C: Pues es así la situación pues hermano
+
+M: iñche kimpafiñ kuyfi								 
+C: yo de antes lo sabía
+
+M: fey satukefuy che								 C: eso diagnósticaba la persona
+
+M: fey inkatuchekefuy 								 C: de esa forma juntaban personas				
+
+M: kiñeptra satuwün mületukefuy tati peñi				 C: un gran diagnótico ocurre pues hermano				
+
+M: fey  apümkangetuy ta kiñe kuñifall 			              C: y acaban con un huerfano	
+
+M: fey trafentun kületukefuymeulen			              C: y eso se transformaba como un remolino 
+
+M: pi taiñ fütakeche	
+C: decian nuestros antepasados 
+
+M: welu machi mongelfuy tati
+C: pero la machi sanaba pues 
+
+M: +/mongelma/+	mongeli peñi						 C: mejoraba, sanaba hermano			
+
+M: müna küme fey perimontun niefuy					 C: muy bueno eso de ver cosas
+
+M: machi kuyfi fey mongekefuyiñ tati peñi 				
+C: antiguamente la machi nos sanaba pues hermano
+
+M: iñche ka feyta machitungen tati						 C: yo también me reviso la machi pues	
+
+M: welu +/fem mem sau deumeu/+meulen pinfuy tati 		
+C: pero remolino se llama pues
+
+M: trafentun welu machi 						
+C: entra un  mal, pero la machi
+
+M: mongeleneu tati peñi 						
+C: me sano pues hermano
+
+M: machi mongeleneu						 
+C: la machi me sano 
+
+M: iñche ta kuyfi ta kim
+C: yo antiguamente conocí
+
+M: +/pef/+  ngekelafuy ta <*SPA>posta <*SPA>pu' 
+C:   no existian postas, pues
+
+M: ngekelafuy <*SPA>hospital 
+C: tampoco existía hospital
+
+M: rume tati peñi
+C: ni siquiera pues hermano.
+
+nmlch-lmjmc1_1_0026_nmlch_00: 				                                                                     M: ¡Aa! <*SPA>no 
+C: ¡Aa! no
+
+nmlch-lmjmc1_1_0027_lmjmc_00:					 M: Ngekelafuy, ngekelafuy turpu, 
+C: No había, no había nada 
+
+M: turpu ngekelafuy tati peñi.
+C: nada había pues hermano.
+
+nmlch-lmjmc1_1_0028_nmlch_00:				                M: ¿Fey re machimu konkefuymün? 
+C: ¿De esa manera solo iban donde la machi?
+
+nmlch-lmjmc1_1_0029_lmjmc_00:					 M: Re machimu tati peñi 							
+C: Donde la machi pues hermano.
+
+M: re machimu fey wichakefuyiñ 					
+C: donde la machi nos sanaba
+
+M: machi fey ka femngen pichin 						
+C:   la machi también es así un poco
+
+M: fütakeche ta fey pichi kutrani 	                                               C: cuando la gente mayor se enferma			
+
+M: fey machimu amuy müchay 						 C: y iba adonde la machi ensguida
+
+M: müten amukefuyiñ tati 							 C:  nomás ibamos  pues			
+
+M: lapümgkangey <!1llapümgkangi> che				    C: se purificaba la persona					
+
+M: mongekefuy tati >  
+C: sanaban pues
+
+M: firkümkangey <!1firkümkan
+C: después de enfriarlo
+
+M: pütrüley <!1pütrüli> l'awen' peñi, 					 C: existe bastante remedio hermano,				
+
+M: pütrüley <pütrüli> machi ta 						 C: bastante machi también					
+
+M: witraney <!1witrani> tati 							 C: fortalecen pues	
+
+M: witraney <!1witrani> machi 
+C: fortalecido tiene la machi.
+
+nmlch-lmjmc1_1_0030_nmlch_00: 
+M: ¿Chumngechi chi kimkefuy l'awen' machi peñi		 C: ¿Cómo sabé de remedios la machi hermano
+
+M: tüfey tañi mongenmeu?
+C: eso durante su vida?
+
+nmlch-lmjmc1_1_0031_lmjmc_00: 				
+M: Feymu ta iñche inarupan inarumen tati 				
+C: Por eso yo estuve cerca, observé pues.
+
+M: fey inakintufiñ									
+C: eso observé
+
+M: fey satungekefuy
+C: y se le medicinaba 
+
+M: y kiñe kiñe ella trafiameu 
+C: y en un, un atardecer
+
+M: fey ya eluwaymay fey satuafiñmay 
+C: y  ya cederás y lo medicinaré
+
+M: pelotuafiñmay kutran pikefuy tati 
+C: diagnosticaré al enfermo decía pues
+
+M: fey femuen pichin								
+C: y  recien un poquito
+ 
+M: fey +/kül/+ küymilkefuyiñ machi tati				 C:   haciamos que la machi entrara en transe pues					
+M: küymi machi deuma fey							 C: al entrar ya la machi en transe 			
+
+M: ngütramtukefuy tati								 C: conversaba pues																					              M: chumngechi tañi kutranün ta 						 C: de como se enfermó			
+
+M: kiñe nau mapu, 									
+C: en alguna parte,
+
+M: chumngechi tañi trafentun ta						 C: como le entró mal
+
+M: tiyemeu feymu ta 								
+C: allí por eso
+
+M: kimkefuyiñ tati peñi 								 C: conociamos pues hermano
+
+M: femngechi ta ngütramkefuy machi, 					 C: de esa manera conversaba la machi			
+
+M: machi ta müna pelofuy ta kuyfi  
+C: la machi diagnosticaba mucho antiguamente.
+
+nmlch-lmjmc1_1_0032_nmlch_00:			
+M: ¿Küyminmu kimkefuy kutran? 
+C: ¿Al estar en transe conocía la enfermedad?
+
+nmlch-lmjmc1_1_0033_lmjmc_00:				                                                        
+M: Küyminmu llemay peñi .
+C: Al estar en transe hermano.
+
+nmlch-lmjmc1_1_0034_nmlch_00: 				
+M: l'awen' ka fey. 
+C: El remedio además.
+
+nmlch-lmjmc1_1_0035_lmjmc_00:					 M: L'awen' itrofill fey								 C: Y todo tipo de remedio
+
+M: ngütramtuy tüfichi l'awen' 						 C: hablaba de ese remedio		
+
+M: müley <!1müli> ta menokomeu, winkulmeu fey 		
+C: que existe  en el pantano, en los cerros y
+
+M: witrameafimi pikefuy tati			
+C: lo levantaré decia pues
+
+M: iñche kimpafiñ feychi sungu peñi					 C: yo conocí esa situación hermano		
+
+M: kimpafiñ,		
+C: lo conocí   			
+
+M: re küyminmeu fey, fey			
+C: sólo en transe eso, eso
+
+M: re ngütrammu feyta
+C: sólo en conversación ésto
+
+M: fey feychi l'awen' fey elutuafimi 			                      C: es ese remedio eso le vas a dar
+
+M: fey kintungekefuy 								 C: eso se buscaba 					
+
+M: fey kisu fey elungetukefuy tati 						
+C: y sólo esole daban pues
+
+M: fey seumatuy l'awen' 							 C: y esa manera preparaba los remedios	
+
+M: machi fey pütokokefuy							 C: la machi eso  bebía
+
+M: nau mapu pu peñi pütoko. 
+C: los hermanos enfermos bebían.
+
+nmlch-lmjmc1_1_0036_nmlch_00:	
+M: ¿Machi ñi fentren kimal nial 					
+C: ¿La machi para saber harto
+
+M: machi may papeltuki peñi							 C: la  machi estudia  hermano	
+
+M: kam chumechi fentren kimün ni?
+C: o como tiene bastante conocimiento?
+
+nmlch-lmjmc1_1_0037_lmjmc_00:					 M: <uh> Machi may peñi 							
+C: La machi   hermano
+
+M: chau ngünechen ta eleyu ka,						 C: chau ngünechen le dio
+
+M: chau ngünechen eleyu tati 						 C: chau ngünechen le dio pues
+
+M: fey kisu ta kisu ñi ngünewün ta						 C: y por si sola, por si sola 
+
+M: ngelay ta machi peñi 						
+C: no es machi hermano
+
+M: perimontutuy ta fey machi *chüri					 C: y ve visiones la machi 	
+
+M: chau ngünechen nga 								
+C: Chau Ngünechen
+
+M: tüfanga ñi ñaña 									 C: ella es su hermana								
+
+M: fey machingeay pikey <!1piki>					
+C: y sera machi dice 
+
+M: pi femuechi ta machiti 							
+C: dice de esa manera se realiza como machi
+
+M: machi, machi,machi ta pikefuy						 C: machi, machi, machi decía	 
+
+M: tañi füchache yem 						
+C: decían nuestros antepasados
+
+M: <*SPA>pero feyngechi sungumu peñi 				 C: pero de esa situación hermano								
+
+M: <*SPA>porque kichu ñi ngünewün ta 			
+C: porque no están por si solas
+
+M: machingelay ta machi 							
+C: no son machis las machis
+
+M: chau ngünechen ta eli eli ta machi tati 			
+C: Chau Ngünechen dejo, dejo machi pues 
+
+M: feymu ta fentrentu l'awen' ta kimi ta machi peñi. 	
+C: por eso bastante remedio conoce la machi hermano.
+
+nmlch-lmjmc1_1_0038_nmlch_00: 					
+M:¡Aa!
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0039_lmjmc_00:					 M: Kichu felelay ta machi 						
+C: Por si sola no está la machi
+
+M: <*SPA>no, <*SPA>no, 					
+C: no, no
+
+M: <*SPA>no chau ngünechen ta.						 C: no Chau Ngünechen.					
+
+M: tuniwi, tuniewe chau ngünechen ta 
+C: se apoya, se apoya de Chau Ngünechen.
+ 
+nmlch-lmjmc1_1_0040_nmlch_00: 					
+M: Eli machi chau Ngünechen.						
+C: Dejóla machi Chau Ngünechen.
+
+nmlch-lmjmc1_1_0041_lmjmc_00: 					
+M: fey llemay										 
+C: Es así
+
+M: chau ngünechen ta eli machi <*SPA>pue' 			 C: Chau Ngünechen dejó la machi pues										
+M: feyta witrakunuy tati 								         C: a ella dejó en alto pues 					
+
+M: lofmeu, lofmeu fey machi nga müli 					
+C: en los lugares, en los lugares hay
+
+M: lofmeu müna fali 								
+C: en lo lugares son muy valoradas
+
+M: lof niyiñ machi pi ka 								 C: las comunidades tienen machi dice también
+
+M: femngen pichin 									       C: recién un poco	
+
+M: fey ngillatuy che 								 C: ora la persona	
+
+M: fey ka trawületuy tati 							
+C: y por eso están reunidos pues
+
+M: fey ngillatuy ta									 C: y por eso ora 		
+
+M: tiye tañi mapumu tati. 							 C: aquel en su tierra pues.			
+
+nmlch-lmjmc1_1_0042_nmlch_00:				                           
+M: ngillatualu.
+C: Debe orar.
+
+nmlch-lmjmc1_1_0043_lmjmc_00: 			
+M: Ngillatualu. 
+C: Debe orar.
+
+nmlch-lmjmc1_1_0044_nmlch_00: 					
+M: Inka neafilu kutranmu che 
+C: socorre de las enfermedades a las persona.
+
+nmlch-lmjmc1_1_0045_lmjmc_00:					
+M: <uh> inkan niafilu <*SPA>pu'						 C: Debe socorrerlo pues
+
+M: inka niafilu 								
+C: socorrerlo.
+
+nmlch-lmjmc1_1_0046_nmlch_00:					 M:¡Aa! 										 
+C: ¡Aa!
+
+M: adniekefuy reke sungu tüfey 						 C: entendía la situación aquella.									
+nmlch-lmjmc1_1_0047_lmjmc_00:					 M: Fey llemay peñi 								
+C: Así es hermano
+
+M: fey *buu. 
+C: eso pues.
+
+nmlch-lmjmc1_1_0048_nmlch_00:					 M: pelotulekefuy reke lofmu. 						
+C: Conocía en los lugare.
+
+nmlch-lmjmc1_1_0049_lmjmc_00:			
+M: pelotulekefuy fey machimu						 C: ese veía en la machi
+
+M: feyta fey ad nentutukefuyu ta sungu tati 				
+C: esto se  encontraba la situación pues
+
+M: chempin machi 									
+C: lo que dice la machi
+
+M: fey ngütram 									 C: en su conversación	
+
+M: fey inaye feletukefuyiñ tati,				
+C: y cercano estabamos pues,
+
+M: machi ta feyta, feyta							
+C: a la machi ésto, ésto					
+
+M: fey elunetukefuyiñ sungu tati peñi <hm>.  	
+C: eso le entregabamos la situación pues hermano.		
+
+nmlch-lmjmc1_1_0050_nmlch_00:	
+M:  ¡Aa! 											
+C: ¡Aa!
+
+M: feyti pipimi nga <uh>						
+C: Eso que dijistes
+
+M: trafentun che chumuechilu chi 						
+C: el mal cómo sera que	
+
+M: trafentu rumekey <!1rumeki> 
+C: le entra mal....
+
+nmlch-lmjmc1_1_0051_lmjmc_00:					 M: fey llemay tati									 C: Eso es pues	
+
+M: fey, fey ka 										
+C: eso, eso también
+
+M: sungu pingefuy tati								 C: situación se decía pues 	
+
+M: fey feypikefuy ñi fütake cheyem 					 C: eso decíam nuestros antepasados					
+
+M: fey kürüf wesa kürüf peno 						 C: ese viento malo, debe ser viento 			
+
+M: feymeulen kuyfi 								 C: ese remolino antiguamente				
+
+M: fentre miaukefuy fey, fey							 C: mucho existía eso, eso			
+
+M: fütakeche fey rupaymeulen 						    C: la gente Antigua al pasar remolino							
+
+M: seuma seu miawi tati								 C: ya al andar pues	
+
+M: pi feyta trafentu kilpe pichikeche					 C: dice éste que no le entré mal a los niños		
+
+M: fey ka trafentuy 									 C: y también le entraba mal	
+
+M: chumuechi feyta fey		
+C: cómo es ésto pero				
+
+M: welu	feyta fey wesa kürüf ta						  C: pero ésto es viento malo	
+
+M: miawülkefuy pikefuy tañi fütakeche. 
+C: andaba decían nuetros antepasados.												
+
+nmlch-lmjmc1_1_0052_nmlch_00:			            M: Wesa kürüf.
+C: Viento malo.
+
+nmlch-lmjmc1_1_0053_lmjmc_00:					 M: Wesa kürüf, wesa kürüf. 
+C: Viento malo, viento malo.
+
+nmlch-lmjmc1_1_0054_nmlch_00:					 M: ¡Aa!
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0055_lmjmc_00: 
+M: Femuechi ta 								
+C: De está manera	
+
+M: fey felekefuy tati peñi 							 C: eso pa		
+
+nmlch-lmjmc1_1_0056_nmlch_00: 					 M: feyti may kuyfi 									 C: Eso antiguamente	
+
+M: fütakeche rume alüniekefuy 						 C: los mayores tenían bastante 						
+
+M: ngülam pingey <!1pingi> fey 						 C: consejos eso se dice  			
+
+M: afpetuy feula 									 C: habrá terminado ahora							
+
+M: seuma miaukelayaymi							   C: ya no debes andar		
+
+M: rangiantü <uh> witralechiº				
+C: a medio día al estar alto
+
+M: rangiantümeu kümelay 
+C: al medio día no es bueno 
+
+M: rume niekey <!1nieki> newen
+C: mucha fuerza  tiene
+
+M: kürüf pingey 									
+C: el viento se dice
+
+M: feyngepekefuy may kuyfi tüfey <!1tüfi>.
+C: habrá sido así antiguamente eso.
+
+nmlch-lmjmc1_1_0057_lmjmc_00: 				
+M: Kuyfi ta fey fentre miaukefuy ka peñi 				
+C: Y eso antiguamente andaba bastante hermano.
+
+M: iñche kimpafin tati peñi 							
+C: yo lo conocí pués hermano 
+
+M: fey fütrake che feyta rume creyekefuy tati 			 C: y los mayores ésto bastante creían pues	
+
+M: y kimpafiñ tati						
+C: y conocí pues 
+
+M: meulen fey ka ta
+C: el remolino también
+
+M: tripalayaymi pun ka pingi fey
+C: no saldrás de noche decían también  
+
+M: trafentuafuymi pikefuy tati 						 C: puede entrarte mal decían pues				
+
+M: welu fantenmu müte felewelay peñi 					 C: pero ahora no está igual hermano											
+
+M: müte felewelay feyta 							
+C: no está igual ésto
+
+M: fantenmu feyta 								
+C: en éstos momentos ésta
+
+M: <*SPA>creencia chau ngünechen		
+C:  creencia de Chau Ngünechen 
+
+M: fey ka
+C: eso, también
+
+M: pichike kimi l'awen' 							
+C: los niños conocen remedios
+
+M: <*SPA>todo <*SPA>eso  fey fem fem rumen 
+C: todo eso eso me, me pasó de repente
+
+M: fütrakeche yem feyta aflu fey 						
+C: los antepasados al terminar ésto
+
+M: fantenmu feyta ferke 								
+C: ahora ésto 
+
+M: kisu weletuy tati 								
+C: sólo está pues
+
+M: welu ngülam ta pichinniefiyiñ tati peñi, 				 C: pero las sabidurias un poco tenemos pues hermano,
+
+M: niefiyiñ ngülam 								 C: tenemos sabidurías.
+    
+nmlch-lmjmc1_1_0058_nmlch_00:					 M: Petu müli ngülam. 
+C: Todavía hay sabidurías.							 
+
+nmlch-lmjmc1_1_0059_lmjmc_00:					
+M: petu müley <!1müli> ngülam tati. 				
+C: Todavía quedan sabidurías pues.
+
+nmlch-lmjmc1_1_0060_nmlch_00:					
+M: <hm> Eymi pichi wentru ngelu 				
+C: Tú cuando eras un niño
+
+M: chem kutran wüne inaymu tüfi peñi 
+C: que enfermedad primero te entro hermano.
+
+nmlch-lmjmc1_1_0061_lmjmc_00: 				
+M: iñche ta pichin <uh> we pichiche ngen 				 C: Eramos bastante pequeños			
+
+M: fey ka femngechi llemay ta 						
+C: y también así es
+
+M: fey feypikefeneu tañi ñuke						 C: eso decia mí madre	
+
+M: fey trafentuymi tati 								 C: y te entró mal pues	
+
+M: fey kollfüskefun									
+C: eso
+
+M: fey, fey lelfünmu mülimi tati						 C: eso, eso en los lugares estabas pues			
+
+M: kiñe repente fey pelafeyu tati 						
+C:  y de repente  no te ví pues  
+
+M: welu kutran kollfüseymi 							 C: pero la enfermedad ......			
+
+M: pikeneu wesa kürüf peno							 C: me decía viento malo tal vez	
+
+M: pikefuy tañi, tañi kuse ñuke. 
+C: decía mi, mi anciana madre.
+
+nmlch-lmjmc1_1_0062_nmlch_00:				                                      M: ¡Aa! 
+C: ¡Aa!.
+
+nmlch-lmjmc1_1_0063_lmjmc_00: 					
+M: Femuechi feyta pichike kutranün ka 		
+C: de esa manera me enfermaba poco
+
+M: fey tati peñi 									
+C: eso pues hermano
+
+M: fey welu ka machitungen 							
+C: y entre donde la machi
+
+M: fey mongen tati peñi, 							
+C: de manera estoy viviendo pues hermano
+
+M: kuyfi wicha machikefuy che						
+C: antiguamente animába a la machi la gente 
+
+M: fey, fey mongetuay ngañi püñeñ					 C: eso, eso se mejorará mi hijo											    
+M: mongetuay ngañi koñi pi							
+C: de esa manera se mejorará mi hijo dijo
+
+M: fey müchay müten machi							 C: y en seguida nomás la machi	
+
+M: fey wichalkefuy che kuyfi peñi 
+C:  levantaba a las personas antiguamente hermano.
+
+nmlch-lmjmc1_1_0064_nmlch_00: 				
+M: Mongetuymi tati. 
+C: Te sanaste pues.
+
+nmlch-lmjmc1_1_0065_lmjmc_00:				    M: Mongen tati peñi 							
+C: Me sané pues hermano
+
+M: gracia Dios fey fantenmu feyta				
+C: gracias a Dios hoy en día  				
+
+M: kutranwekelan tati 								
+C: no me enfermo más pues
+
+M: porque fentren l'awen' müley <!1müli> <*SPA>pu'	           C: porque bastante remedio hay pues	
+ 
+nmlch-lmjmc1_1_0066_nmlch_00:					                               M: Fentreli may. 								
+C: Si hay bastante.
+
+nmlch-lmjmc1_1_0067_lmjmc_00:					                                    M: Fentren l'awen, müley <!1müli> tati peñi. 
+C: Hay bastante remedio pues hermano.
+
+nmlch-lmjmc1_1_0068_nmlch_00: 				          M: ¿Tami lofmeu petu müley <!1müli> l'awen' 			 C: ¿En tú lugar todavia queda remedio	
+
+M: tüfa <*SPA>no? 
+C: ahora no?
+
+nmlch-lmjmc1_1_0069_lmjmc_00: 				
+M: <uh> Fentreli tati peñi							
+C: Hay bastante pues hermano
+
+M: rüf fey llemay									 C: es verdad eso		
+
+M: <*SPA>doctor rume llemayta		
+C: hasta los doctores  pues					
+
+M: *wintraki tati fey miautuy 					
+C: acrecientan eso y andan													
+M: fey ngilla fey ka yemengetuy l'awen' 				
+C:   se comprá y también se busca remedios
+
+M: fentren l'awen' müli <*SPA>pue' 				
+C. bastante remedio hay pues
+
+M: itrofill l'awen' petu müley <!1müli> tati peñi 			
+C: de todo clase de remedio hay pues hermano
+
+M: itrofill, itrofill müli tati						
+C: de todo, de todo hay pues
+
+M: welu fey montañamu mületuy tati					 C: pero eso en las montañas están pues	
+
+M: fey wingka fey apümpatuy tati 						
+C: esos los huincas los acabaron pues
+
+M: müle makina 									
+C: hay maquinas
+
+M: fey chür trüf trüf yelpatufi tati tronko 
+C:
+
+M: fey ka trantufi 									
+C: y también lo corta
+
+M: palu santu pingey					
+C: palo santo se llama palo
+
+M: <*SPA>palu <*SPA>trevol ka pingey reke 
+C: palo  trébol lo que se llama no quedan pues hermano	
+
+M: ngewelay tati peñi
+C: no hay pues hermano
+
+M: welu montañamu fentreley <!1fentreli> pu' 			 C: pero en las montañas hay bastante pues.
+
+nmlch-lmjmc1_1_0070_nmlch_00: 				    M: ¿Tami lofmeu tüfa <uh>						
+C: ¿Y e n tú lugar ahora
+
+M: <*SPA>forestal pikey <!1piki> ta wingka		
+C: forestal le dice los wingka
+
+M: fütrake nielu ka mapu						
+C: los que tienen bastante tierra
+
+M: mongen nielu 									
+C: tienen vida
+
+M: akukey tami lofmeu							             C: llegan en tú lugar
+
+M: anümkapakefi tati tichi							
+C: los vienen a plantar pues eso
+
+M: ka tripa anümka						
+C: además plantas que crecen						
+
+M: fey  welu apümkey <!1apümki> ko				              C: pero eso termina	el agua 
+
+M: pingi feyngepi tüfey <!1tüfi>?
+C: se dice será verdad eso?
+
+nmlch-lmjmc1_1_0071_lmjmc_00: 					
+M: Feyngey <!1feyngi> tati peñi 						 C: Así es pues hermano		
+
+M: feyngey <!1feyngi> u rüftu llemaychi peñi 			 C: será  verdad eso  hermano
+
+M: feyta tüfi küpali <*SPA>maquina 					
+C: también aquellos traen máquinas
+
+M: fey feyfel tati									
+C: eso es así pues
+
+M: kümeke l'awen' kümeke						
+C: buenos remedios, buenos				
+	
+M: winkul petu mülelu fey <uh> 				
+C: en los cerros todavía hay de eso
+
+M: pütrün walle chem rume müley tati 					
+C: bastante hualle, de todo hay pues
+
+M: kopiu müley llapañko ka						           C: copihue hay llapañco también 
+
+M: fey trüpültu yepafi tati peñi					              C:		
+
+M: makina akuli 									 C: trajeron máquinas 						
+
+M: feymu feyta tritrangkületuy mapu tati peñi 			
+C: por eso quedó vacia la tierra pues hermano
+
+M: ngewelay ta pichin 
+ C: no queda nada 	 
+
+M: <*SPA>arból <*SPA>nativo pingey tati			
+C: de  árbol nativo se dice pues,					
+
+M: walle itrofill		
+C: hualle, de todo,   			
+
+M: welu fey llemay tati				
+C: pero ellos pues 
+
+M: apümpafi tati peñi 
+C: vinieron a terminar pues hermano,
+
+M: kake <*SPA>planta küpaltuy tati 					
+C:  trajeron otras plantaciones pues
+
+M: feymu ta awüngetuyin tati peñi						 C: por eso......................  pues hermano		
+
+M: ko reke ka fey llemayta							
+C:  además el agua; eso
+
+M: müntupatueymu tati 		
+C: nos quitaron  pues
+
+M: <*SPA>porque tüfi ta anümkan 					 C: porque  esas plantaciones 				
+
+M: fey, fey rükümi ko							
+C: y, y por eso mesquina el agua
+
+M: pingey <!1pingi> pingey <!1pingi> tati peñi 			 C: se dice, se dice pues hermano										
+M: welu feyngey <!1feyngi>, feyngey <!1feyngi> tati		 C: pero es cierto, es cierto pues 	
+
+M: fey <*SPA>planta mületuy tati 					 C: de esa planta hay ahora pues	
+
+M: fey, fey arküy ko pu peñi						
+C: y, y eso acabó el agua pues hermano
+
+M: arküy ko tati  
+C: acabó el agua pues.
+
+nmlch-lmjmc1_1_0072_nmlch_00: 				
+M: Arkümi ko 
+C: Acabó el agua.
+
+nmlch-lmjmc1_1_0073_lmjmc_00: 				
+M: arküy ko <*SPA>porque							
+C: Porque se acabó el agua
+
+M: <*SPA>planta llemay tati 				
+C: es por las plantas pues 
+
+M: <*SPA>planta feyta tüfey <!1tüfi> ta 				 C: las plantas ahora 
+
+M: rüf pütokonetuy <*SPA>pu'.   
+C: verdaderamente absorve pues.
+
+nmlch-lmjmc1_1_0074_nmlch_00: 					
+M: feyti katripache									
+C: Esa otra gente 
+
+M: <uh> yamlay may winkul, yamlafi menoko, 
+C: no tiene temor a los cerros, no le teme al pantano, 
+
+M: yamlafi rume mawisa may. 
+C: ni siquiera teme a la montaña.
+
+nmlch-lmjmc1_1_0075_lmjmc_00: 			
+M: <*SPA>No, <*SPA>no, <*SPA>no, 			
+C: No, no, no,
+
+M: <*SPA>no  tüfi ta -/chuese/- 						 C: no ahora
+
+M: tüfi ayiuküli tati 								
+C: eso está alegre pues
+
+M: fey, fey 										
+C: y, y
+
+M: rakiam müntu mapupay ta			
+C: ........  a quitar las tierras
+
+M: fütakecheyem				
+C: a los antepasados
+
+M: fey ka fey			
+C: eso, también, eso
+
+M: <*SPA>permiso mayta elungepi tati 				
+C: permiso le habran dado pues
+
+M: fey kiñe repente akuy tati 							
+C: y hay de repente llegaron pues
+
+M: fey <*SPA>poderosa engun tati 					 C: y poderosas pues	
+
+M: akuli <*SPA>maquina fey					
+C: trajeron máquinas y
+
+M: ka pichin fey								
+C: además eso   
+
+M: ralo kapafi sanchu reke tati 						
+C: llegaron a robar los cerdos pues 
+
+M: pütrake maquina						
+C: grandes máquinas 
+
+M: rüf lolo kapay mapu tati	
+C: bastante hoyos hicieron en las tierras pues
+
+M: trüfültuyefi ta chem rume tati peñi					 C: torcieron todo pues hermano	
+
+M: fey wenku yetufi tati 								
+C: y al hombro llevaron pues 
+
+M: foye wenkuyetufi ta l'awen'						 C: el canelo al hombro echaron los remedios
+
+M: feymu ta kuñifallkületuy ta mapu tati				 C: por eso está vacia la tierra pues
+
+M: reke aftuy l'awen' 						
+C: como que terminaron los remedios
+
+M: <*SPA>pero montañamu müli peñi 					
+C: pero en las montañas hay hermano
+
+M: petu müley <!1müli> l'awen' 					            C: todavía queda remedio		
+
+M: fentreli l'awen' petu. 
+C: mucho remedio hay todavía.
+
+nmlch-lmjmc1_1_0076_nmlch_00: 					
+M: feyti foye pipimi nga 							
+C: Ese canelo que habías dicho 
+
+M: rume falin l'awen pinge 							 C: muy valioso remedio  se dice																					                 
+M: foye fill dungu mülepelu pingey <!1pingi>			 C: el canelo  en todas las situaciones está se dice
+
+M: feyngifianta ti. 
+C: es verdad eso.
+
+nmlch-lmjmc1_1_0077_lmjmc_00:					                               M: Fey tati peñi									
+C: Si pues hermano
+
+M: fey llemay tati 									 C: pues así es 	
+
+M: fey tañi newen ta machi tati peñi					 C: eso es la fuerza de la machi pues hermano	
+
+M: fey ngillatuy fey foye llemayta						
+C: y le hace oración al canelo pues
+
+M: müli tati peñi 							
+C: hay pues hermano
+
+M: fey añpe pingetuy								 C: y helecho se le dice    
+
+M: ka itrofill mületuy tati peñi 						 C: y de todo existe pues hermano	
+
+M: fey tañi newen tati 							
+C: eso es nuestra fuerza pues 
+
+M: feymu ta feyella pichi pensangetuy tati peñi 			 C:  ésto es para razonar un poco pues hermano
+
+M: fey wingkul ta ngewelay reke tati 					 C: y cerros no quedan pues							
+
+M: welu foye ta müli tati peñi 
+C: pero el canelo existe pues hermano.
+
+nmlch-lmjmc1_1_0078_nmlch_00:					                             M: Petu feyfuy. 
+C: Aún es verdad.
+
+nmlch-lmjmc1_1_0079_lmjmc_00: 				       M: Petu taiñ müley <!1müli> tati peñi					    C: Aún existe pues hermano				
+
+M: petu müley <!1müli> tati.                                                                                                
+C: aún existe pues.
+
+nmlch-lmjmc1_1_0080_nmlch_00: 			        	   M: ¿añpe chem añpe pingey <!1pingi?      
+C: ¿A qué se le dice helecho?
+
+nmlch-lmjmc1_1_0081_lmjmc_00:				       M: Ese añpe ta				
+ C: Ese helecho 			
+
+M: fey machi ta witramelu tati
+C: la machi  lo enaltecio pues
+
+M: müli ta yosküntuku tati 							 C: existe en mayor cantidad pues
+
+M: keframu fentreli tati 								 C: en las quebradas, bastante pues	
+
+M: añpe pi ta fey winka ta
+C: helecho; dice el huinca
+
+M: elechu pi tati.
+C:  helecho dice pues.
+
+nmlch-lmjmc1_1_0082_nmlch_00: 				  	 M: ¡Aa! 
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0083_lmjmc_00:					 M: Helechu pi tati <hm>								 C: Helecho dice pues				
+
+M: <*SPA>ese añpe, añpe tati <hm>   
+C: ese helecho, helecho pues.
+
+nmlch-lmjmc1_1_0084_nmlch_00: 				  M:¡Aa!                                                                                                                   C: ¡Aa!
+
+nmlch-lmjmc1_1_0085_lmjmc_00: 			                      M: Feymu ta <*SPA>asi ta sungu					
+C: De esa manera,así es la cosa
+
+M: añpe rüf machi ta feypi 						  
+C: la machi dice el helecho 
+
+M: ya tupe tañi nag mapu						
+ C: ya que agarré 										
+
+M: añpe feymu ta fey wütrintuay ta 					 C: el helecho ese va a  ............	
+
+M: chau ngünechen pi tañi küymin ta peñi 			
+C: chau ngünechen dice al ceder el hermano
+
+M: machi tati peñi 
+C: machi pues hermano.
+
+nmlch-lmjmc1_1_0086_nmlch_00:				 M:¡Aa!
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0087_lmjmc_00:				    M: <Hm>.  
+C: <Hm>.		
+
+nmlch-lmjmc1_1_0088_nmlch_00:					 M: Mapuche kuyfi entungeyem 						
+C: El mapuche antiguamente al sacar
+
+M: kiñe l'awen' mawisameu 				
+C: un remedio en la montaña, 
+
+M menokomu rume 
+C: o en el pantano
+
+M: re felen entumekelafuy 
+C: no sacaba altiru
+
+M: pingey <!1pingi>wülmekefuy may					
+C: se dice; daba 
+
+M: kiñe kullitun o kiñe llellipun						 C:un pago o una oración
+
+M: wüla nentumekefuy l'awen' 					
+C: ahí recién sacaba el remedio 							
+
+M: pingey feyngepi tüfey <!1tüfi> peñi
+C: se dice, será verdad  eso hermano
+
+nmlch-lmjmc1_1_0089_lmjmc_00: 				      M: kim llemay tati 								    
+C: Sabe pues
+
+M: feyta pütra kuyfi feypikefuy tati 				              C: eso antiguamente decian pues				
+
+M: fey fey kiñe fücha che feypikefuy					 C: y, y una persona de edad decia				
+
+M: welu tüfi tati						
+C: pero eso pues, 
+
+M: ngen, ngen ko ngen l'awen' 
+C:dueño, dueño del agua, del remedio
+
+M: niefi tati								
+C:  tienen pues
+
+M: fey kuysafi tañi l'awen'							
+C: y protege sus remedios
+
+M: fey füchakeche						 
+C: y las persona de edad
+
+M: fey fey witrameltufi chi l'awen' 					 C: eso, eso enaltecen los remedios
+
+M: fey ngillatukefuy tati 							
+C: y realizaba oración pues
+
+M: <*SPA>permiso nentuafiñ ta tüfachi				  C: sacaré permiso  para ésto
+ 
+M: ta tüfachi l'awen'								 C: para éste remedio 	
+
+M: fey eymi ta elfimi tati 							  C: pues eso tu lo dejastes 
+
+M: chau fey mapumu ta				
+C: padre, y en la tierra 
+		
+M: müley <!1müli>newen
+C: hay vigor en la tierra, 
+
+M: mapu müley <!1müli> pikefuy 	            
+C: existe en la tierra decían
+
+M: welu re femngechi			
+C: pero así nomás 
+
+M: nentumekelafuy tati peñi
+C: no se  iba a sacar pues hermano
+
+M: ngillatukefuy ta füchakeche					
+C: oraban los antepasados
+
+M: feypikefuy tañi fücha awelu yem 					
+C: decia mi abuelo que fue
+
+M: re femngechi								
+C: así nomás
+
+M: <*SPA>no tati peñi				
+C: no pues hermano 	
+
+M: fey, fey femngechi koni					
+C: eso, eso así entró	
+
+M. fey müchay müten kutrankefuy 					
+C: eso enseguida nomás se enfermaba
+
+M: pikefuy tañi füchache					 
+C: decia mi abuelo
+
+M: kutrankefuy tati. 
+C: se enfermaba pues.
+
+nmlch-lmjmc1_1_0090_nmlch_00: 				     M: ¡Aa!
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0091_lmjmc_00: 				
+M: Newengey <!1newengi>							 C: Tiene vigor		
+
+M: newen müley ka						                                
+C: existe vigor además
+
+M: <*SPA>porque tüfi kuidatu	
+C: porque eso cuida,		
+ 
+M: kuidatuney <*SPA>pu' kuidatuni tati peñi 			
+C: lo protege pues, lo protege pues hermano
+
+M: <*SPA>porque <*SPA>ese 
+C: porque ese 
+
+M: tüfey kisu lelay l'awen' 
+C: remedio no está solo 
+
+M: kisu lewelay kisu felelay ni.
+C: ya no está sólo, no está sólo.
+
+nmlch-lmjmc1_1_0092_nmlch_00: 				         M: Ni newen. 
+C: Tiene fuerza.
+
+nmlch-lmjmc1_1_0093_lmjmc_00:					
+M: Ni newen peñi, ni newen pu 						 C: Tiene vigor hermano, tiene vigor pues
+
+M: feyta feypikefuy tati 								 C: eso decian pues	
+
+M: welu feyngey <!1feyngi> peñi 		                                   C: pero así es hermano	
+
+M: <*SPA>porque kiñe yag yag <*SPA>siquiera 		 C: porque un yag yag siquiera	
+
+M: feyta fey <uh> 
+C: ahora eso
+
+M: ko kiñe kiñe kimno koni							
+C:  el agua  ......................
+
+M: fey üllküy ko ka feyta peñi 			
+C:  eso  seco el agua también hermano	
+
+M: üllkuy ka fey						
+ C: se seco también 
+
+M: iñche kuyfi femün 							
+C: yo antiguamente lo hice
+
+M: kiñe femngen miawün tati 						 C: uno  así ando trayendo pues			
+
+M: fey chalwakefun tati 								
+C: de esa manera pescaba pues
+
+M: fey wasküy ko peñi								 C: y el agua hirvió hermano	
+
+M: rüf llikañ iñche peñi 							              C: yo me asusté hermano		
+
+M: feymu creyen ta					 
+C: por eso creo
+
+M: newen ta peñi,
+C: en la fuerza pues hermano			
+
+M: newen ta müley <!1müli> 						
+C: hay fuerza
+
+M: kuydapelu ko kuidapelu winkul				
+C: en el que cuida el agua, los cerros
+
+M: itrofill	 ngen ko	peñi	
+C: de todo, del dueño del agua hermano						
+M: ngen winkul ngen mawida				 
+C: del dueño del cerro, del dueño de la montaña
+
+M: itrofill peñi 
+C: de todo hermano
+
+M: kisu felelay mapu peñi,							 C: no está sola la tierra hermano,					
+
+M: kisu felelay mapu 								
+C: sola no está la tierra
+
+M: müley <!1müli> ta newen peñi müley <!1müli>  
+C: hay fortaleza hermano hay. 
+
+nmlch-lmjmc1_1_0094_nmlch_00: 				
+M: ¿feytichi yag-yag illkuy? 
+C:  ¿Ese yagyag se enojó?
+
+nmlch-lmjmc1_1_0095_lmjmc_00:					 M: üllkuy peñi üllkuy				
+C: Se enojó hermano, se enojó	
+
+M: rüf raraküy peñi		
+C: de verdad hace ruidos hermano 		
+
+M: raraküy rüf femngechi feyta	
+C: de esa manera hizo ruidos eso
+
+M: fey yag-yag pingetuy tati
+C:  ese yagyag se dice pues
+
+M: fey <*SPA>ese tüfi kisu,	kisu ngüneukülelay		
+C: y ese, sólo, sólo no se manda
+
+M: ka,kisu ngüneukülelay machi 					             C: tampoco se manda sóla la machi	
+
+M: kuyfi ngillatu amuy yag-yag mu 				
+C: antiguamente iba a orar en el yagyag
+
+M: pedimeal ko ka antü ka 							
+C: para pedir agua y también sol
+
+M: welu resu ,fütra newen tati peñi 				             C: pero el rezo es una gran fuerza pues hermano
+
+M: fütra newen ko tati								
+C: una gran fuerza es el agua pues
+
+M: rüf newentuy müli ta 						
+C: al hacer fuerza existe
+
+M: tüfey ngen ngelu peñi, 							
+C: ese que es dueño hermano
+
+M: ngen ngelu müley <!1müli> tati. 
+C: ese que es dueño existe pues.
+
+nmlch-lmjmc1_1_0096_nmlch_00: 				
+M: kürüf kütu rume. 							
+C: Hasta el viento.
+
+M: yamngekefuy pingekey <!1pingeki> kuyfi. 
+C: se le repetaba se dice antiguamente.
+
+nmlch-lmjmc1_1_0097_lmjmc_00:					
+M: kürüf ta akuy		
+C: Al llegar el viento 	
+
+M: fey me pütrake wefi llemay winkul ta				
+C: por eso crecieron bastante los cerros
+
+M: müley <!1müli> tati peñi 							
+C: hay pues hermano
+
+M: fey müley ta newen 								
+C: por eso hay fuerza
+
+M: fey ella pichi celoso kürüf,						
+C: y es un poco celoso el viento
+
+M: kürüf-kürüf tripakefuy peñi <uh>				
+C: viento, viento salía hermano
+ 
+M: pütra küfüf ratu wechi 					
+C:
+
+M: newen ngekefuy chi peñi 							
+C: tenía fuerza hermano
+
+M: feyta petu ta müley tati peñi						 C: eso existe  pues hermano
+
+M: kiñe winkul fey					 
+C: y en un cerro 
+
+M: mülelu nga fentren montaña					
+C: en donde hay bastante montaña 
+
+M: fey ka fey kürüfki			
+C: hay también hay viento
+
+M tripaki tati peñi feymu ta
+C: sale pues hermano por eso
+
+M: fentre küyentungi 
+C: bastantes años	
+
+M: taiñ mapu tati peñi 
+C: tienen nuetras tierras	pues hermano	
+
+M: fey falin ta tüfi mapuche	
+C: por eso es valioso el mapuche
+
+M: falin mületuy l'awen' tati peñi		
+C: valiosos remedios hay pues hermano		
+
+
+M: femngen feyta pichin fey mapuchengen tati	
+C: 				
+
+M: feymu ta kreyefuy taiñ
+C:
+
+M: fey mapumu ta newen küliyin ka 					
+C: y por la tierra somos fuerte tambié
+
+M: newen küliyin tati.  
+C: somos fuertes pues.
+
+nmlch-lmjmc1_1_0098_nmlch_00:					 M: Rume tuuküley <!1tuuküli> tañi mongen				
+C: Mucho se aferra en nuetras vidas
+
+M: mapu pingey <!1pingi> 				
+C: la tierra se dice 
+
+M: mapuche feyngeperki tüfa ka.
+C: del mapuche y es verdad eso. 
+
+nmlch-lmjmc1_1_0099_lmjmc_00: 				
+M: Feyngey <!1feyngi> peñi 						
+C: Es verdad hermano
+
+M: feyngi feyta felenofule kay 						 C: es verdad ésto y si no fuese así 	
+					
+M: fey chumlepeafulu ta iñchiñ						
+C: como estariamos nosotros 
+
+M: feyta iñchiñ ta mapumu ta 						
+C: nosotros en la tierra
+
+M: fey tuuküleyiñ tati peñi							 C: nos afirmamos pues hermano
+
+M: tuuküleyiñ itrofill 							
+C: nos afirmamos de todo
+
+M: nenokomeu winkul leufü			
+C: del pantano, los cerros, del río												
+M: itrofill müley ta fey
+C: y de todo hay ahora
+
+M: anümka walle y folo	
+C: plantaciones de hualle y boldo
+
+M: itrofill müley <!1müli>feyta		
+C: de todo hay ahora 
+				
+M: rüf fey pichike fey				
+C:  verdaderamente un poco de eso
+
+M: elunetueyinmu kürüf tati							
+C: nos da el viento pues	
+
+M feymu ta mongeliyiñ 
+C: por eso vivimos		
+
+M: taiñ taiñ chengen mongeli tati
+C: los que, los que somos persona pues
+
+M: <*SPA>porque fey feyta feypikefuy ñi,                                 C: porque eso decian,				
+
+M: ñi kuyfi ñi füchakeche							 C: antiguamente los antepasados 	
+
+M: fey fentren müley 								 C: y mucho hay  	
+
+M: küla itrofill müley feyta fey,						 C: tres distintas hay y por eso,
+
+M: fey kiñe küfüf feyta, 								
+C: un viento y por eso,
+
+M: feyta fey wüli ta kongen pikefuy					
+
+nmlch-lmjmc1_1_0100_nmlch_00:					 M:¡Aa! 
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0101_lmjmc_00:				    M: Wüne mongen 						
+C: Primero la vida
+
+M: <*SPA>porque tüfi fenten kürüf	
+C: porque eso diferente vientos 
+
+M: kümeke kürüf wesake kürüf ka			
+C: buenos vientos y malos vientos 
+
+M: müle, mülekefuy tati peñi 						
+C:  hay, existia pues hermano.
+
+nmlch-lmjmc1_1_0102_nmlch_00: 			
+M: ¡Aa! 
+C: ¡Aa!
+
+M feyti kiñe kutran müley
+C: esa, una enfermedad hay
+
+M: pipimi nga tüfameulentun
+C:  habías dicho, ese remolino
+
+M: tüfitichi trafentulu 
+C: aquel que tiene daño
+
+M: <uh> perimontulu <uh>
+C: el que vió visiones
+
+M: mülepeafuy l'awen'
+C: habrá remedios
+
+M: pitalmu peñi ngepeafuy tüfa.
+C: en el hospital hermano existirá eso.
+
+nmlch-lmjmc1_1_0103_lmjmc_00: 
+M: No feyta fey kimlay pu
+C: No, eso, no sabe pues
+
+M: peñi tüchimeulen tulelu 
+C: hermano aquel que tiene remolino
+
+M: kürüftu wesa kürüf tulelu 
+C: viento el que tiene viento malo
+
+M: fey üyüu fey kimngelay pu
+C: eso allá no se conoce pues,
+
+M: peñi kimngelay tati 
+C: hermano, no se conoce pues
+
+M: peñi fey wingka kimlay tüfi <*SPA>pu'
+C: hermano eso el huinca no conoce esto pues
+
+M: fey, fey machi fey kimi tati peñi, 
+C: eso, eso la machi sabe pues hermano
+
+M: machi ta fey witrami ta 
+C: la machi enaltece
+
+M: l'awen' newen ke l'awen'
+C: los buenos remedios,  
+
+M: feyta mongeltuy peñi
+C:  hay lo sana hermano
+
+M: feyta mongeli 
+C: hay lo sana
+
+M: welu fey üyüu ta 
+C: pero eso allá
+
+M: hospitalmu kimngelay tati peñi
+C: en el hospital no se conoce pues hermano
+
+M: <*SPA>ese tipu kimngelay						
+C: ese tifu no se conoce	
+
+M: trafentun kimngelay								 
+C: no conocen el mal
+
+M: wesa kürüf kimngelay tati peñi 				
+C:  esos vientos malos no conocen pues hermano
+
+M: tuspu, tuspu kimngelay tati peñi					 
+C: nunca, nunca, no se conocia pues hermano
+
+M: tuspu 
+C: nunca.
+
+nmlch-lmjmc1_1_0104_nmlch_00: 				
+M: <uh> Fey +/inaukonpuay/+  inokonpuafuy inautuafuy	 C: Y puede entrar y lo puede seguir
+
+M: ta mapuche kompule pitalmu						 
+C:   el mapuche al  ingresar al hospital
+
+M: felewechi kutran niele 
+C: y tiene está enfermedad.
+
+nmlch-lmjmc1_1_0105_lmjmc_00: 					
+M: fem llemay										
+C: Así es
+
+M: feyta fey üyeu ta <uh>						
+C: éste allá
+
+M: amurpuafuy ka							
+C: se puede ir también 
+
+M: amurpuafuy fey kimnole tati 						
+C: se puede ir si no sabe eso pues
+
+M: feyta elungelay l'awen' 							 C: ahí no le dan remedios			
+
+M: chemu rume feet								 C: delo que sea	
+
+M: fey tutengey l'awen'mu 							 C: se le sana  con remedios		 
+
+M: feyta amuy ta kiñe kuñifall <*SPA>pu'. 
+C: ahí fue un herfano pues.
+
+nmlch-lmjmc1_1_0106_nmlch_00:					 M: ¿l'awen' trafentual								
+C: ¿Remedios para el mal
+
+M: kimimi peñi?
+C:  conoces hermano?
+
+nmlch-lmjmc1_1_0107_lmjmc_00:					 M: fey llemay 									
+C: Así es
+
+M: müley <!1müli> llemay tati						 C: existe pues 				
+
+M: müley <!1müli> tati			
+C: existe pues						
+
+M: l'awen' machi ta  trafentun 					
+C:el remedio de machi para el mal	
+ 
+M: müley <!1müli> itrofill l'awen'						  C:hay de todo tipo de remedios			
+
+M: pikefuy ta machi 								 C: decían las machis	
+
+M: welu iñche feyentuken <*SPA>porque				
+C: pero yo acato porque
+
+M: müley <müli> l'awen'		
+C: hay remedios 			
+
+M: trafentun l'awen' müley <müli>. 
+C: para el mal hay remedios.
+
+nmlch-lmjmc1_1_0108_nmlch_00: 			
+M: Müley. 
+C: Hay.
+
+nmlch-lmjmc1_1_0109_lmjmc_00:	
+M: Witrami mapchi pu peñi.    
+C. Enaltece la machi pues hermano.
+
+nmlch-lmjmc1_1_0110_nmlch_00: 			
+M: ¿Faupüle mülepi? 
+C: ¿Por aquí habrá?
+
+nmlch-lmjmc1_1_0111_lmjmc_00: M: 
+M: Feyta müley <!1müli> <*SPA>pu' 				
+C: Aquí hay pues
+
+M: müley <!1müli> tati 								
+C: hay pues
+
+M: fey koyam müley <!1müli> ta 						 C: ese roble hay 				
+
+M: *leg kiñe, 										
+C: 
+
+M: kiñe montañamu müley   <!1müli> tati peñi 			 C:en una montaña hay pues hermano
+
+M: porque machi ta feypi							 C: porque la machi dice
+
+M: trafentun l'awen' 								
+C: remedioa para el mal
+
+M: fey yemeaymi pingey <!1pingi> 			
+C: eso irás a buscar le dijeron						
+
+M: fey feyti ngen machi yemi tati peñi 					 C: y ese dueño de la machi trajo pues hermano	
+
+M: yemi tüfey 								
+C: trajo eso
+
+M: fey müten kimi tati							 
+C: ese nomás sabe pues 
+
+M: ngen machi ngen machi ta.                         			 C:el dueño, el dueño  de la machi. 
+
+nmlch-lmjmc1_1_0112_nmlch_00:					 M: Ka llellipukumefi llemay 
+C: Y hace rogativa
+
+nmlch-lmjmc1_1_0113_lmjmc_00: 					 M: fey llemay 										
+C: Así es
+
+M: fey femuechi ta trapümki l'awen' 					 C: y de esa manera juntaban remedios	
+
+M: ta ngen machi tati peñi							 C:el dueño de lamchi pues hermano
+
+M: feymu 										
+C: de esa manera
+
+M: ta mongelkey kutran ta machi 					
+C: sanaban las enfermedades las machi
+
+M: peñi re l'awen'mu re l'awen'
+C: hermano de remedios, de remedios
+
+nmlch-lmjmc1_1_0114_nmlch_00: 					
+M: Re l'awen' mapu l'awen'mu. 
+C: de remedios de la tierra era solamente.
+nmlch-lmjmc1_1_0115_lmjmc_00: 			
+M: Mapu l'awen' mapu l'awen' 						
+C: Remedios de las tierras, de las tierras
+
+M: <P> re mapu l'awen' tati peñi 
+C: remedios de las tierras pues heramano  
+
+nmlch-lmjmc1_1_0116_nmlch_00: 				
+M: Feyti peñi 									
+C: Eso hermano
+
+M: kuyfi mapuche							                     C: los antiguos mapuches
+
+M: fill lofmeu 									
+C: de las comunidades
+
+M: kuyfi	petu akunulu wingka l'awen'					
+C: antiguamente cuando aún no llegaban los remedios chilenos
+
+M: ka petu akunulu	 tüfa wingka 
+C: y cuando todavia no llegaban los chilenos.
+
+M: tumuelu chi fente tukefuy mongen mapuche			
+C: porque será que vivían hartos años los mapuche 
+
+M: müna kümeke mongen niekefuy			
+C: los mapuches tenían muy buena salud												
+M: kutranchengekelafuyngün. 
+C:  no eran personas enfermisas.
+
+nmlch-lmjmc1_1_0117_lmjmc_00: 					
+M: ¡Aa! 											
+C: ¡Aa!
+
+M: fey llemay peñi pu							
+C: pues así es hermano 
+
+M: kuyfi ta										 C: antiguamente							
+
+M: fütakeche ta rüf triltrantu yeukefuy 					 C: los antiguos andaban sin zapatos		
+
+M: fey chumkelafuyu ta kürüf 						
+C: y no les hacia nada el viento 
+
+M: <*SPA>porque ka mongen niekefuy 			
+C: porque otra vida  tenian					
+
+M: <*SPA>pues ka mongen rüf tüfi ta 				
+C: pues otra vida de verdad eso											
+M: ngekelafuy ta 									
+C: no tenían  
+
+M: fey fantenmu 							
+C: y ahora
+
+M: matetullelayiñ may peñi							
+C: no tomamos mate hermano
+
+M: fey akuy ta tüfey kochilu 							
+C: llegó lo dulce
+
+M: feyta peñi 										 C: eso hermano		
+
+M: fey femngen 									 C: así es eso		
+
+M: feyta feychi akuli ta wingka						
+C: eso trajo el huinca
+
+M: akuli ta itrofill								 
+C: trajo de todo
+
+M: feymu feyta 									 C: por eso 	
+
+M: kuyfi ta feychi sungu								 C: antiguamente no existian		
+
+M: feychi kochi ta 
+C: estos dulces
+
+M: ngekelafuy pu peñi 							
+C: no habia pues hermano
+
+M: ngekelafuy pikefuy								
+C: no había decian
+
+M: tañi fücha awelu 								
+C: mis abuelos
+										
+M: kiñe feyta fey 
+C: uno de estos
+
+M: kutranchewi 								
+C: se enfermaban
+
+M: taiñ chengen pikefuy tati peñi 					
+C: decian pues hermano
+
+M: porque delikautuy matetutuy che y					 C: porque se ponen delicada la gente con el mate	
+
+M: ka kürüftutuy che						
+C: el viento les proboca
+
+M: pafmutuy ka 									
+C: pamo tambien
+
+M: feyta rume kutran kautukefuy ta					  C: esto es demasiada enfermedad	
+
+M: femngechi ta kutranmu tati peñi 					
+C: de esta manera nos enfermamos pues hermano
+
+M: feypikefuy kuyfi ta							            C: decian esto antiguamente	
+
+M: feychi yagel ngekelafuy ka 
+C: de esa comida  no había
+
+nmlch-lmjmc1_1_0118_nmlch_00:				
+M: ngekelafuy 
+C: no existian
+
+nmlch-lmjmc1_1_0119_lmjmc_00: 
+M: fantenmu may ta 								
+C:  en estos momentos si
+
+M: <uh> re, re matemu ta							
+C:  por el mate
+
+M: reke mületuyiñ tati peñi 						
+C: estamos pues hermano
+
+M: feymu ta kontuy kutran pin 					             C. de esa 	manera pense que se enfermaban 
+
+M: müley ta, ta feula peñi 
+C: hay ahora hermano
+
+nmlch-lmjmc1_1_0120_nmlch_00: 
+M: newe yafü chengewetulay feula 
+C: No quedan personas sanas ahora
+
+nmlch-lmjmc1_1_0121_lmjmc_00:
+M: <*SPA>no, <*SPA>no fe <uh>. 
+C: no, no sé. 
+
+nmlch-lmjmc1_1_0122_nmlch_00:
+M: feyti ka <uh>									
+C: Eso también
+
+M: ka yagel mülepetulay ta peñi
+C: esa comida no hay hermano.
+
+nmlch-lmjmc1_1_0123_lmjmc_00:
+M: uh rumeñ mapu, 					
+C: demasiada tierra, 
+
+M: rumeñma yagelmu feet
+C: esopor demasiada comida  
+
+M: kontuy kutran pu peñi 						
+C: entraron enfermedades pues hermano
+
+M: kimlay ta taiñ chengen
+C: no sabemos las personas que somos 
+
+M: kimlay taiñ mapuñengen 						          C: no conocemos los que somos mapuches	
+
+M: chem yagel taiñ tuteunon <*SPA>pues <!1pu'>		 C: que comidas nos hace daño pues		
+
+M: fey ka pichi kutrantuyin tati 			
+C: y por eso nos enfermamos a veces pues
+
+M: <*SPA>porque fantenmu 							
+C: porque ahora
+
+M: ta itrofill wingka ta akuli 						 
+C:de todo trae el huinca	
+
+M: itrofill külase yagel pu peñi 						
+C: toda clase de comida pues hermano
+
+M: kiñe feymu ta 
+C: y por eso uno
+
+M: fey kutrantuy ta 									 C: se enferma
+
+M: taiñ mapuchengen 							
+C: los que somos mapuches 
+
+M: taiñ chengen peñi 								 C:somos personas hermano
+
+M: <*SPA>porque ngewelay ta						
+C: porque no hay
+
+M: pütrake newen yagel <*SPA>pues 					  C: muchas comidas con energía pues
+
+M: kuyfi mayta fentrelekefuy ta                                     
+C: antiguamente había bastante
+
+M: fütrake neyüne 								
+C: gran  respiración   
+
+M: newen yagel pikelefuy 				
+C: comidas con mucha energía decián	
+
+M: taiñ füchakeche fantenmu 							 C: nuestros antepasados, ahora	
+
+M: felewelay peñi 								
+C: no es igual hermano
+
+M: felewelay feymu ta 					 
+C: no es igual por eso		
+
+M: kutranchewiyiñ <*SPA>pues.
+C: somos enfermisos pues.
+
+nmlch-lmjmc1_1_0124_nmlch_00: 				
+M: <uh> kuyfi <uh> mülekepelafuy 					 C: antiguamente no había	
+
+M: doy mapu yagel ke <uh> 							
+C: mucha comida de la tierra
+
+M: feula fente ngewelay tüfa						 
+C: ahora no queda esto
+
+M: sengüll poñü napor								
+C: legumbres, papas, yuyos
+
+M: müllokiñ mültrün 								
+C: pancitos de legumbres, catutos
+
+M: femngelu, femngelu ikefuy.
+C: de esto, de esto comían.
+
+nmlch-lmjmc1_1_0125_lmjmc_00: 				
+M: fey llemay peñi 									  
+C: eso era hermano
+
+M: feyta re kuyfi ta 								
+C: esto antiguamente
+
+M: re napormu ta									 C: de yuyo no mas 		
+
+M: fey korükefuy napor ka						
+C: de comida de yuyo
+	
+M: mülekefuy ta mültrün 							 C: había catutos
+		
+
+M: kako kimwa 									 C: móte, ......
+
+M: müsay mülekefuy tati 							
+C: bebida había pues
+
+M: re newen yagel		
+C: solo comida con fortaleza,
+
+M: re *neyin che
+C: solo gente con energía								
+
+M: kimpafiñ tati peñi 								 C: lo conocí pues hermano			
+
+M: kimwa pingi tati									 C:					
+
+M: rüf muday ta
+C: puro muday 
+
+M: rüf chumngechi kümefuy tati		
+C: solo, como era bueno pues
+
+M: allfisa muday ah 								 C: muday de arvejas 	
+
+M: fantenmu mayta ngewelay 						
+ C: ahora no hay 
+
+M: feychi sungu peñi 								 C: esa situación hermano													
+M: ngewelay tati									 C: no hay pues	
+
+M:  fey awüngetuyiñ tati peñi							 C:	
+
+M: fantenmu feyta 	feychi yagel						
+C: ahora esto, esa comida
+ 
+M: iwelafiyiñ incheta 								   C: no ingerimos nosotros
+
+M: mültrüntu fentre kümentufuiñ tati					
+C: catutos bastante nos gustaba pues				
+
+M: napor korü ka 									 C: comida de yuyo	
+
+M: sengüll korü 									 C: comida hecha de legumbres		
+
+M: müllokiñ ka 									 C: pancitos de porotos				
+
+M: ikefuy ta che 									 C: comia  la gente			
+
+M: fentre newen ngekefuy tati peñi 
+C: bastante fuerza tenian pues hermano
+
+nmlch-lmjmc1_1_0126_nmlch_00:				
+M: Kuyfi 
+C: Antiguamente
+
+nmlch-lmjmc1_1_0127_lmjmc_00: 			
+M: Feychi yagel ta									 C:  Esas comidas  
+
+M: feymu ta fentren newen ngekefuy ta 				 C: de es forma tenian mucha fuerza			
+
+M: pütrakeche tati peñi 
+C: los antiguos pues hermano.
+
+nmlch-lmjmc1_1_0128_nmlch_00:					 M: ¡Aa!											
+C: ¡Aa!
+
+M: <P> mülekepefuy ka							
+C: esto había
+
+M: yagel mawisameu <uh> <%> 						 C: yagel en el bosque			
+
+M: changle y ta ngam fill trewolu%
+C: changle 
+
+nmlch-lmjmc1_1_0129_lmjmc_00:					 M: <uh> itrofill llemay ta mülekefuy 				
+C: De todo  habia		
+
+M: changle kalgal mülekefuy							
+C: changle, ......... habían
+
+M: pikefuy tati									
+C: decían pues
+
+M: inche kimpafiñ ka fey tati 							 C: yo supe eso pues	
+
+M: galgal fey	amuy ta								 
+C: galgal, eso  crece 
+
+M: kiñeptra montañamu		
+C: en grandes montañas 		
+
+M: che rüf kiñeptra munul 							 C: la gente un gran cantidad		
+
+M: küpaltuy changle 							
+C: de changle traía 
+
+M: pingey <!1pingi> feychi ta 						 C: decian eso 	
+
+M: feyta mapu yagel tati peñi							 C: esto en tierras de comestibles pues hermano				
+M: pütrümna newen ngekefuy peñi 
+C: por mucho rato tenían fuerza hermano.
+
+nmlch-lmjmc1_1_0130_nmlch_00: 				
+M: ¡Aa!
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0131_lmjmc_00:					 M: Fentre küme küme 								
+C: Mucho, muchisimo
+
+M: yafüwünfuy kuyfi tati 
+C: se fortalecía el paladar antiguamente pues.
+
+nmlch-lmjmc1_1_0132_nmlch_00:					 M: kalal chem küyenmu tripakey <!tripaki>
+C: Calal en que fecha aparecen.
+
+nmlch-lmjmc1_1_0133_lmjmc_00: 				
+M: Ese tüfi en agosto tripaki tati peñi 					 C: Ese en agosto aparece pues hermano 			
+
+M: agosto tripakefuy tati 							 C: en Agosto salia pues
+
+M: septiembre fey ngal ngal tati 						 C: Septiembre ese tipo de alimento salia pues 			
+
+M: fey empanakefuy ta 								 C: de eso hacian empanada
+
+M: füchakeche fey 						
+C: los antiguos de eso
+
+M: kanka tukefuy ka								
+C: hacian asados lo sacaban
+
+M: pikefuy tañi							
+C: decían nuestros 
+
+M: fütrakecheyem galgal 
+C: antepasados galgal.
+
+nmlch-lmjmc1_1_0134_nmlch_00:
+M: ¡Aa! 
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0135_lmjmc_00:				
+M: galgal fentre küme yagel tüfi pu'					 C:  galgal bastante buena comida era esto
+
+M: fentre küme yagel 								 C: bastante buena comida	
+
+M: fantenmu							
+C: en esto dias 
+
+M: may ta ngewelay tati peñi 
+C: no hay pues hermano 
+
+M: ngewelay tati
+C: no hay pues.
+
+nmlch-lmjmc1_1_0136_nmlch_00:
+M: lewer kay 
+C: Changle también
+
+nmlch-lmjmc1_1_0137_lmjmc_00:
+M: ¿chem? 
+C: ¿Que?.
+
+nmlch-lmjmc1_1_0138_nmlch_00:
+M: Lewür
+C: Changle
+
+nmlch-lmjmc1_1_0139_lmjmc_00: 			
+M: Lewür 
+C: Changle
+
+nmlch-lmjmc1_1_0140_nmlch_00:
+M: May 
+C: Si
+
+nmlch-lmjmc1_1_0141_lmjmc_00:
+M: feyta lewür 									
+C: esto es changle 
+
+M: chemchi feyta,								 
+C: esto que es,
+
+
+M: feyta kimpalafiñ peñi 
+C: esto no lo conosco hermano.
+
+nmlch-lmjmc1_1_0142_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0143_lmjmc_00:
+M: lewür, lewür 
+C: Changle, changle
+
+nmlch-lmjmc1_1_0144_nmlch_00:
+M: pichike tripaki 
+C: Crecen chiquititos
+
+M: wallentumu fantekekey <!1fantekeki>                                                      
+C: en los hualles de ese porte es.       
+
+nmlch-lmjmc1_1_0145_lmjmc_00:
+M: ¡Aa! 
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0146_nmlch_00:
+M: el changle femngey <!1femngi> 				
+C: el changle es así
+
+M: lewür pingey <!1pingi>
+C:  changle se llama
+
+nmlch-lmjmc1_1_0147_lmjmc_00:
+M: lewür ya, ya, ya, ya fey 							
+C: Changle ya, ya, ya, ya eso.
+
+M: feyta kuyfi kuyfi iñche kimpafiñ			
+C: esto antiguamente yo lo conoci
+
+M: kewün waka pingefuy 							 C:  lengua de vaca se llamaba
+
+M: ti igualke kewün,								 C: eso igual que lengua	
+
+M: kewün kulliñ küley <!1küli>
+C: similar a la lengua de vaca 
+
+jmc1_1_0148_lmjmc_00nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0149_lmjmc_00:					 M: fey iñche ka
+C: ese, yo   
+
+M: fey ifiñ tati pañi, ifiñ tati feypikefuy
+C: ese se termino pues hermano decian
+
+M: este lengua toro pikefuy 			
+C: este lengua de toro decian 
+
+
+M: tañi füchakecheyem 
+C: nuestros antepasados.
+
+nmlch-lmjmc1_1_0150_nmlch_00:
+M: Rume alün ikefuy								 
+C: Comian bastante
+
+M: iyagel iyagel mawisamu mülelu mülelu 				
+C: comida, comida esto hay en la montaña
+
+M: feymu peno 						
+C: de esa manera no
+
+M: fentre küme niefuy								
+C: hay bastante bueno
+
+M: mongen engün ka 
+C: buena salud.
+
+nmlch-lmjmc1_1_0151_lmjmc_00:	
+M: Fey llemay fey fey tati 						
+C: Eso, tambien hay eso, eso pues
+
+M: fentren küme mongenem 			
+C: bastante estan bueno 
+
+M: <*SPA>porque newen ngenmu newen mapu, 
+C: porque la fotaleza de la tierra,
+
+M: pu newen re newen yagel 						 
+C: la fortaleza de la tierra		
+
+M: mülefuy tati peñi 								
+C:  había pues hermano
+
+M: itrofill mülekefuy tati			
+C: de todo habia pues
+
+M: fey feyta feymu 									 C: eso, de esa manera 		
+
+M: feyta newen, newen külefuy 					
+C: esa fortaleza, fortaleza de nuestros
+
+M: füchakeche <*SPA>pues <!1pu'> 				
+C: antepasados pues
+
+M: newen külefuy füchakeche tati peñi 
+C: la fortaleza de nuestros antepasados pues hermano.
+
+nmlch-lmjmc1_1_0152_nmlch_00:
+M: feula femechi iyagel iwetulay 
+C: ahora de esa comida. no se come.
+
+nmlch-lmjmc1_1_0153_lmjmc_00:
+M: <*SPA>no, <*SPA>no, <*SPA>no ngewelay peñi 
+C: no, no, no hay hermano
+
+M: ngewelay tati 
+C: no queda pues
+
+M: fantenmu feyta fey 
+C: esto tiempos esto
+
+M: femngechi feyta kutranki 			
+C: de esa manera los antiguos	
+
+M: <*SPA>asi fey amutuki ñi <*SPA>hospitalmeu 	
+C: así ibamos al hospital	
+
+M: fey ka											
+C: eso 
+
+M: amutuy ñi postamu fey 					
+C: ibamos a la posta eso
+
+M: femngechi feyta ka 
+C: de esa manera
+
+M: fey femngechi yagel			
+C: esto, esa comida
+
+M: may ipefi ka								
+C: sí de eso se comia
+
+M: pingiyiñ tati 
+C: decian pues
+
+M: feyta kimlay ta 							
+C: eso no se sabía
+
+M: chemu rulmewün ta 					
+C: 
+
+M: feula tati peñi 
+C: ahora pues hermano
+
+M:<*SPA>porque fentren iyagel					
+C: porque bastante comida
+
+M: mületuy feula									
+C: hay ahora
+
+M: wingka iyagel peñi 							
+C: la comida chilena hermano
+
+M: wingka iyagel 
+C: la comida del chileno.
+
+nmlch-lmjmc1_1_0154_nmlch_00:
+M: Wingka iyagel 								
+C: Comida chilena
+
+M: kuyfi seyukelafuy 						
+C: antiguamente no se mezclaba
+
+M: femngechi yagel 
+C: de esa comida.
+
+nmlch-lmjmc1_1_0155_lmjmc_00: 
+M: <*SPA>no, <*SPA>no, <*SPA>no, <*SPA>no
+C: No, no, no, no
+
+M: kuyfi ta 								
+C: antiguamente
+
+M: iñche kimpafiñ ta							
+C: yo sabía
+
+M: tüfichi kachilla fey					
+C: de ese trigo eso
+
+M: ella telton pingekefuy tati 							 C: ella  trotaba le decian pues
+
+M: fey afüm kachilla korüngekefuy 					 C: el trigo cocido lo sacaban al viento	
+
+M: buu feyta 									
+C: esto
+
+M: fentre newen ngekefuy peñi 						 C: tenia bastante fortaleza hermano	
+
+M: fentre newen ngekefuy kuseke papay				 C: tenian bastante fortaleza las antiguas hermana 
+
+M: adümkakefuy fey 							
+C: aprendian eso
+
+M: femngechi feyta ka
+C: de esa manera 
+
+M: mültrün tukefuyiñ 								
+C: comiamos catutos
+
+M: todo <*SPA>eso fey 							
+C.de todo eso 
+
+M: femngechi ikefuyiñ tati peñi 
+C: de esa manera comiamos pues hermano.
+
+nmlch-lmjmc1_1_0156_nmlch_00:
+M: Feyti kiñe yagel müley <!1müli> ka			
+C: De ese alimento había
+
+M: lafkenmu fey 								
+C: en el mar 
+
+M: entrekeli iyagel								
+C: había bastante alimento
+
+M: lafkenmu ikefuymün kay 						
+C: comiamos alimentos del mar
+
+M: lafken iyagel 
+C: comida del mar.
+
+nmlch-lmjmc1_1_0157_lmjmc_00:
+M: kuyfi
+C: Antiguamente.
+
+nmlch-lmjmc1_1_0158_nmlch_00:
+M: may 
+C: Si.
+
+nmlch-lmjmc1_1_0159_lmjmc_00:
+M: kuyfi ta 								
+C: Antiguamente 
+
+M: <*SPA>no ikelafuyiñ ka 				
+C: no comian 
+
+M: ikelafuyiñ kimlafuyiñ							 C: no comian porque no lo conociamos				
+
+M: tüfichi l'awen' <*SPA>pu' 
+C: de este remedio pues
+
+M: tichi yagel				
+C: cuál comida 
+
+M: feula mayta tripapay tüfi peñi 
+C: ahora está saliendo esto hermano
+
+M: fey femuechi kimtufiyiñ fey 				
+C: de esta manera lo buscamos 
+
+M: mungu pingey
+C:  musgo le dicen
+
+M: yuche pingey feet
+C: luche le dicen esto
+
+M: müna küme yagel ka 							
+C: bastante buena comida 
+
+M: fey tati peñi
+C: es esto pues hermano
+
+M: fantenmu feyta 								
+C:  ahora esto
+
+M: pichike ngillakefiyiñ 
+C: poco lo compramos
+
+M: <*SPA>pero kuyfi feychi, 					
+C: pero antiguamente eso,
+
+M: feyta kimlafuyiñ ka		
+C: esto no lo conocian
+
+M: kimlafuyiñ fey				
+C: no lo conociamos eso
+
+M: re mapul yagel müten 			
+C: comida solamente de la tierra 
+
+M: kim ikefuyiñ peñi 
+C: conociamos hermano.
+
+nmlch-lmjmc1_1_0160_nmlch_00:	
+M: lafken fentre niefuy yagel						 
+C: El mar tiene bastante comida 
+
+M: ka pingey tati 
+C: tambié se dice pues.
+
+nmlch-lmjmc1_1_0161_lmjmc_00:
+M: <uhm> <*SPA>ese chem yagel				
+C: Ese tipo de comida
+
+M: lam mülepetulay 
+C: debe haber. 
+
+nmlch-lmjmc1_1_0162_nmlch_00: 	
+M: Challwa kütu 
+C: Hasta pescado. 
+
+nmlch-lmjmc1_1_0163_lmjmc_00:
+M: itro fill may peñi 		
+C: De todo tipo, si hermano
+
+M: loko müley ta tüfi 					
+C: cabeza habia 
+
+M: <*SPA>eso challwa pingey 			
+C: eso. Pescado le dicen
+
+M: mungu luche lümfü itrofill 						
+C: mudgo, luche, hongos comestible de todo
+
+M: chem yagel lam mületulay 					
+C: de toda comida hay ahora 
+
+M: lafkeñ peñi 	
+C: en el mar hermano
+
+M: feyke ta ni ta yagel tati 
+C: de esa comida pues
+
+M: lafken, lafken			
+C: el mar, mar
+
+M: ta fentreni yagel 							
+C: hay bastante comida
+
+M: kümeke iyagel feyta 
+C: buena comida es esto
+
+M: <*SPA>medicina pingey tati
+C: medicina le decian pues
+
+M: <*SPA>medicina <*SPA>porque tüfey ta			
+C: medicina porque esto le decian
+M: challwa tulu 								
+C:lo pescaban pescado 
+
+M: itro fill lafken ilu					
+C: en el mar, de todo había 
+
+M: feyta motritukey <!1motrituki> tati peñi 
+C: esto engordaba pues hermano
+
+nmlch-lmjmc1_1_0164_nmlch_00:
+M: ¡Aa!
+C: ¡Aa!
+
+nmlch-lmjmc1_1_0165_lmjmc_00:
+M: motritukey <!1motrituki> 
+C: engordaba
+
+nmlch-lmjmc1_1_0166_nmlch_00:
+M: kümeke iyagel ta ni mapu	
+C: Buena comida da nuestras tierras
+
+M: feymu iñchiñ			
+C: de esta manera 
+
+M: mapuchengenmu küme <uh> mongen niekepelafuyiñ 
+C: ser mapuche de buena salud gosamos
+
+nmlch-lmjmc1_1_0167_lmjmc_00: 
+M: fey llemay peñi fey, fey, fey 
+C: De esa manera hermano es, es, es.
+
+nmlch-lmjmc1_1_0168_nmlch_00: 
+M: feyti kay peñi 
+C: Esto es hermano
+
+M: tüfi kuyfi <uh> kuyfi 		
+C: esto antiguamente
+
+M: chem wesake kutran soy rupay 		
+C: que tipo de enfermedad más existian 
+
+M: tami mongenmu 
+C: en tú vida
+ 
+M: kuyfi tami pu lof 
+C: antiguamente pues en tú lugar 
+
+M: <uh> rupay pülañ tüfi 	
+C: eso pasaba no pude con eso 
+
+M: tifu kam rupaychi tüfey <uh> 
+C: el tifú tambien pasaba 
+
+M: tüfinga chem pingekey ama <uh> 	
+C: eso tambien se llamaba 
+
+M: tifu fillpüle tripakey 
+C: el tifú en todas partes salia
+
+nmlch-lmjmc1_1_0169_lmjmc_00:
+M: May, may fey llemay ta tüfi 	
+C: Si, si eso como se llamaba 
+M: kuyfi may peñi						
+C: antiguamente hermano
+
+M: feyta rüpay ta tüfi fey			
+C: esto pasaba y eso pues
+
+M: challa ka	
+C: por la olla también
+
+M: pirkefuy tati 
+C: decían pues
+
+M: fey ngekelafuy l'awen' 		
+C: ese remedio no habían
+
+M: fey afi 
+C: eso se termino 
+
+M: nga taiñ cuerpu y 
+C: nuestro cuerpo y
+
+M: ngekelafuy rume <*SPA>postatu ti peñi
+C: no había demaciada posta pues hermano
+
+M: feyta challaka pi ta wingka 
+C: esta challaka dice el huinca
+
+nmlch-lmjmc1_1_0170_nmlch_00:
+M: Puñu 
+C: Sarna.
+
+nmlch-lmjmc1_1_0171_lmjmc_00: 
+M: Püñu, püñu tati
+C: Sarna, sarna pues
+
+M: fey fey fey püñu llemay tati 
+C: eso, eso es sarna se llama pues
+
+M: püñu, femuechi ta rupay tati	
+C: la sarna de esa forma paso pues
+
+M: fentren fey ngekelafuy l'awen' tati 
+C: no había  bastante remedio pues hermano
+
+M: peñi feyta wingka fey mülepatuy <*SPA>posta
+C: de esta manera esos huinca están en la posta
+
+M: feula fey mongekefuy che tati
+C: ahora de esa modo se mejoran las personas pues
+
+M: püñu, <hm>  püñu tati peñi.      
+C: sarna, sarna  pues hermano.
+
+
+
+   
+    

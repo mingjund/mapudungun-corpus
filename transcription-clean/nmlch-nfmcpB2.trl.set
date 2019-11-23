@@ -1,0 +1,10 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nmlch-nfmcpB2_x_%04d_nmlch_00
+nmlch
+nmlch-nfmcpB2_x_%04d_nfmcp_00
+nfmcp
+UserLables: 0
+LableMenuFile
+C:\Program Files\TransEdit\trl-vm-win1.mnu

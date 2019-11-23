@@ -1,0 +1,1791 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmjctB1 
+; Last changes made on 01/27/2002 
+; Transcriber: Cristian C. Anton. 
+; Comments:  
+; Traduce: Graciela Cabral.
+
+nmlch-pmjctB1_x_0000_nmlch_00: 
+M: Mari mari peñi.
+C: Buenos días hermano.
+
+nmlch-pmjctB1_x_0001_pmjct_00: 
+M: Mari mari.
+C: Buenos días.
+
+nmlch-pmjctB1_x_0002_nmlch_00: 
+M: ¿Chumlimi anta tüfa?
+C: ¿Cómo estas ahora?.
+
+nmlch-pmjctB1_x_0003_pmjct_00: 
+M: Kümelkalen.
+C: Estoy bien.
+
+nmlch-pmjctB1_x_0004_nmlch_00: 
+M: Kümelkalimi ka.
+C: Está bien si.
+
+nmlch-pmjctB1_x_0005_pmjct_00: 
+M: May 
+C: Sí.
+
+M: Kümelkalen.
+C: Estoy bien.
+
+nmlch-pmjctB1_x_0006_nmlch_00: 
+M: <*SPA>Y ¿ini pingimiam peñi eymi tüfa?.
+C: Y ¿cómo se llama hermano usted?.
+
+
+nmlch-pmjctB1_x_0007_pmjct_00: 
+M: Jose Cayuqueo Torre pingen.
+C: Jose Cayuqueo Torre me llamo.
+
+nmlch-pmjctB1_x_0008_nmlch_00: 
+M: ¿Jose Cayuqueo Torre? 
+C: ¿Jose Cayuqueo Torre? 
+
+M: chewpüle müli tami mapu tüfi?
+C: en qué parte esta tu tierra esto?
+
+nmlch-pmjctB1_x_0009_pmjct_00: 
+M: Icalma. 
+C: Icalma.
+
+nmlch-pmjctB1_x_0010_nmlch_00: 
+M: Icalma pingi.
+C: Icalma se llama.
+
+nmlch-pmjctB1_x_0011_pmjct_00: 
+M: May.
+C: Sí.
+
+M: Icalma.
+C: Icalma.
+
+nmlch-pmjctB1_x_0012_nmlch_00:
+M: <uh> Winkul tüfi ka.
+C: Es cerro eso pues.
+
+nmlch-pmjctB1_x_0013_pmjct_00: 
+M: Winkul püta winkul. 
+C: Es cerro gran cerro.
+
+nmlch-pmjctB1_x_0014_nmlch_00: 
+M: Püta winkul tüfey <uh> Icalma 
+C: Gran cerro es Icalma 
+
+M: feytichi püta winkul ta lof tüfey.
+C: ese gran cerro es comunidad es.
+nmlch-pmjctB1_x_0015_pmjct_00:
+M: May.
+C: Sí.
+
+M: kiñe lof che.
+C: una comunidad de gente.
+
+nmlch-pmjctB1_x_0016_nmlch_00: 
+M: Kiñe lof che.
+C: Una comunidad de gente.
+
+nmlch-pmjctB1_x_0017_pmjct_00: 
+M: May.
+C: Sí.
+
+M: Kiñe lof.
+C: Una comunidad.
+
+nmlch-pmjctB1_x_0018_nmlch_00: 
+M: Feytichi lof <uh> 
+C: Esa comunidad 
+
+M: re eymüm tamün mapuche pewenche müli feymu.
+C: puro ustedes que son mapuche pehuenche hay ahí.
+
+nmlch-pmjctB1_x_0019_pmjct_00:
+M: May.
+C: Sí.
+
+nmlch-pmjctB1_x_0020_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+M: Nimüm ta lof tamüm feyentun.
+C: ..............la comunidad, obedecer.
+
+nmlch-pmjctB1_x_0021_pmjct_00:
+M: May 
+C: Sí.
+M: Veli.
+C: Así es.
+
+nmlch-pmjctB1_x_0022_nmlch_00: 
+M: ¿Kuyfi tamün mülen ta feymu?.
+C: ¿Ante que estan ahí?.
+
+nmlch-pmjctB1_x_0023_pmjct_00: 
+M: May 
+C: Sí.
+
+M: Kuyfi trempayin 
+C: Ante vinimos a crecer 
+
+M: vey allküpafiyin kuyfi ñi velen.
+C: entonces vinimos a escuchar ante que esta así.
+
+nmlch-pmjctB1_x_0024_nmlch_00: 
+M: Tami chaw 
+C: Tú padre 
+
+M: tami awelu kom mülefuy feymu.
+C: tú padre todos estaban ahí.
+
+nmlch-pmjctB1_x_0025_pmjct_00: 
+M: May kom.
+C: Sí todos.
+
+nmlch-pmjctB1_x_0026_nmlch_00: 
+M: ¡Ah!. <uh> 
+C: ¡Ah!.
+
+M: Femngechi ta niekefuymün 
+C: De esa manera tenían ellos 
+
+M: feyentun kom ta ngillatun 
+C: obedencia todos, ngillatun 
+
+M: kom femekefimün ka.
+C: todos lo tienen así pues. 
+nmlch-pmjctB1_x_0027_pmjct_00: 
+M: May.
+C: Sí.
+
+M: Veleki y velewi tüva ka.
+C: Así estaba y esta así ahora pues.
+
+nmlch-pmjctB1_x_0028_nmlch_00: 
+M: Felerpuy. 
+C: Sigue así.
+
+nmlch-pmjctB1_x_0029_pmjct_00: 
+M: Velewpuy petu, petu 
+C: Sigue así todavía, todavía 
+
+M: velewpuy ngillatun 
+C: sigue así el ngillatun 
+
+M: y müleki fill tripantu 
+C: y hay todos los años 
+
+M: müleki ngillatun.
+C: hay ngillatun.
+
+nmlch-pmjctB1_x_0030_nmlch_00: 
+M: <uh> ¿Chumlekefuy tamün kuyfi?
+C: ¿Cómo estaban sus.... ante?
+
+M: ngekenofulu waria 
+C: si no había cuidad 
+
+M: chumngechi lekefuy chi kuyfi 
+C: como sera ante 
+
+M: chem waria chi müli doy kuyfi.
+C: que cuidad existia más ante.
+
+nmlch-pmjctB1_x_0031_pmjct_00: 
+M: Kuyfipumu 
+C: Antiguamente 
+M: vey tüvachi waria 
+C: entonces esta ciudad 
+
+M: tüva lonkimay <uh> 
+C: este Lonquimay 
+
+M: ka meli pewko pingi 
+C: también Melipeuco se llama 
+
+M: feyta doy pichi tripalekevuy kuyfika.
+C: ese era más cerca ante pues.
+
+nmlch-pmjctB1_x_0032_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Fey.
+C: Eso.
+
+nmlch-pmjctB1_x_0033_pmjct_00: 
+M: May. 
+C: Sí.
+
+M: Fey <*SPA>porque am ngillal yagel che 
+C: Eso porque como compra comida la gente 
+
+M: vey kawell pürakawellki 
+C: entonces montan caballo 
+
+M: veyta küpaki tüvachi mapumu 
+C: entonces vinie en esta tierra 
+
+M: lonkimay pingechi mapumu.
+C: Lonquimay se llama en la tierra.
+
+nmlch-pmjctB1_x_0034_nmlch_00: 
+M: ¿Chumngelu chi lonquimay pingi?
+C: ¿Por qué sera que se llama Lonquimay?
+
+M: tüvachi waria tüva.
+C: esta cuidad este.
+
+nmlch-pmjctB1_x_0035_pmjct_00: 
+M: Feyta inche ta küme kimlafin 
+C: Eso yo no lo se bien 
+
+M: chemu tañi lonquimay pingen 
+C: porque se llamo Lonquimay 
+
+M: kiñekentu vey kewa <uh> küpalu 
+C: algunos eso malo cuando vino 
+
+M: regimianto pikingün 
+C: regimiento dicen 
+
+M: veyta langümkangepay lonko 
+C: entonces vinieron a matar jefe 
+
+M: langüm yengepay 
+C: lo vinieron a matar 
+
+M: veymu ta kiñe, kiñe che 
+C: por eso una gente, una gente 
+
+M: vey veypi lonko
+C: entonces dijo el jefe 
+
+M: may ñi kutrankawal pi pilu 
+C: sí para sufrir dijo, cuando dijo 
+
+M: veymu veyti pu soltaw piam 
+C: ahí eso los soldados entonces 
+
+M: vey lonquimay pin 
+C: eso Lonquimay dije
+
+M: tukuy piam tüvachi mapu pin 
+C: coloco dicen esta tierra dije 
+
+M: veychi vemechi dungu allküpakiyin ka 
+C: ese, esa cosa vinieron a escuchar pues 
+
+M: pero küme kimngelay 
+C: pero no sabe bien 
+
+M: chemu tañi lonkimay pingen 
+C: porque se llamó Lonquimay 
+
+M: y aguno vey ka kiñekentu vey.
+C: y algunos eso también alguno eso...
+
+nmlch-pmjctB1_x_0036_pmjct_00: 
+M: Velelay veymu <*SPA> no pikingün pero.
+C: No es así, por eso no dicen, pero.
+
+nmlch-pmjctB1_x_0037_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+M: Lonko may ñi kutran kawal 
+C: Jefe si sufrio 
+
+M: feymu feyta lonkimay pi ta soltaw. 
+C: es por eso entonces Longuimay dice los soldados.
+
+nmlch-pmjctB1_x_0038_pmjct_00: 
+M: May.
+C: Sí.
+
+nmlch-pmjctB1_x_0039_nmlch_00: 
+M: ¿Fey ka chumngechi chi pingeki tüfey 
+C: ¿Eso también como se llamara eso?
+
+M: chumngelu chi pingekefuy 
+C: porque sera que se llamara así
+
+M: ka chumngeluchi ka 
+C: también porque  pues
+
+M: feypingekefuy lonkomay 
+C: se llamaba loncomay 
+
+M: ñi kutrankawünmu 
+C: por haber sufrido 
+
+M: fey ka chemu chi fey. 
+C: eso también porque era pues.
+
+nmlch-pmjctB1_x_0040_pmjct_00: 
+M: Vey kimngele doy
+C: Eso si se sabe más
+
+M: chumngechi tañi lonquimay pin 
+C: como se dijo Lonquimay 
+
+M: tukulelnguen y  <*SPA>
+C: se le coloco y, 
+
+M: pero mawmeno vemngechi tañi pin 
+C: pero más menos así dijo 
+
+M: lonko kuyfi mun 
+C: jefe ante pues 
+
+M: vey chem dumgumu rume 
+C: eso en cualquier cosa pues 
+
+M: apuru dungumu o <uh> weda sungumu 
+C: en cosa apurado o en cosa mala 
+
+M: vey lonkom 
+C: eso jefe 
+
+M: vey wüne konki itrokom dungumu 
+C: entonces entra en todas las cosas 
+
+M: pinmu mülelu 
+C: por su propia desición esta 
+
+M: veyta vey lonko 
+C: entonces es  jefe 
+
+M: vey ñi ngütramkayal winkamu 
+C: eso paraconversar con los huinca 
+
+M: veymu ta lonquimay 
+C: por eso es Lonquimay 
+
+M: pintukulelngi pi vemechi  
+C: se le coloco dijo así
+
+M: <*SPA> porque  <*SPA>entrevista pilay winka 
+C: porque entrevista no dice huinca 
+
+M: veyta  <*SPA>entrevista yalu 
+C: entonces va hacer entrevista 
+
+M: vey lonko  <*SPA>tenia  <*SPA>que.  
+C: entonces jefe tiena que...
+
+nmlch-pmjctB1_x_0041_pmjct_00: 
+M: <*SPA>Entrevistar <Noise>.
+C: Entrevistar.
+
+nmlch-pmjctB1_x_0042_nmlch_00:
+M: Fey pi 
+C: Eso dijo 
+
+M: pilelfimi welu <*SPA> no.
+C: se lo dijiste no.
+
+nmlch-pmjctB1_x_0043_pmjct_00: 
+M: Veli pu'.
+C: Así pues. 
+
+nmlch-pmjctB1_x_0044_nmlch_00: 
+M: Kom <uh> winka wesake allküy 
+C: Todo huinca escuchaban mal 
+
+M: ka wesake tukuy pu'.
+C: también colocan mal pues.
+
+nmlch-pmjctB1_x_0045_pmjct_00:  
+M: <*SPA>Claro.
+C: Claro.
+
+nmlch-pmjctB1_x_0046_nmlch_00: 
+M: Wesa allküy
+C: Escucha mal
+
+M: fey wesa tukuy tüfika.
+C: entonces coloco mal esto pues.
+
+nmlch-pmjctB1_x_0047_pmjct_00: 
+M: Femi ka femi.
+C: Eso pues, eso.
+
+nmlch-pmjctB1_x_0048_nmlch_00: 
+M: <uh> Lonko may tañi dungual 
+C: El jefe si tiene  que hablar 
+
+M: vey pi mapuche 
+C: eso dice mapuche 
+
+M: veytamu fey kisu engün 
+C: aquí entonces ellos solo 
+
+M: fey lonquimay pingün.
+C: eso Lonquimay lo llamaron.
+
+jctB1_x_0050_nmlch_00pmjct_00: 
+M: Veymu ta lonquimay pingi.
+C: Por eso Lonquimay se llama.
+
+nmlch-pmjctB1_x_0051_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+ 
+M: Vey melipeuco pingi 
+C: Eso melipeuco se llama 
+M: ¿chumngelu chi veypingi chi mapu' tüfi?.
+C: ¿por qué será se llamara la tierra es?.
+
+nmlch-pmjctB1_x_0052_pmjct_00: 
+M: Melipeuco 
+C: Melipeuco.
+
+M: veyka meli peuku pilam paysanu 
+C: eso también Melipeuco no dicen los paysano 
+
+M: meli pewku vey 
+C: Melipeuco eso 
+
+M: veyta küme kimlavin 
+C: eso no lo sé bien 
+
+M: chemu tañi meli pewku pingen  <*SPA>
+C: porque se llamo Melipeuco,
+
+M: pero pewko veyta.
+C: pero peuco eso ...
+
+jctB1_x_0053_pmjct_00nmlch_00: 
+M: Üñüm.
+C: Pájaro.
+
+nmlch-pmjctB1_x_0054_pmjct_00: 
+M: Üñüm ka kokori o pewku.
+C: Pájaro también cocori o peuco.
+
+nmlch-pmjctB1_x_0055_nmlch_00: 
+M: ¿Feychi <uh> meli peucomu 
+C: ¿En ese Melipeuco 
+
+M: fey kimlafimi chumngelu 
+C: eso no lo sabe porque 
+
+M: feypingen?.
+C: se llama así?.
+
+nmlch-pmjctB1_x_0056_pmjct_00: 
+M: <*SPA> No chemu tañi meli peuco pin 
+C: No, porque habrá dicho Melipeuco 
+
+M: tukulelngen 
+C: se le coloco 
+
+M: veyta kimlavin ta mapu mapuchengen 
+C: entonces no lo sé la tierra, si es mapuche 
+
+M: mapuche üymu.
+C: en nombre mapuche.
+
+nmlch-pmjctB1_x_0057_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Feytichi icalma meu <uh>
+C: Ese Icalma pues 
+
+M: müli ta kiñe lewfü tüfi ta winkul meu .
+C: hay un río en este cerro pues.
+
+nmlch-pmjctB1_x_0058_pmjct_00: 
+M: May.
+C: Sí.
+
+nmlch-pmjctB1_x_0059_nmlch_00: 
+M: Fey ¿chumngelu chi feli tüfichi ko? 
+C: Eso ¿por qué será que esta así esa agua?
+
+M: ¿kuyfi tañi mülen felen?.
+C: ¿ante que esta así, esta?.
+
+nmlch-pmjctB1_x_0060_pmjct_00:
+M: Kuyfi felewpun 
+C: Ante esta así 
+
+M: fentenmu velen 
+C: hasta ahora sigue así 
+
+M: chumngechi velen 
+C: la forma que esta 
+
+M: veli kuyfipumu ñi velen.
+C: esta así, antiguamente que esta así.
+
+nmlch-pmjctB1_x_0061_nmlch_00: 
+M: Winkul muam 
+C: En el cerro pues 
+
+M: feyta pichi <uh> rakisuam mün ngi 
+C: entonces hace pensar un poco 
+
+M: ¿chumngelu tañi winkulmu mülen ko? 
+C: ¿Por qué esta en el cerro el agua?
+
+M: veyta llisamu rume ngekelay 
+C: entonces ...........no existe 
+
+M: kiñekemu winkulmu müli welu.
+C: algunas veces en los cerros existe. 
+
+1_x_0062_nmlch_00025_pmjct_00: 
+M: Veli pu'.
+C: Así es pues.
+
+nmlch-pmjctB1_x_0063_nmlch_00: 
+M: ¿Chumechi pikimün eymün tüfey?.
+C: ¿Cómo saben ustedes eso?.
+
+nmlch-pmjctB1_x_0064_pmjct_00: 
+M: Wenu veyta 
+C: Primero entonces
+
+M: vey chaw ngünechen ñi vem kunun piki
+C: eso padre Ngünechen que lo dejo así dice 
+
+M: tañi chengen ka 
+C: que es persona pues 
+
+M: veyta velen ngün ñi vemnetew tati 
+C: entonces así estoy, que me tiene así pues 
+
+M: ko winkulmu veli. 
+C: agua en el cerro hay.
+
+nmlch-pmjctB1_x_0065_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: ¿Feyti welu illkutuchekelay tüfi?.
+C: ¿Eso, pero no molesta la gente eso?.
+
+nmlch-pmjctB1_x_0066_pmjct_00: 
+M: <*SPA> No.
+C: No.
+
+nmlch-pmjctB1_x_0067_nmlch_00: 
+M: Nieki newen 
+C: Tiene fuerza 
+
+M: eymi tami rakiduam mu 
+C: usted en su pensamiento 
+
+M: eymi ta mi kimün mu kay peñi 
+C: usted en su conocimiento si hermano 
+
+M: chem pikefimi chi ko 
+C: que le dice el agua 
+
+M: tüfey niepi l'awen' kay 
+C: y eso tendrá remedio si 
+
+M: niepi ta ngüneluwün.
+C: tendrá dueño.
+
+nmlch-pmjctB1_x_0068_pmjct_00: 
+M: Veli ngen ngüneluwün ka  <*SPA>
+C: Así esta el dueño el que hace pensar pues 
+
+M: pero  kichuntañi chengen <uh>
+C: pero solo él que es...
+
+M: mapuchengen y pewenche 
+C: que es mapuche y pehuenche 
+
+M: machi mawida chengen <uh> 
+C: machi montaña que es ...
+
+M: kuyfi itrokom che amuyin ngülliw 
+C: ante todos las gentes fueron ha buscar piñones 
+
+M: wal mawidamu pürayin 
+C: en la punta de la montaña subimos 
+
+M: montaña mu pewenentumu amukiyin 
+C: en la montaña en las araucarias ibamos 
+
+M: vey ngellipukiyin 
+C: entonces hacemos ngellipun 
+
+M: ka <uh> ngellipukefiyin ngüne 
+C: también le hacemos ngellipu primero 
+
+M: itrokom ngünechen ngüne 
+C: todos primero a Ngünechen 
+
+M: mapun ngüne 
+C: tierra que controla 
+
+M: mawisa ngüne montaña 
+C: el dueño de la montaña 
+
+M: vey itrokom ngellipuki taiñ chaw taiñ ñuke.
+C: entonces todos le hace ngellipun nuestro padre, nuestro padre.
+
+nmlch-pmjctB1_x_0069_pmjct_00: 
+M: Veychi inasuamün 
+C: Esa veces me di cuenta 
+
+M: vemnen piwkemu ka.
+C: lo tengo así en el corazon pues.
+
+nmlch-pmjctB1_x_0070_nmlch_00: 
+M: Feymu kayñetukelaymün mu pe ti.
+C: Por eso creo que no lo toma mal pues.
+
+nmlch-pmjctB1_x_0071_pmjct_00:
+M: <*SPA> No kaiñetukelayinmu 
+C: No, no lo toma mal 
+
+M: inchin rume kaiñetukelafiyin.
+C: nosotros tampoco lo tomamo mal.
+
+nmlch-pmjctB1_x_0072_nmlch_00: 
+M: Müñetuki che 
+C: Se baña la gente 
+
+M: rumeale che veymu.
+C: cuando va pasar la gente ahí.
+
+nmlch-pmjctB1_x_0073_pmjct_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Müñetuki. 
+C: Se baña.
+
+nmlch-pmjctB1_x_0074_nmlch_00: 
+M: Ini rume lakelay. 
+C: Nadien se muere.
+
+nmlch-pmjctB1_x_0075_pmjct_00: 
+M: <*SPA> No vemkelay.
+C: No, no sucede eso.
+
+nmlch-pmjctB1_x_0076_nmlch_00: 
+M: Alükepi.
+C: El que escucha. 
+
+nmlch-pmjctB1_x_0077_pmjct_00: 
+M: <uh> Parte müten müli alükechi raudal  
+C: Parte no más hay el que escucha raudal 
+
+M: <*SPA> pero famngen ta pichikeki ko 
+C: pero esta fecha esta chico el agua 
+
+M: re raudal mu müten müli 
+C: en puro raudal no más hay 
+
+M: pichi alükechi pero.
+C: un poco grande esta, pero.
+
+nmlch-pmjctB1_x_0078_nmlch_00: 
+M: ¿Chum chekelay?.
+C: ¿No hace nada?.
+
+nmlch-pmjctB1_x_0079_pmjct_00: 
+M: <*SPA> No chum chekelay.
+C: No hace nada la gente.
+
+nmlch-pmjctB1_x_0080_nmlch_00: 
+M: ¿Müleki kay kiñekemu 
+C: ¿Hay algunas veces 
+
+M: ka müleki ta mapuchemu 
+C: también existe en mapuche 
+
+M: kimün müleki ta 
+C: conocimiento hay pues
+
+M: ngütram allküki che 
+C: conversación escucha la persona 
+
+M: peri montun müleki
+C: visiones sobre naturales habido
+
+M: feypüle kay komeu mawisameu <uh> 
+C: por esa parte del agua, en la montaña 
+
+M: allkükelaymün poñi.
+C: no escucha papa.
+
+nmlch-pmjctB1_x_0081_pmjct_00: 
+M: Perimontun kutran 
+C: Enfrmedad sobre natural 
+
+M: veyta veleki pu' 
+C: entonces ha estado así pues 
+
+M: pin ta feli ka <uh> 
+C: l dicho esta así pues 
+
+M: inche tañi ñuke 
+C: mi nuestra madre 
+
+M: vey niefuy ta perimontu kutran ta 
+C: ella tenia la enfermedad de visión sobrenatural 
+
+M: nien pikefi petu pichi dimongelu 
+C: tengo le dicia todavía cuando era niña
+
+M: inche <uh> kiñe kechu mari 
+C: yo uno cincuenta 
+
+M: osea mari kechu tripantu nen chi <uh> 
+C: o sea quince años tendré pues 
+
+M: perimontun pen 
+C: encontre visión sobre natural 
+
+M: kiñe kullin kiñepchi komu 
+C: un animal en un agua pico 
+
+M: rupawe ngelu mu 
+C: donde se pasaba 
+
+M: pen kiñe kullin 
+C: encontre un animal 
+
+M: feyta tentanew 
+C: entonces me persiguio 
+
+M: vey rupatuy ñi duam 
+C: entonces paso mi sentido 
+
+M: vey kimwetulan 
+C: en eso entonces no supe más 
+
+M: vey despue alün mu wüla kim kontun 
+C: entonces después un buen rato recién reacciones 
+
+M: vey komu inako tranalerken kimkontun.
+C: entonces en el agua, a la orilla del agua estaba botada reacciones.
+
+nmlch-pmjctB1_x_0082_pmjct_00: 
+M: Vey chi penürpatun kutran 
+C: Esa ves encontre la enfermedad 
+
+M: vey yeyu ka tañi.
+C: ahí ayuda también mi.
+
+nmlch-pmjctB1_x_0083_nmlch_00: 
+M: Feychi perimontun kutran.
+C: Esa enfermedad de visión sobrenatural.
+
+nmlch-pmjctB1_x_0084_pmjct_00: 
+M: May. 
+C: Sí.
+
+nmlch-pmjctB1_x_0085_nmlch_00: 
+M: Feychimu may tüfey 
+C: Esa ves si eso 
+
+M: feyti meno komu fel.
+C: eso en pantano de agua era.
+
+nmlch-pmjctB1_x_0086_pmjct_00: 
+M: Kiñe wuf komu  kiñepchi wüf komu 
+C: Un ...........de agua un ....agua chica 
+nmlch-pmjctB1_x_0087_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+M: Wüf komu.
+C: ... de agua.
+
+nmlch-pmjctB1_x_0088_pmjct_00: 
+M: May.
+C: Sí.
+
+nmlch-pmjctB1_x_0089_nmlch_00: 
+M: Welu eymi 
+C: Pero usted 
+
+M: feyta fentre nietuymi ta tripantu dewma 
+C: entonces ya tiene mucho años ya 
+
+M: nieymi ta feyentun 
+C: tiene pues obedencia 
+
+M: müleperki may ta perimontun 
+C: hay entonces visiones sobrenaturales 
+
+M: tüfa mapumeu 
+C: en esta tierra 
+
+nmlch-pmjctB1_x_0090_pmjct_00: 
+M: Müli.
+C: Hay.
+
+nmlch-pmjctB1_x_0091_nmlch_00:
+M: Müli <*SPA> no.
+C: Hay no.
+
+nmlch-pmjctB1_x_0092_pmjct_00: 
+M: Müli y pengeki lafken mu 
+C: Hay se avisto en el mar  
+
+M: ka pengeki  
+C: también se ve  
+
+M: inche kuyfi <uh> 
+C: yo ante 
+
+M: petu mari tripantu nen chi <uh> 
+C: todavía diez años tengo pues   
+
+M: veychi kiñe wünen peñi inchu miawiyu
+C: esa ves con un hermano mayor anduvimos 
+
+M: lafkenmu votemu 
+C: en el mar en el bote 
+
+M: kiñe kürüf antümu pefiyu tati 
+C: un día de viento lo vimos pues 
+
+M: trülke ufisa 
+C: cuero de oveja 
+
+M: trülkeli pu 
+C: esta como cuero pues 
+
+M: lafken 
+C: en el mar 
+
+M: pero chumlaymu 
+C: pero no nos hizo nada 
+
+M: tentalayinmu 
+C: no nos persiguió 
+
+M: pero ina püle rumi vemngechi.
+C: pero por orilla así.
+
+nmlch-pmjctB1_x_0093_nmlch_00: 
+M: Trülke ufisa.
+C: Cuero de oveja.
+
+
+nmlch-pmjctB1_x_0094_pmjct_00: 
+M: Trülke ufisa.
+C: Cuero de oveja.
+
+nmlch-pmjctB1_x_0095_nmlch_00: 
+M: Lafkenmu pefimu eymu.
+C: En el mar lo hicieron ustedes.
+
+nmlch-pmjctB1_x_0096_pmjct_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+M: Ja wente lafken 
+C: también encima del mar 
+
+M: rew külechi lafkenmu.
+C: .........que del mar.
+
+nmlch-pmjctB1_x_0097_nmlch_00: 
+M: ¿Llikaymi?.
+C: ¿Te dio miedo?.
+
+nmlch-pmjctB1_x_0098_pmjct_00: 
+M: Llikalafiyu.
+C: No nos dio miedo.
+
+nmlch-pmjctB1_x_0099_nmlch_00: 
+M: Kam kimlafuymu.
+C: Oh no lo sabían.
+
+nmlch-pmjctB1_x_0100_pmjct_00: 
+M: Ychemkefiyu  <*SPA>
+C: Y lo hacemos 
+
+M: pero llikalafiyu.
+C: pero no nos dio miedo.
+
+nmlch-pmjctB1_x_0101_nmlch_00: 
+M: Welu kimimu tamu 
+C: pero sabían que 
+M: eymün perimontulu ti .
+C: ustedes se encontraron el visión sobre natural.
+
+nmlch-pmjctB1_x_0102_pmjct_00: 
+M: Kimnekefiyu ñi perimontun ngen.
+C: Sabíamos que era visión sobre natural.
+
+nmlch-pmjctB1_x_0103_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Welu chumlaymu.
+C: Pero no le hizo nada.
+
+nmlch-pmjctB1_x_0104_pmjct_00: 
+M: Chumalymu tentalayinmu.
+C: No lo hizo nada no lo persiguio.
+
+nmlch-pmjctB1_x_0105_nmlch_00: 
+<hm> 
+
+nmlch-pmjctB1_x_0106_pmjct_00: 
+M: Vey veypin veli 
+C: Entonces eso dicho esta 
+
+M: <uh> kiñekentu tentakelafi che 
+C: mucha veces no lo persigue la gente 
+
+M: chunte pengi rume tentakelavi 
+C: por más que lo vean no lo persigue 
+
+M: vey kiñekentu müten tentakevi che.
+C: eso alguna veces no más lo persigue la gente.
+
+nmlch-pmjctB1_x_0107_nmlch_00: 
+M: ¿Chumngelu chi tentakevi che 
+C: ¿Por qué será lo persigue la gente?
+
+M: ¿chumngelu chi tentakelavi ka?.
+C: ¿por qué será lo persigue la gente también? 
+nmlch-pmjctB1_x_0108_pmjct_00: 
+M: Vey tati tental 
+C: Eso que lo persigue 
+
+M: vey nüki kutran kutranki 
+C: eso lo toma se enferma, se esta enfermando 
+
+M: veyti tentanol chumkelay 
+C: eso el que no lo persigue no le pasa nada 
+
+M: vey chumkelay che pi ta 
+C: eso no le pasa nada le gente dijo pues 
+
+M: veli pin ta müli ka vemechi.
+C: así esta el dicho existe también así.
+
+nmlch-pmjctB1_x_0109_nmlch_00: 
+M: Feytichi nülu kutran 
+C: Eso que toma la enfermedad 
+
+M: ¿niepi kay l'awen' peñi?.
+C: ¿Tendrá remedio hermano?
+
+M: mapumeu tüfameu.
+C: en la tierra aquí.
+
+nmlch-pmjctB1_x_0110_pmjct_00: 
+M: Veymu ta kuyfimu 
+C: Por eso antiguamente 
+
+M: veypufuy che 
+C: eso decían la gente 
+
+M: vey kim ngellipulu kimlu itrokom 
+C: el que sabe hacer ngellipun si sabe todos 
+
+M: y ngüne mapun 
+C: y dominio de tierra 
+
+M: itrokom newen pepiluwlu ngellipunmu 
+C: de todas fuerza el que tiene esa habilidad en ngellipun 
+
+M: veyta inatulngetuy 
+C: entonces se sigue 
+
+M: ta ngütram tati newen 
+C: la conversación pues fuerza 
+
+M: veymy mongi che 
+C: por eso se mejora la gente
+
+M: vey chi perimontu ngelu mülefuy 
+C: esa visión sobre natural existe 
+
+M: pero inche tañi ñukeyem ta femlafuy 
+C: pero mi finada madre no le había pasado eso 
+
+M: feychi inawün ta chemlay 
+C: eso seguimiento no tiene 
+
+M: amukefuy medikamu 
+C: iba a médico 
+
+M: machitukevuy
+C: se hacia machitun 
+
+M: pero nunka pudo aliviarse.
+C: pero nunca pudo aliviarse.
+
+nmlch-pmjctB1_x_0111_nmlch_00: 
+M: Kam müte rupay chi antü 
+C: Oh, paso mucho tiempo 
+
+M: feywüla chi femi.
+C: y ahí recién el paso eso.
+
+nmlch-pmjctB1_x_0112_pmjct_00: 
+M: Vemi chemay ta ya medio kuselewi wüla 
+C: Puede que esa así ya medio anciana recién 
+
+M: ka l'awen'tuwi ka.
+C: también se hizo remedio pues.
+
+nmlch-pmjctB1_x_0113_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Feymu ka rupalewefuy dewma tati.
+C: Ahí también estaba pasado ya pues.
+
+nmlch-pmjctB1_x_0114_pmjct_00: 
+M: <*SPA>Claro femi.
+C: Claro así es pues.
+
+nmlch-pmjctB1_x_0115_nmlch_00: 
+M: Rume komfiayu tachi kutranka.
+C: Lo confío mucho esta enfermedad pues.
+
+nmlch-pmjctB1_x_0116_pmjct_00: 
+M: Rume komfiay ka.
+C: Confió mucho pues.
+
+nmlch-pmjctB1_x_0117_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+M: Y feykay peñi 
+C: Y, eso hermano 
+
+M: eymün tüfa kimpelaymün tüfa 
+C: Ustedes este lo conocerán pues este
+
+M: mapuche rume yamkefuy ta meñko 
+C: mapuche respetaba mucho pantano de agua 
+
+M: müleki tüfa pinenge 
+C: esta este dice 
+
+M: feymi fill tañi mongeluwün 
+C: eso hizo en su distinta etapa de su vida 
+M: feyngepi winkul ta ni tañi mongeluwün 
+C: eso era el cerro que se mejoro 
+
+M: feyngepi.
+C: eso era.
+
+nmlch-pmjctB1_x_0118_pmjct_00: 
+M: <uh> Feli pikingün 
+C: Eso es dicen 
+
+M: <*SPA> pero inche ta 
+C: pero yo pues 
+
+M: fey <uh> pekenofiluam 
+C: eso como ni lo he visto 
+
+M: veyta <uh> komu ke 
+C: entonces en el agua es 
+
+M: veyta  <*SPA>como  <*SPA>le  <*SPA>digo  <*SPA>que  
+C: eso como le dijo que 
+
+M: <*SPA>una welta pefiyu pefiyu 
+C: una vuelta lo vimos, lo vimos 
+
+M: vey veley ta ngen ngelu peka ko <uh> 
+C: entonces esta así el dueño del agua pues 
+
+M: mawidamu 
+C: en la montaña 
+
+M: veyta kisa pewmamu pengeki  <*SPA>
+C: esto quizá en el sueño se encuentra  
+
+M: pero  re pewmamu re  <*SPA>
+C: pero en puro sueño puro 
+
+M: pero famngechi <uh> mongenmu pengelay  
+C: pero en una vida así no se ve 
+
+M: <*SPA>pero incheta feli tañi feyentufiel ta felen<uh>
+C: pero yo así estoy para obedecer 
+
+M: itrokom tañi nen newen 
+C: todos su dueño, fuerza 
+
+M: kuydatun  <*SPA>porque vemngechi am yall lu che 
+C: lo cuide porque así dejo la gente 
+
+M: vemechi yegi che.
+C: así lo llegan la gente.
+
+nmlch-pmjctB1_x_0119_pmjct_00: 
+M: Yvemechi mülemu newen.
+C: Y así, por haber fuerza.
+
+nmlch-pmjctB1_x_0120_nmlch_00: 
+M: <hm> Feyti may ta <uh> 
+C: Eso si pues 
+
+M: eymün tüfa pirentumu 
+C: ustedes este en visión sobre natural 
+
+M: mülimün ta peñi 
+C: están pues hermano, que malo 
+
+M: wesakunu kelaymün mu 
+C: que malo que lo deja 
+
+M: pire ta puken eymün.
+C: el granizo en el invierno ustedes.
+
+nmlch-pmjctB1_x_0121_pmjct_00: 
+M: Kiñeke tripantumu rumel <*SPA> no  
+C: Algunos años todas las veces no 
+
+M: <*SPA>pero kiñeke tripantumu 
+C: pero algunos años 
+
+M: wesakunukiyin 
+C: dejamos mal 
+
+M: kiñeke tripantumu 
+C: algunos años 
+
+M: rume wesa kunukeyinmu 
+C: lo dejaron muy mal ustedes 
+
+M: kuyfi mawnenu  
+C: ante ............
+
+M: <*SPA>hace  <*SPA>como  
+C: hace como 
+
+M: <*SPA> treinta küla mari tripantumu chi 
+C: treinta, treinta años creo 
+
+M: pichi doy chi <uh> 
+C: un poco más puede ser 
+
+M: rume wesakuneyinmu 
+C: que lo dejaron mal 
+
+M: ñi chawem tenia como ochenta 
+C: mi finado padre tenia como ochenta 
+
+M: <uh>pura mari kullin waka kullin nieki
+C: ochenta animales, vaca, animales tenia
+
+M: vey veychi wesakuneyinmu 
+C: enonces esa ves nos dejo mal 
+
+M: veychi kiñe pukem 
+C: esa ves un invierno 
+
+M: rume wesakuneyinmu afi kullin 
+C: nos dejo muy mal se termino los animales 
+
+M: veychi kechu kayu chi montuliyin veychi.
+C: esa ves cinco, seis creo que salvamos esa vez.
+nmlch-pmjctB1_x_0122_nmlch_00: 
+M: Pichin.
+C: Un poco.
+
+nmlch-pmjctB1_x_0123_pmjct_00:
+M: Pichin kakelu afi.
+C: Un poco los otros se terminaron.
+
+nmlch-pmjctB1_x_0124_nmlch_00: 
+M: Wütremu. 
+C: En el frío.
+
+nmlch-pmjctB1_x_0125_pmjct_00:
+M: Wütremu entrin lay 
+C: En el frío se mueren de ambre 
+
+M: rume wesakuneyinmu 
+C: nos deja muy mal 
+
+M: pukem ngewelay iyal 
+C: en el invierno no hay más alimentos 
+
+M: itrokom tapay 
+C: todos se tapa 
+
+M: rüngintu mawidamu 
+C: en lugar de collihue, en la montaña
+
+M: y newelay iyal 
+C: y no hay más alimentos 
+
+M: kullin entri wütremu 
+C: animales tienen ambre por el frío 
+
+M: ka wütren layi 
+C: también por el frío se mure 
+
+M: kiñekentu rüngalkoni piremu.
+C: mucha veces se enterran por el granizo.
+
+nmlch-pmjctB1_x_0126_nmlch_00: 
+M: Müna wesa kunukerkimu ka.
+C: Que malo lo que le hicieron pues.
+
+nmlch-pmjctB1_x_0127_pmjct_00: 
+M: Femi itrokom 
+C: Hizo eso todos 
+
+M: veychi dungu ta <uh> 
+C: esa cosa pues 
+
+M: upewtuwünmu ta kimfuy dungu che 
+C: ...........................sabe cosa lagente 
+
+M: iñi vemechi <uh> 
+C: como quienes
+
+M: veymu ta müli kimün 
+C: por eso hay conocimiento 
+
+M: vey mülemu ta newen cheam 
+C: entonces como hay fuerza eso 
+
+M: veypilu veyta yafkan 
+C: cuando dijo eso me moleste 
+
+M: veli pi che 
+C: así está dijo la gente  
+
+M: ka weluy ngütram mu 
+C: también  cambian en conversación 
+
+M: weluy dungu 
+C: cambio cosa 
+
+M: kiñe lof che weluy ngütrammu 
+C: en una comunidad de gente es diferente en conversación 
+
+M: y ngen mapumu ngen newen mu 
+C: y en dueño tierra el dueño de la fuerza 
+M: veyta müleki kastigu sungu müli pi 
+C: entonces hay castigo hay dijo 
+
+M: ka veymu ta y 
+C: también ahí pues y, 
+
+M: veychi vemlu 
+C: esa vez cuando paso eso
+
+M: vey despue veypi.
+C: entonces después dijo.
+
+nmlch-pmjctB1_x_0128_pmjct_00: 
+M: Itrokom veyti wünelu lekelu 
+C: Todos, eso el que esta primero
+
+M: veyti lonkoleyekelu 
+C: eso el que estaban jefe 
+
+M: veyta ngütramkafiyu engün 
+C: entonces los conversamos ellos 
+
+M: veyta ngellipuyngün veychi 
+C: entonces hicieron yellipun esa vez
+
+M: veychi ñi pewme pütrake pirewenon 
+C: de esa vez ya no a paso eso granizo grande 
+
+M: ka küpakakevuy despue küpaki tati  
+C: también a venido después, viene pues  
+
+M: <*SPA>terremoto  <*SPA>blanco pikingün 
+C: terremoto blanco dicen 
+
+M: el mawmeno el achenta y nueve o ochenta, 
+C: el más menos en ochenta y nueve o ochenta 
+
+M: <*SPA> no  <*SPA>me  <*SPA>acuerdo  
+C: no me acuerdo 
+
+M: <*SPA> <*SPA>muy  <*SPA>bien  
+C: muy bien,
+
+M: <*SPA>pero  <*SPA>eso inchin ta chumlayin 
+C: pero eso nosotros no nos paso nada 
+
+M: velefuy pütra piren 
+C: estaba así el gran granizo 
+
+M: pero muntuymalayin mu 
+C: pero no nos quito 
+
+M: kullin lalay kullin 
+C: animales se murieron animales 
+
+M: veychi inchin püle 
+C: esa vez en nuestra parte 
+
+M: kakeñpüle l'ay kullin  
+C: en otras parte se murieron animales  
+
+M: <*SPA>pero inchin chumlayin.
+C: pero nosotros no le paso nada.
+
+nmlch-pmjctB1_x_0129_nmlch_00: 
+M: Welu dew ngelliputufimün.
+C: Pero ya lo hicimos yellipun.
+
+nmlch-pmjctB1_x_0130_pmjct_00: 
+M: Yew ngelliputufiyin.
+C: Ya lo hacemos yellipun.
+
+nmlch-pmjctB1_x_0131_nmlch_00: 
+M: ¡Ah!.
+C: ¡Ah!.
+
+M: Kümelkakiyu ta che 
+C: Lo hace sentir bien la gente 
+
+
+M: perke ta ngellipulelu ta 
+C: es así el que hace rogativa pues 
+
+M: Ngünechenmu che ka.
+C: en Ngünechen la gente pues.
+
+nmlch-pmjctB1_x_0132_pmjct_00: 
+M: Femi pu'.
+C: Así es pues.
+
+nmlch-pmjctB1_x_0133_nmlch_00: 
+M: Ni ta newen ta kellun 
+C: Tiene fuerza la ayuda 
+
+M: ka ta poyen tuniyu ta ngünechen.
+C: también lo esta sirviendo el Ngünechen .
+
+nmlch-pmjctB1_x_0134_pmjct_00: 
+M: Femi ka iñi femi  
+C: Así, también quien hico eso 
+
+M: <*SPA>porque kullin pingi 
+C: porque animales se dice 
+
+M: ta kullin kisu ngünewünmu ta pengelay 
+C: los animales porque queremos no se encuentra 
+
+M: ka mülenum wülpelu pi 
+C: también hay el que da dijo 
+
+M: ta che ta wülpelu kullin 
+C: gente, el que da animales 
+
+M: wülpelu itrokom 
+C: el que da de todos 
+
+M: püñeñ fotüm pingefuy 
+C: hija, hijo decían 
+
+M: veyta itrokom ngünechen ñi wülpen pi ka.
+C: entonces todos Ngünechen que da dijo pues.
+
+nmlch-pmjctB1_x_0135_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Feyllemay ta müli femngechi <uh> 
+C: Claro que hay  de esa forma pues 
+
+M: ¿feytichi pewen 
+C: ¿esa araucaria 
+
+M: eymün l'awen' kelafimün peñi?
+C: ustedes no lo hacen remedio hermano?
+
+M: ¿chem kutran mu rume kümelay chi pewen ti?.
+C: ¿en ninguna enfermedad no es bueno la araucaria pues?.
+
+nmlch-pmjctB1_x_0136_pmjct_00: 
+M: <uh> L'awen' pikingün  
+C: Remedio dicen 
+
+M: <*SPA>pero secreto pingün, 
+C: pero secreto dijeron 
+
+M: l'awen' secretu pi 
+C: remedio secreto dijo 
+
+M: feychi pe l'awen' 
+C: de esa vez encontró remedio 
+
+M: <*SPA> no chi che vemechi secretu mu 
+C: no la gente en un secreto de este tipo
+
+M: pewen mu ngellipuy mawi pikingün 
+C: araucaria le hizo rogativa, montaña dicen 
+
+M: vey nentungi tati 
+C: eso se le casa pues 
+
+M: kiñe kiñepchi  
+C: un, un poco 
+
+M: <*SPA>pedaso trülke pewen 
+C: pedazo de cascara de araucaria  
+
+M: veyta fayimngi 
+C: entonces eso se fermenta 
+
+M: veymu pütokongeki pu' 
+C: por eso se bebe pues 
+
+M: veymu müleki 
+C: hay esta 
+
+M: peki pe' l'awen' ki che pi.
+C: encuentra remedio la gente dijo.
+
+nmlch-pmjctB1_x_0137_nmlch_00: 
+M: Iñe kuñifall kutrankawkülele 
+C: Quién si esta sufriendo como huérfano 
+
+M: feyta nienole l'awen' 
+C: entonces si no tiene remedio, 
+
+M: penole l'awen'
+C: si no encuentra remedio
+
+M: fey fayümelngele trawa pewen 
+C: entonces si le dan fuerza la cascara de la araucaria 
+
+M: perkeafuy l'awen' 
+C: podría haber encontrado remedio 
+
+nmlch-pmjctB1_x_0138_pmjct_00: 
+M: Femafuy.
+C: Puede suceder eso.
+
+nmlch-pmjctB1_x_0139_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Peyafuy.
+C: Puede encontrar.
+
+nmlch-pmjctB1_x_0140_pmjct_00: 
+M: Peyafuy l'awen' 
+C: Puede encontrar remedio 
+
+M: vey ngellipuymangele tati 
+C: eso si lo hacen rogativa pues 
+
+M: pewen ta ngen pewen ngellipuymangele 
+C: araucaria, dueño araucaria se le hacen rogativa 
+
+M: veyta leafi l'awen'.
+C: entonces va leer el remedio.
+
+nmlch-pmjctB1_x_0141_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Welu kiñe kutran müten 
+C: Pero una enfermedad no más 
+
+M: kümelay fill kutranmu rüke erke 
+C: no es buen en distintas enfermedades pues 
+
+M: kimtuafuy l'awen' reke.
+C: como que puede buscar remedio.
+
+nmlch-pmjctB1_x_0142_pmjct_00: 
+M: Fill kutranmu 
+C: En distintas enfermedad 
+
+M: pela l'awen' nochi chemu 
+C: no encontró remedio en despacio en eso
+
+M: veyta fill kutran reke velele 
+C: entonces distintos tipos de enfermedades si esta así
+
+M: veyta peafuy l'awen'.
+C: entonces puede encontrar remedio.
+
+nmlch-pmjctB1_x_0143_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Peyafuy l'awen'.
+C: Puede encontrar remedio.
+
+nmlch-pmjctB1_x_0144_pmjct_00: 
+M: May.
+C: Sí.
+
+nmlch-pmjctB1_x_0145_nmlch_00: 
+M: Feytichi dungu llemay 
+C: Esa cosa es pues 
+
+M: feychi kimün 
+C: ese conocimiento 
+
+M: veyta nag che uyüwpüle 
+C: entonces la gente de a bajo por allá 
+
+M: Nguluche kimlay pu' peñi.
+C: Lo nguluche no sabe pues hermano.
+
+nmlch-pmjctB1_x_0146_pmjct_00: 
+M: Femlay pu' femlay.
+C: No hace eso pues, no hace eso.
+
+nmlch-pmjctB1_x_0147_nmlch_00: 
+M: Lafken chengeafuy rume 
+C: Puede ser persona de la costa 
+
+M: kimlay ka peñi.
+C: no sabe pues hermano.
+
+nmlch-pmjctB1_x_0148_pmjct_00: 
+M: Femlay ka femlay.
+C: No hizo eso pues, no hizo eso.
+
+nmlch-pmjctB1_x_0149_nmlch_00: 
+M: Chem chengeafuy rume 
+C: Puede ser cualquier cosa 
+
+M: welu tamün eymün tamün 
+C: pero su, ustedes sus...
+
+M: feyentun tamün kimün 
+C: obedecer su conocimiento  
+
+M: kimlay inchin tati
+C: no sabe de nosotros pues 
+
+nmlch-pmjctB1_x_0150_pmjct_00: 
+M: Femllelay may femlay.
+C: No es así pues, no es así.
+
+nmlch-pmjctB1_x_0151_nmlch_00: 
+M: Feymu llenoanta pepapiyu 
+C: Es por eso que te vengo haber pues 
+
+M: ka ramtupiyu 
+C: también preguntamos 
+
+M: ngütram mu am kimlu che.
+C: en la conversación aprende la gente.
+
+nmlch-pmjctB1_x_0152_pmjct_00: 
+M: Femi pu'.
+C: Así es pues.
+
+nmlch-pmjctB1_x_0153_nmlch_00: 
+M: Ngütramkalay che kimlay.
+C: Si no conversa la gente no sabe.
+
+nmlch-pmjctB1_x_0154_pmjct_00: 
+M: Femlay pu' femlay.
+C: No es así pues, no es así.
+
+nmlch-pmjctB1_x_0155_nmlch_00: 
+M: Kimlay ta dungu 
+C: No sabe la cosa
+
+M: kimlay dungu 
+C: no sabe la cosa 
+
+M: fey fentreküme füta <uh> 
+C: entonces muy bien este 
+
+M: koyam ürke tüfi ka.
+C: como hualle.
+
+nmlch-pmjctB1_x_0156_pmjct_00: 
+M: Femafi feli ta kiñe <uh> pewen ta 
+C: Lo va hacer así está una araucaria pues 
+
+M: veyta ventechi l'awen' niefuy ka.
+C: entonces gran remedio tiene pues.
+
+nmlch-pmjctB1_x_0157_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Niefuy l'awen'.
+C: Tenia remedio.
+
+nmlch-pmjctB1_x_0158_pmjct_00: 
+M: Ni l'awen'.
+C: Tiene remedio
+
+nmlch-pmjctB1_x_0159_nmlch_00: 
+M: ¿Kimlafimi ta kiñe kutranmu ñi konafel welu?.
+C: ¿No sabe si entra para una enfermedad, pero?.
+
+nmlch-pmjctB1_x_0160_pmjct_00: 
+M: <*SPA> No küme kimlafin .
+C: No, no lo conozco bien.
+nmlch-pmjctB1_x_0161_nmlch_00:
+M: ¿Kimlafimi no?.
+C: ¿No lo sabe no?.
+
+nmlch-pmjctB1_x_0162_pmjct_00: 
+M: Küme kimlafin 
+C: No lo se bien 
+
+M: <*SPA>pero veliki kuyfi 
+C: pero estaba así ante 
+
+M: upay kiñe <uh> ñi malle y 
+C: paso uno de mi tío 
+
+M: yemellefi ngañkolelu pe
+C: lo fue a buscarlo cuando se sentía mal creo 
+
+M:  l'awen' nolu 
+C: el que no busco remedio 
+
+M: vey veymu pewenmu 
+C: entonces en esa araucaria 
+
+M: pen l'awen' pi,  
+C: encontré remedio dijo, 
+
+M: <*SPA> pero vey chumechi tañi l'awen'tuwün 
+C: pero eso como se hizo remedio 
+
+M: veyta  küme kimlafin 
+C: entonces eso no lo se bien 
+
+M: chumngechi chem tañi nentufiel 
+C: como y que habrá sacado 
+
+M: payun pewen o bien trülke pewen 
+C: Barba de araucaria o bien cascara de araucaria 
+
+nmlch-pmjctB1_x_0163_nmlch_00: 
+M: Eymün feytachi pewen 
+C: Ustedes esta araucaria 
+
+M: fill mapumu niefimün tamu.
+C: en distinto tipo de tierra lo tienen aquí.
+
+nmlch-pmjctB1_x_0164_pmjct_00: 
+M: May.
+C: Sí.
+
+M: Fill mapu.
+C: Distintas tierra.
+
+nmlch-pmjctB1_x_0165_nmlch_00: 
+M: Fill mapumu niefimün.
+C: En distinto topo de tierra lo tienen.
+
+nmlch-pmjctB1_x_0166_pmjct_00: 
+M: May.
+C: Sí.
+
+nmlch-pmjctB1_x_0167_nmlch_00: 
+M: Feyti ta yagel wülki 
+C: Eso era comida ante 
+
+M: ka eymün katrükelafimün pakan ka.
+C: También ustedes no lo cortan de cualquier manera.
+
+nmlch-pmjctB1_x_0168_pmjct_00: 
+M: Tüfa pekan katrüngewelay 
+C: Ahora ya no se corte así no más 
+
+M: kuyfipumu pekankangekefuy.
+C: antiguamente no se trataba de cualquier forma.
+
+nmlch-pmjctB1_x_0169_nmlch_00: 
+M: ¡Ah!. 
+C: ¡Ah!.
+
+M: Kuyfimu.
+C: Antiguamente.
+nmlch-pmjctB1_x_0170_pmjct_00: 
+M: Kuyfipumu <*SPA> 
+C: Antiguamente 
+
+M: si mülekelafuy <*SPA>
+C: si no había 
+
+M: ley <*SPA>que <*SPA>lo <*SPA>protegera <*SPA>ahora
+C: ley que lo protegerá ahora 
+
+M:  <*SPA>que<*SPA> hay <*SPA>ley 
+C: que hay ley 
+
+M: <*SPA>bueno pekankangekelay .
+C: bueno no trata de cualquier manera.
+
+nmlch-pmjctB1_x_0171_nmlch_00: 
+M: Welu rume yamün pütra mamüll rüke tüfey ka .
+C: Pero es muy respetado gran leña es eso pues.
+
+nmlch-pmjctB1_x_0172_pmjct_00: 
+M: Yamün <*SPA> si .
+C: Respetar sí.
+
+Ô.°_pmjctB1_x_0174_pmjct_0000: 
+M: Pire kay peñi l'awen' 
+C: Y granizo hermano es remedio 
+
+M: kelafuymün 
+C: no lo hacían visto 
+
+M: kutranelkelafuymün rume.
+C: no se habían enfermado pues.
+
+nmlch-pmjctB1_x_0175_pmjct_00: 
+M: <*SPA> No femkelayin 
+C: No, no le pasaba eso 
+
+M: <uh> wenu müleki 
+C: arriba hay 
+M: kiñeke kutranmu 
+C: para alguna enfermedad 
+
+M: kümey pirenko
+C: es bueno el agua de granizo 
+
+M: vey kümi 
+C: eso es bueno 
+
+M: <*SPA>pero kiñeke kutranmuka 
+C: pero alguna enfermedad pues 
+
+M: chumngechi pirentunmu.
+C: de que tipo de granizo.
+
+nmlch-pmjctB1_x_0176_nmlch_00: 
+M: ¿Chem kutranmu chi
+C: ¿Para que enfermedad será
+
+M: kümefuy pire ko peñi?.
+C: es bueno agua de granizo hermano?.
+
+nmlch-pmjctB1_x_0177_pmjct_00: 
+M: Pireko veyta.
+C: Agua de granizo entonces... 
+
+
+
+
+
+

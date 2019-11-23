@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 434
+SpeakerNum: 2
+nmlch-nmjab2_x_%04d_nmlch_00
+nmlch
+nmlch-nmjab2_x_%04d_nmjab_00
+nmjab
+UserLables: 2
+<*SPA>
+<Cough>
+LableMenuFile
+C:\Program

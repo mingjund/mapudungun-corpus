@@ -1,0 +1,2947 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nfspB2 
+; Last changes made on 11/15/2001 
+; Transcriber: Marcela Collio 
+; Comments:  
+; Traduce:
+Traduce: Juan Licanqueo.
+
+nmlch-nfspB2_x_0000_nfsp_00: 
+M:.Veychi kutran
+C::Esa enfermedad
+
+nmlch-nfspB2_x_0001_nmlch_00: 
+M:.Are foro <SPA>no 
+C:.a colorado el hueso no
+
+nmlch-nfspB2_x_0002_nfsp_00: 
+M:.Re foro <SPA>
+C:.Solo huesos
+
+M:.no pu piru niy piyelay ta che 
+C:.no pues gusano tiene dice la gente
+
+nmlch-nfspB2_x_0003_nmlch_00: 
+M:.May, may, may 
+C:.Sí,  sí  ,sí
+
+nmlch-nfspB2_x_0004_nfsp_00: 
+M:.Kidumay tañi mollvüñ 
+C:.solo claro su sangre
+
+M:.tañi velen 
+C:.por eso esta asi
+
+nmlch-nfspB2_x_0005_nmlch_00: 
+M:.¡aa!
+C:.¡Haa!
+
+M:.mollfüñ
+C:.sangre
+
+nmlch-nfspB2_x_0006_nfsp_00: 
+M:.Pamu tati trükolepay 
+C:.pasmo es ese amononado
+
+M:.ta mollvüñ veymu trükoli aremu 
+C:.la sagre por eso se junta en la calor
+
+M:.ta afuy ta mollvüñ 
+C:.se cuese la sangre
+
+M:.vey trükoli piru pingetuy tati 
+C:.ahi se junta gusano se dice eso
+
+M:.neyi neyingelu mollvüñ 
+C:.se mueve la sagre
+
+M:.neyen pu inianta pekevuykay ta piru 
+C:.se mueve pues quien puede verlo los gusano
+
+M:.nien ta piru ta voro <Noise> 
+C:.tiene el gusano en el hueso
+
+M:.re tañi aflekenmu 
+C:.solo por no acbarse
+
+M:.kochilumu may ta afki tati 
+C:.donde es dulce mas termina eso
+
+nmlch-nfspB2_x_0007_nmlch_00: 
+M:.Rakiduam müten may ta piru <Laugh><%>  
+C:.Pensamiento no mas es el gusano
+
+M:.ta che kiñekemu ta ka dunguki 
+C:.la gente algunas veces tambien habla
+
+M:.cheki chew feypikalu pe ka
+C:.gente donde dice eso claro
+
+nmlch-nfspB2_x_0008_nfsp_00: 
+M:.Fey llemay ini tañi pekevel ta voromu 
+C:.Ese claro quien lo puede ver en el hueso
+
+nmlch-nfspB2_x_0009_nmlch_00: 
+M:.Piru 
+C:.guano
+
+nmlch-nfspB2_x_0010_nfsp_00: 
+M:.Chumngelu tañi piru rumeavel 
+C:.Porque el gusano pasa
+
+M:.ta mongeñ che remay ta kutran 
+C:.en la vida de la gente su enfermedad
+
+M:.tañi vemeken tati <Noise> 
+C:.asi hace eso
+
+
+nmlch-nfspB2_x_0011_nmlch_00: 
+M:.Feyürkeno mollfüñ ta tañi 
+C:.Eso no era sangre de mi
+
+M:.trükonepaki
+C:.se amontona
+
+nmlch-nfspB2_x_0012_nfsp_00: 
+M:.Veyllemay mollvüñ ñi trükoken 
+C:.Ese claro sangre se junta
+
+M:.afuken rume areyem vey tañi trükoken 
+C:.se cose mucha calor ahi se junta
+
+M:.ta  voromu ta neyi neyingeki vemngechi 
+C:.en el hueso se mueve se mueve asi
+
+nmlch-nfspB2_x_0013_nmlch_00: 
+M:.Lamuen chem l'awen' mülevuy mapuchemu tüfi <uhm> 
+C:.Hermana que remedio mapuche hay par esto
+
+M:.wüñoltual mollfüñ <uh> 
+C:.volver la sangre
+
+M:.trükoleluam
+C:.como esta junto
+
+nmlch-nfspB2_x_0014_nfsp_00: <SPA>
+M:.Sanguinaria pingi llemay 
+C:.Sanguinaria se llama pues
+
+M:.witromollvüñalu  treaka piki  
+C:.correr la sangre treaca se llama
+
+nmlch-nfspB2_x_0015_nmlch_00: 
+M:.Deyulngi af.<uh> 
+C:..................................
+
+nmlch-nfspB2_x_0016_nfsp_00: 
+M:.May deyuayüm
+C:.Sí dejarlo parado
+
+nmlch-nfspB2_x_0017_nmlch_00: 
+M:.Wadkümngiem 
+C:.Se hierve
+
+nmlch-nfspB2_x_0018_nfsp_00: 
+M:.May vallüm <Noise> 
+C:
+
+M:.natrüng kachan l'awen' pingi  
+C:.natre cachan remedeio se llama
+
+M:.kulle pingi <Noise> 
+C:.culle se llama
+
+M:.kelü kulle kachan 
+C:.rojo rojo cachan 
+
+M:.l'awen' küchan kachan l'awen' pingi 
+C:.remedio cucha cuchan remedio se llama
+
+M:.fey tañi l'awen'vel ta pütakechellenoam kuyvi 
+C:.ese es mi remedio de los ancianos antes no
+
+M:.pichin ta kutranerley 
+C:.poco duele no mas
+
+M:.ñi küchan kachan l'awen'nün <Noise> 
+C:.su cuchan cuchan remedio eso 
+
+M:.elungiñ ta triaka pütokoal 
+C:.le dan en jorro para beber
+
+M:.ka ngawel longkongi füna willeñ 
+C:.tambien refregan la cabeza orina podrido
+
+M:.müli pulko willeñ kallfupevum 
+C:.hay vino orina colorear azul
+
+M:.chamall chuchi wardalu 
+C:.chamal el que lo guardara
+
+M:.veymu ngawey longkoy ka pütokoy 
+C:.por eso refregar la cabeza y beben
+
+M:.arekevuy pütra üykelu pütra 
+C:.calentaba el estomago caldea
+
+M:.vemekevuy ka ina koreñmaukevuy che 
+C:.asi hacia tambien corria ala gente
+
+M:.inche kimpan vemngechi l'awen'
+C:.yo conocí ese tipo remedio
+
+M:.tuken pesten kuyvi pichichengelu <Noise> 
+C:.tuve peste antes cuando era chico
+
+M:.vemngechi mongelngen kawellayengu  <SPA>
+C:.asi me hicieron vivir me refregaron
+
+M:.membrillo ka yemelngen 
+C:.membrillo tambien me buscaron
+
+Nmlch-nfspB2_x_0019_nfsp_00:  
+M:.pütokomekel <Noise> 
+C:.bebiendo
+
+nmlch-nfspB2_x_0020_nmlch_00: 
+M:.Feyti tüngi tüfey  
+C:.Ese se adquire ese
+
+nmlch-nfspB2_x_0021_nfsp_00: 
+M:.Veymu mongen <Noise> 
+C:.Por eso viví
+
+M:.veymu enserakelay <SPA>peste
+C:.ahi no se ecierra la peste
+
+nmlch-nfspB2_x_0022_nmlch_00: 
+M:.Aa. 
+C:Haa.
+
+M:.femuechi feytikay lamuen 
+C:.así pues y ese hermana
+
+M:.empachalu chem kümey pimiama
+C:.empachado que es bueno dijo
+
+nmlch-nfspB2_x_0023_nfsp_00: 
+M:.Empachu pichikeche empachulunga 
+C:.Empacho los niño cuando empachaban
+
+nmlch-nfspB2_x_0024_nmlch_00: 
+M:.May 
+C:.Sí
+
+nmlch-nfspB2_x_0025_nfsp_00: 
+M:.Vey llemay <SPA>leche <SPA>
+C:.Ese claro    lache
+
+M:.mawnencia 
+C:..........
+
+nmlch-nfspB2_x_0026_nmlch_00: 
+M:.¿chew pengeafuy? 
+C:.¿Cómo se podria decir?
+
+nmlch-nfspB2_x_0027_nfsp_00: 
+M:.Farmaciamu llemay müli wingkamu 
+C:.farmacia claro hay en los chileno
+
+nmlch-nfspB2_x_0028_nmlch_00: 
+M:.¡Aaa!
+C:.¡Haa!
+
+M:.wingkamu <SPA>
+C:.chileno
+
+M:.leche mawnencia pingi 
+C:.leche ...............................dicen
+
+nmlch-nfspB2_x_0029_nfsp_00: 
+M:.May 
+C:.Sí
+
+nmlch-nfspB2_x_0030_nmlch_00: 
+M:.Pütokongey pichin ko engu kam <SPA>
+C:.se bebe un poco con agua si
+
+M:.lichi 
+C:.leche
+
+nmlch-nfspB2_x_0031_nfsp_00: <SPA>
+M:.No re kidu wüne ingi 
+C:.No sol primero se come
+
+M:.wüne pütokongi wüla kafetutuy 
+C:.primero se bebe como cafe
+
+M:.torongilmakünüy <SPA>café 
+C:.co torongil se coloca cafe
+
+nmlch-nfspB2_x_0032_nmlch_00: 
+M:.Feyti rumeke <Noise> 
+C:.Ese  pasa
+
+M:.ngewetulay empachu  
+C:.no queda empacho
+
+nmlch-nfspB2_x_0033_nfsp_00: 
+M:.feymay tripaki ñi kutran 
+C:.Así sale su enfermedad
+
+M:.ankülechi pegalelu külchemu 
+C:.leche seca pegado intestino
+
+M:.pegakeyelaanta lichi 
+C:.se pega la leche
+
+M:.külchemu pichikeche 
+C:.intestino delos niños
+
+nmlch-nfspB2_x_0034_nmlch_00: 
+M:.Aa. 
+C:.Haa
+
+M:.femki ka <Noise> 
+C:.asi hace
+
+nmlch-nfspB2_x_0035_nfsp_00: 
+M:.piru piruñmawki ka veyta wingka <SPA>
+C:.gusano se gusana este chileno
+
+M:.solitaria pituy ta pichike 
+C:.solitaria le dicen a los niños
+
+M:.piru tripalu tati vunalu 
+C:.gusano sale cuando se pudre
+
+nmlch-nfspB2_x_0036_nmlch_00: 
+M:.¡Aaa!
+C:.¡haa!
+
+nmlch-nfspB2_x_0037_nfsp_00: 
+M:.Anküy vey vunay 
+C:.Se seca ahi se pudre
+
+M:.vey piru vey anentuki pichikechellenoam <Noise> 
+C:.el gusano ese arto saca los niño claro
+
+M:.veyta wingka ta<SPA>
+C:.el chileno dice
+
+M:.solitaria pituy 
+C:.solitaria dice
+
+nmlch-nfspB2_x_0038_nmlch_00: 
+M:.¡Aaa! 
+C:.¡Haa!
+
+nmlch-nfspB2_x_0039_nfsp_00: 
+M:.Lichi tañi vemuuken welu pu 
+C:.Leche que se hace pero pues
+
+nmlch-nfspB2_x_0040_nmlch_00: 
+M:.Re lichi 
+C:.Solo leche
+
+nmlch-nfspB2_x_0041_nfsp_00: 
+M:.Re lichi 
+C:.Solo leche
+
+nmlch-nfspB2_x_0042_nmlch_00: 
+M:.Chewkiürke  
+C:.se crian
+
+nmlch-nfspB2_x_0043_nfsp_00: 
+M:.Chewki lichimu ka müli kiñe kutran 
+C:.Se crian con leche tambien hay una enfermedad
+
+M:.sinteria pikimi lamuen 
+C:.Sinteria dijo hermana
+
+M:.chumuelu chi 
+C:.poque sera
+
+M:.chumuelu chi tungeki 
+C:.porque será se contagia
+
+M:.chi tufichi  kutran  
+C:.ese esa enfermedad 
+
+nmlch-nfspB2_x_0044_nfsp_00: 
+M:.Nielu wirkü nielu are 
+C:.El que tiene juntado calor
+
+nmlch-nfspB2_x_0045_nmlch_00: 
+M:.Epu rume
+C:.Dos tipo
+
+nmlch-nfspB2_x_0046_nfsp_00: 
+M:.May. 
+C:.Sí.
+
+nmlch-nfspB2_x_0047_nmlch_00: 
+M:.L'awen' trürlay ka 
+C:.Remedio no es igual pues
+
+nmlch-nfspB2_x_0048_nfsp_00: <SPA>
+M:.No kewaki ta are engu viskü 
+C:.No pelea con la calor y el frio
+
+M:.veyta sinteria ti mollvüñ 
+C:.esta sinteria la sangre
+
+M:.tañi ka weda sirkulakem <Noise> 
+C:.por circular mal tambien
+
+M:.weda cirkulaki mollvüñ müli ta allfeñ 
+C:.mal cirla la sangre esta las   heridas
+
+M:.veymu ta weda sekulay ta mollvüñ<Noise> 
+C:.por eso que seca mal la sangre
+
+nmlch-nfspB2_x_0049_nmlch_00: 
+M:.Feymuanta. 
+C:.Es por eso.
+
+nmlch-nfspB2_x_0050_nfsp_00: 
+M:.Sinteria pingetuy tati 
+C:.Sinteria se llama esa
+
+nmlch-nfspB2_x_0051_nmlch_00: 
+M:.Fey pingetuy kiñe l'awen' 
+C:.Se le llama un remedio
+
+M:.muten müli kam epu rumey 
+C:.solo hay o bien dos tipo
+
+nmlch-nfspB2_x_0052_nfsp_00: 
+M:.Muvu rumevuy chi ta l'awen' 
+C:.Cuanto tipo habra de remedio
+
+M:.pütrülevuy ta l'awen' 
+C:.hay mucho tipo remedio
+
+M:.kiñe notulay kangelu notuy veymu <Noise> 
+C:.uno solo no escapaz el otro si po eso
+
+M:.kutran<%> 
+C:.enfermedad
+
+_x_0054_nfsp_000053_nmlch_00: 
+M:.Chem l'awen' doy kimimi 
+C:.Que remedio será mejor
+
+M:.eymi lamuen tüfi pipeymu
+C:.usted hermana ese dijo
+
+nmlch-nfspB2_x_0055_nfsp_00: 
+M:.Sinteriamu make pingi tati 
+C:.Sinteria make se llama ese
+
+M:.kotün maque
+C:.make tostado
+
+nmlch-nfspB2_x_0056_nmlch_00: 
+M:.Kotün make 
+C:.tostado maque
+
+nmlch-nfspB2_x_0057_nfsp_00: 
+M:.May. 
+C:.Sí.
+
+Nmlch-nfspB2_x_0058_nmlch_00: 
+M:.Welu..
+C:.Pero
+
+nmlch-nfspB2_x_0059_nfsp_00: 
+M:.Kütrar chichakel ka 
+C:.Enfermedad...................................
+
+nmlch-nfspB2_x_0060_nmlch_00: 
+M:.May, may, may 
+C:.Sí,  sí , sí
+
+nmlch-nfspB2_x_0061_nfsp_00: 
+M:.Puru llemay make ikel 
+C:.Puro claro maque se come
+
+nmlch-nfspB2_x_0062_nmlch_00: 
+M:.May 
+C:.Sí
+
+nmlch-nfspB2_x_0063_nfsp_00:
+M:.Vey 
+C:.Eso
+
+nmlch-nfspB2_x_0064_nmlch_00: 
+M:.Fey 
+C:.Eso
+
+nmlch-nfspB2_x_0065_nfsp_00: 
+M:.Kotüngey kotü kotütungey 
+C:.Se tuesta tostar se tuesta
+
+M:.vey rüngümngi ti kafeürke
+C:.ahi se muele como el cafe
+
+M:.vey pütokongi<Noise> 
+C:.ahi se bebe
+
+nmlch-nfspB2_x_0066_nmlch_00: 
+M:.Mülefuy tañi <uh> 
+C:.Habia que
+
+M:.chemnial nial che 
+C:.tener la gente
+
+M:.welu nienole feyta
+C:.pero si no tiene esto
+
+nmlch-nfspB2_x_0067_nfsp_00: 
+M:.Nienole veyta nielay müten 
+C:.No tiene esto no tiene no mas
+
+M:.kutrankawküli kutranmu ka pu  
+C:.sufre nucho de dolor asi pues
+
+nmlch-nfspB2_x_0068_nmlch_00: 
+M:.¡Aaa! 
+C:.¡Haa!
+
+M:.kutrankawkülefuymi tati 
+C:.ha sufrido mucho asi
+
+nmlch-nfspB2_x_0069_nfsp_00: 
+M:.May 
+C:.Si
+
+nmlch-nfspB2_x_0070_nmlch_00: 
+M:.rume kümi tüfi 
+C:.Muy bueno ese
+
+nmlch-nfspB2_x_0071_nfsp_00: 
+M:.May veychi kutranmu 
+C:.Sí esa enfermedad
+
+nmlch-nfspB2_x_0072_nmlch_00: 
+M:.feytikay lamuen kiñe kutran 
+C:.Ese pues hermana una enfermedad
+
+M:.ka mülinga pipiminga 
+C:.tambien Habra dijo era
+
+M:.riñón kutran chem kümevuy chi
+C:.riñon enfermedad que es bueno si
+
+nmlch-nfspB2_x_0073_nfsp_00: 
+M:.Tüvi ta kümi ta chem pingiama l'awen' <Noise> 
+C:.Ese es bueno como que se llama el remedio
+
+M:.riñosan pingi 
+C:.riñosan se llama
+
+nmlch-nfspB2_x_0074_nmlch_00: 
+M:.Riñosan ¿mawidamu müli?
+C:.Riñosan ¿en el monte hay?
+
+nmlch-nfspB2_x_0075_nfsp_00: 
+M:.Mawidamu <Noise> 
+C:.Montes
+
+nmlch-nfspB2_x_0076_nmlch_00: 
+M:.Mamüll l'awen' tüfi 
+C:.Madera remedio ese
+
+nmlch-nfspB2_x_0077_nfsp_00: 
+M:.Mamüll l'awen' 
+C:.Madera remedio
+
+nmlch-nfspB2_x_0078_nmlch_00: 
+M:.Riñosan pingi 
+C:.Riñosan se llama
+
+nmlch-nfspB2_x_0079_nfsp_00: 
+M:.May
+C:.Sí
+
+nmlch-nfspB2_x_0080_nfsp_00: 
+M:.¡Aa! 
+C:.¡Haa!
+
+M:.fey kiñe rume l'awen' müten 
+C:.ese un tipo de remedio no mas
+
+nmlch-nfspB2_x_0081_nfsp_00: 
+M:.Kiñe rume 
+C:.Uno solo
+
+nmlch-nfspB2_x_0082_nmlch_00: 
+M:.Trawa t'apül' kam fün 
+C:.Cáscara hojas y corteza
+
+nmlch-nfspB2_x_0083_nfsp_00: 
+M:.Mamüll' t'apül'külen  
+C:.Leña hojas cola
+
+nmlch-nfspB2_x_0084_nmlch_00: 
+M:.¡Aa! 
+C:.¡Haa!
+
+M:.t'apül'külen nentufi 
+C:.hojas cola se saca
+
+nmlch-nfspB2_x_0085_nfsp_00: 
+M:.T'apül'külen mamüll 
+C:.Hojas cola leña
+
+nmlch-nfspB2_x_0086_nmlch_00: 
+M:.¿Wadkümngi?
+C:.¿se hierve?
+
+nmlch-nfspB2_x_0087_nfsp_00: 
+M:.Vey vayümngi pütokomekengi 
+C:.Ahi se fermenta y se bebe
+
+M:.petu ñi inon <SPA>
+C:.antes de comer
+
+M:.desayunu <SPA>
+C:.desayuno
+
+M:.almuerzu rangiantü ial <SPA>
+C:.almuerzo al medio día 
+
+M:.tarde ial petu ñi inon che  
+C:.tarde al comer antes de comer
+
+nmlch-nfspB2_x_0088_nmlch_00: 
+M:.Tutey tüfi
+C:.Es bueno ese
+
+nmlch-nfspB2_x_0089_nfsp_00: 
+M:.Veymu tuteki <Noise> 
+C:.Ahi es bueno
+
+M:.küñke folil küñkeyengün  deyukunungi 
+C:.diferentes raíz se junta parado
+
+nmlch-nfspB2_x_0090_nmlch_00: 
+M:.Feytikay lamuen kiñelu trafentulu 
+C:.Ese pues hermana uno que vio visión
+
+M:.kay weda kutran tüfi 
+C:.es mola enfermedad ese
+
+M:.re domo re wentru trafentuafuy 
+C:.solo mujer solo hombre ve vision
+
+M:.kam pichikeche 
+C:.tambien los niños
+
+M:.kam fill che trafentuafuy 
+C:.o cualquier persona ve visión
+
+nmlch-nfspB2_x_0091_nfsp_00: 
+M:.Veyta neyinmanetew weda weküvü 
+C:.Esta en mobimiento Diablo malo
+
+M:.veyta traventuy pu mewlen 
+C:.este vision pues remolino
+
+M:.travielu kom <Noise> 
+C:.lo atraviesa todo
+
+M:.che mewlentuki <Noise> 
+C:.la gente le cruza remolino
+
+M:.fütakeche  pichikeche 
+C:.anciano niños
+
+M:.wingka mapuche domo <Noise> 
+C:.chileno mapuche mujer
+
+M:.kom che mewlentuy 
+C:.todas las persona ve remolino
+
+nmlch-nfspB2_x_0092_nmlch_00: 
+M:.Ini rume <Noise> 
+C:.Cualquiera no mas
+
+nmlch-nfspB2_x_0093_nfsp_00: 
+M:.Chem che rume chem che rume 
+C:.Cuaquier persona no mas 
+
+M:.mewlentuki feyti 
+C:.ve remolino ese
+
+M:.wingka kimlay ka 
+C:.chileno no sabe eso
+
+nmlch-nfspB2_x_0094_nmlch_00: 
+M:.Kimlay tüfi <Noise> 
+C:.no sabe eso
+
+nmlch-nfspB2_x_0095_nfsp_00: 
+M:.Ka kimlay wingka veychi kutran 
+C:.no sabe chileno esa enfermedad
+
+M:.mewlentulu <Noise> 
+C:.remolino
+
+M:.kapivngey kapiveluwi newenngelay 
+C:.se sienten mal no le queda fuerza
+
+M:.kovi trupevüy trupev 
+C:.a fiebra se asusta asusta
+
+M:.trupevngi küme umawtulay 
+C:.asusta bien no duerme
+
+M:.levi ñi umaw kovituy aregtuy 
+C:.se le va el sueño se afiebra calor
+
+M:.yanchi yanchingi  trafentulu tati 
+C:.le da escalofrio por quevio visión
+
+M:.mewlentuetu <Noise> 
+C:.vio remolino
+
+nmlch-nfspB2_x_0096_nmlch_00: 
+M:.Feyti wingka  puulay 
+C:.El chileno no sabe
+
+M:.tüfichi  kutranmu 
+C:.este tipo de enfermedad
+
+nmlch-nfspB2_x_0097_nfsp_00: 
+M:.Kimlay veychi kutran pu <Noise> 
+C:.no sabe ese tipo de enfermedad pues
+
+M:.malulu wingka nielaymi kutran 
+C:.revisa chileno no hay enfermedad
+
+M:.tati piaw püdaymi pi<%> 
+C:.esta bien ponojar dice
+
+M:.tati feypikevi ta pu kutranlleno 
+C:.ese dice a los que estan enfermo
+
+M:.feymu ta mongekelay <Noise> 
+C:.por eso que no vive
+
+M.:koypuluwi ta che perdey <Noise> 
+C:.se revuelca la gente muere
+
+Lh-nfspB2_x_0098_nmlch_00: 
+M:.Veytilamuen puchekay  ñikimünmu müli l'awen' <uh>
+C:.Ese hermana la gente en su saber hay remedio
+
+M:.mulechi l'awen'tungeavuy rume
+C:.hay remedio auque sea un poco
+
+_0099_nfsp_00: 
+M:.Muley yemay
+C:.Hay claro  			             
+    		 
+nmlch-nfspB2_x	0100_  nf 
+M:.Datungey datungey ngillatuñmangi
+C:.Le sacan el mal le oran mucho
+
+M:.santiwangi vemngechi 
+C:.se santigua asi
+
+M:.vey wifki contra l'awen' 
+C:.ahí vuelve contra el remedio
+
+M:.ka elungi ina mollvüñalu 
+C:.le dan despues sangre
+
+M:.ngüllfungi l'awen'mu 
+C:.se refrega con remedio
+
+M:.ngillatuñmangi ngüllfungi l'awen' 
+C:.se le oar mucho se refrega con remedio
+
+M:.ka pütokolngi 
+C:.le dan de beber
+
+M:.Dio tañi newen feyta keyuli 
+C:.la fuerza de Dios esa alluda
+
+M:.fymu kiñepüleluwi ta mewlen 
+C:.por eso pasa por un la do el remolino
+
+Nmlch-nfspB2_x_0101_nmlch_00: <Noise> <uh> 
+M:.Llellipuy ta machi kimlu l'awen'ngelu 
+C:.Ora la machi el que sabe de remedio
+
+M:.ka chalin tukufi tachi kutran 
+C:.lo encomenda con dios al enfermo
+
+M:.Ngünechenmu ka kintukay ta l'awen' 
+C:.en Dios tambien busca remedio
+
+M:.femuechi ta
+C:.asi es eso
+
+Nmlch-nfspB2_x_0102_nfsp_00: 
+M:.Vemngechi mongi pu 
+C:.Así vive pues
+
+M:.vemngechi wewi pu 
+C:.asi gana pues
+
+M:.vemngechi wewki 
+C:.asi gana 
+
+nmlch-nfspB2_x_0103_nmlch_00: 
+M:.Ka pewmakevi ta chumuechi 
+C:.tambien sueña de como
+
+M:.tañi tufiel pewütufi chumuechi 
+C:.tiene que atacar lo ve de como
+
+nmlch-nfspB2_x_0104_nfsp_00: 
+M:.Ka vemngechi llemay adkintuy 
+C:.Asi tambien pues mira 
+
+M:.willeñmu pulcheay rume 
+C:.la orina .....................................
+
+M:.chumngechi rume <Noise> 
+C:.como sea no mas
+
+M:.vemngechi vikimngi veyta 
+C:.como sea se sabe ese
+
+M:.inalngi l'awen' <Noise> 
+C:.se sigue el remedio
+
+nmlch-nfspB2_x_0105_nmlch_00: 
+M:.Inalngi l'awen'
+C:.Se sigue el remedio
+
+nmlch-nfspB2_x_0106_nfsp_00: 
+M:.Mewlen l'awen' pingi 
+C:.Remolino remedio se llama
+
+M:.kay nentukuramu wefki l'awen' pingi 
+C:.se saca el la piedra ese remedio diacen
+
+M:.kelü mewlen l'awen' pingi tati 
+C:.rojo remolino remedio se llama ese
+
+M:.veychi l'awen'mu ngawey longkongi 
+C:.ese remedio se refrega la cabeza
+
+M:.pütokongi ngüllfungi 
+C:.se le da de beber refregan
+
+M:.vey lefki veymu  wewngeki 
+C:.ahi se limpia por eso se gana
+
+nmlch-nfspB2_x_0107_nmlch_00: 
+M:.Femuechi 
+C:.asi
+
+nmlch-nfspB2_x_0108_nfsp_00: 
+M:.Vemngechi 
+C:.asi
+
+nmlch-nfspB2_x_0109_nmlch_00: 
+M:.Pitalmu <uh> 
+C:.hostital
+
+M:.mülepuafuy rume antü 
+C:.puede estar si quiere días
+
+M:.küyen tripantu mongelayafuy 
+C:.meses años no vivireia
+
+nmlch-nfspB2_x_0110_nfsp_00: 
+M:.Mongelayavuy kimkenoelam 
+C:. no sobre viviriea sino sabe
+
+M:.doy amuli ñi kutran pu 
+C:.mas abansa la enfermedad pues
+
+M:.ayiwküli wingkamu konkülelu 
+C:.se alegra con chileno atendiendese
+
+M:.wewan pili mapuchemu ngillatuve koni
+C:.ganare dice mapuche oración entra
+
+M:.veymu ta trupevuy mewlen 
+C:.ahi se asusta el remolino
+
+M:.chem weküvü ngepe rume 
+C:.cualquier Diablo que sea
+
+nmlch-nfspB2_x_0111_nmlch_00: 
+M:.Dalluntukungi pengelelngi 
+C:.Se le acusa se le muestra
+
+nmlch-nfspB2_x_0112_nfsp_00: 
+M:.Veymu veymu trupefki pu 
+C:.Por eso que se asusta pues
+
+nmlch -nfspB2_x_0113_nmlch_00: 
+M:.¡Aaa! <Noise>
+C:.¡Haa!
+
+M:.kay lamuen ka kiñe kutran 
+C:.y hernmana hay otra enfermedad
+
+M:.müli ngüfüyün pingi kimfimi tüfi <Noise> 
+C:.hay se tranca la orina se llama lo conoces ese
+
+M:.chemu tungekenka chem ñi kümefel
+C:.con que pasa y que es bueno
+
+nmlch-nfspB2_x_0114_nfsp_00: 
+M:.Tungeki epu rume ngüf willeñ 
+C:.Se adquiere dos tipo tranca orina
+
+M:.tungeki weküvümew  
+C:.se adquiere por el diablo
+
+M:.ka tungeki wütremu 
+C:.tambien se adquiere frio
+
+nmlch-nfspB2_x_0115_nmlch_00: <Noise> 
+M:.Weküfümew 
+C:.Con el diablo
+
+nmlch-nfspB2_x_0116_nfsp_00: 
+M:.may 
+C:.Si
+
+M:.pewmay ta pu kuñival 
+C:.sueñan los personas
+
+M:.pewmayüm pewmamu tungeki ta kutran 
+C:.sueñan sueñan se adquire la enfermedad
+
+M:.traicionakiyu ta weküvü 
+C:.traiciona el diablo
+
+M:.domo wentrungepe rume 
+C:.mujer hombre puede ser
+
+M:.pewmamu dalley ta domo 
+C:.sueño sabe la mujer
+
+M:.ta wentru tañi pewma feymu <SPA>
+C:.el hombre en su sueño ahi
+
+M:.depue veyta ngüf willeñi <Noise> 
+C:.despues este se tranca su orina
+
+M:.domo ka vemki dalley wentru <SPA>
+C:.mujer tambien hace el hombre
+
+M:.depue vey ka ngüf willeñi 
+C:.despues ese tambien se tranca su orina
+
+M:.wütremu ka rume wirkülü tañi anüwe 
+C:.hombre por tener mucho frio su ano
+
+M:.püralu tañi via viskü anüweli 
+C:. sube por medio frio su ano
+
+M:.veymu ta ka inchay tañi pavüdkoñveymu 
+C:.ahi se incha   su      bejiga
+
+M:.ta ngüf willeñki ta ka epu rume 
+C:.se tranca la orina hay dos tipo
+
+M:.a ngüf willeñki ta che
+C:.de trancarse la orina
+
+Nmlch-nfspB2_x_0117_nmlch_00: 
+M:.Dallünmu chem l'awen' kümefuy 
+C:.Mal que reme dio es bueno
+
+nmlch-nfspB2_x_0118_nfsp_00: <SPA>
+M:.Contra l'awen' llemay weküvü l'awen' 
+C:.Contra remedio claro remedio de diablo
+
+nmlch-nfspB2_x_0119_nmlch_00:
+M:. ¿Pütokongeki?
+C:.¿Se bebe?
+
+nmlch-nfspB2_x_0120_nfsp_00: 
+M:.May. 
+C:.Sí.
+
+M:.Pütokongeki. 
+C:. Se bebe.
+
+nmlch-nfspB2_x_0121_nmlch_00: 
+M:.Chem pingi chi l'awen' 
+C:.Como se llama el remedio
+
+nmlch-nfspB2_x_0122_nfsp_00: 
+M:.wütremu ka ka pütokoy l'awen' 
+C:.frio tambien se bebe el remedio
+
+M:.ka vey  witru mollvüñki witrutukimi 
+C:.ese tambien corre la sangre hace correr
+
+nmlch-nfspB2_x_0123_nmlch_00: 
+M:.Ka femuechi l'awen' welu 
+C:.Asi tambien remedio pero
+
+nmlch-nfspB2_x_0124_nfsp_00: <SPA>
+M:.No veychi l'awen' <SPA>
+C:.No ese remedio
+
+M:.no ka küme willituki 
+C:.no y  orina  bien
+
+M:.veymu müñaki desiñchaki kuntra 
+C:.por eso que desincha el esromago
+
+M:.veymu vey küme willitutuki 
+C:.ahi recien orina bien
+
+M:.pichikechengepe rume ngüf willeñki 
+C:.auque sea niño chico tranca orina
+
+2_x_0125_nfsp_00015_nmlch_00: 
+M:.Feyti lameun dallünmu ngüfuyümlu  
+C:.Ese hermana que le hiceron mal tranca orina
+
+M:.chem kümi chem <%> 
+C:.que es bueno que
+
+nmlch-nfspB2_x_0126_nfsp_00: 
+M:.Contra l'awen' müten pu 
+C:.Contra remedio no mas pues
+
+M:.trürümünmu itrovill l'awen' 
+C:.se le junta diferentes remedios
+
+nmlch-nfspB2_x_0127_nmlch_00: 
+M:.Füre l'awen' 
+C:Remedio fuerte
+
+nmlch-nfspB2_x_0128_nfsp_00: 
+M:.Vüre l'awen' müli pu ta trapümal <SPA>
+C:.Remedio fuerte tienen que juntarle
+
+M:.contra l'awen' veymu vey 
+C:.contra remedio ahi  recien
+
+nmlch-nfspB2_x_0129_nmlch_00:
+M:.Tüngtuy 
+C:.Se mejora
+
+nmlch-nfspB2_x_0130_nfsp_00: 
+M:.Tünki ajenko pingi l'awen' <SPA>
+C:.Es bueno el ajenco se llama el remedio
+
+M:.ruda pingi altamisa pingey 
+C:.ruda se llama altamisa se llama 
+
+M:.pivülkon pingi traven traven pingi <uh> 
+C:.pifulcon se llama trafentu trafentu se llama
+
+M:.chem pingiama dücho l'awen' pingi 
+C:.como se llama ducho remedio se llama
+
+M:.kurü chakay pingi liv chakay  pingi 
+C:.espina negra se llama espina blanca se llama
+
+M:.chod chakay pingi 
+C:.espina amarillase llama
+
+M:.itrovill ta trapümngi 
+C:.de todo se junta
+
+M:.kiñeke a mollvüñ trewa kutu 
+C:.algunas veces sangre de perro se pone
+
+M:.ta trapümi inchekay ta l'awen'kelan 
+C:.se junta yo no yo uso ese remedio
+
+M:.mollvüñ trewa vemngechi l'awen'
+C:.sangre de perro ese remedio
+
+M:.tu kutrankelay tañi <SPA>
+C:.no utilizo para mejorar mi
+
+M:.mamá trewa ta witramekelay ta l'awen'
+C:.mama terro no utiliza para remedio
+
+M:.tu kutranalu chem kutranmu rume 
+C:.no mejora en ninguna enfermedad 
+
+M:.ta witramelay <Noise> ta trewa 
+C:.no utiliza     el perro
+
+Nmlch-nfspB2_x_0131_nmlch_00: 
+M:.Re mapumu nentuy l'awen' 
+C:.Solo en la tierra saca remedio
+
+nmlch-nfspB2_x_0132_nfsp_00: 
+M:.May re mamüll l'awen'
+C:.Sí solo remedio de leña
+
+nmlch-nfspB2_x_0133_nmlch_00: 
+M:.Kachu l'awen' 
+C:.remedio pasto
+
+nmlch-nfspB2_x_0134_nfsp_00:  
+M:.Re menoko kachu l'awen'
+C:.Solo pantano remedio pasto
+
+nmlch-nfspB2_x_0135_nmlch_00: 
+M:.Tutey tüfi 
+C:.Es bueno eso
+
+nmlch-nfspB2_x_0136_nfsp_00: 
+M:.Feymu tutekevuy ka ngillatuñmavi 
+C:.Ahi le hace bien tambien oran
+
+M:.kiduam nievulu newen <Noise> 
+C:.como tiene fuerza
+
+M:.mtrümtuy ñi püllü 
+C:.llama sus espíritus
+
+M:.veyta mongel kutrani 
+C:.esta hace vivir enfermo
+
+M:.vemngechi mongel kutrankevuy tañi <SPA>
+C:.asi hace vivir a los enfermo  mi
+
+M:.mamá tati feymu 
+C:.mamá ese asi
+
+M:.veyta ka inakeviñ pu 
+C:.esta tambien lo seguimo pues
+
+nmlch-nfspB2_x_0137_nmlch_00: 
+M:.Lamuen feyti kay tüfi ngüfüllülunga <Noise> 
+C:.Hermana ese que  se le tranco la orina
+
+M:.wütremu pipimi chem l'awen' 
+C:.frio dijo usted que remedio
+
+M:.kümefuy tüfi 
+C:.es bueno para eso
+
+M:.ka wichuli l'awen' tüfi  
+C:.esta aparte remedio ese
+
+nmlch-nfspB2_x_0138_nfsp_00: 
+M:.Müle llimay kürü pelew pingi pu 
+C:.Hay claro poleo Negro se llama pues
+
+nmlch-nfspB2_x_0139_nmlch_00:
+M:. Kurü polew 
+C:.Poleo negro
+
+nmlch-nfspB2_x_0140_nfsp_00: 
+M:.May 
+C:.Sí
+
+nmlch-nfspB2_x_0141_nmlch_00: 
+M:.Trürlay tüfi ta dallenmu ngüfchen  
+C:.NO es lo mismo eso que mal de orina
+
+nmlch-nfspB2_x_0142_nfsp_00: 
+M:.Trürlay pu <SPA>no <Noise> 
+C:.No es lo mismo pues no
+
+nmlch-nfspB2_x_0143_nfsp_00: 
+M:.Kümey pu duranuengün <Noise> 
+C:.Es bueno pues con durazno
+
+M:.t'apül' duranuengün kurü polew 
+C:.hojas de durazno con poleo negro
+
+nmlch-nfspB2_x_0144_nmlch_00: <Noise> 
+M:.Kafetuki mongetuki <%> 
+C:.como café vive
+
+nmlch-nfspB2_x_0145_nfsp_00: 
+M:.May
+C:.Sí
+
+M:. kafetungi veymu 
+C:.se bebe como café ahi
+
+M:.vey kümewtuy kullituki che pu 
+C:.ahi es bueno paga la gente pues
+
+nmlch-nfspB2_x_0146_nmlch_00: 
+M:.Ke puuwi pafüñkoñmu 
+C:.solo llega a la vejiga
+
+M:.feyta ka mongetripatuy che 
+C:.esta sale viviendo la persona
+
+nmlch-nfspB2_x_0147_nfsp_00: 
+M:.May
+C:.Sí
+
+M:.vemngechi llemay 
+C:.asi es claro
+
+M:.welu re pichiken ka a'lüken <SPA>no <Noise> 
+C:.pero solo poco se le da  no
+
+nmlch-nfspB2_x_0148_nmlch_00: 
+M:.Kimngelu ti fente kümi tuntengen
+C:.El que sabe ese sabe que es bueno
+
+nmlch-nfspB2_x_0149_nfsp_00: 
+M:.Vey llemay kimnielu veyta trürümi 
+C:.Ese claro el que sabe ese junta
+
+M:.kimonlu kay ta pekan ka meki <Noise> <SPA>
+C:.si no sabe lo realiza mal
+
+M:.wuelta  doyümtukunuwi che doy kutrani 
+C:.vuelta lo enpeora la persona se enferma mas
+
+nmlch-nfspB2_x_0150_nmlch_00: 
+M:.Doy eluafuy 
+C:.Mas le da
+
+nmlch-nfspB2_x_0151_nfsp_00: <uh> 
+M:.Tutelay rume pepilnoelam adümnoelam <Noise> 
+C:.No le hace bien cuando no se sabe 
+
+nmlch-nfspB2_x_0152_nmlch_00: 
+M:.Feli llemay chi  lamuen 
+C:.Es asi claro pues hermana
+
+M:.feyta kimlu llemay nütramkangi 
+C:.el que sabe claro se le converza
+
+M:.fey ka küpa ka wülinga kimün 
+C:.el que quiere dar su conocimiento
+
+M:.fey pekan ta l'awen'tuchelay che 
+C:.no es llegar hacer remedio alas persona
+
+M:.ka fey eymi ta <uh> 
+C:.y ese usted lo
+
+M:.kimnielu tüfi feymu 
+C:.sabe ese ahi
+
+M:.eymi fente küme  tutelekimi 
+C:.usted tambien que lo mejora
+
+M:.femuechi mongentuymi kutran 
+C:.asi tienes que vivir enfermo
+
+M:.notukefimi ta kutran 
+C:.lo ataca la enfermedad
+
+M:.kam wüñoleltukemürke  mongen che 
+C:.tambien le devuelve la vida 
+
+M:.ta mongenmu ka 
+C:.la vida si
+
+Nmlch-nfspB2_x_0153_nfsp_00: 
+M:.Femkeyeviñengün may vemnkeviñ  
+C:.Asi lo realizo si si lo hago
+
+M:.kellukeviñreke pu montulkeviñ 
+C:.le ayudo pues lo salvo
+
+M:.tañi wesa dungu tañi amualengün 
+C:.mi mal palabra que embiaron
+
+nmlch-nfspB2_x_0154_nmlch_00: 
+M:.Fey llemay chi ini pingefuy 
+C:.Ese claro de cómo se llama
+
+M:.tüfi ini rume pinelafuy tüfi ka
+C:.cualquiera pudiera querer ese si
+
+nmlch-nfspB2_x_0155_nfsp_00: <SPA>
+M:.No chem che ta duamtulavuy 
+C:.No cualquier persona no lo nesecita
+
+M:.tañi chuchileay rume pu chunte 
+C:.de como este pues cuanto
+
+M:.rume pütacheleweay chunte rume servileay 
+C:.solo anciano estara igual seguirá sirviendo
+
+M:.müchay chumpe pingelay 
+C:.no le pasara nada 
+
+M:.müchaynga chumchi pilaynga  
+C:.que ara como le dira ese
+
+M:.rume che komnga sentini mongen 
+C:.cualquier persona siente su vida
+
+M:.kom ayiñnga iñ adkintuneal nga 
+C:.todos le gustan a observar si 
+
+M:.pelon antü lamngen <Noise>  
+C:.el día hermana
+
+nmlch-nfspB2_x_0156_nmlch_00: <Noise> 
+M:.Feytikay lameun ka kiñe 
+C:.Ese hermana hay una
+
+M:.kutrannga müli mapu kutran pingi 
+C:.enfermadad hay enfermedad de tierra se llama
+
+M:.mapuchemu kimfimi 
+C:.mapuche lo conoce
+
+nmlch-nfspB2_x_0157_nfsp_00: 
+M:.Ka kimneyeviñ may chew kimnoavulu 
+C:.Claro lo conosco si como no voy a saber
+
+nmlch-nfspB2_x_0158_nmlch_00: 
+M:.Kutrankawki señra gringangeavuy rume 
+C:.Sufre chilena,grigas cualquiera
+
+M:.mapuchengeay rume rume kutrankawki 
+C:.o puede ser mapuche sufre igual
+
+M:.feytichi kutranmu ngelay ta l'awen' 
+C:.esa enfermedad no tiene remedio
+
+M:.pingi pitalmu pingi welu chem <%>
+C:.se dice hospital se dice peor que
+
+nmlch-nfspB2_x_0159_nfsp_00: 
+M:.Chem ngenoavulu müli tati
+C:.Que no debe haber hay ese
+
+nmlch-nfspB2_x_0160_nmlch_00: 
+M:.Mülepi 
+C:.Debe haber
+
+nmlch-nfspB2_x_0161_nfsp_00: 
+M:.Müley chew ngenoavulu l'awen' 
+C:.Hay que siempre hay remedio
+
+M:.itrovill kutranmu müli l'awen' lamngen 
+C:.difereners enfermedades hay remedio hermana
+
+M:.itrovill kutran 
+C:.diferente enfermedad
+
+M:.chem kutran ngepe rume niy l'awen'
+C:.cualquier enfermedad puede ser tiene remedio
+
+nmlch-nfspB2_x_0162_nmlch_00: 
+M:.Mapuchemu müli tüfichi l'awen'   
+C:.Mapuche hay ese remedio
+
+nmlch-nfspB2_x_0163_nfsp_00: 
+M:.Müli simul ka pingi l'awen' 
+C:.Hay simul se llama remedio
+
+M:.püñal villkuñ pingi l'awen' <Noise> 
+C:.puñal lagarto se llama remedio
+
+nmlch-nfspB2_x_0164_nmlch_00: 
+M:.Feytichi kimün kay 
+C:.Ese conocimiento si
+
+M:.chew pengeafuy pe 
+C:.donde se encontraria 
+
+nmlch-nfspB2_x_0165_nfsp_00: 
+M:.mawidamu llemay re mawidamu 
+C:.monte claro solo monte
+
+M:.Mülelu l'awen' 
+C:.donde hay remedio
+
+nmlch-nfspB2_x_0166_nmlch_00: 
+M:.Kachu l'awen' 
+C:.Remedio de pasto
+
+nmlch-nfspB2_x_0167_nfsp_00: 
+M:.Kahu l'awen' <SPA>no
+C:.Remedio pasto no
+
+nmlch-nfspB2_x_0168_nmlch_00: 
+M:.Mamüll l'awen'
+C:.Remedio leña
+
+nmlch-nfspB2_x_0169_nfsp_00: 
+M:.May 
+C:.Sí
+
+nmlch-nfspB2_x_0170_nmlch_00: 
+M:.Tremi a'lün' pichi
+C:.Crecio arto poco
+
+nmlch-nfspB2_x_0171_nfsp_00: 
+M:.Ventekeki müten mapumu 
+C:.Asi de este porte noma tierra
+
+M:.püllümu lladimulli vamngechi<Noise>  
+C:..........................................................asi
+
+M:.changül küwüreke pütrüke amuki <Noise> 
+C:.como el dedo crece grande sigue
+
+M:.ventreke amuki 
+C:.grande crece
+
+Nmlch-nfspB2_x_0172_nmlch_00: 
+M:.Feymuanta fey pingi dimullka pingi 
+C:.Por eso que se dice dimulca se llama
+
+nmlch-nfspB2_x_0173_nfsp_00:
+M:. veymu <Noise> veymu simullka pingi 
+C:.Por eso  por eso se llama simulca
+
+nmlch-nfspB2_x_0174_nmlch_00: 
+M:.Kangelu fillkun l'awen' 
+C:.El otro lagartija remedio
+
+nmlch-nfspB2_x_0175_nfsp_00: 
+M:.May püñal villküñ pingi 
+C:.Sí puñal lagartija se dice
+
+nmlch-nfspB2_x_0176_nmlch_00: 
+M:.Feytinga <Noise> mülekinga chemu 
+C:.Ese             esta   donde
+
+nmlch-nfspB2_x_0177_nfsp_00: 
+M:.Kangelu üpül ngürü pingi 
+C:.El otro upul zorro se llama
+
+nmlch-nfspB2_x_0178_nmlch_00: <Noise> 
+M:.Upül ngürü
+C:.Upul zorro
+
+nmlch-nfspB2_x_0179_nfsp_00: 
+M:.May. 
+C:.Sí.
+
+nmlch-nfspB2_x_0180_nmlch_00: 
+M:.Fey kangelu 
+C:.ese otro
+
+nmlch-nfspB2_x_0181_nfsp_00: 
+M:.Kangelu llemay 
+C:.el otro claro
+
+nmlch-nfspB2_x_0182_nmlch_00: 
+M:.¡Aaa! 
+C:.¡Haa!
+
+M:.chew pengeafuy üpül ngürü lamuen 
+C:.donde se encuentra upul zorro remedio
+
+nmlch-nfspB2_x_0183_nfsp_00: 
+M:.Mapumu ka kachu l'waen' <SPA>
+C:.tierra pasto de remedio
+
+M:.ese kachu tati 
+C:.ese pasto ese
+
+nmlch-nfspB2_x_0184_nmlch_00: 
+M:.Küllegmu menokomu mawida chuchimu 
+C:.Quebrada pantano monte cualquier parte
+
+nmlch-nfspB2_x_0185_nfsp_00: <SPA>
+M:.No mapu müten re lelvünmu 
+C:.No solo en la tierra pampa
+
+M:.chuchimu rume müleki we<%>  
+C:.cualquier parte hay
+
+M:.re ka anken mapumu vemngechi 
+C:.solo eln la tierra seca asi
+
+_x_0187_nfsp_000186_nmlch_00: 
+M:.Kimngenolu welu 
+C:.No lo conocen pero 
+
+M:.pünoafuy rume pelafuy
+C:.puede pisotear no lo ve
+
+nmlch-nfspB2_x_0188_nfsp_00: 
+M:.Chew peavuy ta kimnolu 
+C:.Donde pude ver el que no sabe
+
+M:.ta wente rupayawyi ma
+C:.puede pasar no lo ve 
+
+nmlch-nfspB2_x_0189_nmlch_00: 
+M:.Femlli may chi 
+C:.Asi es claro el
+
+nmlch-nfspB2_x_0190_nfsp_00: 
+M:.Wente urpay pünongi l'awen' pu 
+C:.Puede pasar lo pisotea el remedio pues
+
+nmlch-nfspB2_x_0191_nmlch_00: 
+M:.Kimnolu kay tati
+C:.como no sabe ese
+
+nmlch-nfpB2_x_0192_nfsp_00: 
+M:.Kimnoleuam chum kimavuy rume 
+C:.Como no sabe como podria saber
+
+M:.Chumngechi kimavuy  che kay 
+C:.como podria saber la persona eso
+
+M:.tañi l'awen'ngen kay tati kimlu 
+C:.mi remedio dueño ese si sabe 
+
+M:.veyta witrami pu<Noise> 
+C:.esta recurre pues
+
+M:.feyta eluy kutran 
+C:.esta dio enfermedad
+
+M:.vey mongeltuy tati welu kimnolu l'awen' 
+C:.ese re vive este pero no sabe remedio
+
+M:.piavel pi adkintual rume ngünewlay 
+C:.si ve dijo miro no se controla
+
+M:.ka pu adkintu l'awen'lay rume che <Noise> 
+C:.se pues mire remedio ni si quera
+
+Nmlch-nfspB2_x_0193_nmlch_00: 
+M:.Kimnolu kay 
+C:.como no sabe 
+
+nmlch-nfspB2_x_0194_nfsp_00: 
+M:.Vemngechi tati lamngen 
+C:.Asi es hermana
+
+M:.vemngechi müli ta dungulenoam 
+C:.asi es hay  conocimiento
+
+M:.itrovill dungu ta ni ta l'awen' 
+C:.diferente palabras de remedio
+
+M:.itrovill dungu ta ni ta adümuwun 
+C:.diferente palabra se saben
+
+M:.pepiluwün itrovill kutran 
+C:.aprenden diferentes enfermedad
+
+M:.itrovill kutran müli itrovill  l'awen' 
+C:.diferente enfermedad diferente remedio
+
+M:.ka müli mapumew tañi chengenmu kimlu 
+C:.tambien hay en la tierra para la persona
+
+M:.llemay ta ka ta inay 
+C:.que sabe lo sigue
+
+M:.kimnolu kay ta ka ka vemlay ka ka 
+C:.el que no sabe no lo realiza pues
+
+nmlch-nfspB2_x_0195_nmlch_00: 
+M:.Ngünechen ta pilu 
+C:.Dios quiere
+
+M:.Ngünechen ta elufilu kimün 
+C:.dios le dio conocimiento
+
+M:.feyta kelluilu 
+C:.esta le ayudo
+
+M:.feyta fentren l'awen' kimi ka 
+C:.este harto remedio sabe ese
+
+nmlch-nfspB2_x_0196_nfsp_00: 
+M:.Vey llemay 
+C:.Ese claro
+
+nmlch-nfspB2_x_0197_nmlch_00: 
+M:.Mongenmu 
+C:.En la vida
+
+nmlch-nfspB2_x_0198_nfsp_00: 
+M:.Vey 
+C:.Ese
+
+nmlch-nfspB2_x_0199_nmlch_00: 
+M:.Tüfi inchiñ tañi mongenmu 
+C:.Esa vida de nosotros 
+
+M:.kuyfi ta fentre llamngekevuy ta l'awen' 
+C:.antes respetaban mucho el remedio
+
+M:.re nentumekelafuy<Noise> 
+C:.solo sacaban
+
+M:.ini ayenma nentumekelafuy l'awen' 
+C:.quien era el que sacaba remedio
+
+M:.mülekevuy ta kullitun pingi feyngepi <Noise> 
+C:.habia el que se le pagaba se decia
+
+M:.tüfi lamuen   
+C:.ese hermana
+
+Nmlch-nfspB2_x_0200_nfsp_00: 
+M:.Veyngellevuy may ngillatuñmangi 
+C:.Ese eran los que oraban 
+
+M:.kulliñmangey veymu kümelkay l'awen' 
+C:.se le pagaba asi se mejoravan remedio
+
+M:.vantenmu kümelkakelay kiñekemel 
+C:.hoy dia no hace bien en ocaciones
+
+M:.kümelkakelay l'awen' 
+C:.no hace bien el remedio
+
+M:.che ngillatulay duamtulay 
+C:.persona no ora no le importa
+
+M:.diomu duamtulavi ngen l'awen' 
+C:.dios no le importa dueño remedio
+
+M:.anümkalu püramnepalu karü l'awen' 
+C:.planto subieron remedio verde
+
+M:.duamtulay tutekelay l'wen' 
+C:.no le interesa no le hace bien remedio
+
+M:.ngelay maneluwün ngelay fellentun 
+C:.no hay para mandar no hay creencia
+
+M:.feymu tutekelay chumte rume 
+C:.por eso no le hace bien nada
+
+M:.konavuy adüm l'awen'lumu 
+C:.no dentra el que nosabe de remedio
+
+M:.chumte rume kim l'awen'avuy 
+C:.aunque seoa de remedio si
+
+M:.machingeauy rume mongel kutrankelay <SPA>
+C:.machi puede ser no vive al enfermo
+
+M:.porque nielay kimün 
+C:.porque no tiene conocimiento
+
+M:.diomu chalintukulay kutran 
+C:.dios no lo encomienda al enfermo
+
+M:.dio ñi dungumu entu l'awen'lay 
+C:.dios su palabra saca remedio no
+
+M:.trrüm l'awen'lay 
+C:.junta remedio no
+
+M:.ngillatulay katrünentufemi <Noise> 
+C:.no ora cuando saca remedio
+
+M:.veymu kiñeke machi mongel 
+C:.por eso unas machi no vive
+
+M:.kutrankelay rume lamngen
+C:.al enfermo asi hermana
+
+nmlch-nfspB2_x_0201_nmlch_00: 
+M:.LLellipunolu 
+C:.no ruegan a dios
+
+nmlch-nfspB2_x_0202_nfsp_00: 
+M:.LLelipunolu kay ti 
+C:.no ruegan a dios eso
+
+nmlch-nfspB2_x_0203_nmlch_00: 
+M:.Tutelu vey llenolu dungu 
+C:.Eso deberia ser palabras
+
+nmlch-nfspB2_x_0204_nfsp_00: 
+M:.Kimnolu kay tati 
+C:.como no sabe ese
+
+M:.kimnolu ta chumekeavuy rume ta chumlay 
+C:.como no sabe haga lo que haga no hace
+
+nmlch-nfspB2_x_0205_nmlch_00: <uhm> 
+nmlch-nfspB2_x_0206_nfsp_00: 
+M:.kuyfi müna llamngi l'awen' 
+C:.Antes se respetaba mucho remedio
+
+M:.ngillatuñmangi kullingi volle 
+C:.se le oraba se le pagaba canelo
+
+M:.chu chem l'awen'ngepe rume 
+C:.con cualquier cosa no mas
+
+M:.pütremmangi pütre tungi 
+C:.se fumaba se le tiraba el humo
+
+M:.utrulelngi muday kulliñmangi kiñe <SPA>
+C:.le tiraban muday se le pagaba un
+
+M:.peso kulliñmangi kiñe runa mürke tikün<Nois
+C:.peso se le pagaba un pouñado de arina locro
+
+M:.chem rume feymu l'awen' 
+C:.cualquier cosa asi remedio
+
+M:.fey newenngi wüli tañi l'awen' 
+C:.asi tenia fuerza el remedio
+
+M:.ta ngen l'awen' anümkanelu iñ l'awen' 
+C:.el dueño del remedio el que lo planto remedio
+
+M:.püramnepalu ñi karü l'awen' 
+C:.el que broto el remedio verde 
+
+M:.vemngechi mongevuy pu kuñivall 
+C:.asi vivia las persana sola
+
+M:.kuyvi vantenmu may 
+C:.antes en este si
+
+M:.ta che ta chem ta 
+C:.la gente no lo
+
+Nmlch-nfspB2_x_0207_nmlch_00: 
+M:.Falintuwetulay
+C:.Valorizaba
+
+nmlch-nfspB2_x_0208_nfsp_00: +/
+M:.Valinnge/+ valintungewetulay ta l'awen'
+C:.Valia   no es valido el remedio
+
+M:. pekan katrün entungi pichikeche rume 
+C:.cualquiera saca remedio los niño puede
+
+M:.ta kintu l'awen'tuy 
+C:.buscar remedio saca
+
+M:.kuyvi ta ngelay veychi picikeche 
+C:.antes no habia eso los niño
+
+M:.ta kintu l'awen'alu 
+C:.no buscaban remedio
+
+M:.rüf ngen machi müten ta kintu 
+C:.solo el dueño machi no mas busca
+
+M:.l'awen'ni
+C:.remadio para
+
+nmlch-nfspB2_x_0209_nmlch_00: 
+M:.Felllentunelu nielu kimün ka 
+C:.Creen el que tiene conocimiento
+
+nmlch-nfspB2_x_0210_nfsp_00: 
+M:.May vey müten  
+C:.Sí ese no mas
+
+M:.rüf ngen machi 
+C:.solo dueño machi
+
+M:.machi kurengelu rüf ngen machi 
+C:.machi casada solo dueño machi
+
+M:.veyta kintu l'awen'ni 
+C:.ese busca remedio  y
+
+M:.ngillatuyawi tati 
+C:.anda orando  ese
+
+M:.katrün entu l'awen'alu 
+C:.corta saca remedio 
+
+M:.machimu konalu kutranmu 
+C:.machi para entrar enfermo
+
+M:.konalu piawi<Noise> 
+C:.entra dice
+
+Nmlch-nfspB2_x_0211_nmlch_00: 
+M:.LLellipuyawi
+C:.Anda rogando
+
+nmlch-nfspB2_x_0212_nfsp_00: 
+M:.May fantenmuam ini vemi 
+C:.Sí asta hoy quien lo hace
+
+M:.machi kurengeavuy rume 
+C:.machi casada puede
+
+M:.kintu l'awen'lay 
+C:.buscar remedio
+
+M:.machi vey kañpüle vey yevaltuy 
+C:.machi si otra parte encarga
+
+M:.tatiküpalelngechi pi ngillatuy 
+C:.le traen remedio dice y ora
+
+M:.ngilavi ta katrün 
+C:.compra el enfermo
+
+M:.vey entumealuam ngillatuy 
+C:.asi para sacar ora
+
+M:.ñi entumeluam kay kulli<Laugh>  
+C:.para sacar tambien paga
+
+M:.chew tañi vemal vemlay pu 
+C:.que va ser asi no es asi pues
+
+M:.chumngeluam vye tutealu kutran machi 
+C:.porque sera para mejorar enfermo machi
+
+Nmlch-nfspB2_x_0213_nmlch_00: 
+M:.Tutelay <%> 
+C:.No le sirve
+
+nmlch-nfspB2_x_0214_nfsp_00: kuyvi 
+M:.Vemlay dungu lamngen 
+C:.No es así hermana
+
+M:.veymul le ta avlu kuyvike dungu 
+C:.por eso que se termino los de antes
+
+nmlch-nfspB2_x_0215_nmlch_00:
+M:.Rume  ngullikelay 
+C:.mucho no pagan
+
+nmlch-nfspB2_x_0216_nfsp_00: 
+M:.Fantenmu kimngewetulay veychi dungu <Noise> 
+C:.Hoy no sabe esos conocimiento
+
+M:.itrovill dungu rüf avi 
+C:.diferentes palabra se aterminado
+
+M:.müten ñami müten 
+C:no mas se perdio
+
+Nmlch-nfspB2_x_0217_nmlch_00: 
+M:.Feyti ka rume mülefuy 
+C:.Ese tambien habia
+
+M:.kuyfi ta kimünmu  
+C:.cosas antigua
+
+M:.eymi pipiminga felepefuy 
+C:.usted dijo era asi estaba
+
+M:.tüfi rume llamngekefuy ta menoko 
+C:.ese respetaba mucho el pantano
+
+M:.rume llamngekevuy ta mawida 
+C:.respetaba mucho el monte
+
+M:.kürüf ta llamngekefuy <Noise> 
+C:.respetaba el viento
+
+M:.fill lewfü kom llamngekefuy 
+C:.los ríos todo lo respetaban
+
+M:.feyngi tüfi lamuen
+C:.asi es hermana
+
+nmlch-nfspB2_x_0218_nfsp_00: 
+M:.Feyngi llimay ñi vemkevel 
+C:.Es asi pues de lo que hacian
+
+M:.itrovill llamngi pu <Noise> 
+C:.todo lo respetaban pues
+
+Nmlch-nfspB2_x_0219_nmlch_00: 
+M:.Chumuelu llamnge...
+C:.Porque respetaban
+
+nmlch-nfspB2_x_0220_nfsp_00: 
+M:.Tralkan ta llamngi 
+C:.trueno lo respetaban
+
+M:.tralkani ta kuyvi pikevuy tañi <SPA>
+C:.truena antes decia mi
+
+M:.mamá dewmata eluwi ta tralkan 
+C:.mama ya se dejo el trueno
+
+M:.fill rukamu chew ta müli 
+C:.todas las casa donde hay
+
+M:.pu kude lukutuy ta tüfi ina kültralmu 
+C:.pues anciama serodillaban orilla fuego
+
+M:.lukuli ku kurus 
+C:.rodillaban el negro
+
+M:.vemngechi pütrem utruntukumeki 
+C:.asi cigarro se le ponia
+
+M:.tañi mürke pi newentupe 
+C:.el la arina decia fuerza
+
+M:.ta pu longko pipingi newentupe pu <SPA>
+C:.a los jefes decia fuerza pues
+
+M:.capitán pu kudeve 
+C:.capitan los corredores
+
+M:.newengepe tüvachi mürkemu  
+C:.fuerza con esta arina
+
+M:.niepe ta werwan neyen tuku werwanpe 
+C:.tengan fuerza aspiren fuerza
+
+M:.neyen tuku newenpe pipingi 
+C:.mobiniento tenga decia
+
+M:.ta pu kude püchakekeche pikevuy 
+C:.las ancianas anciano decian 
+
+M:.müli ta tralkan pi cerangi ta <SPA>
+C:.hay trueno decian cierran la
+
+M:.puerta ellkangi ta <%> <SPA>
+C:.puerta se enconde lo
+
+M:.ceru pi ka müli ta trokür 
+C:.acero pues y hay nieblina
+
+M:.pichikeche ta wemün entungi 
+C:.lo niño se sacan arriba
+
+M:.wemü trokoralu pi 
+C:.arriba nieblina dice
+
+nmlch-nfspB2_x_0221_nfsp_00: 
+M:.Rume trokürkevuy kuyvi 
+C:.mucha niebina antes
+
+M:.wemün entungekevuiñ lefkiawkevuy 
+C:.ariba se sacaba corriendo
+
+M:.taiñ wemü trokürün kiñeke rali 
+C:.nuestro arriba niebla unos platos
+
+M:.epuke rali nentuiñ ta trufken pi <Noise> 
+C:.de a dos plato se sacaba senisa decia
+
+M:.vey veymu ta liftukevuy wenu pi ñi <SPA>
+C:.así ahí se limpiaba arriba decia mi
+
+M:.mamá
+C:.mamá
+
+Nmlch-nfspB2_x_0222_nmlch_00: 
+M:.Liftuam 
+C:.Limpiar
+
+Nmlch-nfspB2_x_0223_nfsp_00: 
+M:.Liftukevuy mapu pikevuy 
+C:.Limpiaban la tierra decia
+
+M:.dumiñkevuy trükür kuyvi 
+C:.se tapaba antes la nieblina
+
+M:.rume kintunenengekelavuy trokür 
+C:.no se podia buscar cuando habia niebla
+
+M:.ñamkevuy kutu che antü trokürmu 
+C:.se perdia las persona en el dia
+
+M:.pikevuy veymu vey inchiñ wemün 
+C:.decia por eso ese nosotro arriba
+
+M:.entungiñ tati vey taiñ taiñ 
+C:.nos sacaban asi ese asi pues
+
+M:.wemüaviel ta trokür 
+C:.arriba la nieblina
+
+M:.wadkeñkiavuiñ ta mapu levünmu pi 
+C:.gritaba la tierra en la panpa decia
+
+M:.pichikeche vill rukamu 
+C:.lo niño toda las casa
+
+M:.tripay che yetunge tami koñi 
+C:.sale la gente lleva tu hijo
+
+M:.kar kar vilu pikevuy tañi <SPA>mamá
+C:.cacariando la culebra decia mi mamá
+
+nmlch-nfspB2_x_0224_nmlch_00: 
+M:.¡Aaa!
+C:.¡Haa!
+
+nmlch-nfspB2_x_0225_nfsp_00: 
+M:.Vemngechi wemukevuiñ 
+C:.Asi se iva arriba
+
+M:.chem trokür pikevuy  
+C:.que niebla decia
+
+nmlch-nfspB2_x_0226_nmlch_00: 
+M:.Kiñe kimünmu welu tüfi 
+C:.Un conocimiento pero ese
+
+nmlch-nfspB2_x_0227_nfsp_00: 
+M:.May kimünmu llemay pütakecheyem 
+C:.Sí conocimiento claro anciano
+
+M:.tañi kimün tati veyta enseñalkevuy 
+C:.su conocimiento este le enseñaba
+
+M:.tañi pichikeche  vemaymün 
+C:.sus niños tienen que hacer
+
+M:.veypiaymün pikeveymu tañi ñuke 
+C:.diran decian mi madre
+
+M:.tañi chawem 
+C:.mi padre
+
+M:.vemngechi wemü tripakevuiñmu 
+C:.asi arriba saliamos
+
+M:.wirarkeawkeavuiñ tati yetunge tami<Noise>  
+C:.gritando andavamos asi cree mi
+
+M:.tami koñi karkar vilu piawkevuiñ 
+C:.mi hijo carcar culebra se decia
+
+M:.tañi wemüviel chi trokür pikevuy 
+C:.para subir la nieblina se decia
+
+nmlch-nfspB2_x_0228_nmlch_00: 
+M:.Welu tüfi liftukefuy  
+C:.Pero ese limpiaba
+
+nmlch-nfspB2_x_0229_nfsp_00: 
+M:.Livtukevuy pi 
+C:.Limpiaba decia
+
+M:.pengetukevuy antü pi
+C:.se veia el sol decia
+
+nmlch-nfspB2_x_0230_nmlch_00: <uhm> 
+M:.Mülefuy müngeltun 
+C:.Habia vida
+
+M:.fellentum kom 
+C:.creencia todo
+
+Nmlch-nfspB2_x_0231_nfsp_00: 
+M:.Mülellevuy may 
+C:.habia si
+
+M:.feymulle tañi vemkevelengün 
+C:.es por eso que hacian eso
+
+nmlch-nfspB2_x_0232_nmlch_00: 
+M:.LLellipun puukevuy 
+C:.Rogaban llegaba
+
+M:.ta Ngünechenmu ka
+C:.en dios y
+
+nmlch-nfspB2_x_0233_nfsp_00: 
+M:.Vemkellevuyngün 
+C:.Lo realizaban
+
+M:.may 
+C:.sí
+
+M:.chem pingi dungun kuyvikeche 
+C:.que decian su conversa lo anciano
+
+M:.chumngechi ñi dungun 
+C:.como se hablaban 
+
+M:.chumngechi ñi trakiduamün 
+C:.como era su pensamiento
+
+M:.kom velekevuy 
+C:.todo esta 
+
+M:.Dio pikevuy ñi <SPA>mamá
+C:.Dios decia mi  mamá
+
+2_x_0234_nfsp_00006_nmlch_00: 
+M:.Müngeltukefuy kom 
+C:.Revivia todo
+
+nmlch-nfspB2_x_0235_nfsp_00: 
+M:.Kom müngeltulekevuy pi 
+C:.todo revivia decia
+
+nmlch-nfspB2_x_0236_nmlch_00: 
+M:.Puukefuy llellipun ka
+C:.alcanzaba la oración
+
+nmlch-nfspB2_x_0237_nfsp_00: 
+M:.Puukellevuy mülekevuluam <Noise> 
+C:.Alcanzaba como habia
+
+M:.fellentun kidu kidu kimni 
+C:.creencia solo solo sabe
+
+M:.ka pu Dio ka  pelotuli 
+C:.a los dios y ve
+
+M:.ñi chumngechi ñi rakiduamkülen 
+C:.de como se piensa
+
+M:.ñi pu püñeñ pu <Noise> 
+C:.de su hijo pues
+
+M:.vemngechi rupaiñ pikevuy ñi <SPA>
+C:.asi pasaba se decia mi
+
+M:.mamá vey ke inche 
+C:.mama ese si yo
+
+M:.kimpalan veychi dungu 
+C:.no conocí esa conversa
+
+nmlch-nfspB2_x_0238_nmlch_00: 
+M:.Welu. 
+C:.Pero.
+
+nmlch-nfspB2_x_0239_nfsp_00: 
+M:.Welu kidu nütramkalkevenu 
+C:.Pero solo conversaba
+
+M:.vemngechi <*SPA>pu'. 
+C:.asi es pues.
+
+nmlch-nfspB2_x_0240_nmlch_00: 
+M:.Femuechi yomkimtuymi 
+C:.Asi es se sabe poco
+
+nmlch-nfspB2_x_0241_nfsp_00: 
+M:.may emngechi amuli ñi yomkimün 
+C:.Sí es  abanza su conocimiento
+
+nmlch-nfspB2_x_0242_nmlch_00: 
+M:.A'lün' kimün ta mülekerkevuy 
+C:.Atos conocimieto si habia
+
+M:.ta kuyfi ta mongenmu lamuen 
+C:.si antes en la vida hermana
+
+M:.fey eymi fente küme llowngekefimi 
+C:.y usted tan bien lo que recibes
+
+M:.yomkimimi ka feymu ta 
+C:.resibes y tambien lo
+
+M:.veymu ta nütramkapetuyu 
+C:.por eso te conversado
+
+M:.tüfa tachi <uh> 
+C:.este es
+
+M:.pu trafiamew welu ka mülekepelafuy 
+C:.pues en la pero en la noche debe haber 
+
+M:.ti lamuen ngekenofuluam pital 
+C:.si hermana como no habia hospital
+
+M:.ngekelafuynga <SPA>
+C:.no habia
+
+M:.posta tüfa tachi lofmew 
+C:.posta aqui en este espacio
+
+M:.fey kuyfi mülekepelafuy 
+C:.así antes si debia haber
+
+M:.püñeñelchefe ka tüfi pe 
+C:.partera mas antes si
+
+Nmlch-nfspB2_x_0243_nfsp_00: 
+M:.Ka mülekevuy ta pu kude 
+C:.Habian las ancianas
+
+M:.kintungekevuy püñeñelchealu 
+C:.lo buscaban para atender parto
+
+M:.pikefuy elkünungi tati kom 
+C:.decia lo dejaron eso todo
+
+M:.tremkakünüñmangi ñi pütra 
+C:...................................................su estomago
+
+M:.ka elkünungi l'awen' 
+C:.tambien le dejan remedio
+
+M:.naciam püñeñ pikefuy ka müleki 
+C:.para nacer guagua decia que habia
+
+M:.witranentu püñeñalu 
+C:.tirar la guagua
+
+M:.ka pepi nacenolu pi kom 
+C:.cuando no podia nacer decia todo
+
+M:.puychekevuy chi 
+C:.................
+
+M:.püñeñchekelu pikevuy 
+C:.hacian nacer guagua decia
+
+nmlch-nfspB2_x_0244_nmlch_00: 
+M:.Feyti <uh> 
+C:.Ese
+
+M:.wudam kimlafuy re ta <uh> 
+C:.partir no sabia solo lo
+
+M:.pilu ka Ngünechen ta elukepefeyu 
+C:.quiso dios le daba
+
+M:.ta femuechi tañi küme
+C:.para que que bien
+
+NfspB2_x_0246_nmlch_00sp_00: 
+M:.Fey llemay 
+C:.Es asi claro
+
+nmlch-nfspB2_x_0247_nmlch_00: 
+M:.Pelotuafel 
+C:.Para ver
+
+nmlch-nfspB2_x_0248_nfsp_00: 
+M:.Dio ta Dio ta 
+C:.Dios es Dios es
+
+M:.elukeveyu kimün llemay <Noise> 
+C:.daba conocimiento claro
+
+Nmlch-nfspB2_x_0249_nmlch_00: 
+M:.Pelontuafiel 
+C:.para poder verlo
+
+nmlch-nfspB2_x_0250_nfsp_00: 
+M:.Tañi chumekeal 
+C:.Para realizar
+
+M:.chumngechi ñi adümaviel kom ta 
+C:.como poder aprender toto esto
+
+M:.Dio tañi elkevel 
+C:.Dios el que dejo
+
+M:.vemngechi niekevuy 
+C:.así sabia tener
+
+M:.eli ta püñeñelchealu pi 
+C:.dejo su partera decia
+
+M:.müli ta dewmayalu trürümatualu 
+C:.hay para realizar juntar
+
+M:.ta welngiñ pi müli ta 
+C:................................decia hay si
+
+M:.ka ta müli ta trürümtualu 
+C:.y tambien hay el que junta
+
+M:.travon pi vey santiguachealu 
+C:.quebrado decia asi santiguar
+
+M:.ka püñeñ ta ngillatñmayavilu 
+C:.el hijo lo vendecira
+
+M:.ka müli wichulekevuy 
+C:.tambien hay esta aparte
+
+M:.pikevuy ñi <SPA>
+C:.decia mi
+
+M:.mama re wichuke 
+C:.mama solo aparte
+
+M:.ta müli veychi dungu pi 
+C:.tambien hay ese palabra decia
+
+Nmlch-nfspB2_x_0251_nmlch_00: 
+M:.Kom wichuli 
+C:.Todo aparte
+
+nmlch-nfspB2_x_0252_nfsp_00: 
+M:.Kom wichulekevuy pi pütakecheyem 
+C:.Todo aparte decia los anciano
+
+M:.tañi vemngechi tñi adümüwün  
+C:.para asi poder aprender
+
+M:.kidungünew ta chumkelay rume che 
+C:.solo no realiza las cosa las persona
+
+M:.chumekekelay rume Dio ta 
+C:.no hace nada solo dios lo
+
+M:.femuechi wülki ta püllü 
+C:.así entrega el espíritus
+
+M:.pikevuy tañi <SPA>mamá tati 
+C:.decia mi  mamá asi
+
+Nmlch-nfspB2_x_0253_nmlch_00: 
+M:.Femuechi kay niefuy 
+C:.Asi pues tenia
+
+M:.kay fellentunengün ngünenengün 
+C:.su creencia en el respetaban
+
+M:.tüfi lamuen kuyfi niefulunga 
+C:.eso hermana antes tenian
+
+M:.eluulu ti fey puche ngünenmu <Noise> 
+C:.dejaron esas gentes cotrolado
+
+M:.trokitunelu fey elkunu ruka 
+C:.quien saba ese dejo en casa
+
+M:.mülefuy ka tüfi 
+C:.habia  si ese 
+
+nmlch-nfspB2_x_0254_nfsp_00: 
+M:.Eluulu vey wüdalu 
+C:.Dejo ese partio
+
+nmlch-nfspB2_x_0255_nmlch_00: 
+M:.May. 
+C:.Sí.
+
+nmlch-nfspB2_x_0256_nfsp_00: 
+M:.Ka mülellevuy
+C:.Tambien hay
+
+nmlch-nfspB2_x_0257_nmlch_00: 
+M:.Mülefuy tüfi. 
+C:.Habia eso.
+
+nmlch-nfspB2_x_0258_nfsp_00: 
+M:.Ka mülevuy pu itrovill dungu 
+C:.Tambien habia pues diferente palabras
+
+M:.mülevuy dungu anay lamngen<Noise> 
+C:.habia palabra si hermana
+
+M:.veymulle ta duamtulu ta longko 
+C:.es por eso interesan el jefe
+
+M:.feymu ta duamtuy ta piwke 
+C:.por eso le interesa el corazon
+
+M:.rüf kimlu ta entu dunguy 
+C:.el que sabe saca su palabra
+
+M:.rüf nielu ta dungu 
+C:.el que tiene palabra
+
+M:.rüf inalu ta dungu veyta nentuy 
+C:.el que sigue la palabra ese saca
+
+M:.veyta kimni veyta adümi 
+C:.este sabe este aprendio
+
+M:.veyta Dio ta allkütuy 
+C:.esto dios a escuchado
+
+M:.veyta vellentuy 
+C:.esta creencia
+
+M:.chuchi nielu vellentun 
+C:.el que tiene creencia
+
+M:.chuchi manewluwlu 
+C:.el que se valora
+
+M:.feyta fürenen pi
+C:.ese ayudame dice
+
+nmlch-nfspB2_x_0259_nfsp_00: 
+M:.Rüf piwkemu veymu ta kelluy 
+C:.Solo con el corazon ayuda
+
+M:.ta Dio feymu ta kelluy 
+C:.asi dios  lo  ayuda
+
+M:.veymu ta füreney chem che rume 
+C:.asi lo ayuda cualquier persona 
+
+M:.rüf kidungünewün chumekelay 
+C:.solo no puede hacer cosa 
+
+M:.rume lamngen chungechi 
+C:.no hermana como
+
+M:.rume inche ta kidungünewün 
+C:.como yo podria hacerlo
+
+M:.inche ta ini ngünelanu 
+C:.yo quien sabe esto
+
+M:.kidungünewün kidu ta ganan tañi <SPA>
+C:.solo no solo no gane mi
+
+M:.plata inche ta kellungekelan 
+C:.plata yo no me ayudan
+
+M:.piavuy velelay dungu 
+C:.diria así esta las cosas
+
+Nmlch-nfspB2_x_0260_nmlch_00: 
+M:.Femlay 
+C:.No es asi
+
+nmlch-nfspB2_x_0261_nfsp_00:
+M:.Velay femlelay dungu kom 
+C:.No es asi tods no es igual
+
+M:.ta Dio tañi pinmu müli ta gana <SPA>
+C:.si dios dice hay se gana
+
+M:.plata küme gananeymuy tañi <SPA>
+C:.plata bien Ganado mi
+
+M:.plata kelluli küme mongen 
+C:.plata ayuda a vivir bien
+
+M:.nikutran ngelay chumlay rume 
+C:.mi enfermedad no hay no pasa nada
+
+M:.Dio tañi kuydatulen 
+C:.Dios me cuida
+
+M:.Dio tañi pin vemngechi wülngi  
+C:.Dios el que dice asi se da
+
+M:.tañi kelluve 
+C:. Mi ayudante
+
+M:.vemngechi ta vürenecheli <Noise> 
+C:.así lo ayuda a la gente
+
+M:.kellucheli ta Dio 
+C:.ayuda la gente el Dios
+
+M:.kom che pichikeche 
+C:.todos chico niños
+
+M:.füchakeche chumlepe rume wingka <SPA>
+C:.anciano como este chileno
+
+M:.gringu nge rume <SPA>
+C:.gringo puede ser
+
+M:.español ngepe rume kidu ta wülni 
+C:.español puede ser solo el da
+
+M:.tañi küme newen 
+C:.su Buena fuerza
+
+M:.küme kellu veymu ta<Noise> 
+C:.buena ayuda por eso lo
+
+M:.müli riku müli ta <SPA>pobre 
+C:.hay rico hay lo
+
+Nmlch-nfspB2_x_0262_nfsp_00: <SPA>
+M:.Porque kidu vemkünuy eli ñi <SPA>
+C:.Porque solo asi lo dejo su
+
+M:.pobre ka eli ñi riku 
+C:.pobre tambien su rico
+
+M:.welu riku chemu rikuki riku <SPA>
+C:.pero rico como se hizo rico 
+
+M:.porque ni ngünen 
+C:.porque su control
+
+nmlch-nfspB2_x_0263_nmlch_00: 
+M:.Ngünenmu ka 
+C:.Controla su
+
+nmlch-nfspB2_x_0264_nfsp_00: 
+M:.Mapu ngünen ta inay mapuche 
+C:.Tierra controla sigue el mache
+
+M:.nielay veychi dungu inalay 
+C:.no tiene ese palabra no sigue
+
+M:.rikungelay <SPA>
+C:.no es rico
+
+M:.porque Dio permitilay 
+C:.porque Dios no permite
+
+M:.ñi veychi dungumu ñi  müleal 
+C:.esas cosas de que esten
+
+M:.Dio pilay veychi ngünen 
+C:.Dios no quiee esas control
+
+M:.nial mapuche veymu müli <SPA>
+C:.el mapuche por eso hay
+
+M:.pobre lif küwümew 
+C:.pobre limpio bueno
+
+M:.kidu ñi mankumu 
+C:.solo con sus mano
+
+M:.kidu ñi arovonmu 
+C:.solo con su esfuerso
+
+M:.kidu ñi kutrankawünmu 
+C:.solo su dolor
+
+M:.niepepi Dio limpingepe 
+C:.tiene Dios limpio
+
+M:.pi lif kom küwü niepe 
+C:.dijo limpio todo las mano 
+
+M:.lif piwke lif rakiduamngepe 
+C:.limpio su corazón pensamiento
+
+M:.pili veymu 
+C:.dice por eso
+
+M:.vey vemngi pobrengi mapuche 
+C:.asi se hace pobre mapuche
+
+Nmlch-nfspB2_x_0265_nmlch_00: 
+M:.Feymu feli  dungu tüfi 
+C:.Asi es asunto ese
+
+nmlch-nfspB2_x_0266_nfsp_00: 
+M:.Veymu veli dungu 
+C:.Por eso esta asi palabra
+
+nmlch-nfspB2_x_0267_nmlch_00: 
+M:.Fey tüfinga trokitunga 
+C:.Así lo tomo junto
+
+M:.eluulu pipennga 
+C:.le dio dije 
+
+M:.llavkalu tüfi müli ka l'awen' 
+C:.se enoja alli hay remedio
+
+nmlch-nfspB2_x_0268_nfsp_00: 
+M:.Müle llimay müley pu 
+C:.Hay claro hay pues
+
+M:.chew mülenoavulu <Laugh> 
+C:.que no de haber
+
+nmlch-nfspB2_x_0269_nmlch_00: 
+M:.Kiñe wentru femle 
+C:.Un hombre haga
+
+M:.domo tripale wentru tripale 
+C:.mujer sale hombre sale
+
+M:.chumuechiafuy tüfi <Noise> 
+C:.como se aria eso
+
+nmlch-nfspB2_x_0270_nfsp_00: 
+M:.Mütrüm mütrümtungeki llim <Noise> 
+C:.Llama llama varias veces
+
+M:.chewam veyta maneluwavuy 
+C:.donde ahora ayudaran
+
+M:.pu kuñival Dio ta itrovill 
+C:.las personas Dios le diferentes
+
+M:.dungu ni ta  chaw tüvachi 
+C:.palabra de su padre esta
+
+M:.mapumu ta itrovill dungu 
+C:.tierra de diferente palabras
+
+M:.müli müli ta -/jut/- <SPA>
+C:.hay hay si
+
+M:.ley müli ta wingka müli ta <SPA>
+C:.ley hay del chileno hay si
+
+M:.jue müli ta aboga'u 
+C:.jues hay si abogado
+
+M:.müli ta vestigación pi carabineru pi 
+C:.hay si investigación dice carabinero dice
+
+M:.itrovill dungu müli newen 
+C:.diferente palabras hay fuerza
+
+M:.müli kutranka chepelu 
+C:.hay enfermedad de gente
+
+M:.fey kutrankangi ta che 
+C:.asi sufre las personas
+
+M:.wentru chuchi debelu presungi 
+C:.hombre cualquiera debe lo persiguen
+
+M:.yasungey kadenantukungi 
+C:.con laso le ponen cadena
+
+M:.trariñmangi ñi küwü 
+C:.lo amarran sus mano
+
+M:.trariñmangi ñi nge pütokolngi 
+C:.le amarran sus hojo lo hacen beber
+
+nmlch-nfspB2_x_0271_nfsp_00: <Noise> <SPA>
+M:.Porque Dio ta vemkünuy 
+C:.Porque Dios lo dejo asi
+
+M:.Dio veychi dungu kom eli lamngen 
+C:.Dios esa palabras todo lo dejo hermana
+
+nmlch-nfspB2_x_0272_nmlch_00: 
+M:.Mapumu 
+C:.En la tierra
+
+nmlch-nfspB2_x_0273_nfsp_00: 
+M:.Tüvachi mapu 
+C:.En esta tierra
+
+nmlch-nfspB2_x_0274_nmlch_00: 
+M:.Mongenmu feleal 
+C:.para vivr bien
+
+nmlch-nfspB2_x_0275_nfsp_00: 
+M:.Mongenche ñi <Noise> 
+C:.Vivir gente de
+
+M:.veleal veleal mongen 
+C:.para estar bien
+
+M:.veymu veleki kom dungu 
+C:.por eso esta asi toda palabra
+
+M:.tüva ka Dio veley  wenumapu 
+C:.esta dios esta arriba la tierra
+
+M:.ka müli eli vaw kidu eli 
+C:.tambien hay dejo aquí solo dejo
+
+M:.ñi santu müli santu müli <SPA>
+C:.su santo hay santo hay
+
+M:.piedra <SPA>
+C:.piedra
+
+M:.santa kura tati ka müli 
+C:.santa piedra tambien hay
+
+M:.itrovill santu müli <SPA>san <SPA>
+C:.diferentes santos hay  san
+
+M:.Sebastian pingi santu<SPA> San <SPA>
+C:.Sebastian se llama santo san
+
+M:.Carmen pingi <SPA>
+C:.Carmen se llama
+
+M:.San Vrancisco pingey üy antü <SPA>san <SPA>
+C:.San Francisco se llama nombre sol san
+
+M:.Juan pingi <SPA>pascua pingi <SPA>añu <SPA>
+C:.Juan se llama Pascua se llama  año
+
+M:.Nuevo pingi itrovill üy müli santu <SPA>
+C:.Nuevo se llama diferente nombre hay santo
+
+M:.ese kom ni  newen kom ni <SPA>
+C:.ese toda su fuerza toda su
+
+M:.poder Dio eleleyu veychi dungu 
+C:.poder Dios le dejo esa palabra
+
+Nmlch-nfspB2_x_0276_nfsp_00: 
+M:.Müli machi augau tati santu augau 
+C:.Hay machi .......................ese santo................
+
+M:.tati Dio tañi augau 
+C:.si Dios su..........
+
+M:.inchiñ ta nieliñ küme rakiduam 
+C:.nosotros si tenemos buenos pensamiento
+
+M:.puule tañi dungumu santumew 
+C:.si llega mi palabra santo
+
+M:.santu ta ru lelpaymu ta dungu 
+C:.santo le dara el mensaje
+
+M:.santu ta müntuvuy ta Diomu <SPA>
+C:.santo se salvo en Dios
+
+M:.porque santu tuuküli Diomu 
+C:.porque santo lo puso Dios
+
+Nmlch-nfspB2_x_0277_nmlch_00: 
+M:.Ka feli machi 
+C:.Tambien es asi la machi
+
+nmlch-nfspB2_x_0278_nfsp_00: 
+M:.Ka veli machi veymu ta kobraki 
+C:.Tambie esta machi por eso que cobra
+
+M:.Machi ta l'awen'tu kutranal <SPA>
+C:.machi da remedio para mejorar
+
+M:.porque augau veymu ta koni ta che 
+C:.porque abogado por eso que entra gente
+
+M:.presuñmangi  tañi tañi che valil 
+C:.preso para que valga como gente
+
+M:.niel kulli tati chumtenga kobray 
+C:.tiene paga ese cuanto cobra
+
+M:.augau eymu tripatuay <SPA>
+C:.abogado ahi salio
+
+M:.limpio tripay  pewka tripatuay 
+C:.limpio salio ........................saldra
+
+M:.pinginga ngen <SPA>
+C:.se le dice dueño
+
+M:.presu kuyi vendeynga kulliñ 
+C:.preso paga vendio animales
+
+M:.epu küla kulliñnga  vendey puulinga ñi <SPA>
+C:.dos tres animals vendio le alcanso su
+
+M:.plata veymu kuyimi augaumu 
+C:.plata así pago abogado
+
+M:.tripatuynga  ñi presu 
+C:.salio su preso
+
+M:.veli nga ñi chengen lamngen  
+C:.asi es la gente hermana
+
+nmlch-nfspB2_x_0279_nmlch_00: 
+M:.Felepi ka 
+C:.Sera asi
+
+nmlch-nfspB2_x_0280_nfsp_00: 
+M:.Veli ta <SPA>
+C:.Es asi
+
+M:.santu veley ta machi 
+C:.santo esta machi igual
+
+M:.veymu kobraki machi l'awen'tuem <SPA>
+C:.por eso cobra machi remedio 
+
+M:.santu ka kullingeki chunten <SPA>
+C:.santo tambien le pagan cuanto
+
+M:.plata ñi ofrecelngen a'lün' <SPA>
+C:.plata le ofrecen arto
+
+M:.plata ofrecelngele <SPA>
+C:.plata ofrecen 
+
+M:.santu veymu kelluy 
+C:.santo asi alluda
+
+M:.veymu küme entuy dungu <SPA>
+C:.asi sale bien la palabra
+
+M:.porque Dio vemkünuy tachi mapu 
+C:.porque Dios lo dejo en esta tierra
+
+M:.müley vemngechi <SPA>ley itroill <SPA>
+C:.hay asi  ley diferente
+
+M:.ley müli ka veli taiñ mapuchengen 
+C:.ley hay tambien nosotros lo mapuche 
+
+M:.nieleiñmu <SPA>
+C:.nos tiene
+
+M:.ley inchiñ veymu kimlu wüda 
+C:.ley nosotro asi aprendimos mal
+
+M:.chi che tati elngelu mütrümtuy ta <SPA>
+C:.si gente le dan llaman lo
+
+M:.santu <SPA>santu <SPA>san <SPA>
+C:.santo     santo      san
+
+M:.Sebastian pi chem  <SPA>santu <SPA>
+C:.Sebastian dijo que  santo 
+
+M:.san vranciku pi chem <SPA>
+C:.San Francisco dijo que
+
+M:.santu rume mütrütule 
+C:.santo mucho lo llaman
+
+Nmlch-nfspB2_x_0281_nfsp_00: 
+M:.Kelluen fürenen pi rülpa dungulelen pi 
+C:.Ayúdame interseda con mis palabras dice
+
+M:.eymi niymi newen <SPA>
+C:.tu tienes fuerza
+
+M:.poder wülavimi rakiduam pi 
+C:.poder danos pensamieno dice
+
+M:.eluavimi rakiduam piwkemu longkomu <Noise> 
+C:.dale pensamiento corazón cabeza
+
+M:.rakiduampe wüñope pipieyngi <SPA>santu <SPA>
+C:.que pience vuelva dicen          santo
+
+M:.santu vey pram dunguy amuy 
+C:.santo así suve el mensaje
+
+M:.ta diomew feymu Dio wültuy tañi rakiduam <Noise> 
+C:.en Dios así Dios da su pensamiento
+
+M:.tripalu ta wüñoy pekan dungu 
+C:.salio vuelve su mensaje
+
+M:.pewmay küpa wüñoy awantalay 
+C:.sueña biene vuelve no aguanta
+
+M:.müleal kañpüle  amutuy 
+C:.estar en otra parte se va
+
+M:.ta chew tañi tripamüm 
+C:.de donde salio
+
+nmlch-nfspB2_x_0282_nmlch_00: 
+M:.Machi ka femafuy 
+C:.Machi tambien aria
+
+nmlch-nfspB2_x_0283_nfsp_00: 
+M:.Machi llemay tañi küdaw 
+C:.Machi claro su trabajo
+
+nmlch-nfspB2_x_0284_nmlch_00: 
+M:.May 
+C:.Sí
+
+nmlch-nfspB2_x_0285_nfsp_00: 
+M:.Machi ñi küdaw tüvey pu re cheanta 
+C:.machi su trabajo ese pues solo gente
+
+M:.chumekele ta veyta 
+C:.este haciendo esta
+
+M:.niepevuy  ta newen  
+C:.tendra fuerza
+
+M:.niepevuy ta <SPA>poder 
+C:.tendra su poder
+
+nmlch-nfspB2_x_0286_nmlch_00: 
+M:.Femlayafuy 
+C:.No hizo
+
+nmlch-nfspB2_x_0287_nfsp_00: 
+M:.Eymi chumekeavuy rume 
+C:.Usted que podria aser
+
+M:.nienolmi chem entulaymu l'awen' 
+C:.si no tiene como te saca remedio
+
+M:.valilaymi küdaw  wewlaymi 
+C:.no vale tu trabajo no ganas
+
+M:.veychi dungu küme machi tati 
+C:.esa palabras Buena machi esa
+
+M:.pingelaymi machi tañi küdaw tati <SPA>
+C:.te diran machi su trabajo esa
+
+M:.porque Dio ta nielay veychi <SPA>
+C:.porque Dios no tiene ese
+
+M:.don müli newen tati 
+C:.don hay fuerza si
+
+nmlch-nfspB2_x_0288_nmlch_00: 
+M:.Fey newen
+C:.Si fuerza
+
+nmlch-nfspB2_x_0289_nfsp_00: 
+M:.Püllü tati 
+C:.Espiriu ese
+
+nmlch-nfspB2_x_0290_nmlch_00: 
+M:.Pepiluwün kom ngüne kimlu
+C:.Aprendiendo todo sabe primero
+
+nmlch-nfspB2_x_0291_nfsp_00: 
+M:.Adümüwün kom veymu ta wewki 
+C:.aprender todo eso si gana 
+
+M:.ta machi welu 
+C:.la machi pero
+
+M:.Dio ñi machi pekan machino
+C:.Dios su machi no esi no mas machi
+
+nmlch-nfspB2_x_0292_nmlch_00: 
+M:.Kellunmu 
+C:
+
+nmlch-nfspB2_x_0293_nfsp_00:  
+M:.Dio ñi machi chem küdawmu rume 
+C:.Dios su machi cualquier trabajo 
+
+M:.küdawle mütrümtuchetule 
+C:.trbagajara llamara gente
+
+M:.trapümchetule Dio tañi <SPA>
+C:.juntara gente Dios su
+
+M:.ley  tati trawüki ta domo wentru lamngen  <Noise> 
+C:.ley si se junta la mujer hombre hermana
+
+M:.inchiñam taiñ wedwedngen 
+C:.notros como somo molo
+
+M:.trawükerkeiñ taiñ welu 
+C:.no nos juntamos si pero
+
+M:.vemngenanta trawükerki domo wentru <SPA>
+C:.no se junta así no mas mujer y hombre
+
+M:.no Dio tañi vemkünün 
+C:.no Dios lo dejo así.
+
+
+
+

@@ -1,0 +1,13 @@
+InfoVersion 1
+TurnCounter 413
+SpeakerNum: 3
+nmlch-pfcmcB2_x_%04d_nmlch_00
+nmlch
+nmlch-pfcmcB2_x_%04d_pfcmc_00
+pfcmc
+nmlch-pfcmcB2_x_%04d_pm.......,_00
+pm.......,
+UserLables: 1
+<*SPA> 
+LableMenuFile
+C:\Program Files\TransEdit\trl-vm-win1.mnu

@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 325
+SpeakerNum: 2
+nmlch-lfch2_x_%04d_nmlch_00
+nmlch
+nmlch-lfch2_x_%04d_lfch_00
+lfch
+UserLables: 1
+<SPA>
+LableMenuFile
+C:\Program

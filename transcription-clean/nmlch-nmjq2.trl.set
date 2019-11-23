@@ -1,0 +1,14 @@
+InfoVersion 1
+TurnCounter 692
+SpeakerNum: 2
+nmlch-nmjq2_x_%04d_nmlch_00
+nmlch
+nmlch-nmjq2_x_%04d_nmjq_00
+nmjq
+UserLables: 4
+<*SPA>
+<Cough>
+<Laugh>
+<Throat>
+LableMenuFile
+C:\Program Files\TransEdit\trl-vm-win1.mnu

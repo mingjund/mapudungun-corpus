@@ -1,0 +1,13 @@
+InfoVersion 1
+TurnCounter 537
+SpeakerNum: 2
+nmlch-nfipp1_x_%04d_nmlch_00
+nmlch
+nmlch-nfipp1_x_%04d_nfipp_00
+nfipp
+UserLables: 3
+<*SPA>
+<Cough>
+<P>
+LableMenuFile
+C:\Program

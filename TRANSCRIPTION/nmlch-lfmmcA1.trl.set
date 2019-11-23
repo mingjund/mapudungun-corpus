@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 196
+SpeakerNum: 2
+nmlch-lfmmcA1_x_%04d_nmlch_00
+nmlch
+nmlch-lfmmcA1_x_%04d_lfmmc_00
+lfmmc
+UserLables: 1
+<*SPA>
+LableMenuFile
+C:\Documents and Settings\Transcriptor\Desktop\trl-avenue.mnu

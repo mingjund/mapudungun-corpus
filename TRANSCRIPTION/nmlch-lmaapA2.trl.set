@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 142
+SpeakerNum: 2
+nmlch-lmaapA2_x_%04d_nmlch_00
+nmlch
+nmlch-lmaapA2_x_%04d_lmaap_00
+lmaap
+UserLables: 1
+<*SPA>
+LableMenuFile
+C:\Program Files\TransEdit\trl-vm-win1.mnu

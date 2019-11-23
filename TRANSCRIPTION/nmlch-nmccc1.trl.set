@@ -1,0 +1,15 @@
+InfoVersion 1
+TurnCounter 409
+SpeakerNum: 3
+nmlch-nmccc1_x_%04d_nmlch_00
+nmlch
+nmlch-nmccc1_x_%04d_nmccc_00
+nmccc
+nmlch-nmccc1_x_%04d_nffhp_00
+nffhp
+UserLables: 3
+<*SPA>
+<*SPA>
+<Cough>
+LableMenuFile
+C:\Program

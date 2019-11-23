@@ -1,0 +1,2994 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-lflql1 
+; Last changes made on 11/19/2001 
+; Transcriber: Cristian c. Anton  
+; Comments:  
+; Traduce: Camilo Quilaman.
+
+nmlch-lflql1_x_0000_nmlch_00: 
+M: Mari mari papay.
+C: Buenas días mamita.
+
+nmlch-lflql1_x_0001_lflql_00: 
+M: Mari mari chaw. 
+C: Buenas días padre.
+
+nmlch-lflql1_x_0002_nmlch_00: 
+M: ¿Chumngechi anta wümlimi 
+C: ¿Cómo han amanecido
+
+M: ta tüfapüle tami lof mew 
+C: los de por acá en tu comunidad
+
+M: tami pu' <*SPA> familia chumli tüfa?.
+C: tus familiares con estan?.
+
+nmlch-lflql1_x_0003_lflql_00: 
+M: Küme wünmali.
+C:  Bien amanecieron.
+
+nmlch-lflql1_x_0004_nmlch_00: 
+M: Küme wümalimün.
+C: Bien han amanecido.
+
+nmlch-lflql1_x_0005_lflql_00: 
+M: Sipu kom <*SPA> todo  <*SPA>con to mi pu' <*SPA> jente.
+C: Si pues todos, todos con mi gente.
+
+
+
+nmlch-lflql1_x_0006_nmlch_00: 
+M: ¿Tami püñeñ kom?.
+C: ¿Tus hijos todos?.
+ 
+nmlch-lflql1_x_0007_lflql_00: 
+M: Pu' püñeñ kaiñ chuntelen.
+C: Mis hijos 
+
+nmlch-lflql1_x_0008_nmlch_00: 
+M: Kümi tati papay 
+C: Muy bien mamita
+
+M: kümi ta tüfey 
+C: bien esto
+
+M: inche tüfa <uh> miawün tüfa kamapu 
+C: yo ando en este lejano lugar
+
+M: fey ngütramkamean tañi papay 
+C: he venido a conversar con mi mamita
+
+M: ngütramkameafin mülelu peñi 
+C: vengo a conversar con algun hermano 
+
+M: feychi lof mew pin
+C: que este en esta comunidad dije
+
+M: feyta küpalepen ta tüfa 
+C: así he venido hasta acá
+
+M: feymu ta pepapiyu tati papay.
+C: por eso te he venido a ver hasta acá mamita.
+
+nmlch-lflql1_x_0009_lflql_00: 
+M: Kümi tami miawün 
+C: Bien que andas por acá
+
+M: vey ngütramkawi che 
+C: así juntas a la gente a conversar 
+
+M: fey kimtukunewki pu'. 
+C: y se deja buscado pues. 
+
+nmlch-lflql1_x_0010_nmlch_00: 
+M: Feli papay feli 
+C: Así está bien mamita
+
+M: ¿eymi tüfa <uh> kuyfi pichi domongelu 
+C: ¿cuando tu eras una niñita antes
+
+M: kam chi doy tremlu chi kutrankimi tüfa 
+C: o cuando más crecías eras enfermiza 
+
+M: tami mongenmew niefuymi ta kutran?.
+C: en tu vida, tuvistes enfermedad?.
+
+nmlch-lflql1_x_0011_lflql_00: 
+M: Fill kutranken ngi 
+C: Distintas enfemedades son
+
+M: feula kutranün kutranken 
+C: ahora me entraron enfermedades estoy enferma
+
+M: <%> weche ngefun müte sentikelafun kutran 
+C: cuando era una persona joven no sentía la enfermedad
+
+M: feula sentiken kutran.
+C: ahora siento la enfermedad.
+
+nmlch-lflql1_x_0012_nmlch_00: 
+M: ¿Doy tukimi kutran?. 
+C:  ¿Más enfermedades te entran?.
+
+nmlch-lflql1_x_0013_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Feyta fey nien bronko monio pulmon pingen 
+C: Así es tengo la bronco neumonia en los pulmones se llama 
+ 
+M: <*SPA> doctor mu.
+C: en el doctor.
+
+nmlch-lflql1_x_0014_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Bronkokio <*SPA>pulmonar pingeki mga?.
+C: ¿Broncokio pulmonar se llama esa?.
+
+nmlch-lflql1_x_0015_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Pulmonar fey feyta mülepuken spiltalixaleken pu.
+C: Pulmonar por eso estuve hospitalizada pues.
+
+nmlch-lflql1_x_0016_nmlch_00: 
+M: ¿Eymi anta pitalizalekeymi?.
+C: ¿Tu estuviste hospitalizada?.
+
+nmlch-lflql1_x_0017_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Ospitalizaleken inche.
+C: Yo estuve hospitalizada.
+
+nmlch-lflql1_x_0018_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Welu wekentu tüfa?.
+C: ¿Pero no hace mucho fue esto?.
+
+nmlch-lflql1_x_0019_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+
+M: <*SPA> Ese epu tripantu amuy dewma. 
+C: Ese dos años fui hecer eso.
+
+nmlch-lflql1_x_0020_nmlch_00: 
+M: Eymi kuyfi kuyfi welu doy kuyfi tüfa 
+C: Tu antes, antes pero mucho antes te paso esto
+
+M: ¿chem kutran une witrakontueymu tüfey?. 
+C:  ¿que enfermedad te llego primero?.
+
+nmlch-lflql1_x_0021_lflql_00: 
+M: Fey pulmon nünew müten kontuen ew. 
+C: De pulmonia no más me entro.
+
+nmlch-lflql1_x_0022_nmlch_00: 
+M: Re fey müten inakimu.
+C: De eso no más se enfermo.
+
+nmlch-lflql1_x_0023_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: <*SPA> Ese <*SPA> no <*SPA> mas fey inakenew.
+C: Ese no más me siguío.
+
+nmlch-lflql1_x_0024_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Nawesa <*SPA> no nawesa 
+C: Que malo ¡no!, muy malo,
+
+M: feyta puwiyem pitalmu ta piche rupatuki.
+C: ahí llegó en el hospital, pasa un rato. 
+
+nmlch-lflql1_x_0025_lflql_00: 
+M: Fey fey inche ka femüymangeken 
+C: Así es así me hacen
+
+
+M: kalmante <*SPA> no ma elungeken 
+C: calmante no más me dan 
+
+M: patilla ofülkangeken  re patillamu.
+C: me dan hartas pastillas en el hospital.
+
+_x_0027_lflql_00026_nmlch_00: 
+M: Welu ¿ngelay mongen tüfika 
+C:  Pero ¿no tienes mejoría de esto
+
+M: ngelay mongen?.
+C: no tiene mejoría?.
+
+nmlch-lflql1_x_0028_lflql_00: 
+M: Mejoran pero 
+C: Me mejoro pero
+
+M: <*SPA> no kusawal puedelan 
+C: no puedo trabajar
+
+M: <*SPA> este  newentual puedelan pe
+C: este no tengo fuerza no puedo 
+
+M: <*SPA> no ka kutranki ñi nge 
+C: no, tengo otra enfermedad en el ojo
+
+M: pelokelan 
+C: no puedo ver 
+
+M: empoñaleki ñi <*SPA> vista.
+C: se empaña mi vista.
+
+nmlch-lflql1_x_0029_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-lflql1_x_0030_lflql_00: 
+M: Feymu pepi küdawelan.
+C: Por eso no puedo trabajar. 
+
+
+nmlch-lflql1_x_0031_nmlch_00: 
+M: ¿Tunten küyen?. 
+C:  ¿Hace cuantos meses?. 
+
+nmlch-lflql1_x_0032_lflql_00: 
+M: Asen küla tripantu 
+C: Hace tres años
+
+M: amuy ñi pepi küdawkelan 
+C: a avanzado que no puedo trabajar
+
+M: werte umo newentuwelan nada.  
+C: con el humo fuerte no tengo fuerza nada.
+
+nmlch-lflql1_x_0033_nmlch_00: 
+M: ¿Pepi küdawelaymi tami tamu?. 
+C: ¿No púedes trabajar acá?.
+
+nmlch-lflql1_x_0034_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0035_nmlch_00: 
+M: ¿Tami nge chumngechi 
+C:  ¿Tu ojo de que forma,
+
+M: kimlafimi chumngechi tun?
+C: no sabes como te entro?
+
+nmlch-lflql1_x_0036_lflql_00: 
+M: Empañali empañaleki ñi <*SPA> vista.
+C: Se empaño, se empaña mi vista.  
+
+nmlch-lflql1_x_0037_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Chem l'awen' tukulelkefimi kay tüfa tüfey?. 
+C: ¿Qué remedio le haz colocado en esto?.  
+
+nmlch-lflql1_x_0038_lflql_00: 
+M: Ngiun l'awen' tukulelkelafin
+C: Ningun remedio le coloco
+
+M: ka adümlan l'awen'. 
+C:  y no preparo remedio. 
+
+nmlch-lflql1_x_0039_nmlch_00: 
+M: ¿Tukulelkelafimi l'awen'?.
+C: ¿No le haz colocado remedio?.
+
+nmlch-lflql1_x_0040_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Asi <*SPA> no <*SPA> mas feleki ñi nge ta.
+C: Así no más se ha mantenido mi ojo.
+
+nmlch-lflql1_x_0041_nmlch_00: 
+M: ¿Pitalmu ka sallukimi?. 
+C: ¿En el hospital le confesaste?.
+
+nmlch-lflql1_x_0042_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Ka fey salluken amuaymi <*SPA>oculistamu pingeken.
+C: También le mencione fui con el oculista y le dije.
+
+nmlch-lflql1_x_0043_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Kümefuy tati 
+C: Bueno sería pues
+
+M: femngechi ina sallungi 
+C: de esa forma le confesaste
+
+
+M: fey ka <uh> peymangelmi kutran
+C: así si le encuentran la enfermedad
+
+M: feyta <uh> kümefuy 
+C: y eso fue bueno 
+
+M: ¿welu fey ka l'awen' ka mülele 
+C: ¿pero otro remedio también hay
+
+M: ta kümefuy tüfey ka?.  
+C: que hacen bien a esto?.
+
+_lflql1_x_0044_nmlch_00ql_00: 
+M: Elungepelafun l'awen' 
+C: No me dieron nada de remedio
+
+M: we püta pitalmu 
+C: en el nuevo gran hospital
+
+M: üyüw aculistamu elungepelayafun.
+C: allá en el oculista no me dierón. 
+
+nmlch-lflql1_x_0045_nmlch_00: 
+M: Mülefuy tati mülefuy 
+C: Debe haber pues debe haber
+
+M: ¿fey tapüle <uh> l'awen' tukelaymi tüfapüle?. 
+C:  ¿y por acá no te haz colocado remedio de por acá?.
+
+nmlch-lflql1_x_0046_lflql_00: 
+M: <*SPA> No.
+C. No.
+
+M: L'awen' l'awen'tukelan 
+C: Remedio, no me he colocado remedio
+
+M: chem l'awen' kampu rume pelekelay nge faw. 
+C: que remedio habrá en el campo si mi ojo no puede ver acá.
+
+
+nmlch-lflql1_x_0047_nmlch_00: 
+M: ¡Ah! 
+C:  ¡Ah!
+
+nmlch-lflql1_x_0048_lflql_00: 
+M: Doy kuyfi pelokelafun. 
+C: De mucho antes que no puedo ver.
+
+nmlch-lflql1_x_0049_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah! 
+
+nmlch-lflql1_x_0050_lflql_00: 
+M: Dunguy mangeken na pichichengen 
+C: Desde niñita que me hablaban 
+
+M: kutrankülewel nge 
+C: siempre ha estado enfermo mi ojo
+
+M: fey kutrankawafuy.
+C: siempre enfermo.
+
+nmlch-lflql1_x_0051_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Kimlafimi tüfey chumngelu tami femün?.
+C: ¿No sabes por que estas así?.
+
+nmlch-lflql1_x_0052_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Aremu are antü famngechi 
+C: Enel calor un día de calor así
+
+M: kütralkantukefun pichiche ngen 
+C: estaba haciendo fuego cuando niñita 
+
+
+M: soy sin repente pingu 
+C: y derrepente dicen 
+
+M: ingen kütral 
+C: me entro el fuego
+
+M: femngechi fey kutrani 
+C: así fue como me enferme
+
+M: rumey nge pu' 
+C: mucho de mi ojo
+
+M: fey pichichengen fey 
+C: cuando era una niñita
+
+M: feymu kütranün.
+C: de ahí que estoy enferma.
+
+nmlch-lflql1_x_0053_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-lflql1_x_0054_lflql_00: 
+M: Medikangefuy awelayem 
+C: Era medica mi difunta abuela
+
+M: fey mongeltenew re vinagre mu 
+C: y para mejorarme con puro vinagre
+
+M: püwkükakefenew 
+C: me hacía beber
+
+M: feymu mongetuy pelotun fey 
+C: de ahí me mejoraba y podía ver  
+
+M: fey wüñotutukenew fewla.
+C: pero ahora me volvió nuevamente.
+
+
+nmlch-lflql1_x_0055_nmlch_00: 
+M: ¿Femngechi wüñotuymu?.
+C: ¿Te a vuelto de nuevo?.
+
+nmlch-lflql1_x_0056_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Feula wüñotutuketuenew arengi 
+C: Ahora me ha vuelto a entrar calor 
+
+M: lonko ka tol.
+C: en la cabeza y en la frente.
+
+nmlch-lflql1_x_0057_nmlch_00: 
+M: ¡Ah! 
+C: ¡Ah!
+
+M: ¿Fey pitalmu sallukelaymi petu eymi tüfey ka?. 
+C: ¿Y en el hospital no le haz confesado todavía esto?.
+
+nmlch-lflql1_x_0058_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Dallukelafin pu'.
+C: No le confese pues.
+
+nmlch-lflql1_x_0059_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-lflql1_x_0060_lflql_00: 
+M: Dallukefin pero amuaymi temuco pingeken 
+C: Pero le confese y me dicen que vaga a Temuco me dicen
+
+M: ka peal l'awen' elungi <*SPA> pension. 
+C: que voy a encontrar remedio y dan pensión. 
+
+
+nmlch-lflql1_x_0061_nmlch_00: 
+M: Tipalay ke femngechi müten tripalay ke tati 
+C: Así no sale eso pues, así no sale pues
+
+M: ¿welu..... soy chem kutran inakimi 
+C: ¿pero que enfermedad más te ha seguido
+
+M: tami mongenmu 
+C: en tu vida
+
+M: kay eymi tüfa papay?. 
+C:  en esta mamita?.
+
+nmlch-lflql1_x_0062_lflql_00: 
+M: Feymay fey fey trüfonküleken ka.
+C: Así también la toz seca tengo.
+
+nmlch-lflql1_x_0063_nmlch_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: ¿Welu trüfonkimi tami bronkio pulmonarmu?.
+C: ¿Pero tu toz es por tu bronquio pulmonar?.
+
+nmlch-lflql1_x_0064_lflql_00: 
+M: Bronkio pulmonar pukem 
+C: Bronquio pulmonra en el invierno
+
+M: feyta rume kutrankawken atrewmu 
+C: también me enfermo por el helado
+
+M: tulliki ñi n'amun'.
+C: que le entran a mis pies.
+
+nmlch-lflql1_x_0065_nmlch_00: 
+M: Ka fey llemay rume wesa inanimu kutran 
+C: También muy mala enfermedad te sigue
+
+M: ka papay rume wesa inanimu. <uh>
+C: también mamita muy malo eso que te sigue.
+
+nmlch-lflql1_x_0066_lflql_00: 
+M: Femngechi tripay antüngen mu feyta
+C: Así sale en el día  
+
+M: ka famgechi afirmatuken femichika 
+C: y afrimandome debo hacerlo
+
+M: <*SPA> si sewma pukem mawi sewma 
+C: si hace frío en el invierno así ando
+
+M: ya ta atregngetuy wütrengetuki ka fey,
+C: ya estoy tullida de frío también,
+
+M: fey kutranken ka pu'sentiken. 
+C:  siempre estoy sintiendo la enfermedad.
+
+nmlch-lflql1_x_0067_nmlch_00: 
+M: <hm> Feyti kay papay tüfey 
+C: Y este mamita este
+
+M: <uh> ¿kiñe mapuche l'awen' 
+C: ¿un remedio mapuche
+
+M: rume pütokokelaymi?. 
+C: no lo haz bebido?.
+
+nmlch-lflql1_x_0068_lflql_00: 
+M: Pütokokelan mapuche l'awen' 
+C: No he bebido remedio mapuche
+
+M: <*SPA> porque newe kimlan l'awen' yerba. 
+C: porque no conozco de remedio de yerba.
+
+nmlch-lflql1_x_0069_nmlch_00: 
+M: ¿Newe kimlafimi l'awen'?. 
+C:  ¿No conoces de estos remedios?.
+
+
+
+nmlch-lflql1_x_0070_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0071_nmlch_00: 
+M: ¿Eymi kuyfi pichichengelu kay 
+C: ¿Tu antes cuando eras una niñita 
+
+M: niepimi control medico?. 
+C: tenías control médico?.
+
+M: ¿Kay eymi tami mongenmu kuyfi 
+C: ¿O tu antes en tu vida
+
+M: tüfeynga <*SPA> posta pingeki? 
+C: en esta posta que se llama?,
+
+M: pichikeche feula pitalmu 
+C: ahora los niños en el hospital
+
+M: yengeki 
+C: los llevan
+ 
+M: elungeki ta lichi alimentu
+C: les dan leche, alimento
+
+M: femngelu ¿niekimi kuyfi kam nielaymi?.
+C: así es ¿tu antes tenías o no tenías esto?.
+
+nmlch-lflql1_x_0072_lflql_00: 
+M: Kuyvi ngekelafuy <*SPA> posta 
+C: Antes no había posta 
+
+M: femngiyin nga asi <*SPA> no <*SPA> mas 
+C: lo haciamos así no más
+
+M: <*SPA>apuro <*SPA>pobresa 
+C: pura pobreza 
+
+M: <*SPA>alimento feula mayta müli 
+C: alimento ahora esto más hay
+
+M: ayuda pichikeche 
+C: que ayuda a los niños
+
+M: inchetremümfin pichikeche 
+C: yo cuando crecí, cuando era un niño
+
+M: feymu nga con <*SPA> posta alimento 
+C: con lo de la posta el alimento 
+
+M: <*SPA> todo elungen
+C: todo lo dan
+
+M: kuyfi felekelafuy. 
+C: antes no era así.
+
+nmlch-lflql1_x_0073_nmlch_00: 
+M: ¿Felelafuyka? 
+C:  ¿No era así antes?
+
+nmlch-lflql1_x_0074_lflql_00: 
+M: Pasavamo filla rupaymay <*SPA> todo  <*SPA> pobre. 
+C: Pasabamos así siempre pasamos todo pobre.
+
+nmlch-lflql1_x_0075_nmlch_00: 
+M: ¿Re moyo?. 
+C:  ¿Con puro pecho?.
+
+nmlch-lflql1_x_0076_lflql_00: 
+M: Re moyo müten. 
+C:  Con puro pecho no más.
+
+nmlch-lflql1_x_0077_nmlch_00: 
+M: ¿Tremimün? 
+C:  ¿Así crecieron?
+
+nmlch-lflql1_x_0078_lflql_00: 
+M: Fey tremiyin inchin.
+C:  Así crecimos nosotros.
+
+nmlch-lflql1_x_0079_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Tami chaw tami ñuke kam 
+C: ¿Y tu padre, tu madre
+
+M: femngechi kutran neymi eymi
+C: así tu no más te enfermabas tu
+
+M: kam femngelu niefuy?. 
+C: o ellos también tendrían?.
+
+nmlch-lflql1_x_0080_lflql_00: 
+M: Chawem femngechi kutran ngefuy. 
+C: La enfermedad del padre llevaba. 
+
+nmlch-lflql1_x_0081_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Fey fey femngechi nentu kutran pipen nga a
+C: Si, si, de esa forma sacó la enfermedad dije pues
+
+M: femngechi ta tufimi chi kutran ka fey. 
+C: y de esa forma entra la enfermedad también.
+
+nmlch-lflql1_x_0082_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Feymu anta tufin chi kutran 
+C: Así entro esa enfermedad 
+
+M: mari tripantu niepelafun 
+C: cuando no tenía ni diez años 
+
+M: lay ñi chawem joven lay. 
+C: y murió el padre joven murió.
+
+nmlch-lflql1_x_0083_nmlch_00: 
+M: ¿Mari tripantu niefuymi?. 
+C:  ¿Diez años tendría?.
+
+nmlch-lflql1_x_0084_lflql_00: 
+M: Si, <*SPA> si.
+C: Sí, sí.
+
+M: Kimpan ñi chawem.
+C: Sabía su padre. 
+
+nmlch-lflql1_x_0085_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Feyta fey amuy kamapu ngetuy.
+C: Así es como partió a la otra tierra.
+
+nmlch-lflql1_x_0086_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Kama pu ngetuy.
+C: En la cama quedo.
+
+nmlch-lflql1_x_0087_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-lflql1_x_0088_lflql_00: 
+M: Kuñifal femiyin inchin faw 
+C: Quedamos huerfanos acá
+
+M: tüfamu tremiyin kuñifall ñuke ñuke müten 
+C: acá crecimos huerfanos con madre no más
+
+M: ka fey latuy ti fey 
+C: pero también murió 
+
+M: fey tremümeymu awelumu 
+C: y crecimos con nuestro abuelo 
+
+M: tremiyin faw.
+C: acá crecimos así.
+
+nmlch-lflql1_x_0089_nmlch_00: 
+M: ¿Tami awelumu tremümimi?. 
+C: ¿Con tu abuelo te criaste?.
+
+nmlch-lflql1_x_0090_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0091_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-lflql1_x_0092_lflql_00: 
+M: Awela mongelekefuy feymu tremiyin.
+C: Mi abuela también estaba viva igual crecimos.
+
+nmlch-lflql1_x_0093_nmlch_00: 
+M: ¿Feymu penow ka kutrankawimün tüfi?.
+C: ¿Por eso supieron de sufrimiento?. 
+
+nmlch-lflql1_x_0094_lflql_00: 
+M: Feymu kutrankawiyin pu. 
+C: Por eso sufrimos pues. 
+ 
+nmlch-lflql1_x_0095_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Pepi küme sapingelaymün ka fey ka?.
+C: ¿Entonces no se preocuparon mucho de ustedes?.
+
+nmlch-lflql1_x_0096_lflql_00: 
+M: Pepi küme sapingelayin 
+C: No se preocuparon de nosotros, 
+
+M: kuñifaliyin.
+C: somos huerfanos.
+
+nmlch-lflql1_x_0097_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Feyti <uh> papay <uh> tami pichikeche 
+C: Así es mamita y tus niños 
+
+M: femngechi kutran inanelay welu kiñeke.
+C: igual los siguieron la enfermedad o algunas.
+
+nmlch-lflql1_x_0098_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0099_nmlch_00: 
+M: <hm> ¿Eymün müten tüfa niefuymün feychi kutran?. 
+C: ¿Ustedes no más tuvieron esas enfermedad?.
+
+nmlch-lflql1_x_0100_lflql_00: 
+M: Inche müten niefin chi kutran.
+C: Yo no más, tengo esa enfermedad. 
+
+nmlch-lflql1_x_0101_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Feyti chi wütre ta wesakunukimu ka?.
+C: ¿Por el frío, es muy malo cuando te entra?.
+
+nmlch-lflql1_x_0102_lflql_00: 
+M: Wütre feyta awanta kelan ñi ñawew wekun. 
+C: El frío eso no lo aguanto no ando afuera.
+
+nmlch-lflql1_x_0103_nmlch_00: 
+M: ¿Pükem soy wecha chengetukimi?.
+C: ¿En invierno muy mal te sientes cuando te entra?.
+
+nmlch-lflql1_x_0104_lflql_00: 
+M: Pukem soy wesachengetuken 
+C: En el invierno me siento con mucho malestares
+
+M: pukemam müna wütrengekelu 
+C: en el invierno hace mucho frío
+
+M: awantakelan miawal wütremu. 
+C: no aguanto andar con el frío.
+
+nmlch-lflql1_x_0105_nmlch_00: 
+M: Wesa sunguka wesa sungu tüfey 
+C: Que malas cosas, malas cosas estas,
+
+M: <*SPA> ¿posta rume cerca 
+C: ¿la posta esta muy cerca 
+
+M: mülelay tüfa püle y füll püle?.
+C: o no hay esta por acá y por aquí?.
+
+nmlch-lflql1_x_0106_lflql_00: 
+M: Müli <*SPA> posta ka fey pero.
+C:  Hay posta también pero.
+
+nmlch-lflql1_x_0107_nmlch_00: 
+M: ¿Tutekelaymi newe?.
+C:  ¿Tu no entras?.
+
+nmlch-lflql1_x_0108_lflql_00: 
+M: Tutekelan newe pu' patilla. 
+C: Yo no entro no más pues las pastilas.
+
+nmlch-lflql1_x_0109_nmlch_00: 
+M: ¿Pitalmu kiñeke küyenmu amukimi müte küyenmu?. 
+C: ¿Al hospital algunos meses ibas en el mes?.
+
+nmlch-lflql1_x_0110_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+M: Amun pitalmu kenaw 
+C: Fuí al hospital 
+
+M: mülemen kiñe küyen pitalmu 
+C: estuve un mes en el hospital 
+
+M: feymu moejoran pu.
+C: por eso me mejore pues.
+
+nmlch-lflql1_x_0111_nmlch_00: 
+M: Feyti eymi papay kuyfi chafofe ngefuymi kay.
+C: Así es mamita antes no tuviste tos también. 
+
+nmlch-lflql1_x_0112_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Chafokefun ka fey. 
+C: Tuve tos también.
+
+nmlch-lflql1_x_0113_nmlch_00: 
+M: ¿Chafofe ngefuymi?. 
+C: ¿Tuviste tos?.
+
+nmlch-lflql1_x_0114_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0115_nmlch_00: 
+M: ¿Feychi kütu mayta trapümuwi tüfa?.
+C: ¿Hasta con eso se junta esto?.
+
+nmlch-lflql1_x_0116_lflql_00: 
+M: Fey penow fill kutran rupan 
+C: Así también diferentes enfermedades han pasado
+
+M: sarampion pingi 
+C: el sarapión se llama, 
+
+
+M: ka püñu trüf kutran
+C: Cuando se infla el estomago 
+
+M: <*SPA> todo feymu rupan epeke lakefun.
+C:  todo eso pasa antes que me muera.
+
+l1_x_0118_lflql_007_nmlch_00: 
+M: Tufimi chi püñu kutran.
+C: Este la enfermedad del puñu.
+
+nmlch-lflql1_x_0119_lflql_00: 
+M: Fey tufin. 
+C: Ese lo tuve.
+
+nmlch-lflql1_x_0120_nmlch_00: 
+M: ¿Chemu mongetuymi papay 
+C: ¿Y cómo te mejoraste mamita 
+
+M: puñulu eymi tüfi?.
+C: si tuvisti el puñu tu?.
+
+nmlch-lflql1_x_0121_lflql_00: 
+M: Re firken l'awen'  
+C: Puro remedio de firke
+
+M: eluenew ñi kude awela 
+C: que me daba mi vieja abuela
+
+M: kude awela kim lawen' fuy 
+C: mi vieja abuela sabía hacer remedio
+
+M: medikangefuy 
+C: era médica 
+
+M: fey firken piru l'awen' tukefenew.
+C: y me dio remedio de me coloco.
+
+nmlch-lflql1_x_0122_nmlch_00: 
+M: ¿Feyti kiñeke suamtunimi petu l'awen' 
+C: ¿Y tu te acuerdas de algunos remedios 
+
+M: chem l'awen' ngefelchi elufeymu?. 
+C:  que remedios te preparaba, te daba?.
+
+nmlch-lflql1_x_0123_lflql_00: 
+M: Firke tripal kimnefin chi l'awen'. 
+C: Sé donde sale el firke remedio.
+
+nmlch-lflql1_x_0124_nmlch_00: 
+M: ¿Ini pingefuy tüfi? 
+C: ¿Como se llamaba este?
+
+nmlch-lflql1_x_0125_lflql_00: 
+M: Chi l'awen'. 
+C: El remedio.
+
+nmlch-lflql1_x_0126_nmlch_00: 
+M: May. 
+C: Sí.
+
+nmlch-lflql1_x_0127_lflql_00: 
+M: Feyetew olvida mayetufin <*SPA> nombre chi l'awen'
+C: El remedio que me hizo bien se me olvido el nombre
+
+M: pero kimneyefin mata 
+C: pero conocemos la mata
+
+M: <*SPA> si <*SPA> todo üytukefuy tañi awela 
+C: si a todo le abía el nombre mi abuela
+
+M: pero inche olvida fin. 
+C: pero yo me olvide de eso.
+
+nmlch-lflql1_x_0128_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Welu müli tüfapüle. 
+C: Pero esta por acá.
+
+nmlch-lflql1_x_0129_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Müli fawpüle. 
+C:  Esta por acá.
+
+nmlch-lflql1_x_0130_nmlch_00: 
+M: ¿Püñu mu konpelu tüfey?. 
+C: ¿En el puñu se coloca esta?. 
+
+nmlch-lflql1_x_0131_lflql_00: 
+M: Püñümu <*SPA> todo  eso ngaftukefuy kütu. 
+C: En el puñu en todo eso se coloca hasta de bajo.
+
+nmlch-lflql1_x_0132_nmlch_00: 
+M: Femngechili l'awen'mew. 
+C:  Así es el remedio.
+
+nmlch-lflql1_x_0133_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0134_nmlch_00: 
+M: Femngechi l'awen' mew <*SPA> no
+C: Así con ese remedio ¡no!
+
+M: ¿fey kiñeke inawtuy lapelay che 
+C: ¿y algunos lo seguía y se moria la gente
+
+M: püñu mu kuyfi ti?. 
+C: con el puñu antes?.
+
+nmlch-lflql1_x_0135_lflql_00: 
+M: Layey algunu. 
+C: Se morían algunos.
+
+nmlch-lflql1_x_0136_nmlch_00: 
+M: ¿Layey penolu l'awen'? 
+C: ¿Se morían los que no encontraban remedio?
+
+nmlch-lflql1_x_0137_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Penolu l'awen' lay. 
+C: Si no encuentran remedio se mueren.
+
+nmlch-lflql1_x_0138_nmlch_00: 
+M: Femngechi lay. 
+C: Así se mueren.
+
+nmlch-lflql1_x_0139_lflql_00: 
+M: Lay por dentro. 
+C:  Mueren por dentro.
+
+nmlch-lflql1_x_0140_nmlch_00: 
+M: Püñu tripanoyem wekun 
+C: por el puñu no deben salir afuera,
+
+M: tripapanolu wekun 
+C: no deben salir afuera
+
+M: feyta piukemu konlu 
+C: si le entra en el corazón
+
+M: fey taki che laki, 
+C: la gente se muere
+
+M: feyti kay papay 
+C: así es mamita
+
+M: <uh> ka tripay kiñe wesa pitru pingi 
+C: si no sale una mal gusano que le llaman 
+
+M: ¿ka fey kimimi kay?. 
+C: ¿también lo conoces?.
+
+
+
+nmlch-lflql1_x_0141_lflql_00: 
+M: Ka fey tuy tripantu feliyin 
+C: También en un año nos entró  
+
+M: ka fey feychi kutranmu.
+C: también esa enfermedad.
+
+nmlch-lflql1_x_0142_nmlch_00: 
+M: ¿Pitrumew?. 
+C: ¿El pitru?
+
+nmlch-lflql1_x_0143_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0144_nmlch_00: 
+M: <uh> ¿Chemu mongetuy pitru ka fey 
+C: ¿Como se mejora del pitru también 
+
+M: kay chem l'awen' mu safeymün eymün 
+C: y que remedio saben ustedes 
+
+M: kay <*SPA> posta tuymün 
+C: o en la posta entran
+
+M: kam l'awen' tapüle
+C: o el remedio de por acá
+
+M: pütokoymün firkü l'awen' ka?.
+C: o beben el remedio del firku?.
+
+nmlch-lflql1_x_0145_lflql_00: 
+M: Pital ospitalmu yemen l'awen' 
+C: Hospital del hospital me trajeron remedio 
+
+M: inchekay küchangen 
+C: me inchaba cuando me lavava 
+
+M: elungen alkol tüfeychi aftukefuy.
+C: me daban alcohol y con esto se terminaba.
+
+nmlch-lflql1_x_0146_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Lüfi feymi?. 
+C: ¿Con eso se quemaba?.
+
+nmlch-lflql1_x_0147_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0148_nmlch_00: 
+M: Feyta pikaf tuypitru.
+C: 
+
+nmlch-lflql1_x_0149_lflql_00: 
+M: Pitru aftuy femu afkonlu 
+C: El pitru se termina si se trata y coloca eso
+
+M: fey kemaki <*SPA> todo  eso ka.
+C: y se quemaba todo eso también.
+
+nmlch-lflql1_x_0150_nmlch_00: 
+M: May.
+C: Sí.
+
+M: Lüfkonki pu'. 
+C: Se quema por dentro pues. 
+
+nmlch-lflql1_x_0151_lflql_00: 
+M: Feymu fey yemen feymu afi. 
+C: Por eso que me trajeron porque se acabo.
+
+nmlch-lflql1_x_0152_nmlch_00: 
+M: Anün tami karuka tuche 
+C: Se establecen tus vecinos
+
+M: tapüle alün pitru tuyngün alün.
+C: por acá harto pitru tienen harto.
+nmlch-lflql1_x_0153_lflql_00: 
+M: Inchin tañi rukamu 
+C: Nosotros en la casa
+
+M: aki <*SPA> todo tuy kon to pichi keche pu' 
+C: aquí todo tocan hasta los niños pues
+
+M: ka keñpüle toda parte tuyey. 
+C: en otras partes, en todas las partes tocan. 
+
+nmlch-lflql1_x_0154_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Fill püle may tripay chi pitru?. 
+C: ¿Por diferentes partes sale el pitru?.
+
+nmlch-lflql1_x_0155_lflql_00: 
+M: Fil püle fillpüle.
+C: por diferentes partes, diferentes partes.
+
+nmlch-lflql1_x_0156_nmlch_00: 
+M: <uh> Feyti kay papay 
+C: Así es mamita 
+
+M: fey ka <uh> tripantuy chi kutran 
+C: así también es como salen la enfermedad
+
+M: fey aflu afkay müten.
+C: así se termina, se acaba no más.
+
+nmlch-lflql1_x_0157_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Aftuy pu. 
+C: Se termina pues.
+
+nmlch-lflql1_x_0158_nmlch_00: 
+M: ¿Afi müten wiñolay? 
+C: ¿Se termino no más no volvio?
+
+nmlch-lflql1_x_0159_lflql_00: 
+M: Fey soy wiñolay. 
+C:  Si, más no volvio.
+
+nmlch-lflql1_x_0160_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Küchawimün <uh> pichike l'awen' 
+C: ¿Cuando se lavan con un poco de remedio
+
+M: tiple tapüle küchawlaymün?. 
+C: por acá se lavan ustedes?.
+
+nmlch-lflql1_x_0161_lflql_00: 
+M: Fey küchawiyin pichike firken l'awen' 
+C: Así nos lavamos con un poco de firke remedio 
+
+M: küchawiyin.
+C: nos lavamos.
+
+nmlch-lflql1_x_0162_nmlch_00: 
+M: Ka fey kümey fey. 
+C: También hace bien ese.
+
+nmlch-lflql1_x_0163_lflql_00: 
+M: Chi alkol fey elungeyin 
+C: El alcohol también nos daban 
+
+M: <*SPA> ese tralngiñ üchawiyin 
+C: ----- 
+
+M: feymu limpiawiyin 
+C: por eso, ese nos limpia 
+
+
+M: feymu fey ankü nawtuy 
+C: de ahí eso se saca 
+
+M: terminatuy aun kiñe tripantu duray pu. 
+C: se termina recían en un año, eso dura pues. 
+
+nmlch-lflql1_x_0164_nmlch_00: 
+M: Kiñe tripantu may 
+C: Un año es así
+
+M: kuyfi ¿chumngelu chi taiñ pütakeche müte 
+C: antes ¿por que nuestros antiguos 
+
+M: kutranchengeklafuy papay? 
+C: no eran tan enfermisos mamita?,
+
+M: ¿chempiafuymi 
+C: ¿que me puedes decir,
+
+M: ka tami ngütram mu 
+C: de tu conversación, 
+
+M: rakisuam mu tüfey 
+C: de tu pensamiento de esto,
+
+M: chempikimi kay? 
+C: que me puedes decir?,
+
+M: taiñ küpalme inchin pütrakeche
+C: de nosotros, nuestros antepasados, los viejos  
+
+M: kutranchengekelafuy
+C: que no eran enfermisos,  
+
+M: niengekelafuy müte tuwülka pingi 
+C: no tenían mucha tuhulca dicen
+
+M: ka sapatu 
+C: y zapatos 
+
+M: chumüyawtuyin inchin 
+C: así anduvimos nosotros
+
+M: tüfa femyawkelafuyin 
+C: esto no lo hacemos nosotros
+
+M: <%> chumngelu chi pikimi kay papay 
+C: por que será eso me dirías mamita 
+
+M: eymi chemu chi fente yafüngefuyngün. 
+C: tu como lo haces, como comerían antes ellos.
+
+nmlch-lflql1_x_0165_lflql_00: 
+M: Chemkechi ta chem rumeyma 
+C: Que será que tanto que
+
+M: matetukelafuy piki algunu
+C: no bebían tanto mate dicen algunos
+
+M: re napor ikefuy 
+C: con puro yuyo comían 
+
+M: kuyfi cheche piki 
+C: los antiguos dicen 
+
+M: chi inarumelu inche kimpalan 
+C: y el último yo no lo vine a conocer
+
+M: feymu fey kutran chengelay 
+C: por eso no habían enfermisos 
+
+M: pingeki lo antiwo. 
+C: decían los antiguos.
+
+nmlch-lflql1_x_0166_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Napor ikefuyngün weke iyagel ikefuyngün?. 
+C:  ¿El yuyo lo comíano nuevas comidas? 
+
+nmlch-lflql1_x_0167_lflql_00: 
+M: Weke iyagel pu'. 
+C: Nuevas comidas pues.
+
+nmlch-lflql1_x_0168_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Fewla müna müleki <*SPA>conserva 
+C: Ahora hay puras conservas 
+
+M: ka mületuyka kochilu.
+C: o estan cosidos.
+
+nmlch-lflql1_x_0169_lflql_00: 
+M: Pe dulce. 
+C: Muy dulce.
+
+nmlch-lflql1_x_0170_nmlch_00: 
+M: Fey peno ta wecha kunueymu 
+C: Eso será lo que lo dejó mal
+
+M: inchin tüfa perke 
+C: nosotros hasta 
+
+M: meli mari tripantu ni wentru 
+C: los cuarenta años el hombre
+
+M: domongeay rume ta kechu mari 
+C: las mujeres más de cicuenta 
+
+M: ya fente newen ngewelay 
+C: ya se acaba la fuerza
+
+M: como newen ngekefuy pütakeche 
+C: no como la fuerza que tenían antes los viejos
+
+M: kuyfi pataka tripantu 
+C: antes cien años 
+
+M: ta tukefuy pingi 
+C: ya tenían dicen
+
+M: feyngefuy tüfi. 
+C: así era antes esto.
+
+nmlch-lflql1_x_0171_lflql_00: 
+M: Durakefuy füchakeche. 
+C: Duraban los viejos.
+
+nmlch-lflql1_x_0172_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Küme pelo lekefuy 
+C: Veía bien 
+
+M: ka ñi nge rume ta <uh> chemlekelafuy pingi 
+C: también su ojo no estaban tan malos le decían
+
+M: ngi ta tüfey kikeymi 
+C: 
+
+M: femngechi allpapelaymi ngütram tüfey. 
+C: así será como vino a dejar el tema.
+
+nmlch-lflql1_x_0173_lflql_00: 
+M: Fey allküpan ka fey. 
+C: 
+
+nmlch-lflql1_x_0174_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Küme wütrün niefuyngün ka. 
+C: Antes tenían buenas ritras de choclo también.
+
+nmlch-lflql1_x_0175_lflql_00: 
+M: Fey küme wütrün niefuy. 
+C: Sí, buenas ritras de choclo tenían.
+nmlch-lflql1_x_0176_nmlch_00: 
+M: ¿Mülepelafuy pe chem tañi ikefel engün 
+C: ¿Tendrían pues lo que ellos comían
+
+M: chem tañi pütokokefel engün? 
+C: tenían de beber ellos?
+
+M: chi tañi femngechi leal engün <*SPA> no
+C: así eran sus comidas de ellos ¡no!,
+
+M: ¿kimlaymi newe?. 
+C: ¿no sabes un poco?. 
+
+nmlch-lflql1_x_0177_lflql_00: 
+M: Newe inarupelan inche.
+C: Yo no vine a ver mucho. 
+
+nmlch-lflql1_x_0178_nmlch_00: 
+M: ¿Inarumi kay? 
+C: ¿Continuas?
+
+nmlch-lflql1_x_0179_lflql_00: 
+M: Tokolekelan chem, 
+C: No toque de eso,
+
+M: chem iyagel ikefel engün 
+C: la comida que ellos comían 
+
+M: fey fente duran chi pu antiwo 
+C: con lo que duraban los antiguos 
+
+M: pichiken ngütramkakefun 
+C: un poco me conversaba 
+
+M: awela yem
+C: mi difunta abuela
+
+M: fey pichike kimngen 
+C: así que un poco conozco 
+
+M: por <*SPA>ahora chafa inarumepalan. 
+C: por ahora no lo continuo. 
+
+nmlch-lflql1_x_0180_nmlch_00: 
+M: ¿Chem allküymafimi 
+C: ¿Qué escuchabas 
+
+M: ngütramkalukay 
+C: de las conversaciones 
+
+M: tüfey papay eymi tüfa?. 
+C: de tu mamita, tu?.
+
+nmlch-lflql1_x_0181_lflql_00: 
+M: Napor tukefuy 
+C: El yuyo lo consumían 
+
+M: kuyfi ke che pip pu 
+C: los antiguos pues
+
+M: fey ikefuy chi che 
+C: así comían la gente
+
+M: kofke kimngekelafuy kuyfi 
+C: el pan no lo conocían antes
+
+M: puro sanku mürken 
+C: pura harina tostada 
+
+M: chem ta katutu pingi 
+C: el trigo cocido y amoldado dicen 
+
+M: fey fey ikefuy ti pu antiwo. 
+C: así, así comían los antiguos. 
+
+
+ql1_x_0182_lflql_00_nmlch_00: 
+M: Feytichi iyagel 
+C: Esa comida  
+
+M: ta mapu iyagel
+C: es comida de la tierra
+
+M: rume we iyagel tüfika 
+C: esta era comida nueva 
+
+M: rume alün newen niefuy tüfika.
+C: con mucha fuerza tenían esta también.
+
+nmlch-lflql1_x_0183_lflql_00: 
+M: Fey peno feymu durafuy kuyfi ke che pu. 
+C: Así serí, por eso duraba ka gente antes pues.
+
+nmlch-lflql1_x_0184_nmlch_00: 
+M: Musay ka ikefuyngün pe musay. 
+C: El muday se bebiamos puro muday.
+
+nmlch-lflql1_x_0185_lflql_00: 
+M: Müsay ka fey pu'.
+C: El muday también pues. 
+
+nmlch-lflql1_x_0186_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Feymu inchin feula 
+C: Ahora nosotros 
+
+M: kimwetulafiyin ti müday pingeki. 
+C: no conocemos el muday que se llama.
+
+nmlch-lflql1_x_0187_lflql_00: 
+M: <*SPA> Ahora kim deamawetulay muday pu'. 
+C: Ahora no saben hacer el muday pues.
+
+
+nmlch-lflql1_x_0188_nmlch_00: 
+M: Inchin peno kütu yafkatukeperkiyin 
+C: A nosotros no nos habrán dañado 
+
+M: tüfaka yagel mu peno.
+C: hasta en la comida.
+
+nmlch-lflql1_x_0189_lflql_00: 
+M: Yagel. 
+C: El alimento. 
+
+nmlch-lflql1_x_0190_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Eymi tami pichekeche welu 
+C: Y a tus niños 
+
+M: kom controlatufimi <uh> 
+C: todos los controlaste 
+
+M: tami tremümel tüfi
+C: a los que estaban criando. 
+
+nmlch-lflql1_x_0191_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Com controlafin.
+C: Todos se controlaban.
+
+nmlch-lflql1_x_0192_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Kom controlatufimi engün 
+C: A todos ellos los controlabas
+
+M: feyti kom nietuy lichi engün 
+C: entonces todos estaban con leche 
+
+M: amutuy <*SPA> posta mew. 
+C: por que iban a la posta.
+
+nmlch-lflql1_x_0193_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Fey lichi elungeken 
+C: Y leche le dan
+
+M: alimento ayuda elungen pu 
+C: alimento de ayuda le dan pues 
+
+M: feyta desnutriw epu niekefun ospitalmu 
+C: estos destrunios tenía dos en el hospital 
+
+M: fey tuymangen 
+C: y no le hicieron nada 
+
+M: epe tripantu nieymangen
+C: estuvo casi un año me la tuvieron
+
+M: feymu fey ayudangekefuy. 
+C: por eso le dieron ayuda.
+
+nmlch-lflql1_x_0194_nmlch_00: 
+M: ¿Papay eymi tüfey tami püñeñ? <uh> 
+C: ¿Mamita estos tus hijos?
+
+nmlch-lflql1_x_0195_lflql_00: 
+M: Pepi pepi dungukelay tati claro sungukelay. 
+C:  No puede hablar bien, claro no puede hablar.
+
+nmlch-lflql1_x_0196_nmlch_00: 
+M: ¿Pepi sungulay küme?. 
+C: ¿No puede hablar bien?.
+
+
+
+nmlch-lflql1_x_0197_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: De nacimiento pi.
+C: De nacimiento dice.
+
+nmlch-lflql1_x_0198_nmlch_00: 
+M: ¿Kimlafimi 
+C: ¿No sabes,
+
+M: chumngelu ñi felen tüfi eymi? 
+C: por que están así estos?.
+
+nmlch-lflql1_x_0199_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Kimlafin chumngechi ñi femün femün.
+C: No se por que están así de esta forma.
+
+nmlch-lflql1_x_0200_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Feyti papay fey ka tami püñeñ 
+C: Así mamita y a tus hijos
+
+M: eymi yekelafimi pitalmu tüfa?. 
+C: tu no los llevabas al hospital?.
+
+nmlch-lflql1_x_0201_lflql_00: 
+M: Yekelafin pitalmu.
+C:  No los llevaba al hospital.
+
+nmlch-lflql1_x_0202_nmlch_00: 
+M: ¿Yekelafimi?
+C: ¿No los llevaste?
+
+
+nmlch-lflql1_x_0203_lflql_00: 
+M: Kiñe naw presentamefuyin pitalmu 
+C: Una tarde me presenta en el hospital 
+
+M: fey sungulayami pifun 
+C: y no vas a hablar le dije 
+
+M: kidu sunguy pu' 
+C: solo hablo pues
+
+M: ¿como se llama pingi? 
+C: ¿cómo se llama le dicen?
+
+M: kidu mudu kunuwaymi pifun 
+C: por si solo te vas a quedar mudo había dicho
+
+M: fey kisu sunguy fey
+C: y solo hablo el
+
+M:  este <*SPA>entiende 
+C: este entiende
+
+M: <*SPA>sabe <*SPA>ablar  me dijo 
+C: este entiende sabe hablar me dijo
+
+M: <*SPA> si <*SPA> doctor. 
+C: sí doctor.
+ 
+nmlch-lflql1_x_0204_nmlch_00: 
+M: <uh> ¿Escuela tuyi ka fey?. 
+C: ¿A la escuela entraron también?.
+
+nmlch-lflql1_x_0205_lflql_00: 
+M: ¿Tüfa?. 
+C:  ¿Estos?.
+
+nmlch-lflql1_x_0206_nmlch_00: 
+M: May. 
+C:  Sí.
+
+nmlch-lflql1_x_0207_lflql_00: 
+M: <*SPA>Escuela tuy ka fey pu'. 
+C:  A la escuela entraron también pues.
+
+nmlch-lflql1_x_0208_nmlch_00: 
+M: ¿Asümi?. 
+C: ¿Saben?. 
+
+nmlch-lflql1_x_0209_lflql_00: 
+M: Asümlay chem letra rume konlay lonkomu. 
+C:  No sabe las letras no le entraron en la cabeza.
+
+nmlch-lflql1_x_0210_nmlch_00: 
+M: Fey chi sertikaw yetuafimi 
+C: Y el certificado se lo llevaste
+
+M: kimnolumu fey 
+C: o no lo saben eso
+
+M: feyti yelelafimi 
+C: no le llevaste 
+
+M: ta chem rume pitalmu ka. 
+C:  lo que le paso en el hospital.
+
+nmlch-lflql1_x_0211_lflql_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: Pitalmu mekomu.
+C: En el hospital me trataron.
+
+nmlch-lflql1_x_0212_nmlch_00: 
+M: May.
+C: Sí.
+
+M: Feyta feypiki kom pu'.
+C:  Así es todos decían pues.
+
+
+nmlch-lflql1_x_0213_lflql_00: 
+M: Fey feypienew chi mediko 
+C: El médico me decía 
+
+M: kim dunguy 
+C: sabe hablar 
+
+M: chem fallu ngelay 
+C: no tiene fallas 
+
+M: me dijo pienew feymu 
+C: me dijo por eso
+
+M: fenkunuwtun dejawtun feymu. 
+C: de puro dejado le pasa eso. 
+
+nmlch-lflql1_x_0214_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: ¿Elungelay l'awen'? 
+C: ¿No da remedio?
+
+nmlch-lflql1_x_0215_lflql_00: 
+M: Elungelay l'awen' 
+C: No da remedio,
+
+M: <*SPA> porque kidu ramtukangi ini pingimi pingi 
+C: porque solo le preguntaron como te llamas, le dijeron
+
+M: fill wüli ñi <*SPA> nombre kidu 
+C: y así solo dio su nombre
+
+M: feypingi ñi <*SPA> nombre pi 
+C: así es mi nombre dijo
+
+M: ya sabe ablar, usteden se hace <*SPA> no <*SPA> mas pienew. 
+C: ya sabe hablar usted se hace no más me dijo.
+
+
+nmlch-lflql1_x_0216_nmlch_00: 
+M: Ah.
+C: ¡Ah!
+
+nmlch-lflql1_x_0217_lflql_00: 
+M: Dio su <*SPA> nombre <*SPA> todo  
+C: Dio su nombre todo
+
+M: eymi koylatiawimi pienew chi <*SPA> doctor pu. 
+C: tu estas mintiendo me dijo el doctor pues.
+
+nmlch-lflql1_x_0218_nmlch_00: 
+M: Ah. 
+M: ¡Ah!
+
+M: Welu eymi kimnimi tami püñeñ 
+C: Pero tu conoces a tu hijo 
+
+M: tami kutrankenka 
+C: que es enfermiso
+
+M: kimnefimi tüfeyka kimnefimi. 
+C: debes saberlo esto, debes saberlo.
+
+nmlch-lflql1_x_0219_lflql_00: 
+M: Inche feypifin chi <*SPA> doctor 
+C: Yo le dije al doctor 
+
+M: fey kutranküli ñi püñeñ 
+C: mi hijo esta enfermo 
+
+M: femki de nacimiento le dije
+C: está así de nacimiento le dije
+
+M: tanto edad tiene le dije 
+C: tanta edad tiene le dije
+
+M: chemu küpalaymi wawa ngelu pienew. 
+C: y por que no me la trajo de guagua me dijo.
+
+nmlch-lflql1_x_0220_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+nmlch-lflql1_x_0221_lflql_00: 
+M: Mülekefuy pitalmu 
+C: Siempre había hospital 
+
+M: konin traigay me dijo 
+C: la podía entrar, traer me dijo
+
+M: wengeltulanew fey mu ka. 
+C: no he vuelto por eso.
+
+nmlch-lflql1_x_0222_nmlch_00: 
+M: ¿Nomeltulaymu <*SPA> doctor?. 
+C: ¿?.
+
+nmlch-lflql1_x_0223_lflql_00: 
+M: <*SPA> No <*SPA>no.
+C: No, no.
+
+M: Feymu soy amuwelan 
+C: Por eso no he ido 
+
+M: fey <*SPA> asta <*SPA> ahora ta dejaw külen. 
+C: así hasta ahora de dejada no más.
+
+nmlch-lflql1_x_0224_nmlch_00: 
+M: Feleymi müten. 
+C: Así esta bien no más. 
+
+nmlch-lflql1_x_0225_lflql_00: 
+M: <*SPA>Si. 
+C:  Sí.
+
+nmlch-lflql1_x_0226_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Tami kiñen püñeñ ten 
+C: Y uno de tus hijos 
+
+M: fey femngechi kutran ni ti.
+C: tiene esta enfermedad.
+
+nmlch-lflql1_x_0227_lflql_00: 
+M: Tüfa kiñe müten.
+C:  Esto uno no más.
+
+nmlch-lflql1_x_0228_nmlch_00:  
+M: Ah.
+C: ¡Ah!
+
+M: May, may, may. 
+C: Sí, sí, sí.
+
+M: Amufuy escuelamu asümlay tüfi.
+C: Iba a la escuela pero no aprendía.  
+
+nmlch-lflql1_x_0229_lflql_00: 
+M: Asümlay ruka 
+C: No aprende en la casa 
+
+M: tralwe luwi üyüw escuelamu
+C: -- allá en la escuela
+
+M: kiñemu koniyin kake 
+C: algunos entramos con otros
+
+M: epu peñi unen engu 
+C: con dos hermanos mayores 
+
+M: küla unepay chi küla ningün 
+C: tres llegaron primero eran tres
+
+M: kidu konio üyüw escuelamu 
+C: solo entro allá a la escuela 
+
+
+M: <*SPA> despue kalvüko terminay 
+C: después Calbuco termino 
+
+M: entutufin asümlay 
+C: no saco, o lo aprendió
+
+M: konlay lonkomu ninguna <*SPA>letra. 
+C: no le entro en la cabeza ninguna letra.
+
+nmlch-lflql1_x_0230_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Feyta fey epu mari kiñe tripantuni dewma. 
+C: Así por veintiún años tiene hasta ahora.
+
+nmlch-lflql1_x_0231_lflql_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M: Epu mari kiñe tripantu ni. 
+C: Veintiún años. 
+
+nmlch-lflql1_x_0232_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Fey chumngeafuy 
+C: Y que se podría hacer
+
+M: eymi tami püñeñ 
+C: por tu hijo 
+
+M: welu eymi müten 
+C: pero tu no más 
+
+M: ta müli tami trüftuafiel 
+C: esto   se debe juntar
+
+
+M: ta ni chumlea el' rupayal 
+C: para ver como pasar
+
+M: ka tañi kellungeal tüfeyka papay. 
+C: también para ayudarle pues mamita.
+
+nmlch-lflql1_x_0233_lflql_00: 
+M: Inche mayta <*SPA>hacia <*SPA> empeño 
+C: Yo no más hacía empeño 
+
+M: <*SPA>porque ngen koñi pingeki <*SPA> siempre pu'. 
+C: porque soy dueña de mi hijo dicen siempre pues. 
+
+nmlch-lflql1_x_0234_nmlch_00: 
+M: May.
+C: Sí. 
+
+M: Feleki tati feleki 
+C: Así es pues, así es 
+
+M: <uh> ¿ feyti kay papay eymi trafentukelaymi?. 
+C: ¿y eso mamita tu no te has encontrado con alguna fuerza mala?.
+
+nmlch-lflql1_x_0235_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0236_nmlch_00: 
+M: ¿Trafentufengelaymi?. 
+C: ¿No me te has encontrado con una fuerza mala?.
+
+nmlch-lflql1_x_0237_lflql_00: 
+M: Trafentukelan. 
+C:  No me he encontrado con una fuerza mala.
+
+nmlch-lflql1_x_0238_nmlch_00: 
+M: Ya ¿tami pichikeche kiñeke 
+C:  Ya, ¿y algunos de tus niños
+
+
+M: trafentuki kay?  
+C: no se ha encontrado con alguna fuerza mala?
+
+nmlch-lflql1_x_0239_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Kiñe rume trafentulayngün. 
+C: Ninguno de ellos se ha encontrado con alguna fuerza mala.
+
+nmlch-lflql1_x_0240_nmlch_00: 
+M: Trafentulayngün 
+C: No han se han encontrado con alguna fuerza mala 
+
+M: kiñe <*SPA> no rume 
+C: ninguno, nunca
+
+M: a femngechi wesake kutran 
+C: ah, esta es una mala enfermedad 
+
+M: kürüf kutran inalayu fey. 
+C: un viento con enfermedad no te ha seguido.
+
+nmlch-lflql1_x_0241_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0242_nmlch_00: 
+M: Ya. 
+C: Ya.
+
+nmlch-lflql1_x_0243_lflql_00: 
+M: Inche nien fe dios mu 
+C: Yo tengo fé en dios
+
+M: ngillatuleken Dios mu 
+C: le rezó a dios 
+
+M: fey feymu fey kuydanienew 
+C: así por eso me cuida
+
+M: kon toda mi <*SPA> familia. 
+C: con toda mi familia.
+
+l1_x_0245_lflql_004_nmlch_00: 
+M: ¿Ngellipulekimi tüfey?. 
+C: ¿Le haces oración a este?. 
+
+nmlch-lflql1_x_0246_lflql_00: 
+M: Ngellipuleken Dios mu pu. 
+C: Le hago oración a dios pues.
+
+nmlch-lflql1_x_0247_nmlch_00: 
+M: Fey, fey, fey, fey 
+C: Sí, sí, sí, sí
+
+M: küme dungu tati 
+C: buenas cosas pues
+
+M: feyta feyentuli ta ngünechen che 
+C: así es la gente debe agradecer a ngünechen
+
+M: fey ka kisu wülki 
+C: el solo también entrega 
+
+M: ka mongen 
+C: la otra vida
+
+M: ka muntutuki 
+C: también salva 
+
+M: feyta püwülüwküli che 
+C: así va llegando la gente 
+
+M: fey <uh> kellunengi ka fey pu'. 
+C: así le ayuda también pues.
+
+nmlch-lflql1_x_0248_lflql_00: 
+M: Kellunengi ka fey 
+C: Le ayuda también 
+M: igual ni fe Dios 
+C: igual tenerle fe a dios
+
+M: ni fe Dios mu 
+C: la fe en el dios
+
+M: che chewpüle rume miaway 
+C: por donde ande la gente 
+
+M: Dios küfilawküli pu ankel miawi pu'. 
+C: dios los cuida los ángeles andan pues.
+
+nmlch-lflql1_x_0249_nmlch_00: 
+M: Feli llemay chi, 
+C: Así es eso pues,
+
+M: feli llemay chi kuyfi 
+C: así es eso antes 
+
+M: tami feyentulen tüfa.
+C: tu obedeces eso.
+
+nmlch-lflql1_x_0250_lflql_00: 
+M: <*SPA> Si.
+C. Sí.
+
+M: Kuyfi sewmanuwkiyin 
+C: Antes nos convertimos   
+
+M: chawem vangelico ngefuy pu'.
+C: mi finado padre era evangélico pues.
+
+nmlch-lflql1_x_0251_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+nmlch-lflql1_x_0252_lflql_00: 
+M: Miawkefuy inglesia mu. 
+C: Andaban en la iglesia.
+
+nmlch-lflql1_x_0253_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Femngechi kimimi eymi. 
+C: Así es como tu sabes. 
+
+nmlch-lflql1_x_0254_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Femngechi fey kimün alabar a Dios. 
+C: Así hay sabiduría para alabar a dios.
+
+nmlch-lflql1_x_0255_nmlch_00: 
+M: Ah.
+C: ¡Ah!
+
+M: Fey femngechi feyentuymi. 
+C: Así es tu creencia.
+
+nmlch-lflql1_x_0256_lflql_00: 
+M: <*SPA> Si feyentun. 
+C: Sí, así yo creo.
+
+nmlch-lflql1_x_0257_nmlch_00: 
+M: <hm> May, may, may.
+C: Sí, sí, sí.
+
+M: Femngechi ta müte wesake kutran 
+C: Así es la mala enfermedad
+
+M: tami pichikeche ta wüñokelay ka. 
+C: tus niños no le han vuelto.
+
+nmlch-lflql1_x_0258_lflql_00: 
+M: Fey mu fey mte weda, 
+C: Hasta ahí llego lo malo
+
+
+M: wedake kutran 
+C: las malas enfermedades 
+
+M: kontukelanew
+C: no les ha vuelto a entrar
+
+M: ka ngillatuleken inche por mi <*SPA> familia. 
+C: y yo he rogado por mi familia.
+
+nmlch-lflql1_x_0259_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+nmlch-lflql1_x_0260_lflql_00: 
+M: Pidiendo a Dios. 
+C: Pidiendo a dios. 
+
+nmlch-lflql1_x_0261_nmlch_00: 
+M: ¿Wawyufengimi eymi kay papay?.
+C: ¿Y a ti mamita te ha salido sangre de las narices?
+
+nmlch-lflql1_x_0262_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0263_nmlch_00: 
+M: ¿Wawyufe ngelaymi?. 
+C: ¿No te ha salido sangre de la nariz?.
+
+nmlch-lflql1_x_0264_lflql_00: 
+M: <*SPA> No. 
+C:  No.
+
+nmlch-lflql1_x_0265_nmlch_00: 
+M: Feyti ka kiñe kutran müli 
+C: Esta otra enfermedad que hay
+
+M: rüngül piliun pingeki 
+C: la picazón del oído que se llama 
+
+M: ¿tukefimi?.
+C: ¿la has tenido?.
+
+nmlch-lflql1_x_0266_lflql_00: 
+M: Fey tukefin 
+C: Sí la tuve
+
+M: pero wütremu fey, 
+C: pero por el frío
+
+M: wütremu miawün fey femken. 
+C: cuando andaba en el frío así me paso.
+
+nmlch-lflql1_x_0267_nmlch_00: 
+M: Ah.
+C: ¡Ah!
+
+M: ¿Wütremu?. 
+C:  ¿Con el frío?.
+
+nmlch-lflql1_x_0268_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0269_nmlch_00: 
+M: ¿Fey tüfimi rüngülki?. 
+C: ¿Así tuviste la picazón?.  
+
+nmlch-lflql1_x_0270_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Fey rüngül pilunkenew 
+C: Así me picaba en el oído. 
+
+nmlch-lflql1_x_0271_nmlch_00: 
+M: ¿Chem l'awen' tukimi 
+C: ¿Qué remedio te colocaste 
+
+
+M: rüngül pilun ngeymi eymi tüfey?. 
+C: cuando tuviste la picazón del oído?.
+
+nmlch-lflql1_x_0272_lflql_00: 
+M: Mongeltukenew cigarro 
+C: Me mejoro con el cigarro
+
+M: y fuma pitrun cigarro 
+C: y se fuma, fuma, cigarro
+
+M: feyti fey pinguntukulelngen
+C: así se soplé el humo del cigarro
+
+M:  feymu mongetuken. 
+C: y con eso me mejore.
+
+nmlch-lflql1_x_0273_nmlch_00: 
+M: ¿Pütrem?. 
+C: ¿Cigarro?
+
+nmlch-lflql1_x_0274_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0275_nmlch_00: 
+M: ¿Pitrun pütrem?. 
+C: ¿Se fuma el cigarro?. 
+
+nmlch-lflql1_x_0276_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Cigarro tuy  kiñe
+C: Con un cigarro
+
+M: fey pinguntukulel ngeken 
+C: así se sopla a dentro
+
+M: kiñeke fumangi. 
+C: algunas fumadas.
+
+nmlch-lflql1_x_0277_nmlch_00: 
+M: ¿Rupatuki fey?.
+C:  ¿Así pasa eso?.
+
+nmlch-lflql1_x_0278_lflql_00: 
+M: Feymu rupakipu. 
+C: Así pasa pues. 
+
+nmlch-lflql1_x_0279_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: ¿Femechi mongetukeymün?. 
+C: ¿De esa forma se mejoran?. 
+
+nmlch-lflql1_x_0280_lflql_00: 
+M: Femngechi mongetukiyin. 
+C: De esta forma nos mejoramos. 
+
+nmlch-lflql1_x_0281_nmlch_00: 
+M: ¿Kimngenole tüfey mongelayafuy aweka?. 
+C: ¿El que no conoce esto no se mejora?.
+
+nmlch-lflql1_x_0282_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Mongelayafuy 
+C: No se mejorara
+
+M: pero soy kutrankawafun pu'. 
+C: pero más se enferma pues.
+
+nmlch-lflql1_x_0283_nmlch_00: 
+M: Soy kutrankawafuy <*SPA> no
+C: Más se enferma ¡no!,
+
+M: ¿allfen allfen kelaymi eymika?. 
+C: ¿y no te accidentaste, te heriste tu?. 
+
+nmlch-lflql1_x_0284_lflql_00: 
+M: <*SPA> No no. 
+C: No, no.
+
+nmlch-lflql1_x_0285_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Kiñeke katrü fünki 
+C: Algunos se cortan inmediatamente 
+
+M: kiñeke newentuyem 
+C: algunos que tienen mucha fuerza 
+
+M: katrüki ñi fün l'awen' 
+C: se le dorta la semilla al remedio 
+
+M: kimlaymi chem kümefuy?. 
+C: no sabes que es bueno para eso?.
+
+nmlch-lflql1_x_0286_lflql_00: 
+M: Kimlan l'awen'. 
+C: No conozco de remedio. 
+
+nmlch-lflql1_x_0287_nmlch_00: 
+M: ¿Katrüfününmu?. 
+C: ¿---?.  
+
+nmlch-lflql1_x_0288_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0289_nmlch_00: 
+M: Ah.
+C: ¡Ah!
+
+M: Kiñeke kimneki l'awen' 
+C: Conozco algunos remedios
+
+M: müleki mapu mew 
+C: que están en la tierra
+
+M: müleki ta mawidamew 
+C: están en el monte
+
+M: feyta kiñeke kimi l'awen' tüfeyka. 
+C: así algunos remedios conoces de estos.
+
+l1_x_0291_nmlch_009_lflql_00: 
+M: Kimlan l'awen' allfenmu. 
+C:  No conozco remedios para las heridas.
+
+nmlch-lflql1_x_0292_nmlch_00: 
+<hm> 
+
+nmlch-lflql1_x_0293_lflql_00: 
+M: Katrü kiñeke allfüki pü 
+C: Algunas cortaduras, heridas pues
+
+M: fey inche kimneyen pu vecino pu' 
+C: así es como yo conozco a mis vecinos pues
+
+M: vecina kim nelu 
+C:  mi vecina sabe
+
+M: ina ramtuken l'awen'.
+C: y le voy a preguntar de remedio.
+
+nmlch-lflql1_x_0294_nmlch_00: 
+M: ¿Kisuengün kimni l'awen' 
+C: ¿Solo ellos saben de remedios
+
+M: kisuengün pikimi?.
+C: solo ellos dijiste?.
+
+nmlch-lflql1_x_0295_lflql_00: 
+M: Kimni l'awen' engün pu'. 
+C: Ellos saben de remedios pues.
+
+nmlch-lflql1_x_0296_nmlch_00:  
+M: ¿Chem l'awen' kümi pikingün 
+C: ¿Qué remedios son buenos dicen
+
+M: kay allfenmu engün? 
+C:  para las heridas? 
+
+nmlch-lflql1_x_0297_lflql_00: 
+M: Olvidaymatufin 
+C: Me he olvidado
+
+M: ka üytulngekefun ke l'awen' 
+C: el nombre de los remedios
+
+M: fill fill <*SPA> nombre ni pue con <*SPA> nombre. 
+C: diferentes, distintos nombres tiene pues, con nombre.
+
+nmlch-lflql1_x_0298_nmlch_00: 
+M: Fill l'awen' ni üy pu 
+C: Diferentes remedios con nombre pues
+
+M: fill ka kümi fill l'awen' 
+C: diferentes remedios también son buenos
+
+M: ka feychi kutran kümelay wichukeni üy
+C: esa enfermedad no es buena y tiene diferentes nombres 
+
+nmlch-lflql1_x_0299_lflql_00: 
+M: To tiene <*SPA> nombre pu'. 
+C:  Todo tiene nombre pues.
+
+nmlch-lflql1_x_0300_nmlch_00: 
+M: May feli. 
+C: Sí, así es. 
+
+nmlch-lflql1_x_0301_lflql_00: 
+M: Feyti olvidaymatufin <*SPA> nombre 
+C: Pero me olvide del nombre
+
+
+M: feychi l'awen' pu'. 
+C:  de ese remedio pues.
+
+nmlch-lflql1_x_0302_nmlch_00: 
+M: Ah.
+C: ¡Ah!
+
+M: Newe kimüymawelafimi. 
+C: No lo conoces muy bien.
+
+nmlch-lflql1_x_0303_lflql_00: 
+M: <*SPA> No. 
+C: No.
+
+nmlch-lflql1_x_0304_nmlch_00: 
+M: ¿Welu femngechi pefilmi kimafuymi?. 
+C: ¿Pero así si lo ves lo puedes reconocer?. 
+
+nmlch-lflql1_x_0305_lflql_00: 
+M: kimkefin femngechi hoja. 
+C: Conozco como es la hoja.
+
+nmlch-lflql1_x_0306_nmlch_00: 
+M: ¿Re wütrentuymu?.
+C:  ¿El puro frío la pesco?.
+
+nmlch-lflql1_x_0307_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0308_nmlch_00: 
+M: Ka kiñe kutran müleki nga 
+C: Otra enfermedad que hay
+
+M: tüfi kütranchi mayta <uh> pegllen pingeki 
+C: esta enfermedad es la pegllen se llama
+
+M: <*SPA>verruga piki ta winka 
+C: verruga dice el huinca
+
+M: ¿kimfimi?. 
+C: ¿la conoces?.
+
+nmlch-lflql1_x_0309_lflql_00: 
+M: Ka fey kimfin 
+C: También la conozco
+
+M: fey tripaymawün<%> afnawtuy 
+C: ahí se me salió y se termino
+
+M: ka fey l'awen'tufin. 
+C: también le hago remedio. 
+
+nmlch-lflql1_x_0310_nmlch_00: 
+M: ¿Chem l'awen'tufimi?. 
+C: ¿Qué remedio le hizo?. 
+
+nmlch-lflql1_x_0311_lflql_00: 
+M: Kom pichi el mayor <*SPA>vece oye 
+C: Todo un poco la mayor veces oye
+
+M: chi sangrelu 
+C: y sangra 
+ 
+M: fey tripay punta kalfin kiñe kofkemu 
+C: y sale la punta 
+
+M: fey elufin kiñe trewa 
+C: y se le da a un perro
+
+M: fey aftuy 
+C: y se termina
+
+M: fey l'awen' afnawtuy. 
+C: con ese remedio se termina.
+
+nmlch-lflql1_x_0312_nmlch_00: 
+M: ¿Chumngechi kimfimi ñi femal feypingimi tüfey?. 
+C: ¿Cómo sabes lo que debes hacer le dijeron eso?.
+
+nmlch-lflql1_x_0313_lflql_00: 
+M: Feypingen kañpüle 
+C: Me lo dijeron en otra parte 
+
+M: un <*SPA> secreto pingen 
+C: un secreto le dicen
+
+M: el mayor katrüafimi pingen 
+C: el mayor lo cortas dicen 
+
+M: fey kuchillumu chemfin 
+C: con un cuchillo se hace
+
+M: fey ayilen mu katrüfin 
+C: por que estaba contenta la corte 
+
+M: fey mollfüy fey puntakafin chi kofke 
+C: la sangre se hunta en el pan
+
+M: kiñe pichi peasu kofke 
+C: un pedasito de pan
+
+M: fey elufin trewa afay tati pingen 
+C: y se le da al perro y se termina pues dicen
+
+M: fey femkunelfin 
+C: así lo hice
+
+M: fey afnawtuy niewelan feula. 
+C: así se termina ahora no tengo ya.
+
+nmlch-lflql1_x_0314_nmlch_00: 
+M: ¿Afi tüfey?. 
+C: ¿Se termina eso?.
+
+nmlch-lflql1_x_0315_lflql_00: 
+M: <*SPA> Si avi.
+C: Sí, termina.
+
+
+nmlch-lflql1_x_0316_nmlch_00: 
+M: Yewen ngeki tüfey wentru ngeay 
+C: Eso lo pueden llevar un hombre
+
+M: rume somo ngeay rume niey
+C: la mujer más lo puede tener 
+
+M: feyta fey ellkayawülki ñi küwü 
+C: andaba trayendo escondida su mano
+
+M: feyta peymangenuam 
+C: para que no se la vean
+
+M: welu müli ta l'awen' 
+C: pero hay remedio
+
+M: fey ka kümefuyka. 
+C: y con eso se pone mejor.
+
+nmlch-lflql1_x_0317_lflql_00: 
+M: Femngechi fey apümtuy avi. 
+C: Así es como se termina. 
+
+nmlch-lflql1_x_0318_nmlch_00: 
+M: ¿Avi tüfey?. 
+C: ¿Se termina esto?. 
+
+nmlch-lflql1_x_0319_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0320_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Kimnofilmi feytichi l'awen' 
+C: Si no conocieras ese remedio
+
+M: petu nifuymi tüfeyka. 
+C: todavía tendría eso.
+nmlch-lflql1_x_0321_lflql_00: 
+M: Kimnofili ta niafun 
+C: Si no lo conocíera la tendría
+
+M: feymu fey niewetulan tüfa 
+C: por eso es que no tengo ahora
+
+M: fey ñi wünen koñi 
+C: mi hijo mayor 
+
+M: ka femngechi tripaymafuy alün 
+C: también le había salido así harto
+
+M: ka femefin paresike un <*SPA> secreto elufin ka 
+C: y eso parece que es un secreto que le dieron
+
+M: fey aftuy tamu apofüy ñi küwü. 
+C: así se termina, se le llena la mano. 
+
+nmlch-lflql1_x_0322_nmlch_00: 
+M: ¿Ka femngechi secretu? 
+C: ¿Entonces es otro secreto? 
+
+nmlch-lflql1_x_0323_lflql_00: 
+M: <*SPA> Si.
+C: Sí.
+
+M: Ka femngechi otro screto 
+C: También es así otro secreto
+
+M: pareseke feypalanew 
+C: parece que  me vino a decir
+
+M: pero ka fey elungi un <*SPA> secreto. 
+C: pero también le dio un secreto.
+
+nmlch-lflql1_x_0324_nmlch_00: 
+M: ¿Ka femngelu? 
+C: ¿Y como lo hará?
+
+nmlch-lflql1_x_0325_lflql_00: 
+M: <*SPA> Derrepente af rumetuy pegllen. 
+C: De repente se termina la verruga.
+
+nmlch-lflql1_x_0326_nmlch_00: 
+M: ¿Niewetulay?. 
+C: ¿Deja de tenerlo?. 
+
+nmlch-lflql1_x_0327_lflql_00: 
+M: Niewetulay. 
+C: Deja de tenerlo. 
+
+nmlch-lflql1_x_0328_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Feyta ñi kimni pichiken l'awen' che 
+C: Así es cuando la gente sabe de un poco de remedio
+
+M: <uh> fey mongetripaletuki pu'. 
+C:  eso se puede mejorar pues. 
+
+nmlch-lflql1_x_0329_lflql_00: 
+M: Ka femngeluke parese elungi femngechi <*SPA> secreto 
+C: 
+
+nmlch-lflql1_x_0330_nmlch_00: 
+M: Ah.
+C: ¡Ah!
+
+M: Welu feyti. 
+C: Pero eso.
+
+nmlch-lflql1_x_0331_lflql_00: 
+M: El mayor feyti katrüngi 
+C: El mayor es el que se corta 
+
+M: fey nentungi 
+C: y se saca 
+
+M: feyti mayor fey aftuki pi. 
+C: ese el mayor y se termina dice.
+
+nmlch-lflql1_x_0332_nmlch_00: 
+M: Wünen tripalelu 
+C: El que sale primero  
+
+M: feyta fey katrüngi 
+C: este se corta
+
+M: fey elungi trewa 
+C: y se le da la perro
+
+M: feyta mongetuki. 
+C:  así se mejora.
+
+nmlch-lflql1_x_0333_lflql_00: 
+M: <*SPA> si fey aftuki pingi pu' 
+C: 
+
+nmlch-lflql1_x_0334_nmlch_00: 
+M: Ah. 
+C: 
+
+nmlch-lflql1_x_0335_lflql_00: 
+M: Monmgeltuy kidu 
+C: Se mejora solo
+
+M: fey aftuy pu' santu remedio piki kidu. 
+C:  se termino pues, santo remedio dicen. 
+
+nmlch-lflql1_x_0336_nmlch_00: 
+M: Feyti kay papay 
+C: Y eso también mamita 
+
+M: ka kiñe ramtun küpalnien 
+C: otra pregunta le traigo  
+
+M: eymi ka fawpüle 
+C: usted también por aquí 
+M: alün tripantu dewma
+C: lleva hartos años 
+
+M: nieymi kimimi tüfa mapuche 
+C: tiene conocimiento Mapuche 
+
+M: ta chumngelu chi yamkefuy 
+C: de cómo se respetaba 
+
+M: ta mawisa pingeymi 
+C: el monte le dice 
+
+M: pingen pikiymi kuyfi eymi 
+C: me decían antes dice usted
+
+M: ka yamkefuy meno ko 
+C: también se respetaba la laguna
+
+M: chumngelu chi ñamngekefuy tüfi 
+C: por que será que se perdio eso
+
+M: kuyfi fewla felewetulay welu.
+C: pero ahora no esta como antes. 
+
+nmlch-lflql1_x_0337_lflql_00: 
+M: felewetulay pu' chuchiam pipimi eymi mawida 
+C: 
+
+nmlch-lflql1_x_0338_nmlch_00: 
+M: <uh> Fütakeche taiñ fütake awelu inchin 
+C: Los viejos nuestro viejos los abuelos de nosotros
+
+M: eymi tami awelu 
+C: su abuelo
+
+M: ka fey rume yamkefuy ta mawisa 
+C: también respetaban mucho el monte
+
+M: ka yamkefuy ta menoko 
+C: también respetaban la laguna
+
+M: chumngelu chi pikimi kay eymi 
+C: porque será dice usted 
+
+M: fewla pichikeche inchin rume femngewetulayin 
+C: ahora los niños ni nosotros hacemos eso
+
+M: ka chumngeluchi femkefuyngün. 
+C: y porque lo hacian ellos así. 
+
+nmlch-lflql1_x_0339_lflql_00: 
+M: Fey inarumepalan chumkefen pütrake 
+C: No vine a seguir lo que hacían los mayores
+
+M: awelu inche pu'. 
+C: mi abuelo pues. 
+
+nmlch-lflql1_x_0340_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Inasuamlaymi?. 
+C: ¿No se fijo?. 
+
+nmlch-lflql1_x_0341_lflql_00: 
+M: Nop. 
+C: No pues. 
+
+nmlch-lflql1_x_0342_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: <uh> ¿Eymi kimlaymi santiwachen papay?. 
+C: ¿Tu no sabes quien santigua mamita?.
+
+nmlch-lflql1_x_0343_lflql_00: 
+M: Kimnien. 
+C: Si conozco. 
+
+
+nmlch-lflql1_x_0344_nmlch_00: 
+M: ¿Kimnimi?. 
+C:  ¿Conoce?.
+
+nmlch-lflql1_x_0345_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0346_nmlch_00: 
+M: ¿Chumngechi kimkefimi hojalelukay papay?. 
+C: ¿Cómo sabe que alguien esta ojado mamita?.
+
+nmlch-lflql1_x_0347_lflql_00: 
+M: Rapi rapi ngeki kutranki ñi lonko 
+C: Vómita y vómita y le duela la cabeza 
+
+M: kiñe naw mongeltun 
+C: una vez mojere 
+
+M: kiñe koñi unen elaweni 
+C: a un hijo mayor de un amigo
+
+M: feyti ayituymangen 
+C: y se rieron de mi
+
+M: fey hojay feypingenka 
+C: es ojo me dijeron también
+
+M: ka fey feypingen 
+C: eso también me dijeron 
+
+M: ka vecina feypienew 
+C: la otra vecina me dijo
+
+M: hoja li tami pichiche pienew 
+C: esta ojada tu niña me dijo
+
+M: santiwayafimi asukarmu 
+C: santiguala con ázucar 
+
+M: sino trapimu pienew 
+C: sino con ají me dijo
+
+M: fey santiwafin tantiafin trapimu 
+C: ahí la santigue la tantie con ají 
+
+M: tantiafin asukar mu ka fey pingen 
+C: la tantie con azucar también me dijo
+
+M: <*SPA> despue inche kidu 
+C: después yo sola 
+
+M: feymu santiwafin 
+C: la santigue 
+
+M: akutulu ta leliwelafuy rume
+C: cuando llego no miraba siquiera 
+
+M: ñi pichi wawa 
+C: mi guagua chica
+
+M: fey witramün epu trapi ügma 
+C: ahí dos ajís --
+
+M: fey ngi fo kürüf kalfin faw 
+C: 
+
+M: ka neyenmafin 
+C: también le sople 
+
+M: feymu neyen ta are tripay.
+C: por eso en la respiración salio caliente.  
+
+nmlch-lflql1_x_0348_lflql_00: 
+M: Fey fey sew santiwafin 
+C: Así así hice el santiguo 
+
+M: ka ngillatuymafin inchepu 
+C: también roge yo pues
+
+M: fey sew ngillatuymafin santiwafinka  
+C: ahí le hice oración y también la santigue 
+
+M: fey ütrüftukunufin kiñe üy kütralmu 
+C:  hay lo tire en un fuego prendiendo 
+
+M: fey <*SPA> asta ni fürelay 
+C: y hasta que no estuviera amargo 
+
+M: rume chi fuerte ngelay chi kütral 
+C: no era muy fuerte el fuego 
+
+M: iwalke parafina üyi chi trapi 
+C:con parafina prendio el ají  
+
+M: tukulu ngeputuy parafina 
+C: le coloco y no prendío la parafina 
+
+M: wütrüntukulu femngelu 
+C: le dejo caer así
+
+M: <*SPA> asta üyi soy üyi chi kütral 
+C: hasta allá más allá prendió el fuego 
+
+M: fey mongetuy ñi pichi che ñi wawa. 
+C: asi se mejoro la guagua. 
+
+nmlch-lflql1_x_0349_nmlch_00: 
+M: Femngechi mongetuy. 
+C: De esta forma se mejoro. 
+
+nmlch-lflql1_x_0350_lflql_00: 
+M: Fey feymu mongetuy. 
+C: Sí, así se mejoro. 
+
+nmlch-lflql1_x_0351_nmlch_00: 
+M: Hojaki pichikeche wesa lelingelu 
+C: Se ojan los  niños cuando los miran mal
+
+
+M: kam nielu wesa lelin pe. 
+C: o cuando tiene mala mirada.  
+
+nmlch-lflql1_x_0352_lflql_00: 
+M: Wesa lelin fey 
+C: Con la mala mirada
+
+M: feymu hojay ñi pichi che 
+C: por eso se ojan los niños 
+
+M: sungu wülngi müten 
+C: palabras dio a conocer 
+
+M: awituwülngi de lejo fey hoay pu. 
+C: lo miraron de lejos por eso se ojo pues.
+
+nmlch-lflql1_x_0353_nmlch_00: 
+M: Feyti hojalu ta penolu tañi kimüymangenolu 
+C: Ese que esta ojado no le encuantran lo que tiene 
+
+M: pitalmu yengele 
+C:  si al hospital la llevaran 
+
+M: mongelayafuy.
+C: no se hubiese mejorado.
+
+nmlch-lflql1_x_0354_lflql_00: 
+M: Mongelayafuy pu kampumu 
+C: No se mejoraía en el campo 
+
+M: wülngi l'awen' pu'. 
+C: da remedio pues.
+
+nmlch-lflql1_x_0355_nmlch_00: 
+M: ¿Müli ta asümüwlu pepi luwlu?. 
+C: ¿Hay el que sabe hacer esto?. 
+
+nmlch-lflql1_x_0356_lflql_00: 
+M: Pepiluwlu feymu 
+C: Por que saben de remedio 
+
+M: fey mongetuy ñi wawa
+C: se mejoro mi guagua
+
+M: wawangefulu wüñowetulay 
+C: a pesar de que era guagua no le volvió
+
+M: soy hojakelayngün.
+C: no se ojaron más. 
+
+nmlch-lflql1_x_0357_nmlch_00: 
+M: ¿Doy hoja lay? 
+C:  ¿No se ojaron más?
+
+nmlch-lflql1_x_0358_lflql_00: 
+M: <*SPA> No.
+C: No.
+
+M: Fewla fücha wentruy pu' 
+C: Ahora ya es un hombre adulto pues
+
+M: hojay doy ojalelay. 
+C: no se a ojado más.
+
+nmlch-lflql1_x_0359_nmlch_00: 
+M: Küme kuneyu feyta chi santiwo. 
+C: Quedo bien con el santuguamiento.  
+
+nmlch-lflql1_x_0360_lflql_00: 
+M: Küme kuneyu chi,chi l'awen' hoja fel 
+C: Bien quedo con ese remedio para ello ojo
+
+M: ka santiwafiel inche kidu mismo. 
+C: y también lo santigue yo misma. 
+
+nmlch-lflql1_x_0361_nmlch_00: 
+M: ¿Re trapimu santiwafimi? 
+C:  ¿Con pura ají lo santiguo?
+
+
+nmlch-lflql1_x_0362_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+M: Re trapimu. 
+C:  Con puro ají.
+
+nmlch-lflql1_x_0363_nmlch_00: 
+M: ¿Tunten trapi? 
+C:  ¿Cuánto ají?
+
+nmlch-lflql1_x_0364_lflql_00: 
+M: Meli trapi. 
+C: Cuatro ajís. 
+
+nmlch-lflql1_x_0365_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: ¿Meli trapi? 
+C:  ¿Cuatro ajíes?
+
+nmlch-lflql1_x_0366_lflql_00: 
+M: <*SPA> Si. 
+C: Sí.
+
+nmlch-lflql1_x_0367_nmlch_00: 
+M: ¿Feyti ka chemfimi puke rupafimi tañi kalülmew?. 
+C:  ¿También le paso por el cuerpo?.
+
+nmlch-lflql1_x_0368_lflql_00: 
+M: <*SPA> Si.
+C:  Sí.
+
+M: Vaw ka vaw crus kalngi ka neyiymay ka. 
+C:  Le hice una cruz y se movío también.
+
+nmlch-lflql1_x_0369_nmlch_00: 
+M: ¿Feyti tuteymu?. 
+C: ¿Eso le hizo efecto?
+
+nmlch-lflql1_x_0370_lflql_00: 
+M: Fey tutey. 
+C:  Eso hizi bien.
+nmlch-lflql1_x_0371_nmlch_00: 
+M: Ah. 
+C: ¡Ah!
+
+M: Femngechi kimnole che 
+C: Sí así no supiera la gente
+
+M: feyentun ngenole femngechi
+C: sino hubiera creencia de esta forma
+
+M: welu <uh> inawtuafuy ka. 
+C: pero se seguiría también.
+
+nmlch-lflql1_x_0372_lflql_00: 
+M: Inawtuafuy pue adümngefule l'awen' 
+C: Se continuaría pues el remedio si se supiera hacer
+
+M: inawtuafuy pu'.
+C:  se seguiría pues.
+
+nmlch-lflql1_x_0373_nmlch_00: 
+M: Inawtungeafuy rume tüfey 
+C: Se seguiría mucho eso
+
+M: claro kiñekemu 
+C: claro con algunos 
+
+M: kay iyagel weñañküleki che papay 
+C: y por la comida esta triste la gente 
+
+M: ¿kimlaymi l'awen'? 
+C: ¿no sabes mamita?
+
+M: kiñekemu seyuki ta iyagel fey..........
+C: algunos eligen ña comida pues ........

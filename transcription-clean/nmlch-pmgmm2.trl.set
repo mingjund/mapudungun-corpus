@@ -1,0 +1,13 @@
+InfoVersion 1
+TurnCounter 202
+SpeakerNum: 2
+nmlch-pmgmm2_x_%04d_nmlch_00
+nmlch
+nmlch-pmgmm2_x_%04d_pmgmm_00
+pmgmm
+UserLables: 3
+<*SPA>
+<Cough>
+<Throat>
+LableMenuFile
+C:\Program Files\TransEdit\trl-vm-win1.mnu

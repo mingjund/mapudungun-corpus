@@ -1,0 +1,3670 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nmfsh1 
+; Last changes made on 07/17/2001 
+; Transcriber: Flor Caniupil H. 
+; Comments:  
+; Traduce: Rosa Huenchumilla.
+
+nmlch-nmfsh1_x_0000_nmlch_00: 
+M: Mari mari malle
+C: Buenos días tío
+
+nmlch-nmfsh1_x_0001_nmfsh_00: 
+M: mari mari may malle
+C:  buenos días sobrino
+
+nmlch-nmfsh1_x_0002_nmlch_00: 
+M: ¿Chumlefuymi anta
+C:  ¿Cómo es que te encuentras
+
+M: tami mongenmew
+C:  en tu vida 
+ 
+M: chumuechi wünmalefuymian
+C:  cómo estás recibiendo los amaneceres
+
+M: tami pu che
+C:  tu gente
+
+M: kom kümelekay?
+C:  están todos bien?
+
+_x_0004_nmlch_00003_nmfsh_00:
+M: Kümeleiñ tatey
+C:  Estamos bien pues
+
+M: küme wünmaleiñ 
+C:  tenemos buenos amaneceres
+
+M: kom vey ayüwkületuiñ
+C:  todos por esonoes encontramos contentos
+
+M: taiñ ka mawün
+C:  también por nuestras lluvias
+
+M: taiñ chemün ta tüfa
+C:  lo que ha pasado ahora
+
+M: dew tokolelngetuiñ ta tukun,
+C:  se nos ha puesto en nuestras siembras,
+
+M: tukuam chakramew kümi ko
+C:  para las chacras es buena el agua.
+
+nmlch-nmfsh1_x_0005_nmlch_00:
+M: Pichi mawürkefuy 
+C:  Había llovido un poco
+
+nmlch-nmfsh1_x_0006_nmfsh_00:
+M: May.
+C:  Sí.
+
+nmlch-nmfsh1_x_0007_nmlch_00: 
+M: ¡Ah!
+C:  ¡Ah!
+
+nmlch-nmfsh1_x_0008_nmfsh_00: 
+M: May.
+C:  Sí.
+
+nmlch-nmfsh1_x_0009_nmlch_00: 
+M: Welu,
+C:  Pero,
+
+M: femngen ta
+C:  por ser así ahora
+
+M: femngechi
+C:  así
+
+M: komu
+C:  con el agua
+
+M: ta doy kümetuay ta 
+C:  ahora va a estar mejor
+
+M: mongepemum ka 
+C:  para continuar viviendo
+
+nmlch-nmfsh1_x_0010_nmfsh_00: 
+M: Femay llemay, 
+C:  Eso va a pasar claro,
+
+M: femay 
+C:  eso va a pasar
+
+nmlch-nmfsh1_x_0011_nmlch_00:
+M: Inche ta pentukupapeyu tati 
+C:  Yo te vine a saludar pues
+
+M: fey inche tüfa
+C:  yo ahora 
+
+M: niawün
+C:  ando
+
+M:  küdawkeawün tati 
+C:   trabajando pues
+
+M: <uh> l'awen' ka kutran 
+C:  de remedio y enfermedad
+
+M: müleki füta kuyfi
+C:  antes existía 
+
+M: mongenmew 
+C:  en la vida
+
+M: feyta ramtuafiñ pipengeyu
+C:  eso le voy a preguntar, dije
+
+M: eymi am wüne trekalelu 
+C:  como usted ha caminado primero
+
+M: feymu feyta
+C:  por eso esto
+
+M: pichi dallulanu pipefun 
+C:  que me diga un poco he dicho
+
+M: ta müleken
+C:  siempre hay 
+
+M: ta kuyfike fütake kutran 
+C:  antiguas graves enfermedades
+
+M: pichi kutran <uh>
+C:  pequeñas enfermedades
+
+M: ¿Chumngechi 
+C:  ¿Cómo
+
+M: tani l'awen'tungekefel ta che
+C:  se curaban las personas
+
+M: chew tañi doy
+C:  dónde 
+
+M:  kümelkaken tati malle? 
+C:   se mejora más tío?
+
+M: Feyta pepapengeyu ta tüfey 
+C:  Por eso te vine a ver ahora. 
+
+nmlch-nmfsh1_x_0012_nmfsh_00:
+M: Ya, ya, ya.
+C:  Ya, ya , ya.
+
+M: Femürki may ta tüfa
+C:  Eso es lo que ha pasado ahora
+
+M: ,<*SPA>bueno chemkünuayu ka
+C:  bueno te voy a decir pues
+
+M: feyta eymi am 
+C:  porque como tú
+
+M: ¿Chumlefuymi ka?
+C:  ¿Cómo te encuentras también?
+
+M:  Petu wüñoleltuayu
+C:   Te voy a devolver
+
+M: tami ramtun 
+C:  tu pregunta 
+
+M: ¿Ta eymi
+C:  ¿Y usted
+
+M: tami felenmu
+C:  por estar así
+
+M:  kom tüfa, 
+C:   todo esto,
+
+M: chumleymi? 
+C:  cómo te encuentras?
+
+nmlch-nmfsh1_x_0013_nmlch_00:
+M: Inche ta rüf küme wünmalen ka
+C:  Yo estoy amaneciendo muy bien
+
+M:  kom kümeli tañi pu che
+C:   están todos bien mi gente
+
+M: chem dungu rume ngelay
+C:  no hay ninguna novedad
+
+M: feymu ta inche ta trekayawün 
+C:  por eso yo ando caminando
+
+M: ta tüfey 
+C:  eso pues
+
+M: fey küdawkeawün feymu.
+C:  así ando trabajando por eso.
+
+fsh1_x_0014_nmlch_00nmfsh_00:
+M: Ya, ya, ya.
+C:  ya, ya, ya.
+
+nmlch-nmfsh1_x_0015_nmlch_00:
+M: May.
+C:  Sí.
+
+nmlch-nmfsh1_x_0016_nmfsh_00: 
+M: Kümey tati kümi.
+C:  Es bueno pues, es bueno.
+
+nmlch-nmfsh1_x_0017_nmlch_00: 
+M: ¿Eymi fey
+C:  ¿Y usted
+
+M:  <uh> kuyfi 
+C:  antes
+
+M: we pichi wentru ngelu
+C:  cuando era recién un niño
+
+M:  tuymi kutran?
+C:   te contagiaste alguna enfermedad?
+
+M: Kutranimi tüfi malle.
+C:  Te enfermaste tío.
+
+nmlch-nmfsh1_x_0018_nmfsh_00:
+M: Kuyfi ta
+C:  Antes 
+
+M: we pichi wentru ta inche
+C:  cuando recién era un niño
+
+M: <Noise> kutrankelafun ta tüfa.
+C:  no me enfermaba. 
+
+nmlch-nmfsh1_x_0019_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah! 
+
+M: Kutrankelafuymi.
+C:  No te enfermabas.
+
+nmlch-nmfsh1_x_0020_nmfsh_00: 
+M: Kimlan,
+C:  No sabía,
+
+M: kimlavun kutran itrokom, 
+C:  no sabía de todas las enfermedades,
+
+M: mediku rume ta kimlafun 
+C:  ni de médico sabía
+
+M: depue' wüla may
+C:  después recién 
+
+M: ta nielu ta familia,
+C:  cuando tuve familia,
+
+M: kurengelu ta inche
+C:  cuando me casé
+
+M: nielu tañi kompañ
+C:  cuando tenía mi compañera
+
+M: fewla ta tun ta kutran
+C:  ahí recién comencé a tener enfermedades
+
+M: de repente 
+C:  de repente
+
+nmlch-nmfsh1_x_0021_nmlch_00: 
+M: ¡Ah!
+C:  ¡Ah!
+
+nmlch-nmfsh1_x_0022_nmfsh_00: 
+M: <*SPA>de <*SPA>repente 
+C:  De repente
+
+M: turumen ñi kutran, 
+C:  me contagié mi enfermedad,
+
+M: <*SPA>pero kimlafun
+C:  pero no sabía 
+
+M: chem kutran ñi nien,
+C:  que enfermedad tenía,
+
+M: vey pitalmu wüla amulu inche
+C:  y cuando fui recién al hospital
+
+M: feyta kimüñmangen 
+C:  y me conocieron 
+
+M: tañi kutran 
+C:  mi enfermedad
+
+M: veyta re femngechi
+C:  entonces sólo así
+
+M: kutranlu reke 
+C:  como si me enfermara
+
+M: amunka feyta pitalmu 
+C:  fui así al hospital
+
+M: kimüñmangen wüla
+C:  recién me conocieron 
+
+M: kiñe umakon ta pitalmu. 
+C:  dormí una vez en el hospital.
+
+nmlch-nmfsh1_x_0023_nmlch_00: 
+M: Kiñe umapulu wüla eymi. 
+C:  Cuando recién dormiste una noche.
+
+nmlch-nmfsh1_x_0024_nmfsh_00: 
+M: May.
+C:  Sí.
+
+M: Küme <%> veyta wüñoalu
+C:  Es bueno regresar así
+
+M: reke femfun rakiduamfun
+C:  eso me pasó, había pensado
+
+M:  <*SPA>pero rumeñmaw
+C:  pero por siempre 
+
+M: kutrankülerken 
+C:  estaba enfermo 
+
+M: peñmaenu 
+C:  en el sueño
+
+M: mediku
+C:  médico
+
+M: tañi kutran
+C:  mi enfermedad
+
+M: feyta elenu pu' 
+C:  esa me lo dio pues
+
+M: feymu kawitumu yengen tati
+C:  por eso me llevaron a la cama pues
+
+M: feyta chew
+C:  esto dónde
+
+M: ta müleken
+C:  están 
+
+M: ta pu kutran 
+C:  los enfermos
+
+M: y yengenew chi <*SPA>doctor
+C:  y me llevó ese doctor
+
+M: pelontuenu
+C:  me examinó 
+
+M: itrokom tukulelngen 
+C:  me pusieron de todo
+
+M: <*SPA>maquina
+C:  máquina
+
+M: fey wüla 
+C:  ahí recién
+
+M: peñmangen tañi kutran 
+C:  me identificaron mi enfermedad
+
+M: feyta weda kutran
+C:  esa mala enfermedad
+
+M: ta nierkimi pienu 
+C:  eso tienes me dijo
+
+nmlch-nmfsh1_x_0025_nmlch_00: 
+M: ¡Awem kay! 
+C:  ¡Que admirable!
+
+nmlch-nmfsh1_x_0026_nmfsh_00:
+M: feyta wüñolayaymi pienu
+C:  y no volverá me dijo
+
+M: umayaymi pienu 
+C:  vas a llorar me dijo
+
+M: feyta elngenka. 
+C:  así me dejaron también.
+
+nmlch-nmfsh1_x_0027_nmlch_00: 
+M: Elngellimimay 
+C:  Claro que te dejaron
+
+nmlch-nmfsh1_x_0028_nmfsh_00:
+M: feyta preparaw rume
+C:  y aunque estaba preparado
+
+M: amulafun 
+C:  no había ido
+
+M: re femngechi müten
+C:  sólo si nomás
+
+M: amufemfun 
+C:  había ido 
+
+M: feyta fütra kutran 
+C:  y tenía una gran enfermedad
+
+M: nierkefun 
+C:  había tenido
+
+nmlch-nmfsh1_x_0029_nmlch_00: 
+M: Müna weda kay.
+C:  Muy malo pues.
+
+nmlch-nmfsh1_x_0030_nmfsh_00:
+M:  Feyta tukulelngen indision 
+C:   Así me colocaron inyección 
+
+M: <Throat>ka elungean patilla
+C:  también me dieron pastilla
+
+M:  küme uman,
+C:   para dormir bien,
+
+M: küme uman feychi pun 
+C:  esa noche dormí bien
+
+M: fey <*SPA>depue' 
+C:  y después
+
+M: epe rangiantü 
+C:  casi al medio día 
+
+M: fewla wüla ka,
+C:  ahí recién también
+
+M: ka semutuy ñi kutran 
+C:  me mejoré de mi enfermedad
+
+M: rumeñmaw
+C:  por siempre 
+
+M: apurawfun feychi 
+C:  me había apurado esa vez
+
+nmlch-nmfsh1_x_0031_nmlch_00:
+M: ¡Ah!
+C:  ¡Ah!
+
+nmlch-nmfsh1_x_0032_nmfsh_00:
+M:  <Throat> fey ka antümu witrayay pingen,
+C:  Se va a levantar al otro día 
+
+M: tempranu küchawmiaymi 
+C:  temprano te vas a lavar
+
+M: pingen
+C:  me dijeron
+
+M: itrokom femngelu am 
+C:  como todo es así
+
+M: pitalmew. 
+C:  en el hospital.
+
+nmlch-nmfsh1_x_0033_nmlch_00:
+M: Feley pu' feley.
+C:  Así es pues, así es.
+
+nmlch-nmfsh1_x_0034_nmfsh_00: 
+M: Fey tukulelngen tati
+C:  Y me colocaron 
+
+M: chem sueru tulen
+C:  eso, estaba con suero
+
+M: kiñe kuwümu amun
+C:  con una mano fui
+
+M: yenen ñi chem,
+C:  llevé mi cuestión, 
+
+M: kiñe,
+C:  un,
+
+M: ka kiñe kuwümew
+C:  también en una mano
+
+M: pülchanen 
+C:  
+
+nmlch-nmfsh1_x_0035_nmlch_00: 
+M: ¿Tami miawam?
+C:  ¿Para que andes? 
+
+nmlch-nmfsh1_x_0036_nmfsh_00:
+M: May.
+C:  Sí.
+
+nmlch-nmfsh1_x_0037_nmlch_00:
+M: Pepi trelkalaymika. 
+C:  Tenías dificultades para caminar también.
+
+nmlch-nmfsh1_x_0038_nmfsh_00:
+M: Pepi trekalan pu
+C:  No podía caminar pues
+
+M: fey amun preparaw rume 
+C:  y fui preparado 
+
+M: yenolu kay 
+C:  no llevé
+
+M: ta chem rume ta inche 
+C:  ninguna cosa yo
+
+M: <%> fenten ñi tañi 
+C: tanto que ni siquiera 
+
+M: pañuelu manu 
+C:  mi pañuelo de mano
+
+M: yenen toalla rume yelan 
+C:  no llevé ni siquiera toalla. 
+
+nmlch-nmfsh1_x_0039_nmlch_00:
+M: Kimnienolu kay 
+C:  Como no sabía
+
+M: ñi mülepual ka che. 
+C:  que las personas también tenían que quedarse.
+
+nmlch-nmfsh1_x_0040_nmfsh_00:
+M: Fey wüñomen	      
+C:  Y volví
+
+M: famngechi ültrenen 
+C:  así empujaba
+
+M: kiñe füwmew 
+C:  en un hilo 
+
+M: tañi miawülel ti chi <*SPA>maquina 
+C:  la máquina que andaba trayendo
+
+M: suerumu chemngen
+C:  con suero me trataron
+
+h1_x_0042_nmfsh_001_nmfsh_00:
+M: Sueru tukunielngimi.
+C:  Suero te tenían puesto.
+ 
+nmlch-nmfsh1_x_0043_nmfsh_00: 
+M: May. 
+C:  Sí.
+
+M: Tukunielngen,
+C:  Me tenían puesto, 
+
+M: fey wüñon
+C:  así regresé
+
+M: feyta chem chem 
+C:  y esta cosa
+
+M: l'kalafuy anta 
+C:  no se había calmado
+
+M: ñi longkofel, 
+C:  mi cabeza, 
+
+M: inche ta kimlanka 
+C:  yo no sé pues
+
+nmlch-nmfsh1_x_0044_nmlch_00:
+M: Kimpelaymi peka. 
+C:  Seguramente no sabías.
+
+nmlch-nmfsh1_x_0045_nmfsh_00: 
+M: Ka, ka piesamew 
+C:  También en otra pieza
+
+M: domo piesamuürke
+C:  era en la pieza de mujer
+
+M: fey kompatufun pu'. 
+C:  y había entrado pues. 
+
+nmlch-nmfsh1_x_0046_nmlch_00: 
+M: Welulkafuymi ka.
+C:  Andabas equivocado.
+
+nmlch-nmfsh1_x_0047_nmfsh_00: 
+M: Welulkan 
+C: Me había equivocado
+
+nmlch-nmfsh1_x_0048_nmlch_00:
+M: <%> allwe ta kümelka...
+C: Me sentía un poco bien... 
+
+nmlch-nmfsh1_x_0049_nmfsh_00:
+M: Feytachi pu enfermera am 
+C:  Y como estas enfermeras
+
+M: feyta duamchelekenolu ka. 
+C:  no quieren a las personas también.
+
+nmlch-nmfsh1_x_0050_nmlch_00: 
+M: No pu' felekelayka 
+C:  No pues, nunca es así.
+
+nmlch-nmfsh1_x_0051_nmfsh_00:
+M:  duamchelay fey ka
+C:  no quiere a las personas ese pues
+
+M:  illamtuniengi 
+C:   nos desprecian
+
+M: ka kiñe mapuchengen <%> 
+C:  por ser un mapuche
+
+nmlch-nmfsh1_x_0052_nmlch_00:
+M:  kümekechi ta
+C:   como esto es bueno
+
+M: lelituniengelayka 
+C:   nos tienen en la mira también
+
+nmlch-nmfsh1_x_0053_nmfsh_00:
+M:  fey illkutuenu pu' 
+C:   Así me reto pues
+
+nmlch-nmfsh1_x_0054_nmlch_00:
+M: illkutueymu may 
+C:  Te reto pues, así
+
+nmlch-nmfsh1_x_0055_nmfsh_00: 
+M: May,
+C:  Sí,
+
+M: inche ka illkun 
+C:   yo también me enoje
+
+nmlch-nmfsh1_x_0056_nmlch_00: 
+M: fempellimimay ka
+C: también te paso eso seguramente
+
+nmlch-nmfsh1_x_0057_nmfsh_00: 
+M: mekewiyu feymew,
+C: por eso discutimos,
+
+ M: feymew tüfa ta,
+ C: por eso ahora,
+
+M: ta eymi tami kawitu <*SPA>no
+ C: esta cama no es tu cama no
+
+M: <*SPA>dijo, 
+C:  dijo,
+
+M: pi
+C: dijo
+
+nmlch-nmfsh1_x_0058_nmlch_00:
+M:  ¡Ah!
+C:   ¡Ah!
+
+nmlch-nmfsh1_x_0059_nmfsh_00:
+M:  elpatuenu chew ñi 
+C:  Me vino a dejar donde mi
+
+M: chew ñi mülekemun 
+C:  donde estaba
+
+M: tüfa tami kawitu feymuürke
+ C: esta tu cama, por eso era
+
+M: fewla wüla pienu
+ C: por eso recién me dijo
+
+M: pifiñ ta inche
+C:  le dije yo
+
+M:  ka, tayi fempeli 
+C:   también, si denantes lo hubiera hecho
+
+M: mañumafeyu pifiñ. 
+C:  te hubiera agradecido le dije. 
+
+nmlch-nmfsh1_x_0060_nmlch_00:
+M: Kümey tami pifiel feyka. 
+C:  Es bueno lo que me has dicho también. 
+
+nmlch-nmfsh1_x_0061_nmfsh_00:
+M: May.
+C:  Sí.
+
+M: Eymi am
+C:  Como usted
+
+M: ¿Chumuelu felekeymi? 
+C: ¿Por qué estás así?
+
+M: Ta tüfa küdawkimün
+C:  Y ahora trabajan
+
+M:  plata anta ñi duamlu 
+C:   como necesita plata
+
+M: ta tüfa pifiñ
+C:  ahora le dije
+
+M: illkun. 
+C:  me enojé.
+
+sh1_x_0063_nmfsh_00_nmlch_00:
+M: Welu,
+C:  Pero,  
+
+M: ta müley 
+C:  debías
+
+M: kümi tami femün pu'. 
+C:  estuvo bien lo que hiciste pues.
+
+nmlch-nmfsh1_x_0064_nmfsh_00:
+M: May. 
+C:  Sí.
+
+M: Feypifiñ
+C:  Le dije
+
+M: fey melkelfiñ chi 
+C:  eso le hice hacer
+
+M: petu tayu dungukawün
+C:  cuando todavía estábamos hablando
+
+M: ka ruparumetuy chi doctor 
+C:  y de repente pasó el doctor
+
+ M: feychi ta doctor
+ C:  esa vez, el doctor
+
+M: ta inche peetew. 
+C:  que a mí me atendió.
+
+nmlch-nmfsh1_x_0065_nmlch_00: 
+M: Tami llowetew.
+C:  El que te había recibido.
+
+nmlch-nmfsh1_x_0066_nmfsh_00: 
+M: May. 
+C:  Sí.
+
+M: Fey apurawün pu' 
+C:  Y me apuré pues 
+
+M: chumngechi tukuafun reke 
+C:  como podría colocarlo
+
+M: may ta chemekepel ta
+C:  lo que estaba haciendo 
+
+M: kawitumu 
+C:  en la cama
+
+M: fey konkintuenu chi mediku 
+C:  y me miró por dentro el médico 
+
+M: suerte tati
+C:  suerte pues
+
+M: inche tani suerte. 
+C:  era mi suerte.
+
+nmlch-nmfsh1_x_0067_nmlch_00: 
+M: Femllimay chi malle. 
+C:  Eso pasó pues tío.
+
+nmlch-nmfsh1_x_0068_nmfsh_00:
+M: ¿Feymu may chumimi?
+C:  ¿Y en eso que te pasó? 
+
+M:  Pienu ka 
+C:   Me dijo también
+
+M: doy kutranimi m pienu, 
+C:  te enfermaste más me dijo,
+
+M: may pifiñ ¿chew anta? <%> 
+C:  si le dije, ¿dónde?
+
+M: ¿Chew niymi
+C:  Dónde tienes
+
+M:  tami kutran pienu?
+C:   tu enfermedad ahora me dijo?
+
+M: Tüfa, tüfa, tüfa pifiñ
+C:  Acá, acá, acá le dije
+
+M: famnielfiñ <hm>
+C:  así le indicaba
+
+M: rükiftukulelngelu
+C:  como si me estuvieran pellizcando 
+
+M:  trokiwün kiñe mamüll 
+C:   me pareció, un palo
+
+M:  chem konkülelu reke
+C:   que estuviera puesto
+
+M:  rükifkonkülelu trokifiñ
+C:   como si estuviera insertado
+
+M:  tüfa tati doctor,
+C:   acá es doctor,
+
+M:  tukuy ñi <*SPA>maquina. 
+C:   puso su máquina.
+
+nmlch-nmfsh1_x_0069_nmlch_00:
+M: Kutranküli  ka  
+C:  Está enfermo también 
+
+nmlch-nmfsh1_x_0070_nmfsh_00: 
+M: May.
+C:  Sí.
+
+M:  Ka tüfi chi <*SPA>ayudante miawlu
+C:   Y ese ayudante que anda
+
+M:  epuyawkeluam 
+C:   como siempre andan dos
+
+M:  lelikünumekewingu, 
+C:   siempre se miran
+
+M: lelikünumekewingu
+C:  siempre se miran
+
+M:  kidu furintukuli 
+C:   el se esconde por detrás
+
+M: femngechi dapienu.
+C:  así me cuidó.
+
+nmlch-nmfsh1_x_0071_nmlch_00:
+ <hm> 
+nmlch-nmfsh1_x_0072_nmfsh_00:
+M:  Feypiwingu
+C:   Eso se dijeron
+
+M:  <*SPA>depue' ya,
+C:   después ya,
+
+M:  preparaway may
+C:   se va a preparar
+
+M:  ti chi chem 
+C:   esa cuestión
+
+M: ti chi chofer
+C:  y ese chofer
+
+M:  -/yea/- yeafiñ Temuko 
+C:  lo llevaré a Temuco
+
+M:  tüfa pürüm pi,
+C:   ahora de inmediato,
+
+M:  inche allkütulen.
+C:   yo estaba escuchando.
+
+nmlch-nmfsh1_x_0073_nmlch_00:
+M: Allkütulimi ka. 
+C:  Estabas escuchando también.
+
+nmlch-nmfsh1_x_0074_nmfsh_00:
+M: -/le/- Leliniefiñ ka engu
+C:  También los estaba mirando a ellos
+
+M:  chempimeken.  
+C:   lo que estaban hablando.
+
+nmlch-nmfsh1_x_0075_nmlch_00: 
+M: Fempellimi may malle 
+C:  Seguramente hiciste eso tío 
+
+nmlch-nmfsh1_x_0076_nmfsh_00:
+M: May.
+C:  Sí.
+
+M:  Felen pürüm pi
+C:   Por estar así quiso de inmediato
+
+M:  nombrangi  chi
+C:   tal vez lo nombraron 
+
+M:  ti chi yeatew 
+C:   el que lo iba a llevar
+
+M:  Chakle yeenu feychi. 
+C:   Chacle me llevó esa vez.
+
+nmlch-nmfsh1_x_0077_nmlch_00:
+M: ¿Fey dullingi?
+C:  ¿Y lo eligieron?
+
+nmlch-nmfsh1_x_0078_nmfsh_00:
+M: Duullingi
+C:  Lo eligieron
+
+M:  fey yeenu 
+C:   entonces me llevó
+
+M: feypingingün 
+C:  eso me dijeron
+
+M: ka kiñe enfermera
+C:  también una enfermera
+
+M: küme yeafimün 
+C:  y lo van a llevar bien
+
+M: pingingün 
+C:  le dijeron
+
+M:  <%> -/ram/- ramtuafimi rüpümew
+C:   le vas a preguntar por el camino
+
+M: ¿Chumngechi tañi amulen? pingi
+C:  ¿Cómo va? Le dijeron.
+
+mfsh1_x_0079_nmfsh_00mlch_00: 
+M: ¿Chi enfermera?
+C:  ¿Esa enfermera? 
+
+nmlch-nmfsh1_x_0080_nmfsh_00: 
+M: May. 
+C:  Sí.
+
+nmlch-nmfsh1_x_0081_nmlch_00: 
+M: Ngülamkünungika. 
+C:  Le dieron consejo también.
+
+nmlch-nmfsh1_x_0082_nmfsh_00:
+M:  Ngülamkünungi küme
+C:   Lo dejaron bien aconsejado
+
+M:  fey ramtungen 
+C:   y me preguntaron
+
+M: ¿Chumngechi 
+C:  ¿Cómo
+
+M:  amuaymi am? pienu 
+C:  va su alma? me dijo
+
+M: tukungelu amulansiamu
+C:  cuando me subieron a la ambulancia
+
+M:  ¿Anüliaymiam
+C:   ¿Vas a estar sentado
+
+M:  kam ta kawitumu?
+C:   o en la cama?
+
+M:  Kawitumu pifiñ inche. 
+C:   En la cama, le dije yo.
+
+nmlch-nmfsh1_x_0083_nmlch_00:
+M:  Feypillefimi may. 
+C:   Claro que le dijiste eso.
+
+nmlch-nmfsh1_x_0084_nmfsh_00:
+M:  Fey püramngelu inche
+C:   Y cuando me subieron
+
+M:  fey ayiwnagi ñi piwke
+C:   se puso contento mi corazón
+
+M:  <P> ¿Chumngechi chi?
+C:  ¿Cómo será?
+
+M:  Kiñe lamparinu reke
+C:   Como con una lámpara
+
+M: famngechi amuelu 
+C:  así iba
+
+M: amulelu reke 
+C:  como si avanzara 
+
+M: -/vem/- amuli
+C:  avanzaba
+
+M:  ¿Chumngechi? 
+C:   ¿Cómo?
+
+M:  Doy amuley Lautaru püle
+C:   Va más allá por Lautaro
+
+M:  rupay ñi kutran. 
+C:   pasó mi dolor.
+
+nmlch-nmfsh1_x_0085_nmlch_00: 
+M: ¿Küme duamimi?
+C:  ¿Te sentiste bien?
+
+nmlch-nmfsh1_x_0086_nmfsh_00: 
+M: Küme duamün 
+C:  Me sentí bien
+
+M: ramtukünumekengen
+C:  me preguntaban a cada rato
+
+M:  ¿Chumngechi amulimi?
+C:   ¿Cómo vas?
+
+M:  Küme amulen tati pifiñ
+C:   Voy bien pues le dije
+
+M:  ayiwkülen
+C:   estoy contento
+
+M:  amun piniefiñ. 
+C:   por ir le decía.
+
+nmlch-nmfsh1_x_0087_nmlch_00:
+M:  Müna weda kay no. 
+C:   Que malo no.
+
+nmlch-nmfsh1_x_0088_nmfsh_00: 
+M: Lautaru püle
+C:  Por Lautaro
+
+M:  rumeiñ üyiw,
+C:   pasamos allá,
+
+M:  ¡uuu! ayiwkülen amun
+C:   ¡uuu! Me fui contento
+
+M:  ¿Chumngechi chi
+C:   ¿Cómo será
+
+M:  ntuñmangealu ñi kutran?
+C:   que me van a sacar mi enfermedad?
+
+M:  Trokiwkülen pürüm pu'. 
+C:   De inmediato presentía pues. 
+
+nmlch-nmfsh1_x_0089_nmlch_00:
+M:  Ayiwkülen 
+C:   Estoy contento
+
+M:  amutuymi reke
+C:   como si te hubieras ido
+
+M:  ka küme duamimi
+C:   también te sentiste bien
+
+M:  ta femngechi 
+C:   así
+
+M: ta yengelu 
+C:  así es como lo van a llevar 
+
+M: ka wariamew. 
+C:  en la otra ciudad.
+
+nmlch-nmfsh1_x_0090_nmfsh_00: 
+M:  May.
+C:   Sí.
+
+M:  Temuko puwiyiñ tati 
+C:   Llegaste a Temuco pues
+
+M: mütay müten 
+C:  en un rato nomás
+
+M: maquina am 
+C:  como era máquina
+
+M: fentrentu leflu. 
+C:  con tanta velocidad.
+
+nmlch-nmfsh1_x_0091_nmlch_00: 
+M: Adümuwi.
+C:  Sabía.
+
+nmlch-nmfsh1_x_0092_nmfsh_00: 
+M:  /a/ -amuy
+C:  Fue
+
+M:  fey puwiyiñ üyiw
+C:   así llegamos allá
+
+M:  ka kiñe enfermeru
+C:   y también un enfermero
+
+M:  traladalerki.
+C:   estaba trasladado.
+
+nmlch-nmfsh1_x_0093_nmlch_00:
+M:  ¡Ah!
+C:   ¡Ah!
+
+nmlch-nmfsh1_x_0094_nmfsh_00:
+M:  Alfarinu mülekefulu feychi
+C:   Esa vez estaba en Galvarino
+
+M:  -/medik/-  feychi enfermeru
+C:   ese enfermero
+
+M:  fey kimniewingün%
+C:   entonces se conocían
+
+M:  Pegro pingefuy. 
+C:   Pedro se llamaba.
+
+nmlch-nmfsh1_x_0095_nmlch_00:
+M:  ¡Ah!
+C: ¡Ah!
+
+nmlch-nmfsh1_x_0096_nmfsh_00:
+M:  <*SPA>y <*SPA>siempre duamyefun
+C:  Siempre lo necesitaban
+
+M:  fey chemkefuiñ 
+C:   y nos mejorábamos
+
+M:  ngillañmakefenu. 
+C:   me compraba.
+
+nmlch-nmfsh1_x_0097_nmlch_00: 
+M: -/kimnie/- kimtueymu üyiw.
+C:  Te buscaba allá.
+
+nmlch-nmfsh1_x_0098_nmfsh_00:
+M:  Kimtuenu.
+C:   Me buscaba.
+
+nmlch-nmfsh1_x_0099_nmlch_00:
+M:  Kimtueymu llemay. 
+C:   Claro que te buscaba.
+
+nmlch-nmfsh1_x_0100_nmfsh_00: 
+M: ¿Chemam?
+C:  ¿Qué cosa? 
+
+M:  ¿Chem dungu am miawülimi? 
+C:   ¿Qué asunto andas trayendo?
+
+M:  ¿Chumpapeymiam? pienu. 
+C:   ¿Qué es lo que vienes a hacer? me dijo.
+
+nmlch-nmfsh1_x_0101_nmlch_00:
+M:  Pieymu ka. 
+C:   Te dijo también.
+
+nmlch-nmfsh1_x_0102_nmfsh_00:
+M: May.
+C:  Sí.
+
+M:  -/raye/- dalludunguam. 
+C:  Para decir las cosas.
+
+nmlch-nmfsh1_x_0103_nmlch_00:
+M:  Femlleymu may. 
+C:   Claro que te hizo eso.
+
+nmlch-nmfsh1_x_0104_nmfsh_00:
+M:  Chumal chi may
+C:   No se para qué sería
+
+M:  ta küpalngen 
+C:   que me trajeron
+
+M:  ta tüfa pifiñ
+C:   ahora, le dije
+
+M:  dalludunguwiyu. 
+C:   discutimos.
+
+nmlch-nmfsh1_x_0105_nmlch_00:
+M: Kimniewlu kay. 
+C:  Como nos conocíamos. 
+
+nmlch-nmfsh1_x_0106_nmfsh_00:
+M: May.
+C:  Sí.
+
+M:  Entunge tami ropa 
+C:   Saque su ropa
+
+M:  chemaeyu pi,
+C:   te examinaré dijo,
+
+M:  saminayayu ta tüfa pienu,
+C:   ahora te voy a examinar me dijo,
+
+M:  ya pifiñ
+C:   ya le dije
+
+M:  <P> chemüñayayu
+C:   
+
+M: tami küchiw pienu <Laugh> 
+C:  tu ano me dijo
+
+nmlch-nmfsh1_x_0107_nmlch_00:
+M:  ¡Ah! <Laugh> 
+C:   ¡Ah!
+
+nmlch-nmfsh1_x_0108_nmfsh_00: 
+<Laugh> 
+nmlch-nmfsh1_x_0109_nmlch_00:
+M:  Peñmayayu pieymu.
+C:   Te voy a mirar te dijo
+
+nmlch-nmfsh1_x_0110_nmfsh_00:
+M:  peñmayayu tami chumlen 
+C:   Te voy a mirar para ver como estás
+
+nmlch-nmfsh1_x_0111_nmlch_00:
+M:  ¡Ah!
+C:   ¡Ah!
+
+nmlch-nmfsh1_x_0112_nmfsh_00:
+M:  Ya
+C:   Y
+
+M: , pifiñ,
+C:    le dije,
+
+M:  ya tukulelenu pu'
+C:   ya, me lo colocó pues
+
+M:  inche markalelu am 
+C:   como yo estaba marcado
+
+M: inche kom. 
+C:  todo yo. 
+
+nmlch-nmfsh1_x_0113_nmlch_00:
+M:  Pewe.
+C:   Un observador.
+
+nmlch-nmfsh1_x_0114_nmfsh_00:
+M:  <%> Küme, 
+C:  Bueno, 
+
+M: küme chemlerkelay ta,
+C:  esto no está bien,
+
+M:  ta pienu ¡uuu! 
+C:   esto me dijo, ¡uuu!
+
+M:  wecha chemlimi ta,
+C:   estás mal con esto,
+
+M:  ta pienu 
+C:   ahora me dijo.
+
+nmlch-nmfsh1_x_0115_nmlch_00:
+M: Wechalkalimi pi.
+C:  Estás mal dijo. 
+
+nmlch-nmfsh1_x_0116_nmfsh_00:
+M:  May.
+C:   Sí.
+
+M:  Welu mongeaymi tati pienu
+C:   Pero te vas a mejorar pues 
+
+M:  dew akuymi ta
+C:   ya llegaste
+
+M:  tüfamu 
+C:   acá
+
+M: kümeke mediku müli 
+C:  existen buenos médicos
+
+M: chemaymi tati
+C:  te vas a recuperar pues
+
+M:  entuñmangeaymi kutran pienu
+C:   te sacarán la enfermedad me dijo
+
+M:  <%> yafültukenu ka,
+C:   me animaba también,
+
+M: ka entunge tami <*SPA>relo'
+C:  también saque su reloj 
+
+M: entunge tami chem 
+C:  saque su cuestión 
+
+M:  ta <%> kom itrokom miawülel
+C:  todo lo que anda trayendo
+
+M:  <uh> kom elafimi ti
+C:  todo lo debes dejar
+
+M:  inche feypifiñ
+C:   yo le dije
+
+M:  ¿Chew ñi elngeken ti?
+C:   ¿Dónde se deja eso?
+
+M:  Chi feypingenolu 
+C:   Como no le dicen
+
+M:  ti chi kutran
+C:   al enfermo
+
+M:  ñamki tüfachi chem pi. 
+C:   se pierde este caso dijo.
+
+nmlch-nmfsh1_x_0117_nmlch_00: 
+M: Iwülfekelu. 
+C:  Que envuelve. 
+
+nmlch-nmfsh1_x_0118_nmfsh_00:
+M:  May. 
+C:   Sí.
+
+M:  Relo itrokom elngi 
+C:   Reloj, todo se deja
+
+M:  feypingenoyüm
+C:   cuando no se dice
+
+M:  pu kutran pi, 
+C:   a los enfermos dijo,
+
+M:  inche feypiayu
+C:   yo te voy a decir
+
+M:  chew tami elafiel
+C:   donde lo debes dejar
+
+M:  fey mongelmi 
+C:   y si te mejoras
+
+M: feymu chemtuaymi pienu. 
+C:  con eso te vas a recuperar me dijo.
+
+nmlch-nmfsh1_x_0119_nmlch_00: 
+M: -/ye/- elungetuaymi pi.
+C:  Te lo van a dejar dijo.
+
+nmlch-nmfsh1_x_0120_nmfsh_00:
+M:  May.
+C:   Sí.
+
+M:  <Cough> elungetuaymi kom 
+C:    todo te lo van dejar
+
+M:    ya,
+C:     ya,
+
+M:  pifiñ ¡ucha!
+C:   le dije ¡pucha!
+
+M:  feymu yengelu inche 
+C:   por eso cuando me llevaron a mi
+
+M:  feyta puwülngean üyiw
+C:   entonces me van hacer llegar allá
+
+M:  turpu kay ta
+C:  como nunca 
+
+M:  konkenofulu ta pitalmu 
+C:   entraba al hospital
+
+M: inche füta puelumu 
+C:  yo, en un pueblo grande
+
+M: yengelu 
+C:   me llevaron
+
+M: feymu faley ta kutran
+C:  allá están así los enfermos
+
+M: famngechi 
+C:  así 
+
+nmlch-nmfsh1_x_0121_nmlch_00:
+M:  ¿al'üliy?
+C:   ¿Ardía?
+
+nmlch-nmfsh1_x_0122_nmfsh_00: 
+M: <Smack> Pütrüli 
+C:  Había harto
+
+M: feymu rupa, rupangi 
+C: por eso estaba pasando
+
+M: madiku wiyüdkeawi pu 
+C:  médico que caminaban como en marcha pues
+
+M: mediku, <*SPA>
+C:  médico
+
+M: pero kom ramtuan 
+C:  pero todo voy a preguntar
+
+M: rupayey. 
+C: a medida que pasaba.
+
+nmlch-nmfsh1_x_0123_nmlch_00:
+M:  Kom may 
+C:  Todo claro
+
+nmlch-nmfsh1_x_0124_nmfsh_00:
+M:  May.
+C:   Sí.
+
+M:  Ankün,
+C:   Me sequé
+
+M:  kom kutran mu faleyelu. 
+C:  todo por enfermedad.
+
+nmlch-nmfsh1_x_0125_nmlch_00:
+M:  Fill pentukungingün. 
+C:  Le preguntaban por todo.
+
+nmlch-nmfsh1_x_0126_nmfsh_00: 
+M: May.
+C:  Sí.
+
+M:  Pentukungingün 
+C:    Preguntaban ellos
+
+M: <*SPA>pero inche
+C:  pero yo
+
+M:  doy küme konseju 
+C:  el mejor consejo
+
+M: doy chi -/we/- weke,
+C:  los más nuevos,
+
+M:  weke doy kuyfike doctor
+C:    hace poco los antiguos doctores
+
+M:  müli rakiduammu.
+C:    existen por pensamiento.
+
+nmlch-nmfsh1_x_0127_nmlch_00: 
+M: ¡Ah! 
+C:  ¡Ah!
+
+nmlch-nmfsh1_x_0128_nmfsh_00:
+M:  Küme ngüneluwün
+C:  Por mantenerme bien
+
+M:  <%> müliürke pinienu reke 
+C:  como si me estuviera diciendo
+
+M:  ta füta chaw
+C:   el gran Dios Padre
+
+M:  ti chi weke chem 
+C:   a esos nuevos 
+
+M:  manelnelafiñ. 
+C:   no les tengo confianza.
+
+nmlch-nmfsh1_x_0129_nmlch_00:
+M:  ¿Chi...? 
+C:   ¿Y?
+
+nmlch-nmfsh1_x_0130_nmfsh_00: 
+M: May.
+C:  Sí.
+
+M: Weke doctor. 
+C:  Doctores nuevos.
+
+nmlch-nmfsh1_x_0131_nmlch_00:
+M: Müte manelnelafimi. 
+C:  No les tienes mucha confianza. 
+
+nmlch-nmfsh1_x_0132_nmfsh_00:
+M:  Rakiduammu ka
+C:   También en el pensamiento
+
+M:  rakiduamün femngechi. 
+C:   pensé así.
+
+nmlch-nmfsh1_x_0133_nmlch_00:
+M:  Femllimi may. 
+C:   Claro que eso hiciste.
+
+nmlch-nmfsh1_x_0134_nmfsh_00:
+M:  Fey <*SPA>depue'  
+C:   Eso después
+
+M:  ka antümu
+C:   en otros tiempos
+
+M:  ka fillantü am 
+C:   y como todos los días
+
+M:  chemyawülngekelu che
+C:   a las personas lo andan tratando
+
+M:  ka femngechi rupay
+C:   así también pasa
+
+M:  ka kiñe üyiwpüle
+C:   también otro por allá
+
+M:  doy küpali
+C:   trae más
+
+M:  kiñe doctor 
+C:   un doctor
+
+M:  doy nielu <*SPA>eda'. 
+C:   que tenga más edad.
+
+nmlch-nmfsh1_x_0135_nmlch_00: 
+M: Doy pu tremlu. 
+C:  Que haya terminado de crecer.
+
+nmlch-nmfsh1_x_0136_nmfsh_00: 
+M:  Pu tremche 
+C:   Las personas ya crecidas
+
+M:  doctor compañeru  ka <*SPA>
+C:   también el compañero del doctor
+
+M:  al <*SPA>la'o ramtuenu 
+C:   al lado me pregunto
+
+M: ¿Ka chumlimiam? 
+C:  ¿Y cómo estás? 
+
+M: Doy kümeletun tati pifiñ,
+C:  Estoy mejor pues, le dije,
+
+M:  kümeduamimi pienu,
+C:   te sentiste bien, me dijo
+
+M:  may -/ledi/- pifiñ,
+C:   sí le dije,
+
+M:  ¿Fey chem rakiduamküleymi am 
+C:   ¿Y qué es lo que estás pensando
+
+M: ta tüfa? Pienu 
+C:  ahora? Me dijo
+
+M: kimlan fipiñ inche
+C:  no sé le estuve diciendo yo
+
+M:  eymün may 
+C:   ustedes si
+
+M:  ta kimnieymün pifiñ,
+C:   conocen, les dije 
+
+M:  eymün ta kimnieymün 
+C:   ustedes conocen
+
+M:  re falti 
+C:   no por nada
+
+M:  felelaymün ta tüfa, 
+C:   no están así ahora,
+
+M: inche kimlan
+C:  yo no sé
+
+M:  <hm> weda kutran
+C:   mala enfermedad 
+
+M:  nieymi ta tüfa pienu
+C:   tienes ahora, me dijo
+
+M:  feymu ta 
+C:   por eso
+
+M:  operayaymi ta tüfa pienu,
+C:   te vas a operar ahora, me dijo
+
+M: operayan pifiñ,
+C:  me operaré, le dje
+
+nmlch-nmfsh1_x_0137_nmfsh_00:
+M:  ¿Chem kutran am 
+C:   ¿Qué enfermedad
+
+M:  nien? pifiñ,
+C:   tengo? Le dije
+
+M:  vesicula nieymi ta tüfa
+C:   Vesícula tienes ahora
+
+M:  fachantü küpanolmi
+C:   hoy día si no vienes
+
+M:  -/fach/- fachi pun
+C:   esta noche
+
+M:  l'ayafuymika.
+C:   te hubieras muerto también. 
+
+nmlch-nmfsh1_x_0138_nmlch_00: 
+<hm> 
+nmlch-nmfsh1_x_0139_nmfsh_00: 
+M: Pawküafuy 
+C:  Se hubiera reventado
+
+M: tami chem pi,
+C:  esa cuestión, dijo
+
+M:  yel pi,
+C:   hiel dijo
+
+nmlch-nmfsh1_x_0140_nmlch_00:
+M:  ¡A y ay ay no! 
+C:   ¡Ayayay no! 
+
+nmlch-nmfsh1_x_0141_nmfsh_00:
+M:  Ütrum pi ta pu mapuche. 
+C:   Ütrum dicen los mapuche.
+
+nmlch-nmfsh1_x_0142_nmlch_00:
+M:  Ütrum pawküafuy
+C:   La hiel se reventaría
+
+M:  tami ütrum pieymu ka. 
+C:   tu hiel me dijo también.
+
+nmlch-nmfsh1_x_0143_nmfsh_00: 
+M: Pawkülmi 
+C:  Si se te hubiera reventado
+
+M: ta pawküki ta ütrum 
+C:  la hiel se revienta
+
+M: feymu ta l'aki
+C:  por eso muere
+
+M: ta che pienu 
+C:  la persona, me dijo
+
+nmlch-nmfsh1_x_0144_nmlch_00: 
+M: ¿L'akepi mayno?
+C:  ¿Eso sería así no?
+
+nmlch-nmfsh1_x_0145_nmfsh_00:
+M: L'akifey
+C:  Se muere ese
+
+M:  kom chemki kuerpu
+C:   se recupera todo el cuerpo 
+
+M: fey ya femnofule am ka 
+C:  y si ya no lo hace también
+
+M: ramtufiñ femnofuli am
+C:  le pregunté, si no lo hubiera hecho 
+
+M:  operanofuliam 
+C:   si no me hubiera operado, 
+
+M: ¿Chumafun?
+C:  ¿Qué me hubiera pasado?
+
+M:  L'ayafuymi pi
+C:   Te puedes morir dijo
+
+M:  feymu ke
+C:   ahí sí
+
+M:  wüñowelayayfuymi pienu. 
+C:   no hubieras vuelto, me dijo.
+
+nmlch-nmfsh1_x_0146_nmlch_00:
+M:  Feypieymu may. 
+C:   Eso fue lo que te dijo.  
+
+nmlch-nmfsh1_x_0147_nmfsh_00: 
+M: Rakiduamün inche 
+C:  Pensé yo
+
+M: ¿Chumngechi am 
+C:  ¿Pero cómo
+
+M: <%> tüfachi pitalmew
+C:  en este hospital
+
+M: doy kümeke pital
+C:  mejores hospitales
+
+M: füta pital
+C:  hospital grande
+
+M:  tüfa re falte
+C:   esto por nada
+
+M: chemnelaenu 
+C:  no me hizo bien
+
+M:  fücha chaw,
+C:   Dios Padre
+
+M:  fücha chaw küpalenu
+C:   Dios Padre me trajo
+
+M:  ayüwkülen küpan
+C:   me vine contento
+
+M:  re falte no pi,
+C:   no es por nada me dijo,
+
+M:  llükafun nga, 
+C:   me había asustado,
+
+M: llükalen
+C:  con susto
+
+M: feymu müli ñi maneluwün
+C:  por eso estaba mi confianza 
+
+M: feychi rakiduammu 
+C:  con ese pensamiento 
+
+M:  feymu yafüntukulen pu'
+C:   con eso me daba fuerza pues
+
+M: ya pifiñ 
+C:  ya, le dije
+
+M: epu antümu müten 
+C:  en dos días nomás
+
+M: chemlepelan
+C:  estaba así
+
+M: preparangen
+C:  me prepararon
+
+M:  feymu <*SPA>depue'
+C:   por eso después
+
+M:  dia miercole antü
+C:   el día miércoles
+
+M:  <*SPA>parece 
+C:  parece
+
+M: ka chemngen. 
+C:  otra vez me trataron.
+
+nmlch-nmfsh1_x_0148_nmfsh_00:
+M: Sitangen
+C:  Me citaron 
+
+M: feymu chemngen 
+C:  entonces me trataron 
+
+M:  pu' akulu <*SPA>hora
+C:   cuando llegó la hora
+
+M:  kom ka
+C:   también todo
+
+M:  mediñmangetun müten
+C:   me lo midieron nomás
+
+M: tañi chemngeal...
+C:  para el tratamiento...
+
+nmlch-nmfsh1_x_0149_nmlch_00: 
+M: ...Wikürngeam. 
+C:  ...Para que me fisure.
+
+nmlch-nmfsh1_x_0150_nmfsh_00: 
+M: May
+C:  Sí.
+
+M: Medingeperkelan. 
+C:  Seguramente me midieron.
+
+nmlch-nmfsh1_x_0151_nmlch_00: 
+M: Femkepellimay. 
+C:  Eso pasa claro.
+
+nmlch-nmfsh1_x_0152_nmfsh_00:
+M:  Fey ka, antü<Noise>. 
+C:   Así en otros tiempos.
+
+nmlch-nmfsh1_x_0153_nmlch_00:
+M:  Dullingi chi antü ka <Noise>. 
+C:   Se elige también el día.
+
+nmlch-nmfsh1_x_0154_nmfsh_00: 
+M: Preparangen,
+C:  Me prepararon,
+
+M:  ¡uuuy! 
+C:   ¡uuuy!
+
+M: feychi <%> 
+C:  esa vez
+
+M: ka kiñe <*SPA>enfermeda'
+C:  y otra enfermedad
+
+M:  tey pu tremkülewi
+C:  ya era más o menos de edad
+
+M:  dewma ka,
+C:    ya lo era,
+
+M:  ka tukulelenu faw
+C:    también aca me lo coloco
+
+M:  kiñe chem 
+C:   un aparato
+
+M: sonda pingey 
+C:   se llama sonda
+
+M: <*SPA>de <*SPA>ahí
+C:  de ahí
+
+M:  fey feypienu femeleyu
+C:  eso me dijo que me había echo eso
+
+M:  tami chemal 
+C:   lo que tenía que hacer
+
+M: ta füta chawmew 
+C:  y en nuestro gran padre
+
+M: füta chaw
+C:  gran padre
+
+M:  ta kom chemnieiñmu pi,
+C:   por tener todo así dijo,
+
+M:  inchiñ ta küdawkeiñ
+C:   nosotros nos cuidamos
+
+M:  füta chaw taiñ kelluenmu
+C:    por ayudar nuestro gran padre 
+
+M:  kom 
+C:  todo
+
+M: itrokom 
+C: de todo
+
+M: re falti
+C:   no es vano
+
+M:  chem che rume
+C:    cualquier persona
+
+M:  kom niyiñ küdaw
+C:   todos tenemos trabajo
+
+M:  feymu müli 
+C:    por eso hay
+
+M: maneluwün pienu,
+C:  por confiar me dijo,
+
+M:  müli ta maneluwal 
+C:   uno debe confiar
+
+M: ta füta chawmew.
+C:  ahora esto en nuestro padre.
+
+nmlch-nmfsh1_x_0155_nmfsh_00: 
+M: Pienu.
+C: Me dijo.
+
+nmlch-nmfsh1_x_0156_nmlch_00:
+M: Ngülameymu.
+C:  Me aconsejó.
+ 
+nmlch-nmfsh1_x_0157_nmfsh_00:
+M: Ngülamenu 
+C:  Me aconsejo
+
+M:  feymu tuwkülelmi 
+C:   si en eso te inicia siempre
+
+M:  entuñmayaymu tami kutran 
+C:  te va sacar tu enfermedad
+
+M: mongetuaymi 
+C:  te vas amejorar
+
+M:  küme niewtuymi 
+C:   par que te encuentres bien
+
+M: tami kutran pienu, 
+C:  tu enfermedad me dijo,
+
+M: fey tukulelenu, 
+C:  eso me hizo reponer,
+
+M:  tukulelngen <%> 
+C:  me lo colocaron
+
+M: marka kom may ta 
+C:   marca y todo
+
+M: kom numeracion müli, 
+C:  todo numeración existe,
+
+M: nemerali tüfa 
+C:  esto está enumerado
+
+M: ta puway ta faw 
+C:  esto va llegar ahora
+
+M: püdomu pienu  
+C: en el hombligo llegó, me dijo
+
+M: faw tukulelngen pu' sourinu, faw.
+C:  acá me lo colocaron pues sobrino, acá. 
+
+nmlch-nmfsh1_x_0158_nmlch_00:
+M:  ¡Ah! 
+C:   ¡Ah!
+
+M: Sonda pingi tüfi.
+C:  Sonda se llama eso.
+
+nmlch-nmfsh1_x_0159_nmfsh_00:
+M: May.
+C:  Sí.
+
+nmlch-nmfsh1_x_0160_nmlch_00: 
+M: Yumu tukulelngimi, koni yumu.
+C:  Te pusieron eso en la nariz, entró en la nariz.
+ 
+nmlch-nmfsh1_x_0161_nmfsh_00:
+M: Tütachi
+C:  Esta 
+
+M: fachi tukulelngen
+C:  a este lado me lo colocaron
+
+M:  resitilay chem 
+C:  no resistió el aparato
+
+M: -/tuku/ -feymu wüla 
+C:  con eso recién
+
+M: feypienu.
+C:  me dijo.
+ 
+nmlch-nmfsh1_x_0162_nmlch_00: 
+M:  ¿Chumi tami, echiwimi kam?
+C:   ¿Qué te pasó, al estornudar?
+ 
+M: ¡Ah!
+C:  ¡Ah!
+
+nmlch-nmfsh1_x_0163_nmfsh_00:
+M: Echiwün, echiwün
+C:  Estornudé, estornudé
+
+M:  trefkü tripay
+C:   salió saltando
+
+M:  ya feypienu 
+C:   ya, me dijo
+
+M:  kafey 
+C:   y también
+
+M:  ka chemtunge
+C:   vuelves a hacer
+
+M:  llellipunge füta chawmew, 
+C:   ruega a Dios Padre,
+
+M: llellipunge rakiduammew 
+C:  ruega en pensamiento
+
+M: fey yalmeangeyu ko fachi
+C:  y te iré a buscar agua esta vez 
+
+M:  fey yalmengenu ko 
+C:   y me fueron a buscar agua
+
+M: kiñe <*SPA>kopa ko.
+C:  una copa de agua. 
+
+nmlch-nmfsh1_x_0164_nmlch_00:
+M: Ya.
+C:  Ya.
+
+nmlch-nmfsh1_x_0165_nmfsh_00:
+M: Pütokoniefinge pienu
+C:  Mantente tomando agua, me dijo
+
+M:  inche tüfa 
+C:   yo ahora
+
+M: -/ka/- kambialenu ta fawpüle 
+C:  me cambió por este lado 
+
+M: fey wüla tukulelngen
+C:  de ahí recién me colocaron
+
+M:  pütokolen tati
+C:   mientras tomaba pues 
+
+M:  kidu <%> famngechi 
+C:   sólo así
+
+M: ¡oooy! <*SPA>pero
+c.   ¡oooy! pero
+
+M:  müna weda duamün reke
+C:   me sentí como muy mal
+
+M:  fey chem dungu chi.
+C:   y que problema.
+
+nmlch-nmfsh1_x_0166_nmlch_00: 
+M: Kiñe füw trokiley tüfi.
+C: Parece un hilo eso.
+
+M:  kam, ¿chumngechili?
+C: o, ¿cómo está?
+
+nmlch-nmfsh1_x_0167_nmfsh_00: 
+M: Ti chi goma<%> may goma.
+C:  Esa goma, sí goma.
+ 
+nmlch-nmfsh1_x_0168_nmlch_00: 
+M:  Fey, welu rumey yumew.
+C:   Pero eso pasó por la nariz.
+ 
+nmlch-nmfsh1_x_0169_nmfsh_00:
+M: Rumey, 
+C:  Pasó, 
+
+M: rumey ñall koni,
+C:  una vez que pasó, entró
+
+M:  konkongni
+C:   lo llenaron de agua
+
+M:  amuli tati 
+C:   avanzaba así
+
+M: amuli pi
+C: va avanzando, dijo
+
+M: kidu peni.
+C: él lo estaba viendo.
+
+nmlch-nmfsh1_x_0170_nmlch_00: 
+M: Peniellimay.
+C:  Lo estaba viendo claro.
+ 
+nmlch-nmfsh1_x_0171_nmfsh_00:
+M: Kom numeraley 
+C:  Esta todo enumerado
+
+M: niey numeru. 
+C:  tiene número.
+ 
+nmlch-nmfsh1_x_0172_nmlch_00:
+M: Peniefi may.
+C:  Lo estaba viendo, sí.
+ 
+nmlch-nmfsh1_x_0173_nmfsh_00:
+M: Marka kom, 
+C:  Marca todo,
+
+M:  ya puwi tati pienu
+C:   ya llegó, me dijo
+
+M:  puwi tati.
+C:   llegó pues.
+ 
+nmlch-nmfsh1_x_0174_nmlch_00:
+M:  Püdomu puway pi.
+C:   Llegó al ombligo dijo.
+
+nmlch-nmfsh1_x_0175_nmfsh_00:
+M: May. 
+C:  Sí.
+
+M: Puwi pu'.
+C: Llegó pues.
+ 
+nmlch-nmfsh1_x_0176_nmlch_00: 
+M: ¿Chumngechi trokiwimi kay eymi fey?
+C:  ¿Y cómo se sintió usted?
+
+nmlch-nmfsh1_x_0177_nmfsh_00: 
+M: Fey puwlu inche 
+C:  Cuando yo llegué
+
+M: fey dekansan,
+C:  descansé,
+
+M:  dekansan pu'. 
+C:  descansé pues.
+
+nmlch-nmfsh1_x_0178_nmlch_00:
+M: Femimi may.
+C:  Eso fue lo que hiciste
+
+nmlch-nmfsh1_x_0179_nmfsh_00:
+M: Fey nieluam inche
+C:  Y como yo tenía
+
+M:  we tukulelngelu kay tati
+C:   como recién me lo habían puesto, pues
+
+M:  nien <*SPA>non
+C:  por no tener
+
+M:  <*SPA>que vasenica niey,
+C:  que tenía basenica,
+
+M:  fey platiku.
+C:   ese plástico.
+
+sh1_x_0181_nmfsh_00_nmlch_00:
+M:  May.
+C:   Sí.
+
+nmlch-nmfsh1_x_0182_nmfsh_00: 
+M: Fey famkünuenu 
+C:  Y así me dejó   
+
+M:  kidukünuayu may ta pi,
+C:   te voy a dejar solo si, dijo
+
+M:  fey kawitu kay
+C:   entonces la cama   
+
+M:  ta küme chemnelu 
+C:   que está bien
+
+M: kom 
+C:  todo 
+
+M: Itrokom ngüneniengi pu'.
+C:  Todo lo tienen controlado pues. 
+
+nmlch-nmfsh1_x_0183_nmlch_00:
+M: Ngüneniengi may.
+C:  Lo tenían controlado sí.
+ 
+nmlch-nmfsh1_x_0184_nmfsh_00:
+M: May.
+C:  Sí.
+
+M: Ngüneniengi chumkünungeal.
+C:  Lo tenían controlado, como dejarlo.
+
+nmlch-nmfsh1_x_0185_nmlch_00: 
+M:  Femal ti feychi kutranngealu
+C:   Es lo que debe ser el paciente
+
+M:  ta müli chi ngütamtu ka.
+C:   que debe estar en la cama tambien.
+
+nmlch-nmfsh1_x_0186_nmfsh_00: 
+M: May.
+C:  Sí.
+
+M: Fey famkünuenu
+C:  Y así me dejó
+
+M:  famngechi 
+C:   así
+
+M: <*SPA>depue'
+C:  después
+
+M:  wüñokintun nga 
+C:  lo volví a mirar 
+
+M: ñi chem tañi,
+C: ése mi cuestión,
+
+M:  chem kechilelu kay tati
+C: como eso parecia eso pues
+
+M:  <uh> külche kechili. 
+C: como parecia tripa.
+
+nmlch-nmfsh1_x_0187_nmlch_00: 
+M: May.
+C:  Sí.
+ 
+nmlch-nmfsh1_x_0188_nmfsh_00: 
+M: Fey may sourinu,
+C: Eso si sobrino
+
+M:  kintun ñi chem 
+C: busqué mi cuestion
+
+M: tripali nga ko,
+C: le estaba saliendo agua
+
+M:  ko reke 
+C: como agua
+
+M: witrun ko reke tati.
+C: como agua corriente pues. 
+
+nmlch-nmfsh1_x_0189_nmlch_00:
+M: Tripalepay püdomu
+C: Estaba saliendo en el hombligo 
+
+M: rupali 
+C: no estaba con dolor
+
+M: tripalepay yupüle tripali.
+C: brotaba, por las narices estaba saliendo. 
+
+nmlch-nmfsh1_x_0190_nmfsh_00:
+M: Kom tripali
+C: Saliendo todo
+
+M:  kom chemlelu
+C: estaba todo así
+
+M:  <Throat>ko reke tripali
+C: como agua salía
+
+M:  famngechi
+C: así
+
+M:  <Throat><*SPA>pero <*SPA>cafe kafeli.
+C:  pero café, estaba café.
+
+nmlch-nmfsh1_x_0191_nmlch_00: 
+M: Llangkükonkülepuy feymu. 
+C: Así caía dentro de eso.
+
+nmlch-nmfsh1_x_0192_nmfsh_00:
+M: Llankoley kom 
+C: Todo caía en eso
+
+M: feymu chemküli 
+C: por eso estaba bien
+
+M: fey ürke
+C: eso era 
+
+M:  ta kongki ta che tati
+C: lo que  a la persona le entra pues
+
+M:  pichi ütrum. 
+C: un pequeña hiel.
+
+nmlch-nmfsh1_x_0193_nmlch_00:
+M: ¿Entuñmangelaymi tami ütrum, welu tüfi? 
+C:  ¿Pero no te sacaron tu hiel, pero eso?
+
+nmlch-nmfsh1_x_0194_nmfsh_00: 
+M: Entuñmangen pu' entuñmangen pu'.
+C: Me lo sacaron pues, me lo sacaron pues.
+ 
+nmlch-nmfsh1_x_0195_nmlch_00: 
+M: Entuñmangeymi may.
+C: Asi fue que te lo sacaron. 
+
+nmlch-nmfsh1_x_0196_nmfsh_00:
+M: May.
+C:  Sí.
+
+M: Depue' operangelu
+C: Después cuando me operaron
+
+M:  fey entuñmangen pu'
+C: entonces me sacron pues
+
+M:  <*SPA>preparacion  pingelu kay tati
+C: como le dicen preparación pues
+
+M:  fey ko 
+C: y el agua
+
+M: líquido 
+C: líquido 
+
+M: kom chemlele tati punwi
+C: si esta todo dentro
+
+M:  fey tripaentuñmangekerki pu' wüne.
+C:  eso fue lo primero que le sacaron pues.
+
+nmlch-nmfsh1_x_0197_nmlch_00: 
+M: Wüne entuñmangey fey liquido.
+C:  Le sacaron primero ese líquido.
+
+nmlch-nmfsh1_x_0198_nmfsh_00: 
+M: May. 
+C:  Sí.
+
+M: Kom liquido<Throat>.
+C: Todo líquido
+
+M: fey chi chemlelu punwi,
+C:  eso que estaba en el interior,
+
+M:  depue' wüla operangen.
+C:  después recien me operaron.
+
+nmlch-nmfsh1_x_0199_nmlch_00:
+M: Kimlaymi 
+C: No sabías
+
+M: tami operangealu eymi
+C: que te iban a operar
+
+M: ¿ chumngimi wüne
+C.   ¿ qué te hicieron primero
+
+M:  tukulelngimi indision wüne
+C:    te colocaron iyección primero
+
+M:  kam patilla?
+C:   o pastillas?
+
+nmlch-nmfsh1_x_0200_nmfsh_00: 
+M: Tukulelngen kom 
+C: Me aplicaron todo
+
+M: ka pasta reke
+C: y también como pasta
+
+M:  itrokom
+C: de todo 
+
+M:  ka tüfamu
+C:   también aca 
+
+M:  famngechi fanelngen.
+C:   así me pesaron.
+
+nmlch-nmfsh1_x_0201_nmlch_00: 
+M: Lapomngi.
+C: Lo aliviaron. 
+ 
+nmlch-nmfsh1_x_0202_nmfsh_00: 
+M: Lapomngi kom
+C: Lo aliviaron todo
+
+M:  itrokom patilla
+C: todas las pastillas
+
+M:  ka elungen
+C:  también me dieron
+
+M: famngechi kewünmew 
+C: así por la lengua
+
+M: faw punwi.
+C: acá dentro. 
+
+nmlch-nmfsh1_x_0203_nmlch_00:
+M: ¡Ah! 
+C:  ¡Ah!
+
+M: Patilla.
+C:  Pastilla.
+
+nmlch-nmfsh1_x_0204_nmfsh_00:
+M: May.
+C:  Sí.
+
+nmlch-nmfsh1_x_0205_nmlch_00:
+M: Kimlavimi 
+C: No conozco
+
+M: chi patilla tüfey ka. 
+C:  esas pastillas también.
+
+nmlch-nmfsh1_x_0206_nmfsh_00:
+M: Kimlafiñ fey
+C: No conozco eso
+
+M:  vey miel reke
+C:  ese como miel
+
+M:  fey müna küme kochüy, kochüy. 
+C:   eso era bien endulzada, dulce.
+
+nmlch-nmfsh1_x_0207_nmlch_00:
+M: Fey tami kimwetunual
+C:  Y para que no sintieras
+
+M:  chem tukulelngimi.
+C:  que te colocaron.
+
+nmlch-nmfsh1_x_0208_nmfsh_00:
+M: Femal
+C: Para que eso pasara
+
+M:  femalnuamfe 
+C:   para eso seguramente
+
+M:  fey may yengelu inche
+C:   entonces cuando me llevaron al hospital
+
+M:  amuymi pingelu 
+C:   cuando le dijeron que se venia
+
+M: pabellonmu dew 
+C:  en el pabellón
+
+M: may ta kimnelu kay ta inche 
+C:  como yo conocía 
+
+M: feychi antü 
+C: ese día
+
+M: fey püramngelu inche
+C:  y cuando me subieron a mi
+
+M:  pichi llükafun 
+C:  me había asustado un poco
+
+M: fey yengen tati 
+C:  y me llevaron pues
+
+M: kamillamew ta famngechi, 
+C: así en la camilla,
+
+M: famngechi yengen
+C:  así me llevaron
+
+M: fam, famngi reke
+C:  más o menos fue así
+
+M:  tañi kintun nuanfe.
+C:   sería mi mirada.
+
+nmlch-nmfsh1_x_0209_nmlch_00:
+M: Fempi may.
+C:  Eso te pasó sí.
+ 
+nmlch-nmfsh1_x_0210_nmfsh_00: 
+M: Tañi duam yengen,
+C:  Me llevaron para que me trate,
+
+M:  üyüw powülngelu inche
+C:   cuando llegamos hasta allá 
+
+M:  fey 
+C:   entonces
+
+M:  kiñe molinu  reke anay
+C:  como un molino 
+
+M: sourinu femngechi
+C:  sobrino, así  
+
+M: kom feli 
+C:  todo está así
+
+M: ta eparalelu nuanfe 
+C:  quienes estarían esperando seguramente
+
+M: feymu kay ta
+C:  y entonces ahí
+
+M:  kom orden ürke
+C:   era todo orden
+
+M:  felelu
+C:   así estaba
+
+M:  femngechi inche niengen
+C:   así me tuvieron a mí
+
+M:  ka femngechi
+C:   también así
+
+M:  weda duamfun reke
+C:   como que me había sentido mal
+
+M:  chumal chi ti ta inche
+C:   no sé que me irán a hacer
+
+M:  femngechi femniengen
+C:   que me tienen así
+
+M:  kakelu atendengi 
+C:   atendieron a los otros
+
+M: pürüm pinegni,
+C:  de inmediato les decía
+
+M:  pin ni rakiduammu inche
+C:   decía en mi pensamiento yo
+
+M:  ultimu fey,
+C:   el último
+
+M:  feymu wüla 
+C:   de ahí recién
+
+M: epuli nga pi,
+C:  hay dos, dijo
+
+M:  puwülngen 
+C:   me llevaron 
+
+M: chew tañi operangeam
+C:  donde tenía que ser operada
+
+M:  epu ñañay müli feymu.
+C:   en eso habían dos hermana.
+
+nmlch-nmfsh1_x_0211_nmlch_00: 
+M: Epuli may, üngümküli.
+C:  Habían dos, como apretadas.
+ 
+nmlch-nmfsh1_x_0212_nmfsh_00
+M: Üngümküli epu <Smack> ñaña
+C:  Como apretadas dos hermanas
+
+M:  kuydachelepelu 
+C:   quien cuidaba las personas
+
+M: fey ramtupaenu. 
+C:  me vino a preguntar.
+
+nmlch-nmfsh1_x_0213_nmlch_00:
+M: Ramtukaymu may.  
+C:  Al menos te preguntó sí 
+
+nmlch-nmfsh1_x_0214_nmfsh_00:
+M: May. 
+C:  Sí.
+
+M: Fey, feypienu 
+C:  Entonces, el me dijo
+
+M: ¿kurengimiam? pienu,
+C:  ¿eres casado? me dijo,
+
+M:  may,
+C:   sí,
+
+M:  ¿tunten familia niymi?
+C:   ¿cuántas familias tienes?
+
+M:  ¿kechu? 
+C:   ¿cinco?
+
+M:  kechu niekefun pifiñ 
+C:   tenía cinco, le dije
+
+M: kiñe may chemenu...
+C:  uno sí, me hizo...
+ 
+nmlch-nmfsh1_x_0215_nmlch_00:
+M:  ...Inawtueyu. 
+C:   ...Más fue por encima.
+
+nmlch-nmfsh1_x_0216_nmfsh_00:
+M: Inawtun pifiñ,
+C.  Desgracia le dije,
+
+M:  tüfachi pitalmu l'apay pifiñ,
+C:  vino  a morir en este hospital, le dije
+
+M:  ¿Chem kutranmu l'ay
+C:   ¿De qué enfermedad murió
+
+M:  tami püñeñ? pienu
+C:  su hija? me dijo
+
+M:  feypifiñ pu'
+C:   le dije pues
+
+M:  wingkadungunmu kom pu'.
+C:   todo en castellano pues.
+
+nmlch-nmfsh1_x_0217_nmlch_00:
+M: Kom dallulfimi ka.
+C:  Todo le dijiste también.
+ 
+nmlch-nmfsh1_x_0218_nmfsh_00:
+M: May.
+C:  Sí.
+
+M: Kom,
+C:  Todo,
+
+M:  kom fey
+C:  todo eso
+
+M:  kom computadora reke 
+C:  todo como una computadora
+
+M:  femniellengela che kom.
+C:   no todas las personas son así.
+ 
+nmlch-nmfsh1_x_0219_nmlch_00:
+M: Leliniengi, leliniengi.
+C:  Lo tiene en la mira, lo tienen en la mira.
+
+nmlch-nmfsh1_x_0220_nmfsh_00:
+M: Makinamu femngechi.
+C:  En la máquina así.
+ 
+nmlch-nmfsh1_x_0221_nmlch_00:
+M: Peniegnika.
+C:  Lo estaban viendo también. 
+ 
+nmlch-nmfsh1_x_0222_nmfsh_00:
+M: May.
+C:  Sí.
+
+M: ¡Ay! Pienu 
+C:  ¡Ay! Me dijo
+
+M: müna kutranpiwkengenu
+C:  me hizo doler mucho el corazón
+
+M:  chi epu pichike domo 
+C:   esas dos niñas
+
+M: feypifiñ 
+C:  eso le dije
+
+M:  dew l'ay tañi pichi püñeñ 
+C:   ya murió mi pequeña hija
+
+M: inche ka kutranfun
+C:  yo también me enfermé
+
+M: ka l'arkeafun inche pifiñ,
+C:  también me pude haber muerto yo, le dije
+
+M:  welu l'alan.
+C:   pero no me morí.
+
+nmlch-nmfsh1_x_0223_nmlch_00:
+M: Feypillefimi may.
+C:  Claro que le dijiste eso.
+ 
+nmlch-nmfsh1_x_0224_nmfsh_00:
+M: L'alayan, kiduengu ka feypienu.
+C:  No voy a morir, ellos también me lo dijeron.
+ 
+nmlch-nmfsh1_x_0225_nmlch_00:
+M: Yafül, yafültukeymu engu.
+C:  Te da ánimo y te animan ellas.
+
+nmlch-nmfsh1_x_0226_nmfsh_00: 
+M: May. 
+C:  Sí.
+
+M: Femlayaymi tati
+C:  Eso no te va a pasar
+
+M:  dew akuymi
+C:   ya llegaste
+
+M:  inchiñ kuydawayiñ pingün.
+C:   nosotros trabajaremos dijeron.
+
+nmlch-nmfsh1_x_0227_nmlch_00:
+M: Yafülngimi ka.
+C:  también te animaron.
+ 
+nmlch-nmfsh1_x_0228_nmfsh_00:
+M: May.
+C:  Sí. 
+
+M: Kidulelaymi pienu
+C.  No estás sola, me dijo
+
+M:  kom kuydatuniewaiñ faw.
+C:   todos nos cuidaremos acá.
+ 
+nmlch-nmfsh1_x_0229_nmlch_00:
+M: Müna küme pingimi
+C:  Lo bueno que te dijeron
+
+M:  feyta kutran 
+C:   así el enfermo
+
+M: ta yafüluwi, yafüy.
+C:  se anima, le da fuerza.
+
+nmlch-nmfsh1_x_0230_nmfsh_00:
+M: Ka kiñe radio reke dunguy
+C:  Y también habló como una radio
+
+M:  chem kantañmangen reke
+C:   como si me hubieran cantado
+
+M:  femngen
+C:   eso me hicieron
+
+M:  kiñe <*SPA>alabanza
+C:   una alabanza
+
+M:  füta chaw fücha.
+C:   a nuestro Dios Padre.
+
+nmlch-nmfsh1_x_0231_nmlch_00:
+M:  Ngünechen tañi <uh> ayekan.
+C:   El entretenimiento de Dios.
+
+nmlch-nmfsh1_x_0232_nmfsh_00:
+M: Y rupa adkintulan mapuche,
+C:  Y no quería mirar mapuche,
+
+M:  pero re ligke
+C:   pero puros blancos
+
+M: femeki  reke
+C:  como si lo hicieran 
+
+M:  fameki reke
+C:   como si lo hicieran
+
+M:  feytichi kiñe chem 
+C:   ese un
+
+M:  paloma reke 
+C:   como una paloma
+
+M:  miawlu reke
+C:   que anda
+
+M:  femi femeke
+C:   eso que hizo es lo que hace
+
+M:  femngechi kintun pu'.
+C:   así busqué pues. 
+
+nmlch-nmfsh1_x_0233_nmlch_00: 
+M: ¡Ah! 
+C:  ¡Ah!
+
+nmlch-nmfsh1_x_0234_nmfsh_00: 
+M: Welu, 
+C:  Pero, 
+
+M: rukamew 
+C:  en la casa
+
+M: famngechi fey kidulen
+C:  así estoy solo
+
+M:  depue' üyümelngen
+C:   después me encendieron
+
+M:  kiñe <*SPA>lu'
+C:   una luz
+
+M:  pürakintunge pienu,
+C:   mire para arriba, me dijo
+
+M:  pürakintun
+C:   miré hacía arriba
+
+M:  fey depue' kimwetulan.
+C:   así después no supe más.
+
+nmlch-nmfsh1_x_0235_nmlch_00:
+M: Kimwetulaymi may.
+C:  quedaste inconsciente si..
+ 
+nmlch-nmfsh1_x_0236_nmfsh_00:
+M: Pero kom kimün
+C: Pero todo lo supe
+
+M:  chem, chempipingen 
+C:   lo que estoy diciendo, diciendo
+
+M: ñi fotüm em 
+C:  el que era mi hijo
+
+M: chumngechi kutrankawün.
+C:  como sufrió.
+
+nmlch-nmfsh1_x_0237_nmlch_00:
+M: Nütramkanimuka.
+C:  Y te tenían conversando también.
+
+nmlch-nmfsh1_x_0238_nmfsh_00: 
+M: Nütramkali.
+C:  Estaba converasando.
+ 
+nmlch-nmfsh1_x_0239_nmlch_00:
+M: Nütramkali may.
+C: Estaba conversando si.
+ 
+nmlch-nmfsh1_x_0240_nmfsh_00:
+M:  <%> Wekufü, 
+C:  Diablo,
+
+M: feychi doctor
+C:  ese doctor
+
+M:  konkintumeki
+C:  esta mirando por dentro 
+
+M:  femngechi <%> 
+C:   así
+
+M: pero kimfalkelay 
+C:   pero no se reconoce
+
+M: ta doctor ürke.
+C:   era el doctor.
+
+nmlch-nmfsh1_x_0241_nmlch_00: 
+M: Femi may malle.
+C:  Eso fue lo que paso tío.
+ 
+nmlch-nmfsh1_x_0242_nmfsh_00:
+M: Feymu
+C:  Por eso
+
+M:  kom küdaw, küdaw
+C: en todo trabajo
+
+M:  ropa kay ta tukunielu engün.
+C:   ropa que tenían puesto ellos.
+ 
+nmlch-nmfsh1_x_0243_nmlch_00:
+M: Kom -/feme/- kom felingünka.
+C: Todos todos estaban así también.
+ 
+nmlch-nmfsh1_x_0244_nmfsh_00:
+M: May
+C: Sí
+
+M: kom feley kimfal-layngün.
+C:  todo esta así, no se distinguen.
+
+nmlch-nmfsh1_x_0245_nmlch_00: 
+M: Kimfalpelayngün may llemay.
+C:  Claro que no se distinguen.
+
+nmlch-nmfsh1_x_0246_nmfsh_00:
+M: May. 
+C:  Sí.
+
+M: Depue' wüla may 
+C: Después recién si
+
+M: ta feyta dew chemlu tati
+C:  esto que ya se calmo pues
+
+M:  feyta kompay pu',
+C:   y así entro pues,
+
+M:  fewla ta.
+C:  ahora recién.
+
+nmlch-nmfsh1_x_0247_nmlch_00:
+M: Kimwetunolu eymi ka.
+C:  Cuando usted perdió la conciencia también.
+ 
+nmlch-nmfsh1_x_0248_nmfsh_00:
+M: Kimwetulan.
+C:  Perdí la conciencia.
+ 
+nmlch-nmfsh1_x_0249_nmlch_00:
+M: Ellkan ti pichin kidu.
+C:  Solo escondí un poco.
+ 
+nmlch-nmfsh1_x_0250_nmfsh_00:
+M: Fey <*SPA>depue' ta <%> 
+C: Eso después
+
+M: tunten <*SPA>hora chi may
+C: cuantas horas sería
+
+M:  tumen 
+C:  que completé
+
+M:  pu rangipun pemay
+C:  hasta las medias noche será
+
+M: <Throat>fey <*SPA>de <*SPA>repente 
+C:  eso de repente
+
+M: chemrumen 
+C:  de repente hice
+
+M: trepelu reke 
+C:  como si estuviera despierto  
+
+M: inche famekey 
+C:  yo estaba haciendo eso
+
+M:  ñi chem ñi cuerpu
+C:   mi cuestión, mi cuerpo
+
+M:  famekelu trokiwmeken
+C:   sentí como si estuviera haciendo eso
+
+M:  famngechi,
+C:   así,
+
+M:  famngechi 
+C:   así,
+
+M:  petu tañi ngillatun 
+C:   aún cuando estaba orando
+
+M:  tañi chem tati,
+C:   ese mi asunto pues,  
+
+M:  tañi amutual.
+C:   de que me iba a ir.
+
+nmlch-nmfsh1_x_0251_nmlch_00:
+M: Kimtriparumetuymi, -/kimtrupa ru/-.
+C:  De repente terminaste consciente
+
+nmlch-nmfsh1_x_0252_nmfsh_00:
+M: May
+C:  Sí.
+
+M: Feymu wüla 
+C:  De ahí recién
+
+M: <%> akordan 
+C:  me acordé
+
+M: ¡Ah! 
+C:  ¡Ah!
+
+M: Küpalngen manga
+C:  Me trajeron 
+
+M:  tañi operayal, 
+C:   para operarme,
+
+M:  operalerken nga 
+C:   estaba operado ya 
+
+M: famngechi faw ürke
+C:  así era acá
+
+M:  kiñe ñayki 
+C:   un gato
+
+M:  chumngechi
+C:   como 
+
+M:  chem ütrüftukulelngelu trokiwkülen 
+C:   si algo me hubieran tirado
+
+M:  rükiftukulelngen ¡anay! 
+C:   cmo si me tuvieran pellizcado ¡hombre! 
+
+M: chew tañi chemürken 
+C:  donde estaba así
+
+M: tañi <*SPA>eri'a.
+C:  mi herida.
+
+nmlch-nmfsh1_x_0253_nmlch_00:
+M: Wikürün ka.
+C:  Estaba con herida también.
+ 
+nmlch-nmfsh1_x_0254_nmfsh_00: 
+M: Wikürngen
+C:  Me dejaron cicatriz
+
+M:  <Smack> fey ka nien 
+C:   Y también tengo
+
+M: kom chem 
+C:  todo eso
+
+M: dungun che
+C:  hablar de las personas 
+
+M:  ti chi sonda 
+C:   esa sonda
+
+M: kom itrokom  <P> femken 
+C:  todo eso hago
+
+M:  fey repente may 
+C:   y de repente sí
+
+M:  akurumey may 
+C:   llegó 
+
+M: kiñi carta 
+C:  una carta
+
+M:  fam sellawkülichi carta ling.
+C:   estaba sellada esa carta blanca.
+
+nmlch-nmfsh1_x_0255_nmlch_00: 
+M: ¿Pefimi?
+C:  ¿Lo viste? 
+ 
+nmlch-nmfsh1_x_0256_nmfsh_00:
+M: May.
+C:  Sí.
+
+M: Epu uman reke nanfe,
+C:  Sería como dos noches,
+
+M:  tüfachi carta 
+C:  esta carta
+
+M: chew akuy pi
+C:  donde llegó, dijo
+
+M:  chi pu enfermera,
+C:   esas enfermeras
+
+M:  akuy tatey
+C:   llegó pues
+
+M: fentrentu kamapu 
+C:  desde muy lejos
+
+M:  kiñe pagrsitu
+C:  un padrecito
+
+M:  akuleleiñmu pienu 
+C:   nos hizo llegar me dijo
+
+M:  chumal-lam küpalelenu pifiñ
+C:   para qué me lo habría traído, le dije
+
+M:  kiñe kutran
+C:  un enfermo
+
+M:  eymi reke
+C:   como usted
+
+M:  operalelu
+C:   que está operado
+
+M:  akuleleiñmu tüfachi carta pienu,
+C:   es bueno que escuche esta carta, me dijo
+
+M:  <Cough> <uh> ngillatuñngeiñmu
+C:  nos ungió 
+
+M:  mür epu 
+C:   a los dos
+
+M: eymi ta mongeaymi pürüm 
+C:  usted se va a mejorar de inmediato 
+
+M: küme dew mongeaymi 
+C:  ya te vas a mejorar bien
+
+M: ta tüfa pienu a,
+C:  eso ahora me dijo
+
+M:  inche ayüwün 
+C:   yo me puse contento
+
+M: femngechi chem 
+C:  así 
+
+M: pagresitu chi ta mülelu pin
+C:  un padrecito existe, dije
+
+M:  üyüwpüle -/surp/- 
+C:   por allá
+
+M: sur mülechi puelu si.
+C:  pueblo que está hacia el sur sí. 
+
+nmlch-nmfsh1_x_0257_nmlch_00:
+M: ¡Ah! 
+C:  ¡Ah!
+
+nmlch-nmfsh1_x_0258_nmfsh_00:
+M:  <P> Ngillatuñmapaeymu pienu
+C:  Te va a venir a ungir
+
+M:  epu 
+C:  dos
+
+M: eymu mür 
+C:  a ustedes los dos
+
+M: operalelu feymu 
+C:  que están operados, por eso
+
+M: küpalngi tati
+C:  lo trajeron pues
+
+M:  fey ka antümu 
+C:  y al otro día
+
+M: inche elungetupen carta
+C:  a mi me han dado la carta
+
+M:  chew chi ta müli tañi carta
+C:  dónde estaría mi carta
+
+M:  ngelay carta.
+C:   no hay carta.
+
+nmlch-nmfsh1_x_0259_nmlch_00:
+M: May.
+C:  Sí.
+
+M: Tüfey <uh> 
+C:  Eso
+
+M: tami pewmamu perke tüfikam.
+C:  era en tu sueño eso, entonces.
+
+nmlch-nmfsh1_x_0260_nmfsh_00:
+M: Pewma llemay pewma.
+C:  Sueño claro, sueño.
+ 
+nmlch-nmfsh1_x_0261_nmlch_00:
+M: ¿Pewmaymi?
+C:  ¿Soñastes? 
+
+nmlch-nmfsh1_x_0262_nmfsh_00:
+M: Pewma reke, 
+C:  Como un sueño,
+
+M: pero küme pewma, peñi
+C:  pero un buen sueño hermano
+
+M:  tañi füta chaw
+C:   mi Dios Padre
+
+M:  taiñ mongelatew 
+C:   que nos iba a sanar
+
+M: taiñ netuñmayatew kutran
+C:  quien nos iba a sacar la enfermedad
+
+M:  feymu llemay 
+C:   por eso es que
+
+M: ta müleki 
+C:  existe
+
+M: ta kiñe küme kintun 
+C:  una buena mirada
+
+M: itrokom inchiñ 
+C:  de todos nosotros
+
+M: ta niyiñ 
+C:  tenemos
+
+M: ta adümkawün 
+C:  hartos trucos 
+
+M: chumngechi rume
+C:  como sea
+
+M:  füta chaw 
+C:   Dios Padre
+
+M:  re falti nelaiñmu kintun,
+C:  no es en vano que nos tenga en la mira,
+
+M:  elunieñmu kintun 
+C:   nos da la mirada
+
+M: kümeke kintun
+C:  buenas miradas
+
+M: wedake kintun nga 
+C:  también malas miradas
+
+M: kimkefi.
+C:  las sabe.
+ 
+nmlch-nmfsh1_x_0263_nmlch_00:
+M: Femllimaychi.
+C:  Claro que eso es lo que hace.
+
+nmlch-nmfsh1_x_0264_nmfsh_00:
+M: Feychi chem 
+C:  Ese asunto
+
+M: ta füta chaw ürke 
+C:  Dios Padre
+
+M: tañi chemün 
+C:  que hace 
+
+M: carta, lingke 
+C:  carta blanca
+
+M: chemken ta feyta 
+C:  lo que hace
+
+M: füta, kom fütake,
+C:  grande, todos grandes  
+
+M:  füta chaw 
+C:  Dios Padre
+
+M: taiñ kom
+C:  que todos
+
+M:  taiñ dungu
+C:   nuestros asuntos
+
+M:  ligke chem ta pengey
+C:   cosas blancas se va a ver
+
+M:  ta ayüwkey ta che.
+C:   y se alegrarán las personas.
+
+nmlch-nmfsh1_x_0265_nmlch_00:
+M: ¡Ah! 
+C:  ¡Ah!
+
+M: Küme dungu ürke fey.
+C:  Es una buena noticia esa. 
+ 
+nmlch-nmfsh1_x_0266_nmfsh_00:
+M: Küme dungu 
+C:  Buena noticia
+
+M: fey inche ta tüfa 
+C:  y a mí ahora  
+
+M:  yewekelan
+C:   no me da vergüenza
+
+M: ta chumngechi tañi pewmaken 
+C:  como es que he soñado
+
+M: chumngechi taiñ felen,
+C:  como vamos a estar 
+
+M:  chumngechi taiñ amulial
+C:  como vamos a seguir
+
+M:  feychi dungu 
+C:  ese asunto
+
+M: füta chaw chemnienu 
+C:  Dios Padre me lo comunica
+
+M: ka ti chi wedake dungu
+C:  también esas malas noticias
+
+M:  <Noise> re chem wedake dungu 
+C:  puras malas noticias
+
+M: müleam 
+C:  para su existencia
+
+M: ka dumiñmew 
+C:  además necesitamos
+
+M: feyta rume weda pewma.
+C:   ese es un muy mal sueño.
+
+nmlch-nmfsh1_x_0267_nmlch_00:
+M: Weda pewma perke ka.
+C:  Mal sueño debe haber sido entonces.
+ 
+nmlch-nmfsh1_x_0268_nmfsh_00: 
+M: Weda pewma pu'
+C:  Mal sueño pues
+
+M: fey chi ling chemkün 
+C:  esas cosas blancas
+
+M: ta re füta chaw tañi dungu
+C:  puras cosas de nuestro Dios Padre
+
+M:  ka tüfichi chem, 
+C:   y también ese asunto,
+
+M: ka tüfichi <uh> wedangelu punma
+C:  también ese que tiene malestares en las noches
+
+M:  miawkelu itrokom.
+C:   como siempre anda de todo.
+
+nmlch-nmfsh1_x_0269_nmlch_00:
+M: May.
+C:  Sí.
+
+nmlch-nmfsh1_x_0270_nmfsh_00:
+M: Dumiñmew
+C:  En la oscuridad
+
+M:  feymu ta wedake dungu ta tripaki,
+C:   por eso salen malos asuntos
+
+M:  pero inchiñ femekelleyiñ -/kü/-
+C:   pero si nosotros estamos haciendo eso
+
+M: lingke chemkün
+C:  blancas cosas
+
+M:  fey kali
+C:   eso es distinto
+
+M:  fey pituken tüfa 
+C:   y ahora me ha dado sarna
+
+M: re falte ürke no may
+C:  no fue porque sí nomás
+
+M: ta elukenu pewma
+C:  el siempre me da sueños
+
+M:  ta füta chaw 
+C:   Dios Padre
+
+M: femngechi pewman inche 
+C:  así soñé yo 
+
+M: tañi kuerpumu, 
+C:  en tu cuerpo
+
+M: welu fentrentu 
+C:  pero tanto
+
+M: tañi chemarkeal
+C:  que van a alcanzar  
+
+M:  ta rakiduamalu ta che
+C:  para que piensen las personas
+
+M:  ka yafüntukutual
+C:   y para tener más fuerza
+
+M:  feychi wedake dungu 
+C:   en esos asuntos malos
+
+M: miawlu kümeke dungu 
+C:  que andan trayendo buenas noticias
+
+M: tañi chemal
+C:  para recuperarse
+
+M:  fey ürke may tati 
+C:   eso era así pues
+
+M: fey chemken tüfa 
+C:  y ahora  me he sentido bien 
+
+M: <%> pero inche 
+C:  pero yo
+
+M: tañi kuerpumew,
+C:  en mi cuerpo,
+
+M: tañi rupamum tati peñi
+C:  es lo que ha pasado pues hermano
+
+M:  kom tañi kutranmew 
+C:   toda mi enfermedad
+
+M:  ka tañi familiamew 
+C:   también en mi familia
+
+M: kiñe familiamu tatey.
+C:  en una familia pues.
+
+nmlch-nmfsh1_x_0271_nmfsh_00: 
+M: Re falte 
+C:  No es en vano
+
+M: ta chemkelay che reke llenuam
+C:  lo que la persona hace
+
+M:  kom itrokom rupaki ta che.
+C:   en todo pasa una persona.
+
+nmlch-nmfsh1_x_0272_nmlch_00: 
+M: Femllimay chi malle
+C:  Eso es lo que pasa tío 
+
+M:  feychi dungumu 
+C:   en esas cosas
+
+M: ta amulen ta tüfa,
+C:  que ahora avanzan,
+
+M:  ayiwkülen
+C:   estoy contento
+
+M:  füta chaw ngünenieiñmew
+C:  Dios Padre nos está controlando   
+
+M:  chumngechi rume
+C:   como sea
+
+M: kelluwküliyiñ tüfa 
+C:  nos estamos ayudando ahora
+
+M: ka tüfachi dungu
+C:  y también estas cosas
+
+M:  tripatripangi,
+C:   están saliendo,
+
+M:  mapuche dungu
+C:  asuntos mapuche
+
+M:  taiñ wñotual
+C:   que debemos volver
+
+M:  mapuche dungual
+C:   que debemos hablar mapuzungun
+
+M:  itrokom 
+C:   de todo
+
+M: feyta chemnietuiñmu
+C:  es lo que nos tiene
+
+M:  ta füta chaw 
+C:   ahora Dios Padre  
+
+M: wall mapu,
+C:  en toda la tierra,  
+
+M: chemchemngi tüfa
+C:  esto esta apareciendo
+
+M:  re falte eymi miawlaymi tüfa.
+C:  tu no andas ahora en vano.
+
+nmlch-nmfsh1_x_0274_nmlch_00: 
+M: Feli pu' malle, feley.
+C:  Así es pues tío, así es.
+ 
+nmlch-nmfsh1_x_0275_nmfsh_00: 
+M: Femngechi taiñ amulial 
+C:  Como tenemos que avanzar
+
+M: kelluwküleal 
+C:  ayudándonos
+
+M: ka chumgnechi rume
+C:  y en cualquier cosa
+
+M: tuntepüle taiñ mongen 
+C:  que la vida le llegué hasta ahí
+
+M: ka tüfachi tripantu
+C:  y también este año
+
+M:  fentrentu, tripantu 
+C:   y tantos años
+
+M: rupaleiñ tüfa, 
+C:  que estamos pasando ahora
+
+M: kuyfi ta mülekefuy 
+C:  antes existía
+
+M: ta fütrake wewpin,
+C:  grandes discursos
+
+M:  fütrake wentru, 
+C:   grandes hombres,
+
+M: fütrake domo, 
+C:  grandes mujeres,
+
+M: fütrake rakiduamngelu,
+C:  con grandes pensamientos
+
+M:  welu ta inchiñ
+C:   pero ahora nosotros
+
+M:  ta felewetulaiñ reke,
+C:   casi ya no estamos así,
+
+M:  pero füta chaw pielmu
+C:   pero por la decisión de Dios Padre 
+
+M: feymu wüñoleltuiñmu kewün,
+C:  estamos volviendo a nuestra lengua
+
+M: wüñoleltuiñmu lukutun
+C:  nos devolvió            
+
+M: ngillatun, itrokom ka -/pegel/-
+C:  el guillatún, entre otras cosas 
+
+M:  pegelngetuiñ ta tripantu.
+C:   nos han vuelto a mostrar los años.
+
+nmlch-nmfsh1_x_0276_nmlch_00: 
+M: Feli llenanchi malle feli pu' feli.
+C:  No es así tío, no es así.
+
+nmlch-nmfsh1_x_0277_nmfsh_00: 
+M: Eymi kimnieymi
+C:  Usted lo sabe
+
+M:   chumngechi ta chemün
+C:  como se formó
+
+M:  ta tüfachi wariamew 
+C:  acá esta ciudad
+
+M: Galvarinu.
+C:  Galvarino. 
+
+nmlch-nmfsh1_x_0278_nmlch_00:
+M: Feli pu' malle.
+C:  Así es pues tío, así es. 
+
+nmlch-nmfsh1_x_0279_nmfsh_00: 
+M: Longkoleymi ta feychi.
+C:  Que esa vez dirigías.
+ 
+nmlch-nmfsh1_x_0280_nmlch_00:
+M: ¿Felellelanchi malle?
+C:  ¿No es así sobrino?
+ 
+nmlch-nmfsh1_x_0281_nmfsh_00: 
+M: Feymu müli taiñ mülen
+C:  Por eso está nuestra existencia
+
+M:  ta kiñe maneluwal.
+C:   y una de nuestras fé.
+
+nmlch-nmfsh1_x_0282_nmlch_00: 
+M: Feli pu' malle feli, feyta ...
+C:  Así es pues tío, así es ahora...
+
+nmlch-nmfsh1_x_0283_nmfsh_00: 
+M: ...Ka feychi dungumew 
+C:  ...También en ese asunto
+
+M:  feypi füta chaw
+C:   dijo eso Dios Padre
+
+M:  yewentukulawaymün 
+C:   no se avergonzarán
+
+M: chem rume 
+C:  ninguna cosa
+
+M: küme dungumu 
+C:  cosas buenas
+
+M: dunguyawaymi 
+C:  andarás hablando
+
+M: inche ñi duammu pi, 
+C:  por mí, dijo
+
+M: pili.
+C:  es lo que quiere.
+
+nmlch-nmfsh1_x_0284_nmlch_00:
+M: Feypiley pu' malle,
+C:  Eso es lo que dice pues tío,
+
+M:  feypilellimay chi 
+C:   eso es lo que dice
+
+M: feymu llemay ta inche
+C:  por eso es que yo
+
+M: ta feychi antümu
+C:  en ese día
+
+M:  ta longkon,
+C:   tuve cabeza,
+
+M: <Cough> welu kay ta   <uh> <Noise> 
+C:  pero también 
+
+M: kom tañi pu che
+C:  toda mi gente
+
+M:  ta fawpüle pinien ka.
+C:   por acá me dijeron también.
+
+nmlch-nmfsh1_x_0285_nmfsh_00:
+M: Fey llemay fey.
+C:  Eso es claro, eso es.
+ 
+nmlch-nmfsh1_x_0286_nmlch_00: 
+M: Müli taiñ leliwal 
+C:  Es nuestro deber mirarnos
+
+M:  kiñeke 
+C:   algunos
+
+M: welukechi taiñ leliwal
+C:  el mirarnos el uno al otro
+
+M:  femngechi dungumu 
+C:   en esos asuntos
+
+M: feyta Ngünechen ta ka
+C:  y también Dios 
+
+M:  <uh> ayüwünkechi ta ...
+C:  con alegría
+ 
+nmlch-nmfsh1_x_0287_nmfsh_00: 
+M: ...Trawülaiñmu.
+C:  Nos va a reunir.
+
+nmlch-nmfsh1_x_0288_nmlch_00: 
+M: Trawünietuaiñmu 
+C:  Nos tendrá reunidos
+
+M: ka elunietuaiñmu 
+C:  también nos dará
+
+M: ta kümeke dungu
+C:  buenas cosas
+
+M:  ka kümeke mongen
+C:   y buenas vidas
+
+M:  feymu feyta.
+C:   por eso eso.
+

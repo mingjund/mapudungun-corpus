@@ -1,0 +1,14 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nmlch-lmihr1_x_%04d_nmlch_00
+nmlch
+nmlch-lmihr1_x_%04d_lmihr_00
+lmihr
+UserLables: 4
+<*SPA>
+<Cough>
+<Laugh>
+<Throa>
+LableMenuFile
+C:\Program Files\TransEdit\trl-vm-win1.mnu

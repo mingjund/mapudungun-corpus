@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 259
+SpeakerNum: 2
+nfmcp-nmfc2_x_%04d_nfmcp_00
+nfmcp
+nfmcp-nmfc2_x_%04d_nmfc_00
+nmfc
+UserLables: 1
+<*SPA>
+LableMenuFile
+C:\Program

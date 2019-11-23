@@ -1,0 +1,2720 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nfspA1 
+; Last changes made on 11/06/2001 
+; Transcriber: Marcela Collio 
+; Comments:  
+;Traduce: Cristian Anton Carrillan.
+
+
+nmlch-nfspA1_x_0000_nmlch_00: 
+M: Mari mari lamuen. 
+C: Hola, hola hermana.
+
+nmlch-nfspA1_x_0001_nfsp_00:
+M:  Mari mari lamngen.
+C: Hola hola hermano. 
+
+nmlch-nfspA1_x_0002_nmlch_00: 
+M: <Noise> Chumuechi ta punmalimi tüfa.
+C: Como le esta llegando la noche ahora.
+
+nmlch-nfspA1_x_0003_nfsp_00: 
+M: Küme punmalen küme amu...
+C: Está llegando bien la noche y vá bien..
+
+nmlch-nfspA1_x_0004_nmlch_00: 
+M: Küme punmalimi eymi
+C: Le está llegando bien la noche usted
+
+nmlch-nfspA1_x_0005_nfsp_00: 
+M: May. 
+C: Sí.
+
+nmlch-nfspA1_x_0006_nmlch_00: 
+M: ¿Chumli <Noise> waria tüfa<uh> 
+C: ¿Cómo esta el pueblo ahora
+
+M: tünküli ngelay dungu tüfamew?
+C: esta bien no hay novedad aqui?
+
+
+
+nmlch-nfspA1_x_0007_nfsp_00:
+M:  <Noise> Ngelay. 
+C: No hay. 
+
+nmlch-nfspA1_x_0008_nmlch_00: 
+M: Kam müli kutran kiñemu <Noise>. 
+C: O hay enfermo en uno 
+
+nmlch-nfspA1_x_0009_nfsp_00: 
+M: Ngelay. 
+C: No hay.
+
+nmlch-nfspA1_x_0010_nmlch_00: 
+M: ¿Chem dungu rume ngelay?.  
+C: ¿No hay ninguna cosa?.
+
+nmlch-nfspA1_x_0011_nfsp_00: 
+M: Chem rume dungu ngelay lamngen 
+C: Cualquier cosa novedad no hay hermano
+
+M: ngelay dungu <Noise>. 
+C: no hay novedad.
+
+nmlch-nfspA1_x_0012_nmlch_00: 
+M: May, may, may.
+C: Sí, sí, sí.
+
+nmlch-nfspA1_x_0013_nfsp_00:
+M: Inche müten nien kutran rukamew 
+C: Yo no más tengo enfermo en la casa
+
+M: niepan kutran fey müten.
+C: lo tengo aqui el enfermo eso no más.
+
+nmlch-nfspA1_x_0014_nmlch_00: 
+M: Eymi ta pekimi <Noise> ta kutran tüfa. 
+ C: Usted diagnostica al enfermo en éste momento.
+
+
+
+nmlch-nfspA1_x_0015_nfsp_00: 
+M: May <Noise> 
+C: Sí.
+
+nmlch-nfspA1_x_0016_nmlch_00:
+M:  ¿Niymi kutran tüfa? <Noise> 
+C: ¿Tiene enfermo ahora?
+
+nmlch-nfspA1_x_0017_nfsp_00: 
+M: Nien <Noise> rukamu niepun kiñe
+C: tengo en la casa tengo uno  
+
+M: kangelu müli kampumew 
+C: el otro está en el campo
+
+M: kangelu müli faw pueblomu
+C: el otro está aqui en el pueblo
+ 
+M: welu <Noise> re kutran ka. 
+C: pero pura enfermedad también.
+
+nmlch-nfspA1_x_0018_nmlch_00: 
+M: Kutran, feyti kiñe kutran
+C: Enfermedad, esa una enfermedad
+
+M:  kam itrofill kutran tüfi kiñeke...
+C: o cualquier enfermedad eso alguno...
+
+nmlch-nfspA1_x_0019_nfsp_00: 
+M: Kiñ itrofill kutran niyingün.  
+C:  cualquier enfermedad tienen.
+
+nmlch-nfspA1_x_0020_nmlch_00:
+N:  Ah.
+C: Ah.
+
+M: Itrofill kutran niyngün. 
+C: Cualquier enfermedad tienen.
+
+
+nmlch-nfspA1_x_0021_nfsp_00:
+M:  Itrovill re kiñelay ñi kutran engün pu
+C: De todo tipo no es solo uno la enfermeda pues 
+ 
+M: itrovill kutran. 
+C: cualquier enfermedad.
+
+nmlch-nfspA1_x_0022_nmlch_00: 
+M: Nielay kutran 
+C: No tienen enfermedad
+
+nmlch-nfspA1_x_0023_nfsp_00: 
+M: Itrovill kake rumi ñi kutran engün.
+C: cualquier son distinto la enfermedad de ellos.
+
+nmlch-nfspA1_x_0024_nmlch_00: 
+M: Ah.
+C: Ah. 
+
+nmlch-nfspA1_x_0025_nfsp_00: 
+M: Kiñelay kutran 
+C: No sólo una enfermedad
+
+M: wentru domo trürlay ñi kutranlleno 
+C: hombre y mujer no son la misma la enfermedad
+
+M: kom kake rumi ni ñi kutran.
+C: todo distinto la enfermedad.
+
+nmlch-nfspA1_x_0026_nmlch_00: 
+M: Feley lamuen. 
+C: Así es hermana.
+
+nmlch-nfspA1_x_0027_nfsp_00: 
+M: Vemngechi veli tati. 
+C: Así estan pues.
+
+nmlch-nfspA1_x_0028_nmlch_00: 
+M: <Noise> Feli tati lamuen 
+C: Así es pues hermana
+M: tüfachi mongenmew
+C: en esta vida
+ 
+M: trürlay ta kutran 
+C: no son lo mismo la enfermdad
+
+M: pipimi eymi 
+C: dice usted
+
+M: rüftu tati fey 
+C: es cierto eso
+
+M: ka lofmew <uh> 
+C: en otra comunidad
+
+M: lelfünmew wariamew <uh>
+C: en el campo o en la ciudad
+
+M: wichuli ta kutran
+C: hay otra enfermedad
+
+M: wichuli ta mongen 
+C: hay otra vida
+
+M: müli <Noise> ta wentru ka domo 
+C: existe entonces hombres también mujeres
+
+M: ka <Noise> trürlay kutran 
+C: también no son lo mismo la enfermedad
+
+M: tati lamuen.
+C: pues hermana.
+
+ nmlch-nfspA1_x_0029_nfsp_00: 
+M: <Noise> Femlay llemay femlay pu. 
+C: No es entoces no es pues. 
+
+nmlch-nfspA1_x_0030_nmlch_00: 
+M: <Noise> Feymulleno inche ta
+C: Por eso yo entonces 
+M:  eymi nütrammean tañi lamuen pipen
+C: a ella voy a conversarle mi hermana dije
+
+M: fey ka kiduam pekelu kutran 
+C: eso también que ella ve a los enfermo
+
+M: pepilkaleluwi ta l'awen'mew
+C: que se maneja con el remedio
+
+M: feyta pemean taiñ lamuen pipen 
+C: éste voy a verla mi hermanan dije
+
+M: nütramkameafiñ
+C: voy a ir a conversarle
+
+M:  tunten kutran 
+C: cuantos enfermos
+
+M: chem müleken <uh> tañi mongenmew
+C: que ha habido en su vida
+
+M:  chumuechi tañi mongeken kutrankülen
+C: cómo se sana al estar enfermo(a)
+
+M: feyta pepepeyu tati lamuen. 
+C:  en esto lo vengo a ver pues hermana.
+
+nmlch-nfspA1_x_0031_nfsp_00: 
+M: Feypiperkimi llemay <Noise> 
+C: Lo decias pues
+
+M: vemngechi veley pu lamngen 
+C: así estan pues los hermanos
+
+M: feley kiñe mapulay kutran 
+C: así es no se abarca en la enfermedad
+
+M: kom mapu feley 
+C: toda la tierra está así
+
+M: kom lelvün 
+C: todo el campo
+
+M: kom wingkulmu müli kutran <Noise>
+C: en todos los cerro hay enfermo
+
+M:  wingka mapuche kom<Noise> 
+C: huincas mapuches todos
+
+M: kom veli kutran 
+C: todos estan así lo enfermo
+
+M: kiñeke kimngi 
+C: alguno lo saben 
+
+M: ka kiñeke kimngelay
+C: también alguno no lo saben 
+
+M: vemngechi veleki 
+C: así estan 
+
+M: kutranllenoam lamngen <Noise>. 
+C: los enfermos hermano. 
+
+nmlch-nfspA1_x_0032_nmlch_00: 
+M: Felekepelli ka <Noise>. 
+C: Estaran así también. 
+
+nmlch-nfspA1_x_0033_nfsp_00: 
+M: <Noise> Müna weda, 
+C: Que malo,
+
+M: müna weda. 
+C: que malo.
+
+nmlch-nfspA1_x_0034_nmlch_00:
+M: ¿A'lün' kutran pekimi eymi?
+C: ¿ Se encuentra con harta enfermedad usted?
+
+nmlch-nfspA1_x_0035_nfsp_00: 
+M: May.
+C: Sí.
+
+M: A'lün'. 
+C: Harto.
+
+nmlch-nfspA1_x_0036_nmlch_00:
+M:  <Noise> Antümew puliwen konantü 
+C: De dia en la mañana y al atardecer
+
+M: akuki kutrankawlu che 
+C: llegan alguien que tienen enfermo la persona
+
+M: tüfi manelkefuymi ka.
+C: eso te confía también.
+
+nmlch-nfspA1_x_0037_nfsp_00: 
+M: -/chum/- May. 
+C: Sí.
+
+M: Vemkellen engün 
+C: Así hacen
+
+M: may veymu kontupakenu 
+C: si por eso vienen a entrar
+
+M: maneluwken llemay 
+C: me confío si 
+
+M: mongelkevielmu 
+C: por sanarlo 
+
+M: ka pu mongekenovuleengün 
+C: también pues si no se sanan  
+
+M: veyta allkütuy dungulavuy engün. 
+C: esto lo escucharian y no me hablarían.
+
+nmlch-nfspA1_x_0038_nmlch_00: 
+M: <Noise> Feley llemay chi lamuen
+C: Así sera hermana
+
+M:  feyti ta<Noise>  fey eymi pepapeyu fey
+C: eso entonces, eso usted lo vengo a ver si 
+
+M:  <Noise> felen ñi lamuen pipen <Noise> 
+C: que es así mi hermana dije
+
+M: pekeluam kutran fey 
+C: que ha visto enfermo si 
+
+M: ka kimniefiñ ka ramtumen tañi lamuen pipen
+C: también lo conosco también lo preguntare mi hermana dije
+
+M:  feymu ta pepapeyu tati lamuen. 
+C: por eso lo vengo ver pues hermana.
+
+nmlch-nfspA1_x_0039_nfsp_00: 
+M: Veypiperki llimay veypipeymi <Noise>. 
+C: Dicia si lo decias.
+
+nmlch-nfspA1_x_0040_nmlch_00: 
+M: Femngenam pepapeyu lamuen
+C: por fin lo vengo a ver hermana 
+
+M: feyta ramtukan <%> miawlpen. 
+C: éste preguntando andaba.
+
+nmlch-nfspA1_x_0041_nfsp_00: 
+M: Veymu llemay lamngen 
+C: Por eso es hermano
+
+M: veymu velen ta dungu tati felen.
+ C: por eso es así la cosa pues soy como soy .
+
+nmlch-nfspA1_x_0042_nmlch_00: 
+M: Eymi chumuechi pepiluwimi 
+C: Usted cómo se manejo 
+
+M: l'awen'mu lamuen 
+C: con el remedio hermana
+
+M: niymi tüfey papeltulaymi 
+C: tiene eso que no estudio
+
+M: eymi tami mongenmew 
+C: en su vida
+
+M: kam papeltuymi 
+C: o estudio
+
+M: kam chilkatuymi 
+C: o leyo
+
+M: kam Ngünechen eleymu tüvachi kimün
+C:o Ngünechen les dio este sabiduria
+
+M: ka müleymu ta Ngünechen ta l'awen' 
+C: también le dejo Ngünechen el remedio  
+
+M: <Noise> pewmakeymi kimimi a'lün' l'awen' 
+C: por sueño sabe harto remedio
+
+M: kimimi tüfi a'lün' che 
+C: conoce eso harta persona
+
+M: mongelkevimi ka.
+C: lo ha sanado también.
+
+nmlch-nfspA1_x_0043_nfsp_00:
+M:  Vemkellen may lamngen
+C: lo ha hecho si hermano 
+
+M: vemken, inche ta papeltulan
+C: lo hago, yo no estudie 
+
+M: kim papeltulanrume tati 
+C: no se estudiar siquiera pues 
+
+M: kimlan tem chume kim papeltulan 
+C: no sé nada no se leer
+
+M: <SPA>ni<SPA> una <SPA>cosa kimlan. 
+C: ninguna cosa no sé.
+
+nmlch-nfspA1_x_0044_nmlch_00: 
+M: ¿Chem rume welu a'lün'nimi kimün?. 
+C: ¿Cualquier cosa pero tiene harto conocimiento?.
+
+nmlch-nfspA1_x_0045_nfsp_00: 
+M: Welu ta rakiduam ta müli longkomu
+C: Pero entonces pensamiento hay en la cabeza
+
+M: piwkentukunen itrovill dungu 
+C: lo tengo en el corazón cualquier cosa
+
+M: pichichengen pichichengen müten 
+C: cuando era niña, cuando era niña nomas
+
+M: ina rumen müten konün tüvachi dungumu 
+C: por persistir nomas entré en esta novedad
+
+M: tüvachi machi dungumu
+C: en esta idea del machi 
+
+M: ñi ñukentu machingevuy 
+C: mi tia fue machi
+
+M: ñuke machingevuy 
+C: que tenia la mamá machi 
+
+M: karukañma 
+C: en otra casa 
+
+M: vecinumu ka müli machi 
+C: donde el vecino también hay machi
+
+M: anüm rewen miawün ngillatunmew <Noise>
+C: plante un rehue anduve en el ngillatun 
+
+M: datukutranenmu miawi machi <Noise>
+C: para tratar a los enfermo anda la machi 
+
+M: inkatuñmangen puchem
+C: me consiguieron 
+
+M: kim miawün vemgechi konün 
+C: sé andar así entre
+
+M: tüvachi<Noise> dungumu. 
+C: en esta ideas.
+
+nmlch-nfspA1_x_0046_nmlch_00: 
+M: Femuechi <%>. 
+C: Así.
+
+nmlch-nfspA1_x_0047_nfsp_00: 
+M: Vemngechi kimfiñ inche
+C: Así lo conocí yo 
+
+M: kim papeltulan kimlan tem chume 
+C: no sabía estudiar no sabía nada
+
+M: welu re mapu dungun kimngen 
+C: pero sólo ideas de la tierra sabía 
+
+M: mapu kimün Dio ñi<Noise> kimün 
+C: conocimiento de la tierra, por él conocimiento de él Dios
+
+M: <SPA>porque Dio eli machi itrovill machi
+C: Porque Dios dejo la machi de todo tipo de machi 
+
+M: müley tüvachi mongenmew lamngen
+C: hay en esta vida hermano 
+
+M: müley ta nag mapu dewmal chi machi 
+C: existe en esta tierra el que hizo machi 
+
+M: ka tayichi rangiñ wenu ta dewmalu 
+C: también en el centro de lo alto que hizo
+M: machi ta<Noise> ka müli
+C: la machi también hay 
+
+M: feymu ta kiñekelay ta kimün
+C: por eso no son iguales el conocimiento
+ 
+M: kiñelay<Noise> ta inarumen 
+C: no es igual el seguimiento
+
+M: kom kake rumi kimün rakiduam 
+C: todo son distintos el conocimiento pensamiento 
+
+M: adüm l'awen'nün pepi l'awen'nün 
+C: de conocer el remedio de hacer los remedios
+
+M: trürüm l'awen'nün 
+C: de juntar los remedios
+
+M: kom kake rumi <Noise> 
+C: todo son distintos
+
+M: vemngechi, vemngechi adümün 
+C: así, así comprendí
+
+M: re machimu 
+C: solo con machi 
+
+M: pichihcengen
+C: cuando era niña
+
+M: dewma niepelan epu mari tripantu 
+C: cuando tenia veinte años
+
+M: mari tripantu 
+C: diez años 
+
+M: dewma kellu konün machimu 
+C: que empeze de ayudar en la machi 
+
+M: llankañ konün wüne<Noise> 
+C: de ayudante entre primero
+
+M:  nütramkay machi. 
+C: converza la machi. 
+
+nmlch-nfspA1_x_0048_nfsp_00:
+M: Nütramkawi kimeluwi 
+C: Se converzan se da ha conocer
+
+M: traftufe machi nütramkawi <Noise>
+C: respondiendo con la machi se converzan 
+
+M: inche vey kom allkülen 
+C: y yo si lo he escuchado todos
+
+M: kom longkon tukunien
+C: todo lo grbaba en la cabeza
+
+M: kom piwken tukunien 
+C: todo lo tenia en el corazón
+
+M: tayi tüfa ngullikelan veychi dungu
+C: endenante ahora no se me olvida esa cosa 
+
+M: piwken tukunieviñ veychi dungu 
+C: lo tengo en el corazón esa ideas
+
+M: vemngechi kimün nien inche 
+C: esos conocimiento tengo yo 
+
+M: nielan wingka kimün 
+C: no tengo el saber del huinca
+
+M: wingka chilka 
+C: estudios del huinca
+
+M: wingka wirin <Laugh> kimlan 
+C: escribir en castellano no sé
+
+M: re vemngechi 
+C: solo así
+
+M: inche tañi ñuke kimü müten nien
+C: tengo el conociento de mi mamá no más
+
+M: machingepuy ñi <SPA>mamá 
+C: fue machi mi mamá
+
+M: vemngechi kimpun machi dungu 
+C: así llega ha conocer la ideas del machi
+
+M: llowdungun machin 
+C: de recibir la converza del machi 
+
+M: tañi ñuke mütenno
+C: no solamente mi mamá 
+
+M: chuchimu rume müli <Noise> ngillatun 
+C: cualquiera cuando hay ngillatun 
+
+M: müley ta ka kiñen tukun
+C: cuando hay tomatera
+
+M: müleyelam ngoyingen machi  
+C: al igual que se emborrachan la machi
+
+M: vey kidulewi machi
+C: en eso se queda sola machi
+
+M: inche llowdungukevun machi. 
+C: yo le recivo la converza la machi.
+
+nmlch-nfspA1_x_0049_nmlch_00:
+M:  ¿Eymi lamuen?
+C: ¿Usted hermana?
+
+nmlch-nfspA1_x_0050_nfsp_00: 
+M: May. 
+C: Si.
+
+M: <Noise> Vey ñi pichichengen 
+C: Cuando era guagua
+
+M: vey ñi pichidomongen 
+C: cuando era niña
+
+M: llowdungu machikevun <Noise> 
+C: le recibia la converza la machi
+
+M: wül dungukevun 
+C: le daba ideas la machi 
+
+M: ngüler machi machi ta ngülerngi
+C: tocación a la machi, machi lo hace tocación
+
+M: vemngechi vamekelu kuchillumu
+C: así cuando lo hacía con cuchillo 
+
+M: veyta ngüler machi pingi tati
+C: éste se llama masajear la machi dicen 
+
+M: füchake kuchillumu ngülerngi 
+C:  con cuchillo grande la masajean 
+
+M: voyeengün kaskawillangün 
+C:  con canelo y cascabeles
+
+M: vamuechi ngülerngi machi
+C: así lo masajean la machi 
+
+M: kintualu <Noise> veymu ka konün
+C: para reaccionar por eso también entre
+
+M: llankañngen wül dungun 
+C: me ayudaron para ideas
+
+M: llowdungun machimu 
+C: le recibi la interpretación a la machi 
+
+M: ina kultruntuñmawün ina gülkatun 
+C: a la sigua le tocaba cultrun y rogaba 
+
+M: <Noise> vemngechi konün tachi dungumu
+C: así entre en esa ideas
+
+M: pichichengen konün veychi dungumu. 
+C: cuando era niña entre en esa ideas.
+
+nmlch-nfspA1_x_0051_nmlch_00: 
+M: ¿Rakiduam kimniefimi tüfey
+C: ¿El pensamiento lo sabía eso 
+
+M: kimün kom?
+C: la sabiduría todo?
+
+nmlch-nfspA1_x_0052_nfsp_00:
+M: Kom kimfiñ, kom inarumeniefiñ 
+C: Todo lo conocí, todo lo fui averiguando
+
+M: tayi tüfa komkimnien veychi dungu,
+C: endenante ahora todo lo sé de esa novedad,
+
+M: kuyvike machiem 
+C: de la machi de ante 
+
+M: pütrünevuy kimün. 
+C: tenían la sabiduría muy ancha.
+
+nmlch-nfspA1_x_0053_nmlch_00: 
+M: Fempefuy ka lamuen 
+C: Lo hacía también hermana
+
+nmlch-nfspA1_x_0054_nfsp_00: 
+M: Pütrünevuy kimün 
+C: Era muy ancho la sabiduría
+
+M: nütramkay 
+C: la converzación 
+
+M: nütramkalmanu tañi <SPA>mamá 
+C: lo converzo mi mamá
+
+M: trürüme trümi kidu tañi lamngen 
+C: lo convirtío .... su propia hernana
+
+M: trürümi kimeleyu l'awen' 
+C: lo adjunto y lo hizo saber del remedio
+
+M: kimel dunguy itrofill 
+C: y al igual que hizo saber toda la novedad
+
+M: chumlekefuy kuyfi pütakeche 
+C: como estaban los anciano ante
+
+M: chuchilekevel dungu 
+C: como estaban las ideas
+
+M: chumngechi ñi amul dungukevel
+C: como lo hacían para dar a conocer su novedad
+
+M: pu longko pu cacike 
+C: los lonco y los cacique
+
+M: werkütüwün kom vemngechi 
+C: comunicarse todo así
+
+M: enseñalmangen ñi <SPA>mamá 
+C: me lo enseñaron a mi mamá
+
+M: vey machingi vantenmu 
+C: así es machi en éste momento
+
+M: vey chew nga mongel kutran<%> 
+C: esa donde vá hace recuperar el enfermo 
+
+M: <Noise> chewnga tute kutranelmi
+C: en distinta parte sanaba al enfermo 
+
+M: veymu nga küme machi pingeaymi 
+C: en eso que es un buen machi le diran 
+M: veyemürke pingeaymi 
+C: ella si lo iran a decir
+
+M: <SPA>y vemnolmi vecha chengeaymi 
+C: y si no lo hiciera vá hacer una persona mala
+
+M: ngümayalu pensayalu weñankalu 
+C: que vá llorar, que vá pensar y que vá pasar tristeza
+
+M: ka eymi vey che troküngenolmi
+C: también usted no lo valorizan como persona
+
+M: llamngenolmi trürlay<Noise> nga kimün
+C: si no te respetan que las ideas no son la misma
+
+M: kimpe iñ pe machilumu nga konülmi 
+C: y si entre en una machi reconocida
+
+M: veymu llamgeaymi 
+C: por eso la respetaran 
+
+M: vemnolmi <Noise> kutrankawaymi wütremew
+C: si lo hace vá sufrir por el refrio 
+ 
+M: kutrankawaymi nga ngüñinmew.  
+C: vá sfrir por el hambre.
+
+nmlch-nfspA1_x_0055_nfsp_00: 
+M: Llamngenolmi che troküngenolmi 
+C: si no lo respetan y que no lo valoren 
+
+M: piñmakevenu ñi <SPA>mamá 
+C: le decian a mi mamá
+
+M: vemngechi nütramkakevuy 
+C: así conversaba
+
+M: pütake antikuo machiem tati <Noise> 
+C: que era machi de muy Antigua 
+
+M: vemngechi kom inche piwkentukuneviñ 
+C: así todo yo lo tengo en el corazón
+
+M: veychi dungu. 
+C: esa idea.
+
+nmlch-nfspA1_x_0056_nmlch_00:
+M: Kimpafimi tüfi <uh> eymi allküfimi. 
+C: Lo llego a saber eso usted y lo escucho.
+
+nmlch-nfspA1_x_0057_nfsp_00: 
+M: May. 
+C: Sí.
+
+M: Kimafiñ allküfiñ 
+C: Lo voy a saber y lo escuche 
+
+M: vemngechi nütramkakevuy machi 
+C: así converzaba la machi 
+
+M: ñukentuem <Noise> antikuo machi 
+C: que era la tia una machi Antigua 
+
+M: niepelavuy<Noise> niepelavuy 
+C: tendría tendría 
+
+M: <Noise> chunten pingiama pataka
+C: cuanto dicen cien 
+ 
+M: <SPA>ochenta tripantu nielu nga.
+C: ochenta que tiene. 
+
+nmlch-nfspA1_x_0058_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Pura mari. 
+C: Ochenta.
+
+nmlch-nfspA1_x_0059_nfsp_00: 
+M: Pura mari 
+C: Ochenta 
+
+M: Pura mari tripantu niepelavuy. 
+C: tendria ochenta años.
+
+nmlch-nfspA1_x_0060_nmlch_00: 
+M: Pura mari tripantu. 
+C: Ochenta años.
+
+nmlch-nfspA1_x_0061_nfsp_00:
+M: May.
+C: Sí.
+
+M: Kimpaviñ vente niepelavuy 
+C: Lo conocí tendría como esos 
+
+M: kuchelevuy <Noise> welu nievuy kimün. 
+C: anciana pero tenia conocimiento.
+
+nmlch-nfspA1_x_0062_nmlch_00: 
+M: A'lün' kimün nievuy ti 
+C: Tenía harta conocimiento pues
+
+nmlch-nfspA1_x_0063_nfsp_00: 
+M: May.
+C: Sí.
+
+M: Yamcheaymi, repetacheaymi  
+C: Respeta a la persona, respeta a la persona
+
+M: dapicheaymi akule che 
+C: tiene que atenderlo cuando llega la persona
+
+M: eymimi duam akuay che pi 
+C: con la confianza de usted llega la persona dice
+
+M: kutraninga pu kuñival 
+C: se enferman los huerfano (umilde desamparado)
+
+M: chuchimu rumenga koni 
+C: en cualquier parte si entra
+
+M: allkütunginga machi
+C: se escucha la machi 
+
+M: kümeke machi mongelkutranlu 
+C: machi bueno que ha sanado a los enfermo 
+
+M: vey adümkutranlu pepilkutranlu
+C: eso que entienda la enfermedad y que comprenda de la enfermedad
+
+M: kimkutranlu allkütungi nga machi 
+C:  que sepa de la enfermedad lo escuchan la machi
+
+M: allktungelmi küme machingen <Noise>
+C: si te escuchan como un buen machi 
+
+M: kom pülenga utungepaymi 
+C: si llega todos lo vienen a ver
+
+M: veychi che miawlu mongen nga ñi kintupen
+C: esa persona que ande trayendo la vida si que lo ha buscado
+
+M: re nga akulay re nga vürenen piawlay 
+C: solo no llego solo no dice por fabor
+
+M: plataengunga miawi dapiavimi ngünayafimi 
+C: anda con plata hay que atenderlo tiene que solidarizarla
+
+M: Yamavimi repetavimi <Noise> 
+C: que tiene que respetarlo 
+
+M: anünelavimi witranelavimi wekun<Noise>
+C: tiene que estudiarlo y presentarlo afuera
+ 
+M: valilaynga kiñe kuchara mürke 
+C: no es vallioso una cucharad de arina 
+
+M: valilaynga kiñe vasu mürke 
+C: no vale un vaso de arina 
+
+M: kiñe pütokon mürke 
+C: una tomada de arina
+
+M: kiñe rali korü 
+C: un plato de comida 
+
+M: kiñe peaso mültrünga valilay. 
+C: un pedaso de catuto no vale.
+
+nmlch-nfspA1_x_0064_nfsp_00: 
+M: Kiñe rali kako <Noise>
+C: Un plato de mote
+
+M: vemngechinga dapicheaymi 
+C: así tiene que atender a la persona
+
+M: veymunga küme cheaymi <Noise> 
+C: por eso va salir adelante como persona
+
+M: pikevuynga nütram ñi ñukentuem
+C: decia en la converzación mi tia 
+
+M:  machivelam kidu
+C: cómo era machi ella 
+
+M: küme küdawelmi <Noise> dionga 
+C: si lo trabaja bien nuestro Dios
+
+M: kelluaymu dionga 
+C: te vá ayudar Dios
+
+M: elelmu dionga rumel nga kelluaymu pi 
+C: te dejo Dios para que ayude siempre dijo
+
+M: <Noise> vemngechi nütram
+C: así en la converzación 
+
+M: itrokom piwken tukunen
+C: todos lo tengo en el corazón 
+ 
+M: itrokom longkon tukuneviñ
+C: todo lo tengo en la caveza
+
+M: kimlavun papeltun 
+C: no se estudiar
+
+M: welu veychi kimün nien 
+C: pero ése saber lo tengo
+
+M: longkomu piwkemu  ngullikelaviñ.
+C: en la cabeza en el corazon no lo olvido.
+
+nmlch-nfspA1_x_0065_nmlch_00: 
+M: Eluymu Ngünechen feytichi newen 
+C: Te dío Ngünechen esa fuerza
+
+M: tami kimal femngechi ta küpalfimi. 
+C: para que lo sepa si lo trae así.
+
+nmlch-nfspA1_x_0066_nfsp_00: 
+M: Vey llemay, vey vey wingka kimü llemay
+C: Así es, así así por el conocimiento del huinca sí
+ 
+M: kimlan kim papeltun 
+C: no sé pero se estudiar
+
+M: konkavun ekuelamew adümlan <Noise> 
+C: había entrado en la escuela y no comprendí
+
+M: vemngechi vey veychi dungu penien
+C: así eso esa novedad estoy biendo
+
+M:  <Noise> kimviñ longkon tukuviñ rakiduammu 
+C: lo sé y lo grabe en la cabeza en el pensamiento
+
+M: kme dunguam weda dunguno  
+C: es una buena ideas no es mala ideas
+
+M: weda dungumu rume konki
+C: en cosa mala entra mucho
+
+M:  pu kuñival rakiduamki
+C: los umilde piensan 
+
+M: veyno Dio nga ñi dungu
+C: ése no la ideas de nuestro Dios 
+ 
+M: Dio nga ñi nütram 
+C: la enfermedad de nuestro Dios
+
+M: kidunga ñi kimün 
+C: su propio conocimiento
+
+M: Dio nga ñi kimün rakiduam weñankün
+C: el conocimiento de nuestro Dios pensamiento y tristeza
+
+M: vey nga miawi tüfachi mapumu
+C: eso si anda en esta tierra 
+ 
+M: dionga witrayakevuy 
+C: Dios si andaba caminando 
+
+M: chumngechi iñchiñ witrayawiñ 
+C: como nosotros andamos caminandos
+
+M: vaw <Noise> inocentewunmu 
+C: por aqui por ser inocente
+
+M: kimwenunmunga nga ñi pu wünenke
+C: por no saber los mayores pues
+
+M:  <SPA>familia püñeñ fotüm ñawe 
+C: criatura de la familia hijo y hija 
+
+M: antikuo cheyem
+C: persona Antigua.
+
+nmlch-nfspA1_x_0067_nfsp_00: 
+M: Veymu kiduy wenu mapungetuy 
+C: Por eso solo se encuentra en el cielo 
+
+M: veymu inchiñ <Noise> kiduvelewetuiñ 
+C: por eso nosotros ya no estamos solo
+
+M: vanten welu müli duamtunengeal 
+C: en este momento pero hay como para hacer necesitado
+
+M: müli ñi wüneyenengeal rakiduam 
+C: se debe llevar primero lo que se piensa
+
+M: yengeal nütram yengeal
+C: de llevar la converzación de llevar 
+
+M: <Noise> veymu kidu ka kelluli 
+C: por eso ella también esta pagando
+
+M: vemngechi vey nütramkakevuy ñuke 
+C: así pues eso converzaba mi mamá
+
+M: -/ña/- ñi ñukentuem 
+C: la que fue mi tía 
+
+M: nütramkalmakevenu ñi ñuke<Noise> 
+C: que lo converzaba a mi mamá
+
+M: vemngechi kimfiñ tfachi dungu 
+C: así lo llegue a saber esta ideas
+
+M: chuchilekevel pütakecheyem 
+C: como estaban los ancianos
+
+M: müli ngillatun 
+C: hay Ngillatun
+
+M: wewpiwi werkütuwi 
+C: darce grande oratoría y enviearse ideas
+
+M: nütramkay utruli ñi muday
+C: conversa y vota el mudar
+
+M: pütrey ñi kulliñ 
+C: quema su animal
+
+M: kiñe kulliñnga pütrelan
+C: solo no queme un animal 
+
+M: werwannga iainga ñi chaw 
+C: el vapor vá a comer mi padre
+
+M: uyechi rangiñ wenungetuy 
+C: alla en le medio del alto 
+
+M: kidu nga ñi dum nga 
+C: por fabor de él 
+
+M:  nien kulliñ pi nien nga
+C: tengo mi animale esta diciendo
+
+M: ina rumen nien nga tukun pi. 
+C: que seguia mi siembra dice.
+
+nmlch-nfspA1_x_0068_nfsp_00: 
+M: Nien nga ketran 
+C: Tengo semilla (alimento)
+
+M: kidunga ñi eletew
+C: que él me dio
+
+M: mudaynga dewmay wa muday 
+C: para hacer muday lo hace de choclo
+
+M: rayilngi <Noise> 
+C: lo hacen florecer 
+
+M: ngollinnginga wa muday
+C: es para enborracharse el muday de choclo  
+
+M: feynga püfkeñ püramngi 
+C: eso lo aspergio el agua
+
+M: wente rewe rewemu follemu <Noise> 
+C: encima del rehue en el rehue y canelo
+
+M: vey chaw dionga ñi konatunga ñi newen 
+C: eso para que Padre Dios le entre la fuerza 
+
+M: yekentu mudayalu pikevuynga ñukentuem
+C: se relaciona con el muday decia la que fue mi tia
+
+M:  nütram vemngechinga 
+C: converzación es así
+
+M: werwantunginga Dio pi 
+C: para que lo aspiran a Dios dice
+
+M: pütrülngi nga kulliñ pi
+C: le dan harto animale dice
+
+M: feymnga püray puwinga
+C: esos sube y llega 
+
+M: werwan ilonga wenu mapu pi <Noise> 
+C: el vapor de la carne en el cielo dice
+
+M: pikevuy ñi dungu 
+C: decia mi palabra
+
+M: pikevuy ñi nütram 
+C: decía mi converzación 
+
+M: we wünmu witrayaymi pi 
+C: en la amanecida tiene que levantar dice 
+
+M: petu ñi pürapanon antü pi
+C: cuando no se asome todavía el sol dice
+
+M: <Noise> vey küme lingaf rupale wün
+C: eso que se aclare bien la mañana
+
+M: veymunga pelotuy 
+C: ahí lo diagnostica
+
+M: adkintuy ñi pu püñeñnga Dio pi <Cough>.  
+C: mira su hijos nuestro Dios dice.
+
+nmlch-nfspA1_x_0069_nfsp_00: 
+M: Veymu nga kelluy <Noise> 
+C: Ahí se ayudan 
+
+M: veyemürkenga ñi püñeñ
+C: que es Nuevo mi criatura
+
+M: witratuwünkülenew pi Dionga
+C: me tiene en mira en la conversación dice Dios
+
+M: witratuwün mekeki Dio nga
+C:
+
+M: tranale umakelay veymu
+C: botado no tiene que llorar por eso 
+
+M: vemkelayaymün 
+C: no tienen que hacer
+
+M: weda chengeavuymün 
+C: puede ser persona sin nada
+
+M: a'lü pürapan antü witralmün <Noise> 
+C: si levantan cuando el sol asomado harto
+
+M: vey niekelay <SPA>suerte 
+C: eso no tienen suerte
+
+M: pünontukueyu itrofill che
+C: lo pisa toda la persona
+
+M:  rupay kulliñ 
+C: pasan los animales 
+
+M: itrofill püñeñ pünontukueyu 
+C: cualquier hijos lo llega a pisar
+
+M: patunga ñi vemnon
+C: todavía cuando no se haga
+
+M:  witra tripakeaymün ipurukay che 
+C: hay que asomarse y barrer la casa
+
+M: küme ipülnginga 
+C: bien barrido 
+
+M: lila küme ipülnginga patio ruka 
+C: le patio hay que barrerlo bien de la casa
+
+M: veymu nga adkintupay antiguen kude 
+C: en eso llega mirar viejita Antigua 
+
+M: <Noise> veyemürke nga lifküli pi 
+C: eso si que esta limpio dice
+
+M: veymunga ni <SPA>suerte 
+C: en eso tiene suerte
+
+M: veynmunga müli mülinga ketran 
+C: ahí mismo existe el sembrado
+
+
+M: mülinga<Noise>  kulliñ 
+C: hay animales
+
+M: mülinga <SPA>familia.
+C: hay familia.
+
+nmlch-nfspA1_x_0070_nfsp_00: 
+M: Kümeke rakiduamngelu püñeñ müli
+C: Hay hijos que tienen buenos pensamiento 
+
+M: <Noise> kümeke kimünngelu 
+C: lo que tienen buenas sabiduria
+
+M: pikevuy ñukentuem nütramkakevuy
+C: decian mi tia conversaba
+
+M: <Noise> ngelaynga veychi dungu 
+C: no existia ese asunto
+
+M: kom chenga pünontukueyu 
+C: toda la persona lo pizotea
+
+M: veynga weda chengealu pi 
+C: eso vá ser persona pobre dice
+
+M: nienoalu tati valinoalu pi 
+C: que no vá a tener pues y que vá valer dice
+
+M: itrofill chenga ayentuatew  
+C: todad la persona se vá reir de él o ellas
+
+M: itrofill chenga ñi valintunoatew pi
+C: todas las personas no lo vá aser valer dice
+
+M: vemlu a'lü pürapan antü witralu 
+C: eso que se levantan cuando el sol este bien alto 
+
+M: weda chengekalu tati
+C: que va ser persona pobre pues
+
+M:  illamkawmangealu pi 
+C: se le mirara de menos dice.
+
+M: <Noise> kafkütukangealu pi 
+C: si se le contara cosas secreta dice
+
+M: mülele nga trawün mülele nga dungu
+C: si es que ahiga encuentro y problema 
+
+M: wecha nga wecha che miawi kay nga pingi 
+C: malo si persona mala anda si dicen
+
+M: <SPA>porque nielaynga kimün 
+C: porque no tienen conocimiento 
+
+M: nielaynga ina rume<Noise> 
+C: porque no tiene el principio
+
+M: vemlayaymün felelay nga dungu 
+C: no lo hicieran no es así la ideas
+
+M: puliwen witralmün 
+C: si levantan temprano 
+
+M: ipükal ilay ipa ka ikaymü nga <SPA>patio 
+C: 
+
+M: veymu. 
+C: por eso.
+
+nmlch-nfspA1_x_0071_nfsp_00: 
+M: Trüfürtulay  nga ñi ange antiwen kude
+C: No se empolvo la cara la viejita del sol
+
+M: antiwen fücha 
+C: él viejito del sol
+
+M: pürapaki rupaki nga mapu
+C: sube y pasa en la tierra
+M: rupaki nga tüfinga felelay
+C: pasa eso entonces no es así
+
+M: rupay nga antü
+C: pasa el solo
+
+M: travia trekayaw ngavültu mapuyawi 
+C: en la noche camina anda inspeccionando la tierra 
+
+M: ngavültuy nga ñi lelvün 
+C: inspecciona el campo
+M: ngavültuy nga ñi mapu 
+C: inspecciona la tierra
+
+M: ngavültu rupaynga ñi lafken ko  
+C: lo inspecciona el mar 
+
+M: antiwen kude 
+C: viejita del sol
+
+M: vey nga kümelay nga
+C: eso sí no es bueno 
+
+M:  ipüntukuluwunmew 
+C: envolverse en algo
+
+M: pürale nga trüfürveymunga 
+C: si sube el polvo ahí mismo
+
+M: trawmayavuy antiguen kude
+C: puede perder la vista la viejita del sol
+
+M: pikevuy ñi nütran ñi ñukentuem. 
+C: decia en la conversación mi tía.
+
+nmlch-nfspA1_x_0072_nmlch_00:
+M:  Feyti ngülamfel tüfi 
+C: Eso era un consejo pues
+
+nmlch-nfspA1_x_0073_nfsp_00: 
+M: Feylle may ngülam llemay 
+C: Eso sí consejo era
+
+M: wül kimünün llemay.
+C: dar la experiencias pues.
+
+nmlch-nfspA1_x_0074_nmlch_00: 
+M: Wül kimünün. 
+C: Dar la experiencias.
+
+nmlch-nfspA1_x_0075_nfsp_00: 
+M: May. 
+C: Sí.
+
+M: Felekevel felen ta dungu 
+C: Como era como es la novedad
+
+M: Dio tañi dungu ta tüfi
+C: cosas de Dios esos
+
+M: felen ta dungu pikevuy. 
+C: como esta la cosas dice.
+
+nmlch-nfspA1_x_0076_nmlch_00: 
+M: Kidu tañi kimünmu 
+C: En su propio conocimiento 
+
+M: femuechi ta elungefey ta femuechi kimün
+C: así le dieron un conocimiento así
+ 
+M: femuechi elufi.
+C: así le dio.
+
+nmlch-nfspA1_x_0077_nfsp_00:
+M: May. 
+C: Sí.
+
+M: Vemngechi elungeyu 
+C: Así nos dieron 
+
+M: Dio ta elueyu vemngechi dungu 
+C: Dios le entrego una ideas así
+
+M: vemngechi kimün 
+C: una sabiduria así
+
+M: veymu ta kidu eli tañi machi 
+C: así solo dejo la machi 
+
+M: dewma machi
+C:  machi especializada
+
+M: vemngechi kimün ta wülkevuy 
+C: así una sabiduria que entregaba
+
+M: ta machimu. 
+C: en la machi.
+
+nmlch-nfspA1_x_0078_nmlch_00: 
+M: Wülpukevuy femuechi ina ina amuy. 
+C: Lo entregaba así de seguido seguido iban.
+
+nmlch-nfspA1_x_0079_nfsp_00: 
+M: May. 
+C: Sí.
+
+M: Vemngechi amuli tañi kimün 
+C: así iba la sabiduría 
+
+M: <SPA>porque kiduam kuyfimu 
+C: porque el mismo ante 
+
+M: machilngel kidu 
+C: lo hicieron machi sola 
+
+M: küme dewman machivel
+C: que era una machi bien maestriada
+
+M: vemngechi elu kimünngi 
+C: así le dieron el poder del conocimiento 
+
+M: vey ka dewma machi vey
+C: eso también que era una machi maestriada
+
+M:  ka vemngehi wülkevuy ñi kimün. 
+C: también así entregaba la sabiduría. 
+
+nmlch-nfspA1_x_0080_nmlch_00: 
+M: Ina rumen.
+C: Por seguir. 
+nmlch-nfspA1_x_0081_nfsp_00: 
+M: Ina rumen kom chuchilekevel 
+C: Por seguir como era todo 
+
+M: chumngechi ñi amuleal 
+C: como tenía que seguir
+
+M: chumngechi ñi amulerpual 
+C: como tenía que seguir andando
+
+M: chumngechi ñi küdawal 
+C: como tenía que trabajar
+
+M: mongen niele veleymün pikevuy ñuketuem
+C: si es que tenga vida así estoy decía mi tia
+
+M: vey inche 
+C: eso yo 
+
+M: vey kom gravantukulen veychi dungu
+C: eso lo grababa ese asunto 
+
+M: pichiche tati 
+C: es un niñita pues
+
+M: vente <SPA>tenía 
+C: tanto tenía 
+
+M <SPA>como mari epu tripantu mari meli
+C: como diez años o catorce años 
+
+M: chumngechi amuli ñi tremkülen 
+C: como iba el crecimiento 
+
+M: ka vemnechi amuli ñi kimün 
+C: también así la sabiduría
+
+M: kom piwken tukuneviñ <Noise> veychi dungu
+C: todo lo tengo en el corazón esa ideas
+ 
+M: kom inarumeneviñ<Noise> veychi dungu
+C: todo lo segui ése asunto 
+
+nmlch-nfspA1_x_0082_nmlch_00: 
+M: Llowfimi veychi kimün 
+C: Lo recibio esa sabiduría
+
+M: eymi ta femuechi impolfimi. 
+C: usted asi lo envolvio.
+
+nmlch-nfspA1_x_0083_nfsp_00: 
+M: May. 
+C: Sí.
+
+M: Welu inche tañi veypingenovel ka
+C: Pero no es lo que me dijeron ami también
+
+M: inche may tañi<SPA>mama
+C: es que mi mamá 
+
+M:  tañi vemuechi nütramkalmangken.
+C: así me lo converzaban. 
+
+nmlch-nfspA1_x_0084_nmlch_00:
+M:  Felellefuy may chi. 
+C: Era así si.
+
+nmlch-nfspA1_x_0085_nfsp_00: 
+M: Welu inche mülelu kay ta ñukemu 
+C: Pero estoy con la mamá
+
+M: ka inachamanieviñ 
+C: también lo recibia  
+
+M: veychi kimün allkülen.
+C: esa sabiduría estoy escuchando.
+
+nmlch-nfspA1_x_0086_nmlch_00: 
+M: Allküfimi chi kimün.   
+C: lo abra escuchado el conocimiento.
+nmlch-nfspA1_x_0087_nfsp_00:
+M:  Allkülen allkülekevun pu. 
+C: Escucho y lo escuchaba pues.
+
+nmlch-nfspA1_x_0088_nmlch_00:
+M: Feyti lamuen 
+C: Eso hermana
+
+M: feyta inche ta <uh> 
+C: éste yo entonces
+
+M: eymi ta femuechi müna kümeke kimün
+C: usted pues así muy buene la sabiduría 
+
+M:  ta kimparkimi tami mongenmew
+C: que llego ha conocer en tu vida
+
+M: fey <Noise> fewla tüfi petu, petu ta ñamtuy
+C: eso ahora si que, que esta perdiendo
+
+M: rüf ta petu <Noise> weñanküngetuy 
+C: de verdad que esta dando tristeza
+
+M: ta mongenmew <Noise> 
+C: en la vida
+
+M: wekeche tüfa kimwetulay 
+C: la juventud ahora ya no lo sabe
+
+M: ta <Noise> femuechi faliken kimün 
+C: que así valía la sabiduría
+
+M: femuechi tañi ngulam allktuwetulay 
+C: así mi consejo ya no lo escucha
+
+M: ka ngelay ini tañi piatew tüfi
+C: también no hay quien que le diga eso 
+
+M: rüf weñanküngetuyürke.
+C: es cómo que da tristeza. 
+nmlch-nfspA1_x_0089_nfsp_00: 
+M: Vemün llemay lamngen 
+C: Lo hice pues hermana
+
+M: vemi afluam pütakecheyem 
+C: si terminaron los ancianos
+
+M: kuyfikecheyem aftuy 
+C: los ancianos antiguo se acabo
+
+M: ta kimün ka püllüngetuy 
+C: la sabiduría esta en otro espiritu 
+
+M: mapungetuy pünontukungetuy 
+C: se convirtio en tierra que fue pizotiado
+
+M: ta ptakecheyem tañi kimün
+C: es la sabiduria de los ancianos
+
+M:  antikuo cheyem aflu 
+C: persona Antigua se termino 
+
+M: chumngechi aflu
+C: como se termino 
+
+M:  kiduengün ka femngechi amuy
+C: ellos mismos también van así
+
+M: afi kimün mapungetuy reke kimün 
+C: se acabo la sabiduría como que fue de tierra
+
+M: ngelay wekeche 
+C: no hay jovenes
+
+M: müli re wingka kimünngingün 
+C: existen pero son de sabiduría huinca
+
+M: re chilkatuluengünam <Noise>
+C: solo estudiaron 
+
+M: re papelmu nietuy kimünengün
+C: solo en la hoja tienen la sabiduría
+
+M: kimwetulay tüvachi mapu kimün pu
+C: ya no lo saben estos conocimiento de tierra pues
+
+M:  vemu veyta re ke ta pensangetuy
+C: por eso este solo se pienza
+
+M:  <Noise> taiñ mapuchengen 
+C: como mapuche
+
+M: <SPA>porque ngewetulay kimün
+C: porque ya no exiten conocimiento 
+
+M: <Noise> welu Dio ütrüf nielaymu 
+C: pero Dios no lo despacha 
+
+M: Dio ta chuchilepe rume pilelay 
+C: Dios no queire en cualquier parte
+
+M: kuyfimu antikuomu 
+C: en lo antepasado en la antiguedad
+
+M: apümlu nga ñi mapu Dio veypi <Noise>..
+C: termino la tierra Dios dijo..
+
+ nmlch-nfspA1_x_0090_nfsp_00: 
+M: Inche anta chum kimavun 
+C: Yo como lo sabre
+
+M: ta veychi dungu lamngen
+C: esos asuntos hermano
+
+M: inche may ta machingevel tañi nuke
+C: yo si que mi mama era machi
+
+M: kimviñ veychi dungu 
+C: lo sé ese asunto
+
+M: kidu tañi püllü tañi ñuke 
+C: su propio espiritu de mi madre 
+
+M: tañi machiletew chi püllü 
+C: que lo hizo ser machi su espiritu
+
+M: veychi püllü veyta nütramkalenew
+C: ese espiritu si que me hizo converzar
+
+M: inche<Noise> may ta Chaw Dios tañi kona
+C: yo soy hijo de Padre Dios 
+
+M: Chaw Dios tañi püñeñ ta inche 
+C: hija de Padre Dios soy yo 
+
+M: vey tañi vochum ta inche<Noise> 
+C: soy el hijo de él 
+
+M: inche ta fachi mapu ta witrayawkelan
+C: yo en esta tierra no aperesco
+
+M:  inche tüfachi mapumu ta trekakelan 
+C: yo en esta tierra no camino  
+
+M: <Noise> inche may ta üyechi rangiñ wenu ta mülen
+C: yo si estoy alla en el medio del cielo 
+
+M: Chaw Dios tañi wünen kona ta inche 
+C: soy el hijo mayor de Padre Dios
+
+M: veymu may ta kuyvi nga 
+C: por si que ante que se
+
+M: inocentewlu nga ñi püñeñ 
+C: convirtio inocente mi hijos
+
+M: kimwenolu engün
+C: no sabían más 
+
+M: feymu nga wenu mapungetuan
+C: por eso voy a estar en el cielo
+
+M: kiñe ina wüla fantenmu
+C: por desgracia en este momento 
+
+M: falintuwetulanu ñi püñeñ pin 
+C: ya no me hacen valer mi hijos
+
+M: feymu nga wenu mapungetun 
+C: por eso soy del cielo
+
+M: welu elu nga ñi rey mapuem<Noise> 
+C: pero dejo mi rey de la tierra
+
+nmlch-nfspA1_x_0091_nfsp_00: 
+M: Elvun nga ñi peñi 
+C: Había dejado mi hermano 
+
+M: elvun nga ñi malle
+C: había dejado mi tío 
+
+M: mülealu nga mapumew
+C: que tiene estar en la tierra   
+
+M: mülealu nga tüfachi <Noise> mulu mapumew
+C: que tenía que estar en este tierra 
+
+M: nialu dapichelealu 
+C: tenía que tener tenia que atender a la persona  
+
+M: ngünayechelealu
+C: que tenia solidarisar a la persona
+ 
+M: elvun nga ñi peñi rey mapuem
+C: que había dejado hermano que era rey de la tierra
+
+M: akunmu nga pu <SPA>España 
+C: al llegar los españoles 
+
+M: akuy nga pu <SPA>colono 
+C: llegaron los colono
+
+M: vey nga kawtivañmapanu nga ñi pu peñi
+C: ellos me cautivaron mis hermanos 
+
+M: ütrirkapay katrün entu longkoñmanew 
+C: llego ha envidiar llegaron ha cortarle la cabeza
+
+M: nienmu nga ñi <SPA>corona <SPA>de <SPA>oro 
+C: la tener la corona de oro
+
+M: kayñetuñmapanunga 
+C: me lo llegaron ha envidiar
+
+M: pu <SPA>España pu <SPA> colono
+C: los españoles los colonos
+
+M: feymu <Noise> vantenmu 
+C: por eso en este momento
+
+M: weda chengetuy nga ñi <Noise> mapu
+C: que se convirtio en mal mi tierra 
+
+M: nga ñi lelvun faliwetulay re kurangetuy
+C: mi campo ya no vale solo esta para enfermarse
+
+M: ngewetulaynga <SPA>plata 
+C: ya no hay plata
+
+M: ngewetulay nga <SPA>oro
+C: ya no hay oro 
+
+M: kuyvimu wente mapu nga müli ñi <SPA>oro.
+C: ante ensima la tierra había oro.
+
+nmlch-nfspA1_x_0092_nfsp_00: 
+M: Wente mapu nga müli ñi <SPA>plata
+C: encima la tierra había plata
+
+M: chumlinga kura velevuynga ñi <SPA>plata 
+C: como estan la piedra así estaba mi plata
+
+M: velevuy nga ñi <SPA>oro 
+C: así estaba mi oro 
+
+M: vantenmu finkanunmu ñi pu antikuo cheyem 
+C: en este momento al no aumentar mi persona antiguo
+
+M: finkala ynga ñi rey mapuengün 
+C: no aumento mi rey de la tierra
+
+M: <Noise> finkalaynga ñi eluatewnga yagel 
+C: no aumento qien me daba el alimento 
+
+M: inkalaynga ñi eluatew <SPA>plata
+C: no lo defendio quien le dio la plata
+
+M: feymu kawtivañmagnepan ñi peñi 
+C: por eso me cautivaron mi hermano 
+
+M: katrünentu lonkoñmapanunga 
+C: me lo cortaron la cabeza
+
+M: pu <SPA>España 
+C: los Españoles 
+
+M: fantenmu valiwetulaynga ñi pu mapuche
+C: ahora ya no valen mi mapuches 
+
+M: re ke kimwetulaviñ<Noise>
+C: solo ya no lo sé
+
+M:  kom wingkawtuyngün 
+C: todo se puesto huinca 
+
+M: inocentewtuyngün fantenmu 
+C: son inocente en este momento 
+
+M: akutuy nga ñi peñi 
+C: llego mi hermano 
+M: tüfachi wente mapungetuy
+C: que esta encima la tierra 
+
+M: wenu mapungepatuy <Noise> 
+C: que se encuentra en el cielo 
+
+M: veymu vantenmu 
+C: por eso en este momento 
+
+M: nütramkamkewtuy nga ñi peñiwenngen 
+C: se converzan mis hermanos 
+
+M: nga mallewenngen.
+C: y mis tio.
+
+nmlch-nfspA1_x_0093_nfsp_00:
+M: Müli nga weku müli nga ñukentu
+C: Estan mi tío paterno estan mi tia
+
+M:  müli nga palu 
+C: estan mi tía paterna 
+
+M: chumley nga epu nag mapu 
+C: como esta la dos tierra de abajo
+
+M: ka velinga tüvachi mapumew
+C: tambien esta así en esta tierra 
+
+M: wenu mapu vantenmu nütramkameketuy
+C: nuestro señor del cielo en este momento esta conversando 
+ 
+M: weñanküpatuy nga ñi peñi 
+C: llego a ponerse trizte mi hermano 
+
+M: rey mapuem 
+C: que es rey de la tierra 
+
+M: küla tripantu nga ngaweltu mapupatun
+C: tres años si vine a recorrer la tierra
+
+M:  küla tripantu nga kintutun nga ñi pu mapuche
+C: tres años busque mi mapuche
+
+M:  kimwetulaviñ adelwetulaviñ dungumew 
+C: no lo conocia no lo distinguia en la conversación  
+
+M: adelwetulaviñ nga ñi trüküluwunmew 
+C: no lo distinguia en la vestimenta
+
+M: adelwetulaviñ nga ñi admew 
+C: no lo conocia en el caracter
+
+M: neyenmu kimwetulaviñ engün
+C: por la respiración ya no lo conocí
+
+M: kom nga wingkangetuyngün 
+C: todo sean puesto huinca
+
+M: kom nga ka tripachengetuyngün 
+C: todo son persona de otra parte 
+
+M: chem dungu mamafel 
+C: con que asunto mama si 
+
+M: kintuan ñi pu püñeñ peñi 
+C: voy a buscar mi hijos hermano 
+
+M: chuchi nütrammuama
+C: con cual converzación 
+
+M: kintuanñi pu nag mapuche 
+C: voy a buscar mi persona de abajo 
+
+M: müle engün ñi mülenom.
+C: si es que hubiese o no.
+
+nmlch-nfspA1_x_0094_nfsp_00:
+M: Kintuan nga ñi pu nag 
+C: Voy a buscar mi descendientes
+
+M: kimnonmu nga ñi pu püñeñ 
+C: al no saber mi hijos
+
+M: müñakünuenu engün <Noise> 
+C: me dejaron confundido
+
+M: pipingey nga Dios 
+C: dice nuestro Dios
+
+M: veymu vantenmu müli nga dungu
+C: por eso en este momento hay asuntos
+
+M: müli nga nütram mül inga neyen
+C: hay converzacion hay temblor
+
+M: inichi kay chaw piavi 
+C: quien sería que lo dirá papá
+
+M: ini chikaynga ñuke piay -/in/-
+C: quien sería que le diría mamá
+
+M: chew chikay püra kintuay 
+C: dónde será que vá mirar arriba
+
+M: chewchi kay nga lukutuay 
+C: dónde sera que se vá arrodillarse
+
+M: ini chikay nga chaw piay
+C: quien será que lo dirá papá
+
+M: ini chikay fürenen
+C: quien será que le pedirá fabor
+
+M:  <Noise> ütrüfkeveli chaw pipiavi
+C: que no me abandone Padre lo dirá 
+
+M: ini inimu chikay puay ñi dungu 
+C: con quien será que vá llegar con el asunto 
+
+M: <Noise> pipimngey nga ñi nütramkavun nga 
+C: dicen en la conversación 
+
+M: pu longko pu peñiwen pu ülmen 
+C: los lonko los hermano los asendado
+
+M: üyechi rangiñ wenu wewpitumekewi 
+C: alla en el medio del cielo lo dice
+
+M: würkütumekewi kansalkakeweluleayiñ<Noise>
+C: lo iba a mandar .....................
+
+M:  kansay nga ñi kawellu pilayiñ.
+C: se canso mi caballos no decimos.
+
+mlch-nfspA1_x_0095_nfsp_00:  
+M: Mandantukungeyiñ nga pu longkomew 
+C: Que somos mandados atravéz del lonko
+
+M: werküyengeiñ miawi nga ñi wewpiñ<Noise>
+C: nos mandaban y anda mi consejero
+
+M: miawi nga entudungun nga ñi chaw
+C: anda la argumentación de mi Padre
+
+M:  nga ñi ngunenetew 
+C: él que me maneja 
+
+M: feymu nga vantenmu  <Noise> 
+C: por eso en este momento 
+
+M: tüvaachi mapu nga nentu nütrapaken 
+C: en esta tierra doy mi explicación 
+
+M: nentu kimün paken
+C: vengo a sacar mi sabiduría 
+
+M: Dio nga ñi pinmu amun 
+C: por querer nuestro Dios fui
+
+M: chaw Dios ngamün elunetew neyen mongen 
+C: Padre Dios quien lo esta dando respiración y vida 
+
+M: <Noise> feymu nga vantenmu 
+C: por en este momento 
+
+M: nütramkapaken tüvachi mapumew
+C: vengo a converzar en esta tierra
+
+M: tüvachi lelvünmu
+C: en este campo 
+
+M: inche ta witra rupakelan
+C: yo no paso en persona 
+ 
+M: eymi ta pelagen 
+C: tu no me ha visto
+
+M: welu inche penieyu 
+C: pero yo lo estoy viendo
+
+M: rume kintuneyu 
+C: te tengo en mi vista 
+
+M: pelotunieyu chem pilen mi rakiduam 
+C: lo diagnostico lo que dice en el pensamiento 
+
+M: chem pilen mi dungu pelotunieyu
+C: lo dices en le asunto te diagnostico
+
+M: <Noise> pipiepakevenew may ta püllü
+C: me llega a decir el espiritu
+ 
+M: tañi ñuke lamngen 
+C: mi mama hermano 
+
+M: veymu may ta kimviñ tüvachi dungu.
+C: por eso lo sé ése asunto.
+
+ nmlch-nfspA1_x_0096_nfsp_00:
+M: Inche ta nielan ta <Noise> perimontun 
+C: Yo no lo tengo el feneomeno natural 
+
+M: inche ta nielan veychi kimün 
+C: yo no tengo ése conocimiento
+
+M: veychi newen re tañi püllü
+C: esa fuerzas solo mi espiritu
+
+M: tañi ñuke vey may ta kimelenew 
+C: mi mamá me lo hizo saber
+
+M: lamngen veychi dungu ta kimviñ
+C: hermano ese asunto lo conocí
+
+M: inche tañi <Noise> dunguno tati 
+C: no es mi asuntos pues 
+
+M: welu allküviñ nütramkalngen 
+C: pero lo escuche me lo converzaron 
+
+M: kidu inche ka che tañi nütramno tati
+C: solo yo no es converzación de otra personas pues 
+
+M: kidu inche nütramkalkenu 
+C: solo ami me lo converzo 
+
+M: vemngechi ta püllü 
+C: así el espiritu 
+
+M: tañi <SPA>mamá kompa püllüem <Noise> 
+C: mi mamá le entro el espiritu 
+
+M: veymu ta kimviñ tüvachi dungu 
+C: por eso la conocí éste asunto 
+
+M: veymu ta nieviñ piwkemew longkomew
+C: por eso lo tengo en el corazón y en la cabeza 
+
+M: nguyikelaviñ chumte püuule tañi mongen
+C: no me ha olvidado asta cuanto llege mi vida 
+ M: nguyin nentuñmalaviñ tañi dungu 
+C: no le olvide mi asuntos
+ 
+M: tañi <SPA>mamá lamngen <Noise> 
+C: mi mamá hermano
+
+M: veymu ta veypi ta Dio <Noise>
+C: por eso entonces dijo Dios 
+
+M:  incheam ta chum kimavulu püllü 
+C: yo cómo lo puedo saber el espiritu
+
+M: tañi ñuke veypikevel.
+C: que mi mamá decia. 
+
+nmlch-nfspA1_x_0097_nfsp_00: 
+M: ka antü nga puule nga mediñ tripantu 
+C: Algun momento si llega mi años indicados
+
+M: puule nga ñi üytuel chi tripantu
+C: si llega mi años nombrado 
+
+M: apümü nga ñi mapu <Noise> 
+C: voy a terminar mi tierra 
+
+M: awungetuy nga ñi felen pu püñeñ
+C: que da tristeza como estan los hijos
+
+M: <Noise> re kongetuyngün
+C: solo estan convertido en agua 
+
+M: <oise> mapungetuyngün rangiñ nga 
+C: son tierra algunos
+
+M: wefküli kiñe lipang kiñe <Noise> n'amun' 
+C: se ve un brazos una pierna 
+
+M: rangiñ nga ñi ange
+C: la mitad de la cara
+
+M: üñüm nga wirf wirüf 
+C: los pajaros picoteando picoteando 
+
+M: lleñmatuenu ñi püñeñ
+C: me lo llevaron mi hijos
+
+M: inche nga <Noise> inche nga ñi voro nielu
+C: mi, mi hueso que tenían 
+
+M:  inche nga ñi fün nielu 
+C: que mi carne tiene 
+
+M: ka antü nga apümali nga ñi mapu
+C: algun momento sio voy a terminar la tierra
+
+M: apümali nga ñi pu püñeñ<Noise>
+C: si terminare mi hijos 
+
+M: kambiatuale nga ñi pu püñeñ  
+C: si llegaran a cambiar mi hijos
+
+M: puule nga epu <SPA>mil <SPA>añu 
+C: si llega dos mil años 
+
+M: epu mil tripantu
+C: dos mil años
+
+M: veyta antü nga amuay nga ñi tripantu
+C: éste el sol va ir al años
+ 
+M: <Noise> pin nga veychi <Noise>
+C: dije esa vez
+
+M:  aflu nga ñi <Noise> nga ñi pucheyem cheyem 
+C: si cuando llego, llego a terminar mi gente 
+
+nmlch-nfspA1_x_0098_nfsp_00:
+M: Tañi mapu ta aflay kongetuy müten 
+C: Mi tierra no se termino se ve distinto nomas
+
+M: ta takutuy nga komew 
+C: que se tapo con el agua 
+
+M: takutuynga kullinmew  
+C: se tapo con los animales 
+
+M: welu nga ñi pu kuñival aftuy
+C: pero mi antepasado se termino
+
+M:  feymu kambiatule puule nga veychi tripantu 
+C: ahí si se cambia si llega ése años
+
+M: <Noise> rüf newentule nga mapu 
+C: si de verdad que tenga fuerza la tierra 
+
+M: rüf newenngelele aflayay nga mapu 
+C: verdad si sigue con fuerza no se terminara la tierra
+
+M: puule epu <SPA>mil tripantu
+C: si llega dos mil años
+
+M:  epu <SPA>mil <SPA>y <SPA>
+C: dos mil y 
+
+M: tanto mu <Noise> müleay ñi mapu piluam inche
+C: tanto vá ha ver mi tierra he dicho yo 
+
+M:  puule nga epu <SPA>mil 
+C: si llega el dos mil
+
+M: amualen nga tantu nga ñi tripantu <Noise>
+C: lo estyy abanzando mucho mi años 
+
+M: mületuay nga itrovill dungu 
+C: vá existir cualquier novedad
+
+M: awantale nga ñi mapu 
+C: si resiste mi tierra
+
+M: mületuay nga itrovill kimün 
+C: existira nuevamente todo tipo de sabiduría
+
+M: apümuñmangeyevuli nga ñi mapu 
+C: aunque me hayan terminado mi tierra  
+
+M: dungun nga ñi pu püñeñ 
+C: converse ha mis hijos 
+
+M: welu inche mongelen
+C: pero estoy vivo 
+
+M: inche nga pili avay 
+C: si yo quiero se terminara 
+
+M: inche nga pinoli avlayay 
+C: si yo no quiero no se terminara. 
+
+nmlch-nfspA1_x_0099_nfsp_00: 
+M: Inche nga ngünenen kom mapu
+C: Yo si manejo toda mi tierra 
+
+M:  kom lelvün kom wingka 
+C: todo mi campo todos los huinca 
+
+M: chuchi nga nielu kümeke rakiduam 
+C: alguien que tenga buenos pensamiento 
+
+M: wingka kom nga kimnen 
+C: hinca todos lo conosco
+
+M: inche nga ngünenieviñ
+C: yo si lo manejos 
+
+M:  inchenga elu mongen nieviñ 
+C: yo le estoy dando vida
+
+M: kidungünewün <Noise> mülen inche nga
+C: yo estoy por mi cuenta 
+ 
+M: ini rume ngünelanu piyevule 
+C: nadie me vá dominar si dice
+
+M: welu inche nielviñ mongen 
+C: pero yo le tengo vida
+
+M: velele nga ñi pu püñeñ 
+C: si esten así mi hijos
+
+M: feypile pipingepüday
+C: son dicho que dicen
+
+M: inche may ta nien kimün 
+C: yo si que tengo sabiduría 
+
+M: inche may ta nien ta ina rume 
+C: yo si que tengo principio
+
+M: feymu <Laugh> amuale nga 
+C: por eso si vá
+
+M: ñi <SPA>tantu tripantu
+C: mi tanto años
+
+M: kiñe ina wüla dew nga aflayay ñi pu püñeñ 
+C: y por ultimo ya no se vana acabar mi hijos
+
+M: <Noise> kiñe ina <%> nga wüñoltuan
+C: por ultimo voy a renacer 
+
+M: ñi antikuo dungu 
+C: mi asunto antiguo
+
+M: wüñoltuannga <Noise>  ñi antikuo nütram 
+C: voy a renecer mi converzación Antigua 
+
+M: antikuo <Noise> kimün 
+C: conocimiento antiguo 
+
+M: <Noise> wüñoltuaviñ.
+C: lo renacere.
+nmlch-nfspA1_x_0100_nfsp_00:
+M:  <Noise> Pipingey nga Chaw Dios nga tüfa 
+C: Los dices nuestro Padre Dios ahora
+
+M: pipimingey nga ñuke Dios 
+C: dices nuestra Madre Dios
+
+M: rey wenu Chaw 
+C: rey del cielo Padre 
+
+M: rey wenu kude
+C: rey del cielo Madre
+
+M:  pu<Noise>  longko 
+C: los lonko
+
+M: pu üyechi <Noise> 
+C: los de allá
+
+M: rangiñ wenu <Noise> pipingekevuy 
+C: del cielo los dicen
+
+M: püllünga ñi ñuke nga ñi elu kimünetew lamngen
+C: el espiritu que ami mamá le conocimiento hermano 
+
+M:  veymu nga puule nga amulele tüvichi tripantu 
+C: por eso si llega y si vá este años
+
+M: mületuay nga itrovill dungu 
+C: vá existir de todos tipos de asuntos  
+
+M: wingka kontuaynga ñi kimün
+C: que mi conocimiento existira en los huincas
+
+M:  <SPA>papel kontuay wiri kontuay
+C: vá en el papel escrito 
+
+M: inche nga ñi mapu kimün 
+C: mi sabiduría de la tierra 
+
+M: inche   nga ñi pu mapuche<Noise> 
+C: todo mi mapuches 
+
+M: inchenga ñi mapuche
+C: mi mapuche 
+
+M: vey may ta vali 
+C: eso si que valen 
+
+M: vey may ta ngen mapungi
+C: eso son dueño de la tierra 
+
+M: inche ñi neyen nielu 
+C: que tienen mi respiración
+
+M: inche ñi foro nielu 
+C:  que tienen mis huesos 
+
+M: inche nga ñi mollfüñ nielu 
+C: que tienen mi sangre 
+
+M: vey may ta <Noise> vali
+C: esos si que vale 
+
+M: vey may ta ni ta newen 
+C: esos si que tiene fuerzas
+
+M: chumngechi nga inche nien newen.
+C: así como yo tengo fuerzas.
+
+ nmlch-nfspA1_x_0101_nfsp_00: 
+M: Chumngechi nga kom mapu ngünenieviñ 
+C: Así como toda la tierra lo domino 
+
+M: vemngechi kom 
+C: así todos 
+
+M: vemngechi nga newengi nga
+C: así tienen fuerzas 
+
+M:  ñi pu nag mapuche Chile 
+C: mi mapuches de abajo chile 
+
+M: veynga ñi pu püñeñ 
+C: eso son mis hijos
+
+M: inche Chile dullin 
+C: yo elegi a chile 
+
+M: mapu nga nien  
+C: tengo mi tierra 
+
+M: kidu nga dullin nga ñi mapu
+C: solo elegi mi tierra
+
+M: ayitu nga ñi mapu nga 
+C: me gusto mi tierra 
+
+M: püñeñ nga ñi nial 
+C: para tener mis hijos
+
+M: nga ñi anüniavel engün 
+C: para tenerlo sentado todos 
+
+M: pipingey nga Chaw Dios
+C: dices él Padre Dios 
+
+M: amuale nga veychi tripantu
+C: si se vá ese años
+
+M: mületuay nga itrovill dungu 
+C: existira de todo tipo de novedad
+
+M: wingkamu kontuay nga ñi kimün
+C: en lo huinca entrara mi sabiduría 
+
+M:  wingkamu kontuay ñi nütram 
+C: en los huinca entrara mi converzación
+
+M: <SPA>papel kontuay wiri kontuay
+C: estara en hojas escritos
+
+M: itrovill dungu nga tripatuay  
+C: de todos tipo de novedad o asunto vá aparecer
+
+M: itrovill nütram nga mületuay 
+C: do todo tipo de converzación vá existir
+
+M: mapu kimün 
+C: sabiduría de la tierra
+
+M: veymu newentutule nga ñi pu mapuche
+C: en eso que tenga fuerza mi mapuche
+
+M:  mületuay nga awkan 
+C: existirá conflicto
+
+M: mületuaynga kuden
+C: renacera carrera
+
+M: wewtule engün. 
+C: si ganan ellos.
+
+nmlch-nfspA1_x_0102_nfsp_00:
+M: Feymu nga amutuay küme tripantu
+C: Por eso seguira el años bueno 
+
+M: chuchilekevuy nga kuyvi veletuayngün
+C: como estaban ante así estaran 
+
+M:  küme tripantu
+C: años bueno 
+
+M: kümeke dungu nga mületuay engün
+C: buenos asuntos tendran ellos
+
+M:  <Noise> küme dungunga mületuayengün
+C: bueano asuntos tendran ellos 
+
+M: mületuay may itrovill <SPA>seña 
+C: vá existir cualquier seña
+
+M: kambiatuan nga tripantu  
+C: cambiaré el años
+
+M: itrovill <SPA>señal nga müleay 
+C: cualquier seña vá haber 
+
+M: itrovill perimontun nga müleay 
+C: cualquier encuentro con fenomeno va existir
+
+M: <Noise> wingkamu ka tripa chemu 
+C: en los huinca en otras personas 
+
+M: wülanga ñi <SPA>seña +/wüña/+ 
+C: voy a dar mi seña
+
+M: wülannga ñi señal 
+C: voy a dar mi señal 
+
+M: müleay, perimontuaynga pu wingka
+C: vá haber, se vana encontrarse con el fenomeno natural los huinca
+
+M: ka tripa chemu 
+C: con la gente de otro origen 
+
+M: wültuan nga ñi perimontun
+C: voy a dar mi encuentro del fenomeno
+
+M: <Noise> chem pial engün 
+C: que iran a decir 
+
+M: fellentu dungual engün 
+C: haber si tomaran en cuenta el asunto 
+
+M: fellentu dungunoal engün 
+C: haber si tomaran en cuenta el asunto 
+
+M: welu <Noise> inche may  tañi mapu
+C: pero en mi tierra si 
+M: kimün ta amutuay<Noise> 
+C: vá ir el conocimiento o la sabiduria  
+
+M: kudelngetuan awkatuay ta pu mapuche 
+C: me vana hacer carrera vana jugar los mapuches 
+
+M: wewtuay tañi mapu 
+C: vana ganar su tierra 
+
+M: müntu maputuayngün <Noise>. 
+C: vana quitar su tierra. 
+
+nmlch-nfspA1_x_0103_nfsp_00:
+M: Kintuay tañi folil engün 
+C: Van a buscar su raices
+
+M: <Noise> antikuo dungu antikuo nütram 
+C: asuntos antiguo converzación antigua
+
+M: welu inche ñi <Noise> dungumu
+C: pero en mi asuntos 
+
+M: inche may ta feli tañi rakiduam 
+C: mi pensamiento si que esta así
+
+M: <Noise> veychi dungu<Noise> 
+C: ése asuntos 
+
+M: yekentulagen tañi deyamu 
+C:  ................donde mi herman
+
+M: ayitun tañi deya kuñival püñeñ 
+C: donde mi apreciada hermana hijo huerfano
+
+M: kuñival ñawe 
+C: hija huerfana 
+
+M: nielay ta kiñe chuchi rume 
+C: no hay absolutamente nadie
+
+M: ta kutrantu piwkealu ta kidumew
+C: para que se amargue el corazón en ella
+
+M: welu inche mongeñ penieviñ 
+C: pero yo le entrego mi solidaridad
+
+M: kuñivalngeyevule nga nag mapu 
+C: si son huerfanos de la tierra de abajo
+
+M: welu inche eluneviñ mongen 
+C: pero yo le estoy dando vida 
+
+M: elunieviñ kimün 
+C: le estoy dando sabiduría 
+
+M: veymu yekentudungulaven 
+C: por eso la verguensura 
+
+M: veychi dungu kimpe 
+C:  ése asunto que conosca
+
+M: veychi dungu allküpe 
+C: ése asunto que lo escuche
+
+M: piwkentukupe dungu 
+C: que el asunto lo lleve en el corazón 
+
+M: piwkentukupe nütram
+C: que la converzación lo lleve en el asunto 
+
+M: inche nga <Cough> ñi pensan 
+C: en mi pensamiento 
+
+M: inche nga <Noise> ñi rakiduam 
+C: en mi reflexión 
+
+M: chuchilen nga<Laugh>  ñi dungu 
+C: como estan el asunto 
+
+M: kimpe nga ñi ñawe <Noise> 
+C: que sepa mi hija 
+
+M: llowkimünmu wentruürke
+C: de recibir el conocimiento como hombre 
+
+M:  vochumürke<Laugh>.  
+C: como hijo.
+
+nmlch-nfspA1_x_0104_nfsp_00: 
+M: traviekeymünmu inaleymünmu dungu 
+C: Lo encuentra, lo sigue el asunto 
+
+M: inche nga ñi kona 
+C: mi joven
+
+M: eymün madayawkey nga nag mapumew 
+C: ustedes................en los mapuche de alla
+
+M: inche nga <Laugh> ñi pinmu
+C: en mi opinion
+
+M: welu llowpe veychi dungu 
+C: pero que lo reciba ése asunto 
+
+M: vemngechi nütramkalavimi <Laugh> 
+C: así que no lo converse
+
+M: eluavimi dungu kimpe ta dungu 
+C: tiene que darle asunto que sepa el asunto
+
+M: chem dungu chi 
+C: que asunto será
+
+M: chem nütram chi ta ni tañi ñuke piavuy 
+C: que conversación será que tiene mi mamá puede decir
+
+M: veypikilpe <Noise> kimpe ta dungu 
+C: que no lo diga sino que sepa el asunto
+
+M: kimpe ta nütram  
+C: que sepa la conversación
+
+M: veychi dungu 
+C: de ese asunto 
+
+M: yekentulan <Noise> pienu may ta Chaw Dios
+C: no lo tome en cuenta me dijo el Padre Dios
+
+M: pienu may ta ñuke Dios 
+C: me dijo la Madre Dios
+
+M: rey wenu chaw
+C: rey de arriba Padre 
+
+M: rey wenu <Noise> nuke
+C: rey de arriba Madre
+
+M: pikvenew may ta püllü 
+C: me decia el espiritu
+
+M: tañi tañi ñue lamngen 
+C: mi mi hermana
+
+M: veymu may ta kimviñ tüvachi dungu
+C: por eso si lo conocí este asunto 
+
+M: inche anta <Noise> chum ta kimavulu  
+C: yo como lo pdria saber 
+
+M: inche ta we trem <Noise> püñeñ wüla ta inche
+C: yo soy criatura recien crecida soy
+
+M:  <Noise> welu nien kimün
+C: pero tengo conocimiento
+
+M: welu nien dungu ñi piwkemew
+C: pero tengo asunto en mi corazón 
+
+M: <Noise>  longkomew.
+C: en la cabeza.
+nmlch-nfspA1_x_0105_nfsp_00: 
+M: Chuchi rume nga weda che pielimu
+C: En cualquier parte que me diga persona mala
+
+M:  pianu müten<Noise>
+C: me lo dice nomas
+
+M: kuñivall nga inche lamngen 
+C: yo soy huerfana hermano 
+
+M: vantenmu kidu eltuenu ñi ñuke 
+C: en este momento sola me dejo mi mamá
+
+M: nielan nga chuchi rume pensayalu
+C: no tengo a nadie que piense 
+
+M: kutrantu piwkealu nga ñi chem....
+C: que sienta tristeza del corazón mi.....
+
+M: kidu püñeñ nga inche
+C: soy la hija unica 
+
+M: chempingeli nga <Noise> chem pial
+C: si me dicen algo que se puede decir
+
+M: veyemürke nga pingeli pingean
+C: ella si es que es me dicen me diran 
+
+M: <Noise>  welu chumavun 
+C: pero que puedo hacer 
+
+M: Dios nga kimpe veychi dungu 
+C: Dios si que sepa ése asunto 
+
+M: veymu ta kimviñ <Noise>
+C: ahí lo conocere
+
+M: we trem nga inche anay lamngen <Noise> 
+C: soy joven pues hermano 
+
+M: epe puulen nga  meli mari tripantu 
+C: estoy acercando a cuarenta años 
+
+M: <Noise> vey tüva wül <Noise> inche nga we trem 
+C: eso ahora recien yo soy joven 
+
+M: chum che kay nga kimavulu 
+C: que será que puede conocer
+
+M: veychi dungu, chuchilekevel dungu 
+C: esos asuntos, como estaban los asuntos
+
+M: kuyvimu antikuomu 
+C: ante en la antiguedad 
+
+M: <Noise> pütakecheyem nga ñi kimün 
+C: el conocimiento de los ancianos 
+ 
+M: kimviñ veychi dungu lamngen 
+C: lo conocí esos asunto hermano 
+
+M: welu Chaw Dios nga ñi kimpe ñi pietew
+C: pero Padre Dios si que llegue a saber me dijo
+
+M: re nga kimlaviñ.
+C: no llegue a conocerlo por si mismo.
+
+nmlch-nfspA1_x_0106_nfsp_00: 
+M: Fey kiman nga dungu 
+C: Eso voy a saber el asunto 
+
+M: nieynga nütramnieynga 
+C: tiene converzación tiene 
+
+M: ina rume pillelanam
+C: pora averiguar me dijo 
+
+M: veymu ta kontupan 
+C:  por eso me acerco
+
+M: welu velen nütram lamngen 
+C: pero así es la converzación hermano 
+
+M: velen ta kimün 
+C: así esta la sabiduría
+
+M: vente pun tañi kimn tañi elelpetew
+C: asta llegue con la sabiduría que me lo dejo
+
+M: tañi <Noise> ñukeyem 
+C: la que fue mi mamá
+
+M: ka müley ta kimü ka
+C: también hay conocimiento también
+ 
+M: fente puavuy anve <Noise> lamngen 
+C: asta aqui vá llegar hermano 
+
+M: veyanta kiman pilu ta eymi. 
+C: eso quermía conocer decia usted.
+
+nmlch-nfspA1_x_0107_nmlch_00: 
+M: Fele llemay chi lamuen 
+C: Así esta pues hermana
+
+M: feyta inche fente küme tutey tañi nütram tati 
+C: éste yo tan bien que cayo bien mi converzación pues 
+
+M: fey inche tüfa küdawkeluam 
+C: eso yo ahora trabajo   
+
+M: tüfachi dungumew
+C: en éste asunto 
+
+M: fey ka <uh> petu, petu ta müleluam 
+C: eso también todavía, todavía hay 
+
+M: tüfichi dungu faliken dungu 
+C: esos asuntos que valen el asunto
+
+M: eymi ta fente küme llowurkifimi tüfey
+C: usted lo recibio muy bien eso 
+
+M: feyta inchiñ ta ka küme,
+C: éste nosotro tambien bien,
+
+M: küme petu <Noise> witrañ püramiñ tati  
+C: bien que lo estamo levantando pues 
+
+M: <Noise> ka petu müli tañi nütramkayal 
+C: todavía queda para converzar 
+
+M: feyta doy kimal ta tüfi
+C: para saber más esos
+
+M: feymu eymi ta fente küme llowurkimi 
+C: en eso usted tan bien que lo recibio
+
+M: feyti tachi kimün 
+C: de estos conocimiento 
+
+M: feymu ta <uh> müli ta fill mchi 
+C: éste hay cualquier machi 
+
+M: pipeyelaymiama mapu ta eli 
+C: lo decia que lo dejo la tierra 
+
+M: ka antü.
+C: en aquellos dias.
+
+nmlch-nfspA1_x_0108_nfsp_00: 
+M: Feli llemay femi pu. 
+C: Así es lo hizo pues.
+
+
+
+
+
+
+

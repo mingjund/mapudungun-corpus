@@ -1,0 +1,435 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pfjqm1 
+; Last changes made on 01/01/1990 
+; Transcriber: Cristian C. Anton 
+; Comments:  
+; 
+nmlch-pfjqm1_1_0000_nmlch_00: Marimari papay 
+nmlch-pfjqm1_1_0001_pfjqm_00: Marimari tati chau 
+nmlch-pfjqm1_1_0002_nmlch_00: ¿chumleymiam?
+nmlch-pfjqm1_1_0003_pfjqm_00: kümelekan ka 
+nmlch-pfjqm1_1_0004_nmlch_00: ¿kümelekaymi?
+nmlch-pfjqm1_1_0005_pfjqm_00: kümelekan 
+nmlch-pfjqm1_1_0006_nmlch_00: iney <!1ini> pingimiam papay 
+nmlch-pfjqm1_1_0007_pfjqm_00: Juan Quiroga pingen 
+nmlch-pfjqm1_1_0008_nmlch_00: Juan Quiroga 
+nmlch-pfjqm1_1_0009_pfjqm_00: Mediñir 
+nmlch-pfjqm1_1_0010_nmlch_00: ¡Aa!<P>  <uh> ¿chunten <!1tunten> tripantu deuma nieymiam?
+nmlch-pfjqm1_1_0011_pfjqm_00: amulnen <*SPA>noventa 
+nmlch-pfjqm1_1_0012_nmlch_00: <uh> ayllamari 
+nmlch-pfjqm1_1_0013_pfjqm_00: ayllamari
+nmlch-pfjqm1_1_0014_nmlch_00: ayllamari tripantu 
+nmlch-pfjqm1_1_0015_pfjqm_00: <*SPA>sí amulnen ayllamari tripantu 
+nmlch-pfjqm1_1_0016_nmlch_00: ¡Aa! ayllamri tripantu iney <!1ini> pingey tami lof tüfamu tami mapu iney <!1ini> pingey anchi 
+nmlch-pfjqm1_1_0017_pfjqm_00: <*SPA>aquí mallin altu pingey 
+nmlch-pfjqm1_1_0018_nmlch_00: mallin del treile 
+nmlch-pfjqm1_1_0019_pfjqm_00: <*SPA>si mallin del treile
+nmlch-pfjqm1_1_0020_nmlch_00: <uh> wenu mülelu 
+nmlch-pfjqm1_1_0021_pfjqm_00: wenu mülelu 
+nmlch-pfjqm1_1_0022_nmlch_00: pewenche tüfamu eymün ka?
+nmlch-pfjqm1_1_0023_pfjqm_00: pewenche 
+nmlch-pfjqm1_1_0024_nmlch_00: pewenche 
+nmlch-pfjqm1_1_0025_pfjqm_00: pewenche 
+nmlch-pfjqm1_1_0026_nmlch_00: ¿tamün waria doy <!1soy> rupaley anta longkümay <!1lonquimay>? 
+nmlch-pfjqm1_1_0027_pfjqm_00: ¡Aa!
+nmlch-pfjqm1_1_0028_nmlch_00: lonquimay doy fülküley <!1fülküli>?
+nmlch-pfjqm1_1_0029_pfjqm_00: <*SPA>ese <*SPA>mas <!1ma'> <*SPA>cerca 
+nmlch-pfjqm1_1_0030_nmlch_00: feyti doy <!1soy> fülmaley <!1fülmali>
+nmlch-pfjqm1_1_0031_pfjqm_00: doy <!1soy> fülküley 
+nmlch-pfjqm1_1_0032_nmlch_00: ¿feyti papay kimlafimi chumngelu taiñ longkümay <!1lonquimay> pingen tachi wariya?
+nmlch-pfjqm1_1_0033_pfjqm_00: kimnekefun tati fey kuyfi ta pingekey <!1pingeki> <uh> <*SPA>como chempingekefulu chi 
+nmlch-pfjqm1_1_0034_nmlch_00: iñichi ta longkümay <!1lonquimay> pintukunuy 
+nmlch-pfjqm1_1_0035_pfjqm_00: pu wingka müten ta femngechi chemüy ka 
+nmlch-pfjqm1_1_0036_nmlch_00: ¿kuyfi deuma <!1seuma> akuy pu wingkayam?
+nmlch-pfjqm1_1_0037_pfjqm_00: putra kuyfi <*SPA>yo ta kimpafiñ tati <*SPA>pueblo ta tüfa mülekey <!1müleki> müleyiñ ta pankuntu mülekefuyiñ pichike domongeyiñ iñchiñ küpayiñ ngüllüupakefuyiñ faupüle 
+nmlch-pfjqm1_1_0038_nmlch_00: ngülliupakefuymün 
+nmlch-pfjqm1_1_0039_pfjqm_00: ngülliupakefuyiñ feymu küpakiyiñ ta waria iñche ta kimnefiñ tati waria <*SPA>recien ta formaley <!1formali> ta <*SPA>pueblo <!1pueblu>  
+nmlch-pfjqm1_1_0040_nmlch_00: ¡Aa! 
+nmlch-pfjqm1_1_0041_pfjqm_00: kimpafiñ 
+nmlch-pfjqm1_1_0042_nmlch_00: we waria fel?
+nmlch-pfjqm1_1_0043_pfjqm_00: we warialey <!1wariali> kiñe mütren mülelay ta ruka 
+nmlch-pfjqm1_1_0044_nmlch_00: kiñe epu ruka 
+nmlch-pfjqm1_1_0045_pfjqm_00: <*SPA>dea <*SPA>poco müley ta ruka petu
+nmlch-pfjqm1_1_0046_nmlch_00: pichiley <!1pichili> müten
+nmlch-pfjqm1_1_0047_pfjqm_00: pichiley <!1pichili> müten
+nmlch-pfjqm1_1_0048_nmlch_00: ¡Aa! welu eymün ti pichi domongefulu eymi 
+nmlch-pfjqm1_1_0049_pfjqm_00: <*SPA>sí pichike domongeyiñ feytapüle mülepakeyiñ 
+nmlch-pfjqm1_1_0050_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0051_pfjqm_00: ngülliupakeyiñ +/fem/+  femyaukefuyiñ rupayaukefuy kuyfi ta che kañpüle ka amuy ka, ka mapumu ka amuy faupüle niey <*SPA>familia tañi ñukeyem allá ta ka müley tañi <*SPA>familia taiñ nukeyem kuyfi ta che ta rume <*SPA>familia piufuy inafuy tañi <*SPA>familia 
+nmlch-pfjqm1_1_0052_nmlch_00: kuyfi 
+nmlch-pfjqm1_1_0053_pfjqm_00: kuyfi rume piukeyeufuy ta che 
+nmlch-pfjqm1_1_0054_nmlch_00: may, may, may, may ¿feula femwelay papay? 
+nmlch-pfjqm1_1_0055_pfjqm_00: tüfa ta femwelay nieke <*SPA>sea +/upütripa/+ ligitimu <*SPA>pariente rume <*SPA>pariente piweulay tüfa  
+nmlch-pfjqm1_1_0056_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0057_pfjqm_00: kakechewi ta che 
+nmlch-pfjqm1_1_0058_nmlch_00: kakechewüy <!1kakechewi> may 
+nmlch-pfjqm1_1_0059_pfjqm_00: kakechewüy <!1kakechewi>
+nmlch-pfjqm1_1_0060_nmlch_00: duamuwelay <!1suamuwelay?
+nmlch-pfjqm1_1_0061_pfjqm_00: duamuwelaychi iñche ta feypiken dumawelay che ta kake tripantungey may tañi kakechengen engün piken 
+nmlch-pfjqm1_1_0062_nmlch_00: ¡Aa! ¿eymi petu nieymi lamngen wentru domo lamngen?
+nmlch-pfjqmm1_1_0063_pfjqm_00: kiñeley ñi wentru lamngen epu leweyu iñ nume <!1nome> müley ñi wentru lamngen
+nmlch-pfjqm1_1_0064_nmlch_00: iney <!1ini> pingey tami wentru lamngen?
+nmlch-pfjqm1_1_0065_pfjqm_00: Julio <!1kulio>
+nmlch-pfjqm1_1_0066_nmlch_00: Quiroga 
+nmlch-pfjqm1_1_0067_pfjqm_00: Quiroga 
+nmlch-pfjqm1_1_0068_nmlch_00: ¡Aa! kangelu kay?
+nmlch-pfjqm1_1_0069_pfjqm_00: kakelu fey müten niewen niekefun kakelu üyüu norte falleseyepuy mi püñeñ ñi lamngen Santiago fallesepuy 
+nmlch-pfjqm1_1_0070_nmlch_00: lapuyngün 
+nmlch-pfjqm1_1_0071_pfjqm_00: lapuyngün 
+nmlch-pfjqm1_1_0072_nmlch_00: welu eymün kuyfi, kuyfi rume duamüukefuymün
+nmlch-pfjqm1_1_0073_pfjqm_00: rume duamüukefuyiñ iñchiñ, iñche kimpan taiñ ñukeyem amulefuy tañi <*SPA>pariente amuley <!1amuli> tañi pu <*SPA>pariente lamngen <*SPA>primo hermanu pilley todo tiene ante <*SPA>uno piukeyewüy <!1piukeyewi>
+nmlch-pfjqm1_1_0074_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0075_pfjqm_00: niey ta chem rume tañi fürenewal yelüwey <!1yelüwi> tañi iyael engün 
+nmlch-pfjqm1_1_0076_nmlch_00: kom 
+nmlch-pfjqm1_1_0077_pfjqm_00: kom 
+nmlch-pfjqm1_1_0078_nmlch_00: trüftuweyngün 
+nmlch-pfjqm1_1_0079_pfjqm_00: trüftuwingün 
+nmlch-pfjqm1_1_0080_nmlch_00: ¿peumapey? 
+nmlch-pfjqm1_1_0081_pfjqm_00: tüfa ta femwelay ta che 
+nmlch-pfjqm1_1_0082_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0083_pfjqm_00: likitumu <*SPA>pariente rume femwelay 
+nmlch-pfjqm1_1_0084_nmlch_00: daumuweulay 
+nmlch-pfjqm1_1_0085_pfjqm_00: duamwelay ta che ta tachi amuley <!1amuli> tachi tripantu 
+nmlch-pfjqm1_1_0086_nmlch_00: ¡Aa! ¿eymi kimpaymi tami chau, tami ñukeam?
+nmlch-pfjqm1_1_0087_pfjqm_00: kimpan tañi chau tañi ñuke <*SPA>y <*SPA>su <*SPA>yo <*SPA>tenia <*SPA>familia lay ñi <*SPA>pues <!1pu'> epu <*SPA>familia ñi chau, ñi ñuke 
+nmlch-pfjqm1_1_0088_nmlch_00: ¡Aa! niefuy 
+nmlch-pfjqm1_1_0089_pfjqm_00: <*SPA>sí <Noise> 
+nmlch-pfjqm1_1_0090_nmlch_00: ¡Aa! niefuymay 
+nmlch-pfjqm1_1_0091_pfjqm_00: kimpan tañi ñuke kimpan tañi chau 
+nmlch-pfjqm1_1_0092_nmlch_00: ¿chunten tripantu mongey tami chau? alün 
+nmlch-pfjqm1_1_0093_pfjqm_00: chunten alün tripantu niey feyti chunten tripantulle ta niellelu ta fallesey chi fey ñi ñukeyem feyta doy <*SPA>más <*SPA>tenía taiñ ñukeyem 
+nmlch-pfjqm1_1_0094_nmlch_00:  doy <!1soy> alün tripantu 
+nmlch-pfjqm1_1_0095_pfjqm_00: doy alün tripantu 
+nmlch-pfjqm1_1_0096_nmlch_00: ¿fey eymi kimlafimi ta chunten tañi <uh> kuyfi kimfimi chumngechi tañi akun pu wingka kom?
+nmlch-pfjqm1_1_0097_pfjqm_00: ke kimlafiñ tañi akunta chumngechi tañi akunta taiñ ñukeyem ta sembray pikefuyiñ <P> taiñ femngechi tañi 
+nmlch-pfjqm1_1_0098_nmlch_00: kompan engün 
+nmlch-pfjqm1_1_0099_pfjqm_00: kom kompan ta pu wingka enkañangepay ta pu paysanu enkañapayu ta pu wingka pikefuyiñ ka tachi lonkümay <lonquimay> ta mületuy tati
+nmlch-pfjqm1_1_0100_nmlch_00: ¡Aa! femngechi <uh> re koylamu kompayngün 
+nmlch-pfjqm1_1_0101_pfjqm_00: re koylamu konpayngün 
+nmlch-pfjqm1_1_0102_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0103_pfjqm_00: taiñ fütakecheyem kuyfi taiñ fütra aweluyem iñche kimpan tañi aweluyem <*SPA>y feyta kanayiñ <*SPA>este tati mapu pikefuy tüfachi mapu p[ikefuy kechapaymu ta pu wingka enkañapaymu ta pu wingka pikefuy feymu <*SPA>despues femngechi tachi <*SPA>pueblo <!1pueblu> müley re paysanu mapuyem paysanu mapu kom pikeyngün <*SPA>y <*SPA>despues kechañpüramngepay mawidamu ta paysanu pikeyngün feymu müley duam paysanu pu paysanu mületuy tamu rinkonanengetuy <uh> mületuyngün kiduengün <!1kisuengün> nüpay mapuengün ta pu lofmu tati <%> tamu wariaka <*SPA>eso <*SPA>todo <*SPA>era paysanu   
+nmlch-pfjqm1_1_0104_nmlch_00: fey fel kümeke mapu niefuyngün 
+nmlch-pfjqm1_1_0105_pfjqm_00: kümeke mapu niefuyngün ka muntupay pu wingkaka 
+nmlch-pfjqm1_1_0106_nmlch_00: eymi lamngen tüfa <uh> fente tremimi deuma <!1seuma> kimimi fentren dungu ta chumlekefel kuyfi eymün <uh> ngekenolu wingka pital ngekelafuy ¿chumngechi l'awen'tüukefuymün?
+nmlch-pfjqm1_1_0107_pfjqm_00: re paysanu l'awen' müten ka kuyfi l'awen'tüufuyngün kimpay wingkamu che ka <*SPA>nosotro re paysanu l'awen' iñche fey piken re +/pay/+ kiñeke küfel tachi pu kudey <!1kusey> rume che kimlay l'awen' chumngechi ñi l'awen'tüuken che kuyfi 
+nmlch-pfjqm1_1_0108_nmlch_00: ¡Aa! kimlaymi 
+nmlch-pfjqm1_1_0109_pfjqm_00: kimlayngün iñche kom kimnen 
+nmlch-pfjqm1_1_0110_nmlch_00: <hm>  femngechi fey l'awen'tulüwün müten
+nmlch-pfjqm1_1_0111_pfjqm_00: may tañi ñukeyem kom enseñalkefeyiñmu l'awen'tun femngechi l'awen'tuwal 
+nmlch-pfjqm1_1_0112_nmlch_00: machingekelay kuyfi tüfamu.
+nmlch-pfjqm1_1_0113_pfjqm_00: ngekelay machi
+nmlch-pfjqm1_1_0114_nmlch_00: re l'awen'tuchefe
+nmlch-pfjqm1_1_0115_pfjqm_00: re medika mülekefuy kiñeke kiñe kude <!1kuse> mülekefuy mallin üyüu pu lof fey l'awen'tuchekefuy  
+nmlch-pfjqm1_1_0116_nmlch_00: fey l'awen'tuchekefuy
+nmlch-pfjqm1_1_0117_pfjqm_00: fey l'awen'tuchekefuy 
+nmlch-pfjqm1_1_0118_nmlch_00: welu <uh> ngekelay machi 
+nmlch-pfjqm1_1_0119_pfjqm_00: ngekelay machi 
+nmlch-pfjqm1_1_0120_nmlch_00: ngekelay 
+nmlch-pfjqm1_1_0121_pfjqm_00: <*SPA>yo kimpalafiñ machi tamu 
+nmlch-pfjqm1_1_0122_nmlch_00: kimpalafimi  
+nmlch-pfjqm1_1_0123_pfjqm_00: kimpalafiñ 
+nmlch-pfjqm1_1_0124_nmlch_00: eymün niayem pichikeche püñeñ kuyfi cheu kontralaukefuymün kontrolaukelafuymün kontrolaukelafuymün 
+nmlch-pfjqm1_1_0125_pfjqm_00: kontrolaukelafuyiñ <*SPA>nosotros no <*SPA>controlamos <*SPA>nunca 
+nmlch-pfjqm1_1_0126_nmlch_00: kontrolaukelafuymün 
+nmlch-pfjqm1_1_0127_pfjqm_00: <*SPA>no 
+nmlch-pfjqm1_1_0128_nmlch_00: mütefuy anta tüfey tichi elpütrafe 
+nmlch-pfjqm1_1_0129_pfjqm_00: elpütrafe <*SPA>eso mülefuy fey mülefuy taiñ iñche ta kontrolakefeneu reke tañi kude <!1kuse> nanüngem ngay tañiñ taiñ füta tañi ñuke 
+nmlch-pfjqm1_1_0130_nmlch_00: ¿chumngechi kimchekefuy?
+nmlch-pfjqm1_1_0131_pfjqm_00: fey re we chemkefi müten che ma malükefi che <*SPA>todo ella kimkefuy 
+nmlch-pfjqm1_1_0132_nmlch_00: kuwümu 
+nmlch-pfjqm1_1_0133_pfjqm_00: kuwümu 
+nmlch-pfjqm1_1_0134_nmlch_00: ¿niayem püñeñ fey tüfey <uh> chem chi kümekefuy welu l'awen'tuchekunukefuy? 
+nmlch-pfjqm1_1_0135_pfjqm_00: l'awen'tuchekunukefuy 
+nmlch-pfjqm1_1_0136_nmlch_00: ¿chem l'awen' chi?
+nmlch-pfjqm1_1_0137_pfjqm_00: chem l'awen' mülefuy tañi workülkel <*SPA>él wülkefuy l'awen' 
+nmlch-pfjqm1_1_0138_nmlch_00: kimüymalafimi?
+nmlch-pfjqm1_1_0139_pfjqm_00: kimüymalwetulafiñ <P> tüfa ta kimwetulan re tati l'awen' tañi chumngechi l'awen'tukefel kuyfi che 
+nmlch-pfjqm1_1_0140_nmlch_00: welu mülefuy l'awen' matu nial püñeñ
+nmlch-pfjqm1_1_0141_pfjqm_00: mülefuy <*SPA>si müley l'awen' <*SPA>siempre wülkefuy l'awen'
+nmlch-pfjqm1_1_0142_nmlch_00: feula llena wikürngekey che operangekey <!1operangeki> 
+nmlch-pfjqm1_1_0143_nmlch_00: welu kuyfi 
+nmlch-pfjqm1_1_0144_pfjqm_00: nurupa <!1norupa> operalefuy che kuyfi ka 
+nmlch-pfjqm1_1_0145_nmlch_00: feyti lamngen <uh> feula operakey che kuyfi operakelafuy noyke 
+nmlch-pfjqm1_1_0146_pfjqm_00: <*SPA>no operakelay femngechi kuyfi anta <*SPA>alguno <*SPA>familia witralekey ñi pichiche pingekerkelay  
+nmlch-pfjqm1_1_0147_nmlch_00: may 
+nmlch-pfjqm1_1_0148_pfjqm_00: <*SPA>ese waychifelkefuy taiñ nanüngem <*SPA>puro <*SPA>mano l'awen' <P> <*SPA>da vuelta <!1welta> <*SPA>lo <*SPA>ñiño <*SPA>para <*SPA>que <*SPA>nace  <!1pa'ke> <*SPA>bien feyta ñi küme püñeñam <*SPA>alguno <*SPA>nunca lakelafuy tüfa may lay ka pitalmu che malküley lay che operangey <*SPA>todo iñche feymu feypiken tu feymu fentre kutranchengey tati pu domo che ta well müleyelu operangeyngün <*SPA>tratamiento ngeyngün <*SPA>ante <*SPA>no <*SPA>hay <*SPA>eso 
+nmlch-pfjqm1_1_0149_nmlch_00: ngelafuy 
+nmlch-pfjqm1_1_0150_pfjqm_00: ngelafuy chem l'awen' rume müley ta kiñe pichiken l'awen' wülkefuy tati <*SPA>kudeyem <!1kuseyem> <*SPA>para <*SPA>que <!1pa'ke> <*SPA>no <*SPA>siga <*SPA>tener <*SPA>familia 
+nmlch-pfjqm1_1_0151_nmlch_00: doy <!1soy> nienuam 
+nmlch-pfjqm1_1_0152_pfjqm_00: doy nienual 
+nmlch-pfjqm1_1_0153_nmlch_00: ¿feyti kimlafimi chem l'awen' ñi putukefel engün niewenuam püñeñ?
+nmlch-pfjqm1_1_0154_pfjqm_00: iñche pichiken kimpafun 
+nmlch-pfjqm1_1_0155_nmlch_00: mülefuy 
+nmlch-pfjqm1_1_0156_pfjqm_00: kimniekafun may 
+nmlch-pfjqm1_1_0157_nmlch_00: y mawidamew <!1mawisamu> müley tüfey <!1tüfi> kam 
+nmlch-pfjqm1_1_0158_pfjqm_00: +/mawid/+ mawidamu 
+nmlch-pfjqm1_1_0159_nmlch_00: ¿kachu l'awen'? 
+nmlch-pfjqm1_1_0160_pfjqm_00: kachu l'awen' 
+nmlch-pfjqm1_1_0161_nmlch_00: feyti fey paysana elukefi niewenoam püñeñ?
+nmlch-pfjqm1_1_0162_pfjqm_00: fey tañi niwenuam 
+nmlch-pfjqm1_1_0163_nmlch_00: ngelay chumal <*SPA>tratamientotual ñi operayal <*SPA>no 
+nmlch-pfjqm1_1_0164_pfjqm_00: <*SPA>no, <*SPA>no, <*SPA>no <*SPA>tratamiento <*SPA>no <*SPA>asi <*SPA>mismo <*SPA>cortan fey niewelay 
+nmlch-pfjqm1_1_0165_nmlch_00: ¡Aa! fey tüfey küme dungufel tati feula che welu kuyfi operangekerkelafuy  
+nmlch-pfjqm1_1_0166_pfjqm_00: <*SPA>no <*SPA>no operangelay ta che kimngelay tati operación tüfa ta feymu ta fente kutranchengewi ta pu domo chi
+nmlch-pfjqm1_1_0167_nmlch_00: ¿feyti papay kimlafuymi <!1kimlafiymi> ñi üy chi l'awen' iney <!1ini> pingen? 
+nmlch-pfjqm1_1_0168_pfjqm_00: kimnen 
+nmlch-pfjqm1_1_0169_nmlch_00: iney <!1ini> pingey <!1pingi>?
+nmlch-pfjqm1_1_0170_pfjqm_00: kachan l'awen' 
+nmlch-pfjqm1_1_0171_nmlch_00: kachen l'awen' 
+nmlch-pfjqm1_1_0172_pfjqm_00: kachen l'awen' 
+nmlch-pfjqm1_1_0173_nmlch_00: kachen l'awen'¿engu chem?
+nmlch-pfjqm1_1_0174_pfjqm_00: <*SPA>alguno kokitu <*SPA>quien <*SPA>sabe feyta kimwetulan tati chemengu tañi trapümngel 
+nmlch-pfjqm1_1_0175_nmlch_00: welu kachan l'awen' worküngekey <*SPA>pues <!1pu'>
+nmlch-pfjqm1_1_0176_pfjqm_00: o pichi worküngekey poquito <!1pokitu>
+nmlch-pfjqm1_1_0177_nmlch_00: puliwen 
+nmlch-pfjqm1_1_0178_pfjqm_00: <*SPA>pero we, we nielu pichiche 
+nmlch-pfjqm1_1_0179_nmlch_00: ¡Aa! we nielu
+nmlch-pfjqm1_1_0180_pfjqm_00: we nielu <*SPA>ese hay <*SPA>que <*SPA>tomar <*SPA>poquito  
+nmlch-pfjqm1_1_0181_nmlch_00: niewelay püñeñ <*SPA>despues 
+nmlch-pfjqm1_1_0182_pfjqm_00: <*SPA>sí 
+nmlch-pfjqm1_1_0183_nmlch_00: fey ngelafuy ñi chumal tratamientual <*SPA>ni <*SPA>siquiera tañi nial operayal 
+nmlch-pfjqm1_1_0184_pfjqm_00: <*SPA>no
+nmlch-pfjqm1_1_0185_nmlch_00: re kachan l'awen'mu 
+nmlch-pfjqm1_1_0186_pfjqm_00: re, re femngechi müten femngechi chi pu kude <!1kuse>kimpay l'awen' femngechi awe niewenuam püñeñ che <*SPA>alguno <*SPA>tienen <*SPA>muy <*SPA>seguido <!1segiu> <*SPA>pues <!1pu'> y <*SPA>alguno femlayka fey, fey elungekefuychi 
+nmlch-pfjqm1_1_0187_nmlch_00: elungekefuy 
+nmlch-pfjqm1_1_0188_pfjqm_00: may <*SPA>mucho l'awen' enseñalkefeneu ñi nanüngen feyta moymal yetun ka kom moymaltun 
+nmlch-pfjqm1_1_0189_nmlch_00: moymaltuymi 
+nmlch-pfjqm1_1_0190_pfjqm_00: moymaltun 
+nmlch-pfjqm1_1_0191_nmlch_00: kimwetulaymi chemngen engün 
+nmlch-pfjqm1_1_0192_pfjqm_00: kimwetulan müleweltufelchi <*SPA>tanto <*SPA>años 
+nmlch-pfjqm1_1_0193_mlch_00: <hm>  welu inaduami che feyta kimi l'awen' inaduamlay kimlay l'awen' che 
+nmlch-pfjqm1_1_0194_pfjqm_00: fey <*SPA>pero kake l'awen' kimnen workülken l'awen' <*SPA>varia <*SPA>jente 
+nmlch-pfjqm1_1_0195_nmlch_00: ¡Aa! 
+nmlch-pfjqm1_1_0196_pfjqm_00: <*SPA>sigo <*SPA>tomando <*SPA>remedio iñche ka kutrankelan reke ka, <%> amftukeneu kurilu
+nmlch-pfjqm1_1_0197_nmlch_00: ¿konkeymi anta pitalmu kay?
+nmlch-pfjqm1_1_0198_pfjqm_00: pitalmu ta konken tati <Noise> feyta ñi l'awen' llechi feytaka feychi l'awen' kümey <*SPA>para <*SPA>lo <!1pa'lo> pulmon 
+nmlch-pfjqm1_1_0199_nmlch_00: ¿iney pingey feychi l'awen' chem üy niey?
+nmlch-pfjqm1_1_0200_pfjqm_00: küñillweñ <*SPA>de <*SPA>todos kuntay fey 
+nmlch-pfjqm1_1_0201_nmlch_00: küñillweñ 
+nmlch-pfjqm1_1_0202_pfjqm_00: küñillweñ ka ñañgku l'awen' y you junto todos remedios mülelu kordilleramu
+nmlch-pfjqm1_1_0203_nmlch_00: ¿feyti küñillweñ kachu l'awen'?
+nmlch-pfjqm1_1_0204_pfjqm_00: kachu l'awen' müley tamu 
+nmlch-pfjqm1_1_0205_nmlch_00: ñañgku l'awen' ka fey kachu 
+nmlch-pfjqm1_1_0206_pfjqm_00: <*SPA>si kordilleramu müley fey 
+nmlch-pfjqm1_1_0207_nmlch_00: wenu deguiñmu 
+nmlch-pfjqm1_1_0208_pfjqm_00: <*SPA>sí
+nmlch-pfjqm1_1_0209_nmlch_00: ¡Aa! feyti llemay ta <uh> kiñeke ta mapuche iñchiñ paysanu amu amungetuyiñ ta pitalmu welu kuyfi taiñ fütakeche re 
+nmlch-pfjqm1_1_0210_pfjqm_00: re feymu müten ye feychi l'awen'mu ta l'awen'tuwiy
+nmlch-pfjqm1_1_0211_nmlch_00: tüngkefuy ta che ka 
+nmlch-pfjqm1_1_0212_pfjqm_00: <*SPA>pero ngelafuy kutran, kutran l'afuy ta che 
+nmlch-pfjqm1_1_0213_nmlch_00: kutranlafuy 
+nmlch-pfjqm1_1_0214_pfjqm_00: kutranlafuy tüfa mayti wingka l'awen'ta welulkawi ta che ka 
+nmlch-pfjqm1_1_0215_nmlch_00: doy <!1soy> kutraniy 
+nmlch-pfjqm1_1_0216_pfjqm_00: doy kutraniy kümelewelay ta che weche keche rume vive bien kutranküley
+nmlch-pfjqm1_1_0217_nmlch_00: kutranküley 
+nmlch-pfjqm1_1_0218_pfjqm_00: kutranküley wingkamu müten miawingün ka wingkamu müten iñche wingkamu amuken tañi <*SPA>prision ta <*SPA>tengo <*SPA>ante chemkelafun <*SPA>muy <*SPA>alto <*SPA>presión 
+nmlch-pfjqm1_1_0219_nmlch_00: rume
+nmlch-pfjqm1_1_0220_pfjqm_00: <*SPA>sí <*SPA>por <*SPA>eso konün wingkamu tañi <*SPA>alta <!1altu> <*SPA>presión <!1prision> 
+nmlch-pfjqm1_1_0221_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0222_pfjqm_00: karganeu feyta trekawekelafuy anükunuutkefun <*SPA>no puedo <*SPA>caminar kaminawetukelan 
+nmlch-pfjqm1_1_0223_nmlch_00: ¡Aa!
+
+nmlch-pfjqm1_1_0224_pfjqm_00: trekawetukelan rupay wüla tañi longko wüyün fey witratuken 
+nmlch-pfjqm1_1_0225_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0226_pfjqm_00: feymu konün wingkamu ta Kontrolkülen kontrolalen wingkamu amuken kontromu müten 
+nmlch-pfjqm1_1_0227_nmlch_00: kontrolmu müten 
+nmlch-pfjqm1_1_0228_pfjqm_00: kontrolmu 
+nmlch-pfjqm1_1_0229_nmlch_00: ¡Aa! 
+nmlch-pfjqm1_1_0230_pfjqm_00: <*SPA>pero paysanu l'awen' workülen ka 
+nmlch-pfjqm1_1_0231_nmlch_00: chem l'awen' putukeymiam?
+nmlch-pfjqm1_1_0232_pfjqm_00: fey tañi ti tañi fayümnel kiñe pukem apümün well fill <*SPA>juntamente <*SPA>con <*SPA>mi <*SPA>hijo <*SPA>tomamo 
+nmlch-pfjqm1_1_0233_nmlch_00: küñillwen 
+nmlch-pfjqm1_1_0234_pfjqm_00: +/küñill/+  küñillwen <*SPA>todo <!1to'> <*SPA>ese
+nmlch-pfjqm1_1_0235_nmlch_00: ¿ka chumal kümey feychi l'awen'?
+nmlch-pfjqm1_1_0236_pfjqm_00: *palam paramela <P> <*SPA>y <*SPA>de <*SPA>todo <*SPA>pues <!1pu'> pütrün püle nor l'awen' kordilleramu 
+nmlch-pfjqm1_1_0237_nmlch_00: alüley l'awen' 
+nmlch-pfjqm1_1_0238_pfjqm_00: <uh> alüli l'awen' kordilleramu 
+nmlch-pfjqm1_1_0239_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0240_pfjqm_00: <*SPA>pero <*SPA>alguno kimwetukelay putrem l'awen' engünka <*SPA>alguno kimwetulay l'awen' engün 
+nmlch-pfjqm1_1_0241_nmlch_00: ngoymatuyngün 
+nmlch-pfjqm1_1_0242_pfjqm_00: ngoymatuy creyewetulafingün reke ka 
+nmlch-pfjqm1_1_0243_nmlch_00: feyentuwetulafingün 
+nmlch-pfjqm1_1_0244_pfjqm_00: feyentuwetulafingün
+nmlch-pfjqm1_1_0245_nmlch_00: ¿eymün kuyfi tamün <uh> paysanu l'awen'tuleken?
+nmlch-pfjqm1_1_0246_pfjqm_00: iñchiñ ka paysanu l'awen'tukel <*SPA>nacimo <*SPA>con <*SPA>ese <*SPA>remedio fey paysanu l'awen' tiy müten ka <*SPA>ante ngekenofulu wingka l'awen' 
+nmlch-pfjqm1_1_0247_nmlch_00: ¡Aa! ngekelafuy <*SPA>control kuyfi 
+nmlch-pfjqm1_1_0248_pfjqm_00: <*SPA>no, <*SPA>no iñche ta kimpalan ta kontrol tañi pu familiamu <*SPA>no
+nmlch-pfjqm1_1_0249_nmlch_00: doctor nurume <!1norume>
+nmlch-pfjqm1_1_0250_pfjqm_00: <*SPA>no, <*SPA>no <*SPA>ninguna <*SPA>cosa <*SPA>todo tañi <*SPA>familia <*SPA>puro <*SPA>asi <*SPA>nomas tañi <*SPA>yo <*SPA>no <*SPA>lo <*SPA>conosco <*SPA>pital tañi chumngechi naceken pichikeche   
+nmlch-pfjqm1_1_0251_nmlch_00: kimlafimi?
+nmlch-pfjqm1_1_0252_pfjqm_00: kimlafiñ
+nmlch-pfjqm1_1_0253_nmlch_00: ¡Aa! re femngechi niekefuymün püñeñ eymün 
+nmlch-pfjqm1_1_0254_pfjqm_00: re femngechi müten 
+nmlch-pfjqm1_1_0255_nmlch_00: elpütrangekefuymün 
+nmlch-pfjqm1_1_0256_pfjqm_00: <*SPA>pero kutran, kutranchengey towiya tüfa kutranchengelay 
+nmlch-pfjqm1_1_0257_nmlch_00: <hm>  püñeñelkefeymun tamün nanüng müten
+nmlch-pfjqm1_1_0258_pfjqm_00: fey müten püñeñelkefeyiñmu 
+nmlch-pfjqm1_1_0259_nmlch_00: fey pichiche akuyem küchangekefuy kuyfi pingey feula ka pe?
+nmlch-pfjqm1_1_0260_pfjqm_00: fengey femngekey <!1femngeki>
+nmlch-pfjqm1_1_0261_nmlch_00: chemmu l'afatoriomu 
+nmlch-pfjqm1_1_0262_pfjqm_00: lafatoriomu 
+nmlch-pfjqm1_1_0263_nmlch_00: firken komu müten?
+nmlch-pfjqm1_1_0264_pfjqm_00: ti eñum komu müten 
+nmlch-pfjqm1_1_0265_nmlch_00: eñumko 
+nmlch-pfjqm1_1_0266_pfjqm_00: eñumko 
+nmlch-pfjqm1_1_0267_nmlch_00: müñetungekefuy 
+nmlch-pfjqm1_1_0268_pfjqm_00: müñetungekefuy 
+nmlch-pfjqm1_1_0269_nmlch_00: chumal müñetungekefuy 
+nmlch-pfjqm1_1_0270_pfjqm_00: fill pakechi <*SPA>salga tañi <*SPA>todo <!1to'> tañi niel ta <*SPA>adentro tañi niel 
+nmlch-pfjqm1_1_0271_nmlch_00: fey papay tüfey <!1tüfi> nga ramtupiyu nga pütrü kimnen l'awen' pipeymi <uh> feyta kimpapen iñche <uh> mülekey nga kiñekemu ka <uh> tüfey chafomu kimneymi l'awen' 
+nmlch-pfjqm1_1_0272_pfjqm_00: ¡Aa!
+nmlch-pfjqm1_1_0273_nmlch_00: chafomu 
+nmlch-pfjqm1_1_0274_pfjqm_00: chafo <*SPA>que <*SPA>ese chafo chemam?
+nmlch-pfjqm1_1_0275_nmlch_00: chafo are kutran 
+nmlch-pfjqm1_1_0276_pfjqm_00: are kutran <P> kimlan ka ka duam kimkelafin tati chafo 
+nmlch-pfjqm1_1_0277nmlch_00: chafokelaymi 
+nmlch-pfjqm1_1_0278_pfjqm_00: <*SPA>no <*SPA>quien <*SPA>sa <*SPA>que, <*SPA>sera <*SPA>que, <*SPA>que <*SPA>no <*SPA>que <*SPA>algunu tati, tati ka kake mapuche wütupay ta <*SPA>gente <*SPA>otro <*SPA>sector <*SPA>para <*SPA>fuera <!2pa'fuera> <*SPA>ya <*SPA>tiene <*SPA>diferente el ngütram <*SPA>pues <!1pu'> <*SPA>y <*SPA>no <*SPA>lo <*SPA>entiende <*SPA>uno <*SPA>casi, kañpüle ka müley <*SPA>otro <*SPA>converza <*SPA>ese <*SPA>lo <*SPA>querey 
+nmlch-pfjqm1_1_0279_nmlch_00: fey papay <uh> fentreni ta l'awen' tami mapu tüfa eymi kimniefimi chi pu l'awen' ka? 
+nmlch-pfjqm1_1_0280_pfjqm_00: kimniefiñ 
+nmlch-pfjqm1_1_0281_nmlch_00: kimniafimi 
+nmlch-pfjqm1_1_0282_pfjqm_00: pütrüley l'awen' kordilleramu pütrüley 
+nmlch-pfjqm1_1_0283_nmlch_00: pedregozo pingekefuy tami mapu kuyfi?
+nmlch-pfjqm1_1_0284_pfjqm_00: kuyfi pedregozo <!1piedregozo> mülekefun tañi mapumu iñchiñ ta naseyiñ ta liukura kuyfi ta rupayi ta fütrakeche <*SPA>y <*SPA>no <*SPA>para <*SPA>nada <!1na'> <*SPA>casi kañpüle amuy kañpüle mülepuy ka femyaukey, femyaukey tañi chawem tüfamuke mülepakey wüneltumu wentru <*SPA>era <*SPA>recien <*SPA>casado <!1casau> <*SPA>mi <*SPA>madre ayiyi +/rapiukaup/+  rapikapay tamu mülechi rapikansunmu feymu niepayiñ mapu tamu fey <*SPA>despues taiñ fütra aweluyem <*SPA>ese <*SPA>estaba <*SPA>ahi mülekefuy üyemu liukura, liukura müley niey mapu feymu feymu 
+nmlch-pfjqm1_1_0285_nmlch_00: ¿chumngelu liukura pingey tami mapu? 
+nmlch-pfjqm1_1_0286_pfjqm_00: liukura müna <*SPA>agua <*SPA>que <*SPA>se <*SPA>llama liukura y feymu mülekefuy ñi awelu, ñi awela <*SPA>un <*SPA>tiempo <!1tiempu> tripayngün argentinu kuyfi ta prifangekelafuy ta che ta arkentinumu tripalu 
+nmlch-pfjqm1_1_0287_nmlch_00: katrütungelafuy 
+nmlch-pfjqm1_1_0288_pfjqm_00: katrütungelafuy <*SPA>casi <*SPA>paseando <*SPA>casi küpa amuy amuy kawelltukunuwi amuy ta arkentinu  
+nmlch-pfjqm1_1_0289_nmlch_00: kawellumu amukefuy argentinu che 
+nmlch-pfjqm1_1_0290_pfjqm_00: <*SPA>así chechimukunuwi tañi aweluyem amuy, amuy arkentinumu <*SPA>asta <*SPA>la <*SPA>hora <*SPA>alla <*SPA>quedo <*SPA>su <*SPA>familia <*SPA>todo <*SPA>quedaron <!1quesaron> <*SPA>allá <*SPA>pues <!1pu'>
+nmlch-pfjqm1_1_0291_nmlch_00: chumekefuyngün üyüu 
+nmlch-pfjqm1_1_0292_pfjqm_00: re mülepukeyngün, re tañi femyawün <*SPA>dejo <*SPA>su <*SPA>tierra <*SPA>se <*SPA>fue <*SPA>alguno <*SPA>persona <*SPA>anda <*SPA>asi <*SPA>pues <!1pu'> tañi füta aweluyem pelowelafuyem <*SPA>todavia <!1towiya> <*SPA>tiene <*SPA>con chiripa <*SPA>conoci <*SPA>yo <*SPA>tenia <*SPA>una <*SPA>bota <*SPA>y <*SPA>caballo <*SPA>sacaban <*SPA>ese fotra <*SPA>caballo <*SPA>cuando <*SPA>lo <*SPA>matan <*SPA>sacaban <*SPA>asta kiro <*SPA>de <*SPA>ella entu chulküngekey 
+nmlch-pfjqm1_1_0293_nmlch_00:  entu trülkengey kawellu 
+nmlch-pfjqm1_1_0294_pfjqm_00: entu trülkey kawellu 
+nmlch-pfjqm1_1_0295_nmlch_00: fey anta mi polayna <%> 
+nmlch-pfjqm1_1_0296_pfjqm_00: feyngelu ngetukey <*SPA>asta <*SPA>aqui fota fey niekefuy ñi awelu <*SPA>pero fieku ya pelowelafuy 
+nmlch-pfjqm1_1_0297_nmlch_00: ¿chem kutranmu lay?
+nmlch-pfjqm1_1_0298_pfjqm_00: chem kutranmu lafulu chi <*SPA>yo <*SPA>no <*SPA>lo <*SPA>conocí <*SPA>mas <*SPA>pues <!1pu'>
+nmlch-pfjqm1_1_0299_nmlch_00: cheu lapuy Argentinu?
+nmlch-pfjqm1_1_0300_pfjqm_00: lapuy Argentinu iñche ñi eleteu feymu fey kidukunueteu iñche fey ñukeyem pilay, pilay amualu y elkunungeyiñ iñchiñ fey kidu amuyngün ka <*SPA>asta <*SPA>hora ñi <*SPA>familia arkentinu miauken kiñekeley chi <*SPA>familia Quiroga <*SPA>allá eskuchametuken abaju Neuken fey 
+nmlch-pfjqm1_1_0301_nmlch_00: elkunurpuy familia Quiroga 
+nmlch-pfjqm1_1_0302_pfjqm_00: kom chepuy ñi <*SPA>familia feypüle <*SPA>dejo <*SPA>uno yey tañi kiñe fotüm <*SPA>con <*SPA>familia <%> 
+nmlch-pfjqm1_1_0303_nmlch_00: amukefuy küdautualu 
+nmlch-pfjqm1_1_0304_pfjqm_00: küdautumekelafuyngün chum femngepenon anta <*SPA>alguna <*SPA>persona tünkelayka 
+nmlch-pfjqm1_1_0305_nmlch_00: tripakantuyaukey 
+nmlch-pfjqm1_1_0306_pfjqm_00: deu tüpay küpa tripay che tripayay küpa müley ñi mapumu kedayal küme mapuyem elüyka <!1elika> ka famngechi mapu <*SPA>casi <*SPA>crusa Arkentinu mülekefuy 
+nmlch-pfjqm1_1_0307_nmlch_00: feymu 
+nmlch-pfjqm1_1_0308_pfjqm_00: feymu 
+nmlch-pfjqm1_1_0309_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0310_pfjqm_00: fey perdey taiñ mapu ka feymu fey 
+nmlch-pfjqm1_1_0311_nmlch_00: iney <!1ini> rume tulay mapu 
+nmlch-pfjqm1_1_0312_pfjqm_00: iñi rume tokalay 
+nmlch-pfjqm1_1_0313_nmlch_00: müna weda <*SPA>no
+nmlch-pfjqm1_1_0314_pfjqm_00: fey <*SPA>alguno <*SPA>paysano <*SPA>no <*SPA>preocupa <*SPA>ninguna <*SPA>cosa chumngechi <*SPA>viejo afuy rume <*SPA>no <*SPA>tiene <*SPA>pensamiento 
+nmlch-pfjqm1_1_0315_nmlch_00: feyllemaychi 
+nmlch-pfjqm1_1_0316_pfjqm_00: iñche feymu ta lifreyiñ fütra uwe fütra <*SPA>tio emu mülelu pedregozo füta malle ñawe fey yemetueyiñmu kidu lewelu iñchiñ yemetueymu mülepatukeyiñ pankuntu <*SPA>quien <*SPA>sabe chunten tripantu chi mülepatuyiñ fey <*SPA>despues küpatuyiñ tamu <*SPA>asta <*SPA>la <*SPA>hora mületuyiñ tamu <*SPA>pero toeya tamu <*SPA>chica <*SPA>nosotros <*SPA>todos <*SPA>su <*SPA>familia  
+nmlch-pfjqm1_1_0317_nmlch_00: tam pu <*SPA>familia 
+nmlch-pfjqm1_1_0318_pfjqm_00: may <*SPA>heramo <*SPA>ocho <*SPA>hermano 
+nmlch-pfjqm1_1_0319_nmlch_00:  pura may 
+nmlch-pfjqm1_1_0320_pfjqm_00: <*SPA>si pura 
+nmlch-pfjqm1_1_0321_nmlch_00: pura 
+nmlch-pfjqm1_1_0322_pfjqm_00: may <*SPA>cuatro <*SPA>hombres <*SPA>cuatro <*SPA>müjeres
+nmlch-pfjqm1_1_0323_nmlch_00: meli somo, meli wentru 
+nmlch-pfjqm1_1_0324_pfjqm_00: <*SPA>si 
+nmlch-pfjqm1_1_0325_nmlch_00: feyti kay papay <uh> ka kiñe kutran müley ta <uh> kimpelafimi ta tüfa <uh> kutran furin pingey müley l'awen' 
+nmlch-pfjqm1_1_0326_pfjqm_00: müley l'awen' ka 
+nmlch-pfjqm1_1_0327_nmlch_00: müley l'awen' 
+nmlch-pfjqm1_1_0328_pfjqm_00: <*SPA>yo <*SPA>tengo <*SPA>ese <*SPA>enfermedad <*SPA>ese <*SPA>todavia <*SPA>como <*SPA>ando feyta tüfayem müten l'awen' ka   
+nmlch-pfjqm1_1_0329_nmlch_00: kutran furinem 
+nmlch-pfjqm1_1_0330_pfjqm_00: kutran furinem <*SPA>pulmon 
+nmlch-pfjqm1_1_0331_nmlch_00: furi mayta kutrankey ta pulmonmu 
+nmlch-pfjqm1_1_0332_pfjqm_00: <*SPA>si <*SPA>pulmon <*SPA>ese kutraniyem muy <*SPA>pues <!1pu'>
+nmlch-pfjqm1_1_0333_nmlch_00: ¡Aa! pekan kutranlay 
+nmlch-pfjqm1_1_0334_pfjqm_00: fey 
+nmlch-pfjqm1_1_0335_nmlch_00: ¡Aa! fey, fey, fey tüfi kay <uh> welngiyem che cheu amukeymün welngileyem 
+nmlch-pfjqm1_1_0336_pfjqm_00: fey mülekay tati areglakelu ka kuyfi tañi mülekan tati areglakelu <*SPA>siempre <*SPA>alguno <!1algunu> <*SPA>persona <*SPA>sabe <*SPA>areglar 
+nmlch-pfjqm1_1_0337_nmlch_00: kiñeke che kim areglay 
+nmlch-pfjqm1_1_0338_pfjqm_00: kim, kim areglay  
+nmlch-pfjqm1_1_0339_nmlch_00: ¡Aa! feyti püuküley petu femngechi trafon trafonmu
+nmlch-pfjqm1_1_0340_pfjqm_00: <*SPA>sí <*SPA>aqui <*SPA>hay <*SPA>varios <*SPA>pues <!1pu'> tañi femngechi
+areglaken che 
+nmlch-pfjqm1_1_0341_nmlch_00:  ¡Aa! <P> petu püuküley feymu
+nmlch-pfjqm1_1_0342_pfjqm_00: petu püuküley 
+nmlch-pfjqm1_1_0343_nmlch_00: pafmukeymi kay eymi?
+nmlch-pfjqm1_1_0344_pfjqm_00: pafmu pinengeken, pafmu pingeken ta, ta iñche tañi nge ta feley ta, ta pelowellelan tüfachi nge ta pelowelay 
+nmlch-pfjqm1_1_0345_nmlch_00: pafmu 
+nmlch-pfjqm1_1_0346_pfjqm_00: pichi pelolan rume <*SPA>este dum dum küley 
+nmlch-pfjqm1_1_0347_nmlch_00: dum <!1sum>, dum <!1sum> küley pafmu pe
+nmlch-pfjqm1_1_0348_pfjqm_00: pafmu penu <!1peno> piken <*SPA>y <*SPA>yo <*SPA>no <*SPA>lo kimlan ta chem kutrangen 
+nmlch-pfjqm1_1_0349_nmlch_00: ¿pafmumu kimimiy l'awen'? 
+nmlch-pfjqm1_1_0350_pfjqm_00: pafmumu kimlan <P> <*SPA>mucho <*SPA>dicen <*SPA>que kümey tati matiko pingekey <*SPA>flor <*SPA>de <*SPA>roza pingeken fey küchakakefun tañi nge tüntulan <*SPA>cada <*SPA>años <*SPA>estoy <%> tañi felerpun tañi nge   
+nmlch-pfjqm1_1_0351_nmlch_00: felerpuy tami nge 
+nmlch-pfjqm1_1_0352_pfjqm_00: felerpuy ñi nge <*SPA>este tañi aku nge pelokelan 
+nmlch-pfjqm1_1_0353_nmlch_00: newe pelowelay 
+nmlch-pfjqm1_1_0354_pfjqm_00: rüf pun pelokelan 
+nmlch-pfjqm1_1_0355_nmlch_00: ¡Aa!
+nmlch-pfjqm1_1_0356_pfjqm_00: <*SPA>así nüunüukülekey <*SPA>así <*SPA>como <*SPA>fuera <*SPA>aun <*SPA>que <*SPA>deje <*SPA>de <*SPA>comer 
+nmlch-pfjqm1_1_0357_nmlch_00: achil dum dumküley 
+nmlch-pfjqm1_1_0358_pfjqm_00: <*SPA>si <*SPA>no <*SPA>claro penelan
+nmlch-pfjqm1_1_0359_nmlch_00: <uh> tüfanga ka kiñe kutran müley müna wauyukey che 
+nmlch-pfjqm1_1_0360_00jqm_00: <*SPA>ese <*SPA>dicen <*SPA>pulmon <*SPA>pues <!1pu'> 
+nmlch-pfjqm1_1_0361_nmlch_00: ka fey 
+nmlch-pfjqm1_1_0362_pfjqm_00: <*SPA>se <*SPA>va <*SPA>sube <*SPA>muy <*SPA>suelto <*SPA>lo <*SPA>pulmon fente 
+nmlch-pfjqm1_1_0363_nmlch_00: rume müñaley 
+nmlch-pfjqm1_1_0364_pfjqm_00: <*SPA>sí <*SPA>ese <*SPA>lo <*SPA>que wauyukey <!1wauyuki> che 
+nmlch-pfjqm1_1_0365_nmlch_00: feymu wauyukey
+nmlch-pfjqm1_1_0366_pfjqm_00: fey <*SPA>muy <*SPA>suelto <*SPA>lo <*SPA>pulmon <*SPA>blando <*SPA>pulmón noamfe  
+nmlch-pfjqm1_1_0367_nmlch_00: rafülay 
+nmlch-pfjqm1_1_0368_pfjqm_00: yafülay 
+nmlch-pfjqm1_1_0369_nmlch_00: may, may, may ¿chumuelu chi fem rumekey <*SPA>pulmon, chumngelu fem rumekey newen ngekelay <*SPA>pulmon?
+nmlch-pfjqm1_1_0370_pfjqm_00: <*SPA>quien <*SPA>sa <*SPA>porque <*SPA>dira femkey 
+nmlch-pfjqm1_1_0371_nmlch_00: yagelmuchi 
+nmlch-pfjqm1_1_0372_pfjqm_00: yagelmuchi <*SPA>mas kodeylle <*SPA>sera  <*SPA>quien <*SPA>sa <*SPA>que <*SPA>sera <!1pu'> piken iñche 
+nmlch-pfjqm1_1_0373_nmlch_00: chem wedake kutran ka mülekey ta tami lofmu papay
+nmlch-pfjqm1_1_0374_pfjqm_00: ¡Aa! 
+nmlch-pfjqm1_1_0375_nmlch_00: tüfamu chem wedake kutran doy mülekey lofmu 
+nmlch-pfjqm1_1_0376_pfjqm_00: tamu 
+nmlch-pfjqm1_1_0377_nmlch_00: may 
+nmlch-pfjqm1_1_0378_pfjqm_00: <P> mülekey ta itrofill kutran, mülekey ta itrofill kutran ka tüfey ta fey llofill kutran  
+nmlch-pfjqm1_1_0379_nmlch_00: hojakey pichikeche 
+nmlch-pfjqm1_1_0380_pfjqm_00: hojakey pichikeche, refriauküley  <*SPA>todo <*SPA>ese <*SPA>pues <!1pu'>
+nmlch-pfjqm1_1_0381_nmlch_00: kom 
+nmlch-pfjqm1_1_0382_pfjqm_00: fey empachu 
+nmlch-pfjqm1_1_0383_nmlch_00: ¿iney mongelkey hojayem 
+nmlch-pfjqm1_1_0384_pfjqm_00: müley tati hojakelu chemkey 
+nmlch-pfjqm1_1_0385_nmlch_00: mongelkelu 
+nmlch-pfjqm1_1_0386_pfjqm_00: mongelkelu 
+nmlch-pfjqm1_1_0387_nmlch_00: ¿cheu müley?
+nmlch-pfjqm1_1_0388_pfjqm_00: hojayem ta che ta 
+nmlch-pfjqm1_1_0389_nmlch_00: hojayem che cheu 
+nmlch-pfjqm1_1_0390_pfjqm_00: wingkamu ta müley tati <*SPA>pues <!1pu'>
+nmlch-pfjqm1_1_0391_nmlch_00: señora 
+nmlch-pfjqm1_1_0392_pfjqm_00: señora ta müley tati 
+nmlch-pfjqm1_1_0393_nmlch_00: mongelkey 
+nmlch-pfjqm1_1_0394_pfjqm_00: mongekey ketu <*SPA>alguno mongelkey, <*SPA>alguno mongelkelay 
+nmlch-pfjqm1_1_0395_nmlch_00: lakey pichikeche anta hojanmu kay 
+nmlch-pfjqm1_1_0396_pfjqm_00: <*SPA>si lakey 
+nmlch-pfjqm1_1_0397_nmlch_00: lakey ka fey 
+nmlch-pfjqm1_1_0398_pfjqm_00: lakey 
+nmlch-pfjqm1_1_0399_nmlch_00: ¡Aa! 
+nmlch-pfjqm1_1_0340_pfjqm_00: muy <*SPA>malo <*SPA>ese palo kauro yem <*SPA>muy <*SPA>malo 
+nmlch-pfjqm1_1_0401_nmlch_00: hojakey lakey pichikeche
+nmlch-pfjqm1_1_0402_pfjqm_00: kiñeke che rume fuerte sangrengey feyta <*SPA>ese <*SPA>lo <*SPA>que <*SPA>busca <*SPA>la <*SPA>persona <*SPA>muy <*SPA>fuerte <*SPA>la <*SPA>sangre <*SPA>sera <*SPA>pues <!1pu'> 
+nmlch-pfjqm1_1_0403_nmlch_00: mollfüñ 
+nmlch-pfjqm1_1_0404_pfjqm_00: <*SPA>si 
+nmlch-pfjqm1_1_0405_nmlch_00: müna lewürke <*SPA>no 
+nmlch-pfjqm1_1_0406_pfjqm_00: fey 
+nmlch-pfjqm1_1_0407_nmlch_00: weda <!1wesa> dungu tati layen pichikeche hojanmu 
+nmlch-pfqm1_1_0408_pfjqm_00: <*SPA>si  <*SPA>yo pingey <*SPA>uno <*SPA>mi <*SPA>familia <*SPA>murio <*SPA>asi hojau 
+nmlch-pfjqm1_1_0409_nmlch_00: kiñe tami familia lay 
+nmlch-pfjqm1_1_0410_pfjqm_00: <*SPA>sí
+nmlch-pfjqm1_1_0411_nmlch_00: hojau 
+nmlch-pfjqm1_1_0412_pfjqm_00: hojá timu con traba pelan <*SPA>asi tati mongelkelu hoja 
+nmlch-pfjqm1_1_0413_mlch_00: pelaymi mongelkelu hojan 
+nmlch-pfjqm1_1_0414_pfjqm_00: <*SPA>si <*SPA>total <*SPA>que <*SPA>fallecio 
+nmlch-pfjqm1_1_0415_nmlch_00: amuy müten
+nmlch-pfjqm1_1_0416_pfjqm_00: amuy 
+nmlch-pfjqm1_1_0417_nmlch_00: empachukelu kay?
+nmlch-pfjqm1_1_0418_pfjqm_00: empachumu feyta <*SPA>mas <!1ma'> <*SPA>facil müley l'awen' 
+nmlch-pfjqm1_1_0419_nmlch_00: iney entukey 
+nmlch-pfjqm1_1_0420_pfjqm_00: <*SPA>culaquiera <*SPA>toma<*SPA> remedio <*SPA>hayta <*SPA>remedio ka empachu 
+nmlch-pfjqm1_1_0421_nmlch_00: petu müley l'awen' 
+nmlch-pfjqm1_1_0422_pfjqm_00: müley l'awen' 
+nmlch-pfjqm1_1_0423_nmlch_00: chem l'awen' chi tüfey 
+nmlch-pfjqm1_1_0424_pfjqm_00: tamu müley l'awen' kordilleramu müley..
+

@@ -1,0 +1,13 @@
+InfoVersion 1
+TurnCounter 382
+SpeakerNum: 2
+nmlch-nfvc1_x_%04d_nmlch_00
+nmlch
+nmlch-nfvc1_x_%04d_nfvc_00
+nfvc
+UserLables: 3
+<*SPA>
+<Cough>
+<Throat>
+LableMenuFile
+C:\Program

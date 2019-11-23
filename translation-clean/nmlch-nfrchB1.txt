@@ -1,0 +1,2579 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nfrchB1 
+; Last changes made on 10/22/2001 
+; Transcriber: Cristian C. Anton 
+; Comments:  
+; Traduce: Pascual Pichun y Julio Marileo.
+
+nmlch-nfrchB1_x_0000_nmlch_00: 
+M: Mari mari lamngen. 
+C: Hola hermana.
+
+nmlch-nfrchB1_x_0001_nfrch_00: 
+M: Mari mari lamngen.
+C: Hola hermano.
+ 
+nmlch-nfrchB1_x_0002_nmlch_00: 
+M: ¿Chumngechi ta amuli ta pun tüfa 
+C: ¿Cómo va la noche hasta ahora
+
+M: eymi tami mongenmu?. 
+C: en tu vida?.
+
+nmlch-nfrchB1_x_0003_nfrch_00: 
+M: Küme rupalen pun, 
+C: Estoy pasando bien la noche,
+
+M: tameu kom kümelkaliyiñ inchiñ, 
+C: aquí todos estamos bien nosotros,
+
+M: ¿eymi kay chumlimi?
+C: ¿y tú cómo estás?.
+
+nmlch-nfrchB1_x_0004_nmlch_00:
+M: Inche kafey ka kümelkalen 
+C: Yo también estoy bien
+
+M: inche fey ngütramkayafin pipeyu tüfa
+C: yo le voy a conversar te dije ahora,
+
+M: inche kintupen ta <uh> dungu, 
+C: yo  hando buscando informacion, 
+
+M: kuyfike dungu ta müleken ta mongenmeu
+C: de las cosas antiguas que existen en la vida
+
+M: fey ka <uh> fill mongen müleki kutran, 
+C: y también en toda la vida existe enfermedades,
+
+M: ka müleki femngechi l'awen',
+C: también existen ese tipo de remedios,
+
+M: pingeki, 
+C: se dice,
+
+M: feyti kuyfikeche ñi ngütrammu,
+C: en su conversación de  las personas de antes,
+
+M: feypiki  ¿feyngepi tüfey ka lamngen? 
+C:  eso se dice, ¿será cierto esto también hermana?
+
+nmlch-nfrchB1_x_0005_nfrch_00: 
+M: Feyngi tati lamngen, feyngi. 
+C: Es verdad pues hermano, es verdad.
+
+nmlch-nfrchB1_x_0006_nmlch_00: 
+M: Feyti tami karukatuche
+C: Y tus vecinos, 
+
+M: ¿fey chem dungu rume ngelay tüfa? 
+C: ¿ no hay ninguna novedad ahora?.
+
+nmlch-nfrchB1_x_0007_nfrch_00: 
+M: Ngelay chem dungu rume kom kümelingün 
+C: No hay problemás todos estamos bien.
+ 
+nmlch-nfrchB1_x_0008_nmlch_00: 
+M: <uh>Femngechi ta rupali <uh>antü
+C:  Aasí estamos pasando día y
+
+M: tripantu mongenmu,
+C: año en la vida,
+
+M: ta kümechi femngechi mongeleki che, 
+C: aasí viven major las personas,
+
+M: welu müli pekan dungu
+C: pero hay asuntos en vano 
+
+M: fey ta ngelay ta mongen. 
+C:  aasí no se vive bien.
+
+M: Küme<uh>chem antümu rume mongelayafuy
+C: En cualquier día nos podemos sentir mal
+
+M: küme mongelelayafuy che
+C: las personas no prodrían vivir bien 
+
+M: femngechi mülele wedake dunguka
+C: si hay problemás pues.
+
+nmlch-nfrchB1_x_0009_nfrch_00:
+M: Femi tati, chau,
+C:  Así es pues, padre,
+
+M: kom kümeley che 
+C: cuando están bien todas las personas 
+
+M: familia kom kümeleyem 
+C: la familia esta bien,  
+
+M: fey kümeki dungu,
+C: eso es bueno,
+
+M: fey niel müleyem kutran
+C: cuando hay enfermedad
+
+M: chem dungu rume 
+C: cualquier problema
+
+M: fey küme rupakelay che. 
+C:  entonces no  lo pasa bien la gente.
+
+nfrchB1_x_0010_nfrch_00lch_00:
+M: Feli lamngen, 
+C: Así es hermana,
+
+M: fey eymi ta kuifi
+C: y tú antes
+
+M: eymi kimpapelaymi kutran,
+C: tú debes haber conocido enfermedades, 
+
+M: tüfa tami mongenmeu
+C: en tu vida de ahora
+
+M: ta fill tripantu
+C: en todos estos años
+
+M: fill<uh>mongenmu müleki kutran
+C: en toda la vida siempre hay enfermedades 
+
+M: ¿kimimi kutran kuifi?
+C: ¿conociste enferemedades antiguas?
+
+M: kiñeke pepal müleki ta itrofill kutran
+C: se encuentra una enfermedad siempre
+
+M: ta mongenmeu. 
+C: en la vida.
+
+nmlch-nfrchB1_x_0011_nfrch_00: 
+M: May.
+C: Sí.
+
+M: Müleki llemay kutran
+C: Hay enfermedad pues
+
+M: tripaki<uh>chem  kutran,
+C: aparecen nuevas enferemedades, 
+
+M: ta kimfuymi eymi, 
+C: conocías tú,
+
+M: ¿chem kutran ramtupeymi?.
+C: ¿qué enfermedad preguntas?
+
+nmlch-nfrchB1_x_0012_nmlch_00:
+M: Chem kutran ngeay rume <uh> lamngen,
+C:  Cualquier enfermedad que sea hermana,
+
+M: chem kutran rume
+C: cualquier enfermedad 
+
+M: müli mongenmu,
+C: hay en la vida,
+
+M: fey welu ka kuyfi ta petu ngenolumu ka,
+C: pero hay algunas que no existían antes,
+
+M: katripache ka mülekefuy ta kutran,
+C: de la gente de otra parte también habían enfermedades,
+
+M: femngechi femli feula welu 
+C: así  está ahora pero
+
+M: chumngechi chi mongelngekefuy
+C: no es como se vivía antes
+
+M: feyti chi kutran 
+C: por esas enfermedades
+
+M: kuyfi kay 
+C: y antes
+
+M: petu ka akunolu 
+C: cuando todavía no llegaban
+
+M: ta kake tripache. 
+C: los extranjeros.
+
+nmlch-nfrchB1_x_0013_nfrch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Chem?
+C: ¿Qué?
+
+M: kiñe chem perimontunmu 
+C: una cosa de visión
+
+M: kutran müten 
+C: enfermedades nomás
+
+M: chem kimpan inche,
+C: alcancé a conocer yo,
+
+M: petu weche inche
+C:  todavia era joven yo
+
+M: tem petu kimlan
+C:  no sabía nada tadavía
+
+M: tüfichi kutran, 
+C: de esas enfermedades,
+
+M: kuyfichi ke chem
+C: de los asuntos  antiguos
+
+M: ñi kutran mülekefülu,
+C: de las enfermedades que habían, 
+
+M: doy pütrakeche ta doy kimni.
+C:  los más ancianos saben más.
+ 
+nmlch-nfrchB1_x_0014_nmlch_00:
+M: ¿Chafod kimlaymi?
+C:  ¿De resfrío no sabes?
+
+nmlch-nfrchB1_x_0015_nfrch_00: 
+M: Chafo kimün <*SPA>pue' chafo <uh>
+C:  De resfrío sé pues, del resfriado. 
+
+
+nmlch-nfrchB1_x_0016_nmlch_00: 
+M: ¿Fey kimimi?
+C:  ¿Y sabes 
+
+M: chumngechi ñi mongelngekefel kuifi?
+C:  cómo lo aliviaban antes?
+
+nmlch-nfrchB1_x_0017_nfrch_00: 
+M: May. 
+C: Sí.
+
+M: <uh>Chafod kutran lonkoyem che
+C:  El resfriado con dolor de cabeza la gente
+
+M: fey chem trarintukungeki 
+C:  y qué las personas se les amarra 
+
+M: fiskü foye lonkomeu, 
+C: canelo fresco en la cabeza,
+
+M: fey rupatuki chi kutran lonko, 
+C:  así se pasa el dolor de cabeza,
+
+M: chafod ka 
+C: el resfriado también
+
+M: müte müleyem <uh>.
+C: cuando hay mucho.
+ 
+nfrchB1_x_0018_nfrch_00ch_00:
+M: May 
+C: Sí.
+
+nmlch-nfrchB1_x_0019_nfrch_00: 
+M: <uh>Chem tüpül folo <%>
+C:  La hoja de Boldo
+
+M: wütrungeyke arekomeu
+C:  se moja con agua caliente
+
+M: fey pichi fiskü lewem
+C:  y  cuándo está fresco
+
+M: fey pütokongeki, 
+C:  se bebe,
+
+M: fey rupatuki ta chofod trüfon. 
+C: aasí pasa el resfriado y la tos.
+
+nmlch-nfrchB1_x_0020_nmlch_00:
+M:  Feytichi trüfon ka chafod
+C:  La tos y el resfriado
+
+M: ¿chumngechi chi tungeki ?
+C: ¿cómo se contagia ?
+
+M: mongenmeu fill che tuafuy
+C: porque cualquier persona  se puede enfermar
+
+M:  pichikeche müten
+C:  los niños también
+
+M: pütakeche müten
+C:  los adultos también
+
+M: kam fill che.
+C: y todas las personas.
+ 
+nmlch-nfrchB1_x_0021_nfrch_00:
+M: Fütakeche tuki ka,
+C: Los adultos se contagian también,
+
+M: ka pichikeche,
+C: también los niños, 
+
+
+M: kom che tuki feychi kutran
+C: todas las personas se pueden enfermar
+
+M:<uh>tripaki 
+C: y sale
+
+M: chem wütremeu may,
+C: cuando pasa frío pues,
+
+M: wütremeu ka.
+C: en el frío.
+
+M: Müte müleyem antümeu
+C: Cuando esta mucho en el sol
+
+M: umauumaungechi, 
+C: y se queda dormido,
+
+M: chemu tripa wümauyem, 
+C:  hasta cuando amanece,
+
+M: tripaki antü ka,
+C: sale en el sol también,
+
+M: fey wekun müleyem che,
+C: cuando las personas están afuera,
+
+M: fey tripaki feychi kutran,
+C: así sale esa enfermedad,
+
+M: kutran lonko.
+C: del dolor de cabeza.
+
+nmlch-nfrchB1_x_0022_nmlch_00: 
+M: Feyti kuñiutunolu 
+C: El que no se cuida 
+
+M: che e pekan tripale
+C: cuando salga mucho
+
+M: femngechi kichulele
+C: o cuando esté mojada
+
+M: tañi ropa 
+C: su ropa
+
+
+M: ka<uh>rume wesa pañitulu
+C: y cuando  se asolea mucho
+
+M:  kutranürkeafuy tüfey.
+C:  se puede enfermar.
+
+nmlch-nfrchB1_x_0023_nfrch_00: 
+M: May.
+C: Sí.
+
+M: Femngechi kutrankeche
+C: Aasí enfermo
+
+M: rume pañituyem.
+C: se exponga al sol.
+
+M:  kuysauki che mawün mawün ngeyem
+C:  se cuida la persona cuando está lloviendo
+
+M:  ¿pingekela anchi ga? 
+C:  ¿no se dice así? 
+
+B1_x_0025_nfrch_00
+M: Foye cheu pengeafuy,
+C:  Y el Canelo donde se va a encontrar,
+
+M: foye feyti kay lamngen
+C:  el canelo hermano
+
+M: tuyem kuysauki che.
+C:  si no lo cuidan  las personas.
+
+M: Mawün mawün ngemüleki 
+C: Si llueve y llueve
+
+M: cheu wefki ko 
+C: donde aparece agua 
+
+M: müleki foye, 
+C:  hay canelo, 
+
+M: feychi l'awen'
+C: este remedio
+
+M: fey tukungeki lonkomeu. 
+C: se coloca en la cabeza.
+
+M: ¡Ah!
+C: ¡Ah!
+
+M: kutran lonkomeu
+C: cuando duele la cabeza
+
+M: fey fiskü tungeki, 
+C: eso se toma fresco,
+
+M: fey allfenmeu eñumalngeki 
+C: cuando es herida se calienta
+
+M: fey weywiñ kütralmu,
+C: a la orilla del fuego,
+
+M:  fey tukungeki cheu müli chi allfen. 
+C:  eso se coloca donde esta la herida.
+
+nmlch-nfrchB1_x_0026_nmlch_00:
+M: ¡Ah!
+C: ¡Ah! 
+  
+M: feychi<uh>chafodmu
+C: cuando esta recien enfermo 
+
+M: ¿ feyta re karü tapül müten pemay?
+C:  ¿serán las hojas verdes no más?
+
+nmlch-nfrchB1_x_0027_nfrch_00:
+M:May.
+C: Sí.
+
+M : Karü tapül müten. 
+C : Hojas verdes nomás.
+
+
+nmlch-nfrchB1_x_0028_nmlch_00: 
+M: ¿ Fey allfenmu
+C: ¿Y en la herida 
+
+M: ka kümerki pe may? 
+C: es bueno también entonces?.
+
+nmlch-nfrchB1_x_0029_nfrch_00: 
+M: Allfenmu ka kümerki, 
+C: En la herida también es bueno,
+
+M: tukungeki <uh> allfenmeu <*SPA>pue',
+C: se coloca en la herida reciente pues, 
+
+M: ¿chem eñumeñum tungeki? 
+C: ¿qué se calienta antes de aplicarlo? 
+
+M: <uh>kütralmeu
+C: en el fuego 
+
+M:  fey tukungeki cheu mülechi allfen foye.
+C: y se coloca donde está la herida el canelo.
+
+M:  Kangelu l'awen' ka müli:
+C:  Otros remedios también hay:  
+
+M: mülul pingey mülpun ka
+C: la zarzaparrilla y el ollín
+ 
+nmlch-nfrchB1_x_0030_nfrch_00:
+M: müleyem chi kütralwemeu, 
+C: que está en el fogón,
+
+M: afkameu ka feychi ¿chem? 
+C:  y al terminarse eso ¿qué?
+
+M: kütrüngeki kom uyeuchi epu l'awen' 
+C:  se estrujan los dos remedios
+
+M: kütrükütrütungeki 
+C:  se cortan y cortan
+
+M: fey ka tukulelngeki 
+C: y  eso se coloca
+
+M: cheu mülechi allfün,
+C:  donde está la herida,
+
+M: fey chi l'awen' kümika
+C: ese remedio es bueno
+
+M:  fey ka<uh>lüfmeu.
+C:  para la quemadura también.
+
+M: Ka kümey ka lüpüm trapu.
+C:  El trapo mojado también sirve.
+
+nmlch-nfrchB1_x_0031_nfrch_00: 
+M: Pingeki kurü trapo
+C: Dicen que es trapo negro
+
+M:  chem trapo rume kümelay,
+C:  cualquier trapo no sirve,
+
+M:  kürü trapo fey lüpümngeki 
+C:  el trapo negro se quema
+
+M: kafey chi mülpünkülewelu
+C: con el ollin que queda
+
+M:  fey wente allfün tukulelngeki,
+C:  aasí se coloca sobre la herida,
+
+M: lüfmeu ka kümeki ka. 
+C: en la quemadura también sirve. 
+
+1_x_0032_nfrch_00033_nmlch_00: 
+M: ¿Lüfiyem che?
+C: ¿Cuando se quema la persona?
+
+nmlch-nfrchB1_x_0033_nfrch_00: 
+M: May.
+C: Sí.
+
+M:  Lüfiyem che.
+C: Cuando se quema la persona.  
+
+nmlch-nfrchB1_x_0034_nmlch_00:
+M: ¿Welu allfuyem pipimi? 
+C: ¿ En la herida dijiste?
+
+M: chumngechi allfen tüfi trafoyem, 
+C: cuando  se hiere de quebradura,  
+
+M: welngiyem,
+C:  zafadura,
+
+M:  kam<uh>katrüfünyem.
+C:  o en cortadura de carne.
+
+nmlch-nfrchB1_x_0035_nfrch_00:
+M:  Katrüfünyem che fey kümeki
+C: Cortadura de carne es bueno
+
+M:  feychi foye ka. 
+C: el canelo también.
+
+nmlch-nfrchB1_x_0036_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: ¿Feychi foye?
+C: ¿El Canelo?
+ 
+nmlch-nfrchB1_x_0037_nfrch_00: 
+M: May.
+C: Sí.
+
+nmlch-nfrchB1_x_0038_nmlch_00:
+M: Mülpün engu.
+C:  Con el ollin.
+ 
+nmlch-nfrchB1_x_0039_nfrch_00: 
+M: Mülpün engu.
+C: Con el ollin.
+
+nmlch-nfrchB1_x_0040_nmlch_00: 
+M: ¿Ka chem pimiama? 
+C: ¿Qué otra cosa dijo Ud.?
+
+nmlch-nfrchB1_x_0041_nfrch_00:
+M: Mülul.
+C: Zarzaparrilla.
+
+nmlch-nfrchB1_x_0042_nmlch_00:
+M: ¡Ah!
+C:  ¡Ah!
+
+M: Mülul.
+C: Zarzaparrilla.
+ 
+nmlch-nfrchB1_x_0043_nfrch_00: 
+M: May.
+C:  Sí.
+ 
+nmlch-nfrchB1_x_0044_nmlch_00:
+M: Küla l'awen' ta trapümngi
+C:  Los tres remedios se juntan
+
+M: feyti fey seyulngi 
+C: y eso se mezcla
+
+M: fey kom üllfüngeki
+C: y todo se restriega
+
+M: ka lapantukulelngi ti
+C: se le esparce eso
+
+M: feytichi katrüfümnünmu.
+C: donde esta la cortadura de carne.
+
+nmlch-nfrchB1_x_0045_nfrch_00:
+M: May.
+C:  Sí.
+
+M: Trarikunungeki kiñe trapumeu pañu.
+C: Se le amarra con un trapo de género.
+ 
+nmlch-nfrchB1_x_0046_nmlch_00:
+M: Feyti ka kiñe rumeafuy kay 
+C: Y eso le pasa los dolores también
+
+M: antü kay doy kümetun.
+C: al día siguiente esta mejor.
+
+nmlch-nfrchB1_x_0047_nfrch_00:
+M: May, May.
+C:  Sí, Sí.
+
+M: ¿Chem bromaki mongetual?
+C:  ¿Qué se demora en mejorar?
+
+M: welu mongeki allfen.
+C: pero se mejora la herida.
+ 
+nmlch-nfrchB1_x_0048_nmlch_00:
+M: ¿Feytichi katrükunu
+C: ¿Para la cortadura de carne
+
+M: mülepi l'awen' kay pitalmu lamngen?
+C: habrá remedio en el hospital hermana?
+ 
+nmlch-nfrchB1_x_0049_nfrch_00:
+M: Ngelay pitalmu l'awen',
+C:  No hay remedio en el hospital,
+
+M: fey kampumu müten müli feychi l'awen'.
+C: en el campo no más hay remedio.
+
+ nmlch-nfrchB1_x_0050_nmlch_00:
+M: ¡Ah! 
+C:  ¡Ah!
+
+M:  re femngechi
+C:  así nomás.
+ 
+nmlch-nfrchB1_x_0051_nfrch_00:
+M: May.
+C:  Sí.
+ 
+nmlch-nfrchB1_x_0052_nmlch_00:
+M: ¿Chumngechi kimfi chi l'awen'
+C:  ¿Cómo conoció el remedio
+
+M: <uh>mapuche, lamngen,
+C:  el mapuche, hermana,
+
+M: eymi tüfi kimimi 
+C: tú sabes de eso
+
+M: tüfa tami mongenmu? 
+C: ahora en tu vida? 
+
+M: ta papeltunolu feyta mapuche 
+C:  como no estudiaron los mapuches 
+
+M: ngelay ta chillkatun ta<uh>chi küpalmemu 
+C: no hay estudio  en esta generación 
+
+M: welu ¿chumngechi kimfi feyti l'awen'?
+C: pero ¿cómo conoció los remedios?
+
+M: ¿iñi chi feypieyu tüfi?
+C: ¿quien le habrá dicho eso?
+ 
+nmlch-nfrchB1_x_0053_nfrch_00:
+M: Inche tañi ñuke ta feypieneu:
+C:  Mi madre me dijo esto:
+
+M: feychi l'awen' kümeki
+C: ese remedio es bueno
+
+M: feychi kutranmu pieneu,
+C: para esas enfermedades me dijo,
+
+M: inche ka kimkelafun
+C: yo también no sabía.
+ 
+_x_0055_nfrch_000056_nmlch_00:
+M: ¿Kom kim rupakerki che? 
+C: ¿Como aprenden las personas?
+
+nmlch-nfrchB1_x_0056_nfrch_00: 
+M: <*SPA>No  <*SPA> no 
+C: No, no.
+
+M: Kom kimkelay che,
+C: Todo no lo sabe la gente,
+
+M: feypingen kimki nielu,
+C: cuando le enseñan aprende,
+
+M: doy kimün füchakeche fey 
+C: los ancianos saben más 
+
+M: feychi l'awen' kimki,
+C: ese remedio conocen,
+
+M: weche kimkelay
+C: los jovenes no saben
+
+M: wekeche asümelngeyem fey kimki.
+C: los jovenes si se les enseña entonces aprenden.
+ 
+nmlch-nfrchB1_x_0057_nmlch_00:
+M: ¡Ah! 
+C: ¡Ah!
+
+
+M: femngechi
+C: de esa manera. 
+ 
+nmlch-nfrchB1_x_0058_nfrch_00:
+M: May.
+C: Sí.
+ 
+nmlch-nfrchB1_x_0059_nmlch_00:
+M: Femngechi, 
+C:  De esa manera,
+
+M: femngechi kimngi tüfa.
+C:  así se aprende esto.
+
+nmlch-nfrchB1_x_0060_nfrch_00:
+M: Femngechi kimngeki l'awen'.
+C:  Así se conocen los remedios.
+
+nmlch-nfrchB1_x_0061_nmlch_00:
+M: Feytichi pütakeche
+C:  Los ancianos
+
+M: ¿chumngechi chi kimfuy feychi l'awen'?
+C: ¿cómo conocieron esos remedios?
+
+M: tüfi ka nielafuy ta papeltun engün
+C: esos no estudiaron tampoco
+
+M: ka ta nielafuy tañi chillkatun engün
+C: y no fueron a la escuela ellos
+
+M: ¿tüfey ini feypieyu chi fütakeche?
+C: ¿y quién les enseñó a los ancianos?
+
+M: tüfey ta tüfa kümi femal ta ka femngelu,
+C:   esto es bueno para eso, 
+
+M: ka famngelu tüfa kümi, 
+C: esto también sirve,
+
+M: rume asümüwürkefuy 
+C: sabían  mucho
+
+M: femngechi ngütramüuleki
+C: así se va aprendiendo
+
+M: ¿ta tüfey ka chumngechi chi kimki
+C:  ¿ellos como saben 
+
+M: ti l'awen' tüfey femngechi?
+C: de los remedios?
+ 
+nmlch-nfrchB1_x_0062_nfrch_00:
+M: Femngechi inchiñ ta kuifi
+C: Aasí nosotros antes  aprendíamos
+
+M: ta papeltukelafuyin 
+C: no estudiábamos
+
+M: ta kimla ta l'awen' inchiñ,
+C: para conocer los remedios,
+
+M:  ta chau ngünechen
+C:  el padre  ngünechen
+
+M: ta elukeyimu ta peuma 
+C: nos da los sueños
+
+M: fey taiñ kimal tüfichi l'awen',
+C: para conocer ese remedio,
+
+M:  inchiñ ta amukelafuyin ,
+C: nosotros no íbamos,
+
+M: ta kuyfi füchakeche
+C: los ancianos 
+
+M:  ta amukelafuy ta kolegiotual,
+C:  no iban a estudiar,
+
+M: pewmameu ta kimkeyin ta l'awen'.
+C: por los sueños conocemos los remedios.
+ 
+nmlch-nfrchB1_x_0063_nmlch_00: 
+M: Taiñ küpalmemu. 
+C:  Con nuestros antepasados.
+
+nmlch-nfrchB1_x_0064_nfrch_00: 
+M: Taiñ küpalmeu
+C: Con nuestros antepasados
+
+M:  feychi dungu inchiñ,
+C:  ese asunto nosotros,
+
+M: inchiñ taiñ mapuchengen;
+C: en nuestro ser mapuche;
+
+M: winka may papeltuki
+C: los occidentales estudian
+
+M:  fey kimki l'awen' 
+C:  y ahí conocen los remedios
+
+M: estudiaki ka, 
+C: estudia también,
+
+M: inchiñ welu femkelayiñ. 
+C: pero nosotros no hacemos eso.
+
+_x_0065_nfrch_000014_nmlch_00: 
+M: Tüfa kuyfi ngünechen el-lu
+C:  Esto antes lo dejó Ngünechen 
+
+M: mapu, ka elfi che,
+C:  la tierra, también la gente,
+
+M: ka eli <uh>mawida, 
+C: también dejó la montaña,
+
+
+M: ka eli l'awen' rüftu tüfey
+C: también dejó remedio verdaderamente eso
+
+M: ka<uh>Ngünechen may
+C: y también Ngünechen 
+
+M: eluperkefi kimün, 
+C:  le dió la sabiduría entonces,
+
+M: ka femngechi tañi l'awen'tuwal mapuche.
+C: así también para que se remedie el mapuche.
+
+nmlch-nfrchB1_x_0066_nfrch_00:
+M: Femi Ngünechen llemay
+C: Eso hizo Ngünechen pues
+
+M: re elukimu kimün 
+C: sólo te da la sabiduría
+
+M: amuwenual taiñ papeltual.
+C: para que no vayamos a estudiar.
+ 
+nmlch-nfrchB1_x_0067_nmlch_00: 
+M: Femngechi may
+C: Así es pues 
+
+M: ¿ti mülepi ka kiñeke 
+C: ¿ habrá también algunos 
+
+M: doy asümüwalu tüfa lamngen? 
+C: con más habilidades en eso, hermana?
+
+M: ta müleki machi
+C:  hay machi
+
+M:  ka müleki ta l'awen'tuchekelu
+C:  también hay curanderas (os)
+
+M: <uh>pepilüwki ta mongenmu che,
+C: tienen habilidades en la vida la gente,
+
+M: ka notulealu, 
+C: y que guíe,
+
+M: katrütunialu ta kutran
+C: que detenga las enfermedades
+
+M: ¿feyti ngünechenmu pinmu pe?
+C: ¿esto es porque Ngünechen lo quiere así tal vez?
+ 
+nmlch-nfrchB1_x_0068_nfrch_00: 
+M: Ngünechenmu pinmu llemay,
+C:  Porque Ngünechen lo quiere así pues,
+
+M: fey che machi doy kimki,
+C: la machi sabe más, 
+
+M: fey doy elungeki peuma,
+C: a ella le da más sueño,
+
+M:  kimün kom, 
+C:  toda sabiduria, 
+
+M: welu inchiñ  tañi mapuchengen 
+C: pero nosotros los mapuches
+
+M: femngechi küpan nieyin.
+C: tenemos esas descendencias. 
+ 
+nmlch-nfrchB1_x_0069_nmlch_00:
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-nfrchB1_x_0070_nfrch_00:
+M: Femngechi mongenmu 
+C:  Ese forma de vida,
+
+M: kimkiyin inchiñ chem peumameu 
+C: sabemos nosotros mediante el sueño
+
+M: ka femngechi kimün küpaliyin
+C: y también ese tipo de sueños traemos
+
+M: fey elngeyiñ inchiñ elngelu kuyfi. 
+C: pues nos dejaron a nosotros desde hace mucho tiempo.
+
+nmlch-nfrchB1_x_0071_nmlch_00:
+M: Tüfa Ngünechen küpal-lu mapu 
+C: Este Ngünechen que trajo la tierra.
+
+nmlch-nfrchB1_x_0072_nfrch_00:
+M: Ngünechen deumalu mapu 
+C: Ngünechen hizo la tierra,  
+
+M: kom eli l'awen', 
+C: todo dejó los remedios, 
+
+M: ka kimal taiñ chem l'awen'tukual kutranmeu.
+C: para conocer que remedios vamos a aplicar a las enfermedades.
+
+nmlch-nfrchB1_x_0073_nmlch_00: 
+M: Feli lamngen tüfey may 
+C: Así es hermana eso, pues 
+
+M: ka inchiñ ta katripache 
+C: también nosotros, la gente de otro origen
+
+M: tañi rakiduammu
+C: en sus pensamientos
+
+M:  ka inchiñ mapuchengenmu
+C:  también nosotros los mapuche
+
+M: trürperkelay rakiduam ka.
+C:  no se habrán juntado los pensamientos tampoco.
+
+nmlch-nfrchB1_x_0074_nfrch_00: 
+M: Trürlay rakiduam,
+C: No se juntaron los pensamientos,
+
+M: trürlay.
+C: no se juntaron.
+ 
+nmlch-nfrchB1_x_0075_nmlch_00: 
+M: Kichuengün papeltuy
+C: Ellos estudiaron
+
+M:  chillkatuy wüla kimi l'awen',
+C: estudiaron y ahí recién conocieron los remedios,
+
+M: inchiñ feyta taiñ küpalmemu
+C: nosotros en nuestra desendencia 
+
+M:  Ngünechen pewmamu 
+C: Ngüenechen en sueños
+
+M:  pepilkalkeymu l'awen' perke. 
+C: nos enseña los remedios entonces.
+
+nmlch-nfrchB1_x_0076_nfrch_00: 
+M: May.
+C: Sí,
+
+M: Femki inchiñ 
+C: Así hacemos nosotros.
+
+nmlch-nfrchB1_x_0077_nmlch_00:
+M: ¡Ah! 
+C : ¡Ah!
+ 
+M: feyti lamngen
+C: eso hermana;
+
+M: ¿<uh>feyti pipiminga?
+C:  ¿ Eso que estabas diciendo?
+
+M: ¿lüfünmu chem kümi ama pipimi ?
+C:  ¿qué dijo Ud. que sirve para la quemadura?
+
+
+nmlch-nfrchB1_x_0078_nfrch_00:
+M: Chem lüpüm trapu
+C: Cualquier trapo quemado
+
+M: tukulelngeki pipiyunga,
+C: se le aplica le dije,
+
+M:  ka chem külon make
+C: y la cascara del make
+
+M: ka fiskü kütrüngeki 
+C: también fresco se estruja
+
+M: fey karülewelu, 
+C: cuando está verde, 
+
+M: lliwiskülewelu
+C: como crema
+
+M:  fey ka wente lüf lapantukulelngeki 
+C: esto así sobre la herida se le esparce  
+
+M: fey ka kümeduamki chi lüf ka.
+C:  y así se siente bien la quemadura pues.
+ 
+nmlch-nfrchB1_x_0079_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+nmlch-nfrchB1_x_0080_nfrch_00:
+M: Fey pichin lüflu,
+C: Eso para cuando un poco se quema,
+
+M: welu müten alü lüflu 
+C: pero cuando se quema harto
+
+M: fey amuki che pitalmu,
+C: ahí la persona va al hospital, 
+
+M: mongemetuki,
+C: se va aliviar,
+
+
+M: müleki ka l'awen'
+C: hay otros remedios
+
+M:  winka l'awen' ka tukulelngeki 
+C: remedios huinca también le aplican.
+
+nmlch-nfrchB1_x_0081_nmlch_00: 
+M: May.
+C:  Sí.
+
+M: ¿Welu mapuchemu
+C: ¿Pero en el mapuche
+
+M: mülerki pepilüwun? 
+C: es que entonces hay habilidades? 
+
+nmlch-nfrchB1_x_0082_nfrch_00: 
+M: May.
+C:  Sí.
+
+M: Müli ka pepilüwün.
+C: También hay preparación.
+ 
+nmlch-nfrchB1_x_0083_nmlch_00:
+M: Feli llemaychi lamngen
+C: Así es pues, hermana
+
+M: fey ka kümey 
+C:  eso también es bueno
+
+M: ta <uh>kimni l'awen' che
+C: cuando la persona sabe de remedios 
+
+M: fey pichin kutranmu
+C: para enfermedades pequeñas
+
+M: ta kutrankaulay tüfey ka. 
+C: éste no sufre  pues.
+
+
+nmlch-nfrchB1_x_0084_nfrch_00:
+M: Femki <*SPA>pu' kutrankaukelay
+C: Así ocurre pues, no sufre
+
+M: kimnelu l'awen',
+C: el que sabe de remedios,
+
+M: kimnolu fey ka 
+C: el que no sabe   también
+
+M: pürüm yengeki pitalmeu. 
+C: de inmediato se le lleva al hospital.
+
+nmlch-nfrchB1_x_0085_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: <uh>feypikimi nga lamngen
+C: eso que decías, hermana
+
+M: rume kimchelekerkefuy may 
+C: sabian mucho la gente entonces pues
+
+M: taiñ pütakeche,
+C: nuestros ancianos,
+
+M: kuyfi<uh>asümal ta l'awen'
+C: antes para saber de remedios
+
+M: <uh>pekan dungu  <*SPA> no,
+C: asuto en vano no era,
+
+M:  ¿fey chumngechi chi
+C:  ¿y cómo será que 
+
+M:  fente küme as niefuyin
+C: tan buena características teníamos
+
+M: rakisuam engün lamngen tüfey?.
+C: y los pensamientos de ellos, hermana?.
+
+nmlch-nfrchB1_x_0086_nfrch_00: 
+M: Feli lamngen.
+C: Así es hermano.
+ 
+nmlch-nfrchB1_x_0087_nmlch_00: 
+M: ¿Fey<uh>chumngeluchi
+C:  ¿Pero por qué
+
+M: fente kimkerkefi tüfey? 
+C: tanto se sabia? 
+
+nmlch-nfrchB1_x_0088_nfrch_00: 
+M: Chau ngünechen llemay 
+C:  Chau Ngüenechen, pues 
+
+M: kom ñi chem.. 
+C: todas sus cosas.
+
+nmlch-nfrchB1_x_0089_nmlch_00: 
+M: Elel mapu 
+C:  Dejó la tierra.
+
+nmlch-nfrchB1_x_0090_nfrch_00: 
+M: Elel mapun,
+C: El que dejó la tierra,
+
+M: kuyfi chem dungu rume 
+C: antes cualquier  cosa
+
+M: pekan el-lay 
+C: no dejó en vano 
+
+M: kom nieyñi pepilüwün,
+C: todos tenemos habilidades,
+
+M: niey mapuche dungu llemay,
+C: tiene el mapuche ideas pues,
+
+M: feli kom che
+C: así está toda la gente
+
+
+M: niy <uh>chem <*SPA>dueño kom che,
+C: tiene dueño toda la gente,
+
+M: kom chem dungu rume niey,
+C: todo cualquier asunto tiene,
+
+M: nien piafel ma nga mawida
+C: la montaña tiene algo que decir
+
+M: ñi nien kütral
+C: que tiene fuego
+
+M: niy ñi ngen lüufu müli,
+C:  tiene su dueño, dueño del río existe,
+
+M:  ngen leufu, 
+C: dueño del río,
+
+M: ngen mawida, 
+C: dueño de la montaña,
+
+M: ngen kürüf
+C: dueño del viento
+
+M: fey inchiñ kom
+C: y todos nosotros
+
+M: feychi dungu as nieyiñ kom,
+C:  aasí  nosotros tenemos todo,
+
+M: ad Ngünechenmu
+C: la imagen de Ngüenechen
+
+M: ñi adümel inchiñ 
+C: lo que aprendemos nosotros
+
+M:  kom kimkeyiñ tati, lamngen.
+C: todos sabemos pues, hermano.
+
+
+nmlch-nfrchB1_x_0091_nmlch_00: 
+M: ¿Feyti ko pekan müleperkelay?
+C: ¿Esa agua no está por estar entonces?
+ 
+nmlch-nfrchB1_x_0092_nfrch_00:
+M: Pekan ngelay ko
+C: En vano no está el agua,
+
+M: kom chi elel Ngünechen, 
+C: todo lo dejó Ngüenechen, 
+
+M: niey ngen.
+C: tiene dueño.
+
+nmlch-nfrchB1_x_0093_nmlch_00:
+M: Ngenngelu. 
+C:  El que es dueño.
+
+nmlch-nfrchB1_x_0094_nfrch_00:
+M: May.
+C:  Sí.
+
+M: Müli ngenngelu.
+C: Existe el que es dueño.
+
+nmlch-nfrchB1_x_0095_nmlch_00: 
+M: ¿Feyti ko yamfalürki pe
+C: ¿Esa agua es de respetar entonces
+
+M:  tüfi mongenmu?
+C: ese en la vida?
+
+nmlch-nfrchB1_x_0096_nfrch_00:
+M: May.
+C:  Sí.
+
+M:  Yamfali leufü ko
+C: Es de respetar el agua del río
+
+M: chen, chem rume <uh>. 
+C: por cualquier cosa. 
+
+
+nmlch-nfrchB1_x_0097_nmlch_00: 
+M: ¿Chumngelu llamfali
+C:  ¿Por qué se respeta
+
+M: pimieymi lamngen? 
+C: dijiste hermana?
+
+M: müli ta ngen ko
+C: hay dueño del agua
+
+M:  lewfü ngen ngelu 
+C: el dueño del río
+
+M: feyti chumafuy 
+C: eso que pueden hacer
+
+M: <uh> pekan chumle rume ko chemürke 
+C: en vano si hace cualquier cosa el río.
+
+nmlch-nfrchB1_x_0098_nfrch_00:
+M: Müli ngen ko,
+C: Hay dueño del agua,
+
+M:  ngen ko müleyüm fey yamngeki. 
+C: porque hay dueño del agua por eso se le respeta.
+
+nmlch-nfrchB1_x_0099_nmlch_00: 
+M: ¿Feyti chumfile rume ko chi che?
+C:  ¿Y si la persona hace cualquier cosa con el agua? 
+
+M: ¿chumürkeafuy?
+C: ¿qué le pasaría?
+
+M: ¿kutranafuy? 
+C: ¿se puede enfermar?
+
+nmlch-nfrchB1_x_0100_nfrch_00:
+M: Kutranafuy.
+C: Se puede enfermar.
+
+nmlch-nfrchB1_x_0101_nmlch_00:
+M: ¡Ah!
+C: ¡Ah! 
+
+M:  feyti kay lamngen,
+C: y eso heramana,
+
+M:  ¿mawida ka niey ngenngelu?
+C: ¿la montaña también tiene dueño?.
+  
+nmlch-nfrchB1_x_0102_nfrch_00:
+M: Ka niey ngen madisa chem. 
+C: También dueño tiene la montaña.
+
+nmlch-nfrchB1_x_0103_nmlch_00: 
+M: ¿Müli ngenngelu?
+C:  ¿Hay dueño?
+
+nmlch-nfrchB1_x_0104_nfrch_00:
+M: May.
+C:  Sí.
+ 
+nmlch-nfrchB1_x_0105_nmlch_00:
+M: ¿Fey chem müli mawidamu? 
+C: ¿Y qué hay en la montaña?
+
+M: ¿kafey chumngelu?
+C:  ¿también cómo es eso?
+
+M: fente  poyengekerkefuy mawida
+C: se debería cuidar mucho la montaña
+
+M: mülefuy l'awen' tüfi kam. 
+C: donde además hay remedios ahí pues.
+
+nmlch-nfrchB1_x_0106_nfrch_00:
+M: Mawida niey
+C: La montaña tiene
+
+
+M: kom l'awen', niey,
+C: todo tipo de remedios, tiene,
+
+M: feymeu niengeki yam <uh> 
+C: por eso se le tiene respeto
+
+M: kutrani fey wütungeki mawida
+C: cuando uno se enferma entonces se acude a la montaña
+
+M:  fey chi mawida
+C: y la montaña
+
+M: fey nieki l'awen'
+C: entonces tiene remedios
+
+M: tañi mongeltucheal.
+C: para aliviar a la gente.
+
+Nmlch-nfrchB1_x_0107_nmlch_00: 
+M: ¡Ah!
+C: ¡Ah!
+
+M: fey pekan konpulay mawidamu che.
+C:  y en vano no entra a la montaña la gente.
+ 
+nmlch-nfrchB1_x_0108_nfrch_00:
+M: Pekan konpukelay che,
+C: En vano no entra la gente,
+
+M: mapuche mongen entumeayem l'awen' 
+C: los mapuche cuando van a sacar remedio
+
+M: ngüllatukunuki fey entuki l'awen',
+C: hacen una rogativa y así saca remedios,
+
+M: elukiyu <*SPA>permiso mawida
+C: le da permiso la montaña
+
+M: fey chi kutran mongetuki kom; 
+C: entonces la enfermedad se sana toda;
+ 
+M: <uh>che re femngechi yemengekelay l'awen',
+C: la persona no debe llegar y llevarse el remedio,
+
+M: ngillamengeki chi l'awen'
+C: debe comprar al remedio
+
+M: wüne ngillatumeki chi che
+C: primero va a rogar la gente
+
+M: fey, fey wüla, wüla mongelngetuki chi kutran, 
+C: y, y ahí recién, ahí recién se mejora el enfermo,
+
+M: fey doy kümekunukeyu feychi l'awen' 
+C: entonces mejor efecto le hace el remedio,
+
+M: fey ngillatupuy che mawidameu. 
+C: cuando ruega la gente en la montaña.
+
+nmlch-nfrchB1_x_0109_nmlch_00:
+M: ¡Ah!
+C: ¡Ah!
+ 
+M: feyti pe yamfelmu ta ngen l'awen
+C: eso será por respeto al dueño del remedio
+
+M: yamfelmu ta ngen mawida, 
+C: por respeto al dueño de la montaña,
+
+M: ¿feymu pe femkerki? 
+C: ¿por eso entonces se hace eso?
+
+nmlch-nfrchB1_x_0110_nfrch_00:
+M: May 
+C:  Sí.
+
+M: Yamfiel ngen mawida l'awen'
+C: por respeto al dueño de la montaña de remdios
+
+M: ñi küme mongeltuy che
+C: para que se mejore bien la persona
+
+M: ka chau Ngünechen ñi ngillatunmu llemay,
+C: y a  padre Ngünechen se le ruega, pues,
+
+M: konpuki mawidamu che 
+C: entra a la montaña la gente.
+
+nmlch-nfrchB1_x_0111_nmlch_00: 
+M: Felerki lamngen, 
+C: Así es hermana,
+
+M: feyta rume kimün
+C: estos muchos conocimientos
+
+M: ta faliltun mülekerkefuy kuyfi 
+C: pues se valoraban entonces antes
+
+M: fey inche tüfa<uh>allküwelan feypin lamngen 
+C: y ahora yo no escucho de eso hermana
+
+
+M: fey manelpiyu.
+C: ....................
+
+M: Fey ngütramkameafin
+C: Voy a ir hablarle 
+
+M: kimpelay tüfa pipiyu;
+C: debe saber dije;
+
+M: fey feula wekeche ta ñamwelay mawida, 
+C: aasí ahora los jovenes no consideran la montaña,
+
+M: yamwelay ta ko,
+C: no respetan el agua,
+
+M: yangewelay ta<uh>ngen che
+C: no respetan al dueño de la gente
+
+M: elchen rüke perke tüfi. 
+C: ese que dejo las personas.
+
+nmlch-nfrchB1_x_0112_nfrch_00: 
+M: May,
+C:  Si,
+
+M: elchen chau Ngünechen
+C: el creador de las personas
+
+M: kom ñi chem llemay, 
+C: todas sus cosas pues,
+
+M: eli chem mülelu nau mapu.
+C: dejo todo lo que hay en la tierra.
+ 
+nmlch-nfrchB1_x_0113_nmlch_00: 
+M: Feyti feula pekan kulfulen konpule che mawidameu
+C:  Si ahora las personas entran sin respetar a la Montaña
+
+
+M: yamwetulafi tüfa,
+C: no la respeta, 
+
+M: fey<uh>yafka perki ngüneche perke.
+C: entonces al parecer era el enojo de ngünechen.
+ 
+nmlch-nfrchB1_x_0114_nfrch_00: 
+M: Yafkaki ngünechenmu ka mawidameu,
+C:  Ngünechen se enoja  en la montaña,
+
+M: chem ka ayitumeki che
+C: prefieren otras cosas las personas
+
+M:  ka femngelu fey ka tutekelay tati, chau. 
+C:  y cuando es así no se agrada pues, padre. 
+
+1_x_0116_nfrch_00117_nmlch_00:
+M: ¿Chumngelu pikimi kay lamngen
+C: ¿ Por qué dijo hermana
+
+M:  ta felepi che?
+C: así está la gente?
+ 
+nmlch-nfrchB1_x_0117_nfrch_00: 
+M: Feula.
+C: Ahora.
+ 
+nmlch-nfrchB1_x_0118_nmlch_00: 
+M: May,
+C:  Si,
+
+M:¿chumngelu felepi pikimi kay? 
+C: ¿por qué está así dice ud.?
+
+nmlch-nfrchB1_x_0119_nfrch_00:
+M: Feli lamngen,
+C:  Aasí es hermano,
+
+M: <uh>feula ta che ta faliltuweutulay
+C: ahora las personas no valoran
+
+M:  taiñ inchiñ taiñ kimün,
+C: nuestras sabidurias,
+
+
+M:  ta konpay ta kimün 
+C:  entró otra sabiduria
+
+M: ta feymu ta femi ta feula ta pu che. 
+C: por eso están así ahora las personas.
+
+nmlch-nfrchB1_x_0120_nmlch_00:
+M: Ka rakisuam koni. 
+C: Otro pensamiento entró.
+
+nmlch-nfrchB1_x_0121_nfrch_00:
+M: Ka rakiduam
+C:  Otro pensamiento
+
+M:  ka kimün konpay,
+C:  y otro conocimiento entró,
+
+M:  kake küpachi che kañpüle,
+C: otros que trajeron las personas de afuera,
+
+M: kuyfi ta felekelafuy, 
+C: antes no era así,
+
+M: ta dungu kuyfi ta doy kümelkalekefuyin
+C: mejores cosas  teníamos  antes
+
+M: <uh>doy falitukefuyin inchiñ tañi kimün,
+C: valorábamos más nuestra sabiduria,
+ 
+M:  inchiñ taiñ l'awen',
+C: nuestros remedios,
+
+M:  kon inchiñ taiñ rakisuam inarkefuyin;
+C: todos  seguíamos nuestros pensamientos;
+
+M:  fey ka konpay ka dungu
+C: pero entró  otro conocimiento
+
+M:  fey  inayentutuyin taiñ inchiñ taiñ dungu,
+C: y ahora nos burlamos de nuestros conocimientos,
+
+M:  ta ngüyutuy nguyunetuyiñ
+C:  nos estamos olvidando
+
+M:  feymeu ta<uh>faliltuwetulayin
+C:  por eso no valoramos
+
+M:  taiñ inchiñ taiñ kimün,
+C: nuestros conocimientos,
+
+M: <uh>faliltuwetulayin ka kimün,
+C:  valoramos otros conocimientos,
+
+M: inchiñ taiñ kimün
+C: nuestros conocimientos
+
+M: faliltuwetulay pu puche inchiñ taiñ...
+C: no valoramos nuestros... 
+ 
+nmlch-nfrchB1_x_0122_nmlch_00: 
+M: Rakiduam. 
+C:  Pensamientos.
+
+nmlch-nfrchB1_x_0123_nfrch_00: 
+M: Rakiduam, 
+C:  Pensamientos, 
+
+M: inchiñ taiñ l'awen'
+C: nuestros remedios
+
+M: kom falifuy kuyfi, 
+C: todo valía antes,
+
+M: doy küme kunukefuyin meu
+C: cuidábamos más 
+
+M:  inchiñ taiñ l'awen',
+C: nuestros remedios,
+
+M:  nieyin inchiñ kisu taiñ l'awen'tual, 
+C:  tenemos remedios para sanarnos,
+
+M: müte feyentuwetulayin taiñ dungu feula,
+C:  mucho no conocemos nuestro idioma ahora,
+
+M:  inchiñ feymu doy kutrankiyin ka.
+C: por eso nos emfermamos pues.
+ 
+nmlch-nfrchB1_x_0124_nmlch_00:
+M: Feley lamngen, 
+C:  Aasí es hermana,
+
+M: fey feypingeki tüfa mongenmeu
+C: nos dicen en esta vida
+
+M:  doy ta müli ta kake rupay antü
+C:  pasan otros días
+
+M:  kake rupay ta müli ta tripantu 
+C: pasan otros años
+
+M:<uh>kake rumi ta kutran,
+C: hay nuevas enfermedades,
+
+M:  feymu penou ta feula 
+C:  por eso ahora
+
+M: feytichi kake rakiduama akulu welu
+C: esos otros pensamientos que llegaron
+
+M:  notuwetukelay wedake kutran, 
+C: no pueden controlar las enfermedaes,
+
+M: pingi femkey ta kutran
+C: dicen que hacen las enfermedaes
+
+M:  mongenmu lamngen,
+C:  en esta vida hermana,
+
+M: welu pepilfal-lay ta pitalmu,
+C: pero no se puede tratar en el hospital,
+
+M: pepil falay ta postamu, 
+C: no se puede tratar en las postas,
+
+M: ngelay ta mongen,
+C: no hay vida,
+
+M: <uh>rume kake rume tuy kutran 
+C: cualquiera se enferma        
+
+M: felipi tüfi. 
+C: así está eso.
+
+nmlch-nfrchB1_x_0125_nfrch_00:
+M: Feley chau, feley,
+C:  Así es padre, así es,
+
+M:  inchiñ taiñ kimün
+C: nuestro conocimiento
+
+M:  ta feyentuwetulayin, 
+C: ahora no lo conocemos,
+
+M: re kake dungu küpalu kañpüle
+C: traen otros conocimientos las gentes de afuera
+
+M:  fey doy feyentuwtuyin 
+C:  eso es más importante
+
+M: chau ngünechenmu; 
+C: que chau ngünechen;
+
+M: ka kulpakiyin tañi femal 
+C:   cometemos errores  para eso
+
+M: inchiñ taiñ kisu tañi rakiduam inatuayin
+C: para que nosotros solos nos demos cuenta y sigamos
+
+M:  kisu taiñ l'awen'meu,
+C: solo con nuestros remedios,
+
+M:  doy kümelkakefuyin feymu
+C: sabíamos más por eso
+
+M:  ta ka kulpakiyin ta chau ngünechenmeu. 
+C:   cometemos errores ante el padre Ngünechen.
+
+nmlch-nfrchB1_x_0126_nmlch_00:
+M:  Lladkütungiyin. 
+C:  Se enoja.
+
+nmlch-nfrchB1_x_0127_nfrch_00:
+M: Lladkütungiyin. 
+C: Se enoja.
+
+nmlch-nfrchB1_x_0128_nmlch_00: 
+M: Fey welu petu ta mülerki kimün lamngen.
+C:  Pero todavia hay conocimiento hermana.
+ 
+nmlch-nfrchB1_x_0129_nfrch_00:
+M: Petu müli kimün
+C:  Todavia hay conocimiento
+
+M: <uh>pütrülefuy kimün 
+C: hay tanto conocimiento
+
+M: doy l'awen' müley
+C: hay más remedio
+
+M:  kom ka kimün doy mülefuy tati. 
+C:  y más sabiduría hay tamabién.
+
+nmlch-nfrchB1_x_0130_nmlch_00: 
+M: Femngechi ngütramkale 
+C: Si así   hablaran
+
+M: <uh>kuyfi ke che engu, 
+C:  los ancianos,
+
+M: wentru,
+C: hombres,
+
+M: domo  papeltuwe rukamu
+C: la mujer estudia en la casa
+
+M:  rume konlay tüfa tachi kimün
+C: aprendió harto este conociniento  
+
+M:  ta doy<uh>kimngepeturkeafuy, 
+C:  así se aprendería más,
+
+M: ta falipen dungu kuyfi. 
+C: valían los conocimientos antes.
+
+nmlch-nfrchB1_x_0131_nfrch_00:
+M: Ngütramkaule pu' füchakeche
+C: Si hablaran los ancianos
+
+M: ka asümelfile kuyfi ke dungu
+C: y si aprendieran los conocimientos de antes
+
+M: wechekeche ta doy ta feyentutuafuy,
+C: los jóvenes  serían mucho mejores,
+
+M: ta inchiñ taiñ chumngechi
+C:  así como nosotros
+
+M: taiñ mongekefel ta kuifi.
+C:  vivíamos antes.
+ 
+B1_x_0132_nfrch_0024_nmlch_00:
+M: ¿Chumngechi chi fente ñamkefuy
+C:  ¿Cómo se perdió tanto 
+
+M: ta<uh>dungu 
+C: el conocimiento 
+
+M: kuyfi ta <uh>taiñ mapuchengen?
+C:  de nuestro  atíguo ser mapuche?  
+
+
+M: inchiñ kuyfi<uh>fente llamuukefuyngün pingeki,
+C: nosotros antes nos respetábamos mucho se dice,
+
+M: ¿feyngepi tüfey ngülam 
+C:   ¿es verdad ese consejo
+
+M: ta mülepefuy tüfi?
+C:  que existía? 
+   
+nmlch-nfrchB1_x_0133_nfrch_00:
+M: Mülekefuy ngülam kuyfi. 
+C:  Había consejos antes.
+
+nmlch-nfrchB1_x_0134_nmlch_00:
+M: Feyentun ka.
+C: Y creían también.
+ 
+nmlch-nfrchB1_x_0135_nfrch_00: 
+M: Feyentun, 
+C:  Yo creí, 
+
+M: petu akukelafuy ka tripakeche,
+C: aun no llegaban los extranjeros,
+
+M: fey meu doy feyentukefuyin
+C:  en ese entonces nos obedecíamos más
+
+M:  inchiñ taiñ dungu,
+C: nuestros conocimientos,
+
+M:  inchiñ tain rakiduam,
+C: nustros pensamiento,
+
+M:  kom feyentunekefuyin
+C: todos hacíamos caso
+
+M: chumngechi tañi mongeleal ta kuifi, 
+C: a  como se  vivía antes,
+
+M: welu akulu ka che kaketripache
+C: pero cuando llegaron los de afuera
+
+
+M:  fey kayin taiñ nguyutual inchi taiñ kimün,
+C:  se enpezó a perder nuestro conocimiento,
+
+M:  feymu ta ka feyentuutulayin;
+C:   Por eso también no nos hacemos caso;
+
+M: chumngechi mongekefel kuifi
+C:   como vivíamos antes
+
+M:  inchiñ kupa nguyituyin. 
+C: nosotros lo olvidamos.
+
+nmlch-nfrchB1_x_0136_nmlch_00:
+M:  Feymuka
+C:   Desde ahí. 
+ 
+nmlch-nfrchB1_x_0137_nfrch_00:
+M: Fey meu. 
+C:  Desde ahí.
+
+nmlch-nfrchB1_x_0138_nmlch_00: 
+M: Feyta eymi tami rakiduam lamngen,
+C:  Y su pensamiento hermana,
+
+M:  feyti mawida yam ngewetulay
+C: a esa montaña no la respetan
+
+M: ta pingi<uh>kakelu püle ngütramken inche,
+C: eso dicen los otros en otras partes conversaba yo, 
+
+M:  eymi tami rakiduam
+C: su pensamiento
+
+M:¿chem pimi kay? 
+C: ¿ que dice ud.?
+
+M: mawida ta impolkangetuy
+C: la montaña la destruyeron
+
+
+M:  ka lüpümtukungetuy ka,
+C: y la están quemando
+
+M:  ka anümelngetuy pingi<uh>feyngepi tüfey. 
+C: y le plantaron pino,  eso es verdad.
+
+nmlch-nfrchB1_x_0139_nfrch_00: 
+M: Feyngey ta tüfey üllkuki ta mawida
+C:  Es verdad  por eso se enoja la montaña
+
+M:  ta lüpütukulelngey kütral
+C: y la queman
+
+M:  katrükangi ta chem 
+C: le cortan todo
+
+M:<uh>mawida üllküki ta tüfey,
+C: la montaña por eso se enoja,
+
+M:  kom nielu l'awen', 
+C: todo lo que tiene los remedios,
+
+M: kay mawida üllküki.
+C: también la montaña se enojó.
+
+hB1_x_0140_nfrch_007_nmlch_00: 
+M: ¿Chem anümka doy poyengetuy feula,
+C:  ¿Qué planta prefieren ahora,
+
+M: tüfa tüfey feyti chi mawidamu?.
+C:   ahora éstos en esa montañas?.
+
+M: ¿Mülekefulu chem anümka? 
+C: ¿Qué plantas habia?
+
+M: ¿doy mületuy feula fey?
+C: ¿qué hay más ahora?  
+
+nmlch-nfrchB1_x_0141_nfrch_00: 
+M: Anümngeki chem pinu kaliwtu ka, 
+C:  Plantan pino y eucalyptus,
+  
+M: tukulelgetuy,
+C: eso ponen,
+
+M: kuyfi re küpa anümtuy mapu,
+C: antes solamente eran plantas de la tierra,
+
+M: feula pu che kuyfi kisu tripaki chi mamüll
+C: ahora las personas sacan  leña antigua
+
+M: fey ayikelay mawida,
+C: eso no le agradaba a la montaña,
+
+M: fey l'awen' kutu ta müte ta ngewelay ta mawidameu 
+C: así hasta el remedio se fue acabando de la montaña
+
+M: ka anümka kay tukulelngelu kay.
+C: y no siguieron plantando más arboles.
+ 
+nmlch-nfrchB1_x_0142_nmlch_00:
+M: Feyti pe pinu
+C: Esos pinos
+
+M:  cheu mülekefuy pütrake mawida 
+C:  no habían en la grandes montañas
+
+M:<uh>deu impolngelu
+C: después de haberlos envuelto
+
+M: ka lüpümtukungetulu 
+C: y cuando lo incendiaron
+
+M: anümelngetulu pinu. 
+C: le plantaron pino.
+
+M: Wefwetulay l'awen' ka.
+C:  No florecieron más los remedios pues.
+ 
+nmlch-nfrchB1_x_0143_nfrch_00: 
+M: Wefwetulay l'awen' ka
+C:  No florecieron los remedios
+
+M:  ko ka tripawetukelay,
+C:   el agua tampoco  salió,
+
+M:  anküki ko tüfechi anümka, 
+C:  seca el agua esa planta,
+
+M: konpulu feychi mawidameu
+C: cuando entró a esa montaña 
+
+M:  üllkuki ta ngen mawida 
+C: se enoja el dueño de la montaña
+
+M: katrukamangeyin tañi kisu tañi mawida 
+C: porque le cortaron sus plantas
+
+M: ta<uh>eleletew chau ngünechen.
+C: que le dejó el padre ngünechen.
+ 
+nmlch-nfrchB1_x_0144_nmlch_00:
+M: Feymu pe ko kütu arkütuki tüfi.
+C: Hasta el agua seca eso.
+ 
+nmlch-nfrchB1_x_0145_nfrch_00: 
+M: Ko kütu ta arkütuki,
+C:  Hasta el agua seca,
+
+M:  ngewekelay ta ko
+C: ya no queda agua
+
+
+M:  cheu<uh>impolkangeyem mawida, 
+C: donde destrozan la montaña,
+
+M: üllküki mawida 
+C: se enoja la montaña
+
+M: ko anküki, 
+C: se seca el agua, 
+
+M: ngewetukelay ko.
+C: no vuelve a salir agua.
+
+nmlch-nfrchB1_x_0146_nmlch_00: 
+M: Felepi ka lamngen,
+C:  Es así hermana, 
+
+M:  feyti ta mongenmu kimnekelu che
+C: el que vive en ese estado
+
+M:  chumlen chumngechi rupalen antü 
+C: no sé cómo pasa el día
+
+M: ka chumngechi tañi rupalen ta tripantu; 
+C: y no sé cómo pasa el año;
+
+M: feyti che we anümka pinu pipimi nga
+C: esa nueva planta de pino que dijo usted
+
+M:  ka küpali kutran,
+C: también trae enfermedad,
+
+M:  pingi küpalpi kutran tüfeynga,
+C:  dicen que trae enfermedad eso,
+
+M:  müleki<uh>rume llampaykoleki nga
+C:  habia harta agua turbia 
+
+M: ¿chem chi tüfey?
+C: ¿qué será eso?
+ 
+nmlch-nfrchB1_x_0147_nfrch_00:
+M: Trüfür pinumu küpaki llemay
+C:  El polvo del pino trae enfermedad 
+
+M: fey llampaykoki.
+C: entonces se enturbia el agua.
+ 
+nmlch-nfrchB1_x_0148_nmlch_00:
+M: Cheu konki tüfichi trüfür
+C:  Dónde entra ese polvo
+
+M: komu konki femngechi itukefiyin.
+C:  entra en el agua y así lo beben.
+ 
+nmlch-nfrchB1_x_0149_nfrch_00:
+M: Konpuki komeu,
+C: Entra en el agua,
+
+M: ka konki ngemeu
+C: también entra en los ojos
+
+M: ka kutran rume weda <uh>,
+C:  y es grave la enfermedad,
+
+M: kümelay tüfeychi anümka. 
+C: no es buena esa planta.
+
+
+nmlch-nfrchB1_x_0150_nmlch_00:
+M: Püramtuki erke weke kutran.
+C:  Hace aparecer nueva enfermedad.
+ 
+nmlch-nfrchB1_x_0151_nfrch_00:
+M: May, 
+C:  Si,
+
+M: weke kutran tripatuki fey,
+C: aparece nueva enfermedad,
+
+M:  inchiñ fey pewütuleymuy l'awen' fey, 
+C: nosotros nos hacemos remedios
+
+nmlch-nfrchB1_x_0152_nmlch_00:
+M: Inautuki.
+C: Sigue.
+ 
+nmlch-nfrchB1_x_0153_nfrch_00: 
+M: Inautukiyin ka kutrankütutukiyin ta tüfey.
+C: Sigue y nos podemos volver a enfermar.
+ 
+nmlch-nfrchB1_x_0154_nmlch_00:
+ M: Feli lamngen, 
+C:  Así es hermana,
+
+M: ka feyngi tami pipen tati,
+C: es verdad lo que está diciendo,
+
+M: inche ka peken tüfi pinu 
+C: yo también he visto ese pino
+
+M: trüfurtrüfurngeki,
+C:  votando y votando polvo,
+
+M: welu kimlan tañi tukuken ta kutran,
+C: pero no sé que traiga enfermedad,
+
+M: femkeperkelay welu.
+C: pero debe ser así.
+
+ nmlch-nfrchB1_x_0155_nfrch_00:
+M: Femki tati chau,
+C: Es así padre,
+
+M: müna küpalküli wedake kutran
+C: trae enfermedaes graves
+
+M: küpalki tüfichi anümka pinu.
+C: esa planta de pino.
+ 
+nmlch-nfrchB1_x_0156_nmlch_00:
+ M: Fey lamngen,
+C:  Eso hermana,
+
+M: eymi tami rakiduam meu piafen
+C: de su pensamiento me puede decir
+
+M: ¿chumngelu chi kuifi
+C: ¿por qué antes
+
+M: fentreke tukefuy mongen pütakeche?
+C: vivían tanto los ancianos?
+
+M: ¿mülepi dungu chumngelu ngey 
+C:  ¿tiene conocimiento de que
+
+M: fenteketukefen engün niy mongen?
+C: tenían tanta  vida?
+  
+nmlch-nfrchB1_x_0157_nfrch_00: 
+M: Kuyfikeche doy inanekifuy inchiñ taiñ rakiduam, 
+C:  Los ancianos seguían nustro pensamiento,
+
+M: inchiñ taiñ<uh>inayentukel rakiduam,
+C: nosotros nos burlamos de nuestro pensamiento,
+
+M: kom yagel inanekefuy
+C: seguían una alimentación  completa  
+
+M: ikelafuy pekan ka iyagel kuyfi füchakeche
+C: no comían cualquier comida los ancianos
+ 
+M: feymu doy tukefuy mongen<uh>doy.
+C: por eso vivían más.
+ 
+nmlch-nfrchB1_x_0158_nfrch_00:
+M: Alütukefuy mongen
+C:  Era más larga la vida
+
+M: chem ka keche petu akukelafuy,
+C: cuando otras personas todavía no llegaban,
+
+M:  inchi taiñ iyagel inekefuyin mülekefuy doy,
+C: nuestra comida comíamos y había más, 
+
+M:  iymukefuyin inchiñ taiñ yagel
+C: comíamos nuestras comidas
+
+M:  deumakefel inayentukelafuyin,
+C: no nos burlábamos de lo que hacíamos,
+
+M:  petu winka yagel 
+C: la comida winka
+
+M:<uh>doy alütukefuy mongen ka ina.
+C: era más larga la vida por eso.
+ 
+nmlch-nfrchB1_x_0159_nfrch_00:
+M: Mapuche dungu kuyfi doy inanie
+C:  Se seguían los conocimientos mapuches 
+
+M:  inayekefuy<uh>chem füchakeche,
+C: de los más ancianos,
+
+M:  kuyfi ngoyikelay inchiñ taiñ dungu, 
+C:  antes no nos olvidabamos de nuestros conocimientos,
+
+M: feula inchiñ ayilaiñ taiñ dungu,
+C:  ahora rechazamos nuestros conocimientos,
+
+M:  inchiñ ka yagel rume inchiñ,
+C: comemos otras comidas,
+
+M:  taiñ deumakefel ta iwelain 
+C:  lo haciamos ya no lo comemos
+
+M: kuyfi pu füchakeche doy...
+C:  antes los ancianos...
+
+nmlch-nfrchB1_x_0160_nfrch_00:
+M: amukelafuy ka pitalmu, 
+C:  no iban al hospital,
+
+M: kutraniem kisu engün mongeluutukefuy
+C: cuando se enfermaban solos se sanaban
+
+M:  kuyfi<uh>konpalu kake mongen,
+C: antes de que entraran otros conocimientos,
+
+M:  kake che fey feula müna akuy kutran, 
+C:  las otras personas trajeron muchas enfermedades,
+
+M:<uh>kom che küpa inayentuy
+C:  toda las persona se burlaban
+
+M: chumngechi ñi mongekel kisu engün.
+C: como  se sana solo.
+ 
+nmlch-nfrchB1_x_0161_nfrch_00: 
+M: Fey inchiñ taiñ mongen
+C: Nuestros conocimientos
+
+M:  fey küpa ngoyiyin kuyfi füchakeche,
+C: estamos olvidando a los ancianos,
+
+M:  femkelafuy kisu ñi mongen 
+C:  eso no sucedía antes
+
+M: inanekefuy kom yagel
+C: comían toda la comida
+
+M:  kisu taiñ deumakel
+C: que ellos hacian 
+
+M:  ikefuyin fey doy alütukefuy mongen;
+C:  lo comian por eso vivían más;
+
+M: kuyfi doy füchakeche 
+C: antes los ancianos 
+M: ikelafuy asukura, chadi,  
+C: no comian azucar, sal,
+
+M: rume putukelafuy,
+C: no bebían alcohol,
+
+M: doy sanungekefuy
+C: eran más sanos
+
+M:  kuyfi inchiñ taiñ che. 
+C: antes nuestra gente.
+ 
+nmlch-nfrchB1_x_0162_nfrch_00:
+M: Küme mongen niekefuyin kuyfi 
+C: Teniamos buenas vida antes
+
+M: feymeu tati
+C:  por eso pues
+
+M:  fey doy alütukefuy mongen, 
+C:  la vida era más larga,
+
+M: doy müñeltukefuyin 
+C:  obedecíamos  más 
+
+M: chumngechi eletew chau Dios.
+C: como lo había dejado el padre.
+
+M:  Kuyfi kake mongen 
+C:  Antes  otros conocimientos
+
+M: küpa petu tukulpalafuyin kuifi
+C: todavía no llegaban 
+
+M:  fey mu tati doy alütukefuy mongen kuifi
+C: por eso la vida era más larga
+
+M: <uh>ka<uh>inchiñ taiñ rakiduamiyin küme.
+C: con nuestros buenos conocimientos.
+
+nmlch-nfrchB1_x_0163_nfrch_00: 
+M: Iñkü nekefuyin tati chau
+C:  No tenían derecho padre
+
+M:  feymu ta alütukefuy mongen
+C: por eso  vivían más
+
+M:  taiñ füchakeche kuyfi. 
+C:  nuestros padres antes.
+
+nmlch-nfrchB1_x_0164_nmlch_00: 
+M: Feli lamngen,
+C: Así hemana,
+
+M: feymu ramtuan pipeyu,
+C:  por eso le voy a preguntar estaba  diciendo, 
+ 
+M:  feyta wekeche ta taiñ mapuchengen
+C:   nuestros jóvenes mapuches
+
+M:  fentre tuwelay ta mongen
+C:  ya no viven mucho
+
+M:  ta tüfi welu<uh>mülekerkefuy ta dungu,
+C: por eso hay que saber las cosas,
+
+M:  mülekerkefuy ta rakiduam 
+C: había pensamiento
+
+M: ta mongenmu kuifi,
+C: antes en la vida,
+
+M: <uh>fentre poye kerkefuy
+C : existia harto cariño
+
+M: tañi feyentunengen ka,
+C: por la obediencia pues,
+
+M: may, 
+C: sí,
+
+M: rume<uh>ikelafuy
+C: no comía mucho
+
+M: pekan iyagel engün.
+C: de cualquier comida.
+ 
+nmlch-nfrchB1_x_0165_nfrch_00: 
+M: Pekan ta iyagel ikerkelafuy 
+C: No comía cualquier comida
+
+M: ta kuyfi inchiñ taiñ
+C: antes nuestra
+
+M:  yagel ta doy kümefuy, 
+C: comida era mejor,
+
+M: kuyfi ingekefuy mültrün, kako, napor korü, 
+C: antes se comía catuto, mote, comida de yuyo,
+
+M: ta kuyfi ta ka chafolin ta che
+C: antes cuando se resfriaba la persona 
+
+M:  ta amukelafuy ta postamu,
+C: no iba a la posta,
+
+M:  ta Victor püle napor korü tukefuy ta che,
+C:  por el lado de Victor las personas comían sopa de yuyo,
+
+M:  ta füchakeche ta fisküki piki ta ,
+C: los ancianos, refresca, dicen, 
+
+M: pikefuy kuyfi, feymu ta... 
+C: decían antes, por eso... 
+
+nmlch-nfrchB1_x_0166_nfrch_00:
+M:  Mongetukefuy ta re napor korümu pingeki,
+C: Se alimentaban con puro caldito de yuyo  se dice, 
+
+M: feypikefeneu, 
+C: me decía, 
+
+M: feypikeneu ñi chau
+C: me decía mi padre
+
+M:  inche feymu kimün ka, 
+C: yo por eso lo sé también,
+
+M: küchaymangekefuy ñi n'amun'...
+C: le lababa los pies...
+
+nmlch-nfrchB1_x_0167_nmlch_00:
+M: ¿L'awen'mu? 
+C: ¿Con remedio?
+
+nmlch-nfrchB1_x_0168_nfrch_00:
+M: L'awen'meu
+C: Con remedio
+
+M:  ka awe füchakelafuy che kuyfi,
+C: y no envejecía rápido la gente antes,
+
+M: willen mu küllaytukefuy
+C: con orina se lababan
+
+M:  füchakeche kuyfi 
+C: los ancianos antes
+
+M: fey trüren kelafuy tati ka lamngen
+C: .................
+ 
+nmlch-nfrchB1_x_0169_nmlch_00: 
+M: Feli lamngen,
+C: Así es hermana,
+
+M:  feyta<uh>feychi ngütram
+C:  esas nuevas conversaciones
+
+M:  feychi rakisuam newe ngewelay;
+C:  esos pensamientos no quedan; 
+
+M:  tüfa pekan che
+C:   esta gente ignorante
+
+M:  ta fente kimay 
+C:  va a aprender harto
+
+M: ¿chumngechi kimimi eymi?
+C: ¿Cómo sabe Ud.?
+
+M: fentü kimün nielay lamngen
+C: no hay mucho conocimiento hermana
+
+M: feytachi mongen meu,
+C: en esta vida,
+
+M: feyti pipimi nga 
+C: eso que dijo
+
+M:<uh>asukura 
+C: del azúcar
+
+M: ka tüfi nga chi chaasí
+C: y de la Sal
+
+M:<uh>pulku ka.
+C: y del vino.
+ 
+nmlch-nfrchB1_x_0170_nmlch_00:
+M: Pipimi nga
+C: Dijo Ud.
+
+M:  ¿ka chem pipimichi nga?
+C:  ¿que más dijo Ud.?
+
+
+M: feyti küpalpi kutran 
+C: eso trajo enfermedad
+
+M: weke kutran
+C: nueva enfermedad
+
+M:  tüfi küpalpi lamngen. 
+C: eso trajo hermana.
+
+nmlch-nfrchB1_x_0171_nfrch_00: 
+M: Feyllemay ta doy kutran wepümki,
+C: Eso produce más enfermedadpues,
+ 
+M: asukura vesikula konki, 
+C: el azúcar entra a la vesícula,
+
+M: diaveti pingetula anchi,
+C: diabetes no le dicen,
+
+M: inchiñ taiñ feychi kutran 
+C: nosotros esa enfermedad
+
+M: kuyfi chem kimkelafuyin. 
+C: antes no lo conociamos.
+
+nmlch-nfrchB1_x_0172_nmlch_00: 
+M: Nielafuy. 
+C: No había.
+
+nmlch-nfrchB1_x_0173_nfrch_00:
+M: Nielafuy feychi kutran kuifi,
+C: Antes no había esa enfermedad,
+
+M:<uh>alütukefuy mongen 
+C: la vida era larga
+
+M: füchakeche kuifi,
+C: para los ancianos,
+
+M: feychi yagel ta pekan ka ikelafuy,
+C: esas comidas malas no se las comían, 
+
+M: kutran tripaki
+C: salían enfermedades
+
+M: ta pekan ka iyagel, 
+C:  con esas comidas malas,
+
+M: ta yi ta chekuyfi 
+C: las personas antes
+
+M: ta pütukelafuy
+C: no bebían
+
+M: ta füchakeche re musay ta pütokoymukefuy
+C: los ancianos bebían puro muday
+
+M: ta kuyfi ta pu che
+C: las personas antes
+
+M: kisu tañi<uh>kimün,
+C: los conocimientos de ellos,
+
+M: kisuñi chem yaguel 
+C: las comidas de ellos
+
+M: ta dewmaymukefuy kuyfi ta che.
+C: hacían las personas antes.
+ 
+nmlch-nfrchB1_x_0174_nmlch_00: 
+M: Feyti feula pekan pengelay müday lamngen.
+C: Ahora no se ve el muday hermana.
+ 
+nmlch-nfrchB1_x_0175_nfrch_00:
+M: Femlay pue, 
+C:  No es así pues, 
+
+M: pekan pengelay llemay,
+C: ya no se ve también,
+
+M:  müday feula kom che ta kim deumalay 
+C: ahora todas las personas no saben hacer muday.
+
+M: ka kim deumayem
+C:  y si saben hacerlo
+
+M: rume küpa pütokowelay.
+C: ya no se bebe. 
+
+nmlch-nfrchB1_x_0176_nmlch_00: 
+M: Kake iyal.
+C: Otras comidas.
+ 
+nmlch-nfrchB1_x_0177_nfrch_00:
+M: Kake iyal, 
+C: Otras comidas,
+
+M: kake pütokoal,
+C: otras bebidas,
+
+M: fey doy ayeyngün ta chi pu che,
+C: eso le gusta más a las personas,
+
+M: feula kisu ñi femeki fel femekenmeu
+C: ahora solo esta haciendo lo que hace
+
+M:  fey doy<uh>kisuengün kutrankingün.
+C :  por eso solos se enferman. 
+
+M:  Ka fey ngenoyem l'awen' fey.
+C:  Cuando no hay remedio.
+ 
+nmlch-nfrchB1_x_0178_nmlch_00: 
+M: Inautukingün.
+C: Siguen.
+ 
+nmlch-nfrchB1_x_0179_nfrch_00: 
+M: Inautukingün kiñekemu
+C:  Siguen de repente
+
+M:  fey kümelay tati
+C:  eso es bueno
+
+M:  femün inchiñ ta ngoyinualu
+C:  si hacemos eso no vamos a olvidar
+
+M: taiñ inchiñ tañi kimü,
+C:  lo que nosotros aprendimos,
+
+M: inchiñ taiñ yagel,
+C: de nuestras comidas,
+
+M:  inchiñ taiñ kuyfikeche,
+C: nuestros antepasados,
+
+M: mülel<uh>adümeweleteu taiñ füchakeche
+C: lo que nuestros abuelos nos enseñaron 
+
+M:  ngüyulayayintati inche 
+C: yo no voy a olvidar
+
+M: ta feypiken rakisuamken,
+C: digo en mi pensamiento,
+
+M:  inche ta ina nian tañi rakiduam.
+C: yo voy a seguir mi pensamiento.
+ 
+nmlch-nfrchB1_x_0180_nfrch_00:
+M:  Piken tati chau,
+C:  Digo padre,
+
+M: inche femlayan 
+C: yo no voy hacer 
+
+M: chumkelu kakeche.
+C: eso que hizo la otra persona.
+
+nmlch-nfrchB1_x_0181_nmlch_00: 
+M: Feli lamngen,
+C: Así hermana,
+
+M:  fey ka pipimi nga
+C:  eso que dijo
+
+M:  fentren iyal ta üytuymi,
+C:  todas esas comida que nombró,
+
+M:  mültrün ka feyti pipimi nga,
+C:  el catuto eso que dijo usted,
+
+M: kako, napor, 
+C: mote, yuyo, 
+
+M: <uh>feytichi iyagel
+C: esas comidas
+
+M:<uh>rume newen ngi ngeperkefuy 
+C: tenían harta fuerza
+
+M: tüfi we iyal perkeno mapumu tripapalu tüfi.
+C: debe ser una nueva comida eso que salio de la tierra.
+
+Cañulef

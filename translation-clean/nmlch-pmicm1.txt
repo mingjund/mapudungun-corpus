@@ -1,0 +1,3210 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmicm1 
+; Last changes made on 02/24/2003 
+; Transcriber: Flor Caniupil H. 
+; Comments:  
+;Traduce: Juan Licanqueo.
+
+nmlch-pmicm1_1_0000_nmlch_00: 
+M: Marimari peñi.
+C: Hola hermano.
+
+nmlch-pmicm1_1_0001_pmicm_00: 
+M: Marimari peñi.
+C: Hola hermano.
+
+nmlch-pmicm1_1_0002_nmlch_00: 
+M: <uh> ¿Eyminga <uh> pewenche tüfameu <*SPA>no?
+C: ¿Usted es pehuenche de este lugar no?
+
+nmlch-pmicm1_1_0003_pmicm_00: 
+M: May pewenche.
+C: Sí, pehuence.
+ 
+nmlch-pmicm1_1_0004_nmlch_00: 
+M: +/May, may/+ may.
+C: Sí.
+
+M: Pepapegeyu tati, feyta ngütramkalean tañi peñi pipen.
+C: Te vininea visitar pues, conversare con mi hermano dije.
+  
+nmlch-pmicm1_1_0005_pmicm_00: 
+M: Feley ka.
+C: Esta bien pues.
+ 
+nmlch-pmicm1_1_0006_nmlch_00: 
+M: <uh> Rume al'ün rupaken pipeymi fillpüle 
+C: A pasado por mucho lugares dijo diferente
+
+M: rupaken pipeymi ¿feyngey tüfey?
+C: lugares dijo ¿es cierto eso?
+
+nmlch-pmicm1_1_0007_pmicm_00: 
+M: May, miauken tüfameu ta <*SPA>el <*SPA>tiempo 
+C: Sí, he andado por aquí el tiempo
+
+M: <*SPA>de <*SPA>Pinochet fey mülelu tati 
+C: de Pinoche el que estaba ese
+
+M: <*SPA>tomaron <*SPA>el <*SPA>mando Pinochet 
+C: tomaron él mando Pinoche
+
+M: <*SPA>derrocaron Allende, <*SPA>entonces 
+C: derrocaron Allende, entonces
+
+M: <*SPA>a <*SPA>mi <*SPA>me... <*SPA>me 
+C: a mi me, me
+
+M: <*SPA>tomaron <*SPA>como... <*SPA>como 
+C: tomaron como ,como
+
+M: <*SPA>por <*SPA>comunista <*SPA>que 
+C: por comunista que
+
+M: <*SPA>como <*SPA>extremista <*SPA>por 
+C: como extremista por
+
+M: <*SPA>hablar <*SPA>de <*SPA>la <*SPA>tierra 
+C: hablar de la tierra
+
+M: <*SPA>porque  <*SPA>nosotros <*SPA>reclamábamos 
+C: porque nosotros reclamamos
+
+M: <*SPA>los <*SPA>delindes <*SPA>los 
+C: los delindes los
+
+M: <*SPA>colonos <*SPA>los <*SPA>estaba 
+C: colonos los estaba
+
+M: <*SPA>apretando <*SPA>y <*SPA>no 
+C: apretando y no
+
+M: <*SPA>teníamos <*SPA>autoridad <*SPA>casi 
+C: teníamos autoridad casi
+
+M: <*SPA>no... <*SPA>no <*SPA>como <*SPA>que 
+C: no, no como que
+
+M: <*SPA>no <*SPA>éramos <*SPA>válidos <*SPA>como 
+C: no éramos válidos como
+
+M: <*SPA>que <*SPA>no <*SPA>éramos chilenos 
+C: que no éramos chilenos
+
+M: <*SPA>y <*SPA>pero <*SPA>alzó <*SPA>mi 
+C: y pero alzó mi
+
+M: <*SPA>razón <*SPA>yo <*SPA>me 
+C: razón yo me
+
+M: <*SPA>considero chileno <*SPA>todos <!1to'> 
+C: considero chileno todos
+
+M: <*SPA>por <*SPA>igual <*SPA>porque 
+C: por igual porque
+
+M: <*SPA>todos <!1to'> <*SPA>nacimos 
+C: todos nacimos
+
+M: <*SPA>en Chile <*SPA>todos <!1to'> <*SPA>somos 
+C: en Chile todos somos
+
+M: <*SPA>dueño <*SPA>de <*SPA>tierras 
+C: dueño de tierras
+
+M: <*SPA>y <*SPA>porque <*SPA>hacen 
+C: y porque hacen
+
+M: <*SPA>así <*SPA>la <*SPA>autoridad.
+C: así la autoridad.
+
+nmlch-pmicm1_1_0008_nmlch_00: 
+M: ¿Piymi?
+C: ¿dijiste?
+
+nmlch-pmicm1_1_0009_pmicm_00: 
+M: <*SPA>Claro <*SPA>decía <*SPA>yo <*SPA>y... 
+C: Claro decía yo y
+
+M: <*SPA>y <*SPA>tampoco <*SPA>no <*SPA>le 
+C: y tampoco no le
+
+M: <*SPA>tomaban <*SPA>la <*SPA>razón 
+C: tomaban la razón
+
+M: <*SPA>ni <*SPA>la <*SPA>justicia <*SPA>y 
+C: ni la justicia y
+
+M: <*SPA>asi <*SPA>que <*SPA>la <Noise> 
+C: así que la
+
+M: <*SPA>y <*SPA>hablaba <*SPA>y <*SPA>le 
+C: y hablaba y le
+
+M: <*SPA>decía <*SPA>yo <*SPA>muchas <!1mucha'> 
+C: decía yo muchas
+
+M: <*SPA>veces <!1vece'> <*SPA>que <*SPA>me 
+C: veces que me
+
+M: <*SPA>encontraba <!1contraba> <*SPA>molesto 
+C: encontraba molesto
+
+M: <*SPA>por <*SPA>causa <*SPA>que <*SPA>tan 
+C: por causa que tan
+
+M: <*SPA>de <*SPA>menos <!1meno'> <*SPA>que 
+C: de menos que
+
+M: <*SPA>lo <*SPA>miraban <*SPA>los mapuche 
+C: lo miraban los mapuche
+
+M: <*SPA>porque <*SPA>cuando <*SPA>yo 
+C: porque cuando yo
+
+M: <*SPA>iba <*SPA>al <*SPA>pueblo <*SPA>un 
+C: iba al pueblo un
+
+M: <*SPA>niñito <*SPA>de <P> <*SPA>de <*SPA>ocho 
+C: niñito de, de ocho
+
+M: <*SPA>años <*SPA>le <*SPA>decían <*SPA>a 
+C: años le decían a
+
+M: <*SPA>nosotros <P> "<*SPA>indio <*SPA>cochino, 
+C: nosotros indio cochino,
+
+M: <*SPA>indio <*SPA>sinvergüenza, <*SPA>ladrones" 
+C: indio sinverguenza, ladrones
+
+M: <*SPA>le <*SPA>decian, chuta <*SPA>y 
+C: le decían, chuta y
+
+M: <*SPA>nosotros <*SPA>tambien <*SPA>para <!1pa'> 
+C: nosotros también para
+
+M: <*SPA>no <*SPA>ser <*SPA>de <*SPA>menos 
+C: no ser de menos
+
+M: <*SPA>le <*SPA>decíamos wingka trewa <P> 
+C: le decíamos chilenos perro
+
+M: <*SPA>y <*SPA>pero <*SPA>no <*SPA>debían 
+C: y por no debían
+
+M: <*SPA>hacer <*SPA>de <*SPA>a <*SPA>donde 
+C: hacer de a donde
+
+M: <*SPA>viene <*SPA>la <*SPA>enseñanza 
+C: viene la enseñanza
+
+M: <*SPA>porque <*SPA>la <*SPA>enseñanza 
+C: porque la enseñanza 
+
+M: <*SPA>los <*SPA>padres <*SPA>que <*SPA>le 
+C: los padres que le
+
+M: <*SPA>dan <*SPA>los <*SPA>chicos <*SPA>dicen, 
+C: dan los chico dicen,
+
+M: <*SPA>hablan <*SPA>de <*SPA>esa <*SPA>manera.
+C: hablan de esa manera.
+
+ nmlch-pmicm1_1_0010_nmlch_00: 
+M: Peñi ¿eymün ta tüfameu mapumu kewakefuymün?
+C: Hermano¿ ustedes aquí pelearon por su tierra'
+
+nmlch-pmicm1_1_0011_pmicm_00:
+M: Mekekefuyiñ.
+C: Peleamos.
+
+nmlch-pmicm1_1_0012_nmlch_00: 
+M: Mapumu.
+C: La tierra.
+
+nlch-pmicm1_1_0013_pmicm_00: aqui 
+M: <*SPA>Siempre... <*SPA>siempre 
+C: Siempre
+
+M: kimpan mekeyiñ ñi chemün.
+C: observe que estabamos recuperando.
+
+nmlch-pmicm1_1_0014_nmlch_00: 
+M: ¿Kimpüraymi?
+C: ¿Alcanso observar?
+
+nmlch-pmicm1_1_0015_pmicm_00: 
+M: Kimpüran <*SPA>hasta <*SPA>la <*SPA>hora... 
+C: Alcance aobservar hasta la hora.
+
+M: <*SPA>hasta <*SPA>la <*SPA>hora <*SPA>todavía 
+C: hasta la hora todavía
+
+M: <*SPA>tenemos <*SPA>problemas feliyiñ.
+C: tenemos problemas así estamos.
+ 
+nmlch-pmicm1_1_0016_nmlch_00: 
+M: Feyti wingka rumewedatrokikeymünmu 
+C: El chileno los trata muy mal
+
+M: eymün ta, ¿welu kuyfi <*SPA>no? 
+C: a ustedes,¿pero antes no?
+
+nmlch-pmicm1_1_0017_pmicm_00: 
+M: Kuyfi fütra kuyfi amuy n'amun'tu amuy tüfameu 
+C: Antes hace mucho tiempo caminando se iba aquí
+
+M: Angol amuy fütrakeche tañi dungumial mapumu.
+C: Angol iban los ancianos para hablar de la tierra.
+
+nmlch-pmicm1_1_0018_nmlch_00: 
+M: Wngkañmaumial.
+C: Para estar en la justicia.
+ 
+nmlch-pmicm1_1_0019_pmicm_00: 
+M: May tañi dundumial tañi mapumuengün 
+C: Sí para defenderlo sus tierras
+
+M: <*SPA>pero chem solusionnurume akulngetulay 
+C: pero no le dieron ninguna solución
+
+M: fey, ka chumngechi amuy ka femngechi akutuy.
+C:y, como fueron así también regresaron.
+ 
+nmlch-pmicm1_1_0020_nmlch_00: 
+M: ¿Münaweda <*SPA>no?
+C: ¿Qué malo no?
+
+nmlch-pmicm1_1_0021_pmicm_00: 
+M: +/Quin/+ <*SPA>quince <*SPA>dias miawi.
+C: Quince días anduvimos.
+
+nmlch-pmicm1_1_0022_nmlch_00: 
+M: ¿Marikechu antü?
+C: ¿Quince días?
+
+mlch-pmicm1_1_0023_pmicm_00: 
+M: May, <*SPA>asi <*SPA>que <*SPA>no 
+C: Sí, así que  no
+
+M: fey tüfa petu felerupuyiñ <*SPA>ahora 
+C: y ahora estamoas así ahora
+
+M: <*SPA>mismo iñche <P> tüfameu entregangelu 
+C: mismo yo aquí cuando entregaron
+
+M: <*SPA>en <*SPA>periodo <*SPA>de Pinochet 
+C: en periodo el Pinochet
+
+M: entregangey ñi mapu <*SPA>cada <*SPA>cual algunu 
+C: entregaron su tierra cada cual alguno
+
+M: fey <*SPA>común fey pingey <*SPA>a 
+C: y comnín le dijeron a
+
+M: <*SPA>otros individual pingey, <*SPA>asi 
+C: atros individual le dijeron así
+
+M: <*SPA>que iñche individual... individual pediñ 
+C: que yo individual pedí
+
+M: <*SPA>asi <*SPA>que fey tañi küdawal chem 
+C: así que eso para trabajar cualquier
+
+M: tañi küpa küdauli iñche kidu tañi comunkülelu feyta 
+C: cosa si trabajo yo solo que esta en común este
+
+M: <*SPA>puro <*SPA>casi weluke envidiawi reke 
+C: puro casi todos se envidiaron 
+
+M: eluulay reke tañi küdawal <*SPA>como <*SPA>todos
+C: no se dejaron casi trabajar como todos
+
+M: <*SPA>pertenecemos pipingeyengün <*SPA>asi 
+C: pertenecemos dijeron así
+
+M: <*SPA> que	notukaumekey rekeengün.
+C: que como que peleaban ellos. 
+ 
+nmlch-pmicm1_1_0024_nmlch_00: 
+M: Müley notokawün.
+C: Hubo pelea.
+
+ nmlch-pmicm1_1_0025_pmicm_00: 
+M: Notokawün, <*SPA>entonces fey küme küdaulay 
+C: Pelea entonces y así no se pudo trabajar bien
+
+M: tati komunkülelu <P> <*SPA>y fey... fey tüfa 
+C: así en común y ese,  este
+
+M: petu nien <*SPA>problemas <!1problema'> <uh> 
+C: todavía tengo problema 
+
+M: <*SPA>fiscal mapumu, fey rupalu tati <*SPA>ingeniero 
+C: fiscal por la tierra, y cuando paso ese ingeniero
+
+M: tüfameu mülen pifiñ engün mülekayaymi müten 
+C: aquí estoy le dije a ellos quedece nomás
+
+M: <*SPA>fiscal mapu tüfachi <*SPA>gobierno entreganolmu
+C: tierra fiscal este gobierno sino te entrega
+
+M: <*SPA>cualquier <*SPA>otro <*SPA>gobierno 
+C: cualquier otro gobierno
+
+M: entregayaymu tati fey rukaupalayay kordillerameu 
+C: te lo entregara pues ahí te harás casa en la cordillera
+
+M: <*SPA>ningún <*SPA>presidente <*SPA>no 
+C: ningún presidente no
+
+M: <*SPA>va <*SPA>a <*SPA>venir <*SPA>a <*SPA>hacer
+C: va a venir a hacer
+
+M:  <*SPA>casa ka pingen <*SPA>asi <*SPA>que 
+C: casa también me dijeron así que
+
+M: feliyiñ tüfa petu... petu chemngelayiñ 
+C: así estamos aquí todavía no nos arreglan
+
+M: <*SPA>pues <!1pu'> 
+C: pues.
+
+nmlch-pmicm1_1_0026_nmlch_00: 
+M: Komunküleymün.
+C: Están en común.
+ 
+nmlch-pmicm1_1_0027_pmicm_00: 
+M: <*SPA>No, <*SPA>o <*SPA>sea <*SPA>la 
+C: No, o sea la
+
+M: <*SPA>veranada <!1verana'> <*SPA>es <!1e'> 
+C: veranada es
+
+M: <*SPA>fiscal <*SPA>pues <!1pu'> <*SPA>porque 
+C: fiscal pues porque
+
+M: tüfa tati kom tati tokalu mapu <*SPA>teníamos 
+C: este, todos los que tocaron tierra teníamos
+
+M: <*SPA>que <*SPA>tener <*SPA>invernada <!1inverna'> 
+C: que tener invernada
+
+M: <*SPA>y <*SPA>veranada <!1verana'> <*SPA>y 
+C: y veranada y
+
+M: <*SPA>invernada <!1inverna'> <*SPA>iba <*SPA>a 
+C: invernada  iba a
+
+M: <*SPA>ser <*SPA>poca <*SPA>tierra <*SPA>en 
+C: ser poca tierra en
+
+M: <*SPA>la <*SPA>veranada <!1verana'>  <*SPA>iba 
+C: la veranada iba
+
+M: <*SPA>a <*SPA>ser <*SPA>más <*SPA>tierra 
+C: a ser más tierra
+
+M: <*SPA>para <!1pa'>... <*SPA>para <!1pa'> <*SPA>poder
+C: para, para poder
+
+M:  <*SPA>trabajar <*SPA>para <!1pa'> <*SPA>llevar 
+C: trabajar para llevar
+
+M: <*SPA>los <!1lo'> <*SPA>animalito.
+C: los animalitos.
+
+ nmlch-pmicm1_1_0028_nmlch_00: 
+M: ¿Feypiy wingka?
+C: ¿Eso dijo el chileno?
+
+nmlch-pmicm1_1_0029_pmicm_00: 
+M: May feypiyiñmu wingka <*SPA>asi <*SPA>que 
+C: Sí, eso nos dijo el  chileno así que
+
+M: <*SPA>algunos feley, felewey ka <*SPA>pero... 
+C: algunos, estan así pues pero...
+
+M: <*SPA>pero kiñekemu fey.. fey ka mapumu 
+C: pero algunas veces la otra tierra
+
+M: mülelu iñchiñ <*SPA>asi <*SPA>que petu nieyiñ 
+C: donde estamos nosotros así que todavía tenemos
+
+M: <*SPA>problema petu entregangelayiñ <*SPA>ahí <
+C: problemas todavía no nos entregan ahí
+
+M: *SPA>estamos ka Conadi pingey Conadi ka 
+C: estamos y la Conadi se llama Conadi también
+
+M: weluke kampiangey <!1kambiangi> tati +/direc/+ 
+C: hacen muchos cambios pues
+
+M: <*SPA>director <*SPA>asi <*SPA>que amulay 
+C: director así que no avanza
+
+M: afansalay <!1avansalay> <*SPA>pues <!1pu'>.
+C: avanza pues.
+
+nmlch-pmicm1_1_0030_nmlch_00: 
+M: Feymu müten pünopünongeyengün.
+C: Ahí nomás estan pisoteando.
+ 
+nmlch-pmicm1_1_0031_pmicm_00: 
+M: Pünopünongey müten feymu müten trünkaykeawiy fey 
+C: Pisoteando nomás ahí nomás estan estancado eso
+
+M: <*SPA>después <!1depue'> fey ka <P> tati Pinochet 
+C: después ese también el Pinoche
+
+M: wüliy tati minimu küdau pichike <!1pitike> kanayiñ 
+C: dio el minímo un poco de trbajo para ganar
+
+M: <*SPA>primero <*SPA>trecientos <*SPA>cincuenta 
+C: primero trecientos cincuenta
+
+M: <*SPA>parece tumeyiñ tati plata.
+C: perece recivimos de plata.
+ 
+nmlch-pmicm1_1_0032_nmlch_00: 
+M: Pichiken plata.
+C: Poca plata.
+ 
+nmlch-pmicm1_1_0033_pmicm_00: 
+M: Pichiken plata <*SPA>después <!1depue'> 
+C: Poco plata después
+
+M. <*SPA>llegó <*SPA>hasta <*PA>mil 
+C: llegó hasta mil
+
+M: <*SPA>quinientos <P> fey <*SPA>después <!1depue'> 
+C: quinientos y después 
+
+M: fey mülelay küdau feley tañi kügawelafel küdautulay 
+C: va haver trabajo así que no trabajo más
+
+M: <*SPA>así <*SPA>que fey <Noise> fey triparumey 
+C: así que de repente salió
+
+M: <*SPA>un <*SPA>enganche <*SPA>de <*SPA>aquí 
+C: un enganche de aquí 
+
+M: <*SPA>a Curanilahue fey yengepayiñ amuyiñ <*SPA>en 
+C: a Curanilahue nos vinieron a buiscar y fuimos en
+
+M: <*SPA>mes <*SPA>de... <*SPA>de <*SPA>mayo.
+C: mes de, de mayo
+ 
+nmlch-pmicm1_1_0034_nmlch_00: 
+M: Pukem.
+C: Invierno.
+
+nmlch-pmicm1_1_0035_pmicm_00: 
+M: Pukem, pukemtuliyiñ <*SPA>así <*SPA>que fey 
+C: Invierno, en el invierno estabamos así que ese
+
+M: küdaukülepulu iñchiñ yegepalu iñchiñ tüfameu <*SPA>y... 
+C: trabajo que realizamos nos vinieron a buscar aquí y
+
+M: <*SPA>y <*SPA>ahí <*SPA>le <*SPA>dije <*SPA>yo 
+C: y ahí le dije yo
+
+M: <Noise> <*SPA>cuando <*SPA>llegamos <*SPA>allá 
+C: cuando llegamos allá
+
+M: <*SPA>y <*SPA>miré <*SPA>para <!1pa'> 
+C: y mire para 
+
+M: <*SPA>todos <!1to'>  <*SPA>los <!1lo'> 
+C: todos los
+
+M: *SPA>lados <!1la'u> <*SPA>para <*SPA>allá <!2pa'lla> 
+C: lados para allá
+
+M: <*SPA>para <*SPA>arriba <!2pa'rria> <*SPA>y 
+C: para arriba y
+
+M: <*SPA>el <*SPA>campamento <*SPA>y <*SPA>ahí
+C: el campamento y ahí 
+
+M:  <*SPA>nos <!1lo> <*SPA>entregaron <*SPA>otro 
+C: nos entregaron otro
+
+M: <*SPA>jefe <*SPA>ya <*SPA>le <*SPA>dije 
+C: jefe ya dije
+
+M: <*SPA>yo pucha <*SPA>cuando... <*SPA>le 
+C: yo pucha cuando le
+
+M: <*SPA>dije <*SPA>yo <*SPA>aquí 
+C: dije yo aquí 
+
+M: <*SPA>estamos <!1'tamo> <*SPA>mal "<*SPA>porque 
+C: estamos mal porque
+
+M: <*SPA>hombre" <*SPA>me <*SPA>dijo.
+C: hombre me dijo.
+
+nmlch-pmicm1_1_0036_nmlch_00: 
+M: Wechalkaliyiñ pifim.
+C: Estamos mal le dije.
+
+nmlch-pmicm1_1_0037_pmicm_00: 
+M: <*SPA>Aqui <*SPA>le <*SPA>dije, <*SPA>aqui 
+C: Aquí le dije, aquí
+
+M: <*SPA>estamos <!1'tamo> <*SPA>mal "<*SPA>porque
+C: estamos  mal porque 
+
+M: <*SPA>hombre" <*SPA>me <*SPA>dijo, chuta 
+C: hombre me dijo, chuta 
+
+M: <*SPA>le <*SPA>dije <*SPA>yo <*SPA>el... 
+C: le dije yo él
+
+M: <*SPA>donde <*SPA>esta <*SPA>el <*SPA>campamento 
+C: donde esta el campamento
+
+M: <*SPA>le <*SPA>dije <*SPA>yo, <*SPA>esta <!1'ta> 
+C: le dije yo, esta
+
+M: <*SPA>en <*SPA>un <*SPA>peligro <*SPA>y <P> 
+C: en un peligro y
+
+M: <*SPA>y <P> "<*SPA>porque <*SPA>me" <*SPA>dijo, 
+C: y porque me dijo,
+
+M: <*SPA>aqui <*SPA>viene <*SPA>un 
+C: ahí viene un 
+
+M: <*SPA>derrumbe <!1reumbe> <*SPA>le <*SPA>dije 
+C: derrumbe le dije
+
+M: <*SPA>nos <!1lo'> <*SPA>va <*SPA>a <*SPA>dejar 
+C: nos va a dejar
+
+M: <*SPA>todos <!1to'> <*SPA>tapau <*SPA>le 
+C: todos tapados le
+
+M: <*SPA>dije <P> "<*SPA>que <*SPA>hombre" 
+C: dije que hombre
+
+M: <*SPA>me <*SPA>dijo <*SPA>si <*SPA>allá 
+C: me dijo si allá
+
+M: <*SPA>en <*SPA>la <*SPA>tierra <*SPA>de 
+C: en la tierra  de
+
+M: <*SPA>ustedes <*SPA>dijo <uh> <*SPA>allá <uh>.
+C: ustedes dijo allá.
+ 
+nmlch-pmicm1_1_0038_nmlch_00: 
+M: Lonkimay.
+C: Lonquimay.
+
+nmlch-pmicm1_1_0039_pmicm_00: 
+M: <uhm> <*SPA>Arenoso <*SPA>y <*SPA>tierra 
+C: Arenoso y tierra
+
+M: <*SPA>blanda <*SPA>dijo <*SPA>y "<*SPA>aquí 
+C: blanda dijo y aquí 
+
+M: <*SPA>no.. <*SPA>aquí <*SPA>no <*SPA>son 
+C: no aquí no son
+ 
+M: <*SPA>tierras <*SPA>firmes" <*SPA>dijo, "
+C: tierra firme dijo,
+
+M: <*SPA>aquí <*SPA>no... <*SPA>no <*SPA>pasa 
+C: aquí no, no pasa
+
+M: <*SPA>eso" <*SPA>ya <*SPA>pues <!1pu'> <P> 
+C: eso ya pues
+
+M: <*SPA>ya <*SPA>empesamos <*SPA>a <*SPA>trabajar 
+C: ya empezamos a trabajar
+
+M: <*SPA>un <*SPA>mes <P> <*SPA>después <!1depue> 
+C: un mes después
+
+M: <*SPA>al <*SPA>otro <*SPA>mes <P> <*SPA>ya <P> 
+C: al otro mes ya
+
+M: <*SPA>a <*SPA>mi <*SPA>no... <*SPA>y <*SPA>ahí 
+C: a mi no y ahí 
+
+M: <*SPA>me <*SPA>dijeron <*SPA>los <!1lo'> 
+C: me dijeron los
+
+M: <*SPA>compañeros <!1compañero'> <*SPA>cuando 
+C: compañeros cuando
+
+M: <*SPA>iba <*SPA>a <*SPA>llegar <*SPA>el 
+C: iba a llegar el
+
+M: <*SPA>pago <P> <Throat> "<*SPA>por <*SPA>qué 
+C: paga por qué 
+
+M: <*SPA>no <*SPA>vamos <*SPA>buscar <!1'ucar> 
+C: no vamos buscar
+
+M: <*SPA>remedio" <*SPA>dijo <*SPA>usted <*SPA>que
+C: remedio dijo usted que
+
+M:  <*SPA>conoce <*SPA>más <*SPA>la <*SPA>huella 
+C: conoce más la huella
+
+M: <*SPA>el natrüng <*SPA>ese <*SPA>es <*SPA>el 
+C: el natre ese es el 
+
+M: *SPA>que <*SPA>se <*SPA>conoce <*SPA>para 
+C: que se conoce para
+
+M: <*SPA>allá <!2pa'llá> <*SPA>pues <!1pu'>.
+C: allá pues.
+
+nmlch-pmicm1_1_0040_nmlch_00: 
+M: Matrüng <!1natri>.
+C: Natre.
+
+nmlch-pmicm1_1_0041_pmicm_00: 
+M: Natrüng <!1natri> <*SPA>y <*SPA>la wella.
+C: Natre y la huella.
+
+nmlch-pmicm1_1_0042_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-pmicm1_1_0043_pmicm_00: 
+M: <*SPA>Para <*SPA>la <!2pa'la> fieure <P> 
+C: Para la fiebre
+
+M: <*SPA>después <!1depue'> chilko <*SPA>también 
+C: después chilco también
+
+M: <*SPA>así <*SPA>que <*SPA>ya  <*SPA>subimos 
+C: así que ya subimos
+
+M: <*SPA>arriba <*SPA>la <%> <*SPA>después <!1depue'> 
+C: arriba la después 
+
+M: <*SPA>que <*SPA>lavamos, <*SPA>lavamos 
+C: que lavamos, lavamos
+
+M: <*SPA>la <*SPA>ropa <*SPA>y <*SPA>ahí ...
+C: la ropa ahí.
+ 
+nmlch-pmicm1_1_0044_nmlch_00: 
+M: Püraymün wechuñ.
+C: Subieron arriba.
+ 
+nmlch-pmicm1_1_0045_pmicm_00: 
+M: Pürayiñ wechuñ <*SPA>asi <*SPA>que powiyiñ 
+C: Subimos arriba así que llegamos
+
+M: tati chuntepunmu tati mawida <uh> <P> rangiñmu 
+C: no cuantas montañas al medio
+
+M: ka küpaliy tati pichin ko, ka tapüle ka fachipüle 
+C: también venía un poco de agua, po aquí y po allá
+
+M: ka epuñpüle küla chemkey fey ka 
+C: por los dos lados tres preparo ese
+
+M trufürkülewey  tati chem... reumpayalu <!1reumbayalu>
+C: quedo turvio esa cosa, para pasar
+
+M:  tati mawida <%> amualu.
+C: la montaña que va.
+  
+nmlch-pmicm1_1_0046_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+nmlch-pmicm1_1_0047_pmicm_00: 
+M: Fey adkiñtufiñ tati keura fey ütrüfkonküley 
+C: Ahí observe la queura estaba tirado en el agua
+
+M: funankemamüll <*SPA>troso küdaukemum 
+C: en palos podridos troso donde trabajaban
+
+M: <*SPA>antes <%> femküley <*SPA>y <*SPA>ahí 
+C: antes ahí estaban y ahí 
+
+M: <*SPA>le <*SPA>dije <*SPA>yo <*SPA>lo 
+C: le dije yo lo
+
+M: <*SPA>que andábamos, <*SPA>andábamos <*SPA>tres.
+C: que andábamos, andábamos tres.
+ 
+nmlch-pmicm1_1_0048_nmlch_00: 
+M: Külayamimün.
+C: Andaban tres.
+  
+nmlch-pmicm1_1_0049_pmicm_00: 
+M: Külayawiyiñ, <*SPA>oye <*SPA>le <*SPA>dije 
+C: Tres andábamos oye le dije
+
+M: <*SPA>yo... Rolando <*SPA>le <*SPA>dijeron 
+C: yo Rolando le dijeron
+
+M: <*SPA>a Rolando fey chuta <*SPA>hombre 
+C: a Rolando y chuta hombre
+
+M: <*SPA>estamos <!1'tamo> <*SPA>mal <*SPA>aquí 
+C: estamos mal aquí 
+
+M: <*SPA>le <*SPA>dije, <*SPA>mira <*SPA>le 
+C: le dije mira le
+
+M: <*SPA>dije <*SPA>yo, <*SPA>aquí <*SPA>mira 
+C: dije yo, aquí mira
+ 
+M: <*SPA>ya... <*SPA>mira <*SPA>aquel <*SPA>le 
+C: ya, mira aquel le
+
+M: <*SPA>dije <*SPA>ya <*SPA>la <*SPA>tierra 
+C: dije ya la tierra
+
+M: <*SPA>esta <!1ta'> <*SPA>abierto <*SPA>y  
+C: esta abierta y
+
+M: <*SPA>si <*SPA>sigue <*SPA>lluviendo <*SPA>esto 
+C: si sigue lloviendo esto
+
+M: <*SPA>se <*SPA>va <*SPA>le  <*SPA>dije 
+C: se va le dije
+
+M: <*SPA>quien <*SPA>sabe <*SPA>va... <*SPA>va 
+C: quien sabe va,
+
+M: <*SPA>a <*SPA>arrastrar <*SPA>todo <!1to'> 
+C: a arrastrar todo
+
+M: <*SPA>para <*SPA>abajo <!2pa'bajo> <*SPA>lo 
+C: para abajo lo
+
+M: <*SPA>va <*SPA>a <*SPA>dejar tapau 
+C: va a dejar tapado
+
+M: <*SPA>allá <*SPA>le <*SPA>dije.
+C: allá le dije.
+ 
+nmlch-pmicm1_1_0050_nmlch_00: 
+M: Iñchiñ ka lofkonayiñ pifimi.
+C: Nosotros también nos quemaremos le dije.
+ 
+nmlch-pmicm1_1_0051_pmicm_00: 
+M: <*SPA>Claro, <*SPA>así <*SPA>digo <*SPA>yo 
+C: Claro, así digo yo
+
+M: <*SPA>le <*SPA>dije, pucha <*SPA>muy 
+C: le dije, pucha muy
+
+M: <*SPA>capaz <*SPA>dijo, <*SPA>capaz <*SPA>que 
+C: capaz dijo capaz que
+
+M: <*SPA>puede <*SPA>pasar, <*SPA>ya <Noise> 
+C: pude pasar ya 
+
+M: <*SPA>y <*SPA>ahí <*SPA>nos <*SPA>pagaron 
+C: y ahí nos pagaron
+
+M: <*SPA>y <*SPA>de <*SPA>ahí <*SPA>me <*SPA>vine 
+C: y de ahí me vine
+
+M: <*SPA>yo <*SPA>pues <!1pu'> <*SPA>a <*SPA>ver 
+C: yo pues a ver
+
+M: <*SPA>mi <*SPA>familia <*SPA>aquí <*SPA>a 
+C: mi familia aquí a
+
+M: <*SPA>dejar <*SPA>plata.
+C: dejar plata.
+
+nmlch-pmicm1_1_0052_nmlch_00: 
+M: Kullingelu eymün fey küpatuymi.
+C: Cumplido el mes ahí se vinieron.
+ 
+nmlch-pmicm1_1_0053_pmicm_00: 
+M: May küpan kullingelu iñchiñ <*SPA>así <*SPA>que 
+C: Sí, cuando nos pagaron así que
+
+M: <*SPA>le <*SPA>dieron <*SPA>tres <*SPA>dias 
+C: le dieron tres día
+
+M: <*SPA>parece <*SPA>cuatro <*SPA>dias.
+C: parece cuatro días.
+ 
+nmlch-pmicm1_1_0054_nmlch_00: 
+M: <*SPA>Libre elungeymün.
+C: Libre nos dieron.
+ 
+nmlch-pmicm1_1_0055_pmicm_00: 
+M: Lifrengeyiñ <!1librengeyiñ> <*SPA>pero 
+C: Nos libraron pero
+
+M: <*SPA>tenía <*SPA>que ...
+C: tenía que.
+
+nmlch-pmicm1_1_0056_nmlch_00: 
+M: ¿Wüñoal?
+C: ¿Volver?
+
+nmlch-pmicm1_1_0057_pmicm_00: 
+M: <*SPA>Ir <*SPA>y <*SPA>volver pagau <*SPA>esos 
+C: Ir i volver pagado esos
+
+M: <*SPA>dias <*SPA>pero <*SPA>teníamos 
+C: días pero teníamos
+
+M: <*SPA>que <*SPA>el <*SPA>dia <*SPA>que 
+C: que él día que
+
+M: <*SPA>teníamos <*SPA>que <*SPA>estar <*SPA>allá 
+C: teníamos que estar allá
+
+M: <*SPA>si <*SPA>no <*SPA>pasábamos <*SPA>un 
+C: si no pasábamos un
+
+M: *SPA>dia <*SPA>no <*SPA>nos <*SPA>pagaban 
+C: día no nos pagaban
+
+M: <*SPA>nada <!1na'> <*SPA>perdíamos, <*SPA>ya 
+C: nada perdíamos, ya
+
+M: <*SPA>así <*SPA>que <*SPA>trate <*SPA>llegué 
+C: así que trate llegué
+
+M: <*SPA>aquí <*SPA>todos <*SPA>los <*SPA>compañeros
+C: aquí todos los compañeros
+
+M:  <*SPA>que <*SPA>andábamos algunu +/me ma/+ 
+C: que andábamos algunos 
+
+M: <*SPA>vine cargau <*SPA>con <*SPA>plata <*SPA>con
+C: me vine cargado con plata con
+
+M:  <*SPA>carta <Noise> <*SPA>y <*SPA>así 
+C:  carta y así
+
+M: <*SPA>que <*SPA>como <*SPA>más <*SPA>confianza 
+C: que como más confianza
+
+M: <*SPA>me <*SPA>tomarían <*SPA>pues <!1pu'>.
+C: me tomaría pues.
+
+nmlch-pmicm1_1_0058_nmlch_00: 
+M: Küpaltuymi <*SPA>plata ka küpaltuymi <*SPA>carta
+C: Trajo plata, trajo carta.
+  
+nmlch-pmicm1_1_0059_pmicm_00: 
+M: <*SPA>Carta, <*SPA>así <*SPA>que fey 
+C: Carta así que eso
+
+M: repartipatun <*SPA>así <*SPA>que <*SPA>ya 
+C: repartí así que ya
+
+M: <*SPA>ahí <*SPA>tenía <*SPA>que <*SPA>volver 
+C: ahí tenía que volver
+
+M: <*SPA>pero <*SPA>ahí <*SPA>tambien <*SPA>por 
+C: pero ahí también por
+
+M: <*SPA>eso <*SPA>que <*SPA>uno <*SPA>no 
+C: eso que uno no
+
+M: <*SPA>esta <!1ta'> <*SPA>como 
+C: esta como
+
+M: <*SPA>le <*SPA>dijera <uh>.
+C: le dijeran.
+ 
+nmlch-pmicm1_1_0060_nmlch_00: 
+M: ¿Kidulelay?
+C: ¿No esta solo?
+
+nmlch-pmicm1_1_0061_pmicm_00: 
+M: <*SPA>No <*SPA>esta <!1ta'> kidulelay 
+C: No esta solo
+
+M: <*SPA>pues <!1pu'> <*SPA>y peuman +/prütrü/+ peuman 
+C: pues y soñé 
+
+M: <*SPA>así <*SPA>que <*SPA>no... <P> +/nos/+ 
+C: así que no
+
+M: <*SPA>no <*SPA>se <*SPA>vaya pieneu.
+C: no se vaya me dijo.
+ 
+nmlch-pmicm1_1_0062_nmlch_00: 
+M: Peumaymi.
+C: Soñó.
+
+nmlch-pmicm1_1_0063_pmicm_00: 
+M: Peuman <*SPA>no <*SPA>se 
+C: Soñé no se
+
+M: <*SPA>vaya <*SPA>me <*SPA>dijeron%.
+C: vaya me dijeron.
+
+nmlch-pmicm1_1_0064_nmlch_00: 
+M: ¿Wingkadungulngeymi kam mapuche?
+C: ¿Le hablaron en castellano o en mapuche?
+
+nmlch-pmicm1_1_0065_pmicm_00: 
+M: Wingkadulngen <P> fey <*SPA>no <*SPA>se 
+C: Me hablaron en castellano no sé
+
+M: <*SPA>vaya <*SPA>y <*SPA>de <*SPA>ahí 
+C: vaya y de ahí 
+
+M: <*SPA>y <*SPA>que <*SPA>será <*SPA>decía 
+C: y que será decía
+
+M: <*SPA>yo  <*SPA>que <*SPA>irá <*SPA>a 
+C: yo que irá a
+
+M: <*SPA>pasar <*SPA>y <*SPA>bien <*SPA>puede 
+C: pasar y bien puede
+
+M: <*SPA>haber <*SPA>descarrilar <!1dererrilar> 
+C: haber descarrilar
+
+M: <*SPA>el <*SPA>tren, <*SPA>corría <*SPA>el 
+C: él tren, corría el
+
+M: <*SPA>tren <*SPA>esa <*SPA>vez <*SPA>todavía, 
+C: tren esa vez todavía,
+
+M: <*SPA>puede <*SPA>descarrilar <!1derrilar> 
+C: puede descarrilar 
+
+M: <*SPA>el <*SPA>tren <*SPA>o <*SPA>bien 
+C: el tren o bien 
+
+M: <*SPA>puede <*SPA>dar <*SPA>vuelta <*SPA>el 
+C: puede dar vuelta el 
+
+M: <*SPA>vehículo <*SPA>dijo <*SPA>yo <*SPA>que 
+C: vehículo dijo yo que 
+
+M: <*SPA>puede <*SPA>ser <*SPA>peligro <*SPA>y 
+C: puede ser peligro y
+
+M: <*SPA>llegué <*SPA>a... <P> <*SPA>y <*SPA>ahí 
+C: llegué a y ahí 
+
+M: <*SPA>hacía <*SPA>empeño <*SPA>dormir 
+C: hacía empeño dormir
+
+M: <*SPA>otra <*SPA>vez <*SPA>me <*SPA>quedaba 
+C: otra vez me quedaba
+
+M: <*SPA>dormido <*SPA>otra <*SPA>vez <*SPA>y 
+C: dormido otra vez  y
+
+M: <*SPA>no <*SPA>se <*SPA>vaya <*SPA>me 
+C: no sé vaya me
+
+M: <*SPA>decía, chuta <*SPA>y... <*SPA>y <*SPA>tenía
+C: decía, chuta y tenía
+
+M: <*SPA>que <*SPA>irme <*SPA>porque <*SPA>vencía 
+C: que irme porque vencía
+
+M: <*SPA>el <*SPA>plazo <*SPA>pensando <*SPA>me 
+C: el plazo pensando me
+
+M: <*SPA>fui <*SPA>pues <!1pu'>.
+C: fui pues.
+
+nmlch-pmicm1_1_0066_nmlch_00: 
+M: Amutuymi.
+C: Se fue.
+
+nmlch-pmicm1_1_0067_pmicm_00: 
+M: Amutun <*SPA>me <*SPA>fui.
+C: Me fui, me fui. 
+ 
+nmlch-pmicm1_1_0068_nmlch_00: 
+M: <Throat> ¿Fau añütumekeymi?
+C: ¿Aquí se quedaba dormido?
+
+nmlch-pmicm1_1_0069_pmicm_00: 
+M: ¿Aa?
+C: ¿Aa?
+
+nmlch-pmicm1_1_0070_nmlch_00: 
+M: ¿Fau añütumekekeymi?
+C: ¿Aquí se quedaba dormido?
+
+nmlch-pmicm1_1_0071_pmicm_00: 
+M: <*SPA>Claro <*SPA>aqui <*SPA>en <*SPA>la 
+C: Claro aquí en la
+
+M: <*SPA>casa <*SPA>pues <!1pu'>.
+C: casa pues.
+ 
+nmlch-pmicm1_1_0072_nmlch_00:
+M: Rukameu.
+C: En la casa.
+ 
+nmlch-pmicm1_1_0073_pmicm_00:
+M: Rukameu.
+C: En la casa.
+ 
+nmlch-pmicm1_1_0074_nmlch_00: 
+M: Añütumekeymi.
+C: Se quedaba dormido.
+ 
+nmlch-pmicm1_1_0075_pmicm_00: 
+M: <*SPA>Claro <*SPA>así <*SPA>que <*SPA>quedaba dormiu
+C: Claro así que quedaba dormido 
+
+M:  <*SPA>y <*SPA>empasaba <*SPA>con <*SPA>esa 
+C: y empezaba con esa
+
+M: <*SPA>molestia <*SPA>así.
+C: molestía así.
+ 
+nmlch-pmicm1_1_0076_nmlch_00: 
+M: Amukeymi% <%>.
+C: Fue.
+ 
+nmlch-pmicm1_1_0077_pmicm_00: 
+M: <%> <*SPA>Y <*SPA>ahí <*SPA>le <*SPA>dije 
+C: Y ahí le dije
+
+M: <*SPA>yo <*SPA>bueno <P> <*SPA>y <*SPA>ya 
+C: yo bueno y ya
+
+M: <*SPA>había <*SPA>escuchado <*SPA>ese 
+C: había escuchado ese
+
+M: <*SPA>que <P> <*SPA>el <*SPA>pastor 
+C: que el pastor
+
+M: <*SPA>que <*SPA>lo <*SPA>estaba <*SPA>doctrinando 
+C: que lo estaba doctrinando
+
+M: <*SPA>le <*SPA>había <*SPA>escuchado <*SPA>que 
+C: le había escuchado que
+
+M: <*SPA>uno <uh> <*SPA>mi Dios <*SPA>le 
+C: uno mi Dios le
+
+M: <*SPA>hablaba <*SPA>y <*SPA>uno.
+C: Hablaba y uno.
+ 
+nmlch-pmicm1_1_0078_nmlch_00: 
+M: Ta pengelngeal wingkamu welu entendenual <%> 
+C: Para verlo en chileno no se entiende
+
+M: re mapuchedungunmu.
+C: solo en el mapuche.
+ 
+nmlch-pmicm1_1_0079_pmicm_00: 
+M: <*SPA>Y <*SPA>así fey puutulu iñche tañi 
+C: Y así cuando llegue en mi
+
+M: kampamentumeu <*SPA>y mawi <*SPA>pues <!1pu'>.
+C: campamento y llovió pues.
+
+nmlch-pmicm1_1_0080_nmlch_00: 
+M: Mawi.
+C: Llovió.
+
+nmlch-pmicm1_1_0081_pmicm_00: 
+M: Mawi kiñe pun mawi ka wünpüle ka mawi.
+C: Llovió una noche y al amanecer también llovió.
+ 
+nmlch-pmicm1_1_0082_nmlch_00: 
+M: Welu küme puutuymi.
+C: Pero llego bien.
+ 
+nmlch-pmicm1_1_0083_pmicm_00: 
+M: May küme puutun <*SPA>y... <*SPA>y meli .antü mawi
+C: Sí llegue bien y cuatro días llovió.
+ 
+nmlch-pmicm1_1_0084_nmlch_00: 
+M: Rupalay mawün.
+C: No pasa de llover.
+
+nmlch-pmicm1_1_0085_pmicm_00: 
+M: Rupalay mawün <*SPA>y tripalayiñ rume küdaumu 
+C: No pasaba la lluvia y no salimos a trabajar
+
+M: ka pepi kütraltulayiñ rume <*SPA>así <*SPA>que 
+C: y no podíamos hacer fuego así que
+
+M: ñi kampamentumeu feymu müten müleyiñ 
+C: en el campamento ahí nomás estabamos
+
+M: ngütantumu ka müleyiñ fey tañi cheu ñi umagtukemum 
+C: en la cama estabamos ahí donde dormíamosn
+
+M: <*SPA>asi <*SPA>que <*SPA>litera pingey 
+C: así que litera se llama
+
+M: chemküley feymu... feymu müten müley trüngkaykeawi 
+C: ahí estaba, ahí nomás estaba dandose vuelta
+
+M: <P> <*SPA>así fey meli antümu kechu antümu 
+C: así cuatros día, cinco días
+
+M: chi maumenu <P> pichilewi antü ka <P> fey 
+C: de lluvia quedaba poco sol y 
+
+M: kangelu fey wüllütualu reke tripay kiñe tañi wenüy 
+C: otro como que quería orinar salió unos de los amigo
+
+M: tati kiñe tralkan reke femngechi lolololo lalalalalala piy 
+C: y un trueno así sonó lolo, lala dijo
+
+M: chi mawida <*SPA>y fey kangelu fey llükalu fey "
+C: la montaña y el otro le dio miedo y
+
+M: <*SPA>disparen <*SPA>huevones <*SPA>de 
+C: disparen huevones de
+ 
+M: <*SPA>mierda, <*SPA>viene <*SPA>el <*SPA>cerro 
+C: mierda viene el cerro
+
+M: <*SPA>abajo" piy, iñche famngechi nülan ñi 
+C: abajo dijo, yo así me agarre mi
+
+M: <*SPA>puerta tripan adkiñtun <*SPA>ni <*SPA>una 
+C: puerta salí observe ni una
+
+M: <*SPA>cosa, famngechi ka üyechi adkiñtulu iñche 
+C: cosa, así por allá observe yo
+
+M: famngechi rupay tachi derrumbe <!1reumbe> 
+C: así paso el derrumbe 
+
+M: ka üyechi amuy ka femngechi rupay <*SPA>así 
+C: y allá fue también así paso así
+
+M: <*SPA>que ragiñkonkülewetuyiñ <*SPA>pues <!1pu'> 
+C: que quedamos al medio pues
+
+M: <*SPA>hay <*SPA>una... <*SPA>quedó <*SPA>pero 
+C: hay una , quedo pero
+
+M: <*SPA>alto <%>  montronkülewepay mamüll kom.
+C: alto amontonado quedo la leña todo.
+  
+nmlch-pmicm1_1_0086_nmlch_00: 
+M: ¡Oo!
+C: ¡Oo!
+ 
+nmlch-pmicm1_1_0087_pmicm_00: 
+M: <*SPA>Y <*SPA>el.. <*SPA>el <*SPA>campamento
+C: Y el, campamento
+
+M: pengenngewetulay ñamkonkületuy epüñma rangiñma.
+C: no se veía quedo perdido por los dos lado.
+ 
+nmlch-pmicm1_1_0088_nmlch_00: 
+M: ¡Oo! <Laugh> 
+C: ¡Oo!
+
+M: ¿Feyngey ti peñi?
+C: ¿Y el hermano?
+
+nmlch-pmicm1_1_0089_pmicm_00: 
+M: <*SPA>Claro <*SPA>ese <*SPA>era <*SPA>el 
+C: Claro ese era él
+
+M: <*SPA>peligro, <*SPA>ese <*SPA>era <*SPA>a 
+C: peligro , ese era a
+
+M: <*SPA>lo <*SPA>mejor <*SPA>si +/ngillatul/+ lukutukenuli,
+C: lo mejor sí no estaba de rodilla
+
+M:  <*SPA>porque <*SPA>nosotros <*SPA>los <!1lo'>... 
+C: porque nosotros los..
+
+M: peñi fankelikungen <*SPA>nosotros <!1nosotro'> 
+C: hermanos así estaban nosotros
+
+M: ngillatuyiñ lukutuyiñ <*SPA>y pedifiyiñ Dios 
+C: hicimos rogativa nos a rodillamos y le pedimos a Dios
+
+M: <*SPA>por <*SPA>todo <!1to'>.
+C: por todo.
+ 
+nmlch-pmicm1_1_0090_nmlch_00: 
+M: Ngünechen.
+C: Dios.
+
+nmlch-pmicm1_1_0091_pmicm_00: 
+M: <%> <*SPA>Por <*SPA>uno.
+C: Por uno.
+
+nmlch-pmicm1_1_0092_nmlch_00: 
+M: <*SPA>No kiñemu.
+C: No uno solo.
+
+nmlch-pmicm1_1_0093_pmicm_00: 
+M: <*SPA>No.
+C: No.
+
+nmlch-pmicm1_1_0094_nmlch_00: 
+M: Fill ta ad mülelu, admu kom...
+C: De todo hay, por paisaje todo.
+
+nmlch-pmicm1_1_0095_pmicm_00: 
+M: <*SPA>Todo <!1to'>.
+C: Todo.
+
+nmlch-pmicm1_1_0096_nmlch_00: 
+M: Montupe pileyengün.
+C: Que se salven dijeran.
+ 
+nmlch-pmicm1_1_0097_pmicm_00: 
+M: <*SPA>Claro kom fey tati feyentulu, feyentunulu 
+C: Claro todos los que creen, el que no cree
+
+M: tañi pernoyayafel piyiñmu, iñche tati  feyentulelu 
+C: no lo encontraría , yo si creo
+
+M: doy tañi feyentual, fey feyentunulu kay 
+C: más creo, y el que no cree pues
+
+M: <*SPA>también tañi perdonayafel.
+C: también debe perdonarlo.
+  
+nmlch-pmicm1_1_0098_nmlch_00: 
+M: Feley <*SPA>pues <!1pu'>.
+C: Así pues.
+
+nmlch-pmicm1_1_0099_pmicm_00: 
+M: <*SPA>Así <*SPA>todo <!1to'> <*SPA>eso 
+C: Así todo eso
+
+M: <*SPA>nosotros <!1nosotro> ka tañi... ka 
+C: nosotros y nuestro, también
+
+M: <*SPA>autoridad tañi presentayafel <*SPA>todo <!1to'> 
+C:  autoridad debe presentarse todo
+
+M: <*SPA>tenían <*SPA>que <*SPA>presentarle 
+C: tenían que presentarse
+
+M: <*SPA>todo <!1to'> <*SPA>es <!1e'> <*SPA>un 
+C: todos es un
+
+M: <*SPA>trabajo <*SPA>muy <*SPA>grande.
+C: trabajo muy grande.
+  
+nmlch-pmicm1_1_0100_nmlch_00: 
+M: <*SPA>No <*SPA>si feley, feley <uh> 
+C: No si es así,
+
+M: ngillatun ta pekandungu <*SPA>no.
+C: rogativa no es cualquier cosa no.
+ 
+nmlch-pmicm1_1_0101_pmicm_00: 
+M: <*SPA>No <*SPA>claro.
+C: No claro.
+
+nmlch-pmicm1_1_0102_nmlch_00: 
+M: Ngillatun wentru nielu rakiduam, nielu ta 
+C: Ceremonia religiosa, el hombre que piensa, el que tiene 
+
+M: kimün ngillatun ta kidumu ngillatulay.
+C: conocimiento rogativa solo hace oraciones.
+
+nmlch-pmicm1_1_0103_pmicm_00: 
+M: Ngillatun <*SPA>no <*SPA>pues <!1pu'> .
+C: Rogativa mapuche no pues.
+
+nmlch-pmicm1_1_0104_nmlch_00: 
+M: Fillmu ngillatuy.
+C: En todo se debe orar.
+
+nmlch-pmicm1_1_0105_pmicm_00:
+M: <*SPA>Claro%.
+C: Claro.
+
+nmlch-pmicm1_1_0106_nmlch_00: 
+M: Maule kom ta tokayay fau.
+C: Si andan todo tocaran aquí.
+
+nmlch-pmicm1_1_0107_pmicm_00: 
+M: Kom llemay.
+C: Todos pues.
+
+nmlch-pmicm1_1_0108_nmlch_00: 
+M: Tripale antü kom ta peay antü.
+C: Sí sale el sol todos veran el sol.
+ 
+nmlch-pmicm1_1_0109_pmicm_00: 
+M: Kom peay.
+C: Todos los verán.
+ 
+nmlch-pmicm1_1_0110_nmlch_00: 
+M: Ngillatun ka ngillatule feymu ta <uh> küme nentuy 
+C: Rogativa y si ora ahí y si saca bien
+
+M: ñi ngillatun che feyta müngeltungey ka.
+C: su oración la persona este se mejora pues.
+ 
+nmlch-pmicm1_1_0111_pmicm_00: 
+M: Femiy <*SPA>así <*SPA>que fey, femlu iñche fey wüla... 
+C: Así es  que, cuando lo hice yo ahí recién
+
+M: <*SPA>no <*SPA>ves <*SPA>le <*SPA>dije 
+C: no ves le dije
+
+M: <*SPA>yo, <*SPA>que <*SPA>pasó 
+C: yo, que pasó
+
+M: pitufiñ chi <*SPA>jefe <Laugh>.
+C: le dije al jefe.
+
+nmlch-pmicm1_1_0112_nmlch_00: 
+M: Chumiaama pitufimi.
+C: Que le paso le dije.
+
+nmlch-pmicm1_1_0113_pmicm_00:
+M: May chumleyama pifiñ <Laugh>.
+C: Sí como esta le dije.
+ 
+nmlch-pmicm1_1_0114_nmlch_00: 
+M: Chempituy kafeykay.
+C: Y que dije él.
+ 
+nmlch-pmicm1_1_0115_pmicm_00: 
+M: <*SPA>Pero kümelkapulan peñi <*SPA>desde 
+C: Pero no estaba  bien hermano desde
+
+M: <*SPA>que <*SPA>lo <*SPA>vi <*SPA>el 
+C: que lo vi el 
+
+M: <*SPA>cerro <*SPA>no <*SPA>mas.
+C: cerro nomás.
+  
+nmlch-pmicm1_1_0116_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: Küme... kümeduampulaymi.
+C: Bien no se sintió bien.
+
+nmlch-pmicm1_1_0117_pmicm_00: 
+M: <*SPA>No kümeduampulan algu <*SPA>me... 
+C: No me sentí bien algo me
+
+M: me chemkafa <!1chemkava>.
+C: me decía .
+
+nmlch-pmicm1_1_0118_nmlch_00: 
+M: +/Pet/+ üneleymi.
+C: Andaba primero.
+
+nmlch-pmicm1_1_0119_pmicm_00:
+M: Ünelen... ünelen afisanu reke fey.
+C: Andaba nervioso me aviso ese.
+
+nmlch-pmicm1_1_0120_nmlch_00: 
+M: Welu ka pemefimi <*SPA>pues <!1pu'> peñi.
+C: Pero también visite pues hermano.
+ 
+nmlch-pmicm1_1_0121_pmicm_00: 
+M: <*SPA>Claro ka pefiñ <Laugh>.
+C: Claro también lo vi.
+ 
+nmlch-pmicm1_1_0122_nmlch_00: 
+M: Deu ka feypifuymi deuma.
+C: Ya también le dije ya.
+
+nmlch-pmicm1_1_0123_pmicm_00: 
+M: <Noise> <*SPA>Y <*SPA>así <*SPA>que 
+C: Y así que
+
+M: <*SPA>de <*SPA>ahí <*SPA>ya <*SPA>pu' 
+C: de ahí ya pues
+
+M: <*SPA>pucha <*SPA>la <*SPA>lesera <*SPA>y 
+C: pucha la lesera y
+
+M: <*SPA>ya <P> <*SPA>no <*SPA>le <*SPA>dijo 
+C: ya no le dijo
+
+M: <*SPA>yo <*SPA>no <*SPA>pasa 
+C: yo no pasa
+
+M: fey tripatuy kom tati peumakakakelu ka fey 
+C: ahí salió todo el sueño también ese
+ 
+M: peumayiñ feyta peuman <*SPA>dijo nagpay <*SPA>por... 
+C: soñamos este soñé dijo bajo por
+
+M: <*SPA>por <*SPA>la <*SPA>quebrada <*SPA>para 
+C: por la quebrada para
+
+M: <*SPA>abajo <!2pa'bajo> nagpay kiñe fütra toro 
+C: abajo, bajo un gran toro
+
+M: küpaleürkey <*SPA>muy <*SPA>enojado <*SPA>dijeron 
+C: venía muy enojado dijeron
+
+M: <*SPA>otro <*SPA>una <*SPA>tira <*SPA>de 
+C: otro una tira de
+
+M: <*SPA>novillo <*SPA>venía <*SPA>saliendo 
+C: novillo venía saliendo
+
+M: <*SPA>de <*SPA>la <*SPA>quebrada pi kafey 
+C: de la quebrada dijo también
+
+M: <*SPA>de <*SPA>negro motro pi fey 
+C: de negro motro dijo el 
+
+M: tripatuy peuma <*SPA>pues <!1pu'>.
+C: salió en el sueño pues.
+ 
+nmlch-pmicm1_1_0124_nmlch_00: 
+M: <Laugh> Kom tripatuy <*SPA>pues <!1pu'> peñi.
+C: Todo salió pues hermano.
+ 
+nmlch-pmicm1_1_0125_pmicm_00: 
+M: <Laugh> Kom tripatuy <Laugh>.
+C: Todo salió.
+
+nmlch-pmicm1_1_0126_nmlch_00: 
+M: <uh> Peñi eymi ta nieymi deuma tripantu 
+C: Hermano usted tiene varios años
+
+M: kimpelaymi wingkul ta niey ngenngelu pingey.
+C: debe saber el cerro tiene dueño dicen.
+ 
+nmlch-pmicm1_1_0127_pmicm_00: 
+M: <*SPA>Así <*SPA>capaz <*SPA>no <*SPA>pues <!1pu'>
+C: Así capaz no pues
+
+nmlch-pmicm1_1_0128_nmlch_00: 
+M: Müley ta ngen wingkul pingey, müley ta kulliñ 
+C: Hay dueño de los cerro dicen, hay animales
+
+M: mülekey ta itrofill <uh> üñüm <uh> am kom 
+C: hay de todos pájaros de todos
+
+M: müley pingekey <%> ¿feyngepey ti?
+C: hay dicen ¿sera así eso?
+
+nmlch-pmicm1_1_0129_pmicm_00: 
+M: <*SPA>Si <*SPA>ese, <*SPA>es <*SPA>verdad <*SPA>ese.
+C: Sí ese, es verdad ese.
+
+nmlch-pmicm1_1_0130_nmlch_00: 
+M: ¿Feyngey <*SPA>no? 
+C: ¿Así es no?
+
+nmlch-pmicm1_1_0131_pmicm_00: 
+M: <*SPA>Ese.
+C: Ese.
+
+nmlch-pmicm1_1_0132_nmlch_00: 
+M: Ngünechen may fill eley feymu.
+C: Dios pues dejo de todo ahí.
+
+nmlch-pmicm1_1_0133_pmicm_00: 
+M: <*SPA>Claro <*SPA>ahí ta Dios <*SPA>todos <!1to'> 
+C: Claro ahí pues Dios todos
+
+M: <*SPA>eso <*SPA>por <*SPA>eso <*SPA>que... 
+C: eso por eso que
+
+M: <*SPA>que <*SPA>mi Dio <*SPA>hizo <*SPA>todos <!1to'> 
+C: que mi Dios  hizo todos
+
+M: <*SPA>los <!1lo'> <*SPA>mejores <!1mejore'>.
+C: los mejores.
+ 
+nmlch-pmicm1_1_0134_nmlch_00: 
+M: Kom doy kümelkalu.
+C: Todo lo mejor.
+ 
+nmlch-pmicm1_1_0135_pmicm_00: 
+M: <*SPA>Todo <!1to'> <*SPA>lo <*SPA>bueno 
+C: Todo lo bueno
+
+M: <*SPA>y <*SPA>lo <*SPA>que <*SPA>pasa 
+C: y lo que pasa
+
+M: <*SPA>que <P> <*SPA>como <*SPA>también ta 
+C: que como también pues
+
+M: <*SPA>el... <*SPA>el <*SPA>enemigo <*SPA>que 
+C: el enemigo que
+
+M: <*SPA>le.. <*SPA>le <*SPA>hace <*SPA>la 
+C: le hace la 
+
+M: <*SPA>lucha <*SPA>a Dios <*SPA>entonces 
+C: lucha a Dios entonces
+
+M: <*SPA>ese <*SPA>son <*SPA>los <!1lo'> 
+C: ese son los
+
+M: <*SPA>que <*SPA>le <*SPA>trabaja <*SPA>aqui 
+C: que le trabajan aquí 
+
+M: <*SPA>ese <*SPA>es <*SPA>el <*SPA>que... 
+C: ese es él que
+
+M: <*SPA>ese <*SPA>es <*SPA>el <*SPA>que 
+C: ese es es que
+
+M: <*SPA>le kaymülkaiñmu <*SPA>muchas <!1mucha'> 
+C: le hace mal muchas
+
+M: <*SPA>veces <!1vece'> weya rakiduam... 
+C: veces malos pensamientos
+
+M: küme rakiduam <*SPA>así <*SPA>que fey kom 
+C: buenos pensamiento así que eso todo
+
+M: tukulpaiñ <P> <*SPA>así <*SPA>que pichiñma 
+C: mensionamos así que un poco
+
+M: müten <*SPA>quien <*SPA>sabe küme 
+C: nomás quien sabe bien
+
+M: rakiduammafuy ka pichiñma <*SPA>quien 
+C: el pensamiento y un poco quien
+
+M: <*SPA>sabe weya rakiduammafuy.
+C: sabe el que piensa mal.
+
+nmlch-pmicm1_1_0136_nmlch_00: 
+M: Weda rakiduam.
+C: Malos pensamiento.
+
+nmlch-pmicm1_1_0137_pmicm_00: 
+M: <*SPA>Claro <*SPA>así <*SPA>es <*SPA>el... 
+C: Claro así es él
+
+M: <*SPA>es <*SPA>el <*SPA>trabajo <*SPA>de 
+C: es el trabajo de
+
+M: *SPA>la <*SPA>que <*SPA>hay...
+C: la que hay.
+
+nmlch-pmicm1_1_0138_nmlch_00: 
+M: Kiñeñpüle nentuyawülfi rüpümu che.
+C: Delado lo andaba sacando en el camino la persona.
+
+nmlch-pmicm1_1_0139_pmicm_00: 
+M: Kiñeñpüle nentuyawülfi.
+C: De lado lo andaba sacando.
+
+nmlch-pmicm1_1_0140_nmlch_00: 
+M: Pichi rüpütule ka kiñeñpüle nentufi.
+C: Si anda un poco en el camino por un lado lo saco.
+ 
+nmlch-pmicm1_1_0141_pmicm_00: 
+M: <*SPA>Así <*SPA>que <*SPA>ahí <*SPA>yo 
+C: Así que ahí yo
+
+M: <*SPA>como entendefiñ reke tati... tati 
+C: como lo entiendo casi eso
+
+M: katrütuchekelu l'agümchekelu <*SPA>todo <!1to'> 
+C: a taja la persona, asesina persona todo
+
+M: <*SPA>ese <*SPA>el <*SPA>trabajo <*SPA>del...
+C: ese él trabajo del.
+
+nmlch-pmicm1_1_0142_nmlch_00: 
+M: Konkelu. 
+C: Que entra.
+ 
+nmlch-pmicm1_1_0143_pmicm_00: 
+M: Konkelu <*SPA>el <*SPA>diablo.
+C: Entra el diablo.
+
+nmlch-pmicm1_1_0144_nmlch_00: 
+M: Fey tati.
+C: Eso pues.
+ 
+nmlch-pmicm1_1_0145_pmicm_00: 
+M: Wekufü piyiñ iñchiñ anchimalleñ 
+C: Diablo decimos nosotros anchimallen
+
+M: <*SPA>todo <!1to'> <*SPA>eso.
+C. todo eso.
+ 
+nmlch-pmicm1_1_0146_nmlch_00: 
+M: Witranalwe.
+C: Huitranalhue.
+
+nmlch-pmicm1_1_0147_pmicm_00: 
+M: Witranalwe <*SPA>ese.
+C: Huitranalhue ese.
+ 
+nmlch-pmicm1_1_0148_nmlch_00: 
+M: Feyti peñi <uh> kuyfi mapuche fütakeche rume 
+C: Ese hermano antes mapuche los ancianos lo
+
+M: yamkefuy wingkul pingey.
+C: respetaban mucho el cerro dicen.
+ 
+nmlch-pmicm1_1_0149_pmicm_00:
+M: <*SPA>Si <*SPA>o <*SPA>sea 
+C: Sí o sea
+
+M: <*SPA>que doy niekefuy tati ...
+C: que tenía más eso.
+
+nmlch-pmicm1_1_0150_nmlch_00: 
+M: Feyentun.
+C: Creencia.
+
+nmlch-pmicm1_1_0151_pmicm_00: 
+M: Feyentun, feyentun <uh> ka temor pi wingka.
+C: Creencia, creencia y temor dice el chileno.
+ 
+nmlch-pmicm1_1_0152_nmlch_00: 
+M: Fey llemay.
+C: Eso pues.
+
+nmlch-pmicm1_1_0153_pmicm_00: 
+M: <*SPA>Le <*SPA>tenía <*SPA>temor.
+C: Le tenía temor.
+ 
+nmlch-pmicm1_1_0154_nmlch_00: 
+M: Doy niekefuy ka yam%.
+C: Tenían más respeto.
+
+nmlch-pmicm1_1_0155_pmicm_00: 
+M: Niekefuy kuydau taiñ ngütrammu ñi ngütram 
+C: Tenían trabajo en la conversación su conversación
+
+M: ka kuydautuy ñi trekayawün kom chemfuy <Noise> 
+C: y cuidaban donde caminaban todo lo hacía
+
+M: ka tañi llellipun ka tañi ngillatun ka doy 
+C: y también la rogativa la ceremonia religiosa y mas
+
+M: chempuy ka, fey fachiantü felewelay <*SPA>porque <uh> 
+C: lo hacía y hoy día no esta así porque 
+
+M: tüfa <*SPA>muchas <!1mucha'> <*SPA>veces <!1vece'>
+C: este muchas veces 
+
+M:  ngaloutuyengün ngillatuyengün <*SPA>al 
+C: se aconsejan, aconsejan al
+
+M: <*SPA>ultimo <uh> yemetuy rupangillatukünuyengün 
+C: ultimo va a buscar una ves hecha la rogativa
+
+M: müten +/termina/+ deumaluengün fey amutuy 
+C: no más una ves terminado ahí se va
+
+M: wingkamuengün fey küpaltuy fey ngollipatuy 
+C: chileno ese trajo ahí se embriagan
+
+M: meketuy inaluwünengün fey che chumngechi 
+C: y comienzan a enojarse y como la persona
+
+M: kümeay tuteay Ngünechenmu tutelay <*SPA>pues <!1pu'>.
+C: va ser buena para Dios no es buena pues.
+ 
+nmlch-pmicm1_1_0156_nmlch_00: 
+M: Tutelay <*SPA>pues <!1pu> peñi.
+C: No le cayo bien hermano.
+  
+nmlch-pmicm1_1_0157_pmicm_00: 
+M: Tutelay <P> <*SPA>así <*SPA>que fey 
+C: No le cayo bien así que él 
+
+M: <*SPA>despues <!1depue'> fey feypituyengün <uh> 
+C: después ahí recién creyeron
+
+M: allkütuñmalaiñmu Dios pituyengün <*SPA>pero 
+C: le escucho Dios eso dijeron pero 
+
+M: <*SPA>mi Dios <*SPA>es <*SPA>uno <*SPA>el 
+C: mi Dios es uno él
+
+M: <*SPA>culpable.
+C: culpable.
+
+nmlch-pmicm1_1_0158_nmlch_00: 
+M: Kidumay ta küme ta feypilay dallulay.
+C:  El no lo dijo bien, no lo dio a conocer.
+
+nmlch-pmicm1_1_0159_pmicm_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> <*SPA>entonces 
+C: No pues entonces
+
+M: chemlay <*SPA>pues <!1pu'> küme nentulay
+C: no lo hizo pues no lo saco bien
+
+M: ñi dungu <*SPA>pues <!1pu'>.
+C: su conversación pues.
+
+nmlch-pmicm1_1_0160_nmlch_00: 
+M: Küme nentulay ñi dungu llemay.
+C: No lo dio a conocer bien su mensaje pues.
+ 
+nmlch-pmicm1_1_0161_pmicm_00: 
+M: <*SPA>Claro <*SPA>así <*SPA>que fey küpa 
+C: Claro así que el  quiso
+
+M: wüleli ñi ka che wüleltueyu küpa
+C: dar a las otras personas les golpió quizo
+
+M: ngachatukatuy <*SPA>asi <*SPA>que 
+C: le paso así que
+
+M: nielay kiñe yamuwün <*SPA>pues <!1pu'>
+C: no tiene un respeto pues
+
+nmlch-pmicm1_1_0162_nmlch_00: 
+M: <*SPA>No.
+C: no.
+ 
+nmlch-pmicm1_1_0163_pmicm_00: 
+M: Yamuwi may che feyta chemiy feyta 
+C: Cuando se valora la persona pues este
+
+M: yamuulay <*SPA>entonces ...
+C: no se valora entonces.
+ 
+nmlch-pmicm1_1_0164_nmlch_00: 
+M: Wechalkaley llemay.
+C: Esta mal pues.
+
+nmlch-pmicm1_1_0165_pmicm_00: 
+M: Wedalkaley <*SPA>así fey küpa weñeñyawi 
+C: Esta mal así y cuando quiere anda robando
+
+M: <*SPA>cualquier <*SPA>hora ngillatuntuy ka 
+C: cualquier hora hace una rogativa y
+
+M: <*SPA>así fey <*SPA>a <*SPA>donde <*SPA>va, 
+C: así él a donde va,
+
+M: <*SPA>entonces fey pefiñ tati <*SPA>mejor 
+C: entonces el lo vi pues mejor
+
+M: <*SPA>canimo <*SPA>el fangeliko <!1vangeliko> 
+C: camino el evangélico 
+
+M: <*SPA>que <*SPA>ahí +/no puedo/+ <*SPA>no 
+C: que ahí puedo no
+
+M: <*SPA>puede <*SPA>robar.
+C: puede robar.
+ 
+nmlch-pmicm1_1_0166_nmlch_00: 
+M: <*SPA>Es <*SPA>que fillantü ngülamingey reke 
+C: Es que todos los días lo aconsejan casi
+
+M: <*SPA>pues <!1pu'>.
+C: pues.
+ 
+nmlch-pmicm1_1_0167_pmicm_00: 
+M: <*SPA>Claro ngülamngey.
+C: Claro lo aconsejan.
+ 
+nmlch-pmicm1_1_0168_nmlch_00: 
+M: Ngülamniengey reke.
+C: Lo aconsejan así.
+
+nmlch-pmicm1_1_0169_pmicm_00: 
+M: Ngülamniengey reke.
+C: Como lo que lo aconsejan.
+
+nmlch-pmicm1_1_0170_nmlch_00: 
+M: <uh> Mapuche ka felefuy welu <uh> <%> 
+C: El mapuche también es así pero
+
+M: feyti ti chi fütrake kimche ngülamchekelu 
+C: ese lo ancianos, los sabios los que aconsejan
+
+M: ngewelay <*SPA>pues <!1pu'> peñi.
+C: no quedan pues hermano.
+
+nmlch-pmicm1_1_0171_pmicm_00: 
+M: Ngewelay <*SPA>pues <!1pu'> aftuy ka.
+C: No queda pues se termino pues.
+ 
+nmlch-pmicm1_1_0172_nmlch_00:
+M: Aftuy ti chi ngülamchekelu <%> .
+C: Se termino el que realizaban los consejos.
+
+nmlch-pmicm1_1_0173_pmicm_00: 
+M: Tüfa rume fey longkokünungefuy <*SPA>así 
+C: Este se memorizaba mucho así
+
+M: <*SPA>que <*SPA>muchas <!1mucha'> 
+C: que muchas
+ 
+M: <*SPA>veces <!1vece'> <uh> chemngelay rume 
+C: veces no se consideraba si quiera
+
+M: <*SPA>pues <!1pu'> <*SPA>este <!1e'te> 
+C: pues este 
+
+M: faliltungelay reke <*SPA>pues <!1pu'>.
+C: no lo valorizaban pues.
+
+nmlch-pmicm1_1_0174_nmlch_00: 
+M: Faliltungelay <*SPA>pues <!1pu'> feyti fütrakeche 
+C: No lo valorizaban pues ese los ancianos
+
+M: kuyfi ngülamchefe rüf küme kününiekefuy 
+C: antes los que daban consejo sabían muchos
+
+M: ñi dungu <*SPA>pues <!1pu'>
+C: del conocimiento pues.
+
+nmlch-pmicm1_1_0175_pmicm_00: 
+M: Kümelelu ñi longko kümelelu ñi rakiduam ka 
+C: Esta buena su cabeza, estaba bien su pensamiento y
+
+M: feyta mülewetulay ta ka.
+C: este ya no queda pues.
+ 
+nmlch-pmicm1_1_0176_nmlch_00: 
+M: Ngewetulay <*SPA>pues <!1pu'>.
+C: No queda pues.
+
+nmlch-pmicm1_1_0177_pmicm_00: 
+M: <*SPA>No <*SPA>pues <!1pu'>
+C: No pues.
+
+nmlch-pmicm1_1_0178_nmlch_00: 
+M: Feyti ...
+C: Ese.
+
+nmlch-pmicm1_1_0179_pmicm_00:
+M: Longko...
+C: Jefe.
+
+nmlch-pmicm1_1_0180_nmlch_00: 
+M: Ngewelay feychi che feula.
+C: No queda esa persona ahora.
+ 
+nmlch-pmicm1_1_0181_pmicm_00: 
+M: <*SPA>No tüfa mülewelay <*SPA>pues <!1pu'>.
+C: No ahora no queda pues.
+
+nmlch-pmicm1_1_0182_nmlch_00: 
+M: Ngülamchefe ngelay.
+C: Persona que dan consejo no quedan.
+ 
+nmlch-pmicm1_1_0183_pmicm_00: 
+M: +/No müle/+ mülewelay <*SPA>pues <!1pu'> 
+C: No quedan pues
+
+M: l'ay chi che.
+C: han fallecido las personas. 
+    
+nmlch-pmicm1_1_0184_nmlch_00: 
+M: Fey llena +/feyla/+ iñche eymün poyekefimün 
+C: Eso pues yo, ustedes estiman
+
+M: ta pewen, pewen anta eymün ta chemlafimün 
+C: la araucaria pues ustedes no lo valoran
+
+M: kiduengün welu impolkapayafuy mütray müten tati.
+C: ellos pero podría conversar hartas cosa nomás ese.
+ 
+nmlch-pmicm1_1_0185_pmicm_00: 
+M: <*SPA>Claro.
+C: Claro.
+
+nmlch-pmicm1_1_0186_nmlch_00:
+M:  ¿Feleyanchi peñi?
+C: ¿Así no es hermano?
+
+nmlch-pmicm1_1_0187_pmicm_00: 
+M: Feley.
+C: Así es.
+
+nmlch-pmicm1_1_0188_nmlch_00: 
+M: Kuyfi fütakeche ngülamkefuy tañi pichike che, 
+C: Antes los ancianos los que daban consejo a sus hijos pequeños,
+
+M: poyekeafimi ta Ngen ko, trekantukelayafimi, 
+C: debes de quere al Dueño del agua, no debes de patearlo,
+
+M: treka pekankonkelayaymi pu mawida pikefuy kuyfi 
+C: no debes entra así no más a las montañas eso decían antes
+
+M: ¿feyngefuyanchi?
+C: ¿así era pues no?
+
+nmlch-pmicm1_1_0189_pmicm_00: 
+M: Femngey <*SPA>pues <!1pu'>
+C: Así es pues.
+
+nmlch-pmicm1_1_0190_nmlch_00: 
+M: ¿Allküymi femngechi dungu eymi kuyfi? 
+C: ¿A escuchado esta conversación antes usted?
+
+nmlch-pmicm1_1_0191_pmicm_00: 
+M: Femngechi allküngefuy pu' femngechi pekanka 
+C: Así se escuchaba pues así de no entra así no mas 
+
+M: konnuafel komu ka ñi repetayafel kom 
+C: al agua y de respetar todos
+
+M: tañi rume ta duamnuafel.
+C: lo que utiliza pues.
+ 
+nmlch-pmicm1_1_0192_nmlch_00: 
+M: Cheu rumeke duamngekey feymu penu üllkufuy
+C: Donde quiera lo necesitan por eso creo escucho
+
+M: ka tamün degiñ.
+C: a su volcán.
+
+nmlch-pmicm1_1_0193_pmicm_00: 
+M: Feymu ka tüfa... tüfa tati chemlu doy wingka 
+C: Por eso esto, este que hizo el chileno
+
+M: dunguñmawi tati wekekeche <*SPA>así 
+C: conversan lo jovenes así
+
+M: <*SPA>que feymu kom chemtuy reke kalewetuy 
+C: que ahí todos lo adquiren y es diferente
+
+M: ka ñamtuy ka feyti wülkefulu ngütram mülewelay ka.
+C: y se perdió ese el queda realizaba las conversaciones no queda pues.
+ 
+nmlch-pmicm1_1_0194_nmlch_00:
+M: Ngewelay.
+C: No queda.
+
+nmlch-pmicm1_1_0195_pmicm_00: 
+M: <*SPA>Claro <*SPA>pues <!1pu'>.
+C: Claro pues.
+
+nmlch-pmicm1_1_0196_nmlch_00: 
+M: Aftuy tüfi ka.
+C: Se a perdido ese también.
+ 
+nmlch-pmicm1_1_0197_pmicm_00: 
+M: Aftuy ka.
+C: Se perdió también.
+ 
+nmlch-pmicm1_1_0198_nmlch_00: 
+M: Petu ta aftuy ta feychi +/pe/+ pu che falilu aftuy 
+C: Ya se esta perdiendo eso las personas se a terminado
+
+M: ka petu ta aftuay ta mapudungun chi.
+C: y se esta terminando el mapuzudun pues.
+ 
+nmlch-pmicm1_1_0199_pmicm_00: 
+M: <uhm> Feleay.
+C: Así va estar.
+
+nmlch-pmicm1_1_0200_nmlch_00: 
+M: Feyta wedadunguay ka <*SPA>después <!1depue'> 
+C: este hablara mal pues después
+
+M: afle mapudungun afrupuay mapu tati peñi.
+C: si se termina el mapuzugun se terminara la tierra hermano.
+
+nmlch-pmicm1_1_0201_pmicm_00: 
+M: Femay.
+C: Así va hacer.
+
+nmlch-pmicm1_1_0202_nmlch_00: 
+M: <uh> Mapuchellenanta nüuküley ta kimünmu 
+C: Los pauches pues estan estrechado con el conocimiento
+
+M: dungunmu feyta ngülam ta kutran <uh>.
+C: por la conversación este el consejo la enfermedad.
+ 
+nmlch-pmicm1_1_0203_pmicm_00: 
+M: Ka chumngechi tañi umagtuafel ka tati 
+C: Y como se va a quedar dormido ese
+
+M: pailakünuulayaymün kafey, paylalen 
+C: se quedara de espalda ese, de espalda
+
+M: umagtukelayaymün kafey püranakümpayafeymünmu 
+C: se quedaran dormido ese y pasaran encima ellos
+
+M: chem kafey wekufü pingey <*SPA>ese 
+C: y también el diablo dicen ese
+
+M: *SPA>todo <!1to'> <*SPA>eso <*SPA>así 
+C: todo eso así
+
+M: <*SPA>que <*SPA>tenía <*SPA>que...
+C: que tenía que.
+
+nmlch-pmicm1_1_0204_nmlch_00: 
+M: Küllüleal.
+C: Estar En quebrada. 
+ 
+nmlch-pmicm1_1_0205_pmicm_00:
+M: Küllüleal... küllegküleal.
+C: Estar en quebrada.
+
+nmlch-pmicm1_1_0206_nmlch_00: 
+M: Fey llemay ta chi ngülam <Cough> afi petu ka.
+C: Ese pues el consejo se a terminado pues.
+ 
+nmlch-pmicm1_1_0207_pmicm_00: 
+M: Afi <*SPA>pues <!1pu'>.
+C: Termino pues.
+
+nmlch-pmicm1_1_0208_nmlch_00: 
+M: Ka lafkenlongkolekelay pingekefuy che ¿feyngefuy?
+C: Y la cabeza no debe estar mirando al mar decían ¿será así eso?
+
+nmlch-pmicm1_1_0209_pmicm_00: 
+M: Ka femngey.
+C: Así era.
+ 
+nmlch-pmicm1_1_0210_nmlch_00: 
+M: ¿Müna weda <*SPA>no?
+C: ¿Que malo no?
+
+nmlch-pmicm1_1_0211_pmicm_00: 
+<uhm> 
+
+nmlch-pmicm1_1_0212_nmlch_00: 
+M: ¿Kümeke dungu petu afi <*SPA>no peñi?
+C: ¿Buenos conocimiento se están terminando no hermano?
+
+nmlch-pmicm1_1_0213_pmicm_00: 
+M: Feley, femle mülekefuy ta +/señ/+ chumngechi 
+C: Así es, había pues como
+
+M: tañi umagtuafel che kom kuduafel, ta felewelay.
+C: poder dormir la persona todo los trabajadores, no esta así.
+ 
+nmlch-pmicm1_1_0214_nmlch_00: 
+M: Felewelay.
+C: No esta así.
+
+nmlch-pmicm1_1_0215_pmicm_00: 
+M: <*SPA>No.
+C: No.
+ 
+nmlch-pmicm1_1_0216_nmlch_00: 
+M: ¿Faupüle pewenchepüle ka felefuy?
+C: ¿Aquí en este sector pehuenche también esta así?
+
+nmlch-pmicm1_1_0217_pmicm_00: 
+M: Ka felekefuy kuyfi doy tati chemkelu ka 
+C: También estaba así antes el que más hacía pues
+
+M: tañi +/we/+ kudekeche, kudeke fütrake 
+C: las ancianas, ancianos
+
+M: wentru <P> pürapay <*SPA>lucero mekewey 
+C: hombres pasaron lucero esta haciendo
+
+M: ñi ngillatunengün ka fill antü, fill antü epewün 
+C: su rogativa y todos los día, al amanecer
+
+M: mekewiepay ñi ngillatun <%> mateengün yemeal% 
+C: hacen su rogativa, con mate, comidas
+
+M: femngechi ifemlay ñi yagelengün <*SPA>pues <!1pu'>.
+C: así no comían enseguida su alinto pues.
+
+nmlch-pmicm1_1_0218_nmlch_00:
+M: Ifemlayengün.
+C: No se lo servían enseguida.
+ 
+nmlch-pmicm1_1_0219_pmicm_00: 
+M: No ifemlay yagel wüneltu 
+C: No se lo servían enseguida la comida 
+
+M: ngillatuyengün fey wüla iyengün.
+C: primero hacían su rogativa ahí recién comían.
+
+nmlch-pmicm1_1_0220_nmlch_00: 
+M: Iney femi feulakay peñi.
+C: Y quien hace eso hermano.
+
+nmlch-pmicm1_1_0221_pmicm_00: 
+M: <uhm>Tüfa femwelay <*SPA>solamente tüfa femekey 
+C: Ahora no se hace eso solamente este lo hace
+
+M: <*SPA>los <!1lo'> <*SPA>que <uhm> 
+C: los que
+
+M: feyti fankeliko konlu.
+C: entra a la religión evangelica.
+ 
+nmlch-pmicm1_1_0222_nmlch_00: 
+M: Fankelikomu konlu llemay.
+C: Los que persiguen la religión evangélica pues.
+ 
+nmlch-pmicm1_1_0223_pmicm_00: 
+M: +/Ese.. ese/+  <*SPA>ese ta.
+C: Ese, pues.
+ 
+nmlch-pmicm1_1_0224_nmlch_00: 
+M: Müñal-lay reke dungu.
+C: No se entiende la conversación.
+ 
+nmlch-pmicm1_1_0225_pmicm_00: 
+M: <*SPA>Ese ta... <*SPA>tiene <*SPA>que <*SPA>orar 
+C: Ese pues tiene que orar
+
+M: <*SPA>ojalá <*SPA>tres <*SPA>veces 
+C: ojalá tres veces
+
+M: <*SPA>al <*SPA>dia <*SPA>cuatro <*SPA>veces 
+C: al día, cuatro veces
+ 
+M: <*SPA>al <*SPA>dia <*SPA>tenemos 
+C: al día tenemos
+
+M: <*SPA>que <*SPA>orar.
+C: que orar.
+ 
+nmlch-pmicm1_1_0226_nmlch_00: 
+M: Feypiley ta <*SPA>papel.
+C: Será así esos papel.
+ 
+nmlch-pmicm1_1_0227_pmicm_00: 
+M: <*SPA>Claro.
+C: Claro.
+
+nmlch-pmicm1_1_0228_nmlch_00: 
+M: Papelkonküley fey.
+C: Esta escrito eso.
+ 
+nmlch-pmicm1_1_0229_pmicm_00: 
+M: Papelkonkületuy fey.
+C: Esta escrito eso.
+ 
+nmlch-pmicm1_1_0230_nmlch_00: 
+M: Fey peñi kümeke dungu ta ñamiy tati.
+C: Eso hermano eran buenas cosas y se perdió es.
+
+nmlch-pmicm1_1_0231_pmicm_00: 
+M: Femiy.
+C: Así es.
+ 
+nmlch-pmicm1_1_0232_nmlch_00: 
+M: Peuma <uh> fütadungufel pingey kuyfi.
+C: Los sueños eran grandes predicciones decían antes.
+
+nmlch-pmicm1_1_0233_pmicm_00: 
+M: <*SPA>Si.
+C: Sí.
+ 
+nmlch-pmicm1_1_0234_nmlch_00: 
+M: Peumamu ta rume kimngekefuy dungu pingey 
+C: Atrvés de los sueño se sabía de los cosas decían
+
+M: tati kuyfi ¿feyngepelafuy?
+C: eso antes ¿así era eso?
+
+nmlch-pmicm1_1_0235_pmicm_00: 
+M: Felefuy <*SPA>porque tüfa iñche inaduamken 
+C: Así era porque este yo lo observaba
+
+M: tañi peuma <*SPA>ese <*SPA>si <*SPA>que 
+C: mi sueño ese sí que
+
+M: epurume peuma müley.
+C: dos tipo de sueño hay.
+ 
+nmlch-pmicm1_1_0236_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa!
+
+nmlch-pmicm1_1_0237_pmicm_00: 
+M: <*SPA>Uno <*SPA>que <*SPA>el <*SPA>que 
+C: Uno que él que
+
+M: <*SPA>le <*SPA>da <*SPA>el <*SPA>enemigo 
+C: le da él  enemigo
+
+M: <*SPA>el <*SPA>otro <*SPA>es <*SPA>del <%> 
+C: él otro es del
+
+M: <*SPA>entonces <*SPA>ahí... 
+C: entonces ahí
+
+M: <*SPA>ahí <*SPA>que <*SPA>conocer.
+C: ahí que conocer.
+  
+nmlch-pmicm1_1_0238_nmlch_00: 
+M: <uhm> Peutunial che.
+C: Para estar prepara la persona.
+ 
+nmlch-pmicm1_1_0239_pmicm_00: 
+M: <*SPA>Claro <*SPA>hay <*SPA>que... 
+C: Claro hay que
+
+M: <*SPA>hay <*SPA>que <*SPA>aceptarlo.
+C: hay que aceptarlo.
+
+nmlch-pmicm1_1_0240_nmlch_00: 
+M: Pelelngeal%.
+C: Para demostrarle.
+
+nmlch-pmicm1_1_0241_pmicm_00: 
+M: <*SPA>Hay <*SPA>que <*SPA>saber <*SPA>si 
+C: hay que saber sí
+
+M: <*SPA>es <*SPA>de Dios <*SPA>o <*SPA>no 
+C: es de dios o no
+
+M: <*SPA>es <!1e'> <*SPA>de Dios <*SPA>entonces 
+C: es de Dios entonces
+
+M: <*SPA>porque <*SPA>hay <*SPA>sueño 
+C: porque hay sueño
+
+M: <*SPA>de Dios <*SPA>hay <*SPA>no... 
+C: de Dios hay no..
+
+M: <*SPA>hay <*SPA>sueño <*SPA>que <*SPA>no 
+C: hay sueño que no
+
+M: <*SPA>son <*SPA>de Dios <uh> <*SPA>que 
+C: son de dios que
+
+M: <*SPA>le <*SPA>este <!1'te> <*SPA>engañando 
+C: le este engañando
+
+M: <*SPA>el <*SPA>otro <*SPA>también <*SPA>imita 
+C: él otro también imita
+
+M: <*SPA>como Dios <*SPA>pero <*SPA>no... 
+C: como Dios pero no..
+
+M: <*SPA>no <*SPA>es <!1e'>. 
+C: no es.
+ 
+nmlch-pmicm1_1_0242_nmlch_00: 
+M: +/ Fel/+ feynufel, feyngelay.
+C: Así debiera ser, y no es así.
+ 
+nmlch-pmicm1_1_0243_pmicm_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> <*SPA>y <*SPA>ese
+C: No pues y ese
+
+M: <*SPA>anda <*SPA>adelante <!1a'ilante> <*SPA>primero
+C: anda adelante primero.
+ 
+nmlch-pmicm1_1_0244_nmlch_00: 
+M: Wünentukuyaukey.
+C: Se anda colocando adelante.
+
+nmlch-pmicm1_1_0245_pmicm_00: 
+M: +/Wüne/+ wüne konkeaukey <*SPA>para <!1pa'>... 
+C: Anda colocándose adelante para..
+
+M: <*SPA>para <!1pa'> <*SPA>turbarle.
+C: para perjudicarle.
+ 
+nmlch-pmicm1_1_0246_nmlch_00: 
+M: Welu feypingekey mapuche feypikey wekufü 
+C: Pero eso se dice el mapuche dice el diablo
+
+M: reke wünentukuyawiy pingekey.
+C: se anda colocando adelante eso dicen.
+ 
+nmlch-pmicm1_1_0247_pmicm_00: 
+M: <*SPA>Si <*SPA>ese <*SPA>es <*SPA>así <*SPA>ese.
+C: Sí ese es así ese.
+
+nmlch-pmicm1_1_0248_nmlch_00: 
+M: <uhm> Notukachelu <*SPA>pues <!1pu'>.
+C: Que se apodera de las personas pues.
+ 
+nmlch-pmicm1_1_0249_pmicm_00: 
+M: <*SPA>Claro notukachelu <*SPA>tan <*SPA>igual... 
+C: Claro el que se apodera de las personas tan igual..
+
+M: <*SPA>así <*SPA>tan <*SPA>igual <*SPA>también 
+C: así tan igual también
+ 
+M: wingkamu ka feley <uhm>  <*SPA>contrapesarlo 
+C: en los chileno también es así contrapesarlo
+
+M: <*SPA>con <*SPA>la... <*SPA>con <*SPA>la 
+C: con la, 
+
+M: <*SPA>religión <*SPA>sale <*SPA>casi <*SPA>igual <%>.
+C: religión sale casi igual.
+ 
+nmlch-pmicm1_1_0250_nmlch_00: 
+M: Katrürupayawimi wekufü trürimi 
+C: Andas cruzandote diablo que pasa
+
+M: pingeyanta notukayaulu .
+C: eso le dicen pues el que se anda apoderando.
+
+nmlch-pmicm1_1_0251_pmicm_00: 
+M: <*SPA>Claro notukawi <Noise> <*SPA>así 
+C: Claro se apodera asó
+
+M: feley tati dungu.
+C: así es eso cosas.
+ 
+nmlch-pmicm1_1_0252_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: ¿Fentren kimün nieymi eymi <*SPA>no peñi?
+C: ¿Hartos conocimientos tiene usted no hermano?
+
+nmlch-pmicm1_1_0253_pmicm_00: 
+M: <*SPA>Claro.
+C: Claro.
+ 
+nmlch-pmicm1_1_0254_nmlch_00: 
+M: Al'ü nieymi kimün kafey.
+C: Tiene hartos conocimientos pues.
+ 
+nmlch-pmicm1_1_0255_pmicm_00: 
+M: Feyke.
+C: Eso sí.
+
+nmlch-pmicm1_1_0256_nmlch_00: 
+M: Al'ün ta tremimiy ka.
+C: Tienes bastante edad pues.
+ 
+nmlch-pmicm1_1_0257_pmicm_00: 
+M: Femün, femün.
+C: Así es pues.
+ 
+nmlch-pmicm1_1_0258_nmlch_00: 
+M: Feyti kay peñi loflu tami <uh> ruka tiyiu, 
+C: Ese pues hermano cuando se quemo la casa allá
+
+M: ¿allfülaymün?
+C: ¿no sé lastimaron?
+
+nmlch-pmicm1_1_0259_pmicm_00: 
+M: <*SPA>No allfülayiñ femlayiñ.
+C: No nos paso nada.
+
+nmlch-pmicm1_1_0260_nmlch_00: 
+M: Pitalisaleken pipeymi ka nga ¿chem küdau 
+C: Estuve hospitalizado dijo también ¿qué trabajo
+
+M: anta deumamekeymi tiyiupüle?
+C: estaban desarrollando por ese lugar?
+
+nlch-pmicm1_1_0261_pmicm_00: 
+M: Ka feymu... feymu yentukuenu ta chem müley 
+C: También ahí me llevo esa cosa que hay
+
+M: tati üyüu tati foki pingey.
+C: allá pues ese enrredadera se llama.
+ 
+nmlch-pmicm1_1_0262_nmlch_00: 
+M: Foki.
+C: Enrredadera.
+
+nmlch-pmicm1_1_0263_pmicm_00: 
+M: Tüfa tati cheu koulle tañi tripaken kanga 
+C: Este que sale en el coihue también pues
+
+M: al'urumey +/llasu/+ llasu kechili winarupay, 
+C: es grueso, se parece a un lazo estirado,
+ 
+M: <*SPA>así <*SPA>que <%> reke kiñe pichi 
+C: así que como un pequeño 
+
+M: wallemeu fau <*SPA>así <*SPA>que tranlu tati 
+C: hualle aquí así que cuando cayó ese
+
+M: chem trantukelu iñche fey yentukueneu 
+C: cosa, estaba botado yo y me paso a buscar
+
+M: <*SPA>pues <!1pu'> yerupatueneu <*SPA>así 
+C: pues paso a buscar así
+
+M: femngechi <*SPA>y <*SPA>así felen amuy kayna 
+C: así y así  es como fui 
+
+M: mawida müley tati chemkey ta kura ka, <*SPA>así 
+C: hay montaña ese que se usa para la casa, así
+
+M: <*SPA>que yümülliy tati kura fey wentemu chemiy 
+C: que se movió la casa y arriba se hace
+
+M: <*SPA>así <*SPA>que fey tañi luku ka tüfa 
+C: así que y mi rodilla y este también
+
+M: tañi kuwü chemiy <uhm> fey... fey ka ñi tüfa 
+C: mi mano le paso ese y este también
+
+M: ñi luku chemiy ka tañi matra fey <%> ka <%> 
+C: mi rodilla le paso y mi pierna también 
+
+M: feymu mandangen chemmu mutualmeu 
+C: ahí me enviaron en la mutual
+
+M: <*SPA>y kechuantümen chemmeu Cañete 
+C: y cinco días estuve en Cañete
+
+M: <*SPA>en <*SPA>el pital.
+C: en el hospital.
+ 
+nmlch-pmicm1_1_0264_nmlch_00: 
+M: <*SPA>Mutual <*SPA>de seguridameu.
+C: Mutual de seguridad.
+ 
+nmlch-pmicm1_1_0265_pmicm_00: 
+M: May <*SPA>mutual.
+C: Sí en la mutual.
+ 
+nmlch-pmicm1_1_0266_nmlch_00: 
+M: <uh> Allfülu eymi.
+C: Cuando quedo herido usted.
+ 
+nmlch-pmicm1_1_0267_pmicm_00: 
+M: Allfülu iñche <*SPA>ahí <*SPA>tuve... 
+C: Cuando tuve un accidente ahí estuve..
+
+M: fey kullingenke <*SPA>claro <*SPA>que 
+C: y me pagaron claro que
+
+M: <*SPA>no... <*SPA>no <*SPA>muy <*SPA>bien 
+C: no muy bien
+
+M: <*SPA>pagado <!1pagau> <*SPA>pero <*SPA>me
+C: pagado pero me
+
+M: <*SPA>reconocieron  kechu antü kuchu 
+C: reconocieron cinco día, cinco
+
+M: antü rekonosengen.
+C: días me reconocieron.
+ 
+nmlch-pmicm1_1_0268_nmlch_00: 
+M: Kechu antü.
+C: Cinco días.
+ 
+nmlch-pmicm1_1_0269_pmicm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+nmlch-pmicm1_1_0270_nmlch_00: 
+M: <Smack> ¿Fey <uh> chem elungeymi l'awen' feymeu?
+C: ¿Y que remedio le dieron ahí?
+
+nmlch-pmicm1_1_0271_pmicm_00: 
+M: Fey elungen l'awen' la chemngen indision kafey elungen 
+C: Me dieron remedio y me colocaron inyección ese también me dieron
+
+M: <%> <*SPA>y kümeduamtulu iñche fey... 
+C: y cuando me sentí bien yo ahí...
+
+M: fey kullingen ka eluñmangetun ñi papel ka 
+C: me pagaron y me dieron mi papel también
+
+M: tañi presetaupatual küdaumeu.
+C: para presentarme al trabajo.
+ 
+nmlch-pmicm1_1_0272_nmlch_00: 
+M: ¿Indisionngeymi müten?
+C: ¿Le colocaron inyección nomás?
+
+nmlch-pmicm1_1_0273_pmicm_00: 
+M. May.
+C: Sí.
+
+nmlch-pmicm1_1_0274_nmlch_00: 
+M: ¿Elungelaymi <*SPA>pastilla?.
+C: ¿Le dieron pastilla?
+
+nmlch-pmicm1_1_0275_pmicm_00: 
+M: <*SPA>No <*SPA>pastilla elungelan.
+C: No me dieron pastilla.
+ 
+nmlch-pmicm1_1_0276_nmlch_00: 
+M: Elungelaymi pastilla.
+C: No le dieron pastilla.
+ 
+nmlch-pmicm1_1_0277_pmicm_00: 
+M: Fey <P> fey deumalu ñi küdau iñchiñ +/küp/+ küpatuyiñ 
+C: Y terminado mi  trabajo notros nos vinimos  
+
+M: <*SPA>pues <!1pu'> <P> küpatulu iñchiñ 
+C: pues cuando nos vinimos nosotros
+
+M: fey ta kumpliwetulayiñmu tati <*SPA>firma ka  
+C: y no nos cumplió la firma y
+
+M: elpatuafeteu iñchiñ ka fau, chumngechi 
+C: no debía venir a dejar aquí, como
+
+M: yepayiñmu ka femngechi elpatuafeteu.
+C: nos vinieron a buscar así devieron venir a dejarnos.
+ 
+nmlch-pmicm1_1_0278_nmlch_00: 
+M: Elwepatulaymünmu.
+C: No los vinieron a dejar.
+
+nmlch-pmicm1_1_0279_pmicm_00: 
+M: Elngewepatulayiñ terminalu fey <*SPA>así 
+C: No nos vinieron a dejar al terminal y así
+
+M: <*SPA>que kullingeyiñke <*SPA>así <*SPA>que <P> 
+C: que no pagaron si así que
+
+M: fey miaken tañi pu konosiu <Noise> <uh> tüfameu 
+C: y voy donde los conocidos aquí
+
+M: wingka ka miaukey tati mapuchengen ka miawi 
+C: el chileno también anda y el mapuche también anda
+
+M: <*SPA>así <*SPA>que fey <Noise> fey 
+C: así que ese 
+
+M: chumayiñ am ta piy, <*SPA>así <*SPA>que 
+C: que vamos hacer dijo así que
+
+M: nagüyiñ tati Curanilahue <uh> puelu <*SPA>ese 
+C: nos bajamos en Curanilahue cuando llego ese
+
+M: feymeu tomayal ta <*SPA>tren <*SPA>para <!1pa'> 
+C: ahí para tomar el tren para
+
+M: <*SPA>venir <*SPA>a Concepción <P> 
+C: venir a Concepción
+
+M: fey iñche am pütunulu <*SPA>así <*SPA>que 
+C: y yo no llegue así que
+
+M: fey kakelu  fey l'akel'ake ngolliley <*SPA>así 
+C: lo otros se embriagaron quedaron como muerto así
+
+M: <*SPA>que ngolliengün <*SPA>y tüfa 
+C: que se embriagaron y este
+
+M: miawüliyiñ kiñe... kiñe pichi deya% pingey 
+C: andábamos trayendo una hermana menor dicen
+
+M: pütukelay ka pingey <*SPA>así fey chemlafiñ.
+C: no bebe dicen así que no le hice nada.
+ 
+nmlch-pmicm1_1_0280_nmlch_00: 
+M: Duamnielafimi.
+C: No le hacía caso.
+
+nmlch-pmicm1_1_0281_pmicm_00: 
+M: Duamnielafiñ iñche engün <*SPA>así <*SPA>que fey ..
+C: No le hacía caso yo a ellos así que ellos
+
+nmlch-pmicm1_1_0282_nmlch_00: 
+M. +/All allkü/+ allküñmalafimi.
+C: No les escucho.
+
+nmlch-pmicm1_1_0283_pmicm_00: 
+M: Allkülafiñ% <*SPA>así <*SPA>que fey 
+C: No le escuche así que se
+
+M: pürankepituyiñ tremmeu küpayiñ may akuyiñ 
+C: fueron subiendo al tres y llegamos
+
+M: Concepción <*SPA>ahí feymu pun akulu iñchiñ 
+C: Concepción ahí llegamos de noche nosotros
+
+M: <*SPA>así <*SPA>que feymu kiñe fey 
+C: así que ahí uno me
+
+M: feypieneu "pucha <*SPA>hombre, <*SPA>hable 
+C: me dijo puche hombre hable
+ 
+M: <*SPA>por <*SPA>nosotros <P> <*SPA>no 
+C: por nosotros no
+
+M: <*SPA>tenemos <*SPA>donde <*SPA>alojar 
+C: tenemos donde alojar
+
+M: <*SPA>mañana <*SPA>tenemos <*SPA>que <%> 
+C: mañana  tenemos que
+
+M: <*SPA>dormir <*SPA>aparte <*SPA>de <*SPA>tomar 
+C: dormir aparte de tomar
+
+M: <*SPA>el <*SPA>tren" <*SPA>dijo <*SPA>ya 
+C: él tren dijo ya
+
+M: <*SPA>pues <!1pu'> dulfiñ tati <*SPA>el 
+C: pues le hable él
+
+M: <*SPA>conductor <*SPA>así <*SPA>que <*SPA>el
+C: conductor así que él
+
+M:  <*SPA>conductor <*SPA>me <*SPA>dijo  <P> <uh> 
+C: conductor me dijo 
+
+M: <*SPA>bueno <*SPA>dijo <*SPA>pero <%> 
+C: bueno dijo pero
+
+M: <*SPA>permiso <*SPA>y <*SPA>pero <*SPA>aquí 
+C: permiso y pero aquí 
+
+M: <*SPA>pica <*SPA>la <*SPA>jaiba <*SPA>dijo 
+C: pica la jaiba dijo
+
+M: <*SPA>porque <*SPA>cuidense <*SPA>dijo 
+C: porque cuídense dijo
+
+M: <*SPA>no... <*SPA>aquí <uh> <*SPA>tengan 
+C: no aquí tengan
+
+M: <*SPA>cuidado <!1cuida'u> <*SPA>con <*SPA>sus 
+C: cuidado con sus
+
+M: <*SPA>cositas <*SPA>tengan <*SPA>cuidado <!1cuida'u> 
+C: cositas tengan cuidado
+
+M: <*SPA>aquí <*SPA>no <*SPA>corren <*SPA>peligro
+C: aquí no corren peligro
+
+M: <*SPA>venimos <*SPA>de <*SPA>esta <*SPA>manera 
+C: venimos de este manera
+
+M: <*SPA>le <*SPA>dijemos <*SPA>la <*SPA>firma 
+C: le dijimos la firma
+
+M: <*SPA>no <*SPA>nos <*SPA>cumplió <*SPA>y 
+C: no nos cumplió y
+
+M: <*SPA>ahora <*SPA>nos <*SPA>vamos 
+C: ahora nos vamos
+ 
+M: <*SPA>para <!1pa'> Lonkimay <*SPA>así <*SPA>que
+C: para Lonquimay así que
+
+M: <*SPA>tenemos <*SPA>que <*SPA>tomar <*SPA>el 
+C: tenemos que tomar él
+
+M: <*SPA>tren <*SPA>mañana <*SPA>en <*SPA>la 
+C: tren mañana en la
+
+M: <*SPA>mañana <*SPA>a <*SPA>primera <*SPA>hora. 
+C: mañana a primero hora
+
+M: <*SPA>Ya <*SPA>pues <!1pu'> <*SPA>ya <*SPA>esta 
+C: ya pues ya esta
+
+M: <*SPA>pues <!1pu'> <*SPA>asi <*SPA>que <P> 
+C: pues así que
+
+M: <*SPA>de <*SPA>ahí <*SPA>me <*SPA>dijeron 
+C: de ahí me dijeron
+
+M: <*SPA>ellos <*SPA>los <*SPA>otros 
+C: ellos los otros
+
+M: <*SPA>usted <!1u'te> <*SPA>que  <*SPA>esta <!1e'ta> 
+C: usted que esta
+
+M: saniguenu <*SPA>hombre <*SPA>vaya <*SPA>a 
+C: sano hombre vaya a 
+
+M: <*SPA>buscar <*SPA>el <*SPA>vino <*SPA>cigarro 
+C: buscar él vino cigarro
+
+M: <*SPA>así <*SPA>que <*SPA>le <*SPA>iba 
+C: así que le iba
+
+M: <*SPA>a <*SPA>buscar <*SPA>vino <*SPA>y <Noise>
+C: a buscar vino y
+
+M: <*SPA>primero <*SPA>había <*SPA>llegado 
+C: primero había llegado
+
+M: <*SPA>mujeres <*SPA>a <*SPA>sacar% <*SPA>dijo.
+C: mujeres a sacar dijo.
+
+nmlch-pmicm1_1_0284_nmlch_00: 
+M: <uh> Lesupayal.
+C: Para engañarlo.
+ 
+nmlch-pmicm1_1_0285_pmicm_00: 
+M: May tañi <%> <%> elulafiyiñ <*SPA>lado <!1la'u> 
+C: Sí no le dimos lado
+
+M: <*SPA>así <*SPA>que fey küpatuyiñ wallpüle 
+C: así que se vino por aquí
+
+M: fey wellpüle fey <%> eymi tami duam 
+C: y por el lado por usted es que
+
+M: kümeyawiyiñ <*SPA>sino kom ñamumawafuyiñ 
+C: anduvieron bien sino todos perderían  
+
+M: yewün <*SPA>así <*SPA>como <*SPA>veníamos 
+C: sus cosas así como veníamos
+
+M: <*SPA>dijeron pinkepitueneu engün 
+C: dijeron todos me decían 
+
+M: <*SPA>pero <*SPA>me <*SPA>pidieron 
+C: pero me pidieron
+
+M: <*SPA>disculpas <*SPA>pues <!1pu'>.
+C: disculpa pues.
+
+nmlch-pmicm1_1_0286_nmlch_00: 
+M: Kiñe... kiñe pichin küme rüpütuyengün.
+C: Un poco bien pasaron.
+ 
+nmlch-pmicm1_1_0287_pmicm_00: 
+M: <*SPA>Claro <Laugh>.
+C: Claro.
+ 
+nmlch-pmicm1_1_0288_nmlch_00: 
+M: Kiñe pichin müten <*SPA>pues <!1pu'> <Laugh>.
+C: Un poco no más pues.
+ 
+nmlch-pmicm1_1_0289_pmicm_00: 
+M: <*SPA>Claro.
+C: Claro.
+
+nmlch-pmicm1_1_0290_nmlch_00: 
+M: Ka müchay müten nguyütuyengün ka <*SPA>pues <!1pu'>.
+C: Y rápidamente nomás se olvidaron pues.
+ 
+nmlch-pmicm1_1_0291_pmicm_00: 
+M: <*SPA>Claro.
+C: Claro.
+ 
+nmlch-pmicm1_1_0292_nmlch_00: 
+M: ¿Femngey welu pütufe <*SPA>no?
+C: ¿Así es el bebedor no?
+
+nmlch-pmicm1_1_0293_pmicm_00: 
+M: <*SPA>Claro <*SPA>pues <!1pue'>.
+C: Claro pues.
+
+nmlch-pmicm1_1_0294_nmlch_00: 
+M: Pichike rüpütuy ka wüyütukey.
+C: Un poco sabe y se olvida.
+ 
+nmlch-pmicm1_1_0295_pmicm_00: 
+M: <*SPA>Claro.
+C: Claro.
+ 
+nmlch-pmicm1_1_0296_nmlch_00: 
+M: Münaweda <*SPA>no peñi wedachengetukey 
+C: Que malo no hermano queda en una persona mala
+
+M: ta pülkumu che ka.
+C: con el vino pues.
+ 
+nmlch-pmicm1_1_0297_pmicm_00: 
+M: Rume weda.
+C: Es muy malo.
+
+nmlch-pmicm1_1_0298_nmlch_00: 
+M: Weda ad nietukey ta pülkumu.
+C: Tiene mal carácter con el vino.
+ 
+nmlch-pmicm1_1_0299_pmicm_00: 
+M: <*SPA>No ka faliltuwengelay.
+C: No lo valoran.
+
+nmlch-pmicm1_1_0300_nmlch_00: 
+M: Faliltungewelay <*SPA>pues <!1pu'>.
+C: No lo valoran pues.
+
+nmlch-pmicm1_1_0301_pmicm_00: 
+M: <*SPA>No <*SPA>pues <!1pu'>.
+C: No pues.
+
+nmlch-pmicm1_1_0302_nmlch_00: 
+M: Fey peñi <uh> eymi allfükelaymi doy allfüfengelaymi 
+C: Eso hermano usted no ha tenido más accidente 
+
+M: kuyfi pichichengelu allfükelaymi.
+C: antes cuando era niño no tenía accidente.
+
+nmlch-pmicm1_1_0303_pmicm_00: 
+M: No allfükelan <uh> <*SPA>claro ütrüfnagken
+C: No tuve accidente claro me he caído
+ 
+M:  kawellumu <*SPA>pero <*SPA>no chemkelan.
+C: en caballo pero no me paso nada.
+    
+nmlch-pmicm1_1_0304_nmlch_00: 
+M: Allfükelaymi.
+C: No a tenido accidente.
+ 
+nmlch-pmicm1_1_0305_pmicm_00: 
+M: <*SPA>No, <*SPA>no fey ka küdaukeaukelu 
+C: No, ese por andar trabjando
+
+M: fau iñche kafey <*SPA>ahí <*SPA>también 
+C: aquí yo también ahí también
+
+M: <*SPA>sentí <*SPA>un... tañi chemal allfeñ 
+C: sentí un que me iba accidentar 
+
+M: tamu <*SPA>pero +/tanto/+ trantukelu 
+C: aquí pero cuando se tropieza
+
+M: chem iñchiñ roulise.
+C: con ahí nosotros raulise.
+
+nmlch-pmicm1_1_0306_nmlch_00: 
+M: ¿Chemmu trantukeymün rauli? 
+C: ¿Con que se caían con rauli?
+
+nmlch-pmicm1_1_0307_pmicm_00: 
+M: Raulise <*SPA>ese <*SPA>sacan <*SPA>tabla <!1ta'ula>
+C: Raulise ese sacan tabla.
+
+nmlch-pmicm1_1_0308_nmlch_00: 
+M: ¿Chemmu trantukefimün? 
+C: ¿Con que se caían? 
+
+nmlch-pmicm1_1_0309_pmicm_00: 
+M: Re tokimu müten.
+C: Solo con hacha no más.
+ 
+nmlch-pmicm1_1_0310_nmlch_00: 
+M: Re tokimu.
+C: Solo con hacha.
+ 
+nmlch-pmicm1_1_0311_pmicm_00: 
+M: May <*SPA>porque reulise <uh> <*SPA>una 
+C: Sí porque raulise una
+
+M: <*SPA>madera <*SPA>muy <*SPA>blanda <Noise> 
+C: madera muy blanda 
+
+M: <*SPA>entonces müchamiy%  müchay müten 
+C: entonces rápidamente no más
+
+M: <*SPA>pues <!1pu'> <*SPA>hay <*SPA>que 
+C: pues hay que
+
+M: <*SPA>saber <*SPA>voltear kim trantulu fey, 
+C: saber voltear el que sabe votar ese,
+
+M: <*SPA>así <*SPA>que fey trantulu iñche fey
+C: así que ese bota yo ahí  
+
+M: famngechi meñkukünun ñi toki famngechi ka 
+C: así lo boy a sacar con mi hacha así pues
+
+M: amualu kañpüle iñche fey <*SPA>en <*SPA>eso 
+C: va para otro lugar yo ahí en eso
+ 
+M: +/wüll pep/+ chemürupuürkey <*SPA>otro 
+C: paso a tropezares otro
+
+M: <*SPA>árboles <*SPA>para <*SPA>allá <!2pa'lla> 
+C: árboles para allá 
+
+M: fey wöñotuy kiñe pichi chem <uh> wetrolu 
+C: y se devolvió un pequeño se quebro
+
+M: <*SPA>así <*SPA>que kimlanrume <*SPA>pues <!1pu'> 
+C: así que no supe pues
+
+M: <*SPA>así <*SPA>que wüleleneu tapüle furipüle 
+C: así que me golpeo por aquí en la espalda
+
+M: <*SPA>pero <*SPA>parece <*SPA>que 
+C: pero parece que
+
+M: feytapüle katarupalu trokifiñ <*SPA>así <*SPA>que 
+C: por aquí lo sentí que paso así que
+
+M: <*SPA>en <*SPA>vez <*SPA>de tañi yeafel tañi... 
+C: en vez de poder llevarlo mi
+
+M: tañi furi <Noise> ñi furi% +/fante/+ fanteyefuy ta fey 
+C: mi espalda así estaba y
+
+M: <*SPA>para <*SPA>adelante <!2pa'ilante>.
+C: para adelante.
+ 
+nmlch-pmicm1_1_0312_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: Femiy.
+C: Así fue.
+ 
+nmlch-pmicm1_1_0313_pmicm_00: 
+M: <uhm> Katarupalu trokifiñ <Laugh>.
+C: Como que me perforo lo sentí.
+ 
+nmlch-pmicm1_1_0314_nmlch_00: 
+M: Katarupay.
+C: Como que me corto.
+ 
+nmlch-pmicm1_1_0315_pmicm_00: 
+M: <*SPA>Claro.
+C: Claro.
+
+nmlch-pmicm1_1_0316_nmlch_00: 
+M: ¿Chemmu mongetuy peñi?
+C: ¿Conque se mejoro hermano?
+
+nmlch-pmicm1_1_0317_pmicm_00: 
+M: <*SPA>Así fey amun pital Lonkimay <*SPA>me 
+C: Así fui al hospital Lonquimay me
+
+M: chemkaron <*SPA>también 
+C: a tendieron también
+
+M: <*SPA>pues <!1pu'> <*SPA>ahí.
+C: pues ahí.
+ 
+nmlch-pmicm1_1_0318_nmlch_00: 
+M: Trariñmangeymi%.
+C: Me amarraron mi.
+
+nmlch-pmicm1_1_0319_pmicm_00: 
+M: Trariñmangen chemlay.
+C: Me amarraron no paso.
+ 
+nmlch-pmicm1_1_0320_nmlch_00: 
+M: ¿Kimimiy chem tami tukulelngen?
+C: ¿Supo lo que le colocaron?
+
+nmlch-pmicm1_1_0321_pmicm_00: 
+M: ¿Aa?
+C: ¿Aa?
+
+nmlch-pmicm1_1_0322_nmlch_00: 
+M: Chem tukulelngeymi.
+C: Que le colocaron.
+ 
+nmlch-pmicm1_1_0323_pmicm_00: 
+M: <*SPA>Ahí <*SPA>me... <*SPA>me <*SPA>dieron 
+C: Ahí me colocaron me dieron
+
+M: <*SPA>pastilla <*SPA>y <*SPA>ahí <*SPA>me 
+C: pastilla y ahí me
+
+M: <*SPA>dieron <*SPA>me <*SPA>colocaron 
+C: medieron me colocaron
+
+M: indisione <*SPA>ese <*SPA>me chemkaron.
+C: inyecciones ese me calmo.
+ 
+nmlch-pmicm1_1_0324_nmlch_00: 
+M: <*SPA>Pastilla elungeymi <Noise> indision ka 
+C: Pastilla te dieron inyección también
+
+M: tukulelngeymi.
+C: te colocaron.
+ 
+nmlch-pmicm1_1_0325_pmicm_00: 
+M: Ka tukulelngen <*SPA>para <!1pa'> 
+C: También me colocaron para.
+
+M: <*SPA>calmar <*SPA>el <*SPA>dolor.
+C: calmar el dolor.
+
+nmlch-pmicm1_1_0326_nmlch_00: 
+M: ¿Ñagi?
+C: ¿Bajo?
+
+nmlch-pmicm1_1_0327_pmicm_00: 
+M: ¿Aa?
+C: ¿Aa?
+
+nmlch-pmicm1_1_0328_nmlch_00: 
+M: ¿Ñagi?
+C: ¿Bajo?
+
+nmlch-pmicm1_1_0329_pmicm_00: 
+M: May.
+C: Sí.
+
+nmlch-pmicm1_1_0330_nmlch_00: 
+M: Ñagi.
+C: Bajo.
+
+nmlch-pmicm1_1_0331_pmicm_00: 
+M: May <Noise> <*SPA>y <*SPA>ese fey chemnien 
+C: Sí y ese tenía
+
+M: <*SPA>pero <*SPA>hay <*SPA>veces <!1vece'> 
+C: pero hay veces
+
+M: <*SPA>que fey sentikefiñ ta chi 
+C: que lo siento este
+
+M: <*SPA>dolor <*SPA>siempre.
+C: dolor siempre.
+
+nmlch-pmicm1_1_0332_nmlch_00: 
+M: Kiñekemu sentikefimi.
+C: Algunas veces lo siente.
+ 
+nmlch-pmicm1_1_0333_pmicm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+nmlch-pmicm1_1_0334_nmlch_00: 
+M: ¿Mawayüm?
+C: ¿Cuándo va a llover?
+
+nmlch-pmicm1_1_0335_pmicm_00: 
+M: Mawayüm.
+C: Cuando va a llover.
+
+nmlch-pmicm1_1_0336_nmlch_00: 
+M: Feypingekey <P> peutunmu mületukey pingey tati.
+C: Eso dicen cuando esta nublado dicen eso. 
+ 
+nmlch-pmicm1_1_0337_pmicm_00: 
+M: <Laugh> Traglinayüm ka chemkey.
+C: Cuando cae nieve también duele.
+ 
+nmlch-pmicm1_1_0338_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: Traglinayüm ka.
+C: Cuando va a caer helada.
+
+nmlch-pmicm1_1_0339_pmicm_00: 
+M: <*SPA>Claro ka kutrankey.
+C: Claro también duele.
+  
+nmlch-pmicm1_1_0340_nmlch_00: 
+M: Fey allfüy ta che wedaley ka.
+C: Es malo tener accidente pues.
+ 
+nmlch-pmicm1_1_0341_pmicm_00: 
+M: Feley.
+C: Así es.
+ 
+nmlch-pmicm1_1_0342_nmlch_00: 
+M: ¿Allfeñanta <uh> pekan mongelay?
+C: ¿Los accidentes asi nomás no se mejora?
+
+nmlch-pmicm1_1_0343_pmicm_00: 
+M: <*SPA>No pekan chemlay,<uhm>  
+C: No así noma´s no se mejora
+
+M: kümelewelayrume che <*SPA>tampoco 
+C: no queda bien la persona tampoco
+
+M: <*SPA>con <*SPA>este <*SPA>mismo tüfa 
+C: con ese mismo este
+
+M: iñche pepi newentukelan tüfameu <*SPA>cuando.
+C: yo no puedo hacer fuerza aquí cuando.
+ 
+nmlch-pmicm1_1_0344_nmlch_00: 
+M: ¿Chem a nieymi feymu?
+C: ¿Qué tienes ahí?
+
+nmlch-pmicm1_1_0345_pmicm_00: 
+M: ¿Aa?
+C: ¿Aa?
+
+nmlch-pmicm1_1_0346_nmlch_00:
+M: ¿Welngimiy?
+C: ¿Se safo ahí?
+
+nmlch-pmicm1_1_0347_pmicm_00:
+M: Welngin <*SPA>también.
+C: Me safe también.
+ 
+nmlch-pmicm1_1_0348_nmlch_00: 
+M: ¿Chumngechi welngimiy peñi?
+C: ¿Cómo se safo hermano?
+
+nmlch-pmicm1_1_0349_pmicm_00: 
+M: Fey chemlu iñche rosayaukelu <uhm> feychimu 
+C: Este cuando estaba rosando esa ves
+
+M: konün tati pitalmu Cañete meu <*SPA>ahí 
+C: entre al hospital Cañete ahí
+
+M: <*SPA>me chemke <*SPA>ese.
+C: me sane ese.
+
+nmlch-pmicm1_1_0350_nmlch_00: 
+M: ¿Mongelay?
+C: ¿No se sano?
+
+nmlch-pmicm1_1_0351_pmicm_00:
+M: Mongekafuy <*SPA>pero <*SPA>no, <*SPA>pero 
+C: No se había sanado pero no, pero
+
+M: <*SPA>igual <*SPA>lo <*SPA>sentí moletakey.
+C: igual lo sentí me molesta.
+ 
+nmlch-pmicm1_1_0352_nmlch_00: 
+M: ¿Konlay foro?
+C: ¿No entro el hueso?
+
+nmlch-pmicm1_1_0353_pmicm_00: 
+M: <*SPA>No konkalay ka feyta chemley.
+C: No entró y este también esta.
+
+nmlch-pmicm1_1_0354_nmlch_00: 
+M: Welulkaletuy müten.
+C: Esta torsido no más.
+ 
+nmlch-pmicm1_1_0355_pmicm_00: 
+M: Weluley <*SPA>siempre famngechi malüngeal 
+C: Esta torsido siempre así para tocarlo
+
+M: fey chemlay tüfa kechilelay 
+C: ese no esta como este
+
+M: <*SPA>porque weluley chem.
+C: porque esta torsido como.
+ 
+nmlch-pmicm1_1_0356_nmlch_00: 
+M: ¿Eymi <*SPA>pulmonía kutrankelaymi <Noise> peñi?
+C: ¿Usted no ha tenido pulmonía hermano?
+
+nmlch-pmicm1_1_0357_pmicm_00: 
+M: <Noise> <*SPA>No.
+C: No.
+ 
+nmlch-pmicm1_1_0358_nmlch_00: 
+M: ¿Kimfimi kay?
+C: ¿lo conoces?
+
+nmlch-pmicm1_1_0359_pmicm_00: 
+M: <*SPA>No kimlan.
+C: No lo conzco.
+ 
+nmlch-pmicm1_1_0360_nmlch_00: 
+M: <*SPA>Pulmonía kimlafimi.
+C: Pulmonía no lo conoces.
+
+nmlch-pmicm1_1_0361_pmicm_00: 
+M: <*SPA>No .
+C: No.
+
+nmlch-pmicm1_1_0362_nmlch_00: 
+M: Kiñe kutran ka müley <*SPA>indigestión <!1digition>  
+C: Una enfermedad también hay indigestión
+
+M: pingey <*SPA>indigestión <!1digition>  wingka ta 
+C: se llama indigestión en chileno pues
+
+M: <*SPA>indigestión <!1digition> pikey.
+C: indigestión dice.
+
+
+

@@ -1,0 +1,14 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nfmcp-nmacq2_x_%04d_nfmcp_00
+nfmcp
+nfmcp-nmacq2_x_%04d_nmacq_00
+nmacq
+UserLables: 4
+<*SPA>
+<Cough>
+<Laugh>
+<Throat>
+LableMenuFile
+C:\Program

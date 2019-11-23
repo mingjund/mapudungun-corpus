@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 214
+SpeakerNum: 2
+nmlch-lffhm2_x_%04d_nmlch_00
+nmlch
+nmlch-lffhm2_x_%04d_lffhm_00
+lffhm
+UserLables: 1
+<SPA>
+LableMenuFile
+C:\Program Files\TransEdit\trl-vm-win1.mnu

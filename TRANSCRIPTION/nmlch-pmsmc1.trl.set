@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 3
+nmlch-pmsmc1_1_%04d_nmlch_00
+nmlch
+nmlch-pmsmc1_1_%04d_pmsmc_00
+pmsmc
+nmlch-pmsmc1_x_%04d_pf<>_00
+pf<>
+UserLables: 0
+LableMenuFile
+C:\Documents

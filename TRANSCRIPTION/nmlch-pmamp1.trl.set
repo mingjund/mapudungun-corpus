@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 70
+SpeakerNum: 2
+nmlch-pmamp1_x_%04d_nmlch_00
+nmlch
+nmlch-pmamp1_x_%04d_pmamp_00
+pmamp
+UserLables: 1
+<SPA>
+LableMenuFile
+C:\Program

@@ -1,0 +1,13 @@
+InfoVersion 1
+TurnCounter 25
+SpeakerNum: 2
+nmlch-pfbncA4_x_%04d_nmlch_00
+nmlch
+nmlch-pfbncA4_x_%04d_pfbnc_00
+pfbnc
+UserLables: 3
+<*SPA>
+<Cough>
+<Throat>
+LableMenuFile
+C:\Program

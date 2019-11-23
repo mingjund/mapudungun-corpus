@@ -1,0 +1,1942 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-lmahr2 
+; Last changes made on 01/23/2003 
+; Transcriber: Flor Caniupil H. 
+; Comments:  
+; Traduce: Juan Lincanqueo.
+
+nmlch-lmahr2_x_0000_nmlch_00:
+M: Kimlafimi.
+C: No lo conoces.
+
+nmlch-lmahr2_x_0001_lmahr_00: 
+M: <*SPA>No.
+C: No.
+
+nmlch-lmahr2_x_0002_nmlch_00: 
+M: Llepü ka müley <!1müli> pingey <!1pingi> 
+C: Llepu también hay dicen, 
+
+nmlch-lmahr2_x_0003_lmahr_00: 
+M: <*SPA>Tampoco kimlafiñ. 
+C: Tampoco lo conozco.
+
+nmlch-lmahr2_x_0004_nmlch_00: 
+M: Pekelafimi .
+C: No lo has visto.
+
+mlch-lmahr2_x_0005_lmahr_00: 
+M: <*SPA>No. 
+C: No
+
+nmlch-lmahr2_x_0006_nmlch_00: 
+M: Mawidameu kuyfi tripayüm. 
+C: En la montaña antes salía.
+
+nmlch-lmahr2_x_0007_lmahr_00: 
+M: <*SPA>Nunca pelafiñ feychi, feychi filu, 
+C: Nunca lo vi eso, esa culebra, 
+
+M: <*SPA>no <*SPA>una <*SPA>suerte pilay anta wingka. 
+C: no, una suerte dice pues el chileno.
+
+nmlch-lmahr2_x_0008_nmlch_00: 
+M: ¿Pelu?
+C: ¿El que encuentra?
+
+nmlch-lmahr2_x_0009_lmahr_00:
+M:  Pelu <*SPA>de <*SPA>eso feyti müley<!1müli> 
+C: El que encuentra de eso, eso hay ahí 
+
+M: kiñe müley <!1müli> ñi 
+C: hay una, debe de 
+
+M: ütrüflelngeal cheu müley <!1müli> <*SPA>pues <!1pu'>
+C: tirarle donde hay, pues
+
+M: <P> ünatulayayu% filu <P> fey iñche 
+C: las culebras no lo mordería ahí yo
+
+M: <%> fenteme ñi puwülnien <*SPA>año <!1añu> 
+C: esos ya he alcanzado  año, 
+
+M: <*SPA>nunca, <*SPA>nunca pelafiñ <P> 
+C: nunca, nunca lo vi
+
+M: +/pek/+ peken <*SPA>pero filu müten <*SPA>eso. 
+C: lo he visto pero, culebras no más eso.
+
+nmlch-lmahr2_x_0010_nmlch_00: 
+M: ¿Pekeymi fey müten?
+C: ¿Esos no más has visto?
+
+nmlch-lmahr2_x_0011_lmahr_00: 
+M: <*SPA>Sí.
+C: Sí.
+
+nmlch-lmahr2_x_0012_nmlch_00: 
+M: <uhm>  <Noise> fill kimfil <uh> müley <!1müli>
+C: Hay de todo 
+
+M: mawidamu <*SPA>pues<!1pu'>  
+C:  en la montaña pues
+
+M: itrofill üñüm. 
+C: todo tipo de pájaros.
+
+nmlch-lmahr2_x_0013_lmahr_00: 
+M: ¿Kirke kay kimfimi? <P> kirke ñayki femngey<!1femngi>  
+C: ¿Kaykay lo conoces, kaykay se parece a un gato
+
+
+M: pichike <*SPA>overito 
+C: así es un poco overito
+
+M: <P> también trefkütulümkeyngün <!1trefkütulümkingün> <*SPA>pues <!1pu'>
+C: también se lanzan eso pues
+
+nmlch-lmahr2_x_0014_nmlch_00: 
+M: Kirke <Noise> 
+C: Kay kay.
+
+nmlch-lmahr2_x_0015_lmahr_00: 
+M: kirke ¡Oo! <*SPA>mañoso <*SPA>son <*SPA>los <!1lo'>
+C: Kay kay  o, mañoso son los
+
+M: <*SPA>pajaritos <!pajaritu> 
+C: los pajaritos, pajaritos
+
+M: <*SPA>pues <!1pu'>
+C: pues los.
+
+nmlch-lmahr2_x_0016_nmlch_00: 
+M: ¿Welu kutranelchafuy? 
+C: ¿Pero Puede enfermar a una persona?
+
+nmlch-lmahr2_x_0017_lmahr_00: 
+M: Ünatunmu kafey kutranchekey <!1kutrancheki>
+C: Cuando muerde enferme a la persona, 
+
+M: <*SPA>pues <!1pu'>
+C: pues .
+
+nmlch-lmahr2_x_0018_nmlch_00: 
+M: Kutranelchekey <!1kutranelcheki>
+C: Enferma a la persona, enferma. 
+
+nmlch-lmahr2_x_0019_lmahr_00: 
+M: <*SPA>Sí <*SPA>pues <!1pu'>
+C: Sí pues eso.
+
+nmlch-lmahr2_x_0020_nmlch_00: 
+M: ¿Cheu mongeafuy che kay? 
+C: ¿Qué se va salvar la persona pues?
+
+nmlch-lmahr2_x_0021_lmahr_00: 
+M: Müley ñi küpayal opitalmu müten <*SPA>pues 
+C: Debe de venir al hospital no más pues
+
+M: <!1pu'> <P> <*SPA>pero <*SPA>casi 
+C: eso, pero casi
+
+M: <*SPA>nunca ünatulümkelay <*SPA>pues 
+C: nunca  muerde pues
+
+M: <!1pu'> <Noise> feyti <P> kiñe petu kimlafiñ 
+C: y eso, todavía no conozco ninguno
+
+M: iney% ünatueyu% kirke 
+C: quién haya mordido el kaykay
+
+nmlch-lmahr2_x_0022_nmlch_00: 
+M: Ngen ko ka mañosongey <!1mañosongi> pingey 
+C: El dueño del agua también es mañoso, mañoso es dicen
+
+nmlch-lmahr2_x_0023_lmahr_00: 
+M: May. 
+C: Sí.
+
+M: Kafey mañosongey <!1mañosongi> <*SPA>pues <!1pu'>
+C: Ese también es mañoso pues.
+
+nmlch-lmahr2_x_0024_nmlch_00:
+ <uhm> 
+
+nmlch-lmahr2_x_0025_lmahr_00: 
+M: Tafey müley ngen ko <*SPA>pues <!1pu'> <P> 
+C: También hay dueño del agua pues 
+
+M: müley <!1müli> chi filu ngen ko 
+C: hay, hay también culebras dueño del agua
+
+nmlch-lmahr2_x_0026_nmlch_00: 
+M: ¿Filu müley <!1müli> ngen ko? 
+C: ¿Culebra hay, hay dueño del agua?
+
+
+nmlch-lmahr2_x_0027_lmahr_00: 
+M: Fey fey nentukey <!1entuki> ko <*SPA>pues 
+C: Eso, eso sacan, sacan agua pues
+
+M: <!1pu'> <P> iñche cheu mülefun kuyfi, cheu 
+C: eso yo donde estaba antes, donde
+
+M: mülen ñi mapumu <P> nentukelay%  ñi% 
+C: estaba mi tierra, no sacaba  mi
+
+M: fütra <*SPA>primo <!1primu> <*SPA>orilla
+C: gran primo,  orilla
+
+M: chi, cheu tripakey <!1tripaki> chi 
+C: donde sale, donde sale esa
+
+M: <*SPA>vertiente <!1virtiente> <*SPA>al <*SPA>ladito <!2al'aitu>  
+C: vertiente al lado
+
+M: feymu müley <!1müli> chi <P> nentuki ko 
+C: a la orilla ahí hay, hay es donde saca agua 
+
+nmlch-lmahr2_x_0028_nmlch_00: 
+M: Rumel feymu mülekey <!1müleki>
+C: Ahí se encuentran muchos, 
+
+nmlch-lmahr2_x_0029_lmahr_00: 
+M: Rumel mülekey <!1müleki> 
+C: Se encuentran muchos
+
+M: fey tripay antü
+C: salen cuando alumbra el sol
+
+M:  fey pañütukey <!1pañütuki> ka <P> welu kimey 
+C: ahí toman el sol,  también pero sabe
+
+M: <!1kimki> ñi che welu chi +/vi fillkuñ/+ 
+C:  sabe de su gente las culebras
+
+M: filu <*SPA>pues <!1pu'>
+C: culebra pues 
+
+mlch-lmahr2_x_0030_nmlch_00: 
+<uhm> 
+
+nmlch-lmahr2_x_0031_lmahr_00: 
+M: Kimniekey <!1kimnieki> ñi che 
+C: Conoces, a su gente 
+
+M:<P> chumlümkelay
+C: no le hace nada
+
+
+nmlch-lmahr2_x_0032_nmlch_00: 
+M: ¿Chumlümkelay? 
+C: ¿ No le hace nada?
+
+nmlch-lmahr2_x_0033_lmahr_00: 
+M: <*SPA>No. 
+C: No.
+
+nmlch-lmahr2_x_0034_nmlch_00: 
+M: ¿Eymi pefilmi pañütulele l'agümfulmi kay?
+C: ¿Sí tú lo viera soleando lo matarías pues?  
+
+nmlch-lmahr2_x_0035_lmahr_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> angküafuy ko 
+C: No pues sino se podría secar el agua
+
+M: <*SPA>pues <!1pu'> <P> feyta ngen ko. 
+C: pues ese, este dueño del agua.
+
+nmlch-lmahr2_x_0036_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa¡
+
+nmlch-lmahr2_x_0037_lmahr_00: 
+M: Ngen ko fey <P> tüfa müley <!1müli> wente... 
+C: Dueño del agua ese, este está   arriba 
+
+M: Puerto Montt pingey <!1pingi> chi mapu ti wente 
+C: Puerto Montt se llama el lugar, este arriba 
+
+M: <P>  Wetecura% llemay% puwüli% dungun% 
+C: de la piedra pues llevo su conversación
+
+M: <%> <P> <%> <*SPA>no <*SPA>como 
+C: no, como.
+
+nmlch-lmahr2_x_0038_nmlch_00: 
+M: ¿Cheu müley <!1müli> tüfi?
+C: ¿Dónde está eso?
+
+nmlch-lmahr2_x_0039_lmahr_00: 
+M: <*SPA>En Puerto Montt <*SPA>aquí 
+C: En Puerto Montt aquí
+
+M: <*SPA>donde <!1a'onde> <*SPA>sale <*SPA>el 
+C: donde,  sale él
+
+M: <*SPA>agua <*SPA>potable <P> <*SPA>allá 
+C: agua potable allá
+
+M: <*SPA>arriba <*SPA>sí <*SPA>ahí <*SPA>
+C: arriba  sí ahí 
+
+M: esta <!1'ta> <*SPA>el <*SPA>pajarito
+C: esta,  él pajarito.
+
+nmlch-lmahr2_x_0040_nmlch_00: 
+M: <Noise> ¿Welu re mapumu?
+C: ¿Pero solo en la tierra?
+
+nmlch-lmahr2_x_0041_lmahr_00: 
+M: <*SPA>No <%> <*SPA>tiene <*SPA>un 
+C: No tiene un
+
+M: <*SPA>hueco <*SPA>adentro <*SPA>si 
+C: hueco a dentro sí 
+
+M: <*SPA>tiene <*SPA>un hueco <P> <%> 
+C: tiene un hueco 
+
+M: cuando tripay feymu pañütupakey <!1pañütupaki>
+C: cuando sale ahí viene a tomar el sol, toma el sol
+
+M:  +/wentetu went=/+ wente chi sementumu 
+C: hacia arriba,  él en cemento
+
+M: winakünuukey  <!1winakünuuki> fütra filu <Laugh> 
+C: se queda estirado la culebra grande. 
+
+nmlch-lmahr2_x_0042_nmlch_00: 
+M: ¿Iney <!1ini> elkünuy feymu?
+C: ¿Quién lo dejo en ese lugar?
+
+nmlch-lmahr2_x_0043_lmahr_00: 
+M: <*SPA>Este <!1e'te> ngen mapu <*SPA>pues <!1pu'> 
+C: Este, el dueño de la tierra pues.  
+
+nmlch-lmahr2_x_0044_nmlch_00
+M: <*SPA>: ¡Aa! 
+C: ¡Aa¡
+
+M: Ngen mapu.
+C: El dueño de la tierra.
+
+nmlch-lmahr2_x_0045_lmahr_00:
+M:  <*SPA>Claro ngen mapu. 
+C: Claro el dueño de la tierra.
+
+nmlch-lmahr2_x_0046_nmlch_00: 
+M: ¿Kakelu pekey <!1pekey>?
+C: ¿Los otros los ven?
+
+nmlch-lmahr2_x_0047_lmahr_00:
+M:  <*SPA>Muy <*SPA>alguno <!1algunu> 
+C: Solo algunos, 
+
+M: pekeyu <*SPA>pues <!1pu'> 
+C: lo han visto pues 
+
+nmlch-lmahr2_x_0048_nmlch_00: 
+M: ¿Welu üñfitungekelay?
+C: ¿Pero no lo molestan?
+
+nmlch-lmahr2_x_0049_lmahr_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> 
+C: No pues 
+
+M: <*SPA>que llükangekey <!1llükangeki> <*SPA>pues <!1pu'>
+C: que le tienen miedo pues
+
+M: <*SPA>no <*SPA>que fütra filu
+C: eso no, que una culebra grande
+
+nmlch-lmahr2_x_0050_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa¡
+
+M: ¿Llükangekey <!1llükangeki>?
+C: ¿ Le tienen respeto, respeto?
+
+nmlch-lmahr2_x_0051_lmahr_00: 
+M: Llükangekey <!1llükangeki> <*SPA>pues <!1pu'>
+C: Lo respetan, respetan pues.
+
+nmlch-lmahr2_x_0052_nmlch_00:  
+M: ¿Ina rüpü?
+C: ¿A la orilla del camino?
+
+nmlch-lmahr2_x_0053_lmahr_00: 
+M: <*SPA>No montañameu <*SPA>müley <!1müli>
+C: No en la montaña esta
+
+M: <*SPA>pues <!1pu'>
+C:  pues eso
+
+nmlch-lmahr2_x_0054_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa¡
+
+M: Montañmeu.  
+C: En la montaña.
+
+nmlch-lmahr2_x_0055_lmahr_00: 
+M: Montañameu müley <*SPA>pues <!1pu'> 
+C: Se encuentra en la montaña pues 
+
+M: cheu tripakey <!1tripaki> chi ko <*SPA>pues <!1pu'>
+C: donde sale, sale el agua pues
+
+M: <*SPA>al <*SPA>ladito <!1ala'itu> 
+C: eso al lado, al lado 
+
+M: mülekey <!1müleki> pu% ko%.
+C: se encuentra en el agua.
+
+nmlch-lmahr2_x_0056_nmlch_00: 
+M: Tungekelay welu 
+C: Pero no lo toman
+
+nmlch-lmahr2_x_0057_lmahr_00: 
+M: <*SPA>No <*SPA>que <*SPA>le <*SPA>va 
+C: No, que  le va
+
+M: <*SPA>a <*SPA>agarrar <*SPA>si <*SPA>es 
+C: agarrar sí es   
+
+M: <*SPA>grande <*SPA>pues <!1pu'> 
+C: grande pues 
+
+M: <*SPA>así <*SPA>por <*SPA>eso <*SPA>pues <!1pu'>
+C: así por eso pues.
+
+nmlch-lmahr2_x_0058_nmlch_00:
+M:  ¿Wedañmangepelay? 
+C: ¿ Debe ser mañoso?
+
+nmlch-lmahr2_x_0059_lmahr_00: 
+M: <*SPA>Si <*SPA>pues <!1pu'> ukangele 
+C: Sí, pues si le buscan
+
+M: +/müle mü/+ müley <!1müli> tañi kutranal che 
+C: esto se debe de enfermarse la persona
+
+M: <*SPA>pues <!1pu'> <P> <*SPA>no <*SPA>que 
+C: pues  no que
+
+M: <*SPA>es <*SPA>venenoso 
+C: es venenoso
+
+nmlch-lmahr2_x_0060_nmlch_00: 
+<uhm> 
+
+nmlch-lmahr2_x_0061_lmahr_00: 
+M: Pünalechi chem <%> 
+C: Cosa que esta pegado
+
+nmlch-lmahr2_x_0062_nmlch_00:
+ <uhm> 
+
+nmlch-lmahr2_x_0063_lmahr_00: 
+M: Küpa l'ale müten <%> filumu <*SPA>pues <!1pu'>
+C: Sí quiere morir no mas con la culebra pues.
+
+nmlch-lmahr2_x_0064_nmlch_00: 
+M: ¿Küpa l'alu?
+C: ¿El que quiere morir?
+
+nmlch-lmahr2_x_0065_lmahr_00: 
+M: <*SPA>Sí <Laugh> <*SPA>claro <P> fill 
+C: Sí, claro de toda
+
+M: <*SPA>clase weke femngechi% müley <!1müli> 
+C: clase nuevas cosas hay, se encuentran
+
+M: mapu feymu <*SPA>pues <!1pu'>
+C: en la tierra por  pues.
+
+nmlch-lmahr2_x_0066_nmlch_00: 
+M: ¿Müley <!1müli> <%> mapumu kafey?  
+C: ¿Hay, en la tierra también eso?
+
+nmlch-lmahr2_x_0067_lmahr_00: 
+M: <*SPA>Claro fey <*SPA>toda <!1to'> 
+C: Claro eso toda
+
+M: <*SPA>clase filu müley 
+C: clase de culebra se encuentra.
+
+nmlch-lmahr2_x_0068_nmlch_00:
+M: Müna weda <*SPA>no, feyti leufümu kay wedake 
+C: Que malo no, eso,  y en el río   pues mala 
+
+M: chem müley <!1müli>, wedake ünfi ka 
+C: cosas hay, se encuentran, cosas negativas también
+
+M: müley <*SPA>pues <!1pu'>
+C: se encuentran pues. 
+
+nmlch-lmahr2_x_0069_lmahr_00: 
+M: Trülke wekufü ka müley <!1müli> <*SPA>pues<!1pu'>
+C: Diablo convertido en cuero también hay pues
+
+M: <*SPA>toro kulliñ ka müley kawellu
+C: toro, animal también hay, caballo también hay 
+
+M:  <P> leufü kafey rikungey <!1rikungi>
+C: el río también tiene riqueza, riqueza
+
+M:  <*SPA>pues <!1pu'>  
+C: pues 
+
+nmlch-lmahr2_x_0070_nmlch_00: 
+M: Kafey niey al'ün 
+C: Ese también tiene hartos
+
+nmlch-lmahr2_x_0071_lmahr_00:
+ <Laugh> 
+
+nmlch-lmahr2_x_0072_nmlch_00: 
+M: ¿Lafken ka?
+C: ¿El mar también?
+
+nmlch-lmahr2_x_0073_lmahr_00: 
+M: Lafeken kafey niey <*SPA>pues <!1pu'>
+C: El mar también tiene  pues. 
+
+nmlch-lmahr2_x_0074_nmlch_00: 
+M: ¿Chem doy weda üñfi müley <!1müli> lafkenmuampe? 
+C: ¿ Qué es lo malo que hay en el mar pues?
+
+nmlch-lmahr2_x_0075_lmahr_00: 
+M: <*SPA>No iñche ngemekelan lafkenmu 
+C: No, yo no he visitado el mar
+
+nmlch-lmahr2_x_0076_nmlch_00: 
+M: Welu ka müley <!1müli> yagel 
+C: Pero también debe de haber comidas 
+
+M: pingekey <!1pingeki> lafkenmeu ka
+C: eso se dice en el mar también.
+
+nmlch-lmahr2_x_0077_lmahr_00:
+M:  ¡Aa! 
+C: ¡Aa¡
+
+M: Chalwa müten müley <!1müli> <*SPA>pues <!1pu'>
+C: Pescado no mas hay, hay pues 
+
+nmlch-lmahr2_x_0078_nmlch_00:
+M:  Chalwa.
+C: Pescado.
+
+nmlch-lmahr2_x_0079_lmahr_00: 
+M: <*SPA>Macha ka müley <!1müli> 
+C: Macha también hay
+
+M: <*SPA>piure hay un <%> füta lafken<*SPA>pues <!1pu'>
+C: piure hay un, en el gran mar pues
+
+nmlch-lmahr2_x_0080_nmlch_00: 
+M: ¿<*SPA>Rico <!1ricu> lafken?  
+C: ¿Rico, rico es el mar?
+
+nmlch-lmahr2_x_0081_lmahr_00: 
+M: <*SPA>Rico <!1ricu> lafken <*SPA>pues
+C: Rico; rico es el mar pues
+
+M:  <!1pu'> chem ta küpa iylmi 
+C: eso si tienes gana de comer
+
+M: +/netunge/+nentungekey <!1nentungeki> feymu 
+C: se saca por eso ahí
+M: <*SPA>pues <!1pu'>
+C: pues.
+
+nmlch-lmahr2_x_0082_nmlch_00:  
+M: Itrofill müley <!1müli>  
+C: De todo  hay.
+
+nmlch-lmahr2_x_0083_lmahr_00: 
+<uhm> 
+
+nmlch-lmahr2_x_0084_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa¡
+
+M: Mawelfe ka pingey <!1pingi> 
+C: ..........también se llama, se llama
+
+M: feyngepey <!1feyngepi>
+C: será eso.
+
+nmlch-lmahr2_x_0085_lmahr_00: 
+M: <*SPA>No <*SPA>se <*SPA>como iñche
+C: No se como yo
+
+M:  <*SPA>nunca ngemekelan.
+C: nunca he ido a pasear.
+
+nmlch-lmahr2_x_0086_nmlch_00: 
+M: Nüyün küpayüm feypüle ...
+C: Donde vienen los movimientos. 
+
+nmlch-lmahr2_x_0087_lmahr_00:
+M:  <*SPA>No kordilleramu küpakey <!1küpaki> 
+C: No de la cordillera  viene
+
+M: fey <P> nagkey <!1nagki> ti <*SPA>que 
+C: ahí baja,   eso que 
+
+M: <*SPA> cordillera refentay <!1reventay> fey 
+C: la cordillera se revienta, explota ahí
+
+M: mongekey <!1mongeki> chi mapu 
+C: vive la tierra.
+
+nmlch-lmahr2_x_0088_nmlch_00: 
+M: ¿Konkey <!1konki> lafkenmu?
+C: ¿Entra, entra en el mar? 
+
+nmlch-lmahr2_x_0089_lmahr_00: 
+M:  Konkey <!1konki> lafkenmu.
+C: Entra en el mar.
+
+nmlch-lmahr2_x_0090_nmlch_00:
+M:  ¿Fey maukey <!1mauki>?
+C: ¿Ahí  lleuve?
+
+nmlch-lmahr2_x_0091_lmahr_00:
+M: Fey may müley <!1müli> kafey fücha mawünngelu 
+C: Es también hay y hace llover mucho
+ 
+M: <%> pillañi <%> üyüu <%> pillañ% wentru 
+C: ...........allá ..............hombre
+
+M: tralkan wentru pi ta fey mawülchekey <!1mawülcheki>
+C: hombre del trueno dice eso ahí llueve. 
+
+nmlch-lmahr2_x_0092_nmlch_00: 
+M: ¿Pillañ...?  
+C: ¿Pillan?
+
+ nmlch-lmahr2_x_0093_lmahr_00: 
+M: Pillañ wentru fey tripapay feyta lütrügüchi mapumu 
+C: Pillan hombre ahí sale este riega la tierra
+ 
+M: <*SPA>aunque... <*SPA>este <!1e'te> 
+C: aunque  este
+
+M: <*SPA>rayo <!1rayu> kütu nagkingün üllkumum% 
+C: rayo ................bajan .... 
+
+M: feymu nagkey <!1nagki> mau <*SPA>pues <!1pu'
+C: por eso baja la lluvia pues
+
+nmlch-lmahr2_x_0094_nmlch_00: 
+M: ¿Fey nagkey <!1nagki> mau?
+C: ¿ Ahí baja la lluvia?
+
+nmlch-lmahr2_x_0095_lmahr_00:
+M: Feymu nagkey <!1nagki> ka <*SPA>pues <!1pu'>
+C: Por eso baja también pues. 
+
+nmlch-lmahr2_x_0096_nmlch_00: 
+M: Fey llemay, peñi ta fey <uh> mapuche al'ü 
+C: Eso pues, hermano eso el mapuche tiene harto
+
+M: niey <!niy> <uh> kimün ka niey <!1niy> chuchimu 
+C: tiene, conocimiento tiene, tiene donde sea
+
+M: ñi mülen kom kimniey <!1kimni> chuchimu 
+C: que se encuentra lo sabe, sabe donde sea 
+
+M: ñi müleken <*SPA>pues <!1pu'> ka kümeke l'awen'
+C: sabe que hay pues también buenos remedios
+
+M. ünfike l'awen' ka müley <!1müli> ka 
+C diferentes remedios también hay pues.
+
+nmlch-lmahr2_x_0097_lmahr_00: 
+M: Müley kafey <*SPA>pues <!1pu'> 
+C: Hay también eso pues.
+
+nmlch-lmahr2_x_0098_nmlch_00: 
+M: ¿Fey tüfey <!1tüfi> ka kiñe kutran 
+C: ¿ Eso pues también hay una enfermedad
+
+M: müley <!1müli> kimfimi ngüfüllün?
+C: hay  lo conoces cuando se estanca la orina?
+
+nmlch-lmahr2_x_0099_lmahr_00: 
+M: Ngüfüllün müley <!1müli> +/la/+ kachu l'awen'  
+C: Tranca de orina  hay, la remedio de pasto
+
+M: kay müley <!1müli> <*SPA>pues <!1pu'> 
+C: también hay pues. 
+
+nmlch-lmahr2_x_0100_nmlch_00: 
+M: ¿Kachu l'awen'?
+C: ¿Remedio de follaje?
+
+nmlch-lmahr2_x_0101_lmahr_00: 
+M: May.
+C: Sí.
+
+nmlch-lmahr2_x_0102_nmlch_00: 
+M: ¿Chem l'awen' kükey <!1kümi> 
+C: ¿Qué remedio es bueno  para 
+
+M: güfüllünmuam peñi?
+C: cuando se estanca la orina?
+
+nmlch-lmahr2_x_0103_lmahr_00: 
+M: Güfüllünmu feyti <P> <*SPA>como <*SPA>que 
+C: Para cuando se estanca la orina eso como que
+
+M: <*SPA>se <*SPA>llama <*SPA>ese l'awen' nga 
+C: se llama ese remedio 
+
+M: <Noise> tripakey <!1tripaki> <*SPA>en <*SPA>la
+C: sale  en la 
+
+M:  <*SPA>vega <*SPA>ese l'awen' 
+C: vega ese remedio.
+
+nmlch-lmahr2_x_0104_nmlch_00: 
+M: Rulumeu <!1rulumu>
+C: En la vega.
+
+nmlch-lmahr2_x_0105_lmahr_00: 
+M: May.
+C: Sí.
+
+nmlch-lmahr2_x_0106_nmlch_00: 
+M: ¿Karesillo <*SPA>no?
+C: ¿Carresillo no? 
+
+nmlch-lmahr2_x_0107_lmahr_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> 
+C: No pues eso
+
+M: karesillo <*SPA>no <*SPA>otro 
+C: Carresillo no otro 
+
+nmlch-lmahr2_x_0108_nmlch_00: 
+M: ¿Müyage?
+C: ¿Millage?
+
+nmlch-lmahr2_x_0109_lmahr_00: 
+M: <Laugh> Müyage <Laugh> <*SPA>ese 
+C: Millage ese 
+
+M: +/pa'lo/+ <*SPA>para <*SPA>los <!2p'alo> 
+C: para los 
+
+M: <*SPA>locos <!1loco> <*SPA>pues <!1pu'> 
+C: locos, locos pues
+
+M: müyage elungekey <!1elungeki>, 
+C: millague le da
+
+M: müyagetungekey <!1müyagetungeki> che ngollilngekey 
+C:  millague a la persona se embriaga
+
+M: <!1ngollilngeki%> umagtukey <!1umagtuki> 
+C: se embriaga y duerme
+
+M: fey fill <*SPA>tarde <*SPA>pues <!1pu'> 
+C: eso toda la tarde pues eso.
+
+nmlch-lmahr2_x_0110_nmlch_00:
+M:  ¿Aa?
+C: ¿Aa?
+
+nmlch-lmahr2_x_0111_lmahr_00:
+M:  Müyage tukukünulngey <!1tukukünulngi> 
+C: Millage se le coloca
+
+M: che umagtukey <!1umagtuki> <*SPA>pues <!1pu'>
+C: la persona y duerme, duerme pues 
+
+nmlch-lmahr2_x_0112_nmlch_00: 
+M: ¿Müyagemu? 
+C: ¿Mullage?
+
+nmlch-lmahr2_x_0113_lmahr_00:
+M:  <*SPA>Sí <Laugh> 
+C: Sí.
+
+nmlch-lmahr2_x_0114_nmlch_00: 
+M: ¿Umagtuafuy?
+C: ¿ Puede dormir?
+
+nmlch-lmahr2_x_0115_lmahr_00: 
+M: Umagtukey <!1umagtuki> <*SPA>pues <!1pu'> 
+C: Duerme, duerme pues 
+
+M: <*SPA>no <*SPA>que <*SPA>ngollikey <!1ngolliki> 
+C: no, es  que se embriaga
+
+nmlch-lmahr2_x_0116_nmlch_00: 
+M: ¿Pulkumu? 
+C: ¿Con el vino?
+
+nmlch-lmahr2_x_0117_lmahr_00: 
+M: Pulkumu elungekey <!1elungeki> <*SPA>pues <!1pu'>
+C: Con el vino se le da  pues
+
+M: kiñe antü ngollikingün <Laugh> 
+C: eso un día se embriaga 
+
+nmlch-lmahr2_x_0118_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa¡
+
+M: <P> Ngolliafuy müyagemu che 
+C: Se podría embriagar con millage la persona.
+
+nmlch-lmahr2_x_0119_lmahr_00: 
+M: <*SPA>Claro <%> 
+C: Claro.
+
+nmlch-lmahr2_x_0120_nmlch_00: 
+M: ¿Münalechi kay <*SPA>no? femuechi <uh> 
+C: ¿Que interesante pues, no así pues
+
+M: digestiniyüm chekay, peñi chem kümey <!1kümi>?
+C: para la digestión pues hermano que es bueno?
+
+nmlch-lmahr2_x_0121_lmahr_00:
+M:  Pulgante <*SPA>no <*SPA>mas <!1ma'> <*SPA>pues <!1pu'>
+C: Purgante no más pues 
+
+nmlch-lmahr2_x_0122_nmlch_00: 
+M: Pulgante. 
+C: Purgante.
+
+nmlch-lmahr2_x_0123_lmahr_00: 
+M: Pulgante <*SPA>no <*SPA>que trankakey <!1trankaki>
+C: Purgante no es, que se tranca
+
+M: che <*SPA>de <*SPA>repente  
+C:  la persona de repente
+
+M: <*SPA>sino müte korey <*SPA>cuerpo <!1cuerpu>
+C: sino corre mucho el cuerpo
+
+M: kafey <*SPA>también <*SPA>es 
+C: eso también es
+
+M: <*SPA>bueno <*SPA>todo <!1to'> <*SPA>eso 
+C: bueno todo eso
+
+M: <%> pulgante <*SPA>pues <!1pu'> rupakey  <!1rupaki>
+C: purgante pues eso  hace pasar
+
+M: kutran <*SPA>barre <*SPA>con 
+C:  la enfermedad barre con
+
+M: <*SPA>todo <!1to'> <*SPA>quedan <!2que'an>
+C: todo quedan
+
+M:  <*SPA>sanitos <!1sanitu> <*SPA>otra <*SPA>vez
+C: sanitos otra vez. 
+
+nmlch-lmahr2_x_0124_nmlch_00: 
+M: Mongetukey <!1mongetuki> che 
+C: Se sana, sana la persona.
+
+nmlch-lmahr2_x_0125_lmahr_00:
+M:  Mongetukey <!1mongetuki>
+C: Se sana.
+
+nmlch-lmahr2_x_0126_nmlch_00: 
+M: <uhm> Feyti kay peñi rüngül piluniyüm che 
+C: Ese pues hermano cuando le sale grano a la persona. 
+
+nmlch-lmahr2_x_0127_lmahr_00: 
+M: <*SPA>Ese <*SPA>que <*SPA>tomo 
+C: Ese que tomo
+
+M: <Noise> petu akordalafiñ femngechi l'awen' 
+C: todavía no me acuerdo de ese remedio
+
+M. <*SPA>pues <!1pu'> <*SPA>ese l'awen' müley <!1müli>
+C: pues ese remedio se encuentra
+
+M: Pellaweñ <%> <*SPA>como <*SPA>se 
+C:  pellahuen como sé
+
+M: <*SPA>llama <*SPA>la <*SPA>otra 
+C: llama la otra
+
+M: <*SPA>vez <!1ve'> <*SPA>no <*SPA>que
+C: vez no es que
+
+M: üytulfeyu <Noise> <*SPA>se <*SPA>me 
+C: te lo había nombrado sé me
+
+M: <*SPA>olvidó <*SPA>el <*SPA>nombre 
+C: olvidó él nombre
+
+M: <*SPA>del l'awen' 
+C: del remedio.
+
+nmlch-lmahr2_x_0128_nmlch_00:
+M:  ¿Kül'a üytukeymi <!1üytukimi> ka nga cheama 
+C: ¿Nombró tres, nombró y también que cosa
+
+M: kül'a chem chumal kümey <!1kümi> kül'a
+C: tres cosa, para que era bueno. 
+
+nmlch-lmahr2_x_0129_lmahr_00: 
+M: ¡Aa! 
+C: ¡Aa¡
+
+M: +/Pal/+ <*SPA>para <*SPA>el <!2pa'l> nge 
+C: Para  el ojo 
+
+M: <*SPA>pues <!1pu'>
+C: pues 
+
+M:  wawüyutungey <!1wawüyutungi>
+C: se le refriega.
+
+nmlch-lmahr2_x_0130_nmlch_00: 
+M: <uh> Ko=
+C: Agua.
+
+nmlch-lmahr2_x_0131_lmahr_00: 
+M: We kül'a <*SPA>si <*SPA>pues <!1pu'>
+C: Pues tres sí pues.
+
+nmlch-lmahr2_x_0132_nmlch_00: 
+M: ¿Aa?
+C: ¿Aa?
+
+nmlch-lmahr2_x_0133_lmahr_00: 
+M: We kül'a 
+C: Tres nuevo.
+nmlch-lmahr2_x_0134_nmlch_00: 
+M: Konle chem rume ngemu <P> 
+C: Sí entra cualquier cosa en el ojo
+
+M: fey kümey <!1kümi> kül'a  
+C: eso es bueno tres.
+
+nmlch-lmahr2_x_0135_lmahr_00: 
+M: Kümey kül'a <*SPA>a <*SPA>veces <!1vece'>  
+C: Tres es bueno a veces
+
+M: müley <!1müli> <*SPA>cualquier chem 
+C: se encuentra, cualquier cosa
+
+M: <*SPA>muy koni fey tripalay fey kutrankey <!1kutranki>
+C: si entra eso no sale y eso duele
+
+M:  nge <*SPA>pues <!1pu'> <*SPA>azúcar 
+C: el ojo pues con azúcar
+
+M:engu konkey <!1konki> <*SPA>pues <!1pu'> 
+C: eso entra, entra pues 
+
+M: <P> <*SPA>ese <*SPA>limpia <*SPA>el 
+C: ese limpia él
+
+M: <*SPA>ojo limpiatukey <!1limpiatuki> nge 
+C: ojo lo limpia, limpia el ojo.
+
+nmlch-lmahr2_x_0136_nmlch_00: 
+M: ¿Kütrin kül'a?
+C: ¿ Se estruja tres?
+
+nmlch-lmahr2_x_0137_lmahr_00: 
+M: Kütrin <*SPA>juguito <!1juguitu>
+C: Se estruja el juguito
+
+M: tukungey <!1tukungi%> kül'a  
+C: se coloca tres.
+
+nmlch-lmahr2_x_0138_nmlch_00:
+M:  Fey kümey 
+C: Eso es bueno.
+
+nmlch-lmahr2_x_0139_lmahr_00: 
+M: Fey kümey <!1kümi> +/pa/+ <*SPA>para 
+C: Eso es bueno para
+
+M: <*SPA>el <!2pa'l> <*SPA>ojo 
+C: él  ojo.
+
+nmlch-lmahr2_x_0140_nmlch_00: 
+M: ¿Padmungelu kay peñi? <P> padmulu
+C: ¿Cuándo tiene pasmo hermano, pasmo?
+
+
+nmlch-lmahr2_x_0141_lmahr_00: 
+M: <*SPA>Para <*SPA>el <!2pa'l> <*SPA>pasmo <!1pamu>
+C: Para el pasmo
+
+M: <P> <*SPA>para <*SPA>el <!2pa'l> pamu
+C:  para el pasmo
+
+M: <*SPA>aguardiente <*SPA>pues <!1pu'>
+C: pasmo, aguardiente pues.
+
+nmlch-lmahr2_x_0142_nmlch_00: 
+M: ¿<*SPA>Aguardiente kümey <!1kümi>? 
+C: ¿Aguardiente es bueno?
+
+nmlch-lmahr2_x_0143_lmahr_00: 
+M: <*SPA>Aguardiente kümey <!1kümi>
+C: Aguardiente es bueno
+
+nmlch-lmahr2_x_0144_nmlch_00: 
+M: ¿Chem engu?
+C: ¿Con qué?
+
+nmlch-lmahr2_x_0145_lmahr_00: 
+M: Küchanlongkomu% <*SPA>con 
+C: Con el que se lava el pelo con
+
+M: <*SPA>aguardiente <P> wawüyütual kafey <*SPA>bueno <!1gueno>
+C: aguardiente refregarse también es bueno
+
+M: <*SPA>con <*SPA>aguardiante <P>
+C: bueno con agurdiente
+
+M:  fey pichin üytulelpelayuama% tayi <%> l'awen' 
+C: eso un poco te he nombrado pues un rato atrás el remedio 
+
+M: <*SPA>todo <!1to'> <*SPA>eso konkey <!1konki> 
+C: todo eso entra
+
+M: <*SPA>para <*SPA>el <!2pa'l> <*SPA>el 
+C: para  él
+
+M: <*SPA>pasmo <!1pamu> <*SPA>pues <!1pu'> 
+C: pasmo pues 
+
+M: <*SPA>ese <*SPA>para <*SPA>el <!2pa'l> 
+C: ese para él 
+
+M: <*SPA>pasmo <!1pamu> <%> 
+C: pasmo.
+
+nmlch-lmahr2_x_0146_nmlch_00: 
+M: ¿Pamulelu?
+C: ¿El que tiene pasmo?
+
+nmlch-lmahr2_x_0147_lmahr_00: 
+M: Pamulelu <P> feyta 
+C: El que tiene pasmo este 
+
+M: tripaparumekey <!1tripaparumeki> 
+C: de repente sale 
+
+M: <*SPA>después <!1depue> <*SPA>pues <!1pu'> 
+C: después pues
+
+M: refentakey <!1reventaki> <*SPA>cuerpo <!1cuerpu>
+C: se revienta el cuerpo 
+
+M: <*SPA>para <*SPA>afuera <!2pa'juera>
+C:  para afuera
+
+M: mongetuy chi che 
+C:  se mejora la persona.
+
+nmlch-lmahr2_x_0148_nmlch_00: 
+M: ¿Natrün, palki ka chem l'awen' ?
+C: ¿Natre, palqui que otro remedio?
+
+M: para <!2pa'l> <*SPA>fiebre <*SPA>no <*SPA>más<!1ma'>  
+C: para la fiebre no más
+
+M: <*SPA>pues <11pu'> <P> are kutranmu 
+C:  pues eso para la enfermedad de la fiebre
+
+nmlch-lmahr2_x_0150_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa¡
+
+nmlch-lmahr2_x_0151_lmahr_00: 
+M: <*SPA>Ese <*SPA>quien <%>  <P> <*SPA>la 
+C: Ese quién la 
+
+M: <*SPA>borraja <*SPA>también <*SPA>es <!1e'>
+C: borraja también es 
+
+M: <*SPA>bueno <!1gueno> +/pal/+ 
+C:  bueno para
+
+M: <*SPA>para <!1pa'> <*SPA>la <*SPA>tos <!1to'> 
+C: para, la tos
+
+M: <*SPA>pues <!1pu'> <*SPA>borraja  
+C: pues esa borraja.
+
+nmlch-lmahr2_x_0152_nmlch_00: 
+M: ¿Cheu pengeafuy <*SPA>borraja?
+C: ¿Dónde se puede encontrar borraja?
+
+nmlch-lmahr2_x_0153_lmahr_00: 
+M: <*SPA>Aqui <*SPA>hay 
+C: Aquí hay
+
+M: <*SPA>harto <*SPA>pues <!1pu'> 
+C: harto pues.
+
+nmlch-lmahr2_x_0154_nmlch_00: 
+M: ¿Cheu pengeafuy <*SPA>borraja peñi chumngey 
+C: ¿Donde se puede encontrar borraja hermano como es
+
+M: <!1chumngi> kachul'awen' tüfey?
+C: cómo es remedio de pasto eso?
+
+nmlch-lmahr2_x_0155_lmahr_00: 
+M: <*SPA>Si <*SPA>pues <!1pu'> <*SPA>así 
+C: Sí pues eso así 
+
+M: <%> cheu müley <!1müli> <*SPA>tia, 
+C: donde hay mi tía,
+
+M: müley <!1müli> <*SPA>borraja 
+C: hay ahí, se encuentra borraja.
+
+nmlch-lmahr2_x_0156_nmlch_00:
+M:  ¿Aa?
+C: ¿Aa?
+
+nmlch-lmahr2_x_0157_lmahr_00: 
+M: Cheu müley <!1müli> iñche ñi <*SPA>tia 
+C: Dónde hay,  donde mi tía 
+
+M: feymeu müley <!1müli> <*SPA>borraja 
+C: ahí se encuentra, hay borraja.
+
+nmlch-lmahr2_x_0158_nmlch_00:
+M:  ¿Cheu müley <!1müli> tami <*SPA>tia?
+C: ¿Dónde se encuentra, hay donde mi tía?
+
+nmlch-lmahr2_x_0159_lmahr_00: 
+M: Ñi deya <!1dea> <*SPA>ahí
+C: Donde mi hermana ahí
+
+M:  <*SPA>sobrina <!1sourina>
+C: sobrina.
+
+nmlch-lmahr2_x_0160_nmlch_00:
+M: ¿Tami deya <!1dea>?
+C: ¿Dónde tu hermana?
+
+nmlch-lmahr2_x_0161_lmahr_00: 
+M: <*SPA>Sí <*SPA>menos <*SPA>mal 
+C: Sí, menos mal
+
+M: <*SPA>esta <!1ta'> <*SPA>grande <*SPA>si  
+C: esta grande sí.
+
+nmlch-lmahr2_x_0162_nmlch_00: 
+M: Wechuñ mülelu 
+C:  Como esta grande.
+
+nmlch-lmahr2_x_0163_lmahr_00: 
+M: May <*SPA>arriba <*SPA>frente <*SPA>al 
+C: Sí arriba frente al
+
+M: <*SPA>gimnacio fey anümniey kidu 
+C: gimnasio ella tiene plantado sola. 
+
+nmlch-lmahr2_x_0164_lmahr_00: 
+M: Anümniey ñi <*SPA>borraja 
+C: Tiene plantado su borraja.
+
+nmlch-lmahr2_x_0165_nmlch_00: 
+<uhm> 
+
+nmlch-lmahr2_x_0166_nmlch_00: 
+M: ¿Kachu l'awen' tüfey'?
+C: ¿Remedio de pasto ese?
+
+nmlch-lmahr2_x_0167_lmahr_00: 
+M: Kachu l'awen' <*SPA>pues <!1pu'>
+C: Remedio de pasto pues. 
+
+nmlch-lmahr2_x_0168_nmlch_00: 
+M: ¿Chumal kümey borraja pipeymiama? 
+C: ¿Para qué dijo que era bueno la borraja? 
+
+nmlch-lmahr2_x_0169_lmahr_00: 
+M: <*SPA>Para <!1pa'> <*SPA>la <*SPA>tos <!1to'>
+C: Para la tos.
+
+nmlch-lmahr2_x_0170_nmlch_00: 
+M: <*SPA>Tos rume trüfonlu 
+C: Tos cuando tosen mucho.
+
+nmlch-lmahr2_x_0171_lmahr_00: 
+M: Rume trüfonlu 
+C: Cuando tose mucho.
+
+nmlch-lmahr2_x_0172_nmlch_00: 
+M: ¿Wütremu trüfonkey <!1trüfonki> che <*SPA>no?
+C: ¿Con el frío se tose la persona no?
+
+nmlch-lmahr2_x_0173_lmahr_00: 
+M: Wütremu trüfonkey <!1trüfonki>
+C: Con el frío tose mucho.
+
+nmlch-lmahr2_x_0174_nmlch_00: 
+M: Lef kürüftule femngechi trüfonafuy che 
+C: Cuando de repente toma un aire puede toser la persona.
+
+ nmlch-lmahr2_x_0175_lmahr_00: 
+M: <*SPA>Si <*SPA>pues <!1pu'>
+C: Sí pues. 
+
+nmlch-lmahr2_x_0176_nmlch_00: 
+M: Kuyfi ngekenulu kafon ngekenulu kafey tüfey, 
+C: antes como no había, no había también eso,
+
+M: peñi liftuwam chumngechi 
+C: hermano para limpiarse como
+
+M: küchaukefuy longko cheam
+C: lavaban su cabeza la gente.
+
+nmlch-lmahr2_x_0177_lmahr_00: 
+M: <*SPA>Ahí <*SPA>si <*SPA>que <*SPA>no 
+C: Ahí sí que no
+
+M: <Laugh> <P> willeñmu küchaukefuy <*SPA>siempre 
+C: con orina se lavaban siempre
+
+M: <*SPA>pues <!1pu'> willñmu
+C: pues con orina.
+
+nmlch-lmahr2_x_0178_nmlch_00: 
+M: Willeñmu. 
+C: Orina.
+
+nmlch-lmahr2_x_0179_lmahr_00: 
+M: May funan willeñ
+C: Sí, con orina fermentada.
+
+nmlch-lmahr2_x_0180_nmlch_00: 
+M: ¿re funan willeñmu?
+C: ¿ Solo con orina fermentada?
+
+Nmlch-lmahr2_x_0181_lmahr_00: 
+M: re funan willeñmu <*SPA>no <*SPA>que 
+C: Solo con orina fermentada no es que
+
+M: kuyfi ngekelafuy <*SPA>jabón küllay pingefuy 
+C: antes no había jabón quillay se llamaba 
+
+M: kiñe chemnga <*SPA>también feymu 
+C: una cosa pues también con ese
+
+M: küchaukefuy che <*SPA>pues <!1pu'> <P> küllay 
+C: se lavaban la gente pues con quillay
+
+M: <P> <*SPA>ese müley <!1müli> montañameu 
+C: ese había, hay en la montaña
+
+M: <*SPA>también <*SPA>ese küllay 
+C: también ese quillay.
+
+nmlch-lmahr2_x_0182_nmlch_00: 
+M: Küllay.
+C: Quillay.
+
+nmlch-lmahr2_x_0183_lmahr_00: 
+M: Kütrorüngey <!1kütrorüngi> <*SPA>como 
+C: Se refregaba, refregaba como
+
+M: jaboncillo tripakey <!1tripaki> <%> 
+C: jaboncillo salía, salía 
+
+M: <*SPA>ahora re wingka l'awen'tuni 
+C: ahora solo con remedio de los chilenos 
+
+M: küchawal longko<*SPA>pues <!1pu'>
+C: usan para larse el pelo pues
+ 
+nmlch-lmahr2_x_0184_nmlch_00: 
+M: <*SPA>Shampo, <*SPA>jabón 
+C: Champo, jabón.  
+
+nmlch-lmahr2_x_0185_lmahr_00: 
+M: <*SPA>Todo <!1to'> <*SPA>eso% 
+C: Todo eso.
+
+nmlch-lmahr2_x_0186_nmlch_00: 
+M: +/Ye/+ küllay faupüle pekan 
+C: El quillay por acá no en todas 
+
+M: pengelay welu ka
+C: parte se encuentra también.
+
+nmlch-lmahr2_x_0187_lmahr_00: 
+M: <*SPA>No <*SPA>pues <!1pu'>
+C: No pues eso.
+
+nmlch-lmahr2_x_0188_nmlch_00: 
+M: Feyti kiñe mamüll l'awen' müley ka  foye fill 
+C: Ese un palo, remedio también hay canelo de todo 
+
+M: dungumu kompelu pingey <!1pingi> 
+C: cosa que entra dicen
+
+M: feyngepey <!1feyngepi> tüfey
+C: será así.
+
+nmlch-lmahr2_x_0189_lmahr_00: 
+M: <*SPA>No <*SPA>se oye kimlan  
+C: No sé oye, no sé.
+
+
+nmlch-lmahr2_x_0190_nmlch_00: 
+M: ¿Welu Ngillatunmu mülekey <!1müleki> 
+C: ¿Pero en la ceremonia religiosa se encuentra, 
+
+M: foye kam mülekey <!1müleki>  ta datuwünmu? 
+C: canelo también hay en ceremonia curativa? 
+
+nmlch-lmahr2_x_0191_lmahr_00: 
+M: <%> Foye müley <!1müli> <*SPA>pues <!1pu'> 
+C: Canelo se encuentra pues
+
+M: <*SPA>todo <!1to'> fillpüle müley <!1müli> 
+C: todo, en todas parte se encuentra 
+
+M: feychi l'awen' <*SPA>pues <!1pu'> <%> <*SPA>árbol 
+C: ese remedio pues  árbol
+
+M. <*SPA>pues <!1pu'>
+C: pues.
+
+nmlch-lmahr2_x_0192_nmlch_00: 
+M: Foye.
+C: Canelo.
+
+nmlch-lmahr2_x_0193_lmahr_00: 
+M: <*SPA>Sí <*SPA>pues <!1pu'>
+C: Sí pues.
+
+nmlch-lmahr2_x_0194_nmlch_00: 
+M: Fill dungumu konkey <!1konki> pingey <!1pingi> 
+C: En diferentes situaciones entra dicen
+
+M: feyngepelay tüfey  
+C: será cierto eso. 
+nmlch-lmahr2_x_0195_lmahr_00: 
+M: Fill dungumu <*SPA>claro Ngillatunmu <%> 
+C: En diferentes situaciones claro en la ceremonia religiosa
+
+M: datun kutranmu ka mülekey <!1müleki> foye 
+C: ceremonia curativas también entra, esta el canelo.
+
+nmlch-lmahr2_x_0196_nmlch_00: 
+M: Rume falin <uh> mamüll <*SPA>pingey <!1pingi> tati 
+C:  Es muy valioso esa planta dicen. 
+
+nmlch-lmahr2_x_0197_lmahr_00: 
+M: <*SPA>No <*SPA>es <*SPA>como <*SPA>tiene 
+C: No es como tiene
+
+M: <*SPA>que <*SPA>ser <*SPA>pues <!1pu'> 
+C: que ser,  pues
+
+M: <P> fill kutranmu konkey <!1konki>
+C: en diferentes enfermedades entra. 
+
+nmlch-lmahr2_x_0198_nmlch_00: 
+M: Fill kutranmu konkeymay <!1konkimay> 
+C: En diferente enfermedad entra.
+
+nmlch-lmahr2_x_0199_lmahr_00: 
+<uhm> 
+
+nmlch-lmahr2_x_0200_nmlch_00: 
+M: <uh> Feyti ka peñi tamu üytupel nga <uh> 
+C: Ese también hermano lo nombró 
+
+M: ¿chempingeyama? wayo re rapitual kümeyam 
+C: ¿ cómo se llamaba? Hemorragia sólo para vomitar es buena.  
+
+nmlch-lmahr2_x_0201_lmahr_00: 
+M: Rapitual müten <*SPA>pues <!1pu'>
+C: Para vomitar no mas pues.
+
+nmlch-lmahr2_x_0202_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa¡
+
+nmlch-lmahr2_x_0203_lmahr_00: 
+M: Petu tripanolmi tami fiestamu kiñe pichin <!1pitin> 
+C: Antes de salir a la fiesta un poco, poco 
+
+M: kütrorüngekey <!1kütrorüngeki> <P> 
+C: se refriega, 
+
+M: pütokongekey <!1pütokongeki> <%> feytamu, chuchi 
+C: se bebe, hasta aquí donde sea
+
+M: tami küpa elueteu elungelmi wüñowüñongetuy% 
+C:  sí el que te quieren dar, sí te dan vuelve y vuelve.  
+
+nmlch-lmahr2_x_0204_nmlch_00: 
+M: ¿Puulay%?
+C: ¿No alcanza?
+
+nmlch-lmahr2_x_0205_lmahr_00: 
+M: May admitikelay <*SPA>para 
+C: Sí no lo admite para 
+
+M: <*SPA>afuera <!2pa'juera> <*SPA>no <*SPA>más <!1ma'>
+C:  afuera no  más.
+
+nmlch-lmahr2_x_0206_nmlch_00: 
+M: Kümeürkey <!1kümeürki> pütokonmu pichin 
+C: Es bueno, es bueno beberlo un poco.
+
+nmlch-lmahr2_x_0207_lmahr_00: 
+M: <*SPA>No <%> <*SPA>muy, <*SPA>muy 
+C: No, muy, muy
+
+M: <*SPA>bueno <!1guenu> <*SPA>muy 
+C: bueno, bueno muy
+
+M: <*SPA>secreto <!1secretu> tati <P> <*SPA>no 
+C:  secreto eso no
+
+M: <*SPA>es <*SPA>nadie <*SPA>lo <*SPA>sabe 
+C: eso nadie lo sabe
+
+
+M: <P> tripalmi fiestamu elungelmi ilon 
+C: sí sale en la fiesta  sí te dan carne
+
+M: <*SPA>cuestiones <!1cu'tione> <*SPA>daño <!1dañu>
+C: cuestiones  daño
+
+M: <*SPA>malo <!1malu> <P> <*SPA>
+C:  malo 
+
+M: vuelve <*SPA>para <*SPA>afuera <!2pa'juera> 
+C: vuelve para afuera
+
+M: <P> <*SPA>ahí <*SPA>hay <*SPA>que 
+C: ahí hay que
+
+M: <*SPA>darle <*SPA>un <*SPA>botellazo <!1botellazu>
+C: darle un botellazo
+
+M: <*SPA>el <*SPA>huevon  <*SPA>pues <!1pu'> <Laugh>
+C:   él huevon pues.
+ 
+nmlch-lmahr2_x_0208_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa¡
+
+nmlch-lmahr2_x_0209_lmahr_00: 
+M: <*SPA>Claro <*SPA>sale <*SPA>pillado <!1pilla'u>
+C: Claro sale pillado
+
+M: <*SPA>altiro <*SPA>el <*SPA>
+C:  rápidamente él
+
+M: que <*SPA>tiene <*SPA>dado <!1da'u> 
+C: que tiene daño
+
+M: <*SPA>esa <*SPA>cuestion <!1cu'tion> <*SPA>pues <!1pu'>
+C: esa cuestión pues.
+
+nmlch-lmahr2_x_0210_nmlch_00: 
+M: Pürüm <!1pillangeki> pullangekey 
+C: Luego sale pillado, se pilla.
+
+nmlch-lmahr2_x_0211_lmahr_00: 
+M: <*SPA>Claro <*SPA>no <*SPA>que tamu 
+C: Claro no es que aquí
+
+M: ielmu akukey <!1akuki> <*SPA>pues <!1pu'> 
+C: en la hiel llega  pues 
+
+M:<P> <*SPA>hiel ti ielmu <%> <*SPA>ya 
+C: hiel eso en la hiel  ya
+
+M: <*SPA>lo <*SPA>tiene <*SPA>atajado <!1ataja'u> 
+C: lo tiene atajado
+
+M: <%> <*SPA>adentro <!1a'entro> <*SPA>pues <!1pu'>
+C: adentro pues.
+
+nmlch-lmahr2_x_0212_nmlch_00: t
+M: Takuniey <!1takuniy> 
+C: Tapado lo tiene. 
+
+nmlch-lmahr2_x_0213_lmahr_00: 
+M: Takuniey <!1takuniy> <*SPA>pues <!1pu'> 
+C: Tapado pues
+
+M: <*SPA>llegó pichin <*SPA>para <*SPA>afuera <!2pa'juera>
+C: llego un poco para a fuera
+
+M: <*SPA>no <*SPA>más <!1ma'>
+C:  no más, no más.
+
+nmlch-lmahr2_x_0214_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa¡
+
+nmlch-lmahr2_x_0215_lmahr_00: 
+M: <*SPA>Ese <*SPA>es <!1e'>  <*SPA>un 
+C: Ese es un
+
+M: <*SPA>secreto <!1secretu> <*SPA>ese 
+C: secreto  ese
+
+M: <*SPA>pues <!1pu'> <*SPA>muy, <*SPA>muy 
+C: pues eso muy, muy
+
+M: <*SPA>remedio <*SPA>también <*SPA>pues <!1pu'>
+C: remedio también pues.
+
+nmlch-lmahr2_x_0216_nmlch_00: 
+M: Kuyfi müna ngillatukefuy che pingey <!1pingi> 
+C: Antes oraban mucho la gente eso decían
+
+M: lofmeu <Cough> fütrake che feyngepimay peñi 
+C: en la comunidad los ancianos será así eso hermano 
+
+M: feula femwelay pingekey <!1pingeki>
+C: ahora ya no es así dicen.
+
+nmlch-lmahr2_x_0217_lmahr_00: 
+M: Wingkawi che <*SPA>pues <!1pu'>  <P> 
+C: Están muy chilenizados pues 
+
+M: machi ngewelay ka ñami aftuy machi kümeke 
+C: no quedan machi también se a perdido las buenas 
+
+M: machi <*SPA>no <*SPA> 
+C: machi no es que la machi es la que 
+
+M: que machi ngillatufe
+C: hace las grandes rogativas
+
+M: fütrake ngillatufe machi mawelingün ka 
+C: grandes rogativas la machi hacían llover también 
+
+M: kümelkingün feula ngewetulay feychi machi 
+C: lo hacían bien ahora no quedan esas machis
+
+M: <*SPA>pues <!1pu'> 
+C: pues.
+
+nmlch-lmahr2_x_0218_nmlch_00: 
+M: Eymi tüfa <uh> pewekelaymi machi afle 
+C: Usted ahora no ha visto machi se termina
+
+M:machi kiñe wüdam feyta pütrüley <!1pütrüli> 
+C: machi en esta parte habían hartas
+
+M: kutran trafentu, müley <!1müli> 
+C: enfermo por ver visiones sobre natural, 
+
+M: ka, ka padmu
+C: el pasmo también
+
+M: <uh> ilel kom feychi pu kutran niewelayay 
+C: los que le hacían daño todos esos enfermos no tendrán
+
+
+M: l'awen' <*SPA>no? 
+C: remedio no?
+
+nmlch-lmahr2_x_0219_lmahr_00: 
+M: <*SPA>No. 
+C: No.
+
+nmlch-lmahr2_x_0220_nmlch_00: 
+M: Wedakünuay tüfey ka 
+C: Eso va estar malo pues.
+
+nmlch-lmahr2_x_0221_lmahr_00: 
+M: Wedakünuay <P> machike machi ngewelayay 
+C: va estar malo, las machis ya no que darán
+
+M: <*SPA>pues <!1pu'> l'awen' müley <!1müli> 
+C: pues remedios hay
+
+M: <*SPA>pues <!1pu'> machi ngewelay <*SPA>pues <!1pu'>
+C: pues las machis ya no quedan pues
+
+M: kimlu +/kut/+ kimlu kümeke l'awen' 
+C: eso que saben, saben de los buenos remedios
+
+M: <*SPA>pues <!1pu'> <*SPA>ahora müley <!1müli> 
+C: pues eso ahora hay
+
+M: machi <%> püllngo machi <*SPA>pues <!1pu'>
+C: machi .................machi pues.
+
+nmlch-lmahr2_x_0222_nmlch_00: 
+M: Pülgo weyake machi 
+C: ...........machis malas.
+
+nmlch-lmahr2_x_0223_lmahr_00:  
+: <%> Mapu müley <!1müli> <P> <*SPA>ese 
+C: Tierra hay ese
+
+M: <*SPA>que re <*SPA>para <!1pa'> <*SPA>hacer 
+C: quiere para hacer 
+
+M: <*SPA>maldad <!1malda'> kimingün%  kim 
+C: maldad, maldad, eso saben no
+
+M: ngillatuwelay, kim ngillatuwelay rume engün 
+C: saben hacer su rogativa, no saben orar si quiera ellas.
+
+nmlch-lmahr2_x_0224_nmlch_00:
+M:  -/Lef/- <uh><P>  ¿welu kuyfi müna 
+C: Correr, ¿pero antes habían
+
+M: kümeke machi mülekefuy ti deumangekepefuymay?
+C: muy buenas machi eso lo hacía pues?
+nmlch-lmahr2_x_0225_lmahr_00: 
+M: Deumangekefuy machi <*SPA>pues <!1pu'> 
+C: Hacían las machis pues 
+
+M: deuman machi <*SPA>pues <!1pu'>
+C: lo preparaban la machi pues.
+
+nmlch-lmahr2_x_0226_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa¡
+
+M: Deumangekefuy 
+C: Lo hacían.
+
+nmlch-lmahr2_x_0227_lmahr_00: 
+M: <*SPA>Si <*SPA>pues <!1pu'>
+C: Sí pues.
+
+nmlch-lmahr2_x_0228_nmlch_00:
+M:  ¿chumngechi chi ta kimkey <!1kimki> l'awen' 
+C: ¿Cómo es que saben, saben de remedio
+
+M: machi pikeymi <!1pikimi> kay, peñi?
+C: la machi según usted pues hermano?
+
+nmlch-lmahr2_x_0229_lmahr_00: 
+M: <*SPA>Bueno <*SPA>ahí pu longko llemay ta 
+C: Bueno ahí los jefes pues les 
+
+M: enseñakeeyeu <!1enseñakeyu>
+C: enseñaban, le enseñaban.
+
+nmlch-lmahr2_x_0230_nmlch_00:
+M:  Ñi pu longko
+C: Sus jefe.
+
+nmlch-lmahr2_x_0231_lmahr_00: 
+M: <*SPA>Claro 
+C: Claro.
+
+nmlch-lmahr2_x_0232_nmlch_00: 
+M: ¿Femngechi kimkefi kutran 
+C: ¿Así es como conoce de la enfermedad y 
+
+M: ka femngechi kimkefi l'awen'?
+C: así también conoce de los remedios?
+nmlch-lmahr2_x_0233_lmahr_00:
+M:  <*SPA>Claro pu longko tunieyu fey, fey 
+C: Claro con los jefes tienen vinculo ellos les
+
+M: enseñanieyu <*SPA>pues <!1pu'> peumamu 
+C: enseña pues a través de los sueños
+
+M: kütu kimkey <!1kimki> machi  
+C: también aprende, sabe la machi.
+
+nmlch-lmahr2_x_0234_nmlch_00: 
+M: Pewütukefi pingey <!1pingi> ka 
+C: Le realiza un diagnostico así se llama.
+
+nmlch-lmahr2_x_0235_lmahr_00: 
+M: Peutukefi likanmu likanmay ta küdaukey <!1küdauki>
+C: Le realiza un diagnostico con la piedra, con eso trabaja.
+
+nmlch-lmahr2_x_0236_nmlch_00: 
+M: <uhm> <P> <uh><P>  Fey llemay fey pengelpukenulu 
+C: Eso es pues, eso que no se revela
+
+M: kutran che kay kimngekey <!1kimngeki> 
+C: las personas enferma se reconoce se reconoce
+
+M: wüla üyüu <*SPA>pues <!1pu'>
+C: recién allá  pues.
+
+nmlch-lmahr2_x_0237_lmahr_00: 
+M: Kimngekey <!1kingeki> <*SPA>pues <!1pu'> <%> 
+C: Se reconoce, se conoce pues
+
+M: mongelchekey <!1mongelcheki> mongel chi ta 
+C: mejora a las personas, sana a las personas
+
+M: kutran ta machi <P> re femngechi wül'kelay l'awen' 
+C: enferma la machi así no más no da remedio
+
+M: müley ñi peumatual femgenchi  
+C: debe de realizarse un diagnostico así. 
+
+
+nmlch-lmahr2_x_0238_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa¡
+
+nmlch-lmahr2_x_0239_lmahr_00: 
+M: Peumatukey <!1peumatuki> ñi kutran chem kutran
+C: Sueña de su enfermo, que enfermedad 
+
+M:  niele feychi kutran fey feychi l'awen' 
+C: pueda tener ese enfermo, ese remedio
+
+M: witrangekey <!1witrangeki> <P> 
+C: se le receta, se le prepara
+
+M: <*SPA>cualquier l'awen' elungekelay rume <*SPA>pues <!1pu'> 
+C: cualquier remedio no se le da pues.
+
+nmlch-lmahr2_x_0240_nmlch_00: 
+M: Müley <!1müli> ñi peumatual wüne
+C: Debe de soñar primero.
+
+nmlch-lmahr2_x_0241_lmahr_00: 
+M: Peumatual wüne 
+C: Debe de soñar primero.
+
+nmlch-lmahr2_x_0242_nmlch_00: 
+M: Re femgenchi wülkelay l'awen' ka machi wüne 
+C: Así no más no da remedio la machi primero 
+
+M: ngillatukünukey <!1ngillatukünuki>
+C: hace su rogativa, rogativa
+
+M:  fey wüla elukefi pingey <!1pingi>
+C: ahí recién le receta dicen.
+
+nmlch-lmahr2_x_0243_lmahr_00: 
+M: <*SPA>Si <*SPA>pues <!1pu'> müley 
+C: Sí pues debe
+
+M: <!1müli> ñi ngillatual <*SPA>pues <!1pu'> 
+C: debe de hacer su rogativa pues
+
+M: chalintukukefi Chau Diomu <*SPA>pues <!1pu'>
+C: le agradece al padre Dios pues.
+
+nmlch-lmahr2_x_0244_nmlch_00: 
+M: ¿Aa?
+C: ¿Aa?
+
+nmlch-lmahr2_x_0245_lmahr_00: 
+M: Chalintukukefi Chau Diomu 
+C: Le agradece al Padre Dios.
+
+nmlch-lmahr2_x_0246_nmlch_00: 
+M: Ti chi kutran ka chi l'awen' 
+C: Al enfermo también por el remedio.
+
+nmlch-lmahr2_x_0247_lmahr_00: 
+M: May. 
+C: Sí.
+
+nmlch-lmahr2_x_0248_nmlch_00: 
+M: Feymu penu rume newenngekey 
+C: Por creo que tenían mucha fuerza
+
+M: <!1newenngeki> l'awen' tüfey   
+C: tenían fuerza ese remedio.
+
+nmlch-lmahr2_x_0249_lmahr_00: 
+M: +/Newen/+ newenngekey <!1newenngeki> l'awen' 
+C: Fuerza tiene el remedio
+
+M: <*SPA>pues <!1pu'>
+C: pues.
+
+nmlch-lmahr2_x_0250_nmlch_00: 
+M: ¿Eymi kimpapelaymi kiñeke 
+C: ¿Usted habrá visto algunas 
+
+M: ngillatun kuyfi tüfa peñi?
+C: ceremonias religiosas aquí hermano?
+
+nmlch-lmahr2_x_0251_lmahr_00: 
+M: Kimpafun, welu... welu konwekelan <*SPA>pues <!1pu'> 
+C: Conocí, pero, pero ya no participo pues. 
+
+nmlch-lmahr2_x_0252_nmlch_00: 
+M: Konwekelaymi newe
+C: No participa casi.  
+
+nmlch-lmahr2_x_0253_lmahr_00:
+M: <*SPA>No. 
+C: No.
+
+nmlch-lmahr2_x_0254_nmlch_00: 
+<uhm> 
+
+nmlch-lmahr2_x_0255_lmahr_00: 
+M: Deu rupan dungu llemay 
+C: Ya he pasado por varios asuntos pues
+
+M: ka kutranchewün <%>
+C: y soy una persona enferma.
+
+nmlch-lmahr2_x_0256_nmlch_00: 
+M: Kutranchewimi ka
+C: Eres una persona enfermiza. 
+
+nmlch-lmahr2_x_0257_lmahr_00: 
+M: <*SPA>Síi <*SPA>pues <!1pu'> 
+C: Sí pues. 
+
+nmlch-lmahr2_x_0258_nmlch_00: 
+M: ¿Tunten tripantu deuma kutranchengewimiam% ?
+C: ¿ Hace cuantos años que esta enfermo?
+
+nmlch-lmahr2_x_0259_lmahr_00: 
+M: Doy küla tripantu deuma fey
+C: Hace más de tres año ya.
+
+nmlch-lmahr2_x_0260_nmlch_00: 
+M: ¿Küme kimniepelaymi chumgechi tami tun tami kutran?
+C: ¿ No sabe bies como adquiriste la enfermedad?
+
+nmlch-lmahr2_x_0261_lmahr_00: 
+M: <*SPA>No kimlan <*SPA>de <*SPA>repente
+C: No lo sé de repente
+
+M: müten tueneu chi kutran <P> karfonkefun 
+C: no más me ataco la enfermedad cuando hacia carbón
+
+M: <!1karvonkevun> tueneu chi kutran ta <*SPA>pues <!1pu'> 
+C: hacía carbón, me ataco la enfermedad pues.
+
+nmlch-lmahr2_x_0262_nmlch_00: 
+<uhm> 
+
+nmlch-lmahr2_x_0263_lmahr_00: 
+M: <%> <*SPA>Que nentun <*SPA>una 
+C: Que sacaba una
+
+M: <*SPA>hornada <!1o'na> <*SPA>de <*SPA>carbón 
+C: hornada de carbón
+
+M: <*SPA>yo <*SPA>cuando <%> üyi ñi <*SPA>horno 
+C: yo cuando encendía mi horno
+
+M: feychi feymu tufiñ chi kutran, tueneu chi 
+C: esa ves, ahí pesque la enfermedad, me ataco la
+
+M: +/are ko are/+ are <*SPA>horno ka kürüftun 
+C: calor, el agua caliente, horno también tome el viento
+
+M: <*SPA>pues <!1pu'> <*SPA>un 
+C: pues un
+
+M: <*SPA>pasmo <!1pa'mu> tueneu
+C: pasmo, pasmo me ataco.
+
+nmlch-lmahr2_x_0264_nmlch_00: 
+M: Padmuy tami mollfüñ penu 
+C: Le entro el pasmo a tu sangre creo.
+
+nmlch-lmahr2_x_0265_lmahr_00: 
+M: Padmuy mollfüñ <*SPA>pues <!1pu'> 
+C: Le entro pasmo a la sangre pues.
+
+nmlch-lmahr2_x_0266_nmlch_00: 
+M: ¿Fey awe l'awen'tulaymi, peñi?
+C: ¿Y no le hiciste remedio rápidamente hermano?
+
+nmlch-lmahr2_x_0267_lmahr_00: 
+M: <*SPA>No <*SPA>nunca l'awen'tulan <*SPA>pues <!1pu'>
+C: No, nunca me hice remedio pues.
+
+
+
+nmlch-lmahr2_x_0268_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: Lawen'tulaymi
+C: No se hizo remedio.
+
+nmlch-lmahr2_x_0269_lmahr_00:
+M:  <*SPA>No <*SPA>pues <!1pu'> <*SPA>a 
+C: No pues a
+
+M: <*SPA>última <*SPA>hora fey l'awen'tun 
+C: última hora ahí me hice remedio
+
+M: <*SPA>pastilla fey chumlanu <*SPA>pastilla 
+C: las pastillas no me hicieron nada, pastillas.
+
+nmlch-lmahr2_x_0270_nmlch_00: 
+M: ¿Feychi eymi l'awen'tuñmulmi kintulmi mapuche 
+C: ¿Esa ves usted, sí se hubiese hecho remedio, buscara mapuche
+
+M: l'awen' +/mongelepela/+ küme mongelepelayafuymi?
+C: remedio, estaría bien, estaría viviendo sanamente?
+
+nmlch-lmahr2_x_0271_lmahr_00: 
+M: Machimu konlan ngelay kümeke machi 
+C: No busque donde la machi, no quedan buenas machi
+
+M: <*SPA>pues <!1pu'>
+C: pues.
+
+nmlch-lmahr2_x_0272_nmlch_00: 
+M: ¿Kutran ka rupakey <!1rupaki> pipelaymiama? 
+C: ¿La enfermedad también pasa no sabias eso?
+
+nmlch-lmahr2_x_0273_lmahr_00: 
+M: Kafey rupakey <!1rupaki> kutran <*SPA>pues <!1pu'>
+C: Eso también pasa, sana le enfermedad pues.
+
+nmlch-lmahr2_x_0274_nmlch_00: 
+M: Feley peñi feyta fey fentupuay tayu ngütran 
+C: Eso es hermano esto hasta aquí llegara nuestra conversación 
+
+M: fey mañumnieyu ka al'ü kimnieürkeymi 
+C: por eso te agradezco y sabes mucho
+
+M: <!1kimnieürkimi> kutran ka kimnieürkeymi 
+C: sabes mucho de enfermedad y sabes
+
+M: <!1kimnieürkimi>  l'awen' tati.  
+C: sabes de los remedios, eso.
+
+nmlch-lmahr2_x_0275_lmahr_00: 
+M: Feley peñi. 
+C: Así hermano.
+
+nmlch-lmahr2_x_0276_nmlch_00: 
+M:  Peukayal chaltumay.
+C: Hasta pronto muchas gracias.
+
+nmlch-lmahr2_x_0277_lmahr_00:
+M: Peukayal chaltumay.
+C: Hasta pronto y muchas gracias.
+
+
+  
+

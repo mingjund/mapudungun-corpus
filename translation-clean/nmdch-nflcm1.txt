@@ -1,0 +1,2318 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmdch-nflcm1 
+; Last changes made on 25/04/2001 
+; Transcriber: Maria Elena  
+; Comments:  
+; Traduce: Juan Licanqueo.
+
+nmdch-nflcm1_x_0000_nmdch_00: 
+M: Marimari lamngen, 
+C: Hola hermana, 
+
+M: fey tüfa fey tuwülayu nütram: 
+C: esto es lo que vamos a conversar:
+
+M: wünelumeu ka feypiafuymi üy, 
+C:  primero  dirás tu nombre,
+
+M: ka tami cheu mapu tuwün 
+C:   de dónde provienes
+
+M: ka tunten tripantu nien. 
+C: y cuántos años tienes.
+
+nmdch-nflcm1_x_0001_nflcm_00: 
+M: Femürkeaymay 
+C: Así será: 
+
+M: marimari lamngen,
+C:  hola hermano,
+
+M: fey ñi üy, Laura Kanio Marinao pingen 
+C: mi nombre, Laura Canio Marinao me llamo
+
+M: fey ñi tuwün fey Werkenko
+C: y provengo de Huerquenco
+
+M: Werkenmapumu
+C: en el lugar Huerquen.
+
+nmdch-nflcm1_x_0002_nmdch_00: 
+M: Feula fey tuwülayu nütram, 
+C: Ahora comenzaremos la conversación,
+
+M: fey kutran dungu <hm> 
+C: asuntos de la enfermedad
+
+M: nütramkayayu chemam, 
+C: es lo que conversaremos,
+
+M: nütramkayu tüfa lamngen. 
+C: conversaremos esto hermana.
+
+nmdch-nflcm1_x_0003_nflcm_00:
+M: Feymuam nütramkaalu pilu eymi, 
+C: Usted dirá conversaremos de todo,
+
+M: fey nütrakayayu ka, 
+C: entonces conversaremos pues
+
+M: fey perimontun kutran nütramkayayu.
+C: y  conversaremos de enfermedades de visión sobrenatural.
+
+nmdch-nflcm1_x_0004_nmdch_00: 
+M: ¿Feyti perimontun kutran, 
+C: ¿Esa enfermedad visión sobrenatural,
+
+M: fey eymimi pirimontun kam, 
+C: y tu visión sobrenatural o...
+
+M: kam kangelu tami pu che 
+C: u otras personas de tu familia
+
+M: perimontuy tüfa?
+C: vió visión sobrenatural?
+
+nmdch-nflcm1_x_0005_nflcm_00: 
+M: Ñi kude kuku ñuke tuwünmu 
+C: Mi abuela de parte de mi mamá
+
+M: kuyfingetuy ñi perimontun, 
+C: hace tiempo ya vió visión sobrenatural, 
+
+M: feymay tripalu yemetualu kulliñ <%>
+C: cuando salió a ver los animales  
+
+M: kam mamülltualu chi
+C: o quizas cuando fue a buscar leña 
+
+M: fey perdey ñi kude kuku 
+C: entonces falleció mi abuela viejita 
+
+M: fey perimontuy.
+C: ahí tuvo visión sobrenatural.
+
+nmdch-nflcm1_x_0006_nmdch_00: 
+M: ¿We antü pemay 
+C: ¿Habrá sido temprano
+
+M: kam pu trafia, rangiantü, chem?
+C: en el atardecer, las doce, a qué hora?  
+
+nmdch-nflcm1_x_0007_nflcm_00: 
+M: <*SPA>No, we antü, rangiantü, 
+C: No en la mañana, a mediodía,
+
+M: rangiantüpüle pingeki 
+C: al mediodía se dice
+
+M: piki fey filu peürkey. 
+C: se dice que ahí vió culebra.
+
+nmdch-nflcm1_x_0008_nmdch_00:
+M: ¿Fey amulelupemay mawida, 
+C: ¿Fue cuando iba en la montaña, 
+
+M: inaltu mawida, chumechiam?
+C: a orilla de la montaña, cómo fue?
+
+nmdch-nflcm1_x_0009_nflcm_00: 
+M: Fey rüpümeu piki, 
+C: Fue en el camino dijo, 
+
+M: katrütueneu +/katrütuelumu/+ filu pikey <!1piki> 
+C: me atajó una culebra decía,
+
+M: fey perimontuy, fey femngechi. 
+C: ahí vió visión sobrenatural, así.
+
+nmdch-nflcm1_x_0010_nmdch_00: 
+M: ¿Welu, feychi pey feyti filu 
+C: ¿Pero, esa vez  vió esa culebra
+
+M: chemngiam kelümapungey 
+C: cómo era es de color tierra colorada
+
+M: mawidangey chumngechi 
+C: es montañoso, cómo
+
+M: pichi feyta kom tukulpafun?
+C: eso todo lo dio a conocer?
+
+nmdch-nflcm1_x_0011_nflcm_00: 
+M: +/Kelü/+ kelümapungerki welu, 
+C: Rojo, era de color rojo pero,
+
+M: rüpümeu feymu kidu 
+C: en el camino ahí sola
+
+M: fey katrütueneu, piki. 
+C: me atajó, decía.
+
+nmdch-nflcm1_x_0012_nmdch_00: 
+M: ¿Welu feyti filu we +/reme/+ ...
+C: ¿Pero esa culebra...
+
+M: we femechi mapumu mülerumekelay ka
+C: estaba así en la tierra nueva
+
+M: welu mülepi mawidameu
+C: no paso pero también debe haber
+
+M: kam... kam komu müli... müli?
+C: en la montaña también hay, hay?
+
+nmdch-nflcm1_x_0013_nflcm_00: 
+M: Mülemüle llimay ta mawida
+C: Hay pues en la montaña
+
+M: kiduengün 
+C: ellas solas 
+
+M: fey feychi ina fundu mülekeyngün, 
+C: ahí en la orilla del fundo suelen estar,
+
+M: rukauküleki ina <*SPA>fundo 
+C: parece una casa en la orilla el fundo
+
+M: kidu ñi mapuengün fey ina funduleki
+C: es la tierra de ellas la orilla del fundo
+
+M: fey fentreley mawida rüpü 
+C: hay ahí harto camino en la montaña 
+
+M: fey feypüle tripalayfe.
+C: y  por ahí habrán salido.
+
+nmdch-nflcm1_x_0014_nmdch_00: 
+M: ¿Feychi filu kam chumngey, 
+C: ¿ Y esa culebra y cómo es,
+
+M: chumngechi chem adngeki filu? 
+C: de  qué color es la culebra? 
+
+nmdch-nflcm1_x_0015_nflcm_00:
+M: Fütralongkongi, piki, fey kulliñlongkongey
+C: Tiene una cabeza grande, dicen, como animal
+ 
+M: fey meli n'amü'ntuli, piki, 
+C: tiene cuatros patas, decía,
+
+M: fey ñi adi kelü chodngi, piki,  
+C:  y su costado era de color colorado amarillo, decía,
+
+M: fey ñi küde kuku armuperkelay
+C: así mi abuela
+ 
+M: fey kam llükay chi 
+C:  
+
+M: fey ñi llellipuafiel kam kulliafel chi
+C: llellipun o también haría llellipun
+
+M: fey ñi chemnuateu fey. 
+C: para que no le ocurra nada.
+
+nmdch-nflcm1_x_0016_nflcm_00: 
+M: Tañi...
+C: Para...
+
+nmdch-nflcm1_x_0017_nmdch_00: 
+M: Tañi üñfitunuateu. 
+C: Para que no lo perjudicara.
+
+nmdch-nflcm1_x_0018_nflcm_00: 
+M: Üñfitunuateu may 
+C: Para que no lo perjudicara pues
+
+M: fey femlay kude kuku 
+C: y no le pasó nada a la vieja abuela
+
+M: fey feymu penu femeyu, pikeyu. 
+C: y por eso creo le dijeron, decía.
+
+nmdch-nflcm1_x_0019_nmdch_00: 
+M: ¿Fey püñeñmu +/nu/+ nügi ni kutran?
+C: ¿Cuándo tuvo hijos le dio la enfermedad?
+
+nmdch-nflcm1_x_0020_nflcm_00: 
+M: Püñeñmu, feychi fey niepüñeñküley <!1niepüñeñküli>
+C: Cuando tuvo hijo ahí tuvo hijo
+
+M: fey petu wecheleluam feyta engakañi ñi püñeñ
+C:  ahí todavía estaba joven no por eso
+
+M: choyüy fey engkañi 
+C:  ..........................
+
+nmdch-nflcm1_x_0021_nmdch_00:
+M: ¿Chumngeyam ñi püñeñ?
+C: ¿Qué le pasó a su hijo?
+
+nmdch-nflcm1_x_0022_nflcm_00: 
+M:<uhm> N'amunmu norngelay, 
+C: No tiene derechos los pies,
+
+M: ni n'amun <uhm> küme trekalay, 
+C:  con sus pies no puede caminar bien,
+
+M: ka ñi ad ka ñi dungun, 
+C:  también su cara y su hablar,
+
+M: ka küme dungulay 
+C: y no puede hablar bien
+
+M: fey tremlay ka doy pichi, 
+C: él no creció y es más chico,
+
+M: fey feymu penu ñi 
+C: y por eso debe ser por su
+
+M: perimontunmu penuanfe, pikefi. 
+C: visión sobre natural debe ser, dice.
+
+nmdch-nflcm1_x_0023_nmdch_00: 
+M: ¿Fey niey kutran kay feyti? 
+C: ¿Y ese tiene enfermedad ese? 
+
+M: feyti pichiche tremlu choyüngelu 
+C: ese niño cuando creció el que lo parieron
+
+M: ka n'amun wedalkali 
+C: también sus pies estaban mal 
+
+M: welu ¿kutrankikay?.
+C: pero ¿le dolía eso?.
+
+nmdch-nflcm1_x_0024_nflcm_00: 
+M: Femkelay kutrankelay femkelay, 
+C: No le dolía  no le pasaba eso,    
+
+M: fey norngenun müten 
+C: él era niño no más 
+
+M: ka ñi ad, tañi dungun 
+C: también su cara, su hablar
+
+M: fey müten ta engkañngey <!1engkañngi> 
+C: eso no más es lo que hacía.
+
+nmdch-nflcm1_x_0025_nmdch_00:
+M: ¿Chumngechiam <!1chumuechiam> chem dungungeki, 
+C:  ¿Cómo y que es lo que le hablaban,
+
+M: chumngechi dunguki?
+C:  cómo se le hablaba?
+
+nmdch-nflcm1_x_0026_nflcm_00: 
+M: Newe küme rulpanielay 
+C: No se comunicaba bien
+
+M: tañi dungun,  ka ñi trekan ka kümelkalay
+C: su conversación su caminar
+
+M: fey nortrekalay fey engkañgey. 
+C: y no hacía bien y no caminaba derecho por defecto.
+
+nmdch-nflcm1_x_0027_nmdch_00: 
+M: Welu fey <P> fey tüfachi engkañngechi punen,
+C: Pero ese ahora saco 
+
+M: koñi,
+C: parió,
+
+M: ¿fey l'awen'tungelay ka?
+C: ¿y no le hicieron remedio?
+
+nmdch-nflcm1_x_0028_nflcm_00:  
+M: L'awen'tungelay <*SPA>pues <!1pu'> fey. 
+C: No le hicieron remedio a ese.
+
+nmdch-nflcm1_x_0029_nmdch_00: 
+M: ¿Kom yengi machimu 
+C: ¿Y todo lo llevaron a la machi
+
+M: fey yengey cheu rume 
+C: lo llevaron a cualquier parte
+
+M: kam kañpüle yengey l'awen'tuafel 
+C: otra parte lo llevaron para hacerle remedio
+
+M: ñi küme trekayal 
+C: para que camine bien
+
+M: küme dungun nial?
+C: para hablar bien?
+
+nmdch-nflcm1_x_0030_nflcm_00: 
+M:Yengekapelafuy welu engkañngechi
+C: Lo llevaron creo pero tiene dedecto
+
+M: chem femngechi üy niekenulu l'awen'
+C: y como  esos asuntos 
+
+M: fey ñi norümngetuafel fey kom llemay 
+C: ese zorro iba a ser todo pues
+
+M: fey femngelay tushpu 
+C: y no le hiceron nada eso,
+
+M: fey femngechi tremi 
+C: así fue creciendo
+
+M: welu kutranchengelay 
+C: pero no es persona enfermiza
+
+M: fey ñi perimontun kütu penu 
+C: y su perimontun ese que vio.
+
+M: chem... chem... chemnieyu pingekey, 
+C: que, que que tenemos se decía, 
+
+M: kutranchengelay. 
+C: no es enfermiza.
+
+nmdch-nflcm1_x_0034_nmdch_00: 
+M: Fey deu kimluengün kimlu, 
+C: Y cuando ya ellos sabían  
+
+M: kimngelu ñi perimontunkutran nien
+C: supieron que había visto visión sobre natural 
+
+M: fey... fey amulay feychi cheu ñi mülen
+C: tiene enfermedad y ahí no fue ese donde estará
+
+M: feychi filu kullingelay, 
+C: esa culebra no le pagaron,
+
+M: +/chum/+ ngillatuñmangelay <P> deu  +/choynü neu/+
+C: no le hicieron guillatun 
+
+M: deu ñi choyüngen 
+C: 
+
+nmdch-nflcm1_x_0032_nflcm_00: 
+M: Femlay <*SPA>pu' femlay fey feymu llemay 
+C:  No lo hizo pues y por eso que
+
+M: feychi pichiche engkañi ka, 
+C: ese niño tuvo defecto pues,
+
+M: ñi kude kuku kutrankoni <*SPA>pues <!1pu'>, 
+C:  mi abuela se llegó a enfermar pues,
+
+M: kutrankoni fey kiñe tripatun 
+C: se enfermó durante un año
+
+M: doy kudeluam fey kutrankülerupuy
+C: más se envejeció y la enfermedad decía 
+
+M: fey adeyu ka chi filupe may.
+C:  y también le afectó la culebra creo.
+
+nmdch-nflcm1_x_0033_nmdch_00: 
+M: ¿Chem kutranam <hm> piki? 
+C: ¿Qué enfermedad decía?
+
+nmdch-nflcm1_x_0034_nflcm_00: 
+M: Kutranchewi fey rupaley chi tripantumu
+C: Era enfermiza y pasando el tiempo
+
+M: fey pichiwi pingeki 
+C: y se convirtió en guagua 
+
+M: piki ñi ñuke, 
+C: decía mi mamá,
+ 
+M: ñi chau
+C: mi papá
+
+M: nütramkaki fey perdealu fey. 
+C: conversaba cuando iba a morir ese.
+
+nmdch-nflcm1_x_0035_nmdch_00: 
+M: ¿Chumechi pichiwi, chumechi?
+C: ¿Cómo era chico, cómo?
+
+nmdch-nflcm1_x_0036_nflcm_00: 
+M: Pichiwi, 
+C: Se achicó, 
+
+M: trükowi pingi ñi n'amun
+C: se encogieron  sus pies
+
+M: fey küwü, 
+C: y sus manos, 
+
+M: kom fey <*SPA>deforme piki ta wingka,
+C: todo se deformó decía el huinca,
+
+M: femngechi fey llemay, 
+C: así es así claro,
+
+M: kutrankawi kutranki, pingi, 
+C: se enfermo se enfermaba, decía,
+
+M: ngümaki kutranki ñi <*SPA>cuerpo, 
+C: lloraba por dolor de su cuerpo, 
+
+M: n'amun fey ñi lipang 
+C: y sus pies sus brazos 
+
+M: kom fey trükowü ñi kurpu reke, pingi. 
+C: todo se le encogió como su cuerpo, decía. 
+
+nmdch-nflcm1_x_0037_nmdch_00: 
+M: Filu reke famechi.
+C: Como la culebra.
+
+nmdch-nflcm1_x_0038_nflcm_00: 
+M: Filu reke llemay. 
+C: Como culebra claro.
+
+nmdch-nflcm1_x_0039_nmdch_00: 
+M: Fey tukungeki machimukay 
+C: Y le pusieron   machi pues
+
+M: l'awen'tungeki.  
+C: le hicieron remedio.
+
+nmdch-nflcm1_x_0040_nflcm_00: 
+M: Afkentu tukungefuy machi, 
+C: Durante varios tiempos lo pusieron en la machi, 
+
+M: welu pelay l'awen' <*SPA>pues <!1pu'>
+C: pero no encotró remedio pues
+
+M: fütra, fütra perimontuürki, pingeürki machimu, 
+C: en un viento grande se escaparon, dijeron, en la machi
+
+M: fey ka femngechi llemay
+C:  y así también
+
+M: llellipuürkelay
+C:  y no le pagó,
+ 
+M: fey kulliürkelay femürkeafulu 
+C: 
+
+M: fey ñi kude kuku femlay. 
+C: mi abuela no lo hizo.
+
+nmdch-nflcm1_x_0041_nmdch_00: 
+M: Fey may nütramkapelay kam... kam 
+C: Eso es lo que voy a conversar pues
+
+M: ¿feyentumangelay ñi dungu?
+C: ¿no le creyeron su palabra?
+
+nmdch-nflcm1_x_0042 _nflcm_00:
+M: Nütramkakapelafuy fey ñi 
+C: Había conversado y no le
+
+M: feyentungelay ka, kam femay pingelay chi, 
+C: creyeron porque podía hacer lo mismo, 
+
+M: femechi adkakaayu pingelay <*SPA>pues <!1pu'>
+C: no lo dejaron y así lo atacó  
+
+M: fey duamkününgelay. 
+C: no lo dejaron pues y no lo consideraron.
+
+nmdch-nflcm1_x_0046_nmdch_00: 
+M: ¿Feychi kimelumeu fey perimontun 
+C: ¿Cuándo me dijeron del perimontun
+
+M: ngerki pingi fey kay chem, 
+C: tiene le dijeron y también que 
+
+M: ¿chem pituy chi che fey 
+C: que dijo la gente eso
+
+M: chempituyngün tañi 
+C: que dijeron  mi
+
+M: pu tañi pu reñma? 
+C: tus familiares ?
+
+nmdch-nflcm1_x_0047_nflcm_00: 
+M: Pu reñma fey deu yengenulu kay 
+C: Tus familiares cuando no lo llevaron   
+
+M: fey pürüm l'awen'tungele, 
+C:  le hubiesen hecho remedio a tiempo,
+
+M: fey fenkayngelayfuy chi may 
+C: quizás no tendría ese defecto 
+
+M: ñi püñeñ ka kidu 
+C: mi hijo y él
+
+M: kutran che ngelafuy chi may 
+C: quizás no sería enfermizo
+
+M: fey femnulu am fey kutran chewi 
+C: y como no lo hizo se puso enfermizo
+
+M: kidu fey ka enkañi ñi 
+C: él  también tiene defectos  
+
+M: <%>ngekafuy ka welu 
+C:  habría pero
+
+M: peweketulay l'awen.' 
+C: no encontró remedio.
+
+nmdch-nflcm1_x_0048_nmdch_00: 
+M: ¿Welu, feyti machi fey, 
+C: ¿Pero, esa machi esa,
+
+M: fey leeyuluy welu, fey, fey, elayu l'awen
+C: le adivino pero ella, ella, no le dio remedio
+
+M: kümelkalayu l'awen'?
+C: no le hizo bien el remedio?
+
+nmdch-nflcm1_x_0049_nflcm_00: 
+M: Elungekafuy l'awen' 
+C: Le habían dado remedio
+
+M: fey kümelkalayu l'awen',
+C: y no le hizo bien el remedio,
+ 
+M: feyam tushpu chumnuluam 
+C: como nada le hizo bien 
+
+M: kidu kullilay tushpu<%>,
+C: él no pagó nada,
+
+M: fey kulpay pu femngeci perimontuy, 
+C: ahí cometió error pues así hizo perimontun, 
+
+M: che müley ñi llellipual pingiki 
+C: las personas deben hacer llellipun se dice
+
+M: fey newen mapuam feyti kullin 
+C: y para tener fuerza de la tierra ese animal
+
+M: pengi filu chemu <%>
+C: se dice la culebra en 
+
+M: fey mapu newen pingiki 
+C: la fuerza de la tierra se le llama
+
+M: femngechi llellipuley che, 
+C:  así las personas hacen llellipun,
+
+M: fey atakey, ataketueyu pingeki.
+C: y desmayaba, se desmayaba sé decía. 
+
+nmdch-nflcm1_x_0050_nflcm_00: 
+M: Infitueyu ka. 
+C: Lo castigó también.
+
+nmdch-nflcm1_x_0051_nmdch_00: 
+M: ¿Fey -/fan/- tuntentu 
+C: ¿Y cuántos
+
+M:  tripantumu müli ta feyti ta?
+C: años debió estar eso ahí?
+
+nmdch-nflcm1_x_0052_nflcm_00: 
+M: Fey ñi kude kuku.% 
+C: Ella mi abuela. 
+
+nmdch-nflcm1_x_0053_nmdch_00: 
+M: May. 
+C: Sí.
+
+M: Tami kude kuku 
+C:  Tu abuela
+
+M:¿petu mongelam feyti weche kay, 
+C: ¿todavía esta vivo ese joven, 
+
+M: tremlu petu mongeli tüfa?
+C: creció todavía está vivo?
+
+nmdch-nflcm1_x_0054_nflcm_00: 
+M: Mongeley, mongeley, 
+C: Está vivo, está vivo, 
+
+M: wariamu müley, 
+C:  en la ciudad está,
+ 
+M: fey fütangekefuy fey ka
+C: él estaba casado y también
+
+M: niey püñeñ ka femngechi 
+C: tiene hijos y también así
+
+M: enkañi püñeñ. 
+C: tiene defecto su hijo.
+
+lcm1_x_0055_nflcm_00nmdch_00: 
+M: Waria mülelu. 
+C: Cuando está en la ciudad.
+
+nmdch-nflcm1_x_0056_nflcm_00: 
+M: Wariamu müley, 
+C: Está en la ciudad, 
+
+M: wariamu müley fey enkañi,
+C: está en la ciudad y tiene defecto,
+
+M: feyti ataki piki ta wingka, 
+C: ese desmayo dice el huinca,
+
+M: femki, 
+C: así hace,
+ 
+M: pütrükentu l'aki chi weche.
+C: se desmaya un buen rato el joven.
+
+lcm1_x_0058_nflcm_00nmdch_00: 
+M: L'al'a l'al'atu. 
+C: Se desmaya.
+
+nmdch-nflcm1_x_0059_nflcm_00: 
+M: L'al'atuki may l'al'atuy pingi 
+C: Se desmaya claro muere dicen
+
+M: fey witray witraypüramngetuy 
+C: y se levanta lo levantan
+
+M: fey müleketuy, 
+C: ahí sabe estar, 
+
+M: welu kidu trekakelay pu',
+C: pero el no camina solo pues,
+
+M: fütra wechey tüfa, 
+C:  un joven grande está,
+ 
+M: fütra che,
+C: es grande,
+
+M: fey kutranngekechi llemay miauwülkeyu, 
+C: claro que  anda  con dolor, 
+
+M: ñi ñuke <*SPA>porque 
+C:  su madre lo lleva
+
+M: kiduam trekakakenulu
+C: solo no camina
+
+M: fey ñi dungulka ka niey fey yewe 
+C: y  le están conversando y le da vergüenza 
+
+M: penuanfe ka femechi trekay <%> 
+C: por cierto y así camina.
+
+nmdch-nflcm1_x_0060_nmdch_00: 
+M: Feyti weche <uhm> üllcha domo 
+C: Ese joven esa mujer joven 
+
+M: enkañalu fey wariamu 
+C: que no tiene defecto en ciudad
+
+M: ¿chumechiam puwi wariamu?
+C:  ¿cómo llegó a la ciudad?
+
+nmdch-nflcm1_x_0061_nflcm_00: 
+M: Wariamu puwi fey ñi ñukeyem 
+C: Llegó a la ciudad por su finada madre
+
+M: fey yeyu wariamu kidulewelu, 
+C:  ella lo llevó a la ciudad cuando quedó sola,
+
+M: fey kude perdelu fey kidulewi, 
+C: y la anciana falleció ahí quedo solo, 
+
+M: fey wariamu fey ñi ñuke 
+C: en la ciudad su madre
+
+M: fey kiñe señoramu kiduley, 
+C: y con una señora están solos,
+
+M: chi señoramu elmengi 
+C: donde la señora lo dejaron
+
+M: feymu mülepuki. 
+C: ahí sabe estar.
+
+
+nmdch-nflcm1_x_0062_nmdch_00: 
+M: Feyti kude señora kidulechi kude señora 
+C: Esa señora anciana estaba sola la señora
+
+M: fey chumechi fey ñi reñma.      
+C: y como en su familia.
+
+nmdch-nflcm1_x_0063_nflcm_00: 
+M: No, reñma no, 
+C: No, familia no, 
+
+M: fey ñi kompañafel, 
+C: ello debió acompañarlo, 
+
+M: chi señora kompañ. 
+C: la señora lo acompaña.
+
+nmdch-nflcm1_x_0064_nmdch_00: 
+M: Afkadial. 
+C: Al lado de ella.
+
+nmdch-nflcm1_x_0065_nflcm_00: 
+M: Afkadial.
+C: Al lado.
+
+nmdch-nflcm1_x_0066_nmdch_00: 
+M: Küdautupuyen.
+C: Para trabajar.
+
+nmdch-nflcm1_x_0067_nflcm_00: 
+M: Küdautuy, küdawtuy pichiken 
+C: Trabaja, trabaja poco a poco
+
+M: küdawtuki fenden ni 
+C: trabaja vende así
+
+M: llemay fey femechi. 
+C: claro y así.
+
+nmdch-nflcm1_x_0068_nmdch_00: 
+M: ¿Chem küdaumu konki?
+C: ¿Qué trabajo realiza?
+
+nmdch-nflcm1_x_0069_nflcm_00: 
+M: Rukamu küdauki 
+C: En la casa trabaja
+
+M: fey pichiki küdaw pepilowi 
+C: trabaja de a poco aprendió
+
+M: fey femki yealnge, lepünmeu 
+C:  ese ase  de comer, para barrer 
+
+M: kom ruka küdawka femngechi. 
+C: todos los trabajo de la casa así. 
+
+_x_0071_nflcm_00066_nmdch_00: 
+M: ¿Femechi fey fütangepuy?
+C: ¿Así fue como se casó?
+
+nmdch-nflcm1_x_0072_nflcm_00: 
+M: Fütangepuy fey amutuy ta, 
+C: Se casó y ahí se fue, 
+
+M: perdeychi ñi mülenmu
+C: quizá murió donde estaba 
+
+M: <%> fey kampüle amuy fey fütangefuy 
+C: a otra parte se fue y ahí se casó
+
+M: fey,fey ngepüñeñ külelu 
+C:  y, ya estaba embarazada
+
+M: fey depue' chillüi 
+C: y después por allá
+
+M: fey ka femngechi <%>.     
+C: y también así.
+
+nmdch-nflcm1_x_0073_nmdch_00: 
+M: ¿Fey, fey anta l'al'atuki?
+C: ¿Es el que se desmaya?
+
+
+nmdch-nflcm1_x_0074_nflcm_00: 
+M: Feyta l'al'atuki fey l'al'atuki fey. 
+C: Este se desmayaba se desmayaba ese.
+
+nmdch-nflcm1_x_0075_nmdch_00: 
+M: ¿Fey chewam fill tukungekelay 
+C: ¿Y donde no lo colocaban
+
+M: chem ñi l'awen'tual -/kim/- 
+C: qué remedio debía usar sabe 
+
+M: kimni ñi chumngen kay?
+C: sabe lo que hace?
+
+nmdch-nflcm1_x_0076_nflcm_00: 
+M: Kimni llemay, 
+C: Sabe claro,
+ 
+M: kidu kimni chumngen,
+C: ella sabe como es,
+
+M: welu wariamu mülelu
+C: pero  estando en la ciudad 
+
+M: ka plata ngelay ka 
+C: y  no hay plata tampoco
+
+M: fey tukulafi <uhm> machimu 
+C:  ella  no lo colocó en la machi
+
+M: mapu l'awen'tuafel chi -/fem/- 
+C:  acaso hubiese querido remedio mapuche 
+
+M: femlay tushpu fey tüfa, 
+C: no hizo nada ésta,
+
+
+M: fey wariamu müleymu, 
+C: por eso  están en  la ciudad,
+
+M: mür kutrankawün llemay niefin. 
+C: los dos sufrieron para tenerlo.
+
+nmdch-nflcm1_x_0077_nmdch_00: 
+M: Welu ¿yengekelay wariameu pitalmeu?
+C: Pero ¿no llevan al hospital de la ciudad?
+
+nmdch-nflcm1_x_0078_nflcm_00: 
+M: Kiñekemu müten yengeki ta, 
+C: Algunas veces no más lo llevan,
+
+M: feyti atakeyem fey feyta yengeki, 
+C: cuando se desmaya ahí lo llevan,
+
+M: fey l'al'atuy aluntu l'al'atuy 
+C: éste se desmaya un buen rato
+
+M: fey yengeki pitalmu, 
+C: ahí lo llevan al hospital,
+
+M: welu  re feyti mediku pitalmu, piki, 
+C: pero solo ese médico del hospital, dice,
+
+M: ta wingka feymu müten llemay 
+C:  el huinca ahí no más claro
+
+M: wariamu amuleluengü.
+C: cuando fueron a la ciudad.
+
+nmdch-nflcm1_x_0079_nmdch_00: 
+M: Welu ¿chem, chem kutranam niey pingekey fey?
+C: Pero ¿qué, qué enfermedad tiene dicen ellos?
+
+nmdch-nflcm1_x_0080_nflcm_00: 
+M: Feyti atake pingekey, 
+C: El desmayo se dice,
+
+M: fey epilepsia piki ta wingka doctor,
+C: es epilepsia dice el doctor huinca, 
+
+M: ta feychi kutran niey pingeki
+C: esa enfermedad tiene se dice   
+
+M:. wingkaam kimnulu 
+C:  como él huinca no conoce
+
+M: feyti perimontun kutran, 
+C:  esa enfermedad por visión sobre natural,
+
+M: fey femechi ka kimlay pu' feychi kutran,
+C:  él no  conoce tampoco pues esa enfermedad,
+
+M: mapuche kutran; 
+C: enfermedad mapuche; 
+
+M: pu mapu mülechi newen atakey che 
+C: la fuerza que está en la tierra desmaya a la gente 
+
+M: fey femuechi kutrankey 
+C: y así se enferma 
+
+M: fey llemay wingka kimlay pu. 
+C: y eso él huinca no lo sabe pues.
+
+nmdch-nflcm1_x_0081_nmdch_00: 
+M: ¿Welu?
+C: ¿Pero?
+
+M: <Throat> eymün tami, tami chau 
+C:     y sus padres     
+
+M: ka tami pu wentru lamuen 
+C: y tus hermanos  hombres 
+
+M: unen wentru lamuen müli 
+C: el hermano mayor esta
+
+M: fey kallulafimün eymün 
+C: y no le ayudaron ustedes
+
+M: fey niele plata pipiminga 
+C: y si tiene plata dijiste
+
+M: feyti che mülepulu wariamew 
+C: esa persona que esta en la ciudad
+
+M: fey eymün fey kelluntukuleymün 
+C: y ustedes ahí no lo ayudaron 
+
+M: chem nütrakalaymün?
+C: no conversaron?
+
+nmdch-nflcm1_x_0082_nflcm_00: 
+M: Doy femlaiñ ka kamapu mülelu ka
+C: no los pasó mas eso y en otro lugar está
+
+M: <%> kidu ka wariamu kompuluam 
+C: ella también como entra a la  ciudad
+
+M: fey fey dunguntukelay rekeka 
+C: y esa no le habló casi
+
+M: fey femkünüfiñ fey tüfa 
+C: y la dejamos así a ésta 
+
+M: fey feley mapu l'awen' tuley,
+C: así está bebiendo remedio mapuche, 
+
+M: chi kam yengele machimu 
+C:  y si la llevaran a la machi
+
+M: chi fey ka tremokafuy chi may, 
+C: y quizás se habría mejorado claro,
+
+M: pikeiñ nütramkaketuiñ, 
+C: decimos cuando conversamos,
+
+M: welu yelafiñ tushpu. 
+C: pero no la llevamos nunca.
+
+nmdch-nflcm1_x_0083_nflcm_00: 
+M: Füta cheluam 
+C: Como se enfermó grave 
+
+M: ka fey newenngelay ñi n'amü'nmu
+C: y él no tenía fuerza en sus pies
+
+M: tushpu trekayafel, 
+C: nada caminaría,  
+
+M: femlay ta witranchengi 
+C: no lo hace es persona alta
+
+M: motrinchengi
+C: era una persona gorda
+
+M: fey doyma miawalfalay pu. 
+C: y  no se podía andar trayendo pues.
+
+nmdch-nflcm1_x_0084_nmdch_00: 
+M: ¿Feychi perimontun kutran 
+C: ¿De esa enfermedad por visión sobre natural
+
+M: re enkañitun tami kude kukunga? 
+C: solo con defecto qued tu abuela?
+
+M: chemi pipiminga fey.
+C: le pasó eso dijiste.
+
+nmdch-nflcm1_x_0085_nflcm_00: 
+M: Fey trükowey. 
+C:  Y sé encogió.
+
+nmdch-nflcm1_x_0086_nmdch_00: 
+M: Trükowi 
+C: Se encogió
+
+M: ¿Fey, fey chumechiam newen tuki ni 
+C:  ¿Y ahí cómo la le da fuerte su
+
+M: kutran rume rume weshmawki?
+C: enfermedad se pone muy mal?
+
+nmdch-nflcm1_x_0087_nflcm_00: 
+M: Rume weshmauki fey.
+C: Se pone muy mal ella.
+
+nmdch-nflcm1_x_0088_nmdch_00: 
+M: Wedmaukefuyka 
+C: Se ponía muy mal
+
+M: ¿tüfa fantepumeu ta mongengewelay ka?
+C:  ¿hasta aquí ya no estaría viva ya?
+
+nmdch-nflcm1_x_0089_nflcm_00: 
+M: Mongengewelay pu' 
+C:  No estaría viva pues
+
+M: ka fey kuyfi fey trükowike, 
+C: y también ella antes se encogió, 
+
+M: pitiwi,
+C: quedó chica,
+
+M: fey doy kudey doy pichiwi 
+C:  y cuando más envejeció quedó más chica 
+
+M: doy kutrankawi fey trükowlu 
+C:  más sufrió cuando se encogió 
+
+M: reke femi ñi lipang ñi n'amü'nem,
+C:  solo hizo así su brazo sus pies,
+
+M: kom, piki ñi ñuke, 
+C:  todo, decía mi mamá, 
+
+M: feya kuydaniefulu feychi 
+C:  ella como lo cuidaba esas veces
+M: fey pey ñi filu, 
+C:  y ahí vio su culebra,
+ 
+M: perimontunmu anfe
+C: en visión sobre natural debe ser
+
+M: kiñe trükowi fey perdelu 
+C:  una se encogió cuando murió
+
+
+M: fey norümngerki feymu<%>.
+C:  y  la enderezaron ahí. 
+ 
+nmdch-nflcm1_x_0090_nflcm_00: 
+M: Newentuyngün ñi norümafiel 
+C:  Hicieron mucha fuerza para enderezarla
+
+M: ñi troküwi pingiki femechi perdey. 
+C:  cuando se encogió así murió. 
+
+cm1_x_0091_nflcm_00_nmdch_00: 
+M: ¿Fantepumu feychi
+C:  ¿Hasta hoy día eso
+
+M:  <uhm> cheu ñi pengelu feychi filu kay?
+C:  dónde se encontró esa culebra?
+
+M: ¿petu müli chi mapu 
+C:  ¿y todavía habrá en  la tierra 
+
+M: petu kakelu pu reñma 
+C:  todavía las otras familias 
+
+M: pekey pekelay ka fantepumeu?
+C:  verán o no verán hoy en día? 
+
+nmdch-nflcm1_x_0092_nflcm_00: 
+M: Femkelay, 
+C:  No pasa eso,
+
+M: welu müli chi mapu, 
+C:  pero hay en la tierra,
+ 
+M: müley llemay mapu,
+C: claro que  hay en la tierra,
+
+M: müley ka feyti mawidantu, 
+C:  hay también en la montaña, 
+
+M: müley ko,
+C: hay agua,
+
+M: rupakey feytipüle ka müley feyta. 
+C:  pasa por ahí  también hay ésta.
+
+nmdch-nflcm1_x_0093_nmdch_00: 
+M: ¿Trawünngekelay <%>?
+C:  ¿No lo juntan?
+ 
+nmdch-nflcm1_x_0094_nflcm_00: 
+M: Femngekelay, no, 
+C:  No lo hacen, no, 
+
+M: femngekelay,
+C: no lo hacen,
+
+M: fey llikanieyka -/kim/- ,
+C:  le tienen miedo, 
+
+M: kimchiche llikanieyu feyma fey,
+C:  la persona que sabe claro que  le tiene miedo a ésa, 
+ 
+M:<%> infitu che fey 
+C:  la persona que hace daño
+
+M: llikaniengi femngechi. 
+C:  le tienen miedo así. 
+
+nmdch-nflcm1_x_0095_nmdch_00: 
+M: Welu ¿tami chaw kimniey fey?
+C:  Pero ¿tu padre sabe eso?
+
+nmdch-nflcm1_x_0096_nflcm_00: 
+M: Fey kimniey ñi chau 
+C: Eso sabe mi padre
+
+M: kimniey ñi chau, ñi ñuke, 
+C:  sabe mi padre, mi madre,
+
+M: kom kimniey<%>.
+C:  todos saben.
+ 
+nmdch-nflcm1_x_0097_nmdch_00: 
+M: ¿Ta epu lamuentu küdaukülelu?
+C:  ¿Y los  dos hermanos que están trabajando?
+
+nmdch-nflcm1_x_0098_nflcm_00: 
+M: Kimniengün fey.
+C:  Saben ellos eso.
+
+nmdch-nflcm1_x_0099_nmdch_00: 
+M: ¿Fey ngillatunmangeki -/kiñe/-? 
+C:  ¿Y le hacen rogativa?
+
+M: Feyta kampüle allküken nütram inche
+C:  En otra parte yo escucho conversación
+
+M: fey pengey chi feyti perimontun,
+C:  y lo ven esta visión sobre natural,
+
+M: müley chem rume kullin,
+C:  hay cualquier animal,
+
+M:  üñum, filu, 
+C:   pájaro, culebra, 
+
+M: chem rume fey müli, 
+C:  o cualquier cosa eso hay, 
+
+M: tripantu elungeki chem rume 
+C: años se le da cualquier cosa
+
+M: <uhm> l'angümi che 
+C: mata persona
+
+M: chem dungumu rume, 
+C:  en cualquier cosa, 
+
+M: il'okullin inche, 
+C:   yo maté animal, 
+
+M: il'oufida il'oachawall
+C: carne de  oveja carne de pollo  
+
+M: fey elungeki pingi, 
+C:  eso se le da dicen, 
+
+M: ¿fey femki kay?
+C: ¿y lo hacen así?
+
+nmdch-nflcm1_x_0100_nflcm_00: 
+M: Femekelay pu', 
+C: No lo hacen pues, 
+
+M: mollfüñ elungeki, pingeki,
+C: le dan sangre, se dice,
+
+M: allkiken inche fey,
+C:  yo he escuchado eso,
+
+M:  welu femkelay ñi kiñe, kiñe; 
+C:  pero no lo hace y uno, uno;
+
+M:<%>  ñi ñuke perimonturki ka, 
+C:  mi mamá vio visión sobre natural también,
+
+M: welu kidu kimnieluam 
+C: pero como ella sabía
+
+M: fey llellipurki 
+C:  y ella hizo pequeña rogativa 
+
+M: yenpemelka, piki,
+C: llevó hartas cosas, dice,
+
+M: ketran, fillem nieluam, 
+C:  trigo, de todo tenía,
+
+M: fey ka feyti plata ütrüfelfiñ, 
+C:  ahí también le tiró plata, 
+
+M: llellipufiñ, 
+C: le hicimos rogativa,
+ 
+M: fey adkakekerkefi
+C: este le hace maldad
+
+M: infitukeli pifin fey, 
+C:  no me hagas daño le dije así,
+
+M: fey chumlanu, pikey ñi ñuke. 
+C: eso no me hizo nada, decía mi mamá.
+
+nmdch-nflcm1_x_0101_nflcm_00: 
+M: Ka femngechi llemay 
+C:  Es así pues claro
+
+M: femuechi rangiantü reke tripalu, 
+C:  así a las doce más o menos cuando salió, 
+
+M: fey yemetualu ufida koralmunalu 
+C:   pero cuando iba a ir a buscar la oveja al corral
+
+M: fey perki filu welu, 
+C:  y ahí vio culebra,
+
+M: feymu ñi pen ñi kude kukuyem 
+C:  por eso lo que vio mi finada abuela
+
+M: feymu no kampüle, 
+C:  por eso no fue por otra parte, 
+
+M: kampüle,
+C: otra parte,
+
+M: pey kidu ka femuechi fütra filu llemay. 
+C:  vio ella también así una culebra grande claro.
+
+nmdch-nflcm1_x_0102_nmdch_00: 
+M: Welu feychi mapu mütenam 
+C:  Pero solo en esa tierra no más
+
+M: ¿kangelu, kangelu lofmeu?
+C: ¿ y en la otra, en la otra comunidad? 
+
+cm1_x_0103_nmdch_00_nflcm_00: 
+M: Kangelu lofmeu, 
+C:  En la otra comunidad,
+ 
+M: kangelu lofmeu
+C: en la otra comunidad
+
+M: ka femechi filu piki, 
+C:  también así vieron una culebra dicen,
+
+M: welu kiduam kimnielu femi 
+C: pero como ella sabía lo hizo
+
+M: ñi kude ñuke, 
+C: mi anciana madre, 
+
+M: fey pürüm
+C: ella hizo baile
+
+M: ngillaturki ñukeley pirkefi, 
+C:  hizo rogativa es como madre le dijo,
+
+M: fey inche chumlayayu pifin, 
+C:  y yo le dije no te haré nada,
+
+M: pikey ñi ñuke, 
+C: dice mi mamá, 
+
+M: tukulengen fey<%>  pifin,
+C: me colocaron eso le dije,
+
+M: pirki fey llellipurki ñi ñuke, 
+C:   dijo y ahí hizo rogativa a mi mamá,
+
+M: fey yerki füllüm, 
+C:  eso  llevo varias cosas
+
+M: ütrüflerkefi plata
+C: le tiró plata
+
+M: ta dengüllyem, 
+C:  y también porotos, 
+
+M: depue' muday yerki.
+C: después lleva maday.
+
+nmdch-nflcm1_x_0104_nflcm_00: 
+M: Fey ngillatupurki feymu fey chumlayu. 
+C:  Y ahí hizo gillatun ahí no le hizo nada. 
+
+nmdch-nflcm1_x_0105_nmdch_00: 
+M: ¿Fey -/amupi/- kidu amupuyam am
+C:  ¿Ahí fue ella  sola
+ 
+M:<%> adkadi tami chau amuyam kam?
+C:  o acompañada de tu padre?
+
+nmdch-nflcm1_x_0106_nflcm_00: 
+M: Kiduy, 
+C: Sola fue, 
+
+M: kidu yawi
+C: sola andaba
+
+M: fey kiñe ñi lamngen 
+C: y una de mis hermanas
+
+M: fey ufidamu, 
+C:  con las ovejas ,
+ 
+M: kuyda ufidayawürki
+C: cuidando las ovejas andaba
+
+M: fey llemetuafilu rangintü, pingi, 
+C:  y cuando la iba a ir a buscar al mediodía, dicen,
+
+M: koralmu tañi ufida 
+C:  para acorralar sus ovejas
+
+M: fey feymu ta perki, 
+C: ahí fue que lo vio,
+
+M: welu amulelu kidu, 
+C:  pero cuando iba sola, 
+
+M: kidu amulelu.
+C: ella sola.
+
+nmdch-nflcm1_x_0107_nmdch_00: 
+M: Welu feyti yelu mollfüñ llemay 
+C:   Pero cuando llevó la sangre 
+
+M: ka feyti dengüll fill, fill ketran 
+C:  y ese poroto y diferentes tipo de trigo
+
+M: ¿fey kidu amuy am? 
+C:  ¿ella fue sola?
+
+M: ¿afkadngi?
+C: ¿acompañada?
+
+nmdch-nflcm1_x_0108_nflcm_00: 
+M: No, tañi chawengün amuy 
+C:  No, con mi finado padre fue
+
+M: fey mür llellipuymu 
+C: y ellos dos hicieron rogativa pequeña
+
+M: mür llellupuymu fey itrofill
+C:  los dos hicieron rogativa pequeña de todo
+ 
+M:<%> fey femngechi. 
+C:   así es. 
+
+nmdch-nflcm1_x_0109_nmdch_00: 
+M: ¿Chumechi chem pingi 
+C:  ¿Cómo, cómo se llama
+
+M: -/ngillangilla/- llellipunengü? 
+C:  hicieron llellipun?
+
+nmdch-nflcm1_x_0110_nflcm_00: 
+M: Fey tañi fürenien, pifi ka, 
+C:  Así para favorecerme, le dijo también,
+
+M: atakekeli inche chumlayay, 
+C:  si me desmayo no me pasará nada,
+
+M: fey fürenen chumkeli atakeli, 
+C: me ayudarás si me desmayo lo que sea,
+
+M: fey mongeleam fey tripaeluayu;
+C: y para estar vivo y te daré la pasada;
+
+M: deweñ, ketran, plata, muday
+C: dihuen, trigo, plata, muday
+
+M: ütrüfngefi fey femngechi 
+C: le tiraron y así
+
+M: ngillatumerki ñi ñukeengü ñi chau. 
+C: hicieron rogativa mi madre con mi padre.
+
+nmdch-nflcm1_x_0111_nmdch_00: 
+M: ¿Niafinmongefin 
+C: ...............................
+
+M:<%> ñi pu püñeñ ñi
+C: para que mis hijos
+  
+M:<%> ellkañngenual?
+C: no tengan defecto?
+
+nmdch-nflcm1_x_0112_nflcm_00: 
+M: May, may.
+C:  Sí,  sí.
+
+M: Fey kom fey llemay 
+C:  Eso todo eso claro
+
+M: kom ñi pu püñeñ ñi enkañenueal, 
+C:  para que todos mis hijos no tuvieran defecto,
+
+M: ñi kutranchengenual 
+C: para que no sean enfermisos
+
+M: fey llellipuy ñi ñuke 
+C:  ahí hizo rogativa pequeña  mi mamá
+
+M: tañi chawengü ka. 
+C: con mi papá también.
+
+nmdch-nflcm1_x_0113_nmdch_00: 
+M: Ka kullinmu ngillatumaki che pingi, 
+C: También para los animales hicieron rogativa dijeron, 
+
+M: enkangenual ñi kullin 
+C: para que no tuvieran defectos los animales
+
+M:  enkangenual ñi kom niel ka. 
+C:  para que no tenga defecto todo lo que tenga.
+
+nmdch-nflcm1_x_0114_nflcm_00: 
+M: Ya ñi fey llemay kullin, 
+C:  Ya así claro sus animales, 
+M: tañi pichikeche,
+C: mis niños chicos,
+
+M: pichi karuamengün 
+C: poco..........................
+
+M: fey niekay ñi ngenual 
+C:  y tienen su estar
+
+M: ñi kümengenualengün ka ñi kullin, 
+C:  para estar bien todos incluso los animales, 
+
+M: ñi chumnual enkangenual ufida 
+C: para que no tengan defecto las ovejas
+
+M: fillen llemay, 
+C: todos claro, 
+
+M: müli achawall;
+C: hay pollo;
+
+M: feymu akakacheki pingeki 
+C: por eso se desmaya se dice
+
+M: ka femngechi -/perimontunke/-
+C:  y así también 
+
+M: perimontukechi che fey femengechi; 
+C:  el que ve visión sobre natural es así;
+
+M: llellipurke ñi ñuke 
+C: hizo llellipun mi mamá 
+
+M: fey -/fem/- femlay anta atakalayu 
+C:  y esto no le hizo nada, no la atacó
+
+M: fey kümeletuiñ depue' 
+C:  y así estuvimos bien después
+
+M: fey kullin enkangelay, tushpu. 
+C:  y lo animales no tienen defectos, nada.
+
+nmdch-nflcm1_x_0115_nflcm_00: 
+M: Ka achawall chemu rume chemlay, 
+C: Y al pollo no le pasa nada, 
+
+M: infitulay tushpu. 
+C: no les dañó nada.
+
+nmdch-nflcm1_x_0116_nmdch_00: 
+M: Fey pi 
+C: Ahí dijo 
+
+M: ¿feychi chem <uhm> amuki fill tripantuam? 
+C:  ¿ esa cosa va todos los años?
+
+M: fill chem rume chumichi iyael 
+C:  de todo claro cualquier comida
+
+M: che ileltungeki, 
+C:  se le da a la persona,
+ 
+M: pingiki femki,
+C: así hace se dice,
+
+M: ¿femkelafuy tami ñuke?
+C:  ¿no lo hacía tu mamá?
+
+nmdch-nflcm1_x_0117_nflcm_00: 
+M: Femkelafuy, 
+C: No lo hacía,
+
+M: femkelafuy, 
+C: no lo hacía,
+ 
+M: fey kiñe, kiñe rupa müten ngillatumey.
+C:  ella una, una vez no más hizo rogativa. 
+
+nmdch-nflcm1_x_0118_nmdch_00: 
+M: ¿Kiñe rupa müten amuy? 
+C:  ¿Sólo unas vez no más fue?
+
+nmdch-nflcm1_x_0119_nflcm_00: 
+ M:<%> Feyka müten fey tutepelay anfe, 
+C:  Eso no más y le cayó bien creo,
+
+M: fey kimlayu, 
+C:  y no sabía, 
+
+M: ka atakalayu tushpu,
+C: no nada la atacó,
+ 
+M: küme, küme rulpantuletuy. 
+C: bien, bien está pasando.
+
+M: Welu ta femngelay ta: 
+C:  Pero esto no es así:
+ 
+M:<%> llellipungelay,  
+C:  no hicieron rogativa pequeña, 
+ 
+M: kullingelay tushpu,
+C: no le pagaron nada,
+
+M: kuydaymangelay,  
+C:  no lo cuidaron,  
+
+M: feyta atakay
+C: entonces  ataca
+
+M: cheki, pingeki, 
+C: a la persona, se dice, 
+
+M: feyam newen mapu fey eluwün filungen.
+C:  esa fuerza de la tierra y el entierro de culebra.  
+
+nmdch-nflcm1_x_0120_nmdch_00: 
+M: Feyti <uhm> tami ñuke pelu 
+C:  Cuando  tu mamá  vio 
+
+M: feyti tami feyti filu 
+C:  a ésta su  culebra 
+
+M: fey kangelu lof mapu pengey fey -/pi/-, 
+C:  en la otra comunidad la vieron, 
+
+M: pipiminga fey.
+C: dijiste eso.
+
+nmdch-nflcm1_x_0121_nflcm_00: 
+M: May. 
+C:  Sí.
+
+nmdch-nflcm1_x_0122_nmdch_00: 
+M: Feychi che ngenmapungelu kay 
+C:  Esa persona dueño de la  tierra 
+
+M: ¿kimpi may ini ñi mülen 
+C:  ¿sabrá pues que hay 
+
+M: feychi newen feychi feychi adkiñmeu?
+C:  esa fuerza  en esa, ese punto de vista?
+
+1_x_0124_nmdch_0018_nflcm_00: 
+M: Kimyi may 
+C:  Sabe claro 
+
+M: fey tukelu chi mapuam,
+C: él está en la tierra,
+
+M: fey kimi, kimniey llemay; 
+C: él sabe, tiene conocimiento claro;
+
+M: ka femechi llemay 
+C:  claro que así también 
+ 
+M:<%> pingiki kiñe mawidantu müleki, 
+C:  se dice que en la montaña  está,
+
+M: ka wallentu müli, 
+C:  en el hualle también hay,
+
+M: fey feymu müley newen mapu pingiki, 
+C:  ahí hay fuerza de la tierra se dice,
+
+
+M: feyta kuydawtuküleki ta che 
+C:  así las personas deben tener cuidado 
+
+M: femngechi tañi pekankünual, 
+C:  para que así no anden mal,
+
+M: -/pepan/- pekan mamülltunual 
+C:  no buscar leña en cualquier lugar
+
+M: fey ñi moletanual femngechi. 
+C:  para así no molestar. 
+
+nmdch-nflcm1_x_0125_nflcm_00: 
+M: Fey femngechi katrüngey mamüll 
+C:  Y así al cortar leña 
+
+M: permiso pilay che, 
+C:  no pide permiso la gente,
+ 
+M: re katrüy, 
+C: solamente corta, 
+
+M: rosay,
+C: hizo roce,
+
+M: fey adkaka che ki l'angüncheki,
+C: y así lo encuentra a la gente y lo mata,
+
+M:  pingiki ta femngechi newen 
+C:  se dice así de la fuerza
+
+M: müllum mapumu.
+C: ...............en la tierra
+
+lcm1_x_0126_nflcm_00nmdch_00: 
+M: Ka kullin fülpuyem famechi 
+C:  Otros animales se acerca así
+
+M: ñi kullin nge ... 
+C: su animal ...
+
+M: ngekoñiñ küley che <*SPA>osea feyti kullin.
+C:  estando preñada la gente o sea ese animal.
+
+nmdch-nflcm1_x_0127_nflcm_00: 
+M: Kullin. 
+C: Animales.
+
+nmdch-nflcm1_x_0128_nmdch_00: 
+M: ¿Ka famechi enkangiki pingekay 
+C:  ¿Y así también se engaña se dice
+
+M: kullinmeu -/ki/- kimfaluuki kay?
+C: en el animal se puede conocer tambien?
+
+nmdch-nflcm1_x_0129_nflcm_00: 
+M: Femkelay, 
+C: No lo hace, 
+
+M: femkelay fey,
+C: no lo hace ese,
+
+M:<%> pingekeluam fey serangeki 
+C: se decía que éste sé cerró
+
+M: fey kullin newe konkelay 
+C: y los animales no entran mucho
+
+M: ka famechi llikantutungi llemay, 
+C:  y así también lo cuidan claro,
+
+M: koni kullin famechi enkañaki pingeki.
+C: entran los animales así lo engañan se dice.
+
+nmdch-nflcm1_x_0130_nmdch_00: 
+M: ¿Fantepu feyti kampu petu müli?
+C:  ¿Hoy día ese campo existe todavía?
+
+nmdch-nflcm1_x_0131_nflcm_00: 
+M: Müli, müli chi  pichiwike, 
+C:  Hay, hay aunque poco,  
+
+M: fey kuyfi müna ayükefuy 
+C:  y antes se alegraba mucho
+
+M: feyti kilantu müliki, 
+C: en ese quilantal hay,
+
+M: fütrake kilantu karüleki 
+C:  grandes quilantales  verdes
+
+M: müleki fey ka pingiki 
+C: hay y también se dice
+
+M: <*SPA>porque ruka reke müliki, 
+C:  porque está como casa,
+
+M: münchemu adkintuy che 
+C: por debajo mira la gente
+
+M: dumingeki fey ruka reki.
+C: queda oscuro como una casa.
+
+nmdch-nflcm1_x_0132_nmdch_00: 
+M: Ruka, ruka. 
+C: Casa, casa.
+
+nmdch-nflcm1_x_0133_nflcm_00: 
+M: We antü welu<*SPA>pu',
+C:  Pero en el nuevo día pues,
+
+M:  feymu ta 
+C: por eso que
+
+M:<%> kuyfi may feymu akuki, 
+C:  antes claro ahí llegaba,
+
+M: feyti weñefi piki ñi chau  
+C: ese lo robó decía mi padre
+
+M: kuyfi feymu il'oki kullin, 
+C: antes por eso mataba animales,
+
+M: pingeki fey putuki feymu 
+C:  se decía que llegaba ahí 
+
+M: weñefe pingiki, 
+C: ladrón se decía,  
+
+M: welu pengelay re ñi kidu ñi feypiken 
+C: pero no lo veían solo  lo decía 
+
+M:<%> che kuyfi femngechi. 
+C:  la gente antes así.
+
+nmdch-nflcm1_x_0134_nmdch_00: 
+M: Welu pengekelay feyti weñefe ka. 
+C:  Pero no  veían a ese ladrón tampoco.
+
+nmdch-nflcm1_x_0135_nflcm_00: 
+M: Pengelay llemay, 
+C: No lo veían claro,
+
+M: fey femuechi pingiki 
+C: y así se decía 
+
+M: feymu fey adkintuy che -/fen/-, 
+C: por eso  ahí lo miraba la gente,
+
+M: münchemu müley,  
+C:  abajo está,
+
+M: trafonki fotella müli fill 
+C: quebraba la botella hay de todas
+
+M: <*SPA>cosa müli.
+C:  cosas hay.
+
+nmdch-nflcm1_x_0136_nmdch_00: 
+M: Foro. 
+C: Hueso.
+
+nmdch-nflcm1_x_0137_nflcm_00: 
+M: Foro llemay. 
+C: Hueso claro.
+
+nmdch-nflcm1_x_0138_nmdch_00: 
+M: Foro kullin. 
+C: Huesos de animales.
+
+
+nmdch-nflcm1_x_0139_nflcm_00: 
+M: Foro kullin, 
+C:  Hueso de animales, 
+
+M: fey foro kullin,
+C: ese hueso de animal,
+
+M: fotella müli feyti, 
+C: hay botella en ese,
+
+
+M:<%> welu ini rume moletakelay 
+C:  pero nadie lo molesta
+
+M: ñi animafel ñi 
+C: no se anima a 
+
+M: kintumeal chem rume. 
+C:   buscar cualquier cosa.
+
+nmdch-nflcm1_x_0140_nmdch_00: 
+M: Welu re ngilatumakey müten 
+C:  Pero sólo hacen rogativa no más
+
+M: chi che am weñefe akukelay rume chi.
+C: las personas quizás ni ladrón llega.
+
+nmdch-nflcm1_x_0141_nflcm_00: 
+M: Femki chi may, 
+C: Será así claro,
+
+M: welu kontungekelay trankilu 
+C: pero nadie entra tranquilo
+
+M: müley feychi <*SPA>lugar fey fey tüfa
+C:  hay ese  lugar eso, y esto 
+
+M: müli chi pukontu.
+C:  está ese  a la entrada
+
+nmdch-nflcm1_x_0142_nmdch_00: 
+M: Welu ¿chumechi, chumechi akuki 
+C:  Pero ¿cómo, cómo llegan
+
+M: weñefe pi tami chau? 
+C:  ladrones decía tu papá? 
+
+M: ¿chumechi tukulpay feychiam feyti ngillatuki, 
+C:  ¿cómo dio a conocer eso en su rogativa,
+
+M: müten chi foro?. 
+C: no más el hueso?.
+
+nmdch-nflcm1_x_0143_nflcm_00: 
+M: Fey kidu ta -/ki/- kimni ka 
+C: El solo sabe   que
+
+M: akukepelay weñefe, 
+C: llegaban ladrones,
+
+M: kuyfi müli fütake weñefe, piki, 
+C:  antes había grandes ladrones, decía,
+
+M: il'oki kullin putukeyngün, piki, 
+C: llegaban con carne de animal, decía,
+
+M: fey feymu ta rukalu, rukakechili, piki, 
+C:  y por eso hizo casa, esta como casa, dice,
+
+M: fey tüfa fey doy, 
+C: y este es más,
+
+M: doy chemlay welu, 
+C: pero más no hizo,
+
+M: <*SPA>pu' fey ñi kulantu karüleki
+C:  pues  su quilantal está verde
+
+M: femwelay, ankünangi ,
+C:  no hace más, lo secaron,
+
+M: afloam ka tüfa chem 
+C: como se terminó también esto
+
+M: feyti kuyfi pütrukeki. 
+C: ese antes era my grande.
+
+nmdch-nflcm1_x_0144_nflcm_00: 
+M: Chem foki pingiki ta müna müleki 
+C: Que había mucho foqui se decía
+
+M: kuyfi tüfa ngewelay <*SPA>pu. 
+C: antes ahora ya no hay más pues.
+
+1_x_0145_nflcm_0046_nmdch_00: 
+M: Kom afiyi.
+C: Todo se terminó.
+
+nmdch-nflcm1_x_0146_nflcm_00: 
+M: Kom yafiyi külantu 
+C: Todo quilantal se terminó
+
+M: ngewelay ka feyti.  
+C: no hay más eso.
+
+nmdch-nflcm1_x_0147_nmdch_00: 
+M: ¿Feyti chemam chumechiam afi, 
+C:  ¿Eso qué, cómo se terminó,
+
+M: lüpum tukungi am re famechi? 
+C: lo quemaron así no más?
+
+1_x_0148_nmdch_0049_nflcm_00: 
+M: <*SPA>No, no femlay.
+C:  No, no lo hizo.
+
+nmdch-nflcm1_x_0149_nmdch_00: 
+M: Kidutu afkülekay.
+C: Solo se a terminado.
+
+nmdch-nflcm1_x_0150_nflcm_00: 
+M: Kidutu afküli kidutu afküli, 
+C: Solo se está terminando, 
+
+M: pichifuy doy ñi tremafel 
+C: es chico más debía crecer  
+
+M: femlay fey ñi felen 
+C: no fue y quedo así  
+
+M: felekey müten welu, 
+C:  pero esta igual no más,
+
+M: kullin peken
+C: animal veo
+
+M: tukungekelay pichikeche, 
+C:  no  colocan a los niños, 
+
+M: konkelay tremküle pichikeche,
+C: no entran los niños  que están creciendo, 
+
+M: konaymi, 
+C: entrarás,
+
+M: feymu pingi fey müley weküfü 
+C: por eso se dice que hay espíritu maligno
+
+M: pingiki fey konkelayngün 
+C: le dicen ahí no entran 
+
+M: fey fütake che kay fey ñi chau; 
+C:  los adultos y su padre; 
+
+M: kimni kom chau, 
+C: todo padre sabe eso,  
+
+M: kinmi kom fey nütramkaki 
+C: sabe todo eso y les conversa 
+
+M: fey ñi pichikeche,
+C: a sus niños chicos,
+
+M: kuydautukuki fey, 
+C  los cuida, 
+M: konlayaymi pi fey,
+C: no entrarás le dice,
+
+M: feyentungi  
+C: y le creen 
+
+M: fey konlayngün. 
+C: y no entran.
+
+
+nmdch-nflcm1_x_0151_nflcm_00: 
+M: Aukantual femngechi. 
+C: Al jugar así.
+
+nmdch-nflcm1_x_0152_nmdch_00: 
+M: ¿Fey tami ñuke pefilu tüfachi, 
+C:  ¿Y tu mamá cuando lo vio este
+
+M: tüfachi perimontun filu 
+C: esta visión sobre natural 
+
+M: fey kutrani kay pichin kangewi 
+C:  ahí se enfermo un poco quedo diferente
+
+M: ñi kalul kuerpu? 
+C:  su cuerpo? 
+
+M: piki ta che kalul fey almeñ ñi koni 
+C: dice las personas  el cuerpo un poco le entró
+
+M: ñi kutranu 
+C:  su enfermedad  
+
+M: ¿konfuy ñi kutran kay?
+C: ¿entró su enfermedad pues?
+
+nmdch-nflcm1_x_0153_nflcm_00: 
+M: Femlay tushpu, femlay, 
+C: No hizo nada, no hizo,
+
+M: küme llellipika fey rüf piuke, 
+C:  bien  rogaria en verdadero corazón
+
+M: piukemu llellipupelay 
+C: con el corazón haizo su ruego 
+
+M: pikiñ fey chumlanu. 
+C:  dicen para que no le pase nada.
+
+
+nmdch-nflcm1_x_0154_nmdch_00: 
+M: ¿Kidu tuten llellipuy am? 
+C:  ¿El cuánto hizo ruego? 
+
+M: amuy l'awen', l'awen'ngelumeu 
+C: fue donde hay remedio
+
+M: ¿doy unen che amuy?
+C: ¿a las personas mayores va?
+
+nmdch-nflcm1_x_0155_nflcm_00: 
+M: No, l'awen'ngelu no, 
+C:  No, remedio no hay no,
+
+M: no femlay, 
+C: no lo hizo, 
+
+M: l'awen'ngenu amulay,
+C: como no hay remedio no fue,
+
+M: kidu müten tañi ñi chau 
+C: el solamente  con su papá
+
+M: ka fey engü müten llellipuy 
+C: y también ellos no más hicieron ruego
+
+M: fey, feyka müten. 
+C:  y, eso no más.
+
+nmdch-nflcm1_x_0156_nmdch_00: 
+M: ¿Eymün fey nütrammelimün 
+C:  ¿Ustedes ahí lo conversaron 
+
+M: fey tüfachi dungu? 
+C: ahí este asunto?
+
+nmdch-nflcm1_x_0157_nflcm_00: 
+M: May. 
+C: Sí.
+
+M: Nütram, 
+C:  Conversación, 
+
+M: nütrammeleymu llemay
+C: le conversa claro
+M: ka famechi pi ta konkelaymün 
+C: y también dijo que no entren
+
+M: feychi mawidamu, piki, 
+C: en esa montaña, decía,
+
+M:<%> piki femngechi fey <%> konkelaiñ 
+C: decía así es que no entraban 
+
+M: <%> kam niey pichikeche 
+C: o tenía niños chicos
+
+M: fey femechi nütramelkefeiñ 
+C: y así le conversamos
+ 
+M: fey femkenual fey moletanual llemay 
+C:   que no debía molestarlo claro
+
+M: fey ñi trankiluküleal 
+C: y para estar tranquilo
+
+M: fey ka ñi afkal che ka chenual 
+C: y para que termine la gente no será
+
+M: kidu pichikeche femechi. 
+C: solo como niño chico así.
+
+nmdch-nflcm1_x_0158_nmdch_00: 
+M: ¿Feypi tami kude kuku 
+C:  ¿Dijo tu anciana abuela
+
+M: pepi fey ka fey eymün mapumeu 
+C:  no pudo y él y ustedes en la tierra
+
+M: tami chaw mapumew?
+C: en la tierra de tu papá?
+
+nmdch-nflcm1_x_0159_nflcm_00: 
+M: No, ka mapumeu tañi... 
+C: No, en la otra tierra de mí...
+
+M: tañi kidu tañi mapumeu. 
+C:  en la tierra del él.
+
+nmdch-nflcm1_x_0160_nmdch_00: 
+M: Ah. 
+C:  Ah.
+
+M: Tami. 
+C:  Tu.
+
+nmdch-nflcm1_x_0161_nflcm_00: 
+M: May.
+C:  Sí.
+
+M:  Kidu ñi mapumeu. 
+C:   En su tierra.
+
+nmdch-nflcm1_x_0162_nmdch_00: 
+M: Kude kuku tami -/mapma/- mapumeu.
+C: En la tierra de tu anciana abuela. 
+
+nmdch-nflcm1_x_0163_nflcm_00: 
+M: May, may.
+C:  Sí , sí.
+
+nmdch-nflcm1_x_0164_nmdch_00: 
+M: ¿Welu, fantepumu fey ñi pu che kay 
+C:  ¿Pero, hasta ahora y su gente también
+
+M: ina trekülelu fantepumeu 
+C: sigue sus pasos hoy en día 
+
+M: petu yam niefi feychi lof 
+C: todavía lo respetan ese lof 
+
+M: feychi chew ñi mülemtun?
+C: ese donde estará ahora?
+
+nmdch-nflcm1_x_0165_nflcm_00: 
+M: Iyam niengi llemay fey kiñe
+C:  Lo respetan claro y una
+
+M:  <%> kidu fey enkañanolu, 
+C:  el no lo engañó,
+
+M: fey rume ngillatufe wentru 
+C: él es un hombre que hace rogativa
+
+M: fey dungumachifeki 
+C: es  intérprete de machi
+
+M: fey ngillatuleki fey, 
+C:  y hace rogativa,
+
+M: fey chumlayu ka ataklayu 
+C: y no le pasará nada y no lo ataca
+
+M: tushpu moletalayu 
+C: nada no lo molesta 
+
+M: kidu ngillatupi ka, ka. 
+C: el solo hizo rogativa también.
+
+nmdch-nflcm1_x_0166_nmdch_00: 
+M: ¿Konki ngillatunmu?
+C:  ¿Entra en la rogativa?
+
+nmdch-nflcm1_x_0167_nflcm_00: 
+M: Konki ngillatunmu dungu 
+C: Entra en el asunto del guillatun  
+
+M: machiki fey femngechi. 
+C: hace machitun  así.
+
+nmdch-nflcm1_x_0168_nmdch_00: 
+M: ¿Feychi iyalngi ka welu, kullinmeu 
+C:  ¿Esa vez le dieron también pero, le pagan
+
+M: ka chemeu nülayu konkelay?
+C:  y también no lo pescó no entró?
+
+1_x_0169_nmdch_0070_nflcm_00: 
+M: Iyalngi pingiki, iyalngi, 
+C: Le compraron decían, le compraron,
+
+M: welu kullinke kingekemu 
+C: pero con animales algunas veces
+
+M: enkañiki pingiki. 
+C: lo engaña dicen.
+
+nmdch-nflcm1_x_0170_nmdch_00: 
+M: Fey ñi kullin. 
+C: Con sus animales.
+
+nmdch-nflcm1_x_0171_nflcm_00: 
+M: Kudu ñi kullin may 
+C: Solo sus animales claro 
+
+M: fey müleluam mawida u 
+C: eso entaban en la montaña 
+
+M: fentrentu mawidantmüley 
+C: harta montañas hay 
+
+M: fey feymu konlu
+C: y ahí cuando entró
+
+M: penu enkañi pingiki, pikey, 
+C:  creo que quedó con defecto, dicen, 
+
+M: kidu nütramkaki, 
+C: él solo conversa,
+
+M: welu kiñeke ngillatufe wentrumu 
+C:  pero algunos hombres que hacen rogativa
+
+M: fey atakalayu tushpu 
+C: eso no los ataca nada
+
+
+M: fey infitulayu pu ñi feychi newen 
+C:  no le hace daño pues esa fuerza 
+
+M: mülelu mapumu fey mülepey mapumu 
+C: que hay en la tierra y ese esta en la tierra
+
+M: ka feychi newen akukelay. 
+C: y también esa fuerza llega.
+
+nmdch-nflcm1_x_0172_nmdch_00: 
+M: ¿Fey may epuñpüle müley <%> ?
+C:  ¿Ese claro en dos parte hay?
+
+nmdch-nflcm1_x_0173_nflcm_00: 
+M: Femyi may epuñpüle. 
+C: Es así claro en las dos partes.
+
+nmdch-nflcm1_x_0174_nmdch_00: 
+M: Cheyam che feyti chem
+C: hace conciencia la gente esa cosa
+
+M: choyumniem feychi weda newen.
+C:  lo tiene asa fuerza negativa.
+
+flcm1_x_0175_nmdch_00flcm_00: 
+M: May. 
+C:  Sí.
+
+M: Ka feyti che ka yam niey llemay 
+C: Y también la gente le tiene respeto claro 
+
+M: fey moletanual ñi doy ñi mülen 
+C: y para no molestarlo donde hay más
+
+M: ngillatuniey ñi<%>. 
+C: hace rogativa y.
+ 
+nmdch-nflcm1_x_0176_nmdch_00: 
+M: Welu  famechi ñi ngillatuchi, 
+C:  Pero así debo hacer rogativa, 
+
+M: ngillatukelay, pingi, 
+C:  no hace rogativa, dicen,
+
+M: elungeki chem rume, 
+C:  le dan cualquier cosa,
+ 
+
+M:<%> müli ngillatun l'angüm kullin 
+C:  hay rogativas donde matan animal
+
+M: che fey yengelke mollfüñ, 
+C:  la gente les llevan sangre,
+
+M: yengelke chem rume fey, pingiki,
+C: le llevan cualquier cosa, se dice,
+
+M: ¿fey femki pe ka?
+C: ¿ese lo hace también? 
+
+nmdch-nflcm1_x_0177_nflcm_00: 
+M: Femki ka fey kimel -/nie/-, 
+C:  Lo hace y lo sabe bien,
+
+M: nielu ka che tüfa yetufi wentru 
+C: tiene gente este lo llevó el hombre
+
+M: fey machiki niey kimün <*SPA>pu'
+C: y la machi tiene conocimiento pues
+
+M: fey, fey il'oy chem rume 
+C:  y, y ese mata cualquier cosa
+
+M: yelkefi pi ka feymu llemay 
+C: le lleva dice y también por eso claro
+
+M: chumlayu tüfa 
+C: no le hace nada 
+
+M: trankilu müley, 
+C: esta tranquilo, 
+
+M: mongeley femngechi.
+C: vive así.
+
+nmdch-nflcm1_x_0178_nmdch_00: 
+M: Feychi kullin kay ñiyim.
+C:  Ese animal también al tener
+
+
+Cañulef
+Huisca

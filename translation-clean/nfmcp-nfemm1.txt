@@ -1,0 +1,4387 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nfmcp-nfemm1 
+; Last changes made on 11/25/2002 
+; Transcriber: Cristian C. Anton. 
+; Comments:  
+; Traduce: Julio Marileo.
+
+nfmcp-nfemm1_x_0000_nfmcp_00:
+M: <uh> Foula <uh>.
+C: Ahora
+
+nfmcp-nfemm1_x_0001_nfmcp_00: 
+M: Pichi ngütramkayayu.
+C:  Vamos a conversar un poco.
+ 
+nfmcp-nfemm1_x_0002_nfmcp_00:
+M: Y.
+C: Y.
+
+nfmcp-nfemm1_x_0003_nfmcp_00: 
+M: ¿Chumngechi ta l'awen'tuki?
+C: ¿ Como se hace remedio?
+
+M: ¿l'awen'tüuki che <uh> ?
+C: ¿como se hacen remedio las personas?
+
+M: ¿chem kutran nien?.
+C: ¿ Que enfermedad tengo?.
+ 
+nfmcp-nfemm1_x_0004_nfmcp_00: 
+M: <uh> Chem l'awen' 
+C: Que remedio
+
+M: ñi kümen.
+C: es bueno,
+
+M: pital l'awen' 
+C: remedio del hospital
+
+M: kam mapu l'awen'
+C: o remedio naturales.
+
+nfmcp-nfemm1_x_0005_nfmcp_00: 
+M: Iñche lamngen feula ramtuayu.
+C: Yo ahora te pregunto hermana. 
+ 
+nfmcp-nfemm1_x_0006_nfmcp_00: 
+M: <uh> ¿Iñi pingimi üy eymi?.
+C: ¿Cuál es su nombre?.
+
+nfmcp-nfemm1_x_0007_nfemm_00: 
+M: Inche Ema pingen, Ema Rosa pingen.
+C: Yo soy Ema, Ema Rosa me llamo.
+
+nfmcp-nfemm1_x_0008_nfmcp_00: 
+M: Cheu üh.
+C: De donde
+
+nfmcp-nfemm1_x_0009_nfmcp_00: 
+M: Cheu <uh> mapu eymi.
+C: ¿A dónde vive?.
+
+nfmcp-nfemm1_x_0010_nfmcp_00: 
+M: Llegümi.
+C: 
+ 
+nfmcp-nfemm1_x_0011_nfemm_00: 
+M: Inche kupan pitrako <*SPA>en pitrako mapu.
+C: Yo soy de Pitraco, en Pitraco esta mi tierra.
+  
+nfmcp-nfemm1_x_0012_nfemm_00: 
+M: Feymu.
+C: Por eso.
+
+nfmcp-nfemm1_x_0013_nfemm_00: 
+M: Feymu ta mülerken tati
+C: Ahí es que vivo
+
+M: feymu feliam.
+C: y asi voy a estar.
+
+nfmcp-nfemm1_x_0014_nfemm_00: 
+M: Pitrako mapu ta tripan ta inche.
+C: En Pitraco esta mi tierra, de ahí sali yo.
+ 
+nfmcp-nfemm1_x_0015_nfemm_00: 
+M: <*SPA>Despue fütangelu ta inche
+C: Despues que me case
+
+M: feyta amutun ligüm mallin <%> .
+C: despues me fui a Ligüm Mallin.
+
+nfmcp-nfemm1_x_0016_nfemm_00: 
+M: Ligün mallin chengetun.
+C: Ligüm Mallin ahora es mi tierra.
+ 
+nfmcp-nfemm1_x_0017_nfmcp_00: 
+M: Ya.
+C: Ya
+ 
+nfmcp-nfemm1_x_0018_nfmcp_00: 
+M: ¿Feyti cheu müleki? 
+C:_¿Y eso donde esta? 
+
+M: ¿chem pingi ti mapu?
+C: ¿como se llama la tierra?
+
+M: wingka üymu fey chem üy ni.
+C: tiene nombre huinca y ¿cuál es su nombre?.
+
+nfmcp-nfemm1_x_0019_nfemm_00: 
+M: Wingka üymu ta ni kiñe,
+C: Tiene un nombre huinca
+
+M:  kiñe lingue piam müli pu mallin tati.
+C: un lingue dicen en los pajonales pues.
+ 
+nfmcp-nfemm1_x_0020_nfemm_00: 
+M: Feymu feyta ligüm mallin pingi.
+C: Por eso que  le dicen Ligün mallin.
+
+nfmcp-nfemm1_x_0021_nfemm_00: 
+M: Femngechi.
+C: Por eso.
+
+nfmcp-nfemm1_x_0022_nfmcp_00:
+M: <hm>  Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0023_nfmcp_00: 
+M: Ya, iñche fey ka elueyu ta inche ñi üy.
+C: Ya, yo le voy a decir mi nombre
+
+nfmcp-nfemm1_x_0024_nfemm_00: 
+M: Ya.
+C: Ya
+ 
+nfmcp-nfemm1_x_0025_nfmcp_00: 
+M: Iñche fey iñche ñi üy
+C: Mi nombre
+
+M:  pingi Maria Isabel Coñuepan pingi.
+C: mi nombre es Maria Isabel Coñuepan  
+ 
+nfmcp-nfemm1_x_0026_nfemm_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0027_nfmcp_00: 
+M: Painequeo ñuke.
+C: Painequeo es mi Mamá.
+ 
+nfmcp-nfemm1_x_0028_nfmcp_00: 
+M: Ñuke püle.
+C: Por el lado de mi mamá.
+ 
+nfmcp-nfemm1_x_0029_nfemm_00: 
+M: Ya.
+C: Ya
+ 
+nfmcp-nfemm1_x_0030_nfmcp_00: 
+M: Inche fey tuwün Isla Wapi.
+C: Mi origen esta en Isla Huapi
+
+nfmcp-nfemm1_x_0031_nfmcp_00: 
+M: Isla Wapi pingi ñi mapu.
+C: Isla Huapi se llama mi tierra.
+
+nfmcp-nfemm1_x_0032_nfmcp_00: 
+M: Fey inche fey ñi lof feypingi.
+C: Asi yo soy de una comunidad que le dicen.
+
+nfmcp-nfemm1_x_0033_nfmcp_00: 
+M: Kawemu.
+C: Cahuemo.
+ 
+nfmcp-nfemm1_x_0034_nfemm_00: 
+M: Kam.
+C:
+ 
+
+
+
+
+nfmcp-nfemm1_x_0035_nfmcp_00: 
+M: Kawemu.
+C: Kahuemo
+ 
+nfmcp-nfemm1_x_0036_nfmcp_00: 
+M: Fey ñi <*SPA>comuna fey comuna Saveedra pingi.
+C: Esta en la Comuna de Saavedra.
+ 
+nfmcp-nfemm1_x_0037_nfemm_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0038_nfmcp_00: 
+M: <*SPA>Puerto <*SPA>saveedramu fey ka kimngeki.
+C: Puerto Saavedra tambien se le conoce.
+     
+nfmcp-nfemm1_x_0039_nfmcp_00: 
+M: Feychi mapumu chi tuwün.
+C: Esa es mi tierra de origen.
+
+nfmcp-nfemm1_x_0040_nfmcp_00: 
+M: Welu foula fey.
+C: Pero ahora se.
+
+nfmcp-nfemm1_x_0041_nfmcp_00: 
+M: Tapüle.
+C: Por este lado
+ 
+nfmcp-nfemm1_x_0042_nfmcp_00: 
+M: Temuco mapu fey ka mülepaken.
+C: En Temuco tambien e estado.
+ 
+nfmcp-nfemm1_x_0043_nfemm_00: 
+M: Ya ya.
+C: Ya, ya.
+ 
+nfmcp-nfemm1_x_0044_nfmcp_00: 
+M: Kiñeke nag fey ka müleputuken taiñ mapumu.
+C: Algunas veces tambien estoy mi tierra natal.
+ 
+nfmcp-nfemm1_x_0045_nfemm_00: 
+M: <hm> .
+C:
+
+
+ 
+nfmcp-nfemm1_x_0046_nfmcp_00: 
+M: <*SPA>Estudio sungumu fey miauleneu.
+C: Por estudios ando por aca.
+ 
+nfmcp-nfemm1_x_0047_nfemm_00: 
+M: Ya.
+C: Ya
+ 
+nfmcp-nfemm1_x_0048_nfmcp_00: 
+M: Fey foula konay ngütram mu <uh> tachi.
+C: Así ahora enpezemos a conversar pues.
+ 
+nfmcp-nfemm1_x_0049_nfmcp_00: 
+M: Pi ta pichi ngütramkakiyu nga .
+C: Lo que ya habiamos conversado.
+
+nfmcp-nfemm1_x_0050_nfmcp_00: 
+M: Petu konünmun ta ngütrammu 
+C: Pero antes de entrar a nuestra conversacion
+
+M: fey tukulpayayu 
+C: vamos a empezar por
+
+M: <uh> kutran chumngechi chum chumleken kutran 
+C: como estan las enfermedades
+
+M: chumngechi amuken kutran.
+C: como comienza la enfermedad.
+
+mm1_x_0051_nfmcp_00_nfmcp_00: 
+M: Chumngechi ta kintuken l'awen'
+C: Como se busca el remedio
+
+M:  che tañi llafam.
+C: para que la persona tenga fuerza.
+ 
+nfmcp-nfemm1_x_0052_nfmcp_00: 
+M: Fey pichi .
+C: De a poco.
+
+nfmcp-nfemm1_x_0053_nfmcp_00: 
+M: Fill pichiken ngütram <uh> ramtuyayu inche.
+C: De todo un poco de las enfermedades le voy a preguntar.
+
+
+ 
+nfmcp-nfemm1_x_0054_nfmcp_00: 
+M: Tachi 
+C: Este.
+
+nfmcp-nfemm1_x_0055_nfmcp_00: 
+M: ¿Tachi chumngechi müleken kutran?
+C: ¿Cómo estan las enfermedades?
+
+M: ¿chumngechi llafken che kam llafkenon?.
+C: ¿cómo se calman las personas o no se calman?
+
+nfmcp-nfemm1_x_0056_nfmcp_00: 
+M: Cheu ta soy kümen <uh>
+C: ¿A dónde es mejor?
+ 
+M: mapu  l'awen'.
+C: remedio naturales
+
+M: kam Hospital l'awen'
+C: o remedio del Hospital.
+
+nfmcp-nfemm1_x_0057_nfmcp_00: 
+M: Inche fey ramtuayu ta.
+C: Yo te voy a preguntar 
+ 
+nfmcp-nfemm1_x_0058_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0059_nfmcp_00: 
+M: Eymi.
+C: Usted.
+ 
+nfmcp-nfemm1_x_0060_nfmcp_00: 
+M: Tremonche ngimi.
+C: 
+
+nfmcp-nfemm1_x_0061_nfmcp_00: 
+M: ¿Chumlekimi tami mongenmu eymi?.
+C: ¿ Como esta su salud?
+
+nfmcp-nfemm1_x_0062_nfmcp_00: 
+M: Trmolekimi kam.
+C: A estado bien
+ 
+nfmcp-nfemm1_x_0063_nfmcp_00: 
+M: Kam.
+C: Y
+
+nfmcp-nfemm1_x_0064_nfmcp_00: 
+M: Newe tremuelekelaymi.
+C: No ha estado muy bien.
+ 
+nfmcp-nfemm1_x_0065_nfemm_00: 
+M: Fey <*SPA>si.
+C: Ese si.
+
+nfmcp-nfemm1_x_0066_nfmcp_00: 
+M: Inche ramtuayu.
+C: Yo te voy a preguntar.
+
+nfmcp-nfemm1_x_0067_nfemm_00: 
+M: Kutran che ngekelan inche 
+C: Yo no soy enferma
+
+M: <*SPA>pu' kutranche chemu tremün.
+C:  creci con personas que eran enfermos
+ 
+nfmcp-nfemm1_x_0068_nfemm_00: 
+M: <uh>.
+C: 
+
+nfmcp-nfemm1_x_0069_nfemm_00: 
+M: Feyta l'awen'tuulen machimu 
+C: Ahora estoy con remedio que viene de la machi
+
+M: ta kon kon mapuche l'awen' welu.
+C: pero todos eso son remedios naturales. 
+ 
+nfmcp-nfemm1_x_0070_nfemm_00: 
+M: Tutelaneu feyta ka konün pitalmu.
+C: No me hizo bien por por eso que entre al Hospital.
+ 
+nfmcp-nfemm1_x_0071_nfemm_00: 
+M: Fey iptalmu feyta asta +/hor/+ tüfa feyta.
+C: Hasta ahora en el Hospital. 
+ 
+nfmcp-nfemm1_x_0072_nfemm_00: 
+M: Feymu ta.
+C: Por eso.
+ 
+nfmcp-nfemm1_x_0073_nfemm_00: 
+M: Feymu ta afirmauküken.
+C: No he podido afirmarme
+ 
+nfmcp-nfemm1_x_0074_nfemm_00: 
+M: Techi winka l'awen' .
+C: Este remedio huinca.
+
+nfmcp-nfemm1_x_0075_nfemm_00:
+M:  <uh> Fentren tripantu llemay ta nien tati fey.
+C: Es que sera que tengo hartos años pues.
+ 
+nfmcp-nfemm1_x_0076_nfemm_00: 
+M: Fey rupakawün mapuche l'awenmu
+C: He pasado con remedio naturales mapuche
+
+M:  tutelaneu fey konün pitalmu
+C: no me hizo bien por eso entre al hospital
+
+M:  Imperial ngemen chol-chol.
+C: de Imperial volvi a Chol- Chol.
+
+nfmcp-nfemm1_x_0077_nfemm_00: 
+M: Galfarinu ka mülen.
+C: Tambien fui a Galvarino.
+
+nfmcp-nfemm1_x_0078_nfemm_00: 
+M: Müli postamu kampo ayllinko
+C: Habia una Posta en el campo de Ayllinko
+
+M: feymu l'awen'tunengekefun.
+C:  allá me hicieron remedio.
+ 
+nfmcp-nfemm1_x_0079_nfemm_00: 
+M: Tüfa feyta <*SPA>temuco ta mülepatun feyta.
+C: Ahora estoy en Temuco.
+ 
+nfmcp-nfemm1_x_0080_nfemm_00: 
+M: Feytamu ka l'awen'tulepatullen may ka.
+C: Acá tambien me hicieron remedio.
+ 
+nfmcp-nfemm1_x_0081_nfemm_00: 
+M: Fürenenieneu ta pu winka
+C: Me hicieron favor los huinca
+
+
+
+M:  feyta feymu ta küme trekalen.
+C: por eso es que estoy caminando bien.
+
+nfmcp-nfemm1_x_0082_nfemm_00: 
+M: Femngechi tati.
+C: Por eso pues.
+ 
+nfmcp-nfemm1_x_0083_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0084_nfmcp_00: 
+M: Fey fentrentu seuma
+C: Hace mucho tiempo
+
+M: amulimi kutran eymi.
+C: que se encontraba enferma usted.
+
+nfmcp-nfemm1_x_0085_nfemm_00: 
+M: <*SPA>Si.
+C: Si.
+
+M: Fentrentu ella üllcha somongen
+C:_Hace mucho tiempo cuando era una mujer joven
+
+M: kutran chengen <*SPA>pu' .
+C: soy enferma pues.
+
+nfmcp-nfemm1_x_0086_nfemm_00: 
+M: Ella üllcha somongen kutran chengen.
+C: Desde que era joven que soy enferma.
+ 
+nfmcp-nfemm1_x_0087_nfemm_00: 
+M: Fütangelu feyta inche pen ta kutran ka.
+C: Cuando me case yo, me encontre con enfermedad pues.
+ 
+nfmcp-nfemm1_x_0088_nfemm_00: 
+M: Üllcha püta püralen
+C: Cuando era una mujer joven
+
+M: ta feyta pelafun kimkelafun kutran ka.
+C: yo no conoci lo que era la enfermedad.
+
+
+
+nfmcp-nfemm1_x_0089_nfemm_00: 
+M: Püñeñ ngen deay <*SPA>hay koni tañi kutran.
+C: Cuando tuve hijo hay me entro la enfermedad.
+
+nfmcp-nfemm1_x_0090_nfmcp_00: 
+M: Iñche fey ka ramtuayu foula.
+C: Ahora yo te voy a preguntar.
+ 
+nfmcp-nfemm1_x_0091_nfmcp_00: 
+M: Eymi kay <uh> amuymi,
+C: Usted fue
+
+M: <uh> amuymi konimi ta machimu ka 
+C: entro a la Machi
+
+M: o l'awen'tuymi ta machi l'awen'mu.
+C: o se hizo remedio con el remedio de Machi.
+
+nfmcp-nfemm1_x_0092_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M: <*SPA>Pu' machi l'awenmu konün.
+C:  Pues, entre con el remedio de machi.
+ 
+nfmcp-nfemm1_x_0093_nfemm_00: 
+M: Chol-chol müli kiñe machi pingi ngati Audulia pingi nga.
+C: En Chol- Chol hay una Machi,Audilia se llama.
+ 
+nfmcp-nfemm1_x_0094_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0095_nfemm_00: 
+M: Audulia Coñuepan pingi chi domo.
+C: Audilia Coñuepan se llama la señora
+ 
+nfmcp-nfemm1_x_0096_nfmcp_00: 
+M: A Coñuepan pingi.
+C: A. Comuepan se llama.
+
+nfmcp-nfemm1_x_0097_nfemm_00: 
+M: Feymu feyta konün.
+C: Ahí entre.
+ 
+nfmcp-nfemm1_x_0098_nfemm_00: 
+M: <*SPA>Familia yem
+C: Es mi familia
+
+M: <*SPA>medio <*SPA>familia porque inchiñ, 
+C: son medio familia porque nosotros,
+
+M: inche tañi eleteu tachi wentru.
+C: a mi me corresponde por mi hombre.
+
+nfmcp-nfemm1_x_0099_nfemm_00: 
+M: Millapan pingerkefuy.
+C: Se llamaba Millapan.
+
+nfmcp-nfemm1_x_0100_nfemm_00: 
+M: Pingi tañi chau.
+C: Así se llama mi Padre.
+ 
+nfmcp-nfemm1_x_0101_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0102_nfemm_00: 
+M: Rekonutulaneu llemay
+C: 
+
+M:  epungen kurengelu feyta.
+C: es casado con dos señoras, ahora.
+ 
+nfmcp-nfemm1_x_0103_nfemm_00: 
+M: Elulaneu ta üy ka.
+C: No me dio nombre.
+ 
+nfmcp-nfemm1_x_0104_nfemm_00: 
+M: Inche tañi pu yall pilaayu.
+C: No son  mis hijos, no dije.
+
+nfmcp-nfemm1_x_0105_nfemm_00: 
+M: Kasan külerke.
+C: Era casado.
+
+nfmcp-nfemm1_x_0106_nfemm_00: 
+M: Kasau külelu engu.
+C: Ellos son casados.
+ 
+
+
+nfmcp-nfemm1_x_0107_nfemm_00: 
+M: <*SPA>Asi <*SPA>que aymin
+C: Así que a mi me gusta que 
+
+M: <*SPA>familia yefiñ chi domo Coñuepan Millapan 
+C: seamos familia con la señora Coñuepan Millapan
+
+M: <*SPA>heramo familia pinefiñ <*SPA>cuando.
+C: eramos familia le dije, cuando.
+    
+nfmcp-nfemm1_x_0108_nfemm_00: 
+M: <*SPA>Ante kuyfi.
+C: Antes.
+
+nfmcp-nfemm1_x_0109_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0110_nfemm_00: 
+M: Femuechi tuukülekefuy 
+C: Así estabamos unidos
+
+M: <*SPA>familia lerkefuyngün tati Millapan y Coñuepan.
+C:  eran una familia Millapan y Coñuepan.
+ 
+nfmcp-nfemm1_x_0111_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0112_nfemm_00: 
+M: Femuechi küpanche ta inche.
+C: De esa familia vengo yo.
+
+nfmcp-nfemm1_x_0113_nfemm_00: 
+M: Feymu fütangelu inche 
+C: Cuando yo me case
+
+M: fey kutran chewün.
+C: fui una persona enferma.
+
+nfmcp-nfemm1_x_0114_nfemm_00: 
+M: Pichikeche meu kom.
+C: Todos mis niños.
+ 
+
+
+nfmcp-nfemm1_x_0115_nfemm_00: 
+M: Kutran kechi tremün.
+C: Crecieron enfermos.
+ 
+nfmcp-nfemm1_x_0116_nfemm_00: 
+M: Müna kutran kawüngi 
+C: Fueron hartos enfermos
+
+M: tanta trengüm koñin.
+C: crie harto hijos.
+ 
+nfmcp-nfemm1_x_0117_nfemm_00: 
+M: Kisuduam tremüngelay ta pichike che.
+C: Los niños no crecen por si solos.
+
+nfmcp-nfemm1_x_0118_nfemm_00: 
+M: <*SPA>Asi <*SPA>que feymu
+C: Así que por eso
+
+M:  koni ñi kutran feyta <*SPA>despue
+C: entro la enfermedad despues
+
+M: machimu miautullen may.
+C: por eso anduvimos en la machi.
+
+nfmcp-nfemm1_x_0119_nfemm_00: 
+M: Feytichi machimu konün tutelaneu.
+C: En esa machi entre, no me hizo bien.
+
+nfmcp-nfemm1_x_0120_nfemm_00: 
+M: Familia yefelmu chemay
+C: A lo mejor porque eramos familia
+
+M: feymu chemay pingetuken ka.
+C: a lo mejor por eso me dicen.
+ 
+nfmcp-nfemm1_x_0121_nfemm_00: 
+M: Pingepela amfe.
+C: A lo mejor es así.
+
+nfmcp-nfemm1_x_0122_nfemm_00: 
+M: <*SPA>Asi <*SPA>que.
+C: Así que.
+
+
+
+nfmcp-nfemm1_x_0123_nfemm_00: 
+M: Trapümi tutenueteu mapuche 
+C: 
+
+M: doy mapuche l'awen' .
+C: mas el remedio natural.
+
+nfmcp-nfemm1_x_0124_nfemm_00: 
+M: Fey wingkamu konün.
+C: Por eso entre donde el huinca.
+ 
+nfmcp-nfemm1_x_0125_nfemm_00: 
+M: Doctormu pingey tati
+C: Doctor le dicen
+
+M:  kümeke doctor tüfa.
+C: este es un buen doctor.
+ 
+nfmcp-nfemm1_x_0126_nfemm_00: 
+M: Feymu feyta ka kichu ngekaletun.
+C: Por eso estoy sola.
+
+nfmcp-nfemm1_x_0127_nfemm_00: 
+M: Tayitu ngefelen operangen fey.
+C: Hace tiempo que estoy operada.
+
+nfmcp-nfemm1_x_0128_nfemm_00: 
+M: Fey külfün chengetulu erke
+C: Así que estoy alentada 
+
+M:  felen deu kutranelkaken.
+C: despues de tanta enfermedad.
+
+nfmcp-nfemm1_x_0129_nfemm_00: 
+M: Newe awantawelan küdaumu.
+C: No tengo mucha fuerza para trabajar.
+ 
+nfmcp-nfemm1_x_0130_nfemm_00: 
+M: Femngechi felen tati.
+C: Por eso estoy así.
+ 
+nfmcp-nfemm1_x_0131_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0132_nfmcp_00: 
+M: Fem feymu, feymu.
+C: Por eso, por eso.
+ 
+nfmcp-nfemm1_x_0133_nfmcp_00: 
+M: Feymu.
+C: Por eso.
+
+nfmcp-nfemm1_x_0134_nfmcp_00: 
+M: ¿Kümelkalekimi eymi?
+C: ¿Y usted como esta?
+
+M: l'awentuukülenmu feymu <%>.
+C: por estar tomando remedio, por eso. 
+
+nfmcp-nfemm1_x_0135_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M: Feymu.
+C: Por eso.
+  
+nfmcp-nfemm1_x_0136_nfmcp_00: 
+M: Mekeukülekimi.
+C: Esta así.
+
+nfmcp-nfemm1_x_0137_nfemm_00: 
+M: <*SPA>Claro re patillamu 
+C: Claro, solo con pastillas
+
+M: <*SPA>tableta elunengen epu 
+C: le dan dos tabletas
+
+M: <*SPA>clase ti <*SPA>indeccion tukulelngeken
+C: e injeccion le colocan
+
+M: müte kutran küleyem.
+C: cuando estoy muy enferma.
+ 
+1_x_0138_nfemm_0040_nfemm_00: 
+M: Seu fey külfün chengetun.
+C: Ahora estoy mejor.
+ 
+nfmcp-nfemm1_x_0139_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0140_nfemm_00: 
+M: Femngechi felen.
+C: Así estoy.
+
+nfmcp-nfemm1_x_0141_nfmcp_00: 
+M: <uh> Ka ramtuayu tati ta che.
+C: Tambien le voy a preguntar de algunas personas.
+ 
+nfmcp-nfemm1_x_0142_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0143_nfmcp_00: 
+M: Ka <uh>.
+C: Tambien.
+ 
+nfmcp-nfemm1_x_0144_nfmcp_00: 
+M: Tremuelel che eymi pikimi <uh>.
+C: Estan bien ustedes, dice usted.
+
+nfmcp-nfemm1_x_0145_nfmcp_00: 
+M: Ni tañi, ni tañi.
+C: Y su, y su.
+ 
+nfmcp-nfemm1_x_0146_nfmcp_00: 
+M: Ñangümngenual ta mapu sungun.
+C: Para no perder el idioma mapuche.
+
+nfmcp-nfemm1_x_0147_nfmcp_00: 
+M: Kam.
+C: Tambien.
+ 
+nfmcp-nfemm1_x_0148_nfmcp_00: 
+M: Kam newe, newe.
+C: 
+ 
+nfmcp-nfemm1_x_0149_nfmcp_00: 
+M: <uh>.
+C:
+
+ 
+nfmcp-nfemm1_x_0150_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0151_nfmcp_00: 
+M: <hm>  Newe.
+C: No es.
+ 
+nfmcp-nfemm1_x_0152_nfmcp_00: 
+M: Falil nolu rüke
+C: Como que no vale mucho
+
+M: ini ngünekefimi ta mapu sungun.
+C: quien maneja el idioma mapuche.
+ 
+nfmcp-nfemm1_x_0153_nfemm_00: 
+M : <*SPA>No femkelafin
+C: No es así
+
+M: <*SPA>porque <*SPA>siempre
+C: porque siempre
+
+M:  inche mapu sunguken <*SPA>pu' .
+C: yo hablo en mapuche, pues.
+ 
+nfmcp-nfemm1_x_0154_nfemm_00: 
+M: Pichikeche keta ka kañ pichike ngütram
+C: Hasta los niños conversan 
+
+M: rumelay ñi koñi püñeñ
+C: no lo maneja muy bien mi hijo
+
+M: keta newe elukelafin mapudungun.
+C: no le converso muy bien.
+ 
+nfmcp-nfemm1_x_0155_nfemm_00: 
+M: Müte falintulnelafin tati feyta.
+C: No lo tengo con mucho valor este.
+
+nfmcp-nfemm1_x_0156_nfemm_00: 
+M: Mapu sungulkelafin engüñ.
+C: A ellos no les hablo en idioma mapuche.
+
+nfmcp-nfemm1_x_0157_nfemm_00: 
+M: <*SPA>Cómo <*SPA>que.
+C: Como que.
+ 
+nfmcp-nfemm1_x_0158_nfemm_00: 
+M: Wesa femkan reke llemayta feyta
+C: Ese es un mal hecho
+
+M: <*SPA>como <*SPA>que 
+C:  como que
+
+M: <*SPA>despresiatun reke tañi <*SPA>sangre.
+C:  es cómo despreciar su sangre.
+ 
+nfmcp-nfemm1_x_0159_nfemm_00: 
+M: <*SPA>Pero doy ayikefuñ
+C: Pero más me gusta
+
+M: ñi winka dungulafel engün.
+C: en hablarle en huinca. 
+ 
+nfmcp-nfemm1_x_0160_nfemm_00: 
+M: Femngechi.
+C: Por eso.
+
+nfmcp-nfemm1_x_0161_nfemm_00: 
+M: Mapumu kafallka kellefuy may tati
+C: En nuestra tierra no esta muy bien 
+
+M:  fali mapudungun 
+C: pero tiene  valor el mapuzugun
+
+M. <*SPA>es <*SPA>que <*SPA>no <*SPA>se 
+C: es que, no se
+
+M: <*SPA>porque chumngelu chemay ta fenken ta.
+C: yo no se porque hago eso.
+
+nfmcp-nfemm1_x_0162_nfemm_00: 
+M: Doy ayifiñ taiñ,
+C:  A mi me gusta,
+
+M: iñche <*SPA>yo <*SPA>tengo <*SPA>la <*SPA>culpa
+C: yo, yo tengo la culpa
+
+M:  inche nien <*SPA>culpa.
+C: yo tengo la culpa.
+  
+nfmcp-nfemm1_x_0163_nfemm_00: 
+M: <*SPA>Yo <*SPA>le.
+C: Yo le.
+ 
+nfmcp-nfemm1_x_0164_nfemm_00: 
+M: Inche feyta ensañafin ta re +/ma/+ re wingka sungun.
+C: Yo solo le enseñaba hablar en Castellano
+ 
+nfmcp-nfemm1_x_0165_nfemm_00: 
+M: Inche welu nguyulan ñi mapudungun 
+C: Yo no me he olvidado de hablar en idioma mapuche
+
+M: ka <*SPA>siempre <*SPA>habla <*SPA>
+C: y siempre hablo
+
+M: <*SPA>hablo mapudunguken 
+C: hablo el idioma mapuche
+
+M: pefin mapuche mari mari ñaña pikefiñ.
+C: cuando veo un mapuche, le saludo en mapuche. .
+
+nfmcp-nfemm1_x_0166_nfemm_00: 
+M: Ayikefiñ engün ngütramkameken engün
+C: Me gusta cuando estan conversando
+
+M: ka tupalay engün
+C: 
+
+M: ka ayikefiñ femeken engün.
+C: tambien me gusta cuando estan haciendo eso ellos.
+ 
+nfmcp-nfemm1_x_0167_nfmcp_00: 
+M: Fey.
+C: Así.
+ 
+nfmcp-nfemm1_x_0168_nfemm_00: 
+M: Mapudungun.
+C: En idioma mapuche.
+ 
+nfmcp-nfemm1_x_0169_nfmcp_00:
+M:  +/as as/+ Asi ka asi asiti kimal femechi feyta.
+C: Así para aprender eso.
+ 
+nfmcp-nfemm1_x_0170_nfemm_00: 
+M: <*SPA>Si <*SPA>pu' .
+C: Sí, pues.
+
+nfmcp-nfemm1_x_0171_nfmcp_00: 
+M: Feyti <*SPA>propio kimün
+C: Ese propio conocimiento
+
+M:  kay nielu che <*SPA>este feyti.
+C: eso que tiene la persona, ese.
+ 
+nfmcp-nfemm1_x_0172_nfmcp_00: 
+M: Iñi rume muntuymatuelmu
+C: Nadie me lo quita
+
+M: muntuymalayayu che feyti kimün ka.
+C: no te voy a quitar ese conocimiento pues.
+ 
+nfmcp-nfemm1_x_0173_nfemm_00: 
+M: <*SPA>Si 
+C: Sí.
+
+M: <*SPA>pu' .
+C: Pues
+
+nfmcp-nfemm1_x_0174_nfmcp_00: 
+M: Kichu yeni che.
+C: Cada una de las personas lleva.
+ 
+nfmcp-nfemm1_x_0175_nfmcp_00: 
+M: Che ka femechi.
+C: Como tambien la persona.
+
+nfmcp-nfemm1_x_0176_nfmcp_00: 
+M: Ka fey kimünmu sungun.
+C: Como tambien en la forma de hablar.
+
+nfmcp-nfemm1_x_0177_nfmcp_00: 
+M: Pichitu kim kimelngen tüfey.
+C: Me dieron a conocer poco conocimiento.
+  
+nfmcp-nfemm1_x_0178_nfmcp_00: 
+M: Fey ka pichitu fey tripan wariamu
+C: Como tambien salí poco a la ciudad
+
+M:  fey ngoymalafin welu
+C: pero no me he olvidado
+
+M: ngoymalan ñi mapudungun.
+C:  no he olvidado el idioma mapuche.
+ 
+nfmcp-nfemm1_x_0179_nfemm_00: 
+M: Ya.
+C: Ya
+ 
+nfmcp-nfemm1_x_0180_nfmcp_00: 
+M: %Wüfkinga.
+C:
+ 
+nfmcp-nfemm1_x_0181_nfmcp_00: 
+M: Fentrentu mapuche dunguwelan rume
+C: No he hablado en su totalidad en idioma mapuche
+
+M:  kam +/mapusu/+ mapusunguwelan
+C: no estoy hablando en idioma mapuche
+
+M: mapusunguwelan reke welu fey moymalafin.
+C: no he hablado mucho en idioma mapuche pero no lo he olvidado.
+ 
+nfmcp-nfemm1_x_0182_nfemm_00: 
+M: Feymu moymakelay
+C: Por eso no lo olvido
+
+M:  yo <*SPA>tamien moymalkelan.
+C: yo tambien no lo he olvidado.
+ 
+nfmcp-nfemm1_x_0183_nfemm_00: 
+M: Mapusungungen
+C: Hablo en el idioma mapuche
+
+M: feyta mapu sungupen
+C: pero ahora estoy hablando
+
+M: ka welu inche kay feyta.
+C: pero yo ahora pues.
+ 
+nfmcp-nfemm1_x_0184_nfemm_00: 
+M: Pichikeche ke ta enseñalayafin tati
+C: A los niños no les vamos a enseñar
+
+M: <Laugh> üllamtungeafuy
+C: les pueden despreciar
+
+M: <*SPA>despresiangeafuy pin.
+C: les pueden despreciar digo.
+ 
+nfmcp-nfemm1_x_0185_nfemm_00: 
+M: <*SPA>No <*SPA>que <*SPA>siempre la inchiñ taiñ mollfüñ.
+C: No, siempre nuestra sangre.
+ 
+nfmcp-nfemm1_x_0186_nfemm_00: 
+M: <*SPA>Siempre.
+C: Siempre.
+
+nfmcp-nfemm1_x_0187_nfemm_00: 
+M: <uh> Despresiangekiyiñ
+C: Nos desprecian
+
+M: üllamtungekiyin *feymu *feyta.
+C: Nos desprecian por eso ahora.
+
+nfmcp-nfemm1_x_0188_nfemm_00: 
+M: Feymu tachi amuy tañi rakisuamün ta inche <*SPA>ese.
+C: Por eso tengo que pensar  yo, ese.
+
+nfmcp-nfemm1_x_0189_nfemm_00: 
+M: Lalay re penoamfe.
+C: Ya no murio.
+ 
+nfmcp-nfemm1_x_0190_nfmcp_00: 
+M: Ñamümi ritu.
+C: No se perdio. 
+ 
+nfmcp-nfemm1_x_0191_nfemm_00: 
+M: Ñamümfin tañi üy tañi puche.
+C: Se me perdio el nombre de mi gente.
+ 
+nfmcp-nfemm1_x_0192_nfmcp_00: 
+M: Tañi tañi falil.
+C: Ese que tiene valor.
+
+nfmcp-nfemm1_x_0193_nfemm_00: 
+M: <*SPA>Claro.
+C: Claro.
+ 
+nfmcp-nfemm1_x_0194_nfmcp_00: 
+M: Falil.
+C: Valor.
+ 
+nfmcp-nfemm1_x_0195_nfmcp_00: 
+M: Tuchipüle rume mülefl falin
+C: En cualquier parte hay valor
+
+M:  <uh> ñamümfiyin reke ka.
+C: esta cómo un poco perdido
+
+nfmcp-nfemm1_x_0196_nfemm_00: 
+M: Si pues
+C: Si pués
+
+M:  <*SPA>pero inche kimün mapudungun.
+C: pero yo se el idioma mapuche.
+
+nfmcp-nfemm1_x_0197_nfemm_00: 
+M: Mapud riku ñi kuseke pülllü <%>.
+C: Nuestro espiritu cómo mapuche.
+ 
+nfmcp-nfemm1_x_0198_nfemm_00: 
+M: Nunka epingelayay.
+C: Nunca se dirá.
+ 
+nfmcp-nfemm1_x_0199_nfemm_00: 
+M: Cho-chol miaukeluam inche 
+C: Como ando en Chol_ Chol
+
+M: <*SPA>siempre fey <*SPA>postamu
+C: siempre en la Posta
+
+M:  ka konken ka.
+C: tambien entro.
+ 
+nfmcp-nfemm1_x_0200_nfemm_00: 
+M: Wiluleki che 
+C: Hay harta gente
+
+M: <*SPA>hay<*SPA> en <*SPA>la <*SPA>posta.
+C: hay en la Posta.
+ 
+nfmcp-nfemm1_x_0201_nfemm_00: 
+M: Ngatramkapefiel inche 
+C: Que yo converso 
+
+M: fey chalipukefin pu domo
+C: voy a saludar a las mujeres, 
+
+M: awem kay.
+C: 
+
+nfmcp-nfemm1_x_0202_nfemm_00: 
+M: Mapuche anta eymi ñaña
+C: Usted es mapuche hermana
+
+M:  pitu pitukeneu chi pu domo.
+C: así me dicen las mujeres.
+
+nfmcp-nfemm1_x_0203_nfemm_00: 
+M: Yewele inche yewentukukelan inche
+C: Si tiene vergüenza, no le de conmigo 
+
+M: fey yewentukun ñi pichikeche
+C: me dio vergüenza con mis niños
+
+M:  fey enrealkelan ñi weda femkallelan anfe.
+C: como no ando muy arreglada, es por eso.
+ 
+nfmcp-nfemm1_x_0204_nfemm_00: 
+M: Femngechi tati.
+C: Por eso. 
+
+nfmcp-nfemm1_x_0205_nfemm_00: 
+M: Kom kay wingkaulu che.
+C: Como todo se han ahuincado.
+ 
+nfmcp-nfemm1_x_0206_nfmcp_00: ¨
+M: <*SPA>Si.
+C: Si.
+
+M: kom kom.
+C: Todo, todo.
+ 
+nfmcp-nfemm1_x_0207_nfmcp_00: 
+M: Kom.
+C: Todo.
+ 
+nfmcp-nfemm1_x_0208_nfemm_00: 
+M: <*SPA>Santiago amuyngün 
+C: Fueron a Santiago
+
+M: ka mapusunguwetukelaymün ka.
+C : tampoco hablaron en idioma mapuche, pues.
+  
+nfmcp-nfemm1_x_0209_nfmcp_00: 
+M: Fey kay ka iñchiñ fey.
+C: Como tambien nosotros.
+ 
+nfmcp-nfemm1_x_0210_nfmcp_00: 
+M: Ta.
+C: En.
+ 
+nfmcp-nfemm1_x_0211_nfmcp_00: 
+M: Feyti chi sociedad <%>.
+C: Esta sociedad.
+
+nfmcp-nfemm1_x_0212_nfmcp_00: 
+M: Kay.
+C: Pues.
+ 
+nfmcp-nfemm1_x_0213_nfmcp_00: 
+M: Wingkamu fey soy, soy.
+C: En la ciudad es mas, mas.
+
+nfmcp-nfemm1_x_0214_nfmcp_00: 
+M: Tukunielu <*SPA>leye kay ka.
+C: Ellos lo tienen todo, pues.
+ 
+nfmcp-nfemm1_x_0215_nfemm_00: 
+M: Feypu.
+C: Eso pues.
+ 
+nfmcp-nfemm1_x_0216_nfemm_00: 
+M: <*SPA>La <*SPA>ley <*SPA>de mapu.
+C: La ley de la tierra.
+ 
+nfmcp-nfemm1_x_0217_nfmcp_00: 
+M: Feymu fey iñchiñ fey.
+C: Por eso, asi nosotros.
+
+nfmcp-nfemm1_x_0218_nfmcp_00: 
+M: <uh> Newe.
+C: No es tanto.
+
+nfmcp-nfemm1_x_0219_nfmcp_00: 
+M: <uh> Kimfalkülelayin sungu reke ka.
+C: No esta muy claro nuestro asunto, pues.
+ 
+nfmcp-nfemm1_x_0220_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+  
+nfmcp-nfemm1_x_0221_nfmcp_00: 
+M: Welu soy.
+C: Tal vez.
+ 
+nfmcp-nfemm1_x_0222_nfmcp_00: 
+M: Mülefule soy.
+C: Hubiera mas.
+
+nfmcp-nfemm1_x_0223_nfmcp_00: 
+M: <hm>.
+C:
+ 
+nfmcp-nfemm1_x_0224_nfmcp_00: 
+M: Kimkeche mapuche fey soy.
+C: Mas personas con sabiduria.
+ 
+nfmcp-nfemm1_x_0225_nfmcp_00: 
+M: Kimngeyukahafi sungu mapuche sungu ka.
+C: No se conoce mucho el tema, pues.
+
+nfmcp-nfemm1_x_0226_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+  
+nfmcp-nfemm1_x_0227_nfmcp_00: 
+M: Fey felelmu fey ñamküli reke.
+C: Es por eso que esta perdido.
+
+nfmcp-nfemm1_x_0228_nfmcp_00: 
+M: Ñamküli.
+C: Perdido.
+ 
+nfmcp-nfemm1_x_0229_nfmcp_00: 
+M: Welu foula fey.
+C: Pero ahora, ese.
+ 
+nfmcp-nfemm1_x_0230_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0231_nfmcp_00: 
+M: Soy, soy wefküli ka fey.
+C: Pero ahora cada vez mas, esta reapareciendo ese.
+ 
+nfmcp-nfemm1_x_0232_nfmcp_00: 
+M: <uh> Mapuche sungu ayintuy
+C: Le gusta el tema mapuche
+
+M: niengi ta mapuche sungun.
+C: se esta manteniendo el idioma mapuche.
+ 
+nfmcp-nfemm1_x_0233_nfmcp_00: 
+M: <hm> Petu.
+C: Todavia.
+ 
+nfmcp-nfemm1_x_0234_nfmcp_00: 
+M: <uh>.
+C:
+
+nfmcp-nfemm1_x_0235_nfmcp_00: 
+M: Mülenmu pu lamngen kim soy kim kimlu.
+C: Por haber hermanos que tienen mas sabiduria.
+ 
+nfmcp-nfemm1_x_0236_nfmcp_00: 
+M: Fey wenuntuni tañi sungu engün
+C: Por eso se esta levantando ese saber a traves de ellos
+
+M. y falilngetuafel mapuche.
+C: y hacer valer lo que es ser mapuche.
+ 
+nfmcp-nfemm1_x_0237_nfemm_00: 
+M: <*SPA>Sí.
+C: Sí.
+
+nfmcp-nfemm1_x_0238_nfmcp_00: 
+M: Ka ñamnuafel tañi sungu ka.
+C: Como tambien no perder el idioma.
+ 
+nfmcp-nfemm1_x_0239_nfmcp_00: 
+M: Feymu.
+C: Por eso.
+ 
+nfmcp-nfemm1_x_0240_nfmcp_00: 
+M: Y pu wecheke che.
+C:  Y los jovenes.
+ 
+nfmcp-nfemm1_x_0241_nfmcp_00: 
+M: Chillkatulelu <*SPA>estudio piel 
+C: Los que estan estudiando
+
+M: <*SPA>estudiolelu fey.
+C: los que estudian.
+ 
+nfmcp-nfemm1_x_0242_nfmcp_00: 
+M: Iñchiñ taiñ mapuche +/sung/+  
+C: Nosotros como mapuche
+
+M: mapuche sungu falili
+C: nuestro idioma mapuche tiene valor
+
+M: pilingün fey engün ka.
+C: ellos estan diciendo asi, pues.
+
+nfmcp-nfemm1_x_0243_nfmcp_00:
+M: Llamlayay pilingün ka.
+C: No se va a perder estan diciendo.
+ 
+nfmcp-nfemm1_x_0244_nfmcp_00: 
+M: Ñamlayay.
+C: No se va perder.
+ 
+nfmcp-nfemm1_x_0245_nfmcp_00: 
+M: <uh> L'awen' fil l'awen' <uh> .
+C: Remedios distintos, remedios.
+
+nfmcp-nfemm1_x_0246_nfmcp_00: 
+M: Müli +/mapus/+ mapuchemu.
+C: Existen en la tierra mapuche.
+ 
+nfmcp-nfemm1_x_0247_nfmcp_00: 
+M: Fey kom kintungin foula feyengün.
+C: Ahora estan todos buscandolo ellos.
+ 
+nfmcp-nfemm1_x_0248_nfemm_00: ¨
+M: Püla femi.
+C: 
+ 
+nfmcp-nfemm1_x_0249_nfmcp_00: 
+M: <uh> Hospital l'awen' ka <uh> nieki fey ti.
+C: El remedio del hospital tiene eso.
+ 
+nfmcp-nfemm1_x_0250_nfmcp_00: 
+M: Pütokopule ka fey <uh>.
+C: Tambien se bebé eso.
+ 
+nfmcp-nfemm1_x_0251_nfmcp_00: 
+M: Lla llapümchealu.
+C: 
+ 
+nfmcp-nfemm1_x_0252_nfemm_00:  
+M: <*SPA>Sí.
+C: Sí.
+
+nfmcp-nfemm1_x_0253_nfmcp_00: 
+M: Foula fey fey.
+C: Ahora asi, es.
+ 
+nfmcp-nfemm1_x_0254_nfmcp_00:
+M:  <uh> Mapu l'awen'
+C: Remedio naturales
+
+M:  fey rume falinefi foula.
+C: eso tiene mucho valor ahora.
+ 
+nfmcp-nfemm1_x_0255_nfmcp_00: 
+M: Ta mapuche l'awen' ka winka l'awen' fey.
+C: Como remedio mapuche o como tambien el remedio huinca.
+
+nfmcp-nfemm1_x_0256_nfmcp_00: 
+M: Fey.
+C:  Eso.
+ 
+nfmcp-nfemm1_x_0257_nfmcp_00: 
+M: Y.
+C: Y.
+
+nfmcp-nfemm1_x_0258_nfmcp_00: 
+M: Femuechi winka l'awen' 
+C: Ese remedio huinca
+
+M: kimngeno pitalmu.
+C: no se conoce en el hospital.
+ 
+nfmcp-nfemm1_x_0259_nfmcp_00: 
+M: Mapuche l'awen' 
+C: El remedio natural
+
+M: fey ka fey kimngealu feula.
+C: tambien se va a conocer ahora.
+ 
+nfmcp-nfemm1_x_0260_nfemm_00: 
+M: <*SPA>Sí.
+C: Sí.
+  
+nfmcp-nfemm1_x_0261_nfmcp_00: 
+M: Pitalmu.
+C: En el hospital
+ 
+nfmcp-nfemm1_x_0262_nfmcp_00: 
+M: Ka kimngealu.
+C: Tambien se conoce.
+ 
+nfmcp-nfemm1_x_0263_nfmcp_00: 
+M: Feymu ta inche ramtukeyu.
+C: Por eso yo le pregunto.
+
+nfmcp-nfemm1_x_0264_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0265_nfmcp_00: 
+M: Tami.
+C: Ese.
+
+nfmcp-nfemm1_x_0266_nfmcp_00: 
+M: Chumuechi tami mülen eymi.
+C: ¿Cómo esta usted?.
+
+nfmcp-nfemm1_x_0267_nfmcp_00: 
+M: Tami.
+C: Ese.
+
+nfmcp-nfemm1_x_0268_nfmcp_00: 
+M: Tami.
+C: Ese.
+ 
+nfmcp-nfemm1_x_0269_nfmcp_00: 
+M: Kümelkaleken kam.
+C: Si ha estado bien. 
+ 
+nfmcp-nfemm1_x_0270_nfmcp_00: 
+M: Kutrangen ramtukeyu.
+C:  Si ha estado enfermo, le pregunto.
+  
+nfmcp-nfemm1_x_0271_nfmcp_00: 
+M: Fey.
+C: Esta.
+ 
+nfmcp-nfemm1_x_0272_nfmcp_00: 
+M: Che <uh>.
+C: Persona.
+ 
+nfmcp-nfemm1_x_0273_nfmcp_00: 
+M: Amuleyu ngütram.
+C: Sigamos conversando..
+ 
+nfmcp-nfemm1_x_0274_nfmcp_00:
+M: Eymi ta chem.
+C: Usted que.
+ 
+nfmcp-nfemm1_x_0275_nfmcp_00: 
+M: Kutran soy kimfimi eymi ta mülen ta soy.
+C: Usted conoce más sobre las enfermedades.
+ 
+nfmcp-nfemm1_x_0276_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0277_nfmcp_00: 
+M: Soy nienon ta l'awen' newe.
+C: No tengo tanto remedio.
+ 
+nfmcp-nfemm1_x_0278_nfmcp_00: 
+M: Pichike kutran ka müley ka feyti.
+C: Hay enfermedad pasajeras que tambien existen pues.
+ 
+nfmcp-nfemm1_x_0279_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0280_nfmcp_00: 
+M: ¿Chumechi chafü kutran? <uh>.
+C: ¿Como es la enfermedad del refriado?
+
+nfmcp-nfemm1_x_0281_nfmcp_00: 
+M: Soy <*SPA>luegu rupakelu.
+C: Ese que pasa más rapido.
+ 
+nfmcp-nfemm1_x_0282_nfemm_00: 
+M: <*SPA>Sí.
+C: Sí.
+
+nfmcp-nfemm1_x_0283_nfmcp_00: 
+M: Ka müli kutran ta soy, soy fentetu ta.
+C: Tambien hay enfermedad mas fuerte, más en estos tiempos.
+ 
+nfmcp-nfemm1_x_0284_nfmcp_00: 
+M: Amulu fey .
+C:  Así van avanzando.
+
+nfmcp-nfemm1_x_0285_nfmcp_00: 
+M: Pelay l'awen'.
+C: Al cual no se le encuentra remedio.
+ 
+nfmcp-nfemm1_x_0286_nfemm_00: 
+M: Fey.
+C: Ese.
+ 
+nfmcp-nfemm1_x_0287_nfmcp_00: 
+M: Fey.
+C: Ese.
+
+nfmcp-nfemm1_x_0288_nfmcp_00: 
+M: Eymi ta.
+C: Usted.
+
+nfmcp-nfemm1_x_0289_nfmcp_00: 
+M: ¿Kimpelafimi?.
+C: ¿Yo creo que la conoce?.
+ 
+nfmcp-nfemm1_x_0290_nfmcp_00: 
+M: Feyti.
+C: Ese.
+
+nfmcp-nfemm1_x_0291_nfemm_00: 
+M: Ah.
+C: Ah.
+
+M: <*SPA>¿Cual?
+C: ¿Cual?
+ 
+nfmcp-nfemm1_x_0292_nfemm_00: 
+M: Kuyfi.
+C: Ante.
+
+nfmcp-nfemm1_x_0293_nfemm_00: 
+M: Iñche ñuke <*SPA>cuando.
+C: Mi mamá cuando.
+ 
+nfmcp-nfemm1_x_0294_nfemm_00: 
+M: Kutraniyin iñchiñ 
+C: Nosotros nos enfermamos
+
+M: <*SPA>cuando <*SPA>heramos <*SPA>chico.
+C: Cuando heramos chicos.
+
+nfmcp-nfemm1_x_0295_nfemm_00: 
+M: Kintukefuy tachi.
+C: Buscaba estas.
+
+nfmcp-nfemm1_x_0296_nfemm_00: 
+M: Tapül.
+C: Hojas.
+
+nfmcp-nfemm1_x_0297_nfemm_00: 
+M: Make.
+C: de Maque.
+ 
+nfmcp-nfemm1_x_0298_nfemm_00: 
+M: Tapül make +/külf/+ külfo pikefuy ka.
+C: Hojas de maque,  como tambien decia külfo.
+ 
+nfmcp-nfemm1_x_0299_nfemm_00: 
+M: Kilwelay chi kül chem %pifinge <*SPA>eso.
+C: No se conoce ... eso.
+
+nfmcp-nfemm1_x_0300_nfemm_00: 
+M: Chempi kül.
+C: Ese 
+ 
+nfmcp-nfemm1_x_0301_nfemm_00: 
+M: Püllay.
+C: Enredadera 
+ 
+nfmcp-nfemm1_x_0302_nfmcp_00: 
+M: Püllay.
+C: Enredadera
+ 
+nfmcp-nfemm1_x_0303_nfemm_00: 
+M: Püllay dice mi mama.
+C: Enredadera dice mi mamá.
+ 
+nfmcp-nfemm1_x_0304_nfemm_00: 
+M: Püllay tapül.
+C: Hoja de enredadera.
+ 
+nfmcp-nfemm1_x_0305_nfemm_00: 
+M: Tapül chem.
+C: Hoja de enredadera.
+  
+nfmcp-nfemm1_x_0306_nfemm_00: 
+M: Külon.
+C: Maqui.
+ 
+nfmcp-nfemm1_x_0307_nfemm_00: 
+M: Maki.
+C: Maki.
+
+nfmcp-nfemm1_x_0308_nfemm_00: 
+M: Maki pingi wingkamu
+C: Maqui se llama en huinca
+
+M:  mapuche feyta külon pi.
+C: el mapuche le dice külon. 
+
+nfmcp-nfemm1_x_0309_nfemm_00: 
+M: Tüfichi.
+C: Con ese.
+ 
+nfmcp-nfemm1_x_0310_nfemm_00: 
+M: Fey ngütrorkefeyiñmu fey.
+C: Con ese nos sacudia. 
+
+nfmcp-nfemm1_x_0311_nfemm_00: 
+M: Elukefeyinmu
+C: Nos daba
+
+M:  feymu mongetukefuyin
+C: a traves de eso nos mejorabamos
+
+M:  <*SPA>cuando rüleyem.
+C: cuando nos refriabamos.
+  
+nfmcp-nfemm1_x_0312_nfemm_00: 
+M: Feli che fey.
+C: Cuando la persona esta así.
+ 
+nfmcp-nfemm1_x_0313_nfemm_00: 
+M: Ka femelkefun pichikeche ka.
+C:  Tambien se le deja a los niños.
+ 
+nfmcp-nfemm1_x_0314_nfemm_00: 
+M: Cuando rüleyngün fey.
+C: Cuando se enferman.
+
+nfmcp-nfemm1_x_0315_nfemm_00: 
+M: Fey kintulkefuiñ fey.
+C: Eso buscabamos. 
+
+nfmcp-nfemm1_x_0316_nfemm_00: 
+M: Fey mongetukefuy.
+C: Con eso de mejoran.
+ 
+nfmcp-nfemm1_x_0317_nfemm_00: 
+M: <uh> Tu <*SPA>nunca tukulafiñ
+C: Tu, nunca lo utilizaste 
+
+M:  wingklamu engün.
+C: con los huincas.
+  
+nfmcp-nfemm1_x_0318_nfemm_00: 
+M: <*SPA>Alguno.
+C: Algunos.
+
+nfmcp-nfemm1_x_0319_nfemm_00: 
+M: Hojay ñi pichikeche pi yekefuy winkamu 
+C: Cuando se hojaron nuestros niños los lleve donde el huinca
+
+M: adümüulumu,
+C: cómo este se manejaba,
+
+M:  <*SPA>yo <*SPA>nunca kutran chengelafuy
+C: yo nunca era una persona enferma 
+
+M:  ñi pichikeche.
+C: ni mis niños.
+ 
+nfmcp-nfemm1_x_0320_nfemm_00: 
+M: Femngechi.
+C: Por eso.
+ 
+nfmcp-nfemm1_x_0321_nfemm_00: 
+M: Külon engün tichi püllay tati..
+C: El Maqui y la enredadera pues
+
+nfmcp-nfemm1_x_0322_nfemm_00: 
+M: Püllay pingeki.
+C: Enredadera se llama.
+
+nfmcp-nfemm1_x_0323_nfemm_00: 
+M: May.
+C: Sí.
+
+nfmcp-nfemm1_x_0324_nfmcp_00: 
+M: Feyti püllay.
+C: Esa enredadera.
+
+nfmcp-nfemm1_x_0325_nfmcp_00: 
+M: Müchamkingün fiti
+C: Lo dejan bien quebrado
+
+M: feyti foki reke amuki.
+C: y avanza como bosque 
+ 
+nfmcp-nfemm1_x_0326_nfemm_00: 
+M: Foki reke amukinga püllay.
+C: Ese va como enredadera en el bosque.
+ 
+nfmcp-nfemm1_x_0327_nfemm_00: 
+M: Tüfata müte ngewelay rume ka, ka.
+C: Ahora no hay  mucho de eso, pues..
+
+nfmcp-nfemm1_x_0328_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0329_nfemm_00: 
+M: Müte ngewelayem.
+C: No hay mucho.
+
+nfmcp-nfemm1_x_0330_nfmcp_00: 
+M: Welu feyti.
+C: Pero estos. 
+
+nfmcp-nfemm1_x_0331_nfmcp_00: 
+M: Püllay feyti
+C: Esa enredadera
+
+M:  <*SPA>copihue <*SPA>no ka kangelu fey.
+C: de copihue, esa tambien es otra.
+ 
+nfmcp-nfemm1_x_0332_nfemm_00: 
+M: <*SPA>No, <*SPA>no, <*SPA>no, <*SPA>no püllay.
+C: No, no, no, no la enredadera.
+
+nfmcp-nfemm1_x_0333_nfmcp_00: 
+M: Püllay.
+C: La enredadera.
+ 
+nfmcp-nfemm1_x_0334_nfmcp_00: 
+M: Püllay, püllay kangelu.
+C: La enredadera, enredadera es otra.
+ 
+nfmcp-nfemm1_x_0335_nfemm_00
+M: May.
+C: Sí.
+  
+nfmcp-nfemm1_x_0336_nfemm_00: 
+M: Kolko piukengela anchi.
+C: No es copihue.
+ 
+nfmcp-nfemm1_x_0337_nfemm_00: 
+M: Tachi.
+C: Esa.
+
+nfmcp-nfemm1_x_0338_nfmcp_00: 
+M: <hm>.
+C:
+  
+nfmcp-nfemm1_x_0339_nfemm_00: 
+M: ¿Chem nga <*SPA>copihue pingeki wingkamu?
+C: ¿Como que se llama el Copihue en huinca?
+
+M:  mapuche feyta kolkopi kolkopi
+C: en mapuche se dice kolkopi
+
+M:  chem pikefuy ñi ñukeyem.
+C: me decia mi finada madre.
+ 
+nfmcp-nfemm1_x_0340_nfemm_00: 
+M: <*SPA>Ese püllay feyta elukefeyiñmu.
+C: Esa enredadera nos daba.
+
+nfmcp-nfemm1_x_0341_nfemm_00: 
+M: May.
+C: Sí.
+  
+nfmcp-nfemm1_x_0342_nfemm_00: 
+M: Fey fey iñche ka püñeñ ngelu
+C: Eso, cuando yo  tuve hijo
+
+M:  ka fey ka fenfun pichikeche.
+C:  a mi tambien me paso con mi niño.
+ 
+nfmcp-nfemm1_x_0343_nfemm_00: 
+M: <*SPA>Nunca yelafuñ postamu engün
+C: Nunca lo lleve a la Posta a ellos
+
+M:  kutranche ngelafuy rume engün ka.
+C: ni siquiera eran enfermo ellos.
+ 
+nfmcp-nfemm1_x_0344_nfemm_00: 
+M: <*SPA>Salieron <*SPA>sano <*SPA>los <*SPA>caurito sano tripayngün.
+C: Salieron sanos los niños, sanos salieron
+
+nfmcp-nfemm1_x_0345_nfemm_00: 
+M: <*SPA>Yo <*SPA>estoy <*SPA>harta 
+C: Yo estoy harta
+
+M: <*SPA>familia <*SPA>tuve <*SPA>ocho <*SPA>pu' .
+C: tuve ocho familia, pues.
+
+nfmcp-nfemm1_x_0346_nfmcp_00: 
+M: <*SPA>Ocho.
+C: ¿Ocho?
+ 
+nfmcp-nfemm1_x_0347_nfemm_00: 
+M: <*SPA>Ocho <*SPA>hijos mongey.
+C: Ocho hijos vivos.
+ 
+nfmcp-nfemm1_x_0348_nfmcp_00: 
+M: +/Kom mu/+ kom ngeleyngün.
+C: Todo, todo no estan. 
+
+nfmcp-nfemm1_x_0349_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M: Epu l'ay ke.
+C: Solo dos se murieron
+  
+nfmcp-nfemm1_x_0350_nfemm_00:
+M: Niefun mari püñeñ mayta niepefun.
+C: Tuve diez hijos esos tuve.
+ 
+nfmcp-nfemm1_x_0351_nfemm_00: 
+M: Fey llemay kutran koni tañi kutran ta.
+C: Se enfermaron mis hijos, se enfermaron.
+ 
+nfmcp-nfemm1_x_0352_nfemm_00: 
+M: Kutran cheukületuken.
+C: Por eso estoy enferma.
+ 
+nfmcp-nfemm1_x_0353_nfmcp_00: 
+M: Ta familiamu mülen.
+C: Vivo por mi familia.
+
+nfmcp-nfemm1_x_0354_nfmcp_00: 
+M: Fentren familia nienmu ta ñuke fey.
+C: Mi mamá tenia cualquiera familia.
+ 
+nfmcp-nfemm1_x_0355_nfmcp_00: 
+M: Kutran ngeweki ka.
+C: Por eso tambien es enferma.
+ 
+nfmcp-nfemm1_x_0356_nfemm_00: 
+M: Sipu.
+C:  Si, pues.
+
+nfmcp-nfemm1_x_0357_nfmcp_00: 
+M: Kutran ngeweki.
+C: Es enferma.
+
+nfmcp-nfemm1_x_0358_nfemm_00: 
+M: Fey kutranchengewal.
+C: Así se enfermaba.
+
+nfmcp-nfemm1_x_0359_nfmcp_00: 
+M: Rume.
+C: Mucho.
+
+nfmcp-nfemm1_x_0360_nfmcp_00: 
+M: Rume ta.
+C: Mucho.
+
+nfmcp-nfemm1_x_0361_nfmcp_00: 
+M: Ta.
+C: Es. 
+ 
+nfmcp-nfemm1_x_0362_nfmcp_00: 
+M: Perdeki ta mollfüñ pingeki ka.
+C: Se pierde la sangre se dice.
+ 
+nfmcp-nfemm1_x_0363_nfemm_00: 
+M: Fey.
+C: Eso.
+ 
+nfmcp-nfemm1_x_0364_nfmcp_00: 
+M: Soy feleukelay reke ta.
+C: Ya no se queda igual.
+ 
+nfmcp-nfemm1_x_0365_nfmcp_00: 
+M: Ta.
+C: Es.
+ 
+nfmcp-nfemm1_x_0366_nfmcp_00: 
+M: <*SPA>Soltera lekemu ta fey, fey.
+C: Así soltera, ya no esta..
+
+nfmcp-nfemm1_x_0367_nfmcp_00: 
+M: Felelay ka felelay newe ka.
+C: Ya no esta así.
+ 
+nfmcp-nfemm1_x_0368_nfemm_00: 
+M: Noke.
+C: No se.
+ 
+nfmcp-nfemm1_x_0369_nfemm_00: 
+M: Ante ngelafuy hospital.
+C: Ante no habia hospital.
+
+nfmcp-nfemm1_x_0370_nfmcp_00: 
+M: <hm>.
+C:
+  
+nfmcp-nfemm1_x_0371_nfemm_00: 
+M: Ngelay pital.
+C: No hay hospital.
+ 
+nfmcp-nfemm1_x_0372_nfemm_00: 
+M: Tüfa mayta amutuy püñeñalu che
+C: Ahora se  va allá a tener el hijo las personas
+
+M:  winkamu 
+C:  donde el huinca, 
+
+M:  ante<*SPA>no inche re kampumu müten.
+C: antes yo solamente los tenia en el campo, no mas.
+ 
+nfmcp-nfemm1_x_0373_nfemm_00: 
+M: Kampumu müten püñeñün.
+C: En el campo no mas nacieron.
+
+
+
+nfmcp-nfemm1_x_0374_nfemm_00:
+M: Y kimkelafuyin pital.
+C: Y no conociamos el hospital.
+  
+nfmcp-nfemm1_x_0375_nfemm_00: 
+M: Femngechi.
+C: Así es.
+ 
+nfmcp-nfemm1_x_0376_nfmcp_00: 
+M: Femki ka.
+C: Asi tambien pues.
+
+nfmcp-nfemm1_x_0377_nfemm_00: 
+M: Femngechi tañi mongen ta inche.
+C: Esa es mi vida.
+ 
+nfmcp-nfemm1_x_0378_nfmcp_00: 
+M: <uh> Ka müleki ta kutran
+C: Tambien existe la enfermedad
+
+M: feyti enfermedad <*SPA>infecciosa
+C: esa enfermedad infecciosa
+
+M:  ka müleki ka fey.
+C: tambien existe, tambien esa.
+ 
+nfmcp-nfemm1_x_0379_nfemm_00: 
+M: <*SPA>Sí.
+C: Sí.
+ 
+nfmcp-nfemm1_x_0380_nfmcp_00: 
+M: ¿Eymi kimpelafimi iñi kutran
+C: ¿Usted no conoce esa enfermedad?
+
+M:  famngechi <*SPA>infecciosa nielu chi kutran?.
+C: esa enfermedad infecciosa? .
+ 
+nfmcp-nfemm1_x_0381_nfemm_00: 
+M: Fey llemay
+C: Asi claro
+
+M:  ta fey wingkamu ta mületuken inche.
+C: es que yo vivo por el huinca.
+ 
+
+
+nfmcp-nfemm1_x_0382_nfemm_00: 
+M: <*SPA>Infección <*SPA>entro <*SPA>en <*SPA>el, 
+C: La infeccion entro en la
+
+M: <*SPA>en <*SPA>la <*SPA>matriz.
+C: en la matriz.
+
+nfmcp-nfemm1_x_0383_nfemm_00: 
+M: Matrimu +/koñi püñeñwe koñi/+  koñiwe pingekelama.
+C: En la Matriz, en el utero, así se le llama.
+
+nfmcp-nfemm1_x_0384_nfemm_00: 
+M: Mapuchemu.
+C: En mapuche.
+
+nfmcp-nfemm1_x_0385_nfmcp_00: 
+M: <*SPA>Sí.
+C: Sí.
+
+nfmcp-nfemm1_x_0386_nfemm_00: 
+M: <*SPA>Asi <*SPA>que <*SPA>ese fey kolül feyta.
+C: Así que ese, es colorado, pues.
+
+nfmcp-nfemm1_x_0387_nfemm_00: 
+M: Kom wingka llemay
+C: Todos lo huinca se
+
+M:  kümelka <*SPA>por <*SPA>la <*SPA>indección 
+C:  mejoran por la injeccion
+
+M: <*SPA>uno notauleki ta elungeal fey.
+C: uno se anota para que le coloquen eso.
+
+nfmcp-nfemm1_x_0388_nfemm_00: 
+M: <*SPA>Entonces feymu feyta mongelün feymu.
+C: Entonces por eso se mejora, por eso.
+ 
+nfmcp-nfemm1_x_0389_nfemm_00: 
+M: Alfarinumu tukungen ka.
+C: En Galvarino me colocan pues
+ 
+nfmcp-nfemm1_x_0390_nfemm_00: 
+M: Femngechi saminangen.
+C: Asi es que me examinanaron.
+ 
+nfmcp-nfemm1_x_0391_nfemm_00: 
+M: Fey kimüñmangen ñi kutran.
+C: Asi me conocieron mi enfermedad.
+
+nfmcp-nfemm1_x_0392_nfemm_00: 
+M: Fey <*SPA>me <*SPA>colocaban <*SPA>indección y.
+C: Por eso me colocaban injeccion y.
+ 
+nfmcp-nfemm1_x_0393_nfemm_00: 
+M: Fey +/mejora/+  mejoratun.
+C: Asi me mejore.
+
+nfmcp-nfemm1_x_0394_nfmcp_00: 
+M: <*SPA>Claro.
+C: Claro.
+ 
+nfmcp-nfemm1_x_0395_nfemm_00: 
+M: Femngechi amfe femngechi tañi.
+C: Asi es, me llevaron colgado, así fue. 
+ 
+nfmcp-nfemm1_x_0396_nfemm_00: 
+M: Feychi femngechi re wingka l'awen'
+C: Fue con puro remedio de huinca 
+
+M: müte ta ñi feleken
+C: hace tiempo que estaba así
+
+M:  pero mapuche l'awen' no konlan tati konlan.
+C: pero con remedio mapuche no me mejore, pues no me mejore.
+ 
+nfmcp-nfemm1_x_0397_nfmcp_00: 
+M: Konlay ka.
+C: No me mejore, pues
+ 
+nfmcp-nfemm1_x_0398_nfmcp_00: 
+M: Fey.
+C: Ese.
+ 
+nfmcp-nfemm1_x_0399_nfmcp_00: 
+M: Eymi ta foula fey feypiafuymi y.
+C: Usted ahora hubiese dicho.
+
+nfmcp-nfemm1_x_0400_nfmcp_00: 
+M: Y pital l'awen' ta rume küm.
+C: Y en el hospital hay harto remedio bueno.
+ 
+nfmcp-nfemm1_x_0401_nfemm_00: 
+M: Fey kümi inche
+C: Fue bueno para mi
+
+M:  inche <*SPA>tengo <*SPA>fe nien <*SPA>fe inche.
+C:  que yo tenga fe, tengo fe yo.
+ 
+nfmcp-nfemm1_x_0402_nfmcp_00: 
+M: <hm>  Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0403_nfemm_00: 
+M: <*SPA>Porque.
+C: Porque
+  
+nfmcp-nfemm1_x_0404_nfemm_00: 
+M: Pital l'awen'mu.
+C: Con remedio del hospital.
+
+nfmcp-nfemm1_x_0405_nfemm_00: 
+M: Femngechi tuketen <*SPA>indección pingi tati.
+C: Ese me mejoró, eso que se llama injeccion.
+
+nfmcp-nfemm1_x_0406_nfemm_00: 
+M: Ka tichi <*SPA>tabletita elungi che.
+C: Tambien le dan tableta a las personas.
+ 
+nfmcp-nfemm1_x_0407_nfemm_00: 
+M: En esa infección ka müli l'awen' ka.-
+C: Para esa infeccion tambien existe remedios pues.
+ 
+nfmcp-nfemm1_x_0408_nfemm_00: 
+M: <*SPA>Uno <*SPA>por <*SPA>visto
+C: Uno para verse
+
+M:  <*SPA>pa' <*SPA>lavarse <*SPA>uno
+C: para lavarse uno
+
+M:  <*SPA>abajo <*SPA>en <*SPA>la <*SPA>matri 
+C: abajo en la matriz
+
+M: <*SPA>abajo fey elungeken.
+C: abajo, donde estaba enferma.
+ 
+
+
+
+nfmcp-nfemm1_x_0409_nfemm_00: 
+M: Feymu feyta rume külfün chengetun
+C: Por eso es que ahora estoy bien alentada
+ 
+nfmcp-nfemm1_x_0410_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0411_nfemm_00: 
+M: <*SPA>Ahora <*SPA>estoy sana 
+C: Ahora estoy sana
+
+M: pichintu wesaymaufuy ñi <*SPA>cuerpu.
+C: con un poquito de dolor de cuerpo.
+  
+nfmcp-nfemm1_x_0412_nfemm_00: 
+M: Fey.
+C: Eso.
+ 
+nfmcp-nfemm1_x_0413_nfemm_00: 
+M: <*SPA>Pero <*SPA>ahora <*SPA>gracias a Dios.
+C: Pero ahora gracia a Dios.
+ 
+nfmcp-nfemm1_x_0414_nfemm_00: 
+M: Ta.
+C: Que
+ 
+nfmcp-nfemm1_x_0415_nfemm_00: 
+M: Tremüukülekatun.
+C: Me he aliviado.
+
+nfmcp-nfemm1_x_0416_nfemm_00: 
+M: Femngechi tañi mongen tati.
+C: Asi esta mi vida pues.
+ 
+nfmcp-nfemm1_x_0417_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0418_nfmcp_00: 
+M: Y.
+C: Y.
+ 
+
+
+
+nfmcp-nfemm1_x_0419_nfmcp_00: 
+M: ¿Fey eymi +/vakunayau/+ *fakunaukimi ka?.
+C: ¿Usted tambien se vacuna?.
+ 
+nfmcp-nfemm1_x_0420_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M:  *Fakunauken  <*SPA>
+C: Me vacuno, 
+
+M: <*SPA>cuando <*SPA>pido *fakuna 
+C: cuando pido vacuna
+
+M: <*SPA>alli <*SPA>en <*SPA>la 
+C: alli en la 
+
+M: <*SPA>posta fey *fakunaken.
+C: en la Posta me vacunan.
+
+nfmcp-nfemm1_x_0421_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0422_nfemm_00: 
+M: <*SPA>Ahora 
+C: Ahora
+
+M: <*SPA>estoy <*SPA>controlando 
+C: estoy controlandome
+
+M: <*SPA>en <*SPA>la posta <*SPA>müten
+C: en la Posta no mas,
+
+M:  kontrolaletulan ta.
+C: ahora me estoy controlando pues.
+ 
+nfmcp-nfemm1_x_0423_nfemm_00: 
+M: Fey feymu ta ella trekayauken.
+C: Por eso ando caminando despacio.
+ 
+nfmcp-nfemm1_x_0424_nfemm_00: 
+M: Y püñüko pingeki tachi <*SPA>eso.
+C:
+ 
+nfmcp-nfemm1_x_0425_nfemm_00: 
+M: Piruchi nga
+C: Los gusanos pues
+
+M: <*SPA>que <*SPA>sale 
+C. que salen
+
+M: <*SPA>en <*SPA>el <*SPA>cuerpo tripaki 
+C: en el cuerpo sale
+
+M: <*SPA>como <*SPA>que <*SPA>se <*SPA>llama.
+C: como que se llama .
+ 
+nfmcp-nfemm1_x_0426_nfmcp_00: 
+M: Feyti.
+C: Ese.
+ 
+nfmcp-nfemm1_x_0427_nfemm_00: 
+M: Puñu pingi mapuchemu <*SPA>parece.
+C: granos se llama en el idioma mapuche, parece.
+ 
+nfmcp-nfemm1_x_0428_nfmcp_00: 
+M: No püñeñi.
+C: No todas pueden tener hijo
+
+nfmcp-nfemm1_x_0429_nfemm_00: 
+M: May.
+C: Sí.
+ 
+nfmcp-nfemm1_x_0430_nfmcp_00: 
+M: Welu feyti sarna ka pingeki nga.
+C:  Pero a eso le dicen Sarna .
+ 
+nfmcp-nfemm1_x_0431_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M:  <*SPA>Ese re <*SPA>sarpoya müten.
+C: Esa es puro Sarpuyido no mas.
+
+
+nfmcp-nfemm1_x_0432_nfmcp_00: 
+M: <*SPA>Como <*SPA>alergia reke.
+C: Como pura alergia.
+ 
+
+
+nfmcp-nfemm1_x_0433_nfemm_00: 
+M: <*SPA>Alergia reke 
+C: Como alergia
+ 
+M: <*SPA>alergia pingi wingka sungunmu.
+C: Alergia le dicen en Castellano.
+
+nfmcp-nfemm1_x_0434_nfmcp_00: 
+M: Fey püño pingi mapu dungunmu.
+C: A ese se le dice Puño en Mapuzugun
+ 
+nfmcp-nfemm1_x_0435_nfemm_00: 
+M: <*SPA>Si 
+C: Sí.
+
+M: Püño pingi.
+C:  granos se llama.
+
+nfmcp-nfemm1_x_0436_nfmcp_00: 
+M: Püñu.
+C: Es alergia.
+ 
+nfmcp-nfemm1_x_0437_nfemm_00: 
+M: Püñu pingekefuy 
+C: Grano se llama
+
+M: feymu amun postamu fey elungen.
+C: Por eso fui a la Posta, y allí me dieron.
+
+nfmcp-nfemm1_x_0438_nfemm_00: 
+
+M: Kolokalngen <*SPA>indección en la postita feymu.
+C: Me colocaron injeccion en la Posta, por eso.
+ 
+nfmcp-nfemm1_x_0439_nfemm_00: 
+M: Fey külün changetuken.
+C:
+
+nfmcp-nfemm1_x_0440_nfemm_00: 
+M: <*SPA>La <*SPA>debilidad <*SPA>debil külkechi che femki pingi.
+C: La debilidad, es del intestino el que se debilita dicen
+ 
+
+
+
+
+nfmcp-nfemm1_x_0441_nfmcp_00: 
+M: Fey eymi pimi.
+C: Usted dice.
+
+nfmcp-nfemm1_x_0442_nfmcp_00: 
+M: Foula.
+C: Ahora
+ 
+nfmcp-nfemm1_x_0443_nfmcp_00: 
+M: <uh> Fentren kutran müli
+C: Existen diferentes enfermedades 
+
+M:  fill kutran müli 
+C: diferentes enfermedades hay
+
+M: ka püñu kutran <uh>.
+C: tambien esta la enfermedad del grano pues.
+ 
+nfmcp-nfemm1_x_0444_nfmcp_00: 
+M: Ka feyti pitru kutran pingeki
+C: Tambien esta la enfermedad de los granos que le dicen
+
+M: feyti <*SPA>sarna pingeki ka 
+C: Sarna se le dice tambien 
+
+M: fey müleki ka.
+C: esa existe tambien.
+ 
+nfmcp-nfemm1_x_0445_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+ 
+nfmcp-nfemm1_x_0446_nfmcp_00: 
+M: <uh> Iñche ta kiñeke kutran kimniyefiñ.
+C: Yo conozco algunas de estas enfermedades.
+
+nfmcp-nfemm1_x_0447_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0448_nfmcp_00: 
+M: ¿Chemu rume fente küpaki kutran pikimi eymi lamuen?.
+C: ¿Porque dicen que salen hartas enfermedades hermana?. 
+ 
+
+
+nfmcp-nfemm1_x_0449_nfemm_00: 
+M: <*SPA>Es <*SPA>que.
+C: Es que.
+
+nfmcp-nfemm1_x_0450_nfemm_00: 
+M: <*SPA>Cuando <*SPA>uno.
+C: Cuando uno.
+ 
+nfmcp-nfemm1_x_0451_nfemm_00: 
+M: Fentren <*SPA>sufrimientu nielu.
+C: Cuando uno tiene mucho sufrimiento. 
+ 
+nfmcp-nfemm1_x_0452_nfemm_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0453_nfemm_00: 
+M: <*SPA>En kampumu müna müli kutran kawün.
+C: En el campo hay hartas enfermedades
+ 
+nfmcp-nfemm1_x_0454_nfemm_00: 
+M: Püñeñ kawi che.
+C: Cuando tienen hartos hijos
+ 
+nfmcp-nfemm1_x_0455_nfemm_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0456_nfemm_00: 
+M: Yafüngewelay reke
+C: Ya no tiene cómo mucha fuerza
+
+M:  küme cuerpu reke niewetulay che <*SPA>pu'.
+C: ya la persona,  no tiene como un buen cuerpo, pués.
+
+nfmcp-nfemm1_x_0457_nfemm_00: 
+M: Kutran chewi koni <*SPA>cualquier kutran fey.
+C: Le entran enfermedades, ya sea de cualquier enfermedad.
+ 
+nfmcp-nfemm1_x_0458_nfemm_00: 
+M: Y<*SPA>asi.
+C: Y así.
+  
+
+
+
+nfmcp-nfemm1_x_0459_nfemm_00: 
+M: <*SPA>Pasan <*SPA>eso.
+C: Pasa eso.
+ 
+nfmcp-nfemm1_x_0460_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0461_nfmcp_00: 
+M: Eymi.
+C: Usted.
+ 
+nfmcp-nfemm1_x_0462_nfmcp_00: 
+M: Eymi.
+C: Usted.
+ 
+nfmcp-nfemm1_x_0463_nfmcp_00: 
+M: Chem piki pimi chem pikimi.
+C: Que dice, que dice usted. 
+ 
+nfmcp-nfemm1_x_0464_nfmcp_00: 
+M: <uh> Tam kümewelay yin
+C: De que no vamos a estar en buenas condiciones
+
+M:  kümewelay ingewelay ta.
+C: ya no estamos bien.
+ 
+nfmcp-nfemm1_x_0465_nfmcp_00: 
+M: Küme yin
+C: Comemos bien
+
+M:  y feymu soy soy küpali kutran kam.
+C: y por eso estan saliendo enfermedades.
+ 
+nfmcp-nfemm1_x_0466_nfmcp_00: 
+M: Feytachi iyal küpalelu wariamu
+C: Esta comida que viene de la ciudad
+
+M: ngillanengel chi iyal
+C: no llama la atención para comprarla
+
+M:  fey soy küpalnepi kutran.
+C: esta trae mas enfermedades.
+
+
+
+ 
+nfmcp-nfemm1_x_0467_nfmcp_00: 
+M: Kuyfi ta püchakeche.
+C: Antiguamente los ancianos.
+ 
+nfmcp-nfemm1_x_0468_nfmcp_00: 
+M: Fey newe ta <*SPA>azúcar tukelafuy pikingün ka.
+C:  Poca Azucar tomaban dicen ellos pues.
+ 
+nfmcp-nfemm1_x_0469_nfemm_00: 
+M: Sipu.
+C: Sí pues.
+ 
+nfmcp-nfemm1_x_0470_nfmcp_00: 
+M: Feymu 
+C: Por eso
+
+M: fey newe küpakelafuy kutran ka pingi.
+C: así no se enfermaban mucho dicen.
+ 
+nfmcp-nfemm1_x_0471_nfmcp_00: 
+M: <uh> Feymu pemu küpay feymupe küpali kutran.
+C: Por eso estan pasando las enfermadades.
+
+nfmcp-nfemm1_x_0472_nfemm_00: 
+M: Claro feymu peka.
+C: Claro de ser por eso.
+ 
+nfmcp-nfemm1_x_0473_nfemm_00: 
+M: Feymu pe tüfa kay matetulu che ka 
+C: Por eso cuando toma mate la persona
+
+M: kuyfi matetukelafuy che pingi 
+C: ante no se tomaba mate dicen las personas
+
+M: kimngelafuy asukura 
+C: no conocian el azucar
+
+M: re mültrün müten ni.
+C: solamente el Catuto no mas.tenian
+
+nfmcp-nfemm1_x_0474_nfemm_00: 
+M: Katutu pingi tati 
+C: Catuto le dicen pues 
+ 
+M: mültrün tichi.
+C: ese Catuto.
+
+
+nfmcp-nfemm1_x_0475_nfemm_00:
+M: Kako ka.
+C: El Mote tambien.
+ 
+nfmcp-nfemm1_x_0476_nfemm_00: 
+M: Inche kakolkefun pichikeche.
+C: Yo le hacia mote a los niños.
+ 
+nfmcp-nfemm1_x_0477_nfemm_00: 
+M: Mürkelfin engüñ kakolfin engüñ.
+C: Le hago harina tostada como tambien mote.
+
+nfmcp-nfemm1_x_0478_nfemm_00: 
+M: Fey ilekefuyngün
+C: Eso les daba de comer
+
+M: fuluntuku pisku ka seumalkefun engüñ ka.
+C: tambien le hacia poroto.
+ 
+nfmcp-nfemm1_x_0479_nfemm_00: 
+M: Feymu tremümfiñ engüñ.
+C: Con esa comida ellos crecieron.
+
+nfmcp-nfemm1_x_0480_nfemm_00: 
+M: <*SPA>Pero <*SPA>no <*SPA>son <*SPA>enfermo.
+C: Pero no son enfermo
+ 
+nfmcp-nfemm1_x_0481_nfmcp_00: 
+M: ¿Kutrankelayngün?.
+C: ¿No se enfermaban?.
+
+nfmcp-nfemm1_x_0482_nfemm_00: 
+M: Kutranchengelayngün no kutranchengelayngu.
+C: No se enfermaba las personas, no se enfermaban.
+ 
+nfmcp-nfemm1_x_0483_nfemm_00: 
+M: Fey inchemay putremlu
+C: Yo por fumar
+
+M:  feyta wüla kiñfiñ feyta kutran.
+C: por esto es que  recien conocí de enfermedades.
+ 
+nfmcp-nfemm1_x_0484_nfemm_00: 
+M: Fey.
+C: Así
+ 
+nfmcp-nfemm1_x_0485_nfemm_00: 
+M: Re femechi.
+C: Por eso.
+ 
+nfmcp-nfemm1_x_0486_nfemm_00: 
+M: Femngechi tañi mongel tati.
+C: Así es mi vida pues.
+ 
+nfmcp-nfemm1_x_0487_nfemm_00: 
+M: Welu mongelenka Dios ta eluneneu llemay ta.
+C: Dios me mejoro y me dio vida 
+ 
+nfmcp-nfemm1_x_0488_nfmcp_00: 
+M: Fey.
+C: Ese
+
+nfmcp-nfemm1_x_0489_nfemm_00: 
+M: Molepe pieneu mongelen.
+C: Que este vivo me dijo, por eso es que estoy vivo.
+
+nfmcp-nfemm1_x_0490_nfemm_00: 
+M: Fey elukunueneu tañi pichikeche tati.
+C: Por eso me dio a mi niños. 
+
+nfmcp-nfemm1_x_0491_nfemm_00: 
+M: Fentren pichikeche nien
+C: Tengo hartos niños 
+
+M: akutuyngün pepatukeneu anay
+C: cuando llegan me vienen a ver
+
+M: ayiutuki ñi piuke.
+C: así se alegra mi corazon.
+ 
+nfmcp-nfemm1_x_0492_nfemm_00: 
+M: Y <*SPA>doy <*SPA>gracia Dios <*SPA>pu'.
+C: Y gracias a Dios pues.
+
+nfmcp-nfemm1_x_0493_nfmcp_00: 
+M: Feli.
+C: Así es.
+
+nfmcp-nfemm1_x_0494_nfemm_00: 
+M: Dios ayuda nekiyu che.
+C: Dios ayuda por eso es que esta la gente.
+ 
+nfmcp-nfemm1_x_0495_nfemm_00: 
+M: Kichungünewün anta mülerkiyin ta mapumu.
+C: En la tierra no nos mandamos solo
+
+nfmcp-nfemm1_x_0496_nfemm_00: 
+M: Müley ta chau ta tani.
+C: Esta nuestro Padre.
+  
+nfmcp-nfemm1_x_0497_nfemm_00: 
+M: *Lefantaniateu che.
+C: Para levantar a las personas.
+ 
+nfmcp-nfemm1_x_0498_nfemm_00: 
+M: Küme trekayawal leliwül mapuleal.
+C:  Para andar caminando bien y  mirar nuestra tierra.
+ 
+nfmcp-nfemm1_x_0499_nfemm_00: 
+M: <*SPA>Ese Dios eluneyu <*SPA>ese.
+C: Ese Dios nos da.
+
+nfmcp-nfemm1_x_0500_nfemm_00: 
+M: <*SPA>Ese <*SPA>valor <*SPA>pu'.
+C: Ese valor pues.
+
+nfmcp-nfemm1_x_0501_nfmcp_00: 
+M: <hm>  <*SPA>Fuerza.
+C: Fuerza.
+
+nfmcp-nfemm1_x_0502_nfemm_00: 
+M: Ta <*SPA>fuerza <*SPA>fuerza *feyta.
+C: Harta fuerza, fuerza.
+
+nfmcp-nfemm1_x_0503_nfemm_00: 
+M: Maneluwün müli chau Dios mu.
+C: Tenemos que estar unidos a Dios.
+ 
+nfmcp-nfemm1_x_0504_nfemm_00: 
+M: Ka pu <*SPA>doctor ka müli ka.
+C: Tambien hay doctor, pues
+
+
+
+
+nfmcp-nfemm1_x_0505_nfemm_00: 
+M: Ka maneluwün ngingün llemay.
+C: Que tambien nos ayuda pués.
+ 
+nfmcp-nfemm1_x_0506_nfemm_00: 
+M: <*SPA>Porque <*SPA>iso
+C: Porque
+
+M:  kisu duamnielay <*SPA>ese 
+C: El no necesita ese
+
+M: <*SPA>ese <*SPA>conocimiento llu
+C: ese conocimiento de ellos
+
+M:  Dios <*SPA>le <*SPA>dio 
+C: Dios le dio
+
+M: <*SPA>ese <*SPA>conocimientu <*SPA>pu'.
+C: ese conocimiento pues.
+ 
+nfmcp-nfemm1_x_0507_nfemm_00: 
+M: Dios eleyiñmu <*SPA>doctor.
+C: Dios dejo el Doctor.
+ 
+nfmcp-nfemm1_x_0508_nfmcp_00: 
+M: Awem.
+C: Como algo espiritual.
+ 
+nfmcp-nfemm1_x_0509_nfemm_00: 
+M: Ka müli machi ka.
+C: Tambien esta la machi pues.
+ 
+nfmcp-nfemm1_x_0510_nfemm_00: 
+M: <*SPA>Y pake 
+C: Y para que
+
+M: <*SPA>la <*SPA>gente 
+C: la gente
+
+M: <*SPA>no <*SPA>esten <*SPA>sufriendo.
+C: no este sufriendo.
+ 
+nfmcp-nfemm1_x_0511_nfemm_00: 
+M: Kutran kaukülenual.
+C: Para no estar enfemo.
+ 
+nfmcp-nfemm1_x_0512_nfemm_00: 
+M: Fey.
+C: Eso.
+ 
+nfmcp-nfemm1_x_0513_nfemm_00: 
+M: Tuteni l'awen' che
+C: Para que le realice remedio a la gente
+
+M:  fey +/lewi/+ leliwül mapuley <*SPA>pu'.
+C: para que miren  la tierra, pués.  
+
+nfmcp-nfemm1_x_0514_nfmcp_00: 
+M: May.
+C: Sí.
+
+M: Feli pue.
+C: Así es pues.
+ 
+nfmcp-nfemm1_x_0515_nfemm_00: 
+M: Müley ñi mañumtungeal chau Dios
+C: Tenemos que agradecer a Dios Padre.
+
+M:  acordangeal ka.
+C: tenemos que acordarlo a él.
+ 
+nfmcp-nfemm1_x_0516_nfmcp_00: 
+M: Femechi.
+C: Por eso.
+ 
+nfmcp-nfemm1_x_0517_nfemm_00: 
+M: Femechi tati.
+C: Así es pues.
+ 
+nfmcp-nfemm1_x_0518_nfmcp_00: 
+M: Ti femuechi.
+C: Es asi.
+  
+nfmcp-nfemm1_x_0519_nfemm_00: 
+M: Femuechi ta amul ngütramkaletuyu.
+C: Así hemos seguido conversando
+ 
+nfmcp-nfemm1_x_0520_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0521_nfmcp_00: 
+M: Eymi fey.
+C: Y su.
+ 
+nfmcp-nfemm1_x_0522_nfmcp_00: 
+M: Pichikechemu fey 
+C:  Niños 
+
+M: <uh> ¿kutrankelayngün?
+C: ¿no se enferman?
+
+nfmcp-nfemm1_x_0523_nfmcp_00: 
+P: Kom tremuengingün pikimi.
+C: Todos crecimos dicen.
+
+nfmcp-nfemm1_x_0524_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+nfmcp-nfemm1_x_0525_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0526_nfmcp_00: 
+M: Feyti ka kutran müleki pingeki nga fey.
+C: Tambien se decia que había otra enfermedad.
+ 
+nfmcp-nfemm1_x_0527_nfmcp_00: 
+M: Epidemi pingeki nga feyti.
+C: Epidemia se llama esa enfermedad..
+
+nfmcp-nfemm1_x_0528_nfmcp_00: 
+M: Wecha kutran kupal lu pichikechemu pichitu.
+C: Esa mala enfermedad que les da a los niños.
+ 
+nfmcp-nfemm1_x_0529_nfmcp_00: 
+M: Fey o füchakechemu
+C: O a los ancianos
+
+M:  ka küpaleki kutran pingi pingeki.
+C: tambien vienen enfermedades dicen.
+ 
+nfmcp-nfemm1_x_0530_nfmcp_00: 
+M: Fey.
+C: Ese.
+ 
+nfmcp-nfemm1_x_0531_nfmcp_00: 
+M: Eymi kiñeke kutran feyti.
+C: Usted  alguna de esa enfermedad.
+
+nfmcp-nfemm1_x_0532_nfmcp_00: 
+M: ¿Kimfimi?.
+C: ¿la conoce?.
+ 
+nfmcp-nfemm1_x_0533_nfemm_00: 
+M: <*SPA>No.
+C: No.
+ 
+nfmcp-nfemm1_x_0534_nfmcp_00: 
+M: Rulpalafimi femuechi kutran.
+C: No puede trabajar con esa enfermedad.
+
+nfmcp-nfemm1_x_0535_nfemm_00: 
+M: <*SPA>No, <*SPA>no, <*SPA>no, <*SPA>no rulpalafiñ.
+C: No, no, no, no puedo.
+
+nfmcp-nfemm1_x_0536_nfmcp_00: 
+M: ¿Rulpalafimi?.
+C: ¿Puede hacerlo?.
+ 
+nfmcp-nfemm1_x_0537_nfemm_00: 
+M: Pichikechemu pitrukelafuy.
+C: Cuando chico no tenia granos.
+ 
+nfmcp-nfemm1_x_0538_nfmcp_00:
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0539_nfemm_00: 
+M: Pitrukelafuy 
+C: No tuvieron Sarna
+
+M: <*SPA>todo <*SPA>salieron sanu
+C: todos salieron sano
+
+M:  sanu tripay ñi pichikeche 
+C: sanos salieron los niños
+
+M: por <*SPA>eso <*SPA>doy <*SPA>gracias Dios <*SPA>pu'.
+C: por eso doy gracias a Dios, pues.
+    
+
+
+nfmcp-nfemm1_x_0540_nfemm_00: 
+M: Dio elukeyu 
+C: Dios le da
+
+M: <*SPA>familia che müleki püñeñ.
+C: en la familia hay hijos.
+
+nfmcp-nfemm1_x_0541_nfemm_00: 
+M: Kichu ngünewün
+C: No nos mandamos solos
+
+M:  anta niekerkiyin <*SPA>familia.
+C: nosotros como familia.
+
+nfmcp-nfemm1_x_0542_nfmcp_00: 
+M: Felelay <*SPA>pu' 
+C: Así no es pues
+
+M: kichu ngünewün ta mülelayin ka.
+C: no nos mandamos solos
+
+nfmcp-nfemm1_x_0543_nfemm_00: 
+M: Sipu.
+C: Sí pues.
+
+nfmcp-nfemm1_x_0544_nfemm_00: 
+M: Dios eluneyiñmu mongen.
+C: Dios no da vida.
+
+nfmcp-nfemm1_x_0545_nfemm_00: 
+M: Y alüntu müley
+C: Y por eso existimos 
+
+M:  tin alün tripantu mongeleki che.
+C: con hartos años que esta viva la persona.
+ 
+nfmcp-nfemm1_x_0546_nfemm_00: 
+M: Kom penetullimay ñi 
+C: Todos viendonos
+
+M: <*SPA>familia kutrankechi tremümi 
+C: nuestra familia, han sufrido mucho
+
+
+
+
+M: <*SPA>pero <*SPA>ya.
+C: pero ya.
+ 
+nfmcp-nfemm1_x_0547_nfemm_00: 
+M: Leliwülnetuy <*SPA>pu' .
+C: Nos estan mirando pues.
+
+nfmcp-nfemm1_x_0548_nfemm_00: 
+M: Kimpeñpeyu ka peniengepatuki.
+C: Nos conocen y tambien nos vienen a ver.
+
+nfmcp-nfemm1_x_0549_nfemm_00: 
+M: Dios ti.
+C: El Dios.
+ 
+nfmcp-nfemm1_x_0550_nfemm_00: 
+M: <*SPA>Papa <*SPA>de <*SPA>gracias <*SPA>con Dios.
+C: Papá , de Gracias a Dios.
+  
+nfmcp-nfemm1_x_0551_nfmcp_00:
+M:  <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0552_nfmcp_00: 
+M: Eymi tami pu <*SPA>familia fey.
+C: Y su familia pues.
+ 
+nfmcp-nfemm1_x_0553_nfmcp_00: 
+M: Amuki ta fakunawalu engün ka fey.
+C: Van a vacunarse ellos tambien.
+ 
+nfmcp-nfemm1_x_0554_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M: Amuki kom engün
+C: Van todos ellos
+
+M: tati amuki kom konkingün
+C: y todos entran 
+
+M:  *fakunakingün.
+C: a vacunarse.
+
+
+ 
+nfmcp-nfemm1_x_0555_nfemm_00:
+M:  <uh>  Ke pastamu pichika mapuliyin
+C: Estamos un poco retirado de la Posta
+
+M:  ka üyüu kampumu mülen 
+C: estoy viviendo en otro campo
+
+M: ka pichika mapuli ka
+C: tambien esta un poco retirado
+
+M:  <*SPA>posta kom amukiyin *feymu.
+C: vamos todos a esa Posta.
+   
+1_x_0556_nfemm_0016_nfemm_00: 
+M: Feymu.
+C: En esa.
+
+nfmcp-nfemm1_x_0557_nfemm_00:
+M: Ta.
+C: Es.
+ 
+nfmcp-nfemm1_x_0558_nfemm_00: 
+M: Konküleki.
+C: Esta adentro.
+ 
+nfmcp-nfemm1_x_0559_nfmcp_00:  
+M: Eymi ta.
+C: Y usted.
+ 
+nfmcp-nfemm1_x_0560_nfmcp_00: 
+M: <uh> L'awen'tuukülekimi
+C: Esta tomando remedio
+
+M: siempre ta l'awen'tuukülekimi.
+C: siempre esta tomando remedio.
+ 
+nfmcp-nfemm1_x_0561_nfemm_00: 
+M: <*SPA>Siempre lia toweya toy
+C: 
+
+M: <*SPA>con <*SPA>control.
+C: con control.
+
+
+
+
+nfmcp-nfemm1_x_0562_nfemm_00: 
+M: Controlaukülen tüfamu tati posta.
+C: Me controlo en esta Posta.
+ 
+nfmcp-nfemm1_x_0563_nfmcp_00: 
+M: Ah.
+C: Ah.
+
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0564_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0565_nfemm_00: 
+M: <*SPA>Tengo <*SPA>mi 
+C: Tengo mi 
+
+M: <*SPA>fecha <*SPA>pa' <*SPA>ir 
+C: fecha para ir 
+
+M: yelelmengeken l'awen' tregle mu.
+C: me van a buscar remedios los siete.
+ 
+nfmcp-nfemm1_x_0566_nfemm_00:
+M: Apümi patilla fey yelmengeken.
+C: Cuando se acaba las pastillas me van a buscar.
+ 
+nfmcp-nfemm1_x_0567_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0568_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0569_nfmcp_00: 
+M: Eymi ka fey pütulekimi kiñekemu.
+C: Y usted tambien a veces esta tomando.
+
+nfmcp-nfemm1_x_0570_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+  
+
+
+nfmcp-nfemm1_x_0571_nfmcp_00: 
+M: <*SPA>Vitamina kay ka famngechi fisküleal.
+C: Vitaminas  tambien para estar refrescada.
+ 
+nfmcp-nfemm1_x_0572_nfemm_00: 
+M: <*SPA>Vitamina ka ngillaneken llema ka.
+C: Tambien estoy comprando vitaminas, pues.
+ 
+nfmcp-nfemm1_x_0573_nfmcp_00: 
+M: Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0574_nfemm_00: 
+M: Ngillaneken
+C: Estoy comprando
+
+M:  <*SPA>cuando <*SPA>no <*SPA>hay postamu
+C: cuando no hay en la Posta
+
+M:  ngelay pingeki una clase ngillaken.
+C: cuando no hay de ninguna clase, compro.
+ 
+nfmcp-nfemm1_x_0575_nfemm_00: 
+M: Ngillaki.
+C: Compro.
+
+nfmcp-nfemm1_x_0576_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0577_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+M:  <*SPA>Asi <*SPA>estoy <*SPA>pasando.
+C: Así lo estoy pasando.
+ 
+nfmcp-nfemm1_x_0578_nfemm_00: 
+M: Femuechi rulpa, rulpa antülen.
+C: Así pasa, pasan los dias.
+ 
+
+
+
+nfmcp-nfemm1_x_0579_nfemm_00: 
+M: Rulpa tripantulen.
+C: Pasan los años.
+
+nfmcp-nfemm1_x_0580_nfemm_00: 
+M: Y mongelen tati.
+C: Y estoy viva pues.
+
+nfmcp-nfemm1_x_0581_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0582_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0583_nfmcp_00: 
+M: Tüfey.
+C:  Que bueno.
+ 
+nfmcp-nfemm1_x_0584_nfmcp_00: 
+M: Pu puñen ta fey <uh> kom mongelingün ka.
+C: Los hijos estan todos vivos tambien.
+  
+nfmcp-nfemm1_x_0585_nfemm_00: 
+M: Fey kom mongelingün
+C: Estan todos vivos
+
+M:  kom mongelingün tati.
+C: todos estan vivos pues.
+
+nfmcp-nfemm1_x_0586_nfemm_00: 
+M: Epu müten perdey pichikelu.
+C: Dos no mas se perdieron cuando chicos.
+ 
+nfmcp-nfemm1_x_0587_nfemm_00: 
+M: Pichikeche kay kiñe
+C: De los niños tambien uno
+
+M: ankantuy ñi püñeñ.
+C: nacio prematuro.
+
+nfmcp-nfemm1_x_0588_nfemm_00: 
+M: Pürampelu witran trapi inche famuechi.
+C: Cuando yo levante un palo, así.
+ 
+nfmcp-nfemm1_x_0589_nfemm_00: 
+M: Kiñe mamüll trafesakunun
+C: Un palo se traveso
+
+M:  parayam pin trafoy chi pisu.
+C: se paro y se quebro el piso.
+
+nfmcp-nfemm1_x_0590_nfemm_00: 
+M: Latrang nagi wentelli
+C: Y se cayo en mi cadera
+
+M:  kiñe feymu perdey.
+C: y hay se perdio uno.
+ 
+nfmcp-nfemm1_x_0591_nfemm_00: 
+M: Afichi mongetripalay ñi pichiche.
+C: Ahí no salio vivo mi niño.
+
+nfmcp-nfemm1_x_0592_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0593_nfemm_00: 
+M: Amulu pürüm.
+C: Cuando subí.
+
+nfmcp-nfemm1_x_0594_nfemm_00: 
+M: Chol-chol pstamu 
+C: A la Posta de Chol-Chol
+
+M: fey <*SPA>ya <*SPA>estaba <*SPA>jodida <*SPA>ya.
+C:  ya estaba jodida , ya.
+
+nfmcp-nfemm1_x_0595_nfemm_00: 
+M: <*SPA>Asi.
+C: Así.
+  
+nfmcp-nfemm1_x_0596_nfemm_00: 
+M: Femuechi mongen ta nien ta inche.
+C: Esa vida tengo yo.
+ 
+nfmcp-nfemm1_x_0597_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0598_nfmcp_00: 
+M: Eymi, eymi ta.
+C: Usted, usted es.
+
+nfmcp-nfemm1_x_0599_nfmcp_00: 
+M: Rume.
+C: Muy
+ 
+nfmcp-nfemm1_x_0600_nfmcp_00:
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0601_nfmcp_00: 
+M: Küme küpalelu
+C: Viene bien 
+
+M: tami pu püñeñ <uh> petu ta, petu ta.
+C: sus hijos, pero despues, pero despues.
+ 
+nfmcp-nfemm1_x_0602_nfmcp_00:
+M:  <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0603_nfmcp_00: 
+M: Llegnolu engün
+C:
+ 
+M: ta petu ta nacenolu engün
+C: ellos no han nacido todavia.
+
+M: feyta kimelngimi 
+C: eso te dieron a conocer
+
+M: ta chumngechi tami küdawal.
+C: como vas a trabajar.
+
+nfmcp-nfemm1_x_0604_nfemm_00: 
+M: Mauy.
+C: Sí.
+
+M: Areglalngekefun 
+C: Me trataron de acomodar
+
+M: feymu llemay
+C: por eso sera
+
+
+
+M: ka adümuulu kampumu.
+C: que en el campo tambien existe conocimiento.
+ 
+nfmcp-nfemm1_x_0605_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0606_nfemm_00: 
+M: Elpütrangekefun.
+C: Me acomodaron la guata.
+
+nfmcp-nfemm1_x_0607_nfmcp_00: 
+M: Ah.
+C: Ah.
+
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0608_nfemm_00: 
+M: Elpütrangekefun 
+C: Me habrian acomodado la guata
+
+M: fey ka elpaki küme naceam chi pichiche.
+C: para que nasca bien mi niño.
+ 
+nfmcp-nfemm1_x_0609_nfmcp_00: 
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0610_nfemm_00: 
+M: Kakül lu kay 
+C: Se atraveso
+
+M: fey eluel pütrangefun fey hay
+C: por eso me  acomodaron la guata
+
+M: <*SPA>nacen <*SPA>bien küme nacekingün.
+C: para que nascan bien. 
+
+nfmcp-nfemm1_x_0611_nfmcp_00: 
+M: Ya.
+C: Ya.
+
+
+
+
+nfmcp-nfemm1_x_0612_nfemm_00: 
+M: Küme tripayam.
+C: Para que salgan bien.
+ 
+nfmcp-nfemm1_x_0613_nfemm_00: 
+M: <%>.
+C:
+ 
+nfmcp-nfemm1_x_0614_nfemm_00: 
+M: Ante <*SPA>habia ka
+C: Ante habia tambien
+
+M:  <*SPA>puro <*SPA>eso 
+C: puro eso
+
+M: <*SPA>no <*SPA>ma' 
+C: no mas
+
+M: <*SPA>en <*SPA>el kampu <*SPA>ante.
+C: en el campo ante.
+
+nfmcp-nfemm1_x_0615_nfmcp_00:
+M: Fey kampumu müten naceyngün welu.
+C: Asi en el campo no mas nacian.
+
+nfmcp-nfemm1_x_0616_nfemm_00: 
+M: May.
+C: Sí.
+
+M: Kampumu müten nacey.
+C: En el campo no mas nacian
+ 
+nfmcp-nfemm1_x_0617_nfmcp_00: 
+M: Hospitalmu nacelayngün.
+C: En el hospital no nacian.
+
+nfmcp-nfemm1_x_0618_nfemm_00: 
+M: <*SPA>No <*SPA>no 
+C: No, no
+
+M: <*SPA>habia pital <*SPA>ante <*SPA>pu' .
+C: habia hospital, ante pues.
+
+
+
+ 
+nfmcp-nfemm1_x_0619_nfmcp_00: 
+M: Ah.
+C: Ah.
+
+M: <*SPA>No <*SPA>habia.
+C: No habia.
+
+nfmcp-nfemm1_x_0620_nfemm_00: 
+M: <*SPA>No <*SPA>alcanzara
+C: No alcanzaria
+
+M:  alcanzalay ñi pu koñi inche pitalmu.
+C: No alcanzo mi hijo el hospital.
+ 
+nfmcp-nfemm1_x_0621_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0622_nfemm_00: 
+M: Re femngechi müten 
+C: Todo fue así, no mas
+
+M: koñi mujer del kampo
+C: mi parto se realizo en el campo
+
+M: adumuwingün
+C: pues ellos tenian habilidades
+
+M: feyta fey nentuymaluwingün püñeñ.
+C: osea nos ayudamos unos a otros para sacarnos nuestros hijos.
+
+nfmcp-nfemm1_x_0623_nfemm_00: 
+M: Kutrankechi llemay.
+C: Con sufrimiento pues.
+ 
+nfmcp-nfemm1_x_0624_nfmcp_00: 
+M: Fey <hm>  naselu seuma  
+C: Cuando estabn naciendo
+
+M: llal-lu pichikeche..
+C: cuando nacieron los niños.
+ 
+
+
+
+
+nfmcp-nfemm1_x_0625_nfmcp_00: 
+M: Tami püñeñ fey.
+C: Su hijo.
+
+nfmcp-nfemm1_x_0626_nfmcp_00: 
+M: <uh> Kimelngimi
+C: Le dio a conocer 
+
+M: kay machi tami kuydayafiel.
+C:  a la machi para hacerle remedio.
+ 
+nfmcp-nfemm1_x_0627_nfemm_00: 
+M: <*SPA>Claro kimelngellen may.
+C: Claro que me dieron a conocer.
+ 
+nfmcp-nfemm1_x_0628_nfmcp_00: 
+M: Kümelli may.
+C: Que bueno, pues.
+ 
+nfmcp-nfemm1_x_0629_nfemm_00: 
+M: Ka kisu ka kimi che ka.
+C: Una tambien aprende sola.
+ 
+nfmcp-nfemm1_x_0630_nfmcp_00: 
+M: Ka kisu kimi.
+C: Tambien aprende sola.
+
+nfmcp-nfemm1_x_0631_nfemm_00: 
+M: Fey Dios adkunueteu kay tati 
+C: Dios nos dejo así.
+
+M: Fey sapiay ñi püñeñ, 
+C: Para atender a mis hijos,
+
+M: Sapiay ñi püñeñ 
+C: Atender a mis hijos
+
+M: no deskudayal <*SPA>todo <*SPA>eso.
+C: No abortar, todo eso. 
+ 
+nfmcp-nfemm1_x_0632_nfemm_00: 
+M: Ta <*SPA>bien mapucheu külefuy rume 
+C: Estamos bien  como mapuche
+
+
+M: ya tiene inteligencia <hm> .
+C: ya tienen inteligencia.
+ 
+nfmcp-nfemm1_x_0633_nfemm_00: 
+M: <*SPA>Salieron <*SPA>sano
+C: Salieron sano
+
+M: türpu kutran chengelayngün.
+C: todos no son enfermos.
+ 
+nfmcp-nfemm1_x_0634_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0635_nfmcp_00: 
+M: <uh> Eymi, eymi.
+C: Usted, usted.
+
+nfmcp-nfemm1_x_0636_nfmcp_00: 
+M: Ta.
+C: Se.
+ 
+nfmcp-nfemm1_x_0637_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0638_nfmcp_00: 
+M: Ta pichiche fey.
+C: Su hijos se.
+
+nfmcp-nfemm1_x_0639_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0640_nfmcp_00: 
+M: Teu küme naselu küme.
+C: Despues de haber nacido bien.
+ 
+nfmcp-nfemm1_x_0641_nfmcp_00: 
+M: Lleglu fey.
+C: 
+ 
+nfmcp-nfemm1_x_0642_nfmcp_00: 
+M: Lawentufimi kay küme kutran nual.
+C: Le hizo remedio para que no se enfermen.
+ 
+nfmcp-nfemm1_x_0643_nfmcp_00: 
+M: Kam.
+C: Y.
+ 
+nfmcp-nfemm1_x_0644_nfemm_00: 
+M: *Femuechi rüley müten elukefuñ.
+C: Cuando se resfrian no mas le damos remedios.
+
+nfmcp-nfemm1_x_0645_nfemm_00: 
+M: Külon pipellelan ama.
+C: Maki digo pues.
+
+nfmcp-nfemm1_x_0646_nfmcp_00: 
+M: Ah.
+C: Ah.
+
+M: Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0647_nfemm_00: 
+M: Külon ka tichi chem ka.
+C: Maki y tambien.
+ 
+nfmcp-nfemm1_x_0648_nfemm_00: 
+M: Püllay püllay.
+C: Enredadera, enredadera.
+    
+nfmcp-nfemm1_x_0649_nfemm_00: 
+M: Pülla pülla pingeki.
+C: Enredadera, enredadera le dicen.
+
+nfmcp-nfemm1_x_0650_nfmcp_00: 
+M: Pülla.
+C: Enredadera.
+
+nfmcp-nfemm1_x_0651_nfemm_00: 
+M: May.
+C: Sí.
+
+M: Mapuche tati.
+C: Mapuche es.
+
+
+
+
+nfmcp-nfemm1_x_0652_nfmcp_00: 
+M: Ah.
+C: Ah.
+
+M: Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0653_nfemm_00: 
+M: Fey müten elukefuñ engün.
+C: Eso no mas le daba a ellos.
+ 
+nfmcp-nfemm1_x_0654_nfmcp_00: 
+M: <hm>.
+C:
+  
+nfmcp-nfemm1_x_0655_nfmcp_00: 
+M: ¿Fey chem l'awen'mu fey?.
+C: ¿Con que remedio se mejoran?.
+ 
+nfmcp-nfemm1_x_0656_nfemm_00: 
+M: Feychi l'awen'mu fey mongekefun.
+C: Con ese  remedio se mejoraban.
+ 
+nfmcp-nfemm1_x_0657_nfmcp_00: 
+M: Molngelngekefuy may.
+C: Se mantenian vivos pues.
+ 
+nfmcp-nfemm1_x_0658_nfemm_00: 
+M: Tüfa may püñeñ  tati 
+C: Este es mi hijo
+
+M: feyta wünen püñeñ.
+C: es mi hijo mayor.
+
+nfmcp-nfemm1_x_0659_nfmcp_00:
+M:  <hm>.
+C:
+  
+nfmcp-nfemm1_x_0660_nfemm_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0661_nfemm_00: 
+M: Fey tripalu meli tripantu niepelay.
+C: Asi salio ya hacen cuatro años.
+ 
+nfmcp-nfemm1_x_0662_nfemm_00: 
+M: Fey.
+C : Ese.
+
+nfmcp-nfemm1_x_0663_nfemm_00: 
+M: Külfün tripay <*SPA>pu'.
+C: Salen alentado pues.
+
+nfmcp-nfemm1_x_0664_nfemm_00: 
+M: Tripay ñi pu awelitu y pu malle.
+C: Salio como sus abuelitos y los tios.
+ 
+nfmcp-nfemm1_x_0665_nfemm_00: 
+M: Fillka inche.
+C: Mi cuñada.
+
+nfmcp-nfemm1_x_0666_nfemm_00: 
+M: Tripay kuydayalu engün fey inakefuy.
+C: Salia a cuidar y la seguia.
+
+nfmcp-nfemm1_x_0667_nfemm_00: 
+M: Ngünekelafuy 
+C: No lo controlaba
+
+M: kalli amukape pingefun
+C: que vaya no mas le decian
+
+M: fey inangümakefuy tripayem kullin.
+C: lloraba cada vez que salian los animales.
+ 
+nfmcp-nfemm1_x_0668_nfemm_00: 
+M: Fey repülürkiyu mañchun 
+C: Asi lo corneo un buey
+
+M: tati furimi feymu feli tañi püñeñ.
+C: en la espalda, a mi hijo, por eso está así.
+
+nfmcp-nfemm1_x_0669_nfemm_00: 
+M: Kiñe tüfa <*SPA>este<*SPA> 
+C: Unos de estos
+
+M: el <*SPA>mayor unen tati feyti.
+C: el mayor pues.
+ 
+
+
+
+nfmcp-nfemm1_x_0670_nfmcp_00: 
+M: Awüngi kay.
+C: Salio a correr pues.
+ 
+nfmcp-nfemm1_x_0671_nfemm_00:
+M: <*SPA> Uno <*SPA>tiene 
+C: Uno tiene
+
+M: <*SPA>de <*SPA>cincuenta <*SPA>años.
+C: Cincuenta años.
+ 
+nfmcp-nfemm1_x_0672_nfemm_00: 
+M: Unen püñeñ ese.
+C: Ese es el primer hijo.
+ 
+nfmcp-nfemm1_x_0673_nfemm_00: 
+M: Femngechi 
+C: Así es
+
+M: fey ñi pu fillka 
+C: que mi cuñado
+  
+M: Fey ellkaymay maneu ellkaymayal.
+C:..................................................
+ 
+nfmcp-nfemm1_x_0674_nfemm_00: 
+M: Feypilayayin
+C: Pero no dijimos.
+
+M: porque kewayayinmu tani chau pirki.
+C: porque nos va a pegar mi papá dijo. 
+
+nfmcp-nfemm1_x_0675_nfemm_00: 
+M: Fey feypingelay ñi püñmo <*SPA>pu'.
+C: Así no dijo mi suergro, pués.
+ 
+nfmcp-nfemm1_x_0676_nfemm_00: 
+M: Kimlay despue 
+C: Después no supo nada.
+
+M: wüla alüwelu wüla
+C: después de grande
+
+M: füntülpüle fey kechu tripantu
+C: cuando llego a cinco año de vida
+
+M: ni wüla fey kangetuy 
+C: hay se fue percibiendo distinto
+
+M: chi mu wüla femi tañi püñeñ pi poray.
+C: hay recien, eso le paso a mi hijo, dijo por ahí.
+
+emm1_x_0677_nfemm_00nfemm_00:  
+M: Ngütramkafin pu *fesina.
+C: Lo conversamos pues, con mi vecina.
+
+nfmcp-nfemm1_x_0678_nfemm_00: 
+M: Chumelu chi feli ñi püñeñ pifiñ.
+C: No se porque está así mi hijo dije.
+
+nfmcp-nfemm1_x_0679_nfemm_00: 
+M: Chi pu señora fey.
+C: Esa señora.
+
+nfmcp-nfemm1_x_0680_nfemm_00: 
+M: Chilena.
+C: Es chilena.
+ 
+nfmcp-nfemm1_x_0681_nfemm_00: 
+M: Kimlaymiam pieneu.
+C: Ella no sabe, me dijo.
+ 
+nfmcp-nfemm1_x_0682_nfemm_00: 
+M: <*SPA>No <*SPA>le <*SPA>dije 
+C: No le dije
+
+M: <*SPA>porque <*SPA>sera <*SPA>
+C: porque sera
+
+M: le <*SPA>esta <*SPA>creciendo 
+C: que le esta creciendo
+
+M: kutranküli ñi tüfa ñi furi ñi püñeñ.
+C: mi hijo tiene la espalda con dolor.
+
+nfmcp-nfemm1_x_0683_nfemm_00: 
+M: Chumngelu chi pifin tin.
+C: No se porque está así le dije.
+ 
+
+
+
+
+nfmcp-nfemm1_x_0684_nfemm_00: 
+M: Ngütramkafiñ engün.
+C: Le voy a conversar a ellos.
+
+nfmcp-nfemm1_x_0685_nfemm_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0686_nfemm_00: 
+M: Pütramu mayta.
+C: En la guata.
+
+nfmcp-nfemm1_x_0687_nfemm_00: 
+M: Jodelpefin chumün chi tranün chi .
+C: Me perjudicó, no se porqué me caí.
+
+nfmcp-nfemm1_x_0688_nfemm_00: 
+M: Niepüñeñ külelu inche piken tati pifin chi una *fesina.
+C: Cuando yo estaba embarazada le dije a una vecina.
+ 
+nfmcp-nfemm1_x_0689_nfemm_00: 
+M: No femlay tati pingen.
+C: No creo que sea eso me dijieron.
+ 
+nfmcp-nfemm1_x_0690_nfemm_00: 
+M: Femlay <*SPA>porque
+C: No es eso, porque 
+
+M: ellkaymanengimi 
+C: te tienen escondido
+
+M: tati llikay tami pu fillka ta.
+C: es que se asustaron tus cuñados
+ 
+nfmcp-nfemm1_x_0691_nfemm_00: 
+M: Feypiateu eymi 
+C: Cuando me dijo usted
+
+nfmcp-nfemm1_x_0692_nfemm_00: 
+M: <*SPA>Asi <*SPA>que ta feymu feypikelaymu 
+C: Así, es que no te a dicho
+
+
+
+
+M: kimne feypikelaymu tati pieneu.
+C: sabe, pero, no te quiere decir.
+
+nfmcp-nfemm1_x_0693_nfemm_00: 
+M: Pingen.
+C: Me dijieron.
+
+nfmcp-nfemm1_x_0694_nfemm_00: 
+M: Fey femngechi ta feymu feli tañi püñeñ tati.
+C: Por eso, está así tu hijo, me dijieron.
+
+nfmcp-nfemm1_x_0695_nfemm_00: 
+M: Kutranchengi kiñe.
+C: Es una persona enferma uno. 
+ 
+nfmcp-nfemm1_x_0696_nfemm_00: 
+M: <*SPA>Ese <*SPA>hijo <*SPA>mayor.
+C: Ese hijo mayor.
+ 
+nfmcp-nfemm1_x_0697_nfmcp_00: 
+M: Ya.
+C: Ya.
+
+nfmcp-nfemm1_x_0698_nfemm_00: 
+M: <*SPA>Uno <*SPA>nace <*SPA>ese wentru.
+C: Uno nace, esé hombre
+ 
+nfmcp-nfemm1_x_0699_nfemm_00: 
+M: Femngechi.
+C: Por eso.
+ 
+nfmcp-nfemm1_x_0700_nfmcp_00: 
+M: Femngechiam.
+C: Así fue entonces.
+
+nfmcp-nfemm1_x_0701_nfmcp_00:
+M:  <Cough>.
+C:
+
+nfmcp-nfemm1_x_0702_nfemm_00: 
+M: Ta.
+C: Lo 
+ 
+
+
+
+nfmcp-nfemm1_x_0703_nfemm_00: 
+M: Kangentukafuiñ <*SPA>pu'.
+C: Lo encontre distinto, pués.
+  
+nfmcp-nfemm1_x_0704_nfemm_00: 
+M: Kangentukafuiñ fey.
+C: A el lo encontre.
+ 
+nfmcp-nfemm1_x_0705_nfemm_00: 
+M: Yefiñ timu kiñe müna mülefuy ta kuyfi ta.
+C: Lo lleve alli, donde una persona, que había ante.
+ 
+nfmcp-nfemm1_x_0706_nfemm_00: 
+M: Asümüulu kampumu ka.
+C: Eso que aprende y sabe, en el campo.
+ 
+nfmcp-nfemm1_x_0707_nfemm_00: 
+M: Y kiñe <*SPA>medica kechilechi domo 
+C: Se parece cómo una medica, esa mujer
+
+M: ñi püñeñ pin ngüma ngümangi ngüma ngümangi.
+C: mi hijo dije llora, llora y llora.
+ 
+nfmcp-nfemm1_x_0708_nfemm_00: 
+M: Meñkutripa entufiñ yefiñ fey.
+C: Lo saque al hombro y lo lleve.
+
+nfmcp-nfemm1_x_0709_nfemm_00: 
+M: Puwün feychi adümüuchi domomu.
+C: Llegue donde esa señora, que sabe.
+ 
+nfmcp-nfemm1_x_0710_nfemm_00: 
+M: Fey feypieneu chi domo ka chemi tati.
+C: Me dijo la señora que pues.
+
+nfmcp-nfemm1_x_0711_nfemm_00: 
+M: Katrü pütray tami püñeñ pieneu chi domo.
+C: Se corto la guata, tu hijo me dijo la mujer.
+ 
+nfmcp-nfemm1_x_0712_nfemm_00: 
+M: Mupilekarkefeneu <*SPA>pu'.
+C: Me dijo la verdad y le apunto pués.
+
+
+
+
+nfmcp-nfemm1_x_0713_nfemm_00: 
+M: Chumngechiam katrü pütray ñi püñeñ 
+C: Como se le corto la guata a mi hijo
+
+M: chumngechiam pin.
+C: como le dije.
+ 
+nfmcp-nfemm1_x_0714_nfemm_00: 
+M: Pin inche.
+C: Le dije yo.
+ 
+nfmcp-nfemm1_x_0715_nfemm_00: 
+M: Femngechi femeneu engün pilan
+C: Eso me hicieron no lo pense
+
+M: <*SPA>pu' 
+C: pues
+
+M: ellkaymaymeneu ñi pu fillka.
+C:  me lo tenian escondido mis cuñado.
+ 
+nfmcp-nfemm1_x_0716_nfmcp_00: 
+M: Ya.
+C: ya.
+
+nfmcp-nfemm1_x_0717_nfemm_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0718_nfemm_00: 
+M: Elueneu l'awen' chi domo.
+C: Me dio remedio la mujer.
+ 
+nfmcp-nfemm1_x_0719_nfemm_00: 
+M: Eperayan tüfamu.
+C: Me espera aquí.
+ 
+nfmcp-nfemm1_x_0720_nfemm_00: 
+M: Inche amuan.
+C: Yo voy a ir.
+  
+nfmcp-nfemm1_x_0721_nfemm_00: 
+M: Rüngamean timu.
+C: Voy aporcar alli.
+ 
+nfmcp-nfemm1_x_0722_nfemm_00: 
+M: Pieneu yelmeayu l'awen' müli ti l'awen' pieneu.
+C: Me dijo voy a buscarte remedio, hay remedio me dijo.
+ 
+nfmcp-nfemm1_x_0723_nfemm_00: 
+M: Elün antü küpan pifiñ ngellipufiñ ka <*SPA>pu' .
+C: Me da una cita le dije, pidiendole porfavor pués.
+
+nfmcp-nfemm1_x_0724_nfemm_00: 
+M: Feymu llenoanta küpan tati pifiñ
+C:  Por eso ando, por aca le dije
+
+M: adümuuküleluam 
+C: cómo ella tenia sabiduria
+
+M: eymi füreneñmayan tañi püñeñ 
+C: usted me podria ayudar a mi hijo
+
+M: chumi che maychi pifiñ.
+C: no se, que pasa le dije.
+
+nfmcp-nfemm1_x_0725_nfemm_00: 
+M: Katrü pütray tati pieneu.
+C: Se le corto la guata me dijo.
+ 
+nfmcp-nfemm1_x_0726_nfemm_00: 
+M: Llegkarkefuy llemay.
+C: A pesar que habría corrido.
+ 
+nfmcp-nfemm1_x_0727_nfemm_00: 
+M: Llegkefuyngün <*SPA>pu'.
+C: Han corrido pués.
+ 
+nfmcp-nfemm1_x_0728_nfemm_00: 
+M: Kimkefuyngün.
+C: Sabian ellos.
+ 
+nfmcp-nfemm1_x_0729_nfemm_00: 
+M: Kutran ngen pu mapuche.
+C: Son enfermo los mapuche.
+ 
+nfmcp-nfemm1_x_0730_nfemm_00: 
+M: Taiñ <*SPA>sangre inchiñ.
+C: Nuestra sangre de nosotros.
+
+
+
+nfmcp-nfemm1_x_0731_nfemm_00: 
+M: <*SPA>Enton' yemi ya feypipatueneu.
+C: Entonces fue a buscar el remedio y me vino a decir 
+
+nfmcp-nfemm1_x_0732_nfemm_00: 
+M: Chumlayay tami püñeñ tati pieneu.
+C: No le va a pasar nada a tu hijo, me vino a decir.
+ 
+nfmcp-nfemm1_x_0733_nfemm_00: 
+M: Mongeay tami püñeñ tüfachi l'awen'mu pieneu.
+C: Se va a mejorar tu hijo con éste remedio, me dijo.
+
+nfmcp-nfemm1_x_0734_nfemm_00: 
+M: Huertamu ta yemi kiñepchi.
+C: En el huerto fue a buscar.
+ 
+nfmcp-nfemm1_x_0735_nfemm_00: 
+M: Mamüll famechi entumefi.
+C: Un palo, lo fue a sacar así.
+ 
+nfmcp-nfemm1_x_0736_nfemm_00: 
+M: Folil.
+C: Con raíz.
+ 
+nfmcp-nfemm1_x_0737_nfemm_00: 
+M: Waskümkunulenueu fey küpaltun.
+C: Despues de haber hervido, me lo trage. 
+ 
+nfmcp-nfemm1_x_0738_nfemm_00: 
+M: Chumlayay tripalay piru pieneu.
+C: No le va a pasar nada, le va salir el gusano me dijo 
+ 
+nfmcp-nfemm1_x_0739_nfemm_00: 
+M: Tripafule piru 
+C: Si le sale el gusano
+
+M: <*SPA>entonce feymu ya <*SPA>era %acen.
+C: entonce hay  hacen.
+
+nfmcp-nfemm1_x_0740_nfemm_00: 
+M: %Osa.
+C:
+
+
+
+
+nfmcp-nfemm1_x_0741_nfemm_00: 
+M: Perdeafuy tami püñeñ
+C:  Hubieses perdido a tu hijo
+
+M: perdelayay tati pieneu.-
+C: Pero no lo vas a perder, me dijo.
+ 
+nfmcp-nfemm1_x_0742_nfemm_00: 
+M: Femuechi.
+C: Así es.
+
+nfmcp-nfemm1_x_0743_nfemm_00: 
+M: Tamien.
+C: Tiene.
+ 
+nfmcp-nfemm1_x_0744_nfemm_00: 
+M: Niefuy funay kewün 
+C: Tenia la lengua podrida
+
+M: tamien inchiñ tañi <*SPA>sangre <*SPA>pu'.
+C: nuestra sangre pues.
+
+nfmcp-nfemm1_x_0745_nfemm_00: 
+M: <*SPA>Menomal <*SPA>que <*SPA>despue inchiñ.
+C: Por suerte que nosotros después.
+
+nfmcp-nfemm1_x_0746_nfemm_00: 
+M: Yewün tuku ngerki mapuche sungun
+C: Se avergonzaron de hablar en el idioma mapuche
+
+M:  <*SPA>por dungual.
+C: de hablar.
+
+nfmcp-nfemm1_x_0747_nfemm_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0748_nfemm_00: 
+M: <uh> Feypitulay ñi pu koñi.
+C: No dijo mi hijo.
+ 
+nfmcp-nfemm1_x_0749_nfemm_00: 
+M: Kiñeke kimwetukelay reke tañi chempial.
+C: Algunas ni siquiera saben lo que quieren decir.
+
+nfmcp-nfemm1_x_0750_nfemm_00: 
+M: Tamien inchiñ ta *falilfuyiñ taiñ.
+C: Nosotros tambien le damos valor.
+
+nfmcp-nfemm1_x_0751_nfemm_00: 
+M: Kimün taiñ pu mapuche 
+C: Nuestro idioma cómo mapuche
+
+M: kim papeltulafuyngün <*SPA>pero.
+C: no saben leer, pero. 
+
+nfmcp-nfemm1_x_0752_nfemm_00: 
+M: <*SPA>Tenian <*SPA>su.
+C: Tenian su.
+  
+nfmcp-nfemm1_x_0753_nfemm_00: 
+M: <*SPA>Su <*SPA>conocimiento <*SPA>tamien <*SPA>pu'.
+C: su conocimiento, tambien pues.
+
+nfmcp-nfemm1_x_0754_nfemm_00: 
+M: Niefuyngün.
+C: Tenian.
+ 
+nfmcp-nfemm1_x_0755_nfemm_00: 
+M: Femngechi.
+C: Por eso.
+
+nfmcp-nfemm1_x_0756_nfemm_00: 
+M: Feymu mongey ñi püñeñ <*SPA>cuando.
+C: Se mejoraron mis hijos, cuando.
+ 
+nfmcp-nfemm1_x_0757_nfemm_00: 
+M: Tremlu tremküli chumngechi tremküli
+C: Crecen como sea, pero crecen 
+
+M:  ka femngechi tremküli ñi furi tüfa.
+C: tambien crece su espalda ahora.
+
+nfmcp-nfemm1_x_0758_nfmcp_00: 
+M: Furi.
+C: La espalda.
+
+nfmcp-nfemm1_x_0759_nfemm_00: 
+M: Fey ka müten <*SPA>no mülekelafuy <*SPA>medico.
+C: Así es no mas, no había medico.
+ 
+nfmcp-nfemm1_x_0760_nfmcp_00: 
+M: Mülelafuy.
+C: No habia.
+ 
+nfmcp-nfemm1_x_0761_nfemm_00: 
+M: Mülefule <*SPA>doctor
+C: Si hubiese habido doctor
+
+M: tal <*SPA>como 
+C: tal como
+
+M: <*SPA>ahora <*SPA>alumejor.
+C: ahora a lo mejor.
+  
+nfmcp-nfemm1_x_0762_nfemm_00: 
+M: Operangeafuy chi norchengetuafuy ñi püñeñ.
+C: Lo hubiesen operado, hubiese quedado corregido mi hijo.
+
+nfmcp-nfemm1_x_0763_nfemm_00: 
+M: Femngechi tati feli ñi püñeñ.
+C: Por eso está así, mi hijo.
+
+nfmcp-nfemm1_x_0764_nfmcp_00: 
+M: <hm> Ya.
+C: Ya.
+ 
+nfmcp-nfemm1_x_0765_nfmcp_00: 
+M: Femechi.
+C: Por eso.
+
+nfmcp-nfemm1_x_0766_nfmcp_00: 
+M: Sungu nierkimi tati.
+C: El tema que tiene usted, pues
+
+nfmcp-nfemm1_x_0767_nfmcp_00: 
+M: Fey.
+C: Eso.
+ 
+nfmcp-nfemm1_x_0768_nfmcp_00: 
+M: Feychi ngütram amulnefiyu fey.
+C: Esta conversación que te he realizado.
+ 
+nfmcp-nfemm1_x_0769_nfmcp_00: 
+M: Ka allkütungele +/mapusu/+ 
+C: Tambien la estan escuchando en el idioma 
+
+M: mapu chuchi ta kimlu mapusungun allkütuay.
+C: mapuche el que sabe va a escuchar. 
+ 
+nfmcp-nfemm1_x_0770_nfemm_00: 
+M: Sipu.
+C: Si pués.
+ 
+nfmcp-nfemm1_x_0771_nfmcp_00: 
+M: Pu chillkatuay chi 
+C: Tal vez se va estudiar
+
+M: ta tachi papelmu chi kontuay ta.
+C:  o quizas se va a escribir en algun libro.
+ 
+nfmcp-nfemm1_x_0772_nfmcp_00: 
+M: Tachi ngütram.
+C: Esta conversación.
+ 
+nfmcp-nfemm1_x_0773_nfemm_00: 
+M: <*SPA>Claro.
+C: Claro.
+  
+nfmcp-nfemm1_x_0774_nfmcp_00: 
+M: <uh> Küme amuliyu ta ngütram küme.
+C: Si avanza bien nuestra conversación.
+ 
+nfmcp-nfemm1_x_0775_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0776_nfmcp_00: 
+M: <uh> Claro ta amulelele ta ngütram 
+C:  Claro que va avanzando la conversación
+
+M: fey amuay ta.
+C: va  avanzar
+ 
+nfmcp-nfemm1_x_0777_nfmcp_00: 
+M: Soy amuleay pu'.
+C: Cada vez más va a avanzar pués
+ 
+nfmcp-nfemm1_x_0778_nfemm_00: 
+M: Femay llemay.
+C: Así va a ser pués.
+
+nfmcp-nfemm1_x_0779_nfmcp_00: 
+M: Kakelu fey kim kimay.
+C: Otro van a saber. 
+
+nfmcp-nfemm1_x_0780_nfmcp_00: 
+M: Ka chumngechi ñi feleken che <uh>.
+C: Tambien cómo estan las personas
+ 
+nfmcp-nfemm1_x_0781_nfmcp_00: 
+M: Chumngechi tañi tremuelafel che.
+C: Cómo crecen  las personas
+ 
+nfmcp-nfemm1_x_0782_nfmcp_00: 
+M: <uh>.
+C:
+ 
+
+nfmcp-nfemm1_x_0783_nfmcp_00: 
+M: Chem tañi soy kümefel tañi iñchiñmu.
+C: Que sera mejor para nosotros.
+
+nfmcp-nfemm1_x_0784_nfmcp_00: 
+M: Iñchiñmu.
+C: En nosotros.
+ 
+nfmcp-nfemm1_x_0785_nfemm_00: 
+M: Sipu.
+C: Si pues.
+ 
+nfmcp-nfemm1_x_0786_nfmcp_00: 
+M: Pu somo.
+C: Las mujeres
+ 
+nfmcp-nfemm1_x_0787_nfmcp_00: 
+M: Pichikeche.
+C: Los niños.
+ 
+nfmcp-nfemm1_x_0788_nfmcp_00: 
+M: Fillmu ta <uh>.
+C: A todos. 
+
+nfmcp-nfemm1_x_0789_nfmcp_00: 
+M: Puwi kutran.
+C: Las enfermedades.
+ 
+
+
+nfmcp-nfemm1_x_0790_nfmcp_00: 
+M: Fill sungumu ta.
+C: Por todas las cosas.
+
+nfmcp-nfemm1_x_0791_nfmcp_00: 
+M: Küpay kutran.
+C: Vienen las enfermedades.
+ 
+nfmcp-nfemm1_x_0792_nfmcp_00:  
+M: Pichikechemu kafey koni kutran.
+C: A los niños, tambien le entran enfermedades
+ 
+nfmcp-nfemm1_x_0793_nfmcp_00: 
+M: Ah.
+C: Ah.
+
+nfmcp-nfemm1_x_0794_nfmcp_00: 
+M: *Afese
+C: A veces
+
+M:  kiñeke ñuke ta deskuydauki ta püñeñmu
+C: algunas mamás descuidan, sus hijos
+
+M:  küme kuydakelayngü.
+C: no cuidan bien a sus hijos.
+ 
+nfmcp-nfemm1_x_0795_nfmcp_00: 
+M: <uh> Kichukunufingün ka rukamu.
+C: Los dejan solo en la casa.
+ 
+nfmcp-nfemm1_x_0796_nfemm_00: 
+M: Sipu.
+C: Sí, pues.
+ 
+nfmcp-nfemm1_x_0797_nfmcp_00: 
+M: Kiñeke nau fey.
+C: Alguna veces.
+ 
+nfmcp-nfemm1_x_0798_nfmcp_00: 
+M: <uh>.
+C:
+ 
+nfmcp-nfemm1_x_0799_nfmcp_00: 
+M: Pichikeche ellañnge ellañngeki ka <uh> .
+C:  Algunos niños por eso, tienen defectos 
+
+nfmcp-nfemm1_x_0800_nfmcp_00: 
+M: Kiñekenau.
+C: A veces.
+
+nfmcp-nfemm1_x_0801_nfmcp_00: 
+M: Fey.
+C: Por eso.
+ 
+nfmcp-nfemm1_x_0802_nfmcp_00: 
+M: <hm>.
+C:
+  
+nfmcp-nfemm1_x_0803_nfmcp_00: 
+M: Lüpümüukingün ka.
+C: Tambien se queman.
+ 
+nfmcp-nfemm1_x_0804_nfemm_00: 
+M: <*SPA>Si.
+C: Sí.
+
+nfmcp-nfemm1_x_0805_nfmcp_00: 
+M: Arekomu fill sungumu.
+C: A veces con agua caliente o con cualquier otra cosa.
+
+nfmcp-nfemm1_x_0806_nfmcp_00: 
+M: Fey amuy sungu.
+C: Hay vienen los problemas.
+
+nfmcp-nfemm1_x_0807_nfemm_00: 
+M: Inche femlafun tañi püñeñ 
+C: Para mi hijo no fue así
+
+M: <*SPA>pu' küme kuydafuiñ engün.
+C: pués, los cuidamos mucho a ellos .
+ 
+nfmcp-nfemm1_x_0808_nfemm_00: 
+M: Feyta ina ngümanmu feyta ni tati .
+C: Siempre estoy pediente de ellos.
+
+nfmcp-nfemm1_x_0809_nfemm_00: 
+M: Feli.
+C: Así.
+ 
+nfmcp-nfemm1_x_0810_nfemm_00: 
+M: Efectauküli.
+C: Así con afecto.
+ 
+nfmcp-nfemm1_x_0811_nfemm_00: 
+M: Ina ngümakefuy <*SPA>siempre.
+C: Siempre estuve pendiente.
+
+nfmcp-nfemm1_x_0812_nfemm_00: 
+M: Awelu wiñfiñ awelitu.
+C: Pero esta acostumbrado con su abuelito.
+ 
+nfmcp-nfemm1_x_0813_nfemm_00: 
+M: Tripay kuydayalu<%> ka.
+C: Cuando salia a trabajar.
+
+nfmcp-nfemm1_x_0814_nfemm_00:
+M: Tripay ñi pu fillka ka, ka inakefuy.
+C: Cuando salia mi cuñado, tambien salía.
+ 
+nfmcp-nfemm1_x_0815_nfemm_00: 
+M: Femngechi rüpülürkiyu mañchun furimu
+C: Así lo corneo el buey en la espalda
+
+M:  <*SPA>despue wüla kimrumetufiñ
+C: despues me entere de la situación
+
+M:  despue alüwelu wüla <*SPA>pu'.
+C: recién cuando grande pués
+ 
+nfmcp-nfemm1_x_0816_nfemm_00: 
+M: Femi tami püñeñ tati.
+C: Así  fue su hijo pués.
+
+nfmcp-nfemm1_x_0817_nfemm_00: 
+M: Pütramu feyta allfülimita
+C: En la guata se herio con el cuerno.
+
+M: layafuymi ta eymi p.
+C: hubiese muerto dijieron.
+
+nfmcp-nfemm1_x_0818_nfemm_00: 
+M: <%>.
+C:
+ 
+nfmcp-nfemm1_x_0819_nfemm_00: 
+M: Layafuymi los do pingi.
+C: Los dos hubiesen muerto le dijieron.
+
+nfmcp-nfemm1_x_0820_nfemm_00: 
+M: Femuechi.
+C: Por eso.
+
+nfmcp-nfemm1_x_0821_nfemm_00: 
+M: Eykaymaymafilu tani puche engu
+C: Mi propia familia me lo tuvo escondido
+
+M: ta feli tañi nien tati.
+C: eso es lo que tengo.
+ 
+nfmcp-nfemm1_x_0822_nfemm_00: 
+M: Nien <*SPA>problema llemay.
+C: Tengo problema pués.
+ 
+nfmcp-nfemm1_x_0823_nfemm_00: 
+M: Suerte erke llemay 
+C:  La suerte 
+
+M: ta feli ka pituken ka.
+C: esta así dijo.
+ 
+nfmcp-nfemm1_x_0824_nfemm_00: 
+M: Kakelu kimingün.
+C: Los otros saben.
+
+nfmcp-nfemm1_x_0825_nfemm_00: 
+M: Papeltulan 
+C:  No sabe leer 
+
+M: tripay leju engün amuyngün <*SPA>santiago.
+C:  salio lejo salieron a Santiago.
+ 
+nfmcp-nfemm1_x_0826_nfemm_00: 
+M: Kichuleafuyu nienofili tüfachi püñeñ.
+C: Sin éste hijo, hubiesemos estado solos.
+
+nfmcp-nfemm1_x_0827_nfemm_00: 
+M: <uh> <*SPA>Cómo <*SPA>suerte reke
+C: Cómo suerte
+
+M:  femngi ta akuy tani 
+C:  así llego el.
+
+M: fey llemay kuydanekiyu kutran yem.
+C: pero no es facil cuidar la enfermedad.
+ 
+nfmcp-nfemm1_x_0828_nfemm_00: 
+M: Seumalkiyu iyagel <*SPA>
+C:  No hago comidas
+
+M: cuando awantalan inche.
+C: cuando no tengo valor.
+
+nfmcp-nfemm1_x_0829_nfemm_00: 
+M: Seumalkiyu iyal.
+C: No hace comida.
+
+nfmcp-nfemm1_x_0830_nfemm_00: 
+M: Korüki .
+C: Sopa.
+
+nfmcp-nfemm1_x_0831_nfemm_00: 
+M: Rumeal pofoli.
+C: Para que voy a ser mala.
+ 
+nfmcp-nfemm1_x_0832_nfemm_00: 
+M: Fey maneluutuken 
+C: Por eso, me doy animó 
+
+M: reke ka küme +/wer/+ küme werküken nga 
+C: son bueno cuidadores
+
+M: ñi püñeñ nga feley.
+C: mis hijo los que estan.
+ 
+nfmcp-nfemm1_x_0833_nfemm_00: 
+M: Kichulewiyu may 
+C: Estamos solo
+
+M: tüfa nanüng mülellefuy may.
+C: ahora estoy agradecido.
+ 
+nfmcp-nfemm1_x_0834_nfemm_00: 
+M: Igualkela ta trürkelay
+C: No todos son iguales
+
+M: ta püñeñ engu ta nanüng piken.
+C: mis hijos y  mis nueras digo.
+
+nfmcp-nfemm1_x_0835_nfemm_00: 
+M: Femngechiam fente sapiafuymu ta.
+C: Entonces le van a cuidar.
+nfmcp-nfemm1_x_0836_nfemm_00: 
+M: Ahora nien.
+C: Ahora tengo.
+ 
+nfmcp-nfemm1_x_0837_nfemm_00: 
+M: Küchatun pi lavadora 
+C: Lavadora para lavar digo
+
+M: tukunülkeneu kisu 
+C: él lo utiliza solo 
+
+M: küme lonkongi kisu <*SPA>pu'.
+C: pues tiene buena cabeza pues.
+
+nfmcp-nfemm1_x_0838_nfemm_00: 
+M: Feymu küchatukiyu.
+C: Ahí lavamos nosotros
+ 
+nfmcp-nfemm1_x_0839_nfemm_00: 
+M: Prendekuneleneu fey.
+C: Me lo deja prendido.
+ 
+nfmcp-nfemm1_x_0840_nfemm_00: 
+M: Küchatukiyu feymu.
+C: Ahí lavamos. 
+ 
+nfmcp-nfemm1_x_0841_nfemm_00: 
+M: Kichulefuli 
+C: Cómo esta solo
+
+M: soy kutran kuwafuy yem <*SPA>pu' .
+C: mas me hubiese enfermado pués.
+ 
+nfmcp-nfemm1_x_0842_nfemm_00: 
+M: Femngechi ilefun 
+C: Así lo dejamos
+
+M: femngechi <*SPA>problema nienlay tati.
+C: así no tenemos problema, pues.
+ 
+nfmcp-nfemm1_x_0843_nfemm_00: 
+M: <*SPA>Problema <*SPA>grande llemay.
+C: Los problemas grandes pués.
+ 
+nfmcp-nfemm1_x_0844_nfemm_00: 
+M: Afkentu <*SPA>pensan ngüman <*SPA>cuando.
+C: Despues de tanto pensar y llorar.
+ 
+nfmcp-nfemm1_x_0845_nfemm_00: 
+M: Ngümatufin pu fillka welu feypilaneu.
+C: Los conversamos con mis cuñados, pero, no me lo dicen.
+ 
+nfmcp-nfemm1_x_0846_nfemm_00: 
+M: Atawelmu legmatuy kimelchi chemu.
+C: .......................Justo le llego a la persona buena.
+ 
+nfmcp-nfemm1_x_0847_nfemm_00: 
+M: Mülekafuy como doctor 
+C: Habia alguien especializado cómo  doctor
+
+M: engañ  mapuchengen 
+C:  ...........  como mapuche
+
+M: niekafuyin kimü piken <*SPA>pu'.
+C:  por lo que tenemos conocimientos digo, pues.. 

@@ -1,0 +1,2335 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmrmmA1 
+; Last changes made on 01/30/2002 
+; Transcriber: Cristian C. Anton. 
+; Comments:  
+;Tradice:  Julio Marileo
+
+nmlch-pmrmmA1_x_0000_nmlch_00: 
+M: ¿Peñi tüfa ini pingi 
+C: ¿Hermano como 
+
+M: tami mapu tüfamew.? 
+C: se llama este lugar.?
+
+nmlch-pmrmmA1_x_0001_pmrmm_00: 
+M: Kümkeñ pingi tañi mapu. 
+C: Kumkeñ se llama mi lugar.
+
+nmlch-pmrmmA1_x_0002_nmlch_00: 
+M: Kümkeñ .
+C: Kumkeñ.
+
+nmlch-pmrmmA1_x_0003_pmrmm_00: 
+M: Kümkeñ.
+C: Kumkeñ.
+
+nmlch-pmrmmA1_x_0004_nmlch_00: 
+M: ¿Chumngelu chi ta tüfachi mapu
+C: ¿Como sera esta tierra
+
+M: ta qinquen pingeki ?
+C: que le llaman Quinquen?
+
+M: winka perke ti .
+C: el winka..... .
+
+nmlch-pmrmmA1_x_0005_pmrmm_00:
+M: Winka ta quinquen pin
+C: El huinca dice Quinquen 
+M: tukutuy mapuchemu
+C: lo coloco en mapuche
+
+M: ta kümkeñ kuyvi küpalmemu  
+C: El kumkeñ, antes lo traian 
+
+M: pütakecheyem vey ka
+C: los antiguos, y ademas 
+
+M: ellkawkerkevuyngün 
+C: se habian escondido
+
+M: veychi awkan mülelu 
+C: esa vez cuando......
+ 
+M: veymu ta küm keñ pingi
+C: por eso le llaman kumkeñ
+
+M: ngüküm küleki dungukelay che 
+C: ............ la gente no hablaba
+
+M: ngüküm küleki veymu vey tachi 
+C: ..............por eso pues
+
+M: püta refugio pingi tati
+C: le llaman el gran refugio
+
+M: winka ta refugio pi 
+C: el wingka dice refugio
+
+M: ellkawe mapuche kuyvi veychi mapu
+C: era un escondite mapuche ese lugar
+
+M: vey chi üy ta nieki 
+C: ese nombre tenia
+
+M: ngüküm külen ngüküm külen pi
+C:................................
+
+M: ta dungulay kütraltulay rume
+C: no hablo, tampoco hizo fuego
+
+M: chem rume sungulay kuyvi ke che
+C: no hablaron nada los antiguos
+
+M: ngüküm küli müten 
+C:.....................
+
+M: veymu ta kümkeñ pin pingi tañi,
+C: por eso se llama kumkeñ este,
+
+M: tañi üy tüfachi mapu.
+C: el nombre de este lugar.
+
+nmlch-pmrmmA1_x_0006_nmlch_00: 
+M: Fey mew fey peñi
+C: Asi es, asi es hermano
+
+M: inche tüfa pepapeyu eymi 
+C: Yo, he venido a verte
+
+M: inche ta ramtumean tami üy
+C: Yo preguntare por tu nombre
+
+M: ¿Fey eymmi ta don Ricardo pingimi .?
+C:¿Usted se llama don Ricardo.?
+
+nmlch-pmrmmA1_x_0007_pmrmm_00: 
+M: May. 
+C: Sí.
+
+M: Ricardo Melillan pingi tañi üy. 
+C: Mi nombre es Ricardo Melillan.
+
+nmlch-pmrmmA1_x_0008_nmlch_00:
+M: Inche akun ta lonkimay fey ka <uh>
+C: Yo llegue a Lonquimay, pues 
+
+M: ramtun ta eymi lonkongi pingimi
+C: pregunte y dijeron que usted era Lonko
+
+M: tüfamu feyngi tüfi. 
+C: de aqui, Asi es.
+
+mrmmA1_x_0010_nmlch_00mrmm_00:
+M: Feli tati peñi feli
+C: Asi es hermano
+
+M: feyta pichi wengüen wüla
+C: pues soy muy nuevo aun
+
+M: tüva kechu konchi tüvachi noviembremu
+C: cuando sea cinco de Noviembre
+
+M: veyta organisay taiñ pu' peñiwen ngen 
+C:Nos organizaremos con todos mis hermanos 
+
+M: inche aun lonkolen ta comudad quinquen
+C: Yo, aun soy lonko de la comunidad de Quinquen
+
+M: <uh> ka ta petu, petu organizawin
+C: Ahora pues, nos estamos organizando
+
+M: taiñ pu peñi inchin kom <uh> 
+C: con todos mis hermanos
+
+M: feyta kom petu trapümüwiyin
+C: Todos nos estamos juntando
+
+M: kom lonko kiñealu taiñ dungu
+C: Todos los lonko seran uno 
+
+M: kiñealu taiñ wewpin
+C: Sera uno nuestra oracion
+
+M: kiñealu kom taiñ faliltun
+C: sera uno, toda nuestra validez
+
+M: epüñpüle taiñ pütrülelu sunguam
+C: como hay tanto de que hablar
+
+M: ta mapumu ka taiñ ka 
+C: de la tierra , ya que 
+
+M: nüntukaneymangi mapu
+C: nos tienen quitadas las tierras
+
+M: kom veychi dungu 
+C: toda esas cosas
+
+M: pichiken küdawalu inchin 
+C: trabajaremos poco a poco
+
+M: veymu kom ta trapümuwliyin taiñ. 
+C: por eso nos juntamos pues.
+
+nmlch-pmrmmA1_x_0011_pmrmm_00: 
+M: Küme kelluweal epüñpüle 
+C: Para ayudarnos mutuamente
+
+M: küme adwal kelluntukual küme, 
+C: para ser mejor, para ayudarnos
+
+M: küme dungumu ta
+C: en buenas cosas, pues
+
+M: ayiwi taiñ tukulpantuyin
+C: se alegran los que nos trajeron.
+
+M: kuyvi pütakecheyem
+C: Antes los ancianos
+
+M: küme dungu nefuyem kichu engün 
+C: tenian muy buenas cosas 
+
+M: tüfanewkefuyem veyta inchin
+C:............., pero nosotros
+
+M: vemkatukelayin kiñe veychi rakisuam 
+C: no tenemos ninguno de esos pensamientos
+
+M: kom tukunetuviyin kuyvi rakiduam
+C: todos tenemos guardado esos pensamientos
+
+M: veymu ta trapümuwkiyin 
+C: por eso nos juntamos
+
+M: ka kiñe lepuy taiñ rakisuam 
+C: sera uno nuestro pensamiento
+
+M: ta tüfa dewma trapümuwkületuyin
+C: ahora pues estamos reunidos
+
+M: kom veymu ta küme
+C: todo eso sera bueno
+
+M: küme dungumu ta 
+C: en buenas cosas pues
+
+M: veyta adentunewin kom taiñ 
+C: me manejo, en todo
+
+M: kümeke dungumu
+C: en la buenas cosas
+
+M: taiñ kellunengiyin tüva ka
+C: ahora nos estamos ayudando
+
+M: epuñpüle taiñ dunguñpewal
+C: mutuamente para ...........
+
+M: vey kelluwal kom tüvachi dungu
+C: para ayudarnos en todas las cosas
+
+M: pütrüleluam dungu ta mapumu
+C: como hay tantas cosas en este lugar
+
+M: tüva veychi dungumu ta
+C: aqui, sobre esas cosas
+
+M: veliyin tati peñi.
+C: asi estamos hermano.
+
+nmlch-pmrmmA1_x_0012_nmlch_00:
+M: Küme dungu ka peñi 
+C: Buena cosa pues hermano
+
+M: küme dungu 
+C: buena cosa
+
+M: feyta fill mapu ta <uh> kuyfi pingi 
+C: pues varios lugares, se decia antes
+
+M: taiñ mapuchengen 
+C: por ser mapuche
+
+M: mülekerki ta ñisol külelu
+C: habia alguien como superior
+
+M: lonkolekelu pingi 
+C: que estaba de lonko 
+
+M: veyta feyngepi tüfi ka peñi.
+C: asi era ese hermano.
+ 
+nmlch-pmrmmA1_x_0013_pmrmm_00: 
+M: Veli ka peñi veli. 
+C: Asi es hermano.
+
+nmlch-pmrmmA1_x_0014_nmlch_00:
+M: Feula welu müte ngewelafuy 
+C: Ahora pues no quedan mucho
+
+M: veychi dungu pingeki 
+C: esas cosas se dice
+
+M: welu kümey tami witrañpüramün
+C: es bueno que hayas levantado
+
+M: ta dungu petu tüva <uh>
+C: las cosas ahora
+
+M: lonko ta falili ta lof mu ka peñi .
+C: El lonko vale en la comunidad hermano.
+
+mrmmA1_x_0015_nmlch_00mrmm_00: 
+M: Vey ka.
+C: Asi es.
+
+nmlch-pmrmmA1_x_0016_nmlch_00:
+M: Ngünenepelu dungu 
+C: El que va primero 
+
+M: ngünenepelu ta chem ka sungu
+C: el que va primero en las cosas
+
+M: witrañpürampelu tüfi veypipelu .
+C: el que esta levantando, el que dijo.
+
+nmlch-pmrmmA1_x_0017_pmrmm_00: 
+M: Veyka kümeke dungu ta adnika
+C: Lleva bien las cosas buenas
+
+M: revalte lonkongenolu che
+C: por algo la persona es lonko
+
+M: lonkolelu veyta kümeke dungu 
+C: el que esta de lonko, las buenas cosas
+
+M: ta witrañpüramni fill wesake dungu 
+C: lo lleva en alto, las cosas malas
+
+M: ta wesake rakiduam 
+C: los pensamientos malos
+
+M: veyta chongüm naküm nika
+C: lo echa a perder todo
+
+M: vey kom küme dungumu
+C: por eso en todas las cosas buenas
+
+M: ta veyta lonkolelu 
+C: el que esta de lonko
+
+M: veyta küme dngu ta yeni 
+C: lleva las buenas cosas
+
+M: tati ngellipun dungu
+C: la cosas ............
+
+M: veyta wesasungu no
+C: las cosas malas no
+
+M: küme dungu küme dungu
+C: buena cosa, buena cosa
+
+M: kom tañi küme veleal ka
+C: para que todos estemos bien
+
+M: taiñ mañumtuaviel chaw ngünechen
+C: para agradecerle a nuestro ser superior
+
+M: ta villante elunimu ta mongen,
+C: por darnos dia a dia la vida
+
+M: elunimu ta rakiduam
+C: nos da el pensamiento
+
+M: ka kom eli ta  <*SPA>autoridad 
+C: tambien dejo toda autoridad
+
+M: kisu ngünewünmu ta
+C: por si sola pues
+
+M: mülelay chem dungu rume 
+C: no existe ninguna cosa
+
+M: kom kiñeli che rakiduam mu
+C: las personas son uno en el pensamiento
+
+M: veyta witrakiyin ta rewe mu
+C: por eso nos paramos en el rewe
+
+M: taiñ pu duamal chaw ngünechen
+C: para querer a nuestro ser superior
+
+M: taiñ mañumtuaviel
+C: para agradecerle
+
+M: taiñ küme rulpa antülen
+C: para pasar bien los dias
+
+M: ka taiñ küme tremümnen
+C: tambien para que crezcan bien
+
+M: taiñ pu püñeñ pu yamel kom
+C: nuestros hijos e hijas a todos
+
+M: kisu nga elimu tachi nag mapu
+C: el nos dejo en esta tierra
+
+M: ngaiñ kume veleal 
+C: para estar bien
+
+M: veytchi rakiduam mu
+C: con ese pensamiento
+
+M: ta veleki taiñ mañumtaviel
+C: estamos para agradecerle.
+
+M: wefpay ngün tripantu. 
+C: apenas llega el año .
+
+nmlch-pmrmmA1_x_0018_pmrmm_00: 
+M: Ka tüva nga puwküli nga 
+C: Ahora ya esta llegando 
+
+M: ñi pu epe tüvachi  <*SPA>enero küyenmu 
+C: casi ahora, en este mes de Enero
+ 
+M: veyta veli taiñ nial ta
+C: esta programado para tener
+
+M: püta ngellipun tati peñi 
+C: el gran ngellipun hermano
+
+M: vey taiñ kom rulpakelayin ta tripantu
+C: todos no pasamos el año
+
+M: kom wefpay müten tripantu
+C: apenas llega el año
+
+M: veyta kintulekiyin ka
+C: nos estamos buscando
+
+M: askintulekiyin epuñ püle
+C: estamos pendiente, mutuamente
+
+M: ta kimeltukunuwkiyin taiñ
+C: nos damos a conocer
+
+M: ¿chumngechi taiñ chem
+C: ¿Como vamos ha
+
+M: dungumu taiñ witrayal 
+C: abordar nuestra situacion
+
+M: ta lelfünmu tati peñi?
+C: en lugares apartado hermano?
+
+M: kom tukulpakelliyin may
+C: todos traemos pues
+
+M: tüva kiñe chem kiñe che dungu no
+C: esto no es , no es cosa de uno
+
+M: kom chuntelen taiñ mapuchengen 
+C: para saber cuantos mapuche
+
+M: veyta tukulpawkiyin taiñ küme velel
+C: por eso traemos nuestra buena disposicion
+
+M: küme dungumu taiñ 
+C: para las cosas buenas
+
+M: adneatew chaw ngünechen
+C: para que Dios nos vea bien.
+
+M: fey tüva ka müli fülang  mollfün nga
+C: tambien hay de sangre blanca
+
+M:  ti chem dungu rume notukanelimu
+C: el que siempre esta compitiendo
+
+M: inchin pewmangen küme 
+C: soñaron bien de nosotros
+
+M: chillkatulinga ñi pu püñeñ 
+C: mis hijos estan estudiando
+
+M: ka ramtukangi ta ka ti
+C: tambien les preguntaron
+
+M: pueden veyti kom veyti dungumu  <*SPA>
+C: si pueden con todas esas cosas
+
+M: todo vey cham rume ta
+C: todo eso tal vez.........
+
+M: wesoymangeanual vivesa kay .
+C:....................................... .
+
+nmlch-pmrmmA1_x_0019_pmrmm_00:
+M: Rakiduam tukulpakevule
+C: Si hubiera traido pensamiento
+
+M: tüvachi pu' pütrake kimkeche
+C: estos sabios ancianos
+
+M: welu inchin mapuchengen
+C: pero nosotros como mapuche
+
+M: vemkalayin tati chunte kimi rume 
+C: no hacemos eso, por mas que sepa
+
+M: ta mapuche tüvey ta wesa sungumu
+C: el mapuche recibe malas cosas
+
+M: ta kon rumepulay tati 
+C: no pasa todo pues
+
+M: kom küme rakiduam mu
+C: los buenos pensamientos
+
+M: kuyvi küpalmemu pütakeche
+C: que antes traian los antiguos
+
+M: velerkevuy em petu 
+C: creo que todavia es asi
+
+M: inanekayin veychi dungu
+C: aun seguimos esas cosas
+
+M: tati ina pünon nekayin 
+C: todavia seguimos los pasos
+
+M: kuyvi , kuyvi dungu 
+C: antiguas, antiguas cosas
+
+M: kuyvi ngülam tati peñi .
+C: antiguos consejos, hermano.
+
+nmlch-pmrmmA1_x_0020_nmlch_00:
+M: Kümey tati peñi 
+C: Que bueno hermano
+
+M: tamün <uh> yenefilmu chi dungu ka
+C: por llevar esas cosas 
+
+M: fey ka <uh> soy küme newen
+C: asi es, la mejor fuerza
+
+M: mongelimün ka fey <uh>
+C: cuando se esta vivo 
+
+M: eñum küli che ka in sungumu
+C: se mantiene en sus cosas
+
+M: ka feli ka müli ta <uh> pu' wekeche
+C: asi esta, tambien hay nuevas personas  
+
+M: küpalelu ka tañi asümtuneal 
+C: que viene para aprender
+
+M: chi dungu afnual ka.
+C: para que las cosas no acaben.
+ 
+nmlch-pmrmmA1_x_0021_pmrmm_00:
+M: Veyllemay peñi veli tati peñi .
+C: Asi es hermano, asi es.
+
+nmlch-pmrmmA1_x_0022_nmlch_00: 
+M: Eymi ta allkürpuymi tüfa
+C: Tu escuchaste esto
+
+M: kimurpuy mi feymu ta fey 
+C: conociste ahi ,esto
+
+M: ka newen külimi ka peñi .
+C: tambien tienes fuerza hermano.
+
+nmlch-pmrmmA1_x_0023_pmrmm_00: 
+M: Veli tati peñi .
+C: Asi es hermano.
+
+nmlch-pmrmmA1_x_0024_nmlch_00: 
+M: Kamapu tripalimün
+C: Estan en otro lugar
+
+M: tüfa cordillera piki ta winka <uh>
+C: Esto le llama cordillera el winka
+
+M: pirentu mapu tüfa ka peñi. 
+C: este lugar de nieve, hermano.
+
+nmlch-pmrmmA1_x_0025_pmrmm_00: 
+M: Vey tati peñi 
+C: Asi es hermano
+
+M: tamu <uh> kechu küyen peno
+C: yo creo que cinco meses
+
+M: tüvamu ta niekiyin pirenn tati peñi 
+C: tenemos nieve, hermano
+
+M: kasi welta el año pi ta winka
+C: Casi la vuelta del año dice el winka
+
+M: veyta neytuleyin 
+C:..................
+
+M: ta ka <*SPA>comunidad kümkeñ
+C: la comunidad de Quinquen
+
+M: pingi tani <*SPA>comunidad 
+C: se llama mi comunidad
+
+M:<*SPA>una <*SPA>comunidad 
+C: una comunidad 
+
+M:<*SPA>que <*SPA>esta <*SPA>
+C: que esta
+M: muy aislaw chi wüchu tripali 
+C: muy aislada, que esta aparte
+
+M: nielay <*SPA>locomocion
+C: no tiene locomocion
+
+M: <*SPA>electrificación  locomoción nielay 
+C: electrificacion, locomocion no tiene
+
+M: mucha cosa mu ta wengeytuli wüla
+C: muchas cosas recien estan comenzando
+
+M: tüva we ta witrapürali wüla
+C: Ahora recien se esta levantando
+
+M: kuyfiam ta inchin ta
+C: Antes nosotros
+
+M: aretu mapumu reke ta anükonlekelu
+C: estabamos como en tierra prestada
+
+M: fey tüva tañi 
+C: Ahora puesa
+
+M: eluwmemu tüvachi mapu
+C: nos dieron esta tierra
+
+M: taiñ documentu nienmu 
+C: donde tenemos documento
+
+M: wengen wüla 1997 vewla ta
+C: por fin en 1997 recien
+
+M: elungi ta documento
+C: nos dieron el documento
+
+M: vewla ta empesay taiñ küdawün tati .
+C: recien comenzo nuestro trabajo.
+
+nmlch-pmrmmA1_x_0026_pmrmm_00:
+M: Veyta taiñ kom 
+C: Es todo lo que
+
+M: taiñ vente avansalen tati peñi
+C: llevamos avanzado hermano
+
+M: kuyvitu ta mülekeliyin 
+C: Si hubieramos llegado antes
+
+M: anüm mapukeliyin
+C: a establecernos
+
+M: veyta küme veleavuyin 
+C: estariamos bien
+
+M: niavuyin ta niavuyin ta <*SPA>locomoción
+C: tendriamos, tendriamos locomocion
+
+M:  <*SPA>electrificación niavuyin kom
+C: todos tendriamos electrificacion
+
+M: veyta vemlay petu wengeytuli ta
+C: eso todavia no sucede
+
+M: we anüluwkülechi che reke
+C: recien nos estamos asentando
+
+M: ta veliyin tati peñi
+C: asi estamos hermano.
+
+M: veymu tai kom <*SPA>autoridad 
+C: por eso las autoridades
+
+M: kom kimni kuyvitu ta
+C: todo lo saben, si antes
+
+M: küme anüluwkeliyin ta 
+C: nos hubieramos establecido
+
+M: velelayavuyin tati peñi
+C: no estariamos asi hermano
+M: kom take <*SPA>adelanto niavuyin
+C: tendriamos grandes adelantos
+
+M: ka niavuyin <*SPA>luz <*SPA>
+C: tendriamos luz
+
+M: electrificación niavuyin <%> 
+C: tendriamos electrificacion
+
+M: müleavuy kom chumli
+C: estariamos como todas
+
+M: kake <*SPA>comunidad 
+C: las otras comunidades
+
+M: ka veleavuyin silepuavuyin tüva
+C: estariamos asi........ahora
+
+M: inchin ta inal küliyin 
+C: nosotros estamos atrasados
+
+M: kom comunidamu reke
+C: Como todas comunidades
+
+M: taiñ ngellu wüla taiñ
+C: nos ha costado mucho
+
+M: elungel ta <*SPA>documento
+C: para que nos den el documento
+
+M: vey mu tati we wula
+C: por eso recien 
+
+M: ta veyta küdawküleyin <*SPA>
+C: estamos trabajando
+
+M: una <*SPA>comunidads
+C: una comunidad 
+
+M: muy <*SPA>nueva.
+C: muy nueva.
+ 
+nmlch-pmrmmA1_x_0027_nmlch_00: 
+M: Quinquen.
+C: Quinquen.
+ 
+nmlch-pmrmmA1_x_0028_pmrmm_00: 
+M:Quinquen porque kuyvi am
+C: Quinquen, porque antes no
+
+M: inchinta pedre goso ta
+C: nosotros en Pedregoso
+
+M: mülekevuyin pankontu 
+C: estabamos en Pankontu
+
+M: pingi taiñ mülekevuyin
+C: asi se llama donde estabamos
+
+M: ütrir kawün müli
+C:.............hay
+
+M: rangiñ konleki 
+C:estaba entremedio
+
+M: vey solicitayin tachi mapu
+C: por eso solicitamos esta tierra
+
+M: ta veyta anüluwpayin tati 1997 
+C: y nos asentamos en 1997
+
+M: vewla ta anülüwpayin tamu 
+C: hace poco que nos establecimos
+
+M: elungin ta <*SPA>documento
+C: nos dieron documento
+
+M: antiwamente doy mülepakevuyin
+C: antiguamente eramos mas
+
+M: welu niekenolu <*SPA>documento
+C: pero no tenian documento
+
+M: inchin no tenemo la seguridad
+C: nosotros no tenemos la seguridad
+
+M: para poder trabajar.
+C: para poder trabajar.
+
+nmlch-pmrmmA1_x_0029_nmlch_00:
+M: ¿Pankuntukungi chumngelu?
+C: ¿Como es, que le llaman pankuntu?
+
+M: ¿femngi chi mapu vey.? 
+C: ¿Como es esa tierra.?
+
+nmlch-pmrmmA1_x_0030_pmrmm_00:
+M: Vey pankuntukungi .
+C: Pues le llamaron pedregal.
+
+nmlch-pmrmmA1_x_0031_nmlch_00:
+M: Chumngelu chi veychi üy
+C: De que se trata ese nombre
+
+M: ni mapuchemu. 
+C: que tiene en mapuche.
+
+nmlch-pmrmmA1_x_0032_pmrmm_00: <uh>
+M: Feyta rume pütra 
+C: Es una gran
+
+M:<*SPA>comunidad tati
+C: comunidad pues
+
+M: pankuntu mapu inchin ta <*SPA>
+C: somos de la tierra del pedregal
+
+M: descendiente de <*SPA>la 
+C: descendiente de la
+
+M:<*SPA>comunidad pedregoso 
+C: comunidad Pedregoso
+
+M: pingi tati pankuntu pingi
+C: se llama pues, Pankuntu
+
+M: tañi mapuche üy. 
+C: su nombre mapuche.
+
+nmlch-pmrmmA1_x_0033_nmlch_00:
+M: Mapuche üy. 
+C: nombre mapuche.
+
+nmlch-pmrmmA1_x_0034_pmrmm_00:
+M: Mapuche üy winkamu ta
+C: Nombre mapuche, en castellano
+
+M: pedregoso pingi 
+C: se llama Pedregoso
+
+M: winka ta veyta 
+C: el winka pues
+
+M: ka üy ta tukutuvilu. 
+C: le coloco otro nombre.
+
+nmlch-pmrmmA1_x_0035_nmlch_00:
+M:  Peñi feyta alün ta
+C: Hermanos por hartas
+
+M: sungumu rupaki wentru 
+C: cosas pasa el hombre
+
+M: domongeay rume re mülelayka.
+C: ni la mujer existe porque si.
+
+nmlch-pmrmmA1_x_0036_pmrmm_00:
+M:  Veli ka peñi.
+C: Asi es hermano.
+
+nmlch-pmrmmA1_x_0037_nmlch_00:
+M:  <uh> Wesake sungumu
+C: Malas noticias
+
+M:  ta müleki ka
+C: hay a veces
+
+M:  ta kümeke sungumu 
+C: buenas noticias
+
+M: kiñeke ta ka müleki 
+C: tambien hay aveces
+
+M: welu eymi nimi 
+C: pero tu tienes
+
+M: fentren tripantu dewma peñi.
+C: de hecho, hartos años hermano.
+ 
+nmlch-pmrmmA1_x_0038_pmrmm_00: 
+M: Veli veleyem peñi
+C: Asi es, asi estoy hermano
+
+M:  <uh> epe puwülün 
+C: estoy llegando
+
+M: kechu mari tripantu peñi.
+C: a los cincuenta años, hermano.
+ 
+nmlch-pmrmmA1_x_0039_nmlch_00: 
+M: kechu mari tripantu.
+C: Cincuenta años.
+ 
+nmlch-pmrmmA1_x_0040_pmrmm_00: 
+M: Kechu mari trpantu 
+C: Cincuenta años
+
+M: epe püwülün tüfa
+C: estoy por cumplir 
+
+M:  <*SPA>cuarenta y <*SPA>seis 
+C: cuarenta y seis
+
+M: <*SPA>año nen.
+C: años tengo.
+
+nmlch-pmrmmA1_x_0041_nmlch_00:
+M:  Ah.
+C:Ah.
+
+M:  Alün dewmaka 
+C: harto pues
+
+M: welu kimün ta alünimi tati peñi.
+C: tienes hartos conocimientos hermano
+
+nmlch-pmrmmA1_x_0042_pmrmm_00: 
+M: Vey, vey tati peñi
+C: Asi, asi es hermano
+
+M:  veyta kompüle am
+C: pues por toda parte
+
+M:  rupakelu inche
+C: yo he pasado
+
+M:  kom kimnen veytapüle
+C: conozco todo por aqui
+
+M:  chumlen tañi iñi kechi pingen
+C: como estan, que persona viven
+
+M:  tañi lof tañi pu peñi 
+C: en mi comunidad, mis hermanos
+
+M: kom kimnefin engün
+C: lo conozco a todos
+
+M:  ka kimnen kom pu lonko
+C: conozco a todos los lonko
+M:  iñikechi pingen taiñ pu' lonko
+C: los nombres que tienen cada lonko
+
+M: kom kimnen  chumngechi ta
+C: se todo como se 
+
+M: adentuken tañi 
+C: se lleva a cabo su
+
+M: ngellipun engün kom,
+C: todo su ngellipun
+
+M: kom rupatukevin 
+C: todo lo he pasado
+
+M: tapüle tati peñi 
+C: por aqui hermano
+
+M: veymu ta pütake wentru 
+C: por eso los grandes hombres
+
+M: kimnelu tüva kuyvike sungu
+C: que conocian las cosas antiguas
+
+M: kuyvi ke ngülam
+C: antiguos consejos
+
+M: veychi pin y veychi ngülam mu 
+C: ese decir y esos consejos
+
+M: vey pichiken ina pünon nevin
+C: poco a poco le sigo los pasos
+
+M:  veymu ta kimpuki 
+C: por eso aprende
+
+M: ta wentru tai peñi.
+C: el hombre hermano.
+ 
+nmlch-pmrmmA1_x_0043_nmlch_00:
+M:  Veley peñitu
+C: Asi es hermanito
+
+M:  inchin kaiñ küpapemu
+C: de donde nosotros venimos
+
+M:  rume alün ta mülevuy ta
+C: habian hartas
+
+M:  falin dungu pingi peñi
+C: cosas que valian hermano
+
+M:  kuyfimpiam ta 
+C: antiguamente pues
+
+M: <uh> petu ta akunolu winka
+C: cuando todavia no llegaban los winka
+
+M:  ventren rume ta 
+C: como fuera
+
+M: <uh> montupuwkülekevuy ta
+C: se evitaban
+
+M:  kutranmu che pingi 
+C:  las enfermedades se dice
+
+M: velepelavuy ti peñi.
+C: yo creo que era asi hermano.
+ 
+nmlch-pmrmmA1_x_0044_pmrmm_00: 
+M: Velefuy ka peñi
+C: Asi era pues hermano
+
+M:  mapumu ta kom velelu kay 
+C: en la tierra todo es asi
+
+M: ta kuyvi ta re tüva
+C: antiguamente asi
+
+M:  ta kake rume kutran ta
+C: distintas enfermedades
+
+M: wewey kuyvi 
+C: .......antes
+
+M: ta vemi kuyvi 
+C: asi era antes
+
+M: ta velelavuy ta dungu 
+C: ahora las cosas no estan asi
+
+M: pikiyin taiñ pütakeche
+C: decian los ancianos
+
+M:  tati wüne trekalelu 
+C: el que camina primero
+
+M: kimpalu kuyvi dungu 
+C: el que conocio lo antiguo
+
+M: kuyvi ta kimngelay ta
+C: antes no se conocia
+
+M:  <*SPA>ospital pingin 
+C:el hospital se dice
+
+M: vantenmu veyta 
+C: en la actualidad pues
+
+M: pichi kutrani müten che
+C: se enferma un poco la gente
+
+M:  ta ti ospital mu ta amuy tati 
+C: va enseguida al hospital
+
+M: kuyvikay kisu engün
+C: antes ellos
+
+M:  veyta kisu kom tañi 
+C: pues todos ellos
+
+M: ngünewünmu ta velevuyngün
+C: por ser los primeros estaban asi.
+
+M:  ka mülevuy l'awen' 
+C: tambien hay remedios
+
+M: kom elinga chaw ngünechen
+C: todo dejo nuuestro ser superior
+
+M:  l'awen' pa ke taiñ kom nial
+C: remedios para que todos tuvieramos
+
+M:  kümeke l'awen'
+C: buenos remedios
+
+M:  tutewpem chuchi kutran rume 
+C: que haga efecto a cualquier enfermedad
+
+M: ngañi mongepemu pin dungu nga
+C: .......para que viva dije las cosas
+
+M:  niekevuyin pütakecheyem
+C: tenian los antiguos
+
+M:  ti ta vantenmu velewetulay
+C: en la actualidad ya no es asi
+
+M:  ka anka konküleputuy
+C: estamos a medias
+
+M:  veychi dungu
+C: en esas cosas.
+
+M:  ka vantenmu 
+C: ademas ahora
+
+M: veychi kom kümeke l'awen'
+C: todo esos buenos remedios
+M:  veyta kom wepümngetuy
+C: pues todo...............
+
+M:  winkamu, winkamu amul ngetuy 
+C: al pueblo, al pueblo lo llevan
+
+M: vendetuy mapuche 
+C: lo vende el mapuche
+
+M: veychi l'awen.
+C: ese remedio.
+ 
+nmlch-pmrmmA1_x_0045_pmrmm_00: 
+M: Veymu piam vantenmu
+C: Creo que por eso ahora
+
+M:  ta tutewetulay taiñ mapuchengen 
+C: ya no hace efecto en los mapuche
+
+M: veychi l'awen' 
+C: ese remedio
+
+M: veyta vemfalnoel 
+C: eso no deberia ser
+
+M: ta inchin kisu taiñ ka 
+C: que  nosotros solo
+
+M: chuchikatualu l'awen' 
+C: manipulemos los remedios
+
+M: ngellipumi nga l'awen'
+C: .............. el remedio
+
+M:  kisu nga chen rume
+C: el pues, nada pues
+
+M:  kisu ngünewün mu velelay
+C: existe por si sola
+
+M:  pikevuy pütakecheyem
+C: decian los antiguos
+
+M:  küme tutelu tütealu l'awenmu
+C: el que le hacia efecto el remedio
+
+M:  tutewi kuyvi may 
+C: antes hacia efecto
+
+M: küme ngellipungi vey nga
+C: buen ..........ese pues
+
+M: tutengi l'awen' mu
+C: el remedio le hizo efecto
+
+M:  pin dungu müli
+C: esas cosas estan
+ 
+M:  fantenmu velewetulay
+C: en la actualidad ya no es asi
+
+M:  winkanga veyta elungetuy l'awen'
+C: al winka le dan los remedios
+
+M:  veyta ta, ta kümeke l'awen' pingi 
+C: pues, pues los buenos remedios se dice
+
+M: ta kom veymu piam 
+C: creo que por eso
+
+M: vantenmu ta valiwetulay ti l'awen' 
+C: ahora esos remedios ya no valen
+
+M: veyta ka katrü konküleputuy
+C: eso esta detenido 
+
+M:  tutewetulay l'awen' 
+C: ya no hace efecto el remedio
+
+M: ka ngellipungewetulay
+C: tampoco...............
+
+M:  küme tati l'awen' 
+C: muy bien el remedio
+
+M: ¿chumngechi am tutewalu che
+C: ¿como va a hacer efecto en las personas
+
+M:  pin rakiduam müli?
+C: Hay muchos pensamientos?
+
+M:  tati peñi
+C: pues hermano
+
+M:  veymu ta vantenmu
+C: por eso ahora
+
+M:  ta pütrülefuy ta l'awen' 
+C:hay hartos remedios
+
+M: ta mapumu ta velefuy tati 
+C: sobre el suelo hay harto
+
+M: veyta kuyvi ta kom
+C: pues antiguamente todo
+
+M:  trapelkevuy ta l'awen'
+C:...............el remedio
+
+M:  kom mülekevuy 
+C: habia de todo
+
+M: ta kümeke l'awen' 
+C: los buenos remedios
+
+M: tüva kom ñam nam kületuy 
+C: ahora estan todos perdidos
+
+M: tüva l'awen' 
+C:estos remedios
+M: y ta chemu chi 
+C: por que sera
+
+M: pilli mayta mapuche.
+C: dice el mapuche
+ 
+nmlch-pmrmmA1_x_0046_pmrmm_00: 
+M: Chemu winka kom,
+C: Por que todo el winka
+
+M:  kim kom che 
+C: sabe todo....)
+
+M: elulayan tañi mapu
+C: no dare mi tierra
+
+M:  tañi l'awen' 
+C: mis remedios
+
+M: veytachi kutranmu  ta kümi
+C: para esta enfermedad sirve
+
+M: ka veyta chi kutran
+C: tambien para esta enfermedad
+
+M:  ka vendepuy mapuche pin 
+C: el mapuche tambien lo vende
+
+M: piam kom ta depareseletuy 
+C: todo esta desapareciendo
+
+M: tüvachi l'awen'
+C: este remedio
+
+M:  tati tüva ngewetulay 
+C: ahora ya no existen
+
+M: mülekevule kiñeke
+C: si existian algunos
+
+M:  veyta tutewetulay rume che
+C: ya no hace efecto en las personas
+
+M: rume ngellipungewetulay l'awen' 
+C:...................remedio
+
+M: valiwetulay reke 
+C: ya no vale
+
+M: vey chaw ngünechen
+C: asi el Padre ngüenechen
+
+M:  kom askuniyin tati peñi 
+C: dejo todo establecido
+
+M: veyta kay kom ka
+C: esto todo pues 
+
+M:  ankatu tati 
+C: esta a medias
+
+M: ta kom tati pu' püñeñ 
+C: todos los hijos
+
+M: nacelu tüva <*SPA>ospital mu naci
+C: nacen ahora en el hospital
+
+M:  veyta winka l'awen' muten ta tuteay
+C: solo el remedio winka le hace efecto
+
+M:  ka mapuche l'awen' 
+C: el remedio mapuche
+
+M: ta tukulpangewetulay rume tati.
+C: ya no lo utilizan mucho pues.
+ 
+nmlch-pmrmmA1_x_0047_nmlch_00: 
+M: Vemngechi ka 
+C: Asi es
+
+M: <uh> l'awen' tueyem ta mapuche
+C: al momento de tomar el remedio mapuche
+
+M:  kimngeyem l'awen' 
+C: se conoce el remdio
+
+M: rume ngellipulelngekevuy
+C:........................
+
+M:  tati ngen l'awen' 
+C:  el dueño del remdio
+
+M: vey, vey wüla nentukevuy 
+C: asi, asi ahora se saca
+
+M: pingi veyngepi tüvey.
+C: asi era se dice.
+ 
+nmlch-pmrmmA1_x_0048_pmrmm_00: 
+M: Veli ka veli veymu 
+C: Asi esta asi esta ahí
+
+M: ta kuyvikeche ta veyta pewmamu
+C: la gente antigua en el sueño
+
+M:  wülewmamu ta elungi ta l'awen' 
+C: ................le dieron el remedio
+
+M: veychi l'awen' ta tumeaymi
+C: ese remedio iras  a buscar
+
+M:  veymu ta küme tutewaymi pingi
+C: asi te hara efecto le dijeron
+
+M:  ka ngen püñeñ veymu
+C: y el dueño del hijo ahi
+
+M:  tüteway tam püñeñ pingi 
+C: le har efecto a tu hijo le dijeron
+
+M: ka ngellipungi
+C:
+
+M:  veymu piam
+C:por eso pues
+
+M:  küme tutewkevuy che kuyvi 
+C: antiguamente hacia buen efecto
+
+M:  kuyvi amngelu
+C: antes pues...........
+
+M:  ta ospital kimngelay
+C: el hospital no se conocia
+
+M:  kim winka dungulay rume che
+C: no sabia hablar castellano la gente
+
+M: veymu ta kom pi 
+C:  por eso todo dicen
+
+M: tachi tüvachi l'awen'
+C: que este remedio
+
+M:  mülelu komu tati 
+C: esta en el agua
+
+M: vey mülelu kake kümeke l'awen'
+C: tambien existen otros buenos remedios
+
+M:  elelviyu chaw ngünechen
+C: el que dejo el Padre ngüenechen
+
+M:  ta  kisu tañi
+C: asi solo
+
+M:  küme wülüwmetuy ta che 
+C: se va adejar bien la gente
+
+M: veyta kom cheltuy vey
+C: 
+
+M:  veymu ta vantemu ta 
+C: por eso que ahora
+
+M: veyta weke che 
+C: la gente nueva
+
+M: veyta tukulpatulay 
+C: ya no utiliza
+
+M: veychi l'awen'
+C: ese remedio
+
+M:  ka re pital müten 
+C: solamente el hospital no mas
+
+M: ta kintuwelnentuy ka.
+C: ahora busca en otras partes.
+ 
+nmlch-pmrmmA1_x_0049_nmlch_00: 
+M: Feli pu' peñi 
+C: Asi es pues hermano
+
+M: veley wuyütuy reke 
+C: asi es como que se esta olvidando
+
+M: falin dungu tañi niekevel 
+C: las cosas de valor que teniamos
+
+M: ta mapumew 
+C: en la tierra
+
+M: ka wüyütuy tañi
+C: tambien se esta olvidando 
+
+M: kimün reke ka .
+C: nuestros conocimientos.
+
+nmlch-pmrmmA1_x_0050_pmrmm_00:
+M: Vey llemay ngüyunentutuy ka
+C: Asi es ahora se estan olvidando
+
+M: valilwetulay kuyvi ke dungu ka. 
+C: ya no valen las cosas antiguas pues.
+
+nmlch-pmrmmA1_x_0051_nmlch_00: 
+M: Ventreküme sugu ta mülekevuy 
+C: Hartas cosa buenas habian  
+
+M: ta kuyvi pingi 
+C: antes dicen
+
+M: tüva <uh> püñeñkevuy 
+C: tenian hijos
+
+M: rume mapuche rukamu müten pin
+C: los mapuche en la casa se dice
+
+M: mülekevuy lamngen 
+C: habian hermanas
+
+M: entuchekelu pingi veyngepevuy. 
+C: que sacaban las guaguas dicen, asi era.
+
+nmlch-pmrmmA1_x_0052_pmrmm_00:
+M: Vey vey veli ka inche <uh> 
+C: Asi es tambien yo
+
+M: veypiki inche tañi ñukeyem 
+C: decia mi madre
+
+M: ta veypiki ta
+C: pues decia
+
+M: petu müli kiñeptra <uh>
+C: todavia existe una gran
+
+M: kiñptra <uh> trawün che müli nga
+C: una gran junta de gente haypues
+
+M: kiñe nga ñi tiya
+C: una de mis tias
+
+M: veynga kiñe walponmu 
+C: pues en un galpon
+
+M: mejorami nga ñi tia piki
+C: se fue a mejorar mi tia decian
+
+M: ngañi ñukeyem 
+C: .......mi madre
+
+M: kuyvi nga kullin trüri nga
+C: antes como los animales pues
+
+M: chenga kuyvi nga
+C: era la gente antes
+
+M: vantenmu veyta vemwetulay
+C: ahora ya no es asi
+
+M: ospitalmu pituy nga che
+C: Hospital dice la gente
+
+M: we tremchi che pikevuy
+C: la gente nueva decia 
+
+M: tañi ñukeyem
+C: mi madre
+
+M: vemi tañi kiñe tia piki
+C: asi una de mis tias fue asi
+
+M: petu mülechi kiñe katawün
+C: cuando todavia habia un..........
+
+M: kiñeptra <*SPA>fiesta mu y
+C: una gran fiesta
+
+M: vey tüva chi eperalelu 
+C: y la que estaba esperando
+
+M: tüva tati nialu püñeñ 
+C: la que hiba a tener hijo
+
+M: veyta oranun eparanolu
+C: como la hora no espera
+
+M: puwi tañi <*SPA>hora niam püñeñ 
+C: llego la hora de tener a su hijo
+
+M: veyta kimni tati kisu ngen
+C: eso lo sabe el dueño
+
+M: ngenngeleluka vemi 
+C:............
+
+M: pikevuy tañi ñukeyem
+C: decia mi madre pues
+
+M: kiñe walpnmu amuy 
+C: fue a un galpon
+
+M: mejorami tañi tia piki.
+C: se fue  a mejorar mi tia decia.
+
+nmlch-pmrmmA1_x_0053_pmrmm_00: 
+M: Kom tripay nga
+C: Salio todo pues
+
+M: kiñe kuchillu witranentumi
+C: fue  a buscar un cuchillo
+
+M: kuchillu ngañi tia pevin
+C: con el cuchillo ......vi a la tia
+
+M: vey tañ katrü püduam 
+C: para cortar el cordon umbilical
+
+M: tañi püñeñ reke piki 
+C: de su hijo decia
+
+M: y kompatuy <*SPA> despue
+C: y entro despues 
+
+M: metami püñeñ
+C:  tenia en brazo a su hijo
+
+M: kom yemi nga ñi choñe nga
+C: fue  a buscar todos los pañales
+
+M: ñi tañi, tañi munul lam
+C: para, para cubrirlo
+
+M: nga ñi püñeñ
+C: a su hijo
+
+M: ñi walponmu  nga mejorami
+C: cuando estaba mmejorada en el galpon
+
+M: <*SPA>despue kompatuy
+C: despues entro
+
+M: petu mülechi fiestamu 
+C: cuando todavia estaba la fiesta
+
+M: konpatuy metani püñeñ 
+C: entro con su hijo en brazo
+
+M: kompatuy pikevuy ñi ñukeyem
+C: entro decia mi madre
+
+M: veyta kullin trüri ta
+C: pues parecian animales
+
+M: kuyvi che piki 
+C: la gente antes decia
+M: pefin witranentuy ten kuchillu pi
+C: lo vi cuando saco el cuchillo
+
+M: veyta katrü püsorkeal
+C: era para cortar el cordon umbilical
+
+M: tañi püñeñ pi <*SPA>
+C: de su hijo dijo
+
+M: como <*SPA>animal <*SPA>
+C: como animal
+
+M: la <*SPA>jente <*SPA>
+C: la gente
+
+M: ante kiñepchi mediawamu
+C: ante en una pequeña media agua
+
+M: gallinero mediawamu 
+C: en una media agua de gallinero
+
+M: walpon mu peño 
+C: o tal vez en un galpon
+
+M: veymu ta mejorami 
+C: se fue a mejorar
+
+M: veymu ni tani püñeñ 
+C: ahí tuvo a su hijo
+
+M: yey ta kom tañi choñe
+C: llevo todo los pañales
+
+M: yemi ka kuchillu witranentumi pi
+C: fue  a buscar el cuchillo dijo
+
+M: katrüpusuay ñi püñeñ
+C: para cortar el cordon a su hijo
+
+M: metani vey akultuy püñeñ
+C: llego con su hijo en brazo
+
+M: meki tati fieta kompay.
+C: estaban en la fiesta cuando entro.
+
+nmlch-pmrmmA1_x_0054_pmrmm_00:
+M: Vey metafi püñeñ 
+C: Tenia en brazo a su hijo
+
+M: kom rumepatuy
+C: todo paso
+
+M: tañi tiya piki
+C: decia mi tia
+
+M: ¿tüva vemafuy che tati peñi ?
+C: ¿ Ahora eso haria la gente hermano?
+
+M: kuyvi ta kullin reke ta
+C: antes como animales
+
+M: veli ta che kullin reke
+C: estaba la gente como animales
+
+M: veli chuchimu rume mejoray
+C: en cualquier parte se mejoraban
+
+M: ta mediko ngelay tüva 
+C: medico no habia aca
+
+M:ta kom tati winka ñi akulel
+C: ahora todo lo que el winka trajo
+
+M: chi alimento 
+C: el alimento
+
+M: veymu rume delikawi che
+C: por eso la gente estan delicada
+
+M: ka <*SPA>ospitalmu naci
+C: tambien nacen en el hospital
+
+M: kom ta tüfa tati wekeche 
+C: toda esta gente nueva
+
+M:veymu ta vente
+C: por eso pues
+
+M: delikawngetuyin tati 
+C: son tan delicados
+
+M:kuyvi vemlayin
+C: antes no era asi
+
+M: ka atrewkomu müten ta 
+C: con agua fria no mas
+
+M: müñetungi tüva ta
+C: lo bañaban, ahora
+
+M: llakokomu müñetungi 
+C: lo bañan con agua tibia
+
+M:veyta rume frio lentungi
+C: ahora mucho frio......
+
+M: ka piki ta pütakecheka kuyvi piam
+C: decian las gentes antiguas pues
+
+M: atrewkomu müñetungi tati 
+C: con agua fria lo bañaban pues
+
+M: we nacilu püñeñ 
+C: el hijo que recien nacia
+
+M: veyta kimlay ta wütre 
+C: eso no conocen el frio
+
+M:kimlay ta kutran
+C: no conocen la enfermedad
+
+M: kimlay ta chem rume
+C: no conocen nada
+
+M: veyta ta muy delikaw 
+C: esta muy delicada
+
+M: la jente hoy en dia 
+C: la gente hoy dia
+
+M: vey  <uh> mamadera elungi l'awen' 
+C: le dan remedio en mamadera
+
+M:tufemelngi tati we püñeñ 
+C: ............. Pues al recien nacido
+
+M: llakokomu müñetungi ka. 
+C: lo bañan con agua tibia.
+
+nmlch-pmrmmA1_x_0055_pmrmm_00:
+M: Feyta winkawmu tati pikingün
+C: Estos son awincados dicen
+
+M: pütakeche velefuy ka
+C: los antiguos estaban asi
+
+M: tüva vey piam weke 
+C: ahora pues los nuevos
+
+M:weke püñeñ nacelu
+C: los nuevos hijos que nacen
+
+M: tüva veyta pi 
+C: esto dijo
+
+M: ngañkonaw ospitalmu pi ka y  
+C: cuando se sienten mal al hospital dice
+
+M: müli epe vill kutranka tati <*SPA>
+C: hay multiples enfermedades pues
+
+M: sicula nton de emfermedad ay pu'
+C: vesicula un monton de enfermedad hay pues
+
+M: uyvi ta kimngelay veychi kutran ka,
+C: antes no se conocia esa enfermedad pues,
+
+M: nievuy kichu tañi l'awen' engün 
+C: ellos tenian solos sus propios remedios
+
+M: nemtuam tañi kutran engün. 
+C: para sacar sus enfermedades ellos.
+
+nmlch-pmrmmA1_x_0056_nmlch_00:
+M: ¿Chumngelu chi h> tunte
+C: ¿Como seria tanto
+
+M: yafüngekevuy che kuyfi peñi?
+C: que tenian tanta fuerza hermano?
+
+M: ti chem chi yagel mu
+C: frente a cualquier alimento
+
+M: chi tutekevuyngün 
+C: no tenian problemas
+
+M: kam doy ngellipukevingün chi 
+C: tal vez hacian mas oraciones 
+
+M: kam doy l'awen' mapuche
+C: tal vez mas remedio mapuche
+
+M: l'awen' tulefuyngün chi 
+C: mas remedios tomaban
+
+M:¿chumngelu chi vey?.
+C: ¿cómo seria eso?.
+ 
+nmlch-pmrmmA1_x_0057_pmrmm_00:
+M: Y inchin kay pütakecheyem
+C: Y nuestros ancianos
+
+M: veypiki ta kom
+C: decian todo
+
+M: ta re karü yagel
+C: que solo alimentos crudos
+
+M: ta iki pikevuyngün ka
+C: comiamos decian
+
+M: karü yagel pikevuyngün 
+C: alimentos crudos decian
+
+M: tüva ti kachu mülelu ta <uh>
+C: este es pasto que esta aqui
+
+M: wentray pingi tati 
+C: se llama wentray le dicen
+
+M: vey tañi küme yagel pikingün
+C: ese era buen alimento decian
+
+M: wentray ilo karü
+C: wentray, carne cruda
+
+M: ilotukiyin pikingün
+C: comiamos carnes decian
+
+M: kom karü yagel ikiyin pi
+C: todos los alimentos crudos decian
+
+M: veymu tati vente,
+C: por eso pues 
+
+M: vente weda kimkelay
+C: por eso no conocian mucho
+
+M: kutran pikingün 
+C: enfermedad decian
+
+M: kullin reke piam
+C: creo que como animales
+
+M: müleki kuyvi keche ka 
+C: existian antes las personas
+
+nmlch-pmrmmA1_x_0058_nmlch_00:
+M: ¿Wentray anta chem peñi ?
+C: ¿Que es el wentray hermano?
+
+nmlch-pmrmmA1_x_0059_pmrmm_00: 
+M: Wentray piam C: Pues el wentray 
+
+M: kiñe lechuga kechili tati 
+C: parece una lechuga
+
+M: pichike komu tripaki tati 
+C: sale en charcos de agua pues
+
+M: vantekeki tüva
+C: es de este porte ahora
+
+M: ventey chumül wüla chi
+C: era de este porte al otro dia no mas
+
+M: kümeavel chumül iyafel ta
+C: al otro dia estaba bueno para servirselo
+
+M: wentray peñi
+C: el wentray hermano
+
+M: inche petu kuyvi chewkülen
+C: yo estoy como los antiguos
+
+M: chumül ta tumepen ta wentray
+C: al otro dia fui  a buscar wentray
+
+M: kiñeptra preparapapetun 
+C: prepare una gran
+
+M: kiñeptra ensala wentray y 
+C: una gran ensalada de wentray
+
+M: petu niepelan invernadero 
+C: todavia no tenia invernadero
+
+M: vey lechuga ni silantro
+C: asi ni lecchuga ni cilantro
+
+M: komni invernadero veyti 
+C: el invernadero tiene todo eso
+
+M:veyta prensal neki
+C:
+
+M: invernadero wentray tati <uh> 
+C: el invernadero de wentray
+
+M: una werta muy natural. 
+C: es una huerta muy natural.
+
+nmlch-pmrmmA1_x_0060_nmlch_00:
+M: Ah.
+C: Ah.
+
+M:  Triparmi sew erke 
+C: Si sales luego
+
+nmlch-pmrmmA1_x_0061_pmrmm_00: 
+M: May
+C: Sí.
+
+M:  Veru erke
+C:
+
+M: iwal komo veru 
+C: igual como el .....
+
+M: pero asi creo
+C: pero asi creo
+
+M: vanteki ke wentray
+C: es de este porte el wentray
+
+M: vey tati lechuga 
+C: esa lechuga
+
+M: kuyvi keche tañi lechuga.
+C: la lechuga de la gente antigua.
+
+nmlch-pmrmmA1_x_0062_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Wentray tuli wentru .
+C: El hombre esta con wentray.
+
+nmlch-pmrmmA1_x_0063_pmrmm_00:
+M: Wentray, wentray. 
+C: Wentray, wentray.
+
+nmlch-pmrmmA1_x_0064_nmlch_00: 
+M: Veymu may ventre iyal
+C: Por eso ahí para comer
+
+M: mülekevuy mülepefuy 
+C: habia, existia
+
+M:ta karü iyagel  
+C: comida cruda.
+
+nmlch-pmrmmA1_x_0065_pmrmm_00:
+M: Ka tati <uh> wülo pingün
+C: Tambien el que se llama Hulo decian
+
+M: tati ikiyin 
+C: pues esto comiamos
+
+M: veyta mawidamu miawiyin 
+C: cuando andamos en la cordillera
+
+M: dewma ikiyin ta wülo 
+C:  preparamos Hulo para comer
+
+M: pikingün tati rüngi 
+C: se decia de este Colihue
+
+M: ella tripantu ta vantrekeki
+C: a principio de año es de este porte
+
+M: tati koyocho engu ta 
+C: pues del coyocho del
+
+M: rüngi veyta wülo pingi 
+C: Colihue, se llama Hulo
+
+M: vey taiñ küme yagel pikingün
+C: este es un buen alimento decian
+
+M: vey am chemuam 
+C: porque sera
+
+M: kutranchengealu engün tati
+C: porque tendrian que enfermarse
+
+M: re karüke yagel ilu engün 
+C: si comieron puros alimentos crudos ellos
+
+M: tati ilo müten 
+C: solamente la carne
+
+M: veyta ilo kullinki müten
+C: esta carne de animal no mas
+
+M: veyta ella pichi 
+C: esto a penas
+
+M: avülechi ilo müten
+C: tenia un pequeño cocimiento
+
+M: ikiyin pikingün
+C: comiamos decian
+
+M: kakelu veyta 
+C: los otros pues
+
+M: re karü iyagel 
+C: solo crudos alimentos
+
+M: ka pikin korütulingün 
+C: tambien decian de la comida
+
+M: vey korü dewmangi
+C: se hacia la comida
+
+M: tati puchero pi ta winka 
+C: el puchero dice el winka
+
+M: pilkün korü vey müten 
+C: es comida de harina eso no mas
+
+M: tañi küme iyagel engün
+C: su buena comida de ellos
+
+M: kofke rume ta ikelay ngün
+C: ni pan comian ellos
+
+M: mawidamu miawiyin
+C:cuando andaban en la cordillera
+
+M: veyta<*SPA> wülo pikingün 
+C: pues hulo decian
+
+M: wülo taiñ küme yegel pikingün
+C: el Hulo es nuestro buen alimento decian
+
+M: ka wülo pingi ta ringi tati 
+C: el Hulo le llaman al colihue pues
+
+M: vanteki tati como .
+C: es de este porte como.
+
+nmlch-pmrmmA1_x_0066_pmrmm_00: <uh> 
+M: Müta kapüra kechili 
+C: Parce el cacho de una chiva
+
+M: tati flandito yo <uh> <*SPA>comido 
+C: es muy blandito yo he comido
+
+M:<*SPA>tambien wülo iken ka 
+C: tambien he comido Hulo.
+
+_pmrmmA1_x_0068_pmrmm_00ch_00: 
+M: ¿Ikimi ?
+C: ¿Has comido?
+
+nmlch-pmrmmA1_x_0069_pmrmm_00: 
+M: May. 
+C: Sí.
+
+M: Flandito <*SPA>igual
+C: Es blandito igual
+
+M: <*SPA>como <*SPA>una
+C: como una 
+
+M: <*SPA>sanahoria
+C: Zanahoria
+
+M: <*SPA> asi <*SPA>pero
+C: asi pero
+
+M: <*SPA> cuerpu mu <*SPA>como
+C: el cuerpo es
+
+M: <*SPA>una <*SPA>zanahoria
+C: como una Zanahoria
+
+M: <*SPA>asi fey <*SPA>pero
+C: asi es pero
+
+M: <*SPA>ese <*SPA>una <*SPA>
+C: ese es una 
+
+M: cosa tan <*SPA>que <*SPA>
+C: cosa que 
+
+M: alimenta tan y tan <*SPA>sano. 
+C: alimenta tanto y tan sano.
+
+nmlch-pmrmmA1_x_0070_nmlch_00:
+M: Feyti peñi fey ka fün
+C: Eso peñi de los hongos
+
+M: tripakelu mawisamu
+C: el que sale en la cordillera
+
+M: ¿ka mülipi tapüle fün?
+C: ¿tambien hay hongos por este lado?
+ 
+nmlch-pmrmmA1_x_0071_pmrmm_00:
+M: Ka müli ka, ka müli 
+C: Tambien hay, tambien hay
+
+nmlch-pmrmmA1_x_0072_nmlch_00:
+M:¿ Chem fün nekefuymün fawpüle soy?
+C: ¿Que hongos tienen mas por este lado?
+ 
+nmlch-pmrmmA1_x_0073_pmrmm_00: 
+M:Fawpüle fün müli
+C: Por este lado hay hongos
+
+M: tati pewen mu tripachi fün ka 
+C: el hongo que sale en las araucarias
+
+nmlch-pmrmmA1_x_0074_nmlch_00: 
+M: Ngüllüw
+C: El piñon
+
+nmlch-pmrmmA1_x_0075_pmrmm_00: 
+M: Ngüllüw ka müli tati nogalmu 
+C: El piñon tambien hay en el Nogal
+
+M: ka tripachi fün tati,
+C: tambien salen hongos
+
+M: tati chafün ka vey 
+C: el Chafün pues
+
+M: tati llaw law
+C: tambien el Llaw-llaw
+
+M: ka müli tati ñengüm
+C: tambien hay Diweñes
+
+M: ka müli tati püna 
+C: tambien hay Püna
+
+M:kom veychi fün tati 
+C: todos estos hongos pues
+
+M: vey ikel kuyvikeche tati 
+C: los que comian la gente antigua
+
+M: taiñ mongepemu engün
+C: con lo que sobrevivian ellos.
+ 
+nmlch-pmrmmA1_x_0076_nmlch_00: 
+M: Fewla kimngewepelay
+C: Ahora ya no se conocen
+
+M: rume kiñeñpüle. 
+C: se deja de lado. 
+
+nmlch-pmrmmA1_x_0077_pmrmm_00:
+M: Tüva ta veyta 
+C: Ahora pues
+
+M: yiwiñ ingewelay rume 
+C: ya no se come grasa
+
+M: veyka wekeche ta veyta 
+C: pues la gente nueva 
+
+M: duamwelay tati veychi vün tripalu
+C: ya no quiere a esos hongos que salen.
+ 
+mA1_x_0079_pmrmm_007_nmlch_00: 
+M: Ah. 
+C: Ah.
+
+M: Duamwelafi 
+C: ya no lo quiere
+
+nmlch-pmrmmA1_x_0080_pmrmm_00: 
+M: Duamwelayngün
+C: Ya no los quieren
+
+M: veyta re alimento müten
+C: solamente le alimento no mas
+
+M: ka kintueli müten alimento
+C: tambien buscan alimento no mas
+
+M: müten ngillalngeal ka
+C: para comprar no mas
+
+M: welu kuyviche 
+C: pero la gente antigua
+
+M: welu petu igi ta
+C: todavia siguen comiendo
+
+M: veychi fün petu igi. 
+C: esos hongos todavia lo comen.
+
+A1_x_0081_pmrmm_0007_nmlch_00:
+M: Petu ini .
+C: Todavia lo comen.
+
+nmlch-pmrmmA1_x_0082_pmrmm_00:
+M: Petu ini 
+C: Todavia lo comen
+
+nmlch-pmrmmA1_x_0083_nmlch_00: 
+M: Feymu may kaletuy ta mongen
+C:  Por eso es diferente el vivir
+
+M: tüfa peñi kaletuy tüfa
+C: pero esta diferente ahora hermano.
+ 
+nmlch-pmrmmA1_x_0084_pmrmm_00: 
+M: Veley llemay kaletuy ka tüva
+C: Asi es esta diferente ahora tambien aca.
+ 
+nmlch-pmrmmA1_x_0085_nmlch_00: 
+M: Veyti tamün <uh> anümka 
+C: Pues la planta
+
+M: tüfi pewen eymün ta
+C: es una araucaria 
+
+M: lakuntukunefimün pewenche
+C: que lo apadrina al Pewenche
+ 
+nmlch-pmrmmA1_x_0086_pmrmm_00: 
+M: May.
+C: Sí.
+
+M:  Lakuntukuneviyin ka 
+C:  Nos apadrina pues
+
+M: veyta taiñ elunietew
+C: este es el que nos da
+
+M: ta chaw ngünechen
+C: el Padre ngüenechen
+
+M: taiñ mongeam taiñ pu' 
+C: para que vivan nuestros
+
+M: Pewenche ngen pingiyin tüva <uh
+C: Pewenche los dueños nos dicen ahora
+
+M: veymu ta rewemu
+C: por eso en el rewe
+
+M: ta niekiyin ta pewen 
+C: tenemos la Araucaria
+
+M: asngerkiyin chaw ngünechen ta
+C: como un simbolo al Padre ngüenechen
+
+M: mañumtukeviyin ka <uh> ka
+C: le agradecemos pues
+
+M: tukulpakiyin ta vill tripantu
+C: a instalarnos todos los años
+
+M: taiñ eluneatew veychi mongen 
+C: para que nos de ese vivir
+
+M: veymu nga pichiken
+C: por eso de a poco
+
+M: welulkakiyin kom nga yiñ
+C: nos equivocamos todos nosotros 
+
+M: taiñ mongepemu
+C: en nuestra vida
+
+M: ka welu kay kake
+C: pero tambien los otros 
+
+M: yagelmu veychi veychi ........
+C: los alimentos esos, esos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-+
+

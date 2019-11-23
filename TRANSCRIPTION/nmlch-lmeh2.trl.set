@@ -1,0 +1,14 @@
+InfoVersion 1
+TurnCounter 198
+SpeakerNum: 2
+nmlch-lmeh2_x_%04d_nmlch_00
+nmlch
+nmlch-lmeh2_x_%04d_lmeh_00
+lmeh
+UserLables: 4
+<*SPA>
+<Cough>
+<Laugh>
+<Throat>
+LableMenuFile
+C:\Program

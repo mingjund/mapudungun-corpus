@@ -1,0 +1,2518 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nfmhc1 
+; Last changes made on 21/03/2001
+; Transcriber: Maria Elena 
+; Comments:  
+; Traduce: Juan Licanqueo.
+
+nmlch-nfmhc1_x_0000_nmlch_00: 
+M: Mari mari palu.
+C: Hola tía paterna.
+
+nmlch-nfmhc1_x_0001_nfmhc1_00: 
+M: Mari mari palu.
+C: Hola sobrino paterno.
+
+nmlch-nfmhc1_x_0002_nmlch_00: 
+M: Chumechi anta rupalefuy tami mongen 
+C: Como has estado en tu vida
+
+M: tüfa chumli tami pu che kom <uhm> 
+C: aqui como esta tu toda tu familia 
+
+M: tün küleyngün, külfun küleyngün anchi.
+C: todo estan bien, estan bien pues.
+
+nmlch-nfmhc1_x_0003_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Külfun külein tati palu welu, 
+C: Estamos todos bien sobrino pero, 
+
+M: rupamu llemay ta kutran.
+C: paso ya la enfermedad.
+
+nmlch-nfmhc1_x_0004_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0005_nfmhc1_00: 
+M: <uhm> Rume kutrankawfun ta 
+C: Estaba muy enferma y
+
+M: rupay ta -/febre/- enero küyen.
+C: paso febrero, el mes de enero.
+ 
+nmlch-nfmhc1_x_0006_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmhc1_x_0007_nfmhc1_00: 
+M: Rume kutrankawün 
+C: Estaba muy dolida, 
+ 
+M: kutran külefuy tañi kuku.
+C: estaba enferma mí nieto.
+
+nmlch-nfmhc1_x_0008_nmlch_00: 
+M: May, may, may.
+C: Sí,  sí,  sí.
+
+nmlch-nfmhc1_x_0009_nfmhc1_00: 
+M: Feymu ta amun pitalmu, 
+C: Por eso fui al hospital,
+
+M: feymu ta llowngen ka chaw.
+C: por eso me recibieron pues padre.
+
+nmlch-nfmhc1_x_0010_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0011_nfmhc1_00: 
+M: Pitru kutranmu afuy tañi pichi elaweni.
+C: Toco la enfermedad del grano mí amigo pequeño.
+ 
+nmlch-nfmhc1_x_0012_nmlch_00: 
+M: ¿Rupachi küyen?
+C: ¿El pasado mes?
+nmlch-nfmhc1_x_0013_nfmhc1_00: 
+M: Rupachi küyen enero küyen chi.
+C: El mes pasado enero ese. 
+ 
+nmlch-nfmhc1_x_0014_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: We rupachi küyen.
+C: El mes recien pasado.
+
+nmlch-nfmhc1_x_0015_nfmhc1_00: 
+M: May.
+C: Sí.
+
+ M: Rupachi we tripantu konlu enpesalu.
+C: Pasado el año nuevo cuando entro, comenzó.
+ 
+nmlch-nfmhc1_x_0016_nmlch_00: 
+M: Fey, fey, fey, fey.
+C: Ese, ese pues.
+
+nmlch-nfmhc1_x_0017_nfmhc1_00: 
+M: Feychi.
+C: Esa ves.
+
+nmlch-nfmhc1_x_0018_nmlch_00: 
+M: Kutranmu rupaymi.
+C: Por enfermedad pasaste
+
+nmlch-nfmhc1_x_0019_nfmhc1_00: 
+M: Rume kutrankawün, rume sentiñin ñi pichi 
+C: Sufri mucho, sentí mucho a mí a pequeño 
+
+M: elaweni chumleay chi ñi pichi elaweni pin 
+C: amigo como ira estar m pequeño amigo dije
+
+M: rume feychi <Noise> weda kutrankelu ta 
+C: esa vez estaba muy enfermo y
+ 
+M: fey penu, rume tukayafeymu pingen 
+C: es por eso, mucho te puedes tocar me dijeron
+
+M: serantukungen kiñe, kiñe rukamu.
+C: me dejaron encerrado en una, en una casa.
+ 
+nmlch-nfmhc1_x_0020_nmlch_00: 
+M: ¿Rakümtukunungimi?
+C: ¿Te dejaron encerrada?
+
+nmlch-nfmhc1_x_0021_nfmhc1_00: 
+M: Rakümtukunungen fey ini rume 
+C: Me dejaron encerrada y nadie siquiera
+
+M: kontupulanu, kontulayaymi ini rume 
+C: me vino a ver, a nadie visitarás 
+
+M: tulkayafiyu kangelu 
+C: le puedes contagiar a 
+
+M: che neyenmu pingen
+C: las otras personas con el aliento
+
+M: fey serantukunulen chaw <hm>.
+C: y dejame encerrado padre.
+ 
+fmhc1_x_0022_nfmhc1_00lch_00: 
+M: ¿Chem, chem pingi chi kutran 
+C: ¿Cómo, como se llama la enfermedad
+
+M: tüfey palu tuwlu tami kuku?
+C: esa tía la que le toco a tu nieto?
+
+nmlch-nfmhc1_x_0023_nfmhc1_00: 
+M: Wingka dungunmu 
+C: En las conversaciones del winca y 
+
+M: ta inchin mapuche
+C: nosotros los mapuches
+
+M: dungunmu ta püñu 
+C: en nuestras conversaciones decimos püñu 
+
+M: kutran tufiñ may.
+C: esa enfermedad pues.
+
+nmlch-nfmhc1_x_0024_nmlch_00: 
+M: Püñu kutran.
+C: Enfermedad püñu.
+ 
+nmlch-nfmhc1_x_0025_nfmhc1_00: 
+M: Püñu may, püñu kutran fey.
+C: Püñu pues, enfermedad püñu ese.
+
+nmlch-nfmhc1_x_0026_nmlch_00: 
+M: Weda kutran perke tüfey.
+C: Mala enfermedad es esa pues.
+ 
+nmlch-nfmhc1_x_0027_nfmhc1_00: 
+M: Weda kutran rume tulka 
+C: Mala enfermedad contagia mucho 
+
+M: che pingi welu,
+C: a las personas dicen pero,
+
+M: inche feyentulan ka chaw.
+C: yo no crei pues padre.
+ 
+nmlch-nfmhc1_x_0028_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Fempe llemay chi.
+C: Sera así eso pues.
+  
+nmlch-nfmhc1_x_0029_nfmhc1_00: 
+M: May.
+C: Sí.
+
+
+M: Feyentulan chumuechi am rume weda 
+C: No creí de cómo esa muy mala 
+
+M: kutran tuay ñi püñeñ inchenga fillantünga 
+C: enfermedad le tocara a mi hijo yo todos los días
+
+M: ngillatuken chumün am ñi 
+C: hago una rogativa que hice mi 
+
+M: chaw Ngünechen ngullinmangeay 
+C: padre dios se ha olvidado 
+
+M: ñi püñeñ pin may chaw.
+C: de mi hijo dije pues padre.
+  
+nmlch-nfmhc1_x_0030_nmlch_00: 
+M: Femlli may chi palu, weda kutran 
+C: Es así pues tía, mala enfermedad
+
+M: erke püñu ta <uhm> itrofill pichikeche 
+C: es ese püñu diferentes niños
+ 
+M: tuki pingiki ¿fey tuperkelay kidu dew?
+C: le toco dicen ¿y ese ya le había tocado ya?
+
+nmlch-nfmhc1_x_0031_nfmhc1_00: 
+M: Dew tuy chaw dew tuy welu, 
+C: Ya le había tocado padre pero,
+
+M: lüf reke tripay may chaw.
+C: como quemado salio pues padre.
+ 
+nmlch-nfmhc1_x_0032_nmlch_00: 
+M: Lüfi reke.
+C: Como que estubiera quemado. 
+  
+nmlch-nfmhc1_x_0033_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Lüf reke tripay noltrawke tripay 
+C: Como quemado salió .............salió
+
+M: wiru tripay ni trawa wentemu.
+C: salió como tira su piel arriba.
+ 
+nmlch-nfmhc1_x_0034_nmlch_00: 
+M: Femngen penu tüfey weda kutran welu.
+C: Debe ser así esa mala enfermedad pero.
+
+nmlch-nfmhc1_x_0035_nfmhc1_00: 
+M: Femngen pingi chaw, femngen pingi welu, 
+C: Es así dicen padre, es así dicen  pero,
+
+M: rume mañum küleken ayuwün küme 
+C: estoy muy agradcida, muy contenta
+
+M: duamtulu epu antümu küme duamtuy ni pichi 
+C: se sintió en dos día bien s sintió mi pequeño
+
+M: elaweni ituy y rume mañumünka 
+C: buen amigo comió y agradeci mucho
+
+M: ngillatumangi ni püñeñ femechi 
+C: le hicieron rogativa a mi hijo así
+
+M: wiñolmefin pitalmu chaw.
+C: lo devolvi del hospital padre.
+ 
+nmlch-nfmhc1_x_0036_nmlch_00: 
+M: Femlli may chi palu weda dungu ta 
+C: Es así pues tía que malas cosas y 
+
+M: rupali ta mogelay che fey ini rume 
+C: sí paso estará vivo la gente y como nadien
+
+M: kay montunelu tüfachi mongenmew feymu ta 
+C: pues esta a salvo en esta vida por eso
+
+
+M: <uhm> pichichengein inche femechi 
+C: somos personas pequeñas así pues
+
+M: kutrani doy <uhm> pepifalay ka.
+C: se enferma más tambien no se puede detener. 
+ 
+nmlch-nfmhc1_x_0037_nfmhc1_00: 
+M: Pepifalay chaw pepilafin 
+C: No se entiende padre, no se puede 
+
+M: meli antü niefin rukamu
+C: hacer nada cuatros dias lo tuve en la casa
+
+M: fey itrofill l'awen' tukulelfuyin 
+C: y de todo tipo de remedio le colocamos 
+
+M: welu, notulay chaw.
+C: pero, no le paso padre.
+
+nmlch-nfmhc1_x_0038_nmlch_00: 
+M: Notulay.
+C: No le paso.
+ 
+nmlch-nfmhc1_x_0039_nfmhc1_00: 
+M: Notulay turpu, feymu fey inche ka miawken 
+C: Nada le paso, por eso es que yo ambién hando
+
+M: ka miawkelu l'awen' piawün famun ta 
+C: también handa con remedio dije así lo hice 
+ 
+M: <Noise> Temuko pilan ta chi waria 
+C: Temuco no quise esa cuidad
+
+M: tamu pitalmu chaw.
+C: aquí en el hospital padre.
+ 
+nmlch-nfmhc1_x_0040_nmlch_00: 
+M: May, may, may, may.
+C: Sí,  sí,  sí,  sí.
+
+nmlch-nfmhc1_x_0041_nfmhc1_00: 
+M: Feymu amun -/uma/- umakunumen rumen 
+C: Por eso fui pase alojar y pase
+
+M: pitalmu galfarinu umarpun depue' 
+C: Al hospital de Galvarino a loje después
+ 
+M: ka antümu yengen feymu fey akutun 
+C: Y al otro día me llevaron  por eso ahí llegue
+
+M: felekarkey ñi pichi elaweni felelu müten 
+C: estaba igual mi pequeño buen amigo esta igual
+
+M: feymu fey küpay chi l'awen'tuchekelu ta 
+C: por eso es vino el remedio que hace bien que
+
+M: postamu mülelu am 
+C: esta en la posta como hay 
+
+M: l'awen'tukelu chaw
+C: remedio que hace bien padre
+
+M: feymu fey amuy ñi pichi wentru fey wule 
+C: por eso es que fue mi pequeño hijo y mañana
+
+M: amuan pingerken fey feychi antü inche 
+C: voy a ir me dijeron y ese día yo
+
+M: miawün Temuko feymu fey akurki wule 
+C: andaba en Temuco por eso ahí llego mañana
+
+M: yefiami pitalmu pingerki.
+C: lo llebaras al hospital le dijeron.
+ 
+nmlch-nfmhc1_x_0042_nmlch_00: 
+M: Fey.
+C: Y ahí.
+ 
+
+
+nmlch-nfmhc1_x_0043_nfmhc1_00: 
+M: Fey pingelu fey femechi yefiyin femechi 
+C: Y le dijeron así es como lo llebamos así 
+
+M: mongemi ta pitalmu tañi püñeñ welu, 
+C: fue a vivir en el hospital mi hijo pero,
+
+M: rume kintulfin l'awen' mapuche l'awen' chaw.
+C: le busque mucho remedio, remedio mapuche padre.
+  
+nmlch-nfmhc1_x_0044_nmlch_00: 
+M: Mapuche l'awen' murkeafuy 
+C: Remedio mapuche le haría bien
+
+M: tüfey chi kutran penu.
+C: esa enfermedad creo.
+ 
+nmlch-nfmhc1_x_0045_nfmhc1_00: 
+M: Mapuche l'awen'ngefuy ka chaw kimünmu 
+C: Remedio mapuche quería pues padre sí uno supiera
+
+M: femechi kutran <*SPA>pero inche kuyfi 
+C: así la enferedad pero yo antes
+
+M: kutrankefuy tañi püñeñ püñu pingeki 
+C: se enfermaba mí hijo, hijo se le dice
+
+M: tati chaw -/pi/- litrutun reke tripaki.
+C: pues padre dijo .................como eso sale.
+ 
+nmlch-nfmhc1_x_0046_nmlch_00: 
+M: Feley llemay.
+C: Eso pues.
+ 
+nmlch-nfmhc1_x_0047_nfmhc1_00: 
+M: Welu, rüngumu ngülfukefuin femechi kay 
+C: Pero, con algo molido se refregaba así pues
+
+M: mongekefuyngün ñamtukefuin 
+C: se mejoraban se desaparecía 
+M: püñu kutranengün.
+C: la enfermedad del püñu.
+
+nmlch-nfmhc1_x_0048_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0049_nfmhc1_00: 
+M: Welu, tüfa notulafuin chaw.
+C: Pero, este no lo contralamo padre.
+
+nmlch-nfmhc1_x_0050_nmlch_00: 
+M: Rume alü mauperkelafuy dewma tüfey.
+C: Ya mucho había bajado pues eso.
+ 
+nmlch-nfmhc1_x_0051_nfmhc1_00: 
+M: Rume alü amuy 
+C: Ya mucho había a bansado 
+
+M: kom kuerpuy chaw
+C: todo el cuerpo padre
+
+M: itrokom kuerpuy 
+C: todo el cuerpo y 
+
+M: fey wün ülawelafuy
+C: la  boca ya no la habría
+
+M: rume ni wün pelmu 
+C: y en su boca, cuello 
+
+M: katrü tripayay pel
+C: salió de a pedazo el cuello
+
+M: ni pichi elaweni 
+C: mi pequeño buen amigo 
+
+M: pin ni pu koñi epu nualu
+C: les dije a mis hijos dos
+
+M: am inche pichike wentru 
+C: como yo mis quños hijos 
+
+M: rukamu yefin müten
+C: lo lleva la casa no más
+
+M: <*SPA>mamá mongelayay femechi 
+C: mamá no vivira así
+
+M: rume kutrankawün tati chaw.
+C: y sufrí mucho pues padre.
+ 
+nmlch-nfmhc1_x_0052_nmlch_00: 
+M: Weda dungu ka weda dungu pichiche am fey.
+C: Malas cosas, que malo como niño chico es pues.
+ 
+nmlch-nfmhc1_x_0053_nfmhc1_00: 
+M: Fey llemay chaw.
+C: Eso pues padre.
+ 
+nmlch-nfmhc1_x_0054_nmlch_00: 
+M: Kimnolu ñi chumechi ñi <uhm> dunguñ
+C: Como no sabía como es que no sabía a 
+
+M: pewal feyta <uhm> kidu müten ta müli ni 
+C: quien recurrir esta sola no más estaba para
+ 
+M: nentual tañi pichiche che ka.
+C: sacar a su guagua pues.
+ 
+nmlch-nfmhc1_x_0055_nfmhc1_00: 
+M: Kidu müten pu chaw pichikeche am 
+C: Sola no más pues padre como niño chico pues
+
+M: famechi kutrankülen tati pinnualu 
+C: así estaba enfermo como no quería
+
+M: turpuengün meli müten kiñe che ta kintufi 
+C: nada ellos cuatro no más y una persona lo busco
+
+M: ramtufi chumecchi anta kutranimi, 
+C: le pregunto de cómo  se había enfermado,
+
+M: kutranimi am pingi 
+C: te enfermaste le dijeron 
+
+M: kiñekemu ta may pi
+C: algunas veces pues sí dijo
+
+M: kiñekemu ta dungulay 
+C: algunas veces no hablaba 
+
+M: ta pichikeche kay chaw.
+C: los niños chicos pues padre.
+
+nmlch-nfmhc1_x_0056_nmlch_00: 
+M: Femlli may chi.
+C: Es así eso pues.
+ 
+nmlch-nfmhc1_x_0057_nfmhc1_00: 
+M: Kiñe füta che may 
+C: Una persona grande 
+
+M: kutrani kimni chuchimu ka
+C: pues se enferma sabe donde es
+
+M: kutrankülen tati ka l'awen'tungi küme 
+C: que le duele ese y le hacen remedio bueno
+
+M: duami küme duamün tati pi kiñe 
+C: se siente bien, me siento bien dice un
+
+M: pichiche kinfalay pu' chaw.
+C: niño chico no se sabe pues padre.
+ 
+fmhc1_x_0058_nfmhc1_00lch_00: 
+M: Femlli may chi ¿fey chumechi llowngemi 
+C: Es así pues ¿y como te recibieron
+
+
+M: pitalmu küme llowngeymi welu?
+C: en el hospital, te recibieron bien pero?
+
+nmlch-nfmhc1_x_0059_nfmhc1_00: 
+M: Rume küme llowngen.
+C: Me recibieron muy bien.
+ 
+nmlch-nfmhc1_x_0060_nmlch_00: 
+M: Fey, fey, fey.
+C: Que bien eso.
+
+nmlch-nfmhc1_x_0061_nfmhc1_00: 
+M: Ka pichi lladkütungen llemay.
+C: Y me retaron un poco pues.
+
+nmlch-nfmhc1_x_0062_nmlch_00: 
+M: Fempi llemay.
+C: Eso dijo pues.
+ 
+nmlch-nfmhc1_x_0063_nfmhc1_00: 
+M: Inche fey ka koylatun llemay chaw fey 
+C: Y yo también mentí pues padre y
+
+M: taiñ kidu lepain ni pichiche würawkaw 
+C: que estamos solo mi pequeño hijo gritaba
+
+M: mekepay ni ngüman fey kutran piwke yefiñ 
+C: lloraba mucho y eso me dio mucha pena
+
+M: femuechi ta doy yamün tukufun tañi pichiche.
+C: así es que más respeto coloque a mi hijo.
+ 
+nmlch-nfmhc1_x_0064_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0065_nfmhc1_00: 
+M: Feymu rume 
+C: Por eso es  que me 
+
+M: küme llowngen ñi pichi
+C: recibieron bien a mi pequeño
+
+M: elaweni inchiw amuyu kiñemu welu, 
+C: buen amigo nosotros fuimos uno solo pero, 
+ 
+M: inche turpu feyentulan femuechi ni 
+C: yo nada creí que así se había
+
+M: kutranün pu chaw welu, mongey 
+C: enfermado pues padre pero, vivió
+
+M: ñi püñeñ fewla küme duankületuken 
+C: mi hijo ahora me siento bien
+
+M: ayekaletuki ni pichi elaweni kiñeñ 
+C: se ríe mi pequeño buen amigo en una
+
+M: dungu am dungukemu ni pichi elaweni 
+C: palabra me habla mi pequeño buen amigo
+
+M: kuku ta püñeñ reke ta 
+C: el nieto es como hijo y 
+
+M: piwke yengekerki ta chaw.
+C: se le estima mucho pues padre.
+
+nmlch-nfmhc1_x_0066_nfmhc1_00: 
+M: Femlli may chi palu, femlli may chi 
+C: Es así pues tía, es así pues
+
+M: ¿fey kimlafimi tüfey chem l'awen' 
+C: ¿y no conoces ese, que remedio
+
+M: ñi eluetew l'awen'tuchefe pitalmew?
+C: es que le dieron que le hizo bien en le hospital?
+
+nmlch-nfmhc1_x_0067_nfmhc1_00: 
+M: Kimlafin ete' dispirona 
+C: No lo conozco la dipirona 
+M: femekafuy chi l'awen' welu,
+C: se parecía l remedio pero,
+
+M: kimünmawetulafin ni üy tati chaw.
+C: no le conocí su nombre eso padre.
+ 
+nmlch-nfmhc1_x_0068_nmlch_00: 
+M: Patilla elungerki.
+C: Le dieron pastilla.
+ 
+nmlch-nfmhc1_x_0069_nfmhc1_00: 
+M: Pastilla elungi, 
+C: Le dieron pastilla, 
+
+M: wingka patilla ta elungi welu,
+C: el huinca pastilla le da pero,
+
+M: mapuche l'awen' ka 
+C: remedio mapuche también 
+
+M: müleyefuy may ta l'awen'
+C: hay pues remedio
+
+M: <*SPA>pero kimnolu am 
+C: pero como no sabemos 
+
+M: inchiñ kiñeke l'awen'
+C: pues nosotros algunos remedios
+
+M: kinieyin ka kiñeke 
+C: conocemos y algunos 
+
+M: kimkelain pu' chaw.
+C: no lo conocemos pues padre.
+
+nmlch-nfmhc1_x_0070_nmlch_00: 
+M: Femlli may chi palu, femlli may chi fey tüfey 
+C: Es así pues tía, es así eso pues
+
+
+M: fey ngülfungelay chem l'awen'mu rume iyiw.
+C: y no le refregaron ningún remedio allá.
+ 
+nmlch-nfmhc1_x_0071_nfmhc1_00: 
+M: Ngülfu ngelay chaw.
+C: No le refregaron padre.
+ 
+nmlch-nfmhc1_x_0072_nmlch_00: 
+M: Re patilla elungi.
+C: Solo pastilla le dieron.
+ 
+nmlch-nfmhc1_x_0073_nmlch_00: 
+M: Re patilla ka kiñe 
+C: Solo pastilla y también una 
+
+M: indision pingelu am wingkamu
+C: inyección como se dice en el huinca
+
+M: fey kolokaymu tati fe tukulelngi feymu 
+C: y eso te colocaron pues le colocaron por eso
+
+M: fey küme duami ni 
+C: ahí sé sintió bien mi 
+
+M: pichi elaweni fey anküy
+C: pequeño buen amigo ahí se seco
+
+M: ankütuy ni trawa y femechi mongemi pu' chaw.
+C: se seco su piel y así fue a vivir pues padre. 
+
+nmlch-nfmhc1_x_0074_nmlch_00: 
+M: <Throat>Welu, chew müli kakelu kutran 
+C: Pero, donde esta las otras enfermedades
+
+M: <Throat> fey feymu elküngelaymün.
+C: y ahí no lo dejaron a ustedes.
+
+nmlch-nfmhc1_x_0075_nfmhc1_00: 
+M: No wichukunungi chaw.
+C: No aparte lo dejaron padre.  
+nmlch-nfmhc1_x_0076_nmlch_00: 
+M: Wichukunungi rakümkunungimün.
+C: Lo dejaron aparte ......................
+
+nmlch-nfmhc1_x_0077_nfmhc1_00: 
+M: Rakümtukuningiyu.
+C: ................nos dejaron a los dos.
+ 
+nmlch-nfmhc1_x_0078_nmlch_00: 
+M: Feyta <uhm> wülnualu kangelu feyti kutran 
+C: Esta no dio la otra enfermedad esa enfermedad
+
+M: miawlu pichiche elunuafel kangelu ka.
+C: que andaba trayendo la guagua el otro también.
+ 
+nmlch-nfmhc1_x_0079_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Tukawnual.
+C: Para no tocar.
+ 
+nmlch-nfmhc1_x_0080_nmlch_00: 
+M: Tulkawnual.
+C: Para no tocar.
+ 
+nmlch-nfmhc1_x_0081_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Tulkawnual pu' chaw welu, monge may 
+C: para no tocar pues padre pero, vivió pues
+ 
+M: ni püñeñ chaw rume mañumtu nieken tañi 
+C: mi hijo padre agradezco mucho a mi 
+
+M: chaw Ngünechen fey ama eluetew ni püñeñ 
+C: padre dios ese pues el que me dio mi hijo
+
+
+M: ka eluenew mongen fey tañi kimüpual 
+C: también me dio la vida eso para saber 
+
+M: tañi pu kuku, pu chuchu piken may chaw.
+C: mis nietos, mis nietas digo pues padre.
+ 
+nmlch-nfmhc1_x_0082_nmlch_00: 
+M: Femlli may chi palu feyta <uhm> tunte tripay 
+C: Es así pues tía esa cuanto salió
+
+M: rume nga che montulerkenolu chem 
+C: y las personas no estan a salvo cualquier
+
+M: kutrannumu rume feyta pichikeche ta <uhm> 
+C: enfermedad puede ser esta los niños
+ 
+M: tueyu kutran ta doy kutrankawi ta tüfey.
+C: los ataca la enfermedad y sufre más ese pues.
+ 
+nmlch-nfmhc1_x_0083_nfmhc1_00: 
+M: Femlli may chaw femi y kiñe che am piwke 
+C: Es así pues padre es así y una persona lo estima
+
+M: yenielu püñeñ reke ka chunte kutrankawün 
+C: como a sus hijos y aunque sufra mucho
+
+M: ta tremumün tañi püñeñ ka femechi kutrankawün 
+C: para criarlo mi hijo y también así sufre
+
+M: ta feychi püñeñmu tañi kukumu tati chaw.
+C: mucho por ese hijo por su nieto pues padre.
+ 
+nmlch-nfmhc1_x_0084_nmlch_00: 
+M: Femlli may chi ina kutrankawimi ka.
+C: Es así pues igual sufriste también.
+ 
+nmlch-nfmhc1_x_0085_nfmhc1_00: 
+M: Ina kutrankawün rume dentifiñ -/chum/- 
+C: Igual sufrí mucho lo sentí 
+
+M: l'aperkeay may ni pichi elaweni pin 
+C: va a fallecer pues mi pequeño buen amigo dije
+
+M: kintulelfuin mapuche l'awen' 
+C: le había buscado remedio mapuche
+
+M: putokolfuyin notulafin chi.
+C: le di de beber no se mejoro.
+ 
+nmlch-nfmhc1_x_0086_nmlch_00: 
+M: Notulafimün.
+C: No lo mejoraron.
+
+nmlch-nfmhc1_x_0087_nfmhc1_00: 
+M: Notulafin.
+C: No se mejoro.
+ 
+nmlch-nfmhc1_x_0088_nmlch_00: 
+M: Ka wekeche ka newe 
+C: También los jóvenes 
+
+M: pepiluwlay l'awen' tüfamu ka.
+C: no saben de remedio aquí pues.
+
+nmlch-nfmhc1_x_0089_nfmhc1_00: 
+M: Pepiluwlaiñ kakelu kiñeke kutranmu ta 
+C: No sabemos los otros, algunas enfermedades
+
+M: kimniekeyefuy may ta l'awen' feychi l'awen' 
+C: se conoces pues el remedio ese remedio
+
+M: welu, feychi kutranmu 
+C: pero, esa enfermedad 
+
+M: pelain l'awen' chaw kimlan.
+C: no encontró remedio padre no se.
+
+nmlch-nfmhc1_x_0090_nmlch_00: 
+M: Ah.
+C: Ah. 
+nmlch-nfmhc1_x_0091_nfmhc1_00: 
+M: Kimerpulan welu, 
+C: No l conozco pero, 
+
+M: kakelu kutranmu chem
+C: la otra enfermedad en cualquier
+
+M: kutranmu rume <*SPA>ya kimniin doy 
+C: enfermedad ya se más 
+
+M: chafomu, chafo kutranmu <*SPA>
+C: para la tos, para la enfermedad de la tos
+
+M: ya mapuche l'awen' ta müli ka chaw.
+C: ya remedio mapuche también hay padre.
+   
+nmlch-nfmhc1_x_0092_nmlch_00: 
+M: Welu <uhm> -/nu/- notuperki pitalmu tüfey.
+C: Pero se mejoro en el hospital ese.
+ 
+nmlch-nfmhc1_x_0093_nfmhc1_00: 
+M: Notuy chaw, notuy 
+C: Se mejoro padre, se mejoro 
+
+M: l'awen' am elu pitalmu
+C: con remedio que le dieron en el hospital
+
+M: wingka yam ka nielu pelotuammu.
+C: como el huinca también tiene para diagnosticar.
+ 
+nmlch-nfmhc1_x_0094_nmlch_00: 
+<%> 
+nmlch-nfmhc1_x_0095_nfmhc1_00: 
+M: <*SPA>Y ka femngechi ka pelotungi ka 
+C: Y también así le diagnosticaron
+
+M: nentuñmangi ñi mollfüñ kimünmangeal 
+C: le sacaron su sangre para conocerle
+
+
+M: chem kutran nien fey 
+C: que enfermedad tiene y 
+
+M: kom femi ka chaw.
+C: todo eso le hicieron pues padre.
+
+nmlch-nfmhc1_x_0096_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Feyta kümey tati.
+C: Este es bueno pues.
+ 
+nmlch-nfmhc1_x_0097_nfmhc1_00: 
+M: Femechi may femechi ta mongemi tañi püñeñ 
+C: Así es pues así vivió mi hijo
+
+M: tati chaw fey may inche may rume 
+C: pues padre y ahí yo pues mucho
+
+M: mañunmaniekefin ka mülenmu may 
+C: le agradezco que allá pues
+ 
+M: l'awen'tufe l'awen'tuchefe piken ka kidu ni 
+C: persona que hace remedio digo también solo 
+
+M: ngünewün ka mülelay kiduengün ka piken 
+C: no estan por estar y ellos también digo
+ 
+M: mongelal ta pu kutran mülelu am kiduengün 
+C: para hacer vivir a los enfermo como estan ellos
+
+M: ka etudialuengün chaw femechi ta kimi ta 
+C: como han estudiado padre así pues aprendió
+
+M: kutranengün kiduen ka 
+C: de la enfermedad ellos también 
+
+
+
+M: kimi ta l'awen' ka chaw.
+C: saben de remedio padre.
+
+nmlch-nfmhc1_x_0098_nmlch_00: 
+M: Femi papeltungi tañi 
+C: Es así estudiaron para 
+
+M: <uhm> pelotun kutran
+C: diagnosticar la enfermedad
+
+M: ka tañi -/no katrütuam/- katrünual 
+C: también para no atajar- para no cortar
+
+M: kutranengün ka.
+C: la enfermedad pues.
+ 
+nmlch-nfmhc1_x_0099_nfmhc1_00: 
+M: Fey llemay chaw femi tati.
+C: Eso pues padre es así.
+ 
+nmlch-nfmhc1_x_0100_nmlch_00: 
+M: Kümey, kümey, kümey <Noise> fey eymi tami 
+C: Es bueno, bueno, bueno y en tu 
+
+M: mongen kay palu kuyfi <uhm> chem 
+C: vida pues tía antes  donde
+
+M: kutrantuymi une tami mongenmew <uhm> 
+C: como te enfermaste primero en tu vida
+
+M: we pichi domongelu eymi kuyfi.
+C: cuando era una niña joven tú antes. 
+  
+nmlch-nfmhc1_x_0101_nfmhc1_00: 
+M: Inche epu mari tripantu nielu chaw -/ku/- koni 
+C: Yo cuando tenía veinte año padre entro
+
+M: tañi kutran ütrum kutran pingi tati mapuchemu.
+C: mi enfermedad ütrum  se llama en mapuche.
+ 
+nmlch-nfmhc1_x_0102_nmlch_00: 
+M: May, may, may, may.
+C: Sí,  sí, sí.
+
+nmlch-nfmhc1_x_0103_nfmhc1_00: 
+M: Wingkamu ta kangelu doy wingka dungun am 
+C: En él huinca y otro más en él huinca 
+
+M: doy kangechi pingi ka chaw.
+C: es más diferente dicen pues padre.
+ 
+nmlch-nfmhc1_x_0104_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-nfmhc1_x_0105_nfmhc1_00: 
+M: Feyta feymu ta koni tañi kutran 
+C: Esta ahí entro mi enfermedad 
+
+M: aporki tañi ütrum ta küramu.
+C: se lleno de ütum de piedra.
+ 
+nmlch-nfmhc1_x_0106_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-nfmhc1_x_0107_nfmhc1_00: 
+M: Epe l'afun ka chaw 
+C: Casi fallecí también padre 
+
+M: epe l'afun feymu fey yengen
+C: casi fallicí por eso me llevaron
+
+M: pitalmu tragen 
+C: al hospital de Traigen 
+
+M: pingelan ta chi pital ta,
+C: así es como se llama este hospital,
+
+M: ta mülekefulu am kuyfi am galfarino.
+C: que estaba pues antes en Galvarino.
+
+nmlch-nfmhc1_x_0108_nmlch_00: 
+M: Ngekelafuy pital.
+C: No había hospital.
+
+nmlch-nfmhc1_x_0109_nfmhc1_00: 
+M: Mülekefuy pital ka 
+C: No había hospital 
+
+M: chaw welu, kimniekelafuy
+C: también padre pero, no lo sabía
+
+M: ta chem ta niel ta che ka mülekefuy 
+C: de le que tenía la persona también había
+
+M: üyiw am mülekefulu pelotual kom feymu 
+C: allá se encontraba para diagnosticar todo ahí 
+
+M: kimnien tain chem ta nial niel 
+C: sabía de lo que tenía 
+ 
+M: ta ütrum kutran ka chaw.
+C: la enfermedad ütrum pues padre.
+  
+nmlch-nfmhc1_x_0110_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0111_nfmhc1_00: 
+M: Feymu fey üyiw ta nentunmangen ka chaw 
+C: Por eso es que allá me sacaron también padre
+
+M: operan pilan ta chi  pu wingka.
+C: no quice que me operaran los huinca.
+
+nmlch-nfmhc1_x_0112_nmlch_00: 
+M: Wikürngeymi tüfey.  
+C: Te operaron ahí.
+nmlch-nfmhc1_x_0113_nfmhc1_00: 
+M: Feymu may wikürngen ka chaw.
+C: Por eso pues ahí me operaron padre.
+ 
+nmlch-nfmhc1_x_0114_nmlch_00: 
+<hm> 
+nmlch-nfmhc1_x_0115_nfmhc1_00: 
+M: Feymu ta mongemen epe l'afun tati chaw 
+C: Ahí fui a vivir casi fallecí pues padre 
+
+M: chaw epu nien tañi epu püñeñ, epu pichi 
+C: padre tengo dos hijos, dos pequeño
+
+M: malen ta nien feymu inche dewmanielain 
+C: hijos pues tengo por eso yo no tengo 
+
+M: epu pichi malen pikefun may chaw.
+C: dos niños chico decía pues padre.
+ 
+nmlch-nfmhc1_x_0116_nmlch_00: 
+M: Feypiyen may.
+C: eso digo pues.
+ 
+nmlch-nfmhc1_x_0117_nfmhc1_00: 
+M: Feymu am pin kidu am mülerkenulu che 
+C: Por eso es que digo es que no hay persona 
+
+M: kidu ni mongen mongekerkenulu -/cha/- 
+C: solo con su vida no vive 
+
+M: chem chaw mülerkelu kiñe che ta wenulelu ta 
+C: que, padre hay una persona que es mayor 
+
+M: kuydanelu ta tañi pu familia 
+C: que cuida pues a mi familia
+
+M: ta faw püllelelu ka chaw.
+C: pues aquí esta cerca también padre.
+ 
+
+nmlch-nfmhc1_x_0118_nmlch_00: 
+M: Fey <%> may chi.
+C: Eso pues.
+ 
+nmlch-nfmhc1_x_0119_nfmhc1_00: 
+M: Femechi ta mongen welu, rume kutrankawün 
+C: Así es como viví pero, sufrí mucho
+
+M: ka chaw niekefun ta kiñe pichi malen 
+C: pues padre tenía un niño chico
+
+M: püra küyen niefuy pen anta kuydalatew ka chaw.
+C: ocho meses tenía creo para cuidarlo pues padre. 
+ 
+nmlch-nfmhc1_x_0120_nmlch_00: 
+M: Femlli may chi palu femlli may chi fey.
+C: Es así pues eso tía es así pues eso.
+
+nmlch-nfmhc1_x_0121_nfmhc1_00: 
+M: Fey pitalmu elerpun tañi pichi malen ta
+C: Y en el hospital dejo su pequeño hijo
+
+M:  <%>  kuydanmangelan.
+C: no me lo cuidaron.
+ 
+nmlch-nfmhc1_x_0122_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0123_nfmhc1_00: 
+M: Feymu fey moyoken mamadera tukelafun am 
+C: Por eso ahí no tomaba mamadera 
+
+M: kuyfi inche ka elulafin pu' chaw.
+C: antes yo no le di pues padre.
+
+nmlch-nfmhc1_x_0124_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0125_nfmhc1_00: 
+M: Elulafin inche am we domo ka kimkelafun 
+C: No le di yo pues una mujer joven no sabía
+
+M: kutran femechi ta elurpun tañi püñeñ ka.
+C: la enfermedad así dejo mi hijo pues.
+ 
+nmlch-nfmhc1_x_0126_nmlch_00: 
+M: Femlli may chi palu, femlli may chi fey.
+C: Así es pues tía, es así pues eso.
+ 
+nmlch-nfmhc1_x_0127_nfmhc1_00: 
+M: Feymu fey.
+C: Por eso es.
+ 
+nmlch-nfmhc1_x_0128_nmlch_00: 
+<Throat>
+
+nmlch-nfmhc1_x_0129_nfmhc1_00: 
+M: Rume korey elunmangey pital 
+C: Que corrió mucho le dieron en el hospital
+
+M: leche lichi pigelan anta chi preparangekelu 
+C: leche, leche dicen que le prepararon 
+
+M: famechi elungelan pitalmu pichikeche 
+C: así no le dieron en el hospital a los niños
+
+M: fey elunmangelu ñi püñeñ rume korey ñi 
+C: ahí le dieron mi hijo le corrió mucho mi
+
+M: pichiche epu antü müten mongelepuy chaw.
+C: guagua dos día no mas vivió padre.
+ 
+nmlch-nfmhc1_x_0130_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0131_nfmhc1_00: 
+M: Fey inche operangenu am 
+C: Ahí yo como me operé
+M: wükürngeluam inche chaw.
+C: me abrieron pues padre.
+ 
+nmlch-nfmhc1_x_0132_nmlch_00: 
+M: May, may, may. 
+C: Sí,  sí, sí.
+
+nmlch-nfmhc1_x_0133_nfmhc1_00: 
+M: Feymu fey puwi ta chi avisan ka chaw.
+C: Por eso es que llega el aviso pues padre.
+ 
+nmlch-nfmhc1_x_0134_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0135_nfmhc1_00: 
+M: Feymu feypingepun 
+C: Por eso me dijeron 
+
+M: l'ay tami püñeñ pingepun chaw.
+C: murió tu hijo me dijeron padre.
+
+nmlch-nfmhc1_x_0136_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0137_nfmhc1_00: 
+M: Feymu may we wükürkelu am ñi <%> inche.
+C: Por eso pues recién me habían operado pues.
+
+nmlch-nfmhc1_x_0138_nmlch_00: 
+M: Femlli may.
+C: Es así pues.
+
+nmlch-nfmhc1_x_0139_nfmhc1_00: 
+M: Ka wiño nülatufuy ka chaw.
+C: Y otra vez sé abrió padre.
+
+nmlch-nfmhc1_x_0140_nmlch_00: 
+M: Femlli may.
+C: Así fue pues.
+ 
+nmlch-nfmhc1_x_0141_nfmhc1_00: 
+M: Fey semana pun feychi pitalmu tragen pitalmu 
+C: Y estuve una semana en ese hospital de Traigen. 
+
+M: semana pun, inche ta rume 
+C: una semana estuve, yo y mucho
+
+M: kutrankawün ka chaw.
+C: sufrí pues padre.
+
+nfmhc1_x_0143_nfmhc1_00ch_00: 
+M: Femlli tüfachi mongemu ini rume kay <uhm> 
+C: Es así esta vida nadien siquiera
+
+M: montulenulu feyta kiñeke wedake 
+C: no a salvo este algunos malas
+
+M: kutran kontueyu fey rume kutrankawki 
+C: enfermedades eso siquiera se sufre pues
+
+M: pichikeche ranginmu  amuli <Throat> 
+C: los niños chicos al medio van
+
+M: feyta doy kutrankawi ta tüfey palu fey 
+C: esta más sufre ese pues sobrino ese
+
+M: chumngeafuy fey felen mongen ka.
+C: que les vamos hacer así es la vida.
+ 
+nmlch-nfmhc1_x_0144_nfmhc1_00: 
+M: Fey llemay feypiken chaw fewla may rume 
+C: Así es eso digo padre ahora siquiera muy
+
+M: ayiwkulewtuken leliwetuin epu domo püñeñ 
+C: contenta estoy mirándome con mis dos hijas
+
+M: ka leliluwein  meli püñeñ nien wentru püñeñ 
+C: también nos miramos con los cuatros hijos hombres
+M: leliwülun ayiwkületuken ka chaw welu, 
+C: mirarlo eso me pone contenta pues padre pero,
+
+M: inche ka akorda rumeken ñi püñeñ füta 
+C: yo también me acuerdo a veces de mi hijo 
+
+M: domoafuy ni pichi domo niefuli rukamu 
+C: sería una mujer mi hija sí lo tu buirá en la casa
+
+M: chi müleafuy kam ....?küleafuy chi ka piki 
+C: si estaría o estaría en otra parte también digo
+
+M: ni rakiduam  ka chaw.
+C: en mi pensamiento pues padre.
+
+nmlch-nfmhc1_x_0145_nmlch_00: 
+M: Feley llemay chi ngüyinielafimi ka.
+C: Es así pues no, sé té a olvidado pues.
+ 
+nmlch-nfmhc1_x_0146_nfmhc1_00: 
+M: Ngüyukelafin ka chaw ka feymu fey 
+C: No me olvido pues padre y por eso es
+
+M: feypikenu inche am mülepelu leliwkelum 
+C: que me dijo yo debe haber para mirar
+
+M: libru inche biblia pingi tati chaw leliwken 
+C: libro yo la Biblia digo eso padre miro
+
+M: inche küpatuli wiñometuli pilu am ta chaw, 
+C: yo si vengo y vuelvo dijo pues padre,
+
+M: chaw Ngünechen yepatuayu pilu ka petuaymi 
+C: padre dios lo vendrá a buscar dijo y veras
+
+M: tami püñeñ ayüwküleymi kom piwke che 
+C: a tu hijo estas contenta el corazón de la gente
+
+M: trokilmi yepatuayu ka metakunuay tami 
+C: si crees té vendrá a buscar y embrazo tomara  tu
+ M: püñeñ pilu am ñi füta chaw wenu mülelu tati nga 
+C: hijo dijo pues este padre que esta arriba ese pues
+
+M: chaw Ngünechen tati chaw inche am feyentulelu 
+C: padre dios ese padre yo en le creo
+
+M: fey müten feypiken.
+C: eso no más digo.
+ 
+nmlch-nfmhc1_x_0147_nmlch_00: 
+M: Manelewkülekeymi fey may.
+C: Le tienes confianza eso pues.
+ 
+nmlch-nfmhc1_x_0148_nfmhc1_00: 
+M: Maneluwküleken chaw.
+C: Estoy confiada padre.
+ 
+nmlch-nfmhc1_x_0149_nmlch_00: 
+M: Feley may chi rupaki antü.
+C: Esta bien pues paso el día.
+
+nmlch-nfmhc1_x_0150_nfmhc1_00: 
+M: Manelewküleken.
+C: Estoy confiada.
+ 
+nmlch-nfmhc1_x_0151_nmlch_00: 
+M: Manelewkülekeymi ka.
+C: Estas confiada también.
+
+nmlch-nfmhc1_x_0152_nfmhc1_00: 
+M: Ka fillantü -/ngillapu/- ngellupuniekefin ka.
+C: Y todos los días estoy haciendo una rogativa.
+ 
+nmlch-nfmhc1_x_0153_nmlch_00: 
+M: Femlli may chi.
+C: Esta bien eso pues.
+ 
+nmlch-nfmhc1_x_0154_nfmhc1_00: 
+M: Eluen mongen chaw küme trekayawmuan 
+C: Dame vida padre quiero andar caminando bien
+M: chi chem küdaw tañi tami elufiel tami kimün 
+C: y que trabajo me puedes dar tu conocimiento
+
+M: pengelfichi kakelu tüfamu mülelu piken.
+C: les muestro los otros aquí hay digo.
+ 
+nmlch-nfmhc1_x_0155_nmlch_00: 
+M: Llellipukümekemi<%>  ka.
+C: Haces rogativas también.
+ 
+nmlch-nfmhc1_x_0156_nfmhc1_00: 
+M: Llellipukunümeken <%> 
+C: Siempre hago una rogativa 
+
+M: eluen kimün doy
+C: dame más conocimiento
+
+M: piniekefin fillantü ka chaw eliuen mongen 
+C: siempre le digo todos los días padre dame vida
+
+M: pingekefin kom ka ngillatumaken 
+C: le digo todo y le hago oraciones
+
+M: ni pu vesinu ka chaw.
+C: a mis vecinos también padre.
+
+nmlch-nfmhc1_x_0157_nmlch_00: 
+M: Femlli may chi palu 
+C: Es así pues sobrino 
+
+M: feyta <uhm> femuechi müten
+C: esto es así no más
+
+M: müleal mülerkelu nga 
+C: el que va estar, esta 
+
+M: che müli ñi llellipuleal
+C: la persona debe hacer rogativas
+
+M: Ngünechen am wülkelu tüfa itrofill dungu 
+C: Dios es el que da todas estas cosas
+
+M: kümeke dungu ka weda dungutuy ka montuniel 
+C: buenas cosas y malas cosas y quita
+
+M: chekelu feymu ta ka kümey ta rukül 
+C: a las personas por eso es bueno estar apoyado 
+
+M: külenmu Ngünechenmu ka.
+C: a pollado a dios pues.
+ 
+nmlch-nfmhc1_x_0158_nfmhc1_00: 
+M: Femlli may chaw femi inche ta fillantü ta 
+C: Es cierto pues padre y yo todos los días
+
+M: reküwleken trekayawün kutrankawkülen 
+C: me a pollo cuando ando caminando, estoy sufriendo
+
+M: kiñekemu kutrankawken rakiduamün 
+C: algunas veces sufro en mis pensamientos
+
+M: kutrankawki mongenkeche erke tati 
+C: sufre las personas que viven pues 
+
+M: chaw inche ta kimkelafun chunte kutrankawal 
+C: padre yo no sabía cuanto iba a sufrir
+
+M: inche we domongen fente kutrankawan 
+C: yo era una mujer joven tanto boy a sufrir
+
+M: pikelafun chaw welu, tüfa rume kutrankawün 
+C: predije eso padre pero, este sufrí mucho
+
+M: rupan welu inche kansalan tati chaw.
+C: pase pero yo no me canso pues padre.
+ 
+nmlch-nfmhc1_x_0159_nmlch_00: 
+M: Femi, femi, femi.
+C: Es así, es así.
+
+nmlch-nfmhc1_x_0160_nfmhc1_00: 
+M: Afeluwlan fentekünuchi inche 
+C: No me canse hasta aquí yo
+
+M: kutrankawkulen pilan chuntepun, 
+C: sufriré no dije eso hasta donde
+
+M: chuntepuy ni newen, 
+C: hasta donde llegue mi fuerza, 
+
+M: chuntepuy ni mongen
+C: hasta donde llegue mi vida
+
+M: elunielu ni chaw Ngünechen küdawkulean 
+C: que me da mi padre dios seguiré trabajando
+
+M: piken kaleliwlen ni pu püñeñ kom rume 
+C: digo y miro a mis hijos todos muy
+
+M: maneluwküleken kidumu müten chaw, 
+C: confiada en mi no más padre,
+
+M: rume kutrankawün welu rupan fewla 
+C: sufrí mucho pero ahora
+
+M: kutrankawken piken welu 
+C: sufro digo pero
+
+M: kutrankawkelan reke tati chaw.
+C: ya como que no sufro pues padre. 
+ 
+nmlch-nfmhc1_x_0161_nmlch_00: 
+M: Chumechi kutrankawfuy kuyfi che 
+C: Como se enfermaban las personas antes
+
+M: ¿femechi kutrankawletukeymi fewla?  
+C: ¿así estas sufriendo ahora?
+
+nmlch-nfmhc1_x_0162_nfmhc1_00: 
+M: Fewla femechi kutrankawlan rume 
+C: Ahora así ya no sufro siquiera
+
+M: kutrankawlan inche fewla fey 
+C: ya no sufro yo ahora y
+
+M: kutrankawkulewetukelan ayiwkuletuken 
+C: ya no estoy  sufriendo y estoy contenta 
+
+M: lladkülen ülkatuyengeken tañi Ngünechen 
+C: estoy enojada le canto a mi padre dios
+
+M: kidumu müten inche maneluwkulen 
+C: en el no más yo estoy confiada
+
+M: chaw kidu lelen ni pu püñeñ piken kayu 
+C: padre estoy  solo con mis hijos digo seis  
+
+M: püñeñ eluenew püra püñeñ elufenu tañi 
+C: hijos me dio ocho hijos me había dado mi
+
+M: chaw dio welu, inche kimkenofulu mañumtulafin 
+C: padre dios pero, yo no sabía no se me perdió
+
+M: rume metanien tañi pu püñeñ inche ta 
+C: siquiera embrazo tenía a mis hijos yo
+
+M: akordakelafin turpu chumechi tañi 
+C: no le acuerdo nada de cómo es que
+
+M: llellipuafiel mañumtuafiel ta chaw, 
+C: hacerle rogativa para agradecerle al padre,
+
+M: chaw Ngünechen ta chaw <Noise>.
+C: padre dios pues padre.
+
+nmlch-nfmhc1_x_0163_nmlch_00: 
+M: Femkefimi doy we, domo ngekefulu eymi kay
+C: Así les hace más recién, eras una mujer joven 
+ 
+nmlch-nfmhc1_x_0164_nfmhc1_00: 
+M: Fewla may kiñe püñeñ müley akuy ta 
+C: Ahora pues un hijo esta llego 
+
+M: faw niey ta püñeñ kiñe domo ya mañuntuy 
+C: aquí mi hijo una hija mujer ya sé perdió
+
+M: ka tañi chaw Ngünechen ka chaw.
+C: también su padre dios pues padre.
+
+nmlch-nfmhc1_x_0165_nmlch_00: 
+M: Femlli may chi.
+C: Es así eso pues.
+ 
+nmlch-nfmhc1_x_0166_nfmhc1_00: 
+M: Kuyfi inche ta akordalan tati chaw 
+C: Antes yo no me acordaba pues padre
+
+M: feypikelafuñ inche kidu ñi ngünewün 
+C: no decía yo solo lo controlaba
+
+M: yelu ñi pu püñeñ trokikefun chaw welu, 
+C: llevo sus hijos me parecía padre pero,
+
+M: femürkenuafulu inche pu' chaw.
+C: no debía hacerlo yo pues padre.
+ 
+fmhc1_x_0167_nfmhc1_00lch_00: 
+M: Fey chumeafuy rupaken kay <uhm> 
+C: Y que vamos hacer paso pues
+
+M: rupaki tripantu feyta dungu chumngekefuy 
+C: pasa los año estas cosas como eran
+
+M: kuyfi felewetukelay ka.
+C: antes ya no esta igual.
+ 
+nmlch-nfmhc1_x_0168_nfmhc1_00: 
+M: Felewetulay pu' chaw felewetulay ta fewla 
+C: No esta igual pues padre no esta igual ahora
+
+M: ini rume ta fente kutrankawkelay kuyfi 
+C: y nadien a sufrido tanto antes
+
+M: ta inchin ta chumechi kutrankawin 
+C: nosotros sufrimos muchos
+
+M: taiñ domongen fente kutrankawelay ta 
+C: las mujeres y no sufre tanto 
+
+M: wekeche ta fewla tati chaw kuyfi may ta doy 
+C: los jóvenes ahora pues padre antes pues más
+
+M: kutrankawiyin inchin ta tremomin tañi püñeñ 
+C: sufríamos nosotros para criar a nuestros hijos
+
+M: rume pofrengein reke kimlain tain chumül 
+C: éramos muy pobre casi no sabíamos de cuando
+
+M: ta chumngeal tañi pu punen.
+C: como iban hacer nuestros hijos.
+ 
+nmlch-nfmhc1_x_0169_nmlch_00: 
+M: Feley llemay chi palu fey tüfey pitalmu traygen 
+C: Es así pues sobrino ese hospital de Traigen
+
+M: mülepulu eymi <uhm> tunten antü 
+C: donde estabas tú cuantos días
+
+M: mülepuymi alün antü.
+C: estuviste harto días.
+
+1_x_0171_nmlch_0072_nfmhc1_00: 
+M: Regle antü mülepun chaw.
+C: Siete días estuve padre.
+ 
+nmlch-nfmhc1_x_0172_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0173_nfmhc1_00: 
+M: Regle antü mülepun l'awen'tuniengen fey 
+C: Siete días estuve me hicieron remedio y
+
+M: femechi mongen ka chaw feymu 
+C: así viví pues padre ahí
+
+M: ka akutun ka rume kutrankawpatun 
+C: también llegue y vine a sufrir mucho
+
+M: nielan kuydayatu 
+C: no tenía quien me cuidara 
+
+M: welu mongekerki ta che tati chaw.
+C: pero vive la gente pues padre.
+
+nmlch-nfmhc1_x_0174_nmlch_00: 
+M: Femlli may chi.
+C: Es cierto pues.
+ 
+nmlch-nfmhc1_x_0175_nfmhc1_00: 
+M: Chem che ta fewla operay 
+C: Cualquier persona ahora 
+
+M: wükürni ta chew rume
+C: lo operan donde sea
+
+M: kuydawi tripantu kuydawi inche 
+C: se cuida un año se cuida yo 
+
+M: ta femlan tati chaw.
+C: no hice eso pues padre.
+ 
+_x_0177_nfmhc1_0077_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0178_nfmhc1_00: 
+M: Petu küyenlan rume petu puwlan rume ta 
+C: Todavía no tenía un mes no llegaba siquiera
+
+M: epu mari küla mari antü inche 
+C: veinte, treinta día yo
+
+M: ta menkun mamüll chaw.
+C: andaba con leña al hombro padre.
+ 
+fmhc1_x_0180_nfmhc1_00lch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-nfmhc1_x_0181_nfmhc1_00: 
+M: Meku mamüllun 
+C: Al hombro andaba trayendo leña 
+
+M: welu, mongekerkechi che chaw
+C: pero, vive la gente padre
+
+M: fewla akordatuken chumngeperkefuy che 
+C: ahora me acuerdo como era la persona 
+
+M: nga inche nga ñi mongen piken kom 
+C: y yo mi vida digo todo
+
+M: leliwlen ñi pu püñeñ fey nütramkakefiñ 
+C: me miro a mis hijos y les converso
+
+M: engün femechi kutrankawün tati chaw 
+C: a ellos así sufrí pues padre
+
+M: femechi kutrankawün tati mamita 
+C: así sufrí pues madre
+
+M: pikey ñi domo püñeñ.
+C: le digo a mis hijas mujeres.
+ 
+nmlch-nfmhc1_x_0182_nmlch_00: 
+M: Feley may chi.
+C: Es así pues.
+ 
+nmlch-nfmhc1_x_0183_nfmhc1_00: 
+M: Eymün may femechikutrankawlaymün fewla tati 
+C: Ustedes pues así no han sufrido ahora 
+
+M: pikey ni pu püñeñ fey ayekey kiduengün pu' 
+C: dicen mis hijos y sé ríen solos ellos pues
+
+M: ayengekenon wekecheengün kidu chaw 
+C: no sé ríen son solos jóvenes padre 
+
+M: femechi rume kutrankawün tati chaw welu, 
+C: así sufrí mucho pues padre pero,
+
+M: fewla rume mañumtuy nieken tañi chaw dio 
+C: ahora agradezco mucho tengo a mi padre dios
+
+M: kidu am eluetew mongen kom eluenew 
+C: es el que medio la vida todo me dio
+
+M: tañi inche tañi duamtukefel kom 
+C: mi yo lo que deseaba todo
+
+M: eluenew ta kidu ka chaw.
+C: me lo dio y solo pues padre.
+ 
+nmlch-nfmhc1_x_0184_nmlch_00: 
+M: Feley llemay chi welu kay kiduengün kimnolu 
+C: Es así pues pero, ellos solo no saben
+
+M: femechi kutrankawün femechi ta ayekeymi ka.
+C: así el sufrimiento así te ríes también.
+ 
+nmlch-nfmhc1_x_0185_nfmhc1_00: 
+M: Ayekeyngün kiñekemu, 
+C: Se ríen algunas veces, 
+
+M: kiñekemu fey kutran
+C: algunas veces y la enfermedad
+
+M: piwkekenu kutran piwke yekenewengün 
+C: que no la enfermedad del corazón llevan la fuerza 
+M: pankokenu fewla kutrankawelayaymi tati mamá 
+C: me abrazan ahora ya no vas a sufrir pues mamá
+
+M: dew füta che in pikenu ni pu püñeñ pu' chaw.
+C: ya somos personas adultas mis hijos pues padre.
+ 
+nmlch-nfmhc1_x_0186_nmlch_00: 
+M: Fey tüfi eymi regle antümelu patilla 
+C: Y eso tú los siete días pastillas
+
+M: tuletuy pingi feychi regle antümu 
+C: tomabas dicen esos siete días
+
+M: ¿indisionngeymi tüfey?
+C: ¿te colocaron inyección ahí?
+
+nmlch-nfmhc1_x_0187_nfmhc1_00: 
+M: <*SPA>Inyección, inyección ta tukulelngen 
+C: Inyección, inyección me colocaron
+
+M: lipangmu ka chaw.
+C: en el brazo pues padre.
+
+nmlch-nfmhc1_x_0188_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0189_nfmhc1_00: 
+M: Sueru pingelan tati tukulengeken lipangmu 
+C: Suero se llama eso me colocaban en le brazo
+
+M: fey eya witruleken kiñeke ligke nagki 
+C: y poco a poco gotean algunos caen blanco
+
+M: famechi kiñeke ligke nagkünumekeki 
+C: así algunos caen blanco
+
+M: feyta konkeleki ta mollfüñmu ka chaw.
+C: esta entra en la sangre pues padre.
+ 
+nmlch-nfmhc1_x_0190_nmlch_00: 
+M: Femlli may chi.
+C: Esa sí pues.
+ 
+nmlch-nfmhc1_x_0191_nfmhc1_00: 
+M: Feyta newe ni amun tati.
+C: Esta para tener fuerza.
+ 
+nmlch-nfmhc1_x_0192_nmlch_00: 
+M: Ah newen.
+C: Ah fuerza.
+
+nmlch-nfmhc1_x_0193_nfmhc1_00: 
+M: Newen ngetuafun tati wiñotuay ñi newen ngetual 
+C: Para tener fuerza para volver y tener fuerza
+
+M: femechi ta felepun pitalmu tati femechi ta 
+C: así yo estaba en el hospital así pues
+
+M: mongemen fey akutun ka weda lladken konpan 
+C: fui a vivir y llegue y entre enojada 
+
+M: llemay perdeluam ñi pichi malen femechi.
+C: pues como perdí a mi guagua así.
+ 
+nmlch-nfmhc1_x_0194_nmlch_00: 
+M: Doy inawtu, inawtu<%>.
+C: Mas me enferme, desgracia.
+
+nmlch-nfmhc1_x_0195_nfmhc1_00: 
+M: Doy ina konün tati kutranmu chaw doy küme 
+C: Mas entre a enfermarme padre mejor 
+
+M: wiñoal, doy küme ayiwkülewmungeal ka 
+C: de volver, y en ves de estar más contenta
+
+M: puwlu am chi feychi dungu feypingerpual 
+C: como llegue pues yo en esas cosas que medirán
+
+M: perdey ñi pichi malen doy inawluwfun ka chaw.
+C: falleció su guagua mas me enferme pues padre.
+ 
+nmlch-nfmhc1_x_0196_nmlch_00: 
+M: Femlli may chi welu, wedake dungu ta tunte 
+C: Es así pues pero, las cosas malas cuantos
+
+M: <uhm> fill kiñe tripantu ta mülekelay ka 
+C: un año no esta pues 
+
+M: rupaki tripatu rupaki antü fey 
+C: pasa el año, pasa los días y
+
+M: amulutuki wedake dungu nmlch-
+C: se van las cosas malas 
+
+nfmhc1_x_0197_nfmhc1_00: 
+M: Ka femki llemay chaw femki fewla -/den/- 
+C: También así padre así hace ahora 
+
+M: kutrankülen chumechi kutrankefun 
+C: estoy enferma como me enfermaba
+
+M: kuyfi femechi kutranwekelan chaw.
+C: antes así ya no me enfermo padre.
+
+nmlch-nfmhc1_x_0198_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0199_nfmhc1_00: 
+M: Welu, furi kutran feyta kontunenu.
+C: Pero, la enfermedad de la espalda eso me afecta.
+ 
+nmlch-nfmhc1_x_0200_nmlch_00: 
+M: Fey llemay chi.
+C: Eso es pues.
+ 
+nmlch-nfmhc1_x_0201_nfmhc1_00: 
+M: May.
+C: Sí.
+M: Furi kutran kiñekemu awantaken, 
+C: Dolor de espalda algunas veces no aguato,
+
+M: kiñekemu awantakelanfeymu fey 
+C: algunas veces no aguantaba y
+
+M: mapuche l'awen' ka mülerkelu am inche may 
+C: remedio mapuche también hay y yo pues
+
+M: nütramkaken femechi chem nütramkay 
+C: converso así que conversa
+
+M: famechi kudeke pülli am fey, fey tati 
+C: así las ancianas pues esa, esa es
+
+M: pütokoymuaymi pingeken fey inche 
+C: vas a beber me dicen y yo
+
+M: fey feyentulen ka chaw.
+C: eso creo también padre.
+ 
+nmlch-nfmhc1_x_0202_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0203_nfmhc1_00: 
+M: Fey wadkümkefin chi l'awen' feymu fey doy küme 
+C: Y lo hiervo el remedio ahí es mejor
+
+M: duamküleken ka wingka l'awen'
+C: estoy pendiente del remedio huinca
+
+M: tuleken llemay chaw.
+C: tomo pues padre.
+ 
+nmlch-nfmhc1_x_0204_nmlch_00: 
+M: ¿Tüfi ta furi kutranmu fey wadkümkemi 
+C: ¿Ese para el dolor de espalda lo hierve 
+
+M: l'awen' mapu l'awen' tüfey?
+C: el remedio mapuche ese?
+
+nmlch-nfmhc1_x_0205_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Wadküm, mapu l'awen' chaw welu, 
+C: Hervido, remedio mapuche padre pero,
+
+M: mamüll l'awen' tati.
+C: remedio de leña es eso.
+
+nmlch-nfmhc1_x_0206_nmlch_00: 
+M: ¿Chem ini pingi tüfi chi l'awen'? 
+C: ¿Qué nombre tiene ese remedio?
+
+nmlch-nfmhc1_x_0207_nfmhc1_00: 
+M: Fey may feychi l'awen' folil nalka.
+C: Ese pues el remedio raíz de nalca
+
+nmlch-nfmhc1_x_0208_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmhc1_x_0209_nmlch_00: 
+M: Wingan pingi chi mamüll tati feychi 
+C: Huigan se llama la leña es ese
+
+M: nalka ta müli wawmu ka chaw.
+C: nalca hay en las quebrada pues padre.
+
+nmlch-nfmhc1_x_0210_nmlch_00: 
+M: Wawmew.
+C: Quebrada.
+ 
+nmlch-nfmhc1_x_0211_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Chew müli menoko fey püli müliki nalka.
+C: Donde hay pantano por ahí hay  nalca.
+ 
+nmlch-nfmhc1_x_0212_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0213_nfmhc1_00: 
+M: Feychi wingan pingi tati chuchipüle 
+C: Ese huigan se llama este por ahí
+
+M: rume  müliki welu, chaw.
+C: se encuentra pero, padre. 
+ 
+nmlch-nfmhc1_x_0214_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Folil tüfi ka.
+C: Raíz le coloca también.
+
+nmlch-nfmhc1_x_0215_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Re mamüll chaw yüfkun mamüll.
+C: Solo leña padre .................leña.
+ 
+nmlch-nfmhc1_x_0216_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Yüfkun mamüll.
+C: .............leña.
+
+nmlch-nfmhc1_x_0217_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Re yüfkun mamüll fey putokoken.
+C: Solo ............leña eso se bebo.
+nmlch-nfmhc1_x_0218_nmlch_00: 
+M: Karü yüfkun tüfi kam <%>.
+C: Verde ........lo bebe o.
+ 
+nmlch-nfmhc1_x_0219_nfmhc1_00: 
+M: Karü -/yaf/- karü yüfkün chaw fey 
+C: Verde, verde ..............padre ese
+
+M: wadkün komu ütrukomu am kefin.
+C: con agua hervida se le rosea así lo hago.
+
+nmlch-nfmhc1_x_0220_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Lig yüfkü <*SPA>no.
+C: Blanco........no.
+  
+nmlch-nfmhc1_x_0221_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Lig llemay lig.
+C: Blanco pues blanco.
+   
+nmlch-nfmhc1_x_0222_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmhc1_x_0223_nfmhc1_00: 
+M: Entukonmangi itro chem tati trawa.
+C: Se le deja sacado todo el cuero.
+ 
+nmlch-nfmhc1_x_0224_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmhc1_x_0225_nfmhc1_00: 
+M: Fey yüfkünungi kuchillumu fey wadküm 
+C: Ahí...........con el cuchillo ahi se hierve
+M: komu ütru konamkefin welu, feychi folil nalka 
+C: con agua se le roseo pero, esa raíz de nalca 
+
+M: feyta wadkümkefin ka chaw.
+C: esta lo hiervo también padre.
+ 
+nmlch-nfmhc1_x_0226_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Fey tüfi notuki tami kutran.
+C: Y ese te hace pasar el dolor.
+ 
+nmlch-nfmhc1_x_0227_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Fey doy llafki tañi furi ka chaw.
+C: Eso más se relaja mi espalda pues padre.
+ 
+nmlch-nfmhc1_x_0228_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0229_nfmhc1_00: 
+M: Fey müte chumechi kutranki femechi 
+C: Eso no más como duele así
+
+
+M: kutran dentiwetukelafin ka.
+C: el dolor no siento más.
+
+nmlch-nfmhc1_x_0230_nmlch_00: 
+M: ¿Kimlafimi ti chumechi 
+C: ¿No conoces de como 
+
+M: tuniel tami kutran eymi?
+C: tocaste esa enfermedad? 
+
+nmlch-nfmhc1_x_0231_nfmhc1_00: 
+M: Fey inche may amukelu am pitalmu miawkelu 
+C: Y yo pues boy al hospital ando
+
+M: inche chaw fey ramtukefin 
+C: yo padre y le pregunto 
+
+M: ta chi l'awen'tuchefe ka.
+C: al que hace remedio a la gente.
+
+nmlch-nfmhc1_x_0232_nmlch_00: 
+M: May, may, may.
+C: Sí,  sí, sí.
+ 
+nmlch-nfmhc1_x_0233_nfmhc1_00: 
+M: L'awen'tuchekelu feymu fey feypienu kupül 
+C: El que hace remedio ala gente ahí me dijo el kupül
+
+M: niekefulu am kuyfi pichikeche chaw fewla may 
+C: que tenían antes a los niños padre ahora pues
+
+M: kupül ngewelay pichikeche.
+C: no hay küpul en los niños.
+
+nmlch-nfmhc1_x_0234_nmlch_00: 
+M: Femlli may chi.
+C: Es así eso pues.
+
+nmlch-nfmhc1_x_0235_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Kupülwümu trarintulekelu 
+C: Por el kupülhue cuando se 
+
+M: am kuyfi am doy
+C: dejaba amarrado antes más
+
+M: pofrengefulu taiñ ñuke taiñ tremometu 
+C: pobre éramos nuestros padres que nos criaron
+
+M: fey ütrey rume arekefuy <Noise> tamün furi 
+C: y le frío mucho se acaloraba su espalda
+
+M: femngechi koni tami, tami kutran 
+C: así es como entro tu dolor de
+
+M: furi pingen tati chaw.
+C: espalda se llama eso padre.
+ 
+nmlch-nfmhc1_x_0236_nmlch_00: 
+M: Feymu penupe.
+C: Por eso creo.
+ 
+nmlch-nfmhc1_x_0237_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Feymun nengükelafuy tamün furi trompül 
+C: Por eso no se movían su espalda derecho 
+
+M: tremimün, trompül kupülkülimün 
+C: crecieron, derecho estaban en el kupul
+
+M: femechi müten mülekefun fillantü femechi 
+C: así no más estaba todos los días así
+
+M: tremi tami furi pilan anta wingka chaw.
+C: creció tu espalda dicen los huinca padre.
+
+nmlch-nfmhc1_x_0238_nmlch_00: 
+M: ¿Fey tüfey wingka chem l'awen' elukeymu kay?
+C: ¿Y ese en él huinca que remedio te da también?
+
+nmlch-nfmhc1_x_0239_nfmhc1_00: 
+M: <*SPA>Pastilla ta elukenu ka chaw.
+C: Pastillas me da no mas padre.
+ 
+nmlch-nfmhc1_x_0240_nmlch_00: 
+M: Patilla.
+C: Pastillas.
+nmlch-nfmhc1_x_0241_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M:  <*SPA>Pastilla elukenu tati.
+C: Pastillas me da pues.
+
+nmlch-nfmhc1_x_0242_nmlch_00: 
+M: ¿Fey engu deyulke fey mapu l'awen' engu fey 
+C: ¿ Y con eso se junta con el remedio mapuche 
+
+M: notuleki tami kutran?
+C: no pasa tu enfermedad?
+ 
+nmlch-nfmhc1_x_0243_nfmhc1_00: 
+M: May.
+C: Sí.
+
+M: Rume kutrani fey putokokefin 
+C: Duele mucho ahí lo bebo 
+
+M: kiñe patilla welu, fillantü 
+C: una pastilla pero, todos los días 
+
+M: putokokelafin eyaka
+C: no lo tomo la primera vez 
+
+M: konlu inche pitalmu chaw 
+C: que entre yo en le hospital padre 
+
+M: fillantü putokokefin,
+C: todos los días lo tomaba,
+
+M: fillantü putokokefin doyelfenew.
+C: todos los días lo tomaba me hizo peor.
+
+nmlch-nfmhc1_x_0244_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-nfmhc1_x_0245_nfmhc1_00: 
+M: Doy elfenew feymu fey 
+C: Más me había dejado 
+
+M: nütramkafilu am inche
+C: por eso y como le conversaba
+
+M: femengechi kutrankülen tati pikefiñ 
+C: así estoy sufriendo así le digo
+
+M: doy pu trem pu domo tañi kudeke papay feymu 
+C: a los más jóvenes las mujeres a las ancianas 
+
+M: fey feypienew domofel eymi tati mamita 
+C:  y eso me dijo tú eres mujer tu mamita
+
+M: pienu putokokelami fillantü feychi l'awen' 
+C: me dijo no los has bebido todos los días ese remedio
+
+M: putokokelaymi ta tami <*SPA>pastilla l'awen' 
+C: no has bebido tu remedio de  pastilla 
+
+M: tati feyta doy, doyelaymu <*SPA>depue' 
+C: esta es más té hará mal después
+M: fey niewelaymi l'awen' tuaymu 
+C: y no tienes mal el remedio para tomar
+
+M: venenayaymu ta chi l'awen' pienuengün ka.
+C: té iras ha envenenar el remedio me dijeron.
+
+nmlch-nfmhc1_x_0246_nmlch_00:
+ <hm> 
+
+nmlch-nfmhc1_x_0247_nfmhc1_00: 
+M: Feymu fey llikalu inche fey putokowelafin pu chaw 
+C: Por eso le tuve miedo yo y no lo tome más pues padre
+
+M: yemeken llemay <*SPA>pero 
+C: boy a buscar pues pero
+
+M: rume kutran ka putokokefin.
+C: cuando me duele mucho lo tomo.
+
+nmlch-nfmhc1_x_0248_nmlch_00: 
+M: Feyti nütrankali che <uhm> kiñe kangelu 
+C: eso si lo converso a la gente uno el otro
+
+M: cheengu fey <uhm> trürnolu am kinmün 
+C: con gente ese no es igual pues en le conocimiento
+
+M: feyta <Noise> feyta tüfey fey doy kimki l'awen' 
+C: esta pues sabe más de remedio 
+
+M: che chumechi notual kutran ka.
+C: la gente como debe controlar la enfermedad.
+ 
+nmlch-nfmhc1_x_0249_nfmhc1_00: 
+M: Doy kimki llemay chaw kiñeke ta kudeke 
+C: Más sabe pues padre algunos las ancianas
+
+M: püllü ta doy kimi ta l'awen' kiduamengün feyti doy 
+C: son las que saben más de remedio ellas solas ese más
+
+M: l'awen'tukefulu chumechi inchin ta pitalmu 
+C: que tomaba más remedio como nosotros en el hospital
+
+M: femechi amukelafuy ta kuyfike che ka chaw.
+C: así no iban las personas antiguas pues padre.
+ 
+nmlch-nfmhc1_x_0250_nmlch_00: 
+M: Femlli may.
+C: Es así pues.
+ 
+nmlch-nfmhc1_x_0251_nfmhc1_00: 
+M: Kidu kintukefuin tañi l'awen'engün femi 
+C: Solo buscaban su remedio ellos es así
+
+M: ta mongelewkefuy ka kuyfike che ka chaw.
+C: se mejoraban y también antes la gente pues padre.
+ 
+nmlch-nfmhc1_x_0252_nmlch_00: 
+M: Feyti.
+C: Ese.
+ 
+nmlch-nfmhc1_x_0253_nfmhc1_00: 
+M: Fey tüfa yam newen niewelay rume inchin 
+C: Este ahora ya no tenemos muchos respetos
+
+M: tain wekechengen newen niewelain ka chaw 
+C: nosotros os jóvenes no tenemos fuerzas pues padre
+
+M: inchin re wingka yael tulelu tüfa.
+C: nosotros solo comida huinca comemos ahora.
+
+nmlch-nfmhc1_x_0254_nmlch_00: 
+M: Feyti tüfa weda mongen nielu ta che kam <Throat>
+C: Este ahora malas vida tiene la persona o
+
+M: kuyfi chumelu chi <uhm> newe kutran 
+C: antes porque será que no se enfermaban 
+
+M: che nielafuy che ka llankükelay ñi foro fewla 
+C: la gente no tenían la gente no se les caían los dientes ahora
+
+M: müna weda llanki foro pingiki.
+C: muchos se les caen los dientes se dice.
+
+nmlch-nfmhc1_x_0255_nfmhc1_00: 
+M: Femlli may chaw kuyfi ta doy newen niefuy 
+C: es así eso padre antes mas fuerza tenían
+
+M: ta kachilla ka chaw fewla kachilla tukungi 
+C: los trigos pues padre trigo siembran
+
+M: re l'awen'mu, re füna pingi tati abono 
+C: solo remedio, solo abono se le dice 
+
+M: pingetuy tüfa feychi l'awen'mu ta feychi <Noise>.
+C: se le dice este ese remedio y esa.
+ 
+nmlch-nfmhc1_x_0256_nmlch_00: 
+M: ¿Feychi l'awen' yeniepetuy tüfey?
+C: ¿Ese remedio lo llevara ese?
+
+nmlch-nfmhc1_x_0257_nfmhc1_00: 
+M: Feychi -/yewün/- feychi newen 
+C: Esa fuerza 
+
+M: tukuy chi fün kachilla ka chaw.
+C: colocaban la siembra pues padre.
+ 
+nmlch-nfmhc1_x_0258_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-nfmhc1_x_0259_nfmhc1_00: 
+M: Tüfa ta niewelay ta newen niewelay ta kachilla 
+C: Este ya no tiene la fuerza no tiene el trigo
+
+M: y ka chumuechi niekefuy ta 
+C: y como tenían 
+
+M: vitamina pilu anta wingka.
+C: vitaminas dicen los huincas.
+
+nmlch-nfmhc1_x_0260_nmlch_00:
+ <hm> 
+
+nmlch-nfmhc1_x_0261_nfmhc1_00: 
+M: Newen niewelain kümewelay mürke trürwelay ta 
+C: No tiene fuerza no es bueno no comen harina 
+
+M: mürke kuyfi piam rume für 
+C: harina antes se decía mucho
+
+M: niekefuy kachilla chaw.
+C: tenían trigo padre.
+ 
+nmlch-nfmhc1_x_0262_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+nmlch-nfmhc1_x_0263_nfmhc1_00: 
+M: Fewla ta für niewelay ta mürke.
+C: Ahora ya no se tiene harina.
+ 
+nmlch-nfmhc1_x_0264_nmlch_00: 
+M: Mapu newen <%>.
+C: Fuerza de la tierra.
+ 
+nmlch-nfmhc1_x_0265_nfmhc1_00: 
+M: Newen niewelay re mapu newen niekefuy 
+C: No tiene fuerza solo la tierra tenía fuerza
+
+M: ta kuyfi ta kachilla tüfayam tikün koru 
+C: antes el trigo para hacer comida de locro
+
+M: tuwelyngün rume mürke tuwelay rume 
+C: comían mucha harina ya no comen 
+
+M: feymu llemay ta newen niewelain 
+C: por eso creo que ya no tenemos fuerza
+
+M: ta inchin fewla tati.
+C: nosotros ahora pues.
+
+nmlch-nfmhc1_x_0266_nmlch_00: 
+M: Rume ngüyiperkiñ tain iyal 
+C: Mucho nos hemos olvidado de nuestra comidas
+
+M: inchin kuyfi küpalme tüfa.
+C: nosotros antes nuestra procedencia esta.
+
+nmlch-nfmhc1_x_0267_nfmhc1_00: 
+M: Rume nguyiñ fewla pu' chaw rume nguyiñ 
+C: Nos hemos olvidado mucho pues padre mucho
+
+M: <Noise> inche ta femechi tremün ka chaw 
+C: nosotros así hemos crecido pues padre
+
+M: fewla may ta doy küme wingka yagel tulimi ta 
+C: ahora pues más comida  del huinca comemos  
+
+M: pichikeche tremi kuyfi ta inchin fente 
+C: los niños chicos crecen antes nosotros  
+
+M: femechi ilafuin ka chaw
+C:  así   no comíamos pues padre
+       
+nmlch-nfmhc1_x_0268_nmlch_00: 
+M: Femlli may chi.
+C: Es así pues.          
+ 
+nmlch-nfmhc1_x_0269_nfmhc1_00: 
+M: Fey taiñ kuku, taiñ chaw 
+C: Ese nuestro abuelo, nuestro padre 
+
+M: femechi tremlay feymu
+C: así no crecieron por eso
+
+M: ta rume küme foro niekefuyngün -/entu/- 
+C: es que tienen buenos dientes tenían 
+
+M: entu foro kelafuyngün femechi tremingün pu' 
+C: no se sacaban los dientes así crecieron pues
+
+M: femechi mülekefuy fewla, fewla dengültuwelay 
+C:  así estaban ahora no comen porotos 
+
+M: rume ta weke che chaw kuyfi inche 
+C: siquiera los jóvenes padre antes yo
+
+M: nütramka peyupe allfida mülekefuy, 
+C: conversaba ............arveja había,
+
+M: müllokin niekefuy, pidku niekefuy 
+C: mulloquin tenía, porotos tenían
+
+M: ikelu am kudeke pülli 
+C: como comían las ancianas 
+M: feychi ayiniekefin kiñekemu
+C: esa me gustaba algunas  veces
+
+M: niekefin kiñe kude kuku alkansay ni kuku. 
+C: lo tenemos una anciana alcanzo a su abuela.
+ 
+nmlch-nfmhc1_x_0270_nmlch_00: 
+M: May, may.
+C: Sí,  sí.
+
+nmlch-nfmhc1_x_0271_nfmhc1_00: 
+M: <%> Feymu fey nütramkakefuno fewla 
+C: Por eso  me conversaba ahora
+
+M: kuyfi akordakefuy chaw Ngünechen ni mülen 
+C: antes se acordaba padre dios de que estaba
+
+M: feymu feypikefuy ka antü newen niewelain 
+C:  por eso es que decía algún día no  nos quedara fuerza
+
+M: kachilla dengüll newen niewelayay re 
+C: trigo, porotos no tendrá fuerza
+
+M: l'awen'mu re wingka ñi nguneluwün 
+C: solo remedio solo el remedio huinca que hizo
+M: fünamu feymu ta tukungey ta kachilla 
+C: en el huano sé colocaba el trigo 
+
+M: dengüll feymu ta fünay ta dengüll si no ta 
+C: porotos por eso que el huano el poroto sino
+ 
+M: fünlayay pikefuy ñi tañi kude kuku y 
+C: no crecería decían mi anciana abuela y
+
+M: fewla fey inche feyngelekerkefuy nga feypiken nga 
+C: ahora yo así era  digo pues
+
+M: ñi kude kuku /-pikef/- piken ka chaw.
+C: mi anciana abuela digo pues padre.
+ 
+nmlch-nfmhc1_x_0272_nmlch_00: 
+M: Chumuechi chi tüfey kinkefuyngün tami 
+C: Como es eso lo sabían tú
+
+M: kude kuku tüfey <uhm> papel turkenofulu nga 
+C: anciana abuela eso que no estudiaba
+
+M: chumechi papeltuy fewla pichikeche inchin 
+C: como estudian ahora los niños nosotros
+
+M: chumechi papeltuin welu, rume alün niekerkefuy 
+C: como estudian pero, tenían mucho 
+
+M: kimünengün chuchimu chi rakiduamün 
+C: conocimiento donde sea el pensamiento
+
+M: feychi kimün tüfey.
+C: ese conocimiento ese.
+ 
+nmlch-nfmhc1_x_0273_nfmhc1_00: 
+M: <*SPA>Es' que kuyfi am nütramkakefuy ka chaw 
+C: Es que antes conversaban pues los padre
+
+M: nütramkakefuy chaw Ngünechen am kom 
+C: conversaban padre dios y todos
+
+M: elufilu kiñe kimün takeche kom, kom ñi 
+C: le dio un conocimiento a los anciano, todo su
+
+M: pu yall faw mülelu kom elufilu am kimün 
+C: sus hijos aquí lo que estaban a todos le dio el conocimiento 
+
+M: femechi penu anta kimkefuy ta kuyfi kay chaw.
+C: así creo que ellos sabían pues antes padre.
+ 
+nmlch-nfmhc1_x_0274_nmlch_00: 
+M: Fey llemay chi, fey llemay chi fey rume kim 
+C:  Eso pues es así, y de repente sabían
+
+M: tremumürkefuy püñeñengün tüfey 
+C: criaban a sus hijos ellos ahí
+
+M: amulkenofulu papeltualengün fey <uhm> 
+C: no se le iban para aprender ellos y
+
+M: tremünpirkefuy rume küme mongen 
+C: lo críe decían muy buena vida
+
+M: niekerfuy tañu pichikecheengün ka.
+C: tenían sus niños chicos también.
+ 
+nmlch-nfmhc1_x_0275_nfmhc1_00: 
+M: Küme mongen niekeyefuy may  newen niekefuy 
+C: Buena vida tenían pues tenían fuerza
+
+M: tañi pu püñeñ tañi fütakechelu taiñ pu 
+C: sus hijos sus ancianos sus 
+
+M: kuku küme tremümi pichikeche welu, 
+C:   abuelos crecían bien los niños pero,
+
+M: müte tremünkelafun pu püñeñ 
+C: no crecían mucho los hijos
+
+M: ta kuyfikeche ka chaw.
+C:  los ancianos pues padre.
+nmlch-nfmhc1_x_0276_nmlch_00: 
+M: Ah.
+C: Ah.
+
+nmlch-nfmhc1_x_0277_nfmhc1_00: 
+M: Kimkelafuy ta l'awen' rume l'akerkefuy ta 
+C:  No sabían de remedio y fallecían mucho 
+
+M: pichikeche kuyfi feyta kayu püñeñ nielu 
+C: los niños antes ahora el que tiene seis hijos
+
+M: ta kiñe domo epu küla müten 
+C: una mujer dos tres no mas
+
+M: mongekefuy kuyfi ka chaw.
+C:  vivían antes pues padre.
+  
+nmlch-nfmhc1_x_0278_nmlch_00: 
+M: Ah.  
+C: Ah.
+ 
+nmlch-nfmhc1_x_0279_nfmhc1_00: 
+M: Kimkenofulu am l'awen' tüfa may kimi l'awen' 
+C: Como no sabían de remedio ahora sabe de remedio
+
+M: che unelumu ta lefi ta wingka medikumu ka chaw.
+C:  la gente y corre en médico huinca pues padre.
+ 
+fmhc1_x_0281_nfmhc1_00lch_00: 
+M: Femlli may chi.
+C: Es así eso pues padre.
+
+nmlch-nfmhc1_x_0282_nfmhc1_00: 
+M: Lefi feley ñi püñeñ kuyfi am kimkenofulu 
+C: Corría su hijo antes como no sabía
+
+M: chumechi ñi trafentun chumelu ñi rume 
+C:  como se encontraba con el espíritu malo por que paso
+
+M: korey pichicheengün kimkelafuyngün ka 
+C: corre con los niños no sabían pues 
+
+M: chaw kiduengün ka nikefuy kimün 
+C: padre ellos solo también tenían conocimiento
+
+M: ka ngawtukerkefuy pichikecheengün rume 
+C: y no se refregaban con el remedio los niños 
+
+M: kutrani pichicheengün fey 
+C: cuando duele mucho los niños ellos
+
+M: ngawtukerkefuyngün femechi ta -/
+C: no le refregaban la cabeza así es
+
+M: mongeler/- mongelün, mongelupurkeyfuy 
+C: vivir, hice vivir, estaba viviendo
+
+M: ta kiñeke epuke ka.
+C: y unos o dos también.
+
+nmlch-nfmhc1_x_0283_nmlch_00: 
+M: Femyawi may chi femechi lekerkefuy ta 
+C: Así andaba pues así estaba
+
+M: kuyfike che ka chaw inchi may tüfa doy, 
+C: las personas antiguas nosotros pues ahora mas
+
+M: doy kimerpuin reke 
+C:  más sabemos creo como 
+
+M: papeltulam inchin fey kimi
+C: estudiamos nosotros eso es bueno
+
+M: chew taiñ anta ñi pu püñeñ femechi ta 
+C: donde nuestros hijos así es
+
+M: mongelin doy kom tain pu domongen alüniein 
+C: que vivieron todas las mujeres que somos  hartos
+
+M: püñeñ ka chaw, kuyfi ta femechi tremkelafuy 
+C: hijos padre, antes así no crecían
+
+M: pu püñeñ ka chaw.
+C: los hijos pues padre.
+ 
+nmlch-nfmhc1_x_0284_nmlch_00: 
+M: Femlli may chi welu, kontrolakelafuy, 
+C: Así es pero, no se controlaban,
+
+M: fakunakelafuy, tukelafuy rume.
+C:  no se vacunaban siquiera pues. 
+ 

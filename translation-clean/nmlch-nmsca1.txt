@@ -1,0 +1,2438 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nmsca1 
+; Last changes made on 09/11/2001 
+; Transcriber: Marcela Collio 
+; Comments:  
+;Translate by: Erika Wirkapan
+
+
+ 
+nmlch-nmsca1_x_0000_nmlch_00: 
+M: Fewla ke ta amuay mari, mari peñi 
+C: Ahora se fue saluda hermano
+
+nmlch-nmsca1_x_0001_nmsca_00: 
+M: Mari, mari peñi
+C:   Saludo hermano
+
+nmlch-nmsca1_x_0002_nmlch_00: 
+C. ¿chumuechi anta wünmalefuymi tüfa?
+M:  Como ha amanecido aqui
+
+nmlch-nmsca1_x_0003_nmsca_00: 
+M: Kume wünmalen ta ta veyta ngekallauy dungu kom 
+C:  Bueno amigo se             asunto todo
+
+M: kümeley ngelay ngelay ta chem dungu pifun rume ta pu <SPA>vecino 
+C: rico no esta su asunto dije mucho
+
+nmlch-nmsca1_x_0004_nmlch_00: 
+M:<SPA>Ya kom tünkülen wünmaymün ka 
+C: Y todo sin novedad han amanecido tambien
+
+nmlch-nmsca1_x_0005_nmsca_00: 
+M: Kom tünkülen wünmayin fey <Noise> ngelay 
+C: Todo cuanto ------------
+
+M: ta chem pi pu <SPA>vecino 
+C: que dijo
+ 
+nmlch-nmsca1_x_0006_nmlch_00: 
+M:<SPA>Ya 
+C: Ya
+
+nmlch-nmsca1_x_0007_nmsca_00: 
+M: Eymün kay küme wünmalimün ka 
+C: Uds. Muy bien amanecieron
+
+nmlch-nmsca1_x_0008_nmlch_00: 
+M: Inchiñ rüf to kom trür wünmaliñ küme kechi 
+C:  Nosotros bien parejo alojamos bien excelente
+
+nmlch-nmsca1_x_0009_nmsca_00: 
+M: <SPA>Ya
+C:  Ya
+
+nmlch-nmsca1_x_0010_nmlch_00: 
+M: Ta wünmaliñ ta inche fey ta küdawkeavun tüfa tati 
+C: Alojamos yo el trabajo ahora
+
+nmlch-nmsca1_x_0011_nmsca_00: 
+M: <SPA>Ya pu <SPA>vecino kom kümeley 
+C: Ya pues vecino todo esta bien
+
+nmlch-nmsca1_x_0012_nmlch_00: 
+M: May kom kümeliengün
+C: Si todos estamos bien 
+
+nmlch-nmsca1_x_0013_nmsca_00: 
+M:<SPA>Fiesta müli <SPA>fiesta 
+C: Fiesta hay fiesta
+
+nmlch-nmsca1_x_0014_nmlch_00: 
+M: May mülingün <Cough> 
+C: Si estan
+
+nmlch-nmsca1_x_0015_nmsca_00: 
+M:<SPA>Fiesta duamtumeken <Cough> 
+C: Fiesta organizan
+
+nmlch-nmsca1_x_0016_nmlch_00: 
+M: ¿Eymi tüfa tami pu che kom kümeli ka?
+C: Uds ahora su pues gente todos están bien
+
+nmlch-nmsca1_x_0017_nmsca_00: 
+M: Kom kümeleyiñ
+C: Todos bien estamos
+
+nmlch-nmsca1_x_0018_nmlch_00: 
+M:<SPA>Ya ngelay tañi afkadi müten ta miawi 
+C: Ya no esta mi pareja no mas viaja
+
+nmlch-nmsca1_x_0019_nmlch_00: 
+M: Kañpüle
+C: Otro lado
+
+nmlch-nmsca1_x_0020_nmsca_00: 
+M: May miawi máquinamu tañi wen'i 
+C:  Si viaja en bus mi amigo
+
+nmlch-nmsca1_x_0021_nmlch_00: 
+M: Ah. 
+C: Ah. 
+
+nmlch-nmsca1_x_0022_nmsca_00: 
+M: Tañi cheskuy 
+C: Mi suegro
+
+nmlch-nmsca1_x_0023_nmlch_00: 
+M: Fey, fey, fey, fey, fey 
+C: El, el, el, el, el
+
+nmlch-nmsca1_x_0024_nmsca_00: 
+M: Tripay ta na trilla miawi ta kosechan 
+C:  Salio una orilla vaijo a cosechar
+
+M: ta woño woñoko fachantü ta mülepuy 
+C: Vuelta de vuelta hoy dia están alla
+
+nmlch-nmsca1_x_0025_nmlch_00:  
+M: <SPA>Ya inche tüfa pepapeyu peñi fey manelpeyu
+C: Ya ahora a verte hermano el confio
+
+nmlch-nmsca1_x_0026_nmsca_00: 
+M: <SPA>Ya feley
+C:  Ya esta
+
+nmlch-nmsca1_x_0027_nmlch_00: 
+M: Wüne trekaleluam  eymi  feyta niepelay kimün pipeyu 
+C: Primero camina tu es tener saber le digo
+
+M: feymu manelpeyu fey nütramkamean ñi wen'i 
+C:  Uds, confio la conversación mi amigo
+
+M: ramtuafiñ chumlekefel kuyfike kutran 
+C:  pregunto como era antigua enfermedad
+
+M: chumuechi ñi mülekefel chumuechi ñi katrütungekefel 
+C:  como seria com sus dolores
+
+M: fey itrofill kutran am mülekelu mapumu 
+C:  toda enfermedad existia en la tierra
+
+M: fey ramtuafiñ pipeyu 
+C: si convers te digo
+
+nmlch-nmsca1_x_0028_nmsca_00: 
+M: Rüftu feley pu feyta kutranküleken tati
+
+M: fey veyta mongepun tati
+C: el entonces vivio asi
+
+M: veyta tripan Alfarinu vey depue puwün Temuko 
+C:  asi salio Galvarino después llego Temuco
+
+M: feyta famuechi amulerpun tati
+C:  ahora asi me fui
+
+M: veyta Santiagu <SPA>no am mongemupen 
+C:  ahora Santiago no me recupere
+
+nmlch-nmsca1_x_0029_nmlch_00: 
+M: Ah ¿a'lün' kutran tukimi?
+C:  Ah harto enfermedad tiene?
+
+nmlch-nmsca1_x_0030_nmsca_00: 
+M: A'lüñma kutranün dewma kechu tripantu amulnien <Noise> 
+C: Mucho tiempo enferme hace 5 año llevo
+
+M: feyta <SPA>dentro <SPA>el <SPA>cáncer akuy tañi mollfüñ 
+C: ahora dentro el cancer llego mi sangre
+
+M: veyta pital <SPA>cáncermu feyta mongepun tati tunte pun l'awen' 
+C:  entonces hospital cancer ahora sano con cuanto remedio
+
+nmlch-nmsca1_x_0031_nmlch_00: 
+M: Pepulimi may 
+C:.....................................
+
+nmlch-nmsca1_x_0032_nmsca_00: 
+M: Veymu ta pepun l'awen' veyta Dio +/kidukunuetew/+  kidukunulanew 
+C: Por eso encontre remedio Dios solo no me deja solo me deja
+
+M: veyta mongen tati  
+C:  ahora vivi si
+
+nmlch-nmsca1_x_0033_nmlch_00: 
+M: Felellemay chi peñi felellemay chi 
+C: Asi es    hermano asi es no mas
+
+nmlch-nmsca1_x_0034_nmsca_00: 
+M: Feytamu wünenkülenu tüfa niekelam inche tañi Ngillatun tüfa 
+C: Ahora mismo vayan primero ahora tenia yo rogativa
+
+M: vey witrampüram munmuken veyta famuechi  
+C:  levante   asi es
+
+M: veyta Dio kelluntukuenu veyta witratuenu tati 
+C:.................................................................................
+
+nmlch-nmsca1_x_0035_nmlch_00: 
+M: Feley pu kidukunukelallu 
+C:  Por eso pues solo de fortaleza
+
+nmlch-nmsca1_x_0036_nmsca_00: 
+M: Inche ta <%> vey, veyta rume pensaluwkefun kuyfi ka 
+C:  Yo aqui siempre pienzo antiguo bien
+
+nmlch-nmsca1_x_0037_nmlch_00: 
+M: Femllefuy may chi 
+C: ............................................
+
+nmlch-nmsca1_x_0038_nmsca_00: 
+M: Tranakunuay ñi <SPA>familia pifun 
+C:  Abandonado la familia dije
+
+M: veyta repartikünulan rume tüfa may pikevuy ñi rakiduam 
+C: aun no reparte bien ahora si digo mi pensamiento
+
+M: küme kutrankavun 
+C: bueno dolorodo es
+
+nmlch-nmsca1_x_0039_nmlch_00: 
+M: Fempillefuymi <Noise> may 
+C: Asi es no mas
+
+nmlch-nmsca1_x_0040_nmsca_00: 
+M: Rume kutrankavun 
+C: Bueno doloros
+
+nmlch-nmsca1_x_0041_nmlch_00: 
+M: Fey eymi kuyfi we wentrungelu pichi wentrungelu 
+C: Si ud ante es hombre pequeño hombre 
+
+M: chem kutran chi wüne kontueymu peñi  
+C:  que enfermedad tuvo primero peñi
+
+M: tami mongennmu tüfey <Noise> 
+C: su vida suya
+
+nmlch-nmsca1_x_0042_nmsca_00: 
+M: Inche ta kuyfi niekelavun kutran <SPA>nada sentikelavun 
+C:  Yo ante no tenia enfermedad nada sentia
+
+M: vey sentikelavun kutran kuyfi trafentuürke femün kiñe rupa 
+C: nada sentia enfermedad ante fiebre repentina entonces una obtuve
+
+M: fey rume weda trremün veymu peno 
+C: si muy mal creci por eso
+
+nmlch-nmsca1_x_0043_nmlch_00: 
+M: Ah 
+C:Ah 
+
+nmlch-nmsca1_x_0044_nmsca_00: 
+M: Veyta kom tutuenu depue vey trapumkalenew
+C: Esto todo retorno despues reune (los remedios)
+
+ M: kuñival tremün inche ngelay ta 
+C: huérfano creci yo no tenia lo
+
+M: <SPA>abuelu ngelay ta chaw ngelay ta kuñival ta 
+C:  abuelos no tenia padre no tenia huerfano
+
+M: inche Repokura küpan 
+C:  yo Repocura vive (decendencia)
+
+nmlch-nmsca1_x_0045_nmlch_00: 
+M: <SPA>A uyu müli tami mapu uyupüle uyu tuwimi 
+C: Lejo hay, su tierra lejo su decencia
+
+nmlch-nmsca1_x_0046_nmsca_00: 
+M: <SPA>Claro uyu <SPA>sí 
+C: ..........................................................
+
+M: veyta elngepan -/chu/- chukawmu pingela anta ta 
+C: ................................................................................................
+
+M: femuechi elngi ta che
+C: asi eligio la gente
+
+nmlch-nmsca1_x_0047_nmlch_00: 
+M: ¿Chumuechi elkünungimi?
+C: Como abandonaron
+
+nmlch-nmsca1_x_0048_nmsca_00: 
+M: <uh> Kupay ta uyu tañi wen'i 
+C: Viene alla mi amigo
+
+M:  veyta pengepay ñi ñukeyem  faw 
+C: ellos vieron mi madre aqui
+
+M: feyta veymu ta elngen ta inche faw 
+C:  por eso me dieron yo aqui
+
+nmlch-nmsca1_x_0049_nmlch_00: 
+M: <SPA>A ¿inapaymi tami ñuke?
+C: A ¿viniste junto su madre?
+
+nmlch-nmsca1_x_0050_nmsca_00: 
+M: <uhm> Inche ta faw tuwün inche trav küllegmu faw
+C: Yo ahora soy yo ahora misma aqui
+
+ M: <SPA>nacio<SPA>y <SPA>criao <SPA>de <SPA>aquí 
+C:  nacio y criao de aqui
+
+nmlch-nmsca1_x_0051_nmlch_00: 
+M: May 
+C: Si
+
+nmlch-nmsca1_x_0052_nmsca_00: 
+M: Welu uyu Renupüle inche ñi <SPA>familia 
+C: Pero alla -------------- yo mi familia
+
+nmlch-nmsca1_x_0053_nmlch_00: 
+M: Uyu müli tami pu füren 
+C:  Alla hay su pariente o familia
+
+nmlch-nmsca1_x_0054_nmsca_00: 
+M: <SPA>Sí pu füren kom müleki <Noise>
+C: Pues pariente todo existe
+
+M:  <SPA>pero faw <SPA>soy <SPA>nacio <SPA>y <SPA>criao <%>
+C: pero ahora soy nacio y criao
+
+M: kiñe veyti feymu vey veychi mülepan faw 
+C:  primero en esa fecha estaba aqui
+
+M: <SPA>pero <SPA>soy Renekurano 
+C:  pero soy Renecurano
+
+nmlch-nmsca1_x_0055_nmlch_00: 
+M: Ah 
+C: Ah
+
+M: chukaw pingeki ti vemuechi <SPA>lugar 
+C:...........................................................................
+
+nmlch-nmsca1_x_0056_nmsca_00: 
+M: <SPA>Sí  chukaw vemuechi chukawmu elngen inche 
+C: ............................................................................................
+
+M: veyta wingka <SPA>en <SPA>la <SPA>quebra pilam chukaw pi 
+C: ......................................................................................
+
+nmlch-nmsca1_x_0057_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0058_nmsca_00:
+M: Vemuechi chukawmu elngen inche 
+C: ..........................................
+
+M: vey seguiñmangelan tañi ñuke 
+C:  ..................................... mi madre
+
+M: feyta elngepan faw inche 
+C: me dejaron aqui yo
+
+nmlch-nmsca1_x_0059_nmlch_00: 
+M: Ah 
+C:  Ah 
+
+nmlch-nmsca1_x_0060_nmsca_00: 
+M: <SPA>Entonce veymu mülen ta faw vey 
+C: Entonces por eso estoy aquí ve
+
+M: <SPA>yo <SPA>tengo la <SPA>herencia <SPA>de <SPA>la <SPA>mamá <SPA>aquí 
+C: yo tengo la herencia de la mamá aqui
+
+nmlch-nmsca1_x_0061_nmlch_00: 
+M: Tami ñuk
+C:  
+
+nmlch-nmsca1_x_0062_nmsca_00: 
+M: La herencia ñuke veymu ta mülen 
+C:  La herencia madre por eso estoy
+
+nmlch-nmsca1_x_0063_nmlch_00: 
+M: Ñuke tañi 
+C: Madre mia
+
+nmlch-nmsca1_x_0064_nmsca_00: 
+M: Veymu ta elelngen
+C: Por eso me dejaron
+
+M:  veyta kidungen nielan l'amngen' nielan peñi ngelay 
+C: soy sola no tengo hermana mi hermano no hay
+
+M: ta trür ngelay tañi chemu tañi <uh> <SPA>parte ñukeyem ngelay 
+C: no es igual mi condicion parte madre no hay
+
+nmlch-nmsca1_x_0065_nmlch_00: 
+M:Ah 
+C:Ah 
+
+ nmlch-nmsca1_x_0066_nmsca_00: 
+M: Inche ta kidungen
+C: Yo soy solo
+
+nmlch-nmsca1_x_0067_nmlch_00: 
+M: Kidungimi may 
+C: Solo eres asi
+
+nmlch-nmsca1_x_0068_nmsca_00:
+M:  <SPA>Sí
+C: Si
+
+nmlch-nmsca1_x_0069_nmlch_00: 
+M: Fey feychi trafentufelu eymi fey 
+C: Esa vez la fiebre suyo es
+
+M: ¿chumuechi mongeymi peñi?
+C:  como recupero hermano
+
+nmlch-nmsca1_x_0070_nmsca_00: 
+M: <uh> Kiñe medikamu mongen 
+C:Una medica me salvo
+
+M: vey vemuechi chemngen 
+C: si levanto mi animo
+
+M: <SPA>me <SPA>hicieron
+C:  me hicieron
+
+nmlch-nmsca1_x_0071_nmlch_00: 
+M: Pelotu
+C: Reviso (examino)
+
+nmlch-nmsca1_x_0072_nmsca_00: 
+M: Pelotungen feyta ka llengen <SPA>piedra <SPA>santa 
+C: Revisaron esta acerto  
+
+M: vey veymu vemuechi chemüñmangen 
+C: por eso muy bien acerto
+
+M: vey <Noise> Ngillatuñmangen reke fey pagangi ta 
+C:  si rogaron me pagaron la
+
+M: <SPA>manda feymu mongen 
+C: manda por eso vivi
+
+nmlch-nmsca1_x_0073_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0074_nmsca_00: 
+M: Ka rume kutrankavün,
+C: Mucho sufri
+
+M:  pero vemuechi awkaturumey pun 
+C:por eso jugó de noche 
+
+M: vey kiñe pütra trafentunmu rupan 
+C: una grande fiebre pase
+
+nmlch-nmsca1_x_0075_nmlch_00: 
+M: <SPA>A  ¡femimi am! 
+C:  .....................
+
+nmlch-nmsca1_x_0076_nmsca_00: 
+M: <SPA>Sí kiñe pütra trafentunmu rupan 
+C: una grande fiebre pase
+
+M: veyt aveymu felewerpun fey fey depue inche ta 
+C: entonces asi quede asi asi yo yo
+
+M: kewatukelavun chemkelavun rume 
+C: no peleo ninguno bueno
+
+M: vey vey kiñe mamüll trani müten <SPA>a <SPA>este <SPA>lao <SPA>no 
+C: entonces una palo cayo nada mas este lado no
+
+M: <SPA>me <SPA>acuerdo <SPA>cual <SPA>lao <SPA>seria veyta chem trana 
+C: me acuerdo cual lado seria
+
+M: rupay tamu veyta fante tremi tañi kutran 
+C: paso su este bastante grande su enfermedad
+
+nmlch-nmsca1_x_0077_nmlch_00: 
+M: ¿fütra paftray?
+C:  grande inflamo 
+
+nmlch-nmsca1_x_0078_nmsca_00: 
+M: Fütra pütrü paftray  
+C: Grande mucho inflamo
+
+nmlch-nmsca1_x_0079_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0080_nmsca_00: 
+M: Veyta nentuñmanu <SPA>doctor fey 
+C: Me saco doctor al
+
+M: feyta <SPA>doctor veypienu 
+C: este doctor me dijo
+
+M: <SPA>don <SPA>Segundo <SPA>tenga <SPA>paciencia <SPA>
+C:  don Segindo tenga paciencia
+
+M: buen <SPA>médico <SPA>buen <SPA>maestro pi <SPA>buen <SPA>masetro 
+C: buen médico buen maestro buen maestro 
+
+M: ta nentulay ta kümesoldangelay 
+C: no saco la buena soldadura
+
+M: veyta kom katrüñmangi tüfa pienu 
+C: asi todo cortaron ahora me dijo
+
+nmlch-nmsca1_x_0081_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0082_nmsca_00: 
+M: Tañi mülelu <SPA>lo <SPA>que <SPA>pasa <SPA>la <SPA>comida  
+C:  Mi lo que hay lo que pasa la comida
+
+nmlch-nmsca1_x_0083_nmlch_00: 
+M: Ah 
+C:  Ah 
+
+nmlch-nmsca1_x_0084_nmsca_00: 
+M: Fante ta katrüñmangen  
+C:  asi tan grande me cortaron
+
+nmlch-nmsca1_x_0085_nmlch_00: 
+M: Tami nagümkemüm iyagel
+C:  Su entrada de alimento
+
+nmlch-nmsca1_x_0086_nmsca_00: 
+M: May wüne 
+C:Si primero
+
+nmlch-nmsca1_x_0087_nmlch_00: 
+M: !ooo¡ 
+C:  ¡ooo!
+
+nmlch-nmsca1_x_0088_nmsca_00: 
+M: Pital <SPA>del <SPA>cáncer <SPA>no ta mongepun inche <Noise> 
+C: Hospital del cancer yo vivi yo
+
+M: fey incheam trawükelu am Ngillatunmu  feyta  ta 
+C:  mi persona se junta en oracion por eso
+
+M: veymu femngen tüfa Dios ta 
+C:   me hacen ahora Dios la
+
+M: witratutuenew fey feymu ta mongen 
+C:  me levanta si por eso vivi
+
+nmlch-nmsca1_x_0089_nmlch_00: 
+M: Münale chi kay 
+C: incredible si
+
+nmlch-nmsca1_x_0090_nmsca_00: 
+M: Veyta pewmakevun tüfa 
+C:  Sueño ahora
+
+M: fey vemuechi pewmakevun 
+C: por eso me sueño
+
+M: mekekevuy ñi palikantun 
+C:  hacia mi juego de chueca
+
+M: rume nieken pewma <uh> tramu <%>  mapu 
+C:  mucho tengo sueño su tierra
+
+M: vey nieken pewma 
+C: 
+
+M: nieken ñi pu che afkadi niekenuengün <Noise> vemuechi pewmaleken 
+C: tengo mi gente alrededor fortalecido asi sueño siempre
+
+nmlch-nmsca1_x_0091_nmlch_00: 
+M: Feyti fey ¿tunten tripantu nieymi ti 
+C: ahora cuantos años tiene
+
+M: vemuechi kutranfuymi ti eylla pichi wentrungimi?
+C: por eso enfermaste al comienzo chico hombrecito
+
+nmlch-nmsca1_x_0092_nmsca_00:
+M:  <SPA>Claro eylla pichi wentrungen 
+C:  Claro comienzo poco hombre chico
+
+M: veychi tüvin tüfin chi feychi kutran pu 
+C:  me pegue pegue esa enfermedad pues
+
+nmlch-nmsca1_x_0093_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0094_nmsca_00: 
+M: Eylla pichi wentrungen vey feymu ta 
+C:  chico hombre por eso
+
+M: kümelay awkantun nag antü rangiantu 
+C:  no es bueno jugar atardecer medio dia
+
+M: rume piken tañi wen'i ti anülepelu
+C: mucho digo su amigo sentado esta 
+
+nmlch-nmsca1_x_0095_nmlch_00: 
+M: ¿Feyti ngülamn eymi tüfimi pütakeche ñi küpalmemu
+fey ñi vemuechi ñi femnoal?  
+C: Ese consejo su ese anciano su el siempre m hacen 
+
+M: kümelay rangiantü nagal ti 
+C: bueno no es medio dia al atardecer
+
+nmlch-nmsca1_x_0096_nmsca_00: 
+M: <SPA>Claro pu fey fey allkütüñmakevuin kuyfi kuyfi 
+C:  Claro pues por eso escucho siempre ante ante
+
+M: ta melekevuy ta ngülam rume mülekevuy ta 
+C: habia consejo mucho habia
+
+M: ngülam veyta repetu mülekevuy kuyfimu veyta tüfamu may 
+C:  consejo ese respeto habia ante ahora mismo asi
+
+M: ta we<%> wingkawtuy ta che 
+C:  si wingka entra en la gente
+
+nmlch-nmsca1_x_0097_nmlch_00: 
+M: Rume llamukekevuy ta che 
+C: .................................................
+
+nmlch-nmsca1_x_0098_nmsca_00: 
+M: Rume llamukefuy kuyfi mamüll ralimu ta 
+C: ...................ante palo plato
+
+M: llafütukevuin <uh> mülekevuy ta 
+C: serviams habian
+
+M: wütrü itrofill mülekevuy +/reaw/+ raw rali ka mülekevuy 
+C: escucharon todo habia     plata habia
+
+M: veyta famuechi llafütukevuin kuyfi 
+C: asi seriamos ante
+
+nmlch-nmsca1_x_0099_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0100_nmsca_00: 
+M: Veyta küme kimpan inche ta 
+C:       buen descendencia yo
+
+M: tremün veymu ngüfow ñi korütukevuiñ 
+C:
+
+nmlch-nmsca1_x_0101_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0102_nmsca_00: 
+M: Kom vemuechi mültrün llafütukevuin ngillokiñ pingi
+C:  Todo asi catuto comiamos albondiga se llama
+
+M:  trapümkangekefuy tachi dengüllengu <uh> <SPA>lanteja 
+C: juntabamos con poroto     lenteja
+
+nmlch-nmsca1_x_0103_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0104_nmsca_00: 
+M: Vemuechi trapümkevuy 
+C: asi juntaban
+
+M: vey vemuechi chemkevuin tati 
+C: asi se hacian 
+
+M: llafütukevuin vey kuram kuram choyke pingekevuy <Laugh> 
+C: comiamos huevo 
+
+nmlch-nmsca1_x_0105_nmlch_00: 
+M: Dewmangekefuy 
+C: 
+
+nmlch-nmsca1_x_0106_nmsca_00: 
+M: Dewmakevuy fantekevuy 
+C: Hacia grande
+
+M: veyta ka niekevuin kiñe pichi chadi 
+C: tambien tenia poco sal
+
+M: veyta trüko trüko chadiengu pingekevuy tiychi lliwiñengu vemuechi 
+C: hacia bolita con sal decia con grasa asi
+
+M: vey vamkunumekekevuin veyta kom rupakevuin vamuechi 
+C: mantenian en esto todo pasamos asi
+
+nmlch-nmsca1_x_0107_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0108_nmsca_00: 
+M: Vey vemuechi llafütukevuin kuyvi 
+C: Asi comiamo antes
+
+M: veyta inche tremüm abuelamu 
+C:      yo crecia abuela con venia sur
+
+M: ñi <SPA>abuela ta küpay <SPA>sur 
+C: 
+
+nmlch-nmsca1_x_0109_nmlch_00:
+M:  Ah <SPA>sur küpay
+C: Ah Sur venia
+
+nmlch-nmsca1_x_0110_nmsca_00: 
+M: <SPA>Sur küpay tañi <SPA>abuela
+C: Sur vino mi abuela
+
+nmlch-nmsca1_x_0111_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0112_nmsca_00: 
+M: Ñi <SPA>abuela ta pingi María Antinao
+ C: Abuela se llama Maria Antinao
+
+ M: <SPA>sur küpay tañi <SPA>abuela
+C: 
+
+nmlch-nmsca1_x_0113_nmlch_00: 
+M: Kake mapu küpay ti <SPA>sur mapu 
+C: Mar tierra vino sur tierra
+
+nmlch-nmsca1_x_0114_nmsca_00:
+M: Rupukura
+C: Repucura
+
+nmlch-nmsca1_x_0115_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0116_nmsca_00:
+M:  Wentelar 
+C: Huentelar
+
+nmlch-nmsca1_x_0117_nmlch_00: 
+M: feypüle tuwfuy 
+C: 
+
+nmlch-nmsca1_x_0118_nmsca_00: 
+M: <SPA>Sí nome nome lewfü <SPA>de Peral 
+C: Si al otro lado del rio
+
+nmlch-nmsca1_x_0119_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0120_nmsca_00: 
+M: Dond elo watral küpavuy tañi abuelaem 
+C: de muy lejos vino mi abuela
+
+nmlch-nmsca1_x_0121_nmlch_00: 
+M: Ah fey püle tuwfuy ka 
+C: AhAlrededor vivia
+
+nmlch-nmsca1_x_0122_nmsca_00: 
+M: Fey püle tuwvuy 
+C: 
+
+nmlch-nmsca1_x_0123_nmlch_00: <uhm> 
+
+nmlch-nmsca1_x_0124_nmsca_00: 
+M: Veyta vemuechi kimün inche ta tremün <SPA>con <SPA>abuela 
+C:  Asi supe yo creci
+
+M: vey inche rume kim mapuche dunguvun kuyvi 
+C:  yo mucho se mapuche hablar antes
+
+M: vey <SPA>depue may pichiken wingkawtupuyreke vey 
+C:    despues de a poco awingkado esta 
+
+nmlch-nmsca1_x_0125_nmlch_00: 
+M: Ngullinetufimi ka
+C: 
+
+nmlch-nmsca1_x_0126_nmsca_00: 
+M: <SPA>Depue ngullituvuin 
+C: 
+
+M: <SPA>depue pu pichike antü antü küdawtutuwun 
+C: despues de poco dia a dia trabajo
+
+M: vey  <SPA>depue <SPA>sólo rakiduamtunga
+C:  			pense de nuevo 
+
+M: chumala nga vemiawün nien nga mapu 
+C:  por que ando tengo tierra
+
+M: wingka nga pichi niey kiñe <SPA>media héctareamu
+C:   no mapuche tiene poco media hectarea
+
+M: wentruki vey inche  chumalam femiawün pin pu 
+C: bien hombre soy yo por que voy a andar dije a mi mismo
+
+nmlch-nmsca1_x_0127_nmlch_00: 
+M: Rakiduamimi 
+C:  pense
+
+nmlch-nmsca1_x_0128_nmsca_00: 
+M: Rakiduamün kidu inche ñi femiawnovel tüfa 
+C: pensativo solo yo no debia andar ahora
+
+M: vey vemiawün vey doy mandawkiavun <Noise> 
+C: no deberia no mas
+
+M: vey kidutu rakiduamün, rakiduamün 
+C:  solito pense pense
+
+M: vey kidu nenturpuy longkomu
+C:  solo saco cabeza
+
+M:  wünmakevunreke ñi rakiduamkevel tüfa ñi kimal
+ C:  casi amanecida pensaba ahora mi saber
+
+M: veyta wüñotutuy ñi mapu 
+C: se devolvio su tierra
+
+nmlch-nmsca1_x_0129_nmlch_00: 
+M: Femi kiñekünu rakiduammimi 
+C:
+
+nmlch-nmsca1_x_0130_nmsca_00: 
+M: <uhm> Vemeuchi wünmakevun 
+C:  Asi amaneci
+
+M: chumuel kiñe posokomu re wütrokonmu
+C: cuando un podo de agua puro estero
+
+ M: tüfa inche nien ta <SPA>agua botawkevun <SPA>de <SPA>riego 
+C: ahora yo tengo 
+
+M: vemiawün ta pikevun pu 
+C: 
+
+nmlch-nmsca1_x_0131_nmlch_00: 
+M: Rakiduamimi 
+C: Pensaste
+
+nmlch-nmsca1_x_0132_nmsca_00: 
+M: Rakiduamkevun ñi vemuechi küdawkewuin ti 
+C:  Pienso mucho por eso trabajo
+
+M: wütrukokevuin <SPA>de <SPA>la <SPA>de<SPA> la <SPA>cuatro 
+C:  regaba de la de la cuatro
+
+M: <SPA>de <SPA>la <SPA>tarde <SPA>hasta <%> <SPA>con <SPA>el <SPA>dolor 
+C: de la tarde hasta con el dolor
+
+M: <SPA>de <SPA>muela awantakelavuin pue 
+C: de muela no resistia pues
+
+M: <SPA>aremangayto vemuechi
+C: 
+
+M: ta küdawkevuin veyta rume kutrankawngi vemuechi femiawün <SPA>no 
+C: trabajo mucho sufrir asi paso mal
+
+nmlch-nmsca1_x_0133_nmlch_00: 
+M: Fempellemay chi peñi fempellemay chi
+C: Me imagino hermano me imagino si
+
+nmlch-nmsca1_x_0134_nmsca_00: 
+M: Rume kutrankawngi vey kim rakiduamnolu 
+C: Mucho sufre no saber pensar
+
+M: veyta rume falintuwkevi feyta falilay welu ka<Noise> 
+C: muchi vale esta vale nada
+
+nmlch-nmsca1_x_0135_nmlch_00: 
+M: femllimay chi peñi inchiñam mapuchengenmu
+C:  asi es hermano mapuche somos
+
+M:  Ngünechen <Cough> elkünueymu 
+C:  ser supremo te dio a existencia
+
+M: ka eleleymu mapurke tüfachi mongenmu ka
+C: le dejo ------ esta vivirla
+
+nmlch-nmsca1_x_0136_nmsca_00: 
+M: Feley pu 
+C: Asi es
+
+nmlch-nmsca1_x_0137_nmlch_00: 
+M: Itrofill dungu kimay piyñmu ka feymu ta 
+C: mucho lengua sepa le dijo por eso 
+
+M: rume kimkevuy ta pütakeche perke kuyfi ka 
+C: mucho sabian anciano veia antes
+
+nmlch-nmsca1_x_0138_nmsca_00: 
+M: Femkefuy pu veyta vemuechi nütramkawkevuyngün 
+C: asi era pues asi conversaban 
+
+M: veyta pewkevuyngün vemuechi, 
+C: esta conversaban asi
+
+M: vemuechi chemuwkevuyngün mülekevuy ta 
+C: asi se atendiaeron existia el
+
+M: wewpiñ kuyfimu tüfa ta kim wewpiwlay ta che ka
+C: discurso ante ahora ya tardo discurso no hay
+
+nmlch-nmsca1_x_0139_nmlch_00: 
+M: Femllimay chi, femllimay chi fey tüfichi kutran tufilu eymi 
+C: Asi es asi es esta enfermedad se contagio ud
+
+M: vey pitalmu mongerkimi tüfi peñi 
+C: hospital revivio entonces hermano
+
+nmlch-nmsca1_x_0140_nmsca_00: 
+M: Pitalmu mongemen 
+C: Hospital revivi
+
+nmlch-nmsca1_x_0141_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0142_nmsca_00: 
+M: Pital <SPA>del <SPA>cáncer <uh> longkofi 
+<SPA>no <SPA>sé <SPA>cómo <SPA>se <SPA>llama <SPA>eso 
+<SPA>hay <SPA>al <SPA>frente San José mongemen
+ pital  <SPA>del <SPA>cáncer
+C: 
+
+nmlch-nmsca1_x_0143_nmlch_00: 
+M: ¿Chewmu müli tüfichi ka tripa che ñi l'awen'tuchefe ti chuchi wariamu?
+C: Donde hay este extraño gente sun remedio medico de ciudad
+
+nmlch-nmsca1_x_0144_nmsca_00: 
+M: Santiaw 
+C: Santiago
+
+nmlch-nmsca1_x_0145_nmlch_00: 
+M: Santiaw
+C:  Santiago
+
+nmlch-nmsca1_x_0146_nmlch_00:
+M: Uyu fey l'awen'tuvimi 
+C:  Alla si remedio tuve
+
+nmlch-nmsca1_x_0147_nmsca_00: 
+M: Uyu l'awen'tumen uyu mongemen 
+C:  Alla remedio recibi  alla vivi de nuevo
+
+nmlch-nmsca1_x_0148_nmlch_00:
+M: ¿Tunten tripantu mülepuymi tunten antü mülepuymi anta l'awen'tukelu eymi?
+C:  Cuanto año estubo cuanto dia estuvo ud remedio apropiado ud
+
+nmlch-nmsca1_x_0149_nmsca_00:
+M: Küyen pun welu amulnien meli tripantu 
+C:  Meses si pero llevo cuatro años
+
+M: <SPA>oséa epe küla tripantu amulnien 
+C: o sea casi tres años llevo
+
+M: <SPA>ahora <SPA>el <SPA>veinte <SPA>de <SPA>julio
+C:  ahora el veinte de julio 
+
+M: entre <SPA>dos <SPA>año <SPA>y <SPA>medio pu 
+C:  entre dos años y medio pues
+
+M: <SPA>y <SPA>ahora <SPA>oséa <SPA>en <SPA>dos <SPA>años 
+C:  y ahora o sea en dos años
+
+M: <SPA>do <SPA>año <SPA>y <SPA>medio fey tüfa  amulnien
+C:  dos años y medio si ahora llevo
+
+M: pa <SPA>los <SPA>tres 
+C: para los tres
+
+nmlch-nmsca1_x_0150_nmlch_00:
+M: Küla tripantu 
+C: tres años
+
+nmlch-nmsca1_x_0151_nmsca_00: 
+M: <SPA>Ahora <SPA>el <SPA>veinte <SPA>de <SPA>julio
+C:  ahora el veite de julio
+
+M: vey kompletan küla tripantu ñi mongemen 
+C:  si complete los tres años de vivir
+
+nmlch-nmsca1_x_0152_nmlch_00: 
+M: Ah 
+C:  Ah 
+
+nmlch-nmsca1_x_0153_nmsca_00:
+M: Veymu mongemen 
+C: Por eso vivi
+nmlch-nmsca1_x_0154_nmlch_00:
+M: Münale chi kay ¿vey welu chumuechi anta l'awen'tungimi tüfi
+C: Increible  ------------ pero como es remedio recibio si
+
+M: kimimi fey chumuechi tami l'awen'tungen fey? 
+C: supo ud como su remedio recibido es
+
+nmlch-nmsca1_x_0155_nmsca_00: 
+M: <uh> Vemuechi pelotuniengen müten veyta rayomu pelotuniengen
+C:  Asi examen siempre esta rayo examina
+
+M: vey peñmangen veyta akuy tañi mollfüñ kom chemngen 
+C:  me encontraron asi llego mi sangre todo lo que tiene
+
+M: vey kom pelotungen <SPA>por <SPA>rayo 
+C:  todo examen por rayo
+
+nmlch-nmsca1_x_0156_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0157_nmsca_00:
+M: Veyta mülepuy ta kom kañpüle mülepuy <SPA>ese pital
+C: Llevo todo llevo llevo al hospital
+
+M: <SPA>buena <SPA>plata nentuki ta <SPA>médico vey  
+C:  buena plata saca medico si 
+
+nmlch-nmsca1_x_0158_nmlch_00:
+M: Femllimay chi 
+C:  Asi es
+
+nmlch-nmsca1_x_0159_nmsca_00: 
+M: <SPA>No'y'que püta wewi 
+C:  no y que harto gano
+
+M: vey nentuñmanu kutran pu
+C: me saco la enfermedad pues
+
+nmlch-nmsca1_x_0160_nmlch_00:
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0161_nmsca_00: 
+M: Nentuñmanu pu feyta femuechi mongemen Santiaw 
+C:  Me saco pues hasta asi vivi Santiago
+
+M: tañi pu chesküy lletuenu 
+C:  mi nieto llevome
+
+nmlch-nmsca1_x_0162_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0163_nmsca_00:
+M: Temuko <SPA>me <SPA>recogierón kapalayngün Temuko 
+C: 
+
+M: vey llengen Santiaw vey mongemen  
+C: llegue a Santiago si vivi de nuevo
+
+nmlch-nmsca1_x_0164_nmlch_00:
+M: ¿Chem pingimi Temuko puulu eymi?
+C: que dijeron Temuco llego ud
+
+nmlch-nmsca1_x_0165_nmsca_00: 
+<uh> 
+
+nmlch-nmsca1_x_0166_nmlch_00:  
+M: Chumuechi anta llowngimi 
+C: Asi lo recibieron
+
+nmlch-nmsca1_x_0167_nmsca_00:
+M: Küme llowngen welu <SPA>faltaba  <SPA>faltaba <SPA>plata pu 
+C:  Bien recibieron faltaba faltaba plata pues
+
+M: falatavuy ta <SPA>plata faltavuy rume vali chi küdaw pingen
+C:  falataba plta faltaba mucho el trabajo me dijeron
+
+M:  veyta <Noise> vey llengen Santiaw vey doy elungen <SPA>apoyo
+C:entonces llegue Santiago
+
+M: veyta doy afkadiyawlengen 
+C: entonces siempre me acompañaron
+
+M: fey doy afkadiawlngen pu 
+C: entonces siempre me acompañaron pues
+
+nmlch-nmsca1_x_0168_nmlch_00: 
+M: Ah 
+C:Ah 
+
+nmlch-nmsca1_x_0169_nmsca_00: 
+M: Faw püle pinengen veyta vamuechi vamuechi mongeaymi tüfa 
+C: Aquí entre dijeron por eso por eso viviras ahora
+
+M: vey dungutu puli ñi pu afkadi pu 
+C: hable los acompañantes pues
+
+nmlch-nmsca1_x_0170_nmlch_00: 
+M: Ah 
+C:Ah 
+
+nmlch-nmsca1_x_0171_nmsca_00: 
+M: Fey ta llafüngi llafüngi <SPA>doctor veymu ta mongen 
+C: Si confia confia doctor por eso va vivir
+
+nmlch-nmsca1_x_0172_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0173_nmsca_00: 
+M: Veymu mongemen 
+C:Por eso va a vivir 
+
+nmlch-nmsca1_x_0174_nmlch_00: 
+M: ¿Temuko fey tüfi <uh> doy falirki chi küdaw?
+C: Temuco si ese mas vale el trabajo
+
+nmlch-nmsca1_x_0175_nmsca_00: 
+M: Doy falivuy vey pepingelay
+C:  Si valia mas dificil
+
+M:  ka pu newe küme ngelay <SPA>máquinaria 
+C: tambien no sanaba maquina
+
+M: vey chumngen chumngen mülekelu ngelay pu 
+C:
+
+nmlch-nmsca1_x_0176_nmlch_00: 
+M: Ngelay may 
+C: No hay
+
+nmlch-nmsca1_x_0177_nmsca_00: 
+M: <uh> Santiagu ta müley <SPA>mucho <SPA>mas <SPA>comodidad 
+C: 
+
+M: vey vemuechi doy küme itrofill müli pu 
+C: asi mas bueno todo hay pues
+
+nmlch-nmsca1_x_0178_nmlch_00: 
+M: ¿Uyu feyti puwimi ka?
+C: Alla ese llegabas
+
+nmlch-nmsca1_x_0179_nmsca_00: 
+M: Vey uyu puwün 
+C: Si alla llegue
+
+nmlch-nmsca1_x_0180_nmlch_00: 
+M: Yenimi ta kom tami <SPA>papel  wiri
+C: Lleva todo su papel escrito
+
+nmlch-nmsca1_x_0181_nmsca_00: 
+M: Kom yenien vey vemuechi 
+C: Todo llevo si asi es
+
+M: <SPA>pero küdawtupun pichin
+C: pero trabaje poco
+
+ M: <SPA>porque <SPA>como <SPA>yo <SPA>no  <SPA>fui <SPA>na'
+C:  porque como yo no fui
+
+M:  <SPA>trasladao <SPA>para <SPA>allá trasladangelan 
+C: traslado para alla no me trasladaron
+
+M: veyta vemuechi kidu llengepan amuyu müten 
+C: asi solo me llevaron vamos
+
+M: vey llowmongeaymi tati pingen 
+C: recibir sanidad me dicen
+
+M: feyta <SPA>dos <SPA>millones <SPA>de <SPA>peso kobrangelavun küdawmu 
+C:  este dos millones de pesos me cobraron trabajo
+
+nmlch-nmsca1_x_0182_nmlch_00: 
+M: <uhm> ¿Chem pingeki <SPA>dos <SPA>millones <SPA>de <SPA>peso mapudungunmew?
+C: Que dijeron dos millones de peso
+
+nmlch-nmsca1_x_0183_nmsca_00: 
+M: Epu, epu waranka peno 
+C: Dos, dos millones dice
+
+nmlch-nmsca1_x_0184_nmlch_00: 
+M: Ah fenten ta falifuy tami küdaw 
+C: 
+
+nmlch-nmsca1_x_0185_nmsca_00: 
+M: <SPA>Sí fente falivuy ñi küdaw epu, epu waranka peno falivuy tati 
+C:  Tanto vale mi trabajo veinti dos mil vale si
+
+nmlch-nmsca1_x_0186_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0187_nmsca_00: 
+M: Rume falivuy ñi küdaw re <SPA>platamu <SPA>no am mongelu mongeki 
+C:  Harto vale mi trabajo dinero bien vivio vive
+
+nmlch-nmsca1_x_0188_nmlch_00: 
+M: Fempellemay chi 
+C: Asi es no mas
+
+nmlch-nmsca1_x_0189_nmsca_00: 
+M: Chalintukungi tüfa veyta müley pingi 
+C:  Recomendable ahora esto hay dicen
+
+M: veyta vemuechi 
+C:  asi es
+
+nmlch-nmsca1_x_0190_nmlch_00: 
+M: ¿Chem pingefuy anta tami kutran eymi tüfi? 
+C: Como se llama su enfermedad su este
+
+M: <SPA>cáncer <SPA>al <SPA>hueso 
+C:  cancer al hueso
+
+nmlch-nmsca1_x_0191_nmsca_00: 
+M: <SPA>Cáncer <uh> <SPA>cómo <SPA>que <SPA>se <SPA>llama 
+C: Cancer como que se llama
+
+M: <SPA>el <SPA>cáncer <SPA>éste <SPA>ésto <SPA>saben <SPA>oye
+C: el cancer este esto saben oye
+
+nmlch-nmsca1_x_0192_nmlch_00: 
+M: <SPA>Ahora <SPA>siga <SPA>cáncer pingefuy tami kutranürke tüfi 
+C: Ahora siga cancer se llama su enfermedad este
+
+nmlch-nmsca1_x_0193_nmsca_00: 
+M: <SPA>Cáncer <SPA>cáncer nivun ta 
+C: cancer cancer tenia
+
+nmlch-nmsca1_x_0194_nmlch_00: 
+M: ¿Fey chem chi ta <SPA>cáncer chumuechi ta kimngeki ñi káncerngen? 
+C: Se que sera cancer como se conoce el cancer
+
+M: ¿chumuechi chi pengi chem anta kutranki káncermew?
+C:  com se dice que se enferma cancer
+
+nmlch-nmsca1_x_0195_nmsca_00: 
+M: <Noise> <uh> -/af/- afki mollfüñ pu  
+C: 
+
+nmlch-nmsca1_x_0196_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0197_nmsca_00: 
+M: Afi chi afkontu meki vey newengewelay che 
+C:  Cansancio tiene fuerza no le queda persona
+
+M: vey trekawekelay vey
+C:  para caminar si
+
+nmlch-nmsca1_x_0198_nmlch_00: 
+M: ¿Ey anta cáncer?
+C:  asi es cancer
+
+nmlch-nmsca1_x_0199_nmsca_00: 
+M: Fey <SPA>el <SPA>cáncer pu 
+C: 
+
+nmlch-nmsca1_x_0200_nmlch_00: 
+M: Ah fey 
+C:  Ah
+
+nmlch-nmsca1_x_0201_nmsca_00: 
+M: De apoco konal amu kongi müten <SPA>porque l'awen'gelay <SPA>eso pu 
+C:  De a poco avanza rapido porque remedio no hay
+
+nmlch-nmsca1_x_0202_nmlch_00: 
+M: L'awen'gelay may 
+C:  Remedio no hay
+
+nmlch-nmsca1_x_0203_nmsca_00: 
+M: <uhm> L'awen'gelay 
+C:  Remedio no hay
+
+nmlch-nmsca1_x_0204_nmlch_00: 
+M: ¿Mollfüñ may feyürke ñi 
+C: Sangre si asi es
+
+nmlch-nmsca1_x_0205_nmsca_00: 
+M: Afki ñi mollfüñ<Noise> 
+C: Acaba su sangre
+
+nmlch-nmsca1_x_0206_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0207_nmsca_00: 
+M: Afki ñi mollfüñ kay ta elungen 
+C: Acaba su sangre la sangre
+
+M: vey <SPA>ocho <SPA>bolsita pura elungen 
+C:  si ocho bolsita me dieron
+
+M: re <SPA>bolsita elungen mollfüñ veymu ta püd püdi 
+C:   bolsita me dieron sangre por eso
+
+nmlch-nmsca1_x_0208_nmlch_00: 
+M: ¿Ey tukulelngetuymi mollfüñ?
+C:  le pusieron sangre (o transfireron)
+
+nmlch-nmsca1_x_0209_nmsca_00: 
+M: Tukulelngetun mollfüñ fey Ngillatuñmawtun kidu 
+C:  Me pusieron sangre me encomende solo
+
+M: fey vemuechi kidu <%>  meli küla <SPA>bolsita elungen wüne 
+C: asi solo cuarenta y tres bolsita como priemero
+
+M: feyta Ngillatuñmavi fey rangi punman 
+C: esto rogativa media noche
+
+nmlch-nmsca1_x_0210_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0211_nmsca_00: 
+M: <SPA>De <SPA>las <SPA>seis <SPA>de <SPA>la <SPA>tarde tukulelngen 
+C:  De las seis de la tarde
+
+M: vey rangipunman fey füskü puwi vey vamkevin 
+C: media noche se hizo frezcura llego entonces hago
+
+M: fey vemuechi amuli,amuli vey chemün füskü püraki 
+C: asi va va reacciona refresca sube frescura
+
+nmlch-nmsca1_x_0212_nmlch_00: 
+M: Mollfüñ ti
+C: Sangre si
+
+nmlch-nmsca1_x_0213_nmsca_00: 
+M: Mollfüñ
+C: Sangre
+
+nmlch-nmsca1_x_0214_nmlch_00: 
+M: ¿Uutuy piwkemu tüfi?
+C: Llego corazon este
+
+nmlch-nmsca1_x_0215_nmsca_00: 
+M: Puutuy ka fey vemuechi ngillatuñmavin <SPA>hasta rangi pun 
+C:  Llego entonces asi hice oracion media noche
+
+M: vey <SPA>de <SPA>repente libreyen afi kom rumey ti küla 
+C: asi de repente acabo todo paso a tres
+
+nmlch-nmsca1_x_0216_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0217_nmsca_00: 
+M: <SPA>Depue ka elungen küla vey operalu ka elungen 
+C: 
+
+nmlch-nmsca1_x_0218_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0219_nmsca_00: 
+M: Re vemuechi elunengen vey ka elungen veykavemuechi pura puulen 
+C: Asi me dieron me dieron asimismo
+
+nmlch-nmsca1_x_0220_nmlch_00: 
+M: ¿Ura pichike karpa mollfüñ?
+C: Pequeña bolsa de sangre
+
+nmlch-nmsca1_x_0221_nmsca_00: 
+M: Ka mollfüñ pu veyta vemuechi adonalgen ta 
+C: La sangre esta asi donaron 
+
+M: vemuechi elunengen <uhm> vemuechi mongen 
+C: asi me dieron asi vida
+
+nmlch-nmsca1_x_0222_nmlch_00: 
+M: ¿Chumuechi chi trapomngi feyti chi mollfüñ ti?
+C: Asi alcanzo
+
+nmlch-nmsca1_x_0223_nmsca_00: 
+M: Vey pedingi pu ta inche ta pedivin ta 
+C: Si pidio yo pedi
+
+M: pu wen'i mülepuy ta <SPA>gente <SPA>sureña feyta elungen uyu 
+C: los amigo estaban gente sureña me dieron alla
+
+nmlch-nmsca1_x_0224_nmlch_00: 
+M: <Noise> ¿ Tami pu peñi tüfi?
+C:  sus amigos ellos
+
+nmlch-nmsca1_x_0225_nmsca_00: 
+M: Pu peñi
+C:  
+
+nmlch-nmsca1_x_0226_nmlch_00: 
+M: Ah maneluwimi -/af/-
+C: Ahconfio
+
+nmlch-nmsca1_x_0227_nmsca_00: 
+M: Maneluwun veyta 
+C: Confie
+
+nmlch-nmsca1_x_0228_nmlch_00: 
+M: Reküluwimi 
+C: Confio
+
+nmlch-nmsca1_x_0229_nmsca_00: 
+M: <SPA>Sí chemfiñengün Trif-Trifko Pangiko
+C: Si atendi Trif - Trifko Pangiko
+
+ M: <uh> Trif-Trifko Pangiko puwiengün Trawükiyi vey vey elupuenuengün 
+C:  Trif -  Trifko Pangiko llegaron juntaron me regalaron
+
+nmlch-nmsca1_x_0230_nmlch_00: 
+M: Ah fey tami wüño witrapüratual
+C: AhSi ud
+
+nmlch-nmsca1_x_0231_nmsca_00: 
+M: <SPA>Sí <SPA>sí wüñoltunual pu
+C:  
+
+M:  vey aretun wüne aretun 
+C:  consegfui primero
+
+M: vey müley ta arelngen fey wüñoltuken 
+C: hay me presentaron pero devuelvo
+
+M: veyta <SPA>por <SPA>teléfono faw püle pifiñ 
+C:  entonces por telefono ahora pues hermano
+
+M: tañi pu wen'i vemuechi velen tüfa vey veyta pemenuengün
+C: mi hermano asi ahora si
+
+M:  veyta -/eluen/- wüñoleltuenu mollfüñengün 
+C: me dio devolvio sangramiento
+
+nmlch-nmsca1_x_0232_nmlch_00: <uhm> 
+
+nmlch-nmsca1_x_0233_nmsca_00: 
+M: Vemuechi Trif-Trifkanu Trawkiye, 
+C: Por eso
+
+M: Pangiko ñi ñi traf mollfüñ -/elu/- wüñoleltuenu 
+C:            mi mi sangre me devolvio
+
+nmlch-nmsca1_x_0234_nmlch_00: 
+M: Ah feymu newentutuymi 
+C:  AhPor eso fuerza cobraste
+
+nmlch-nmsca1_x_0235_nmsca_00: 
+M: Feymu newentutun 
+C:  Por eso fuerza tengo
+
+nmlch-nmsca1_x_0236_nmlch_00: 
+M: Wikürngimi 
+C:  
+
+nmlch-nmsca1_x_0237_nmsca_00: 
+M: <SPA>Sino falintungelavun pu
+C:  No me valoraron pues
+
+ M: <SPA>sino falintungelavun rume kümewen'i 
+C:  no me valoraban mucho buen amigo
+
+M: rume niavuy Santiagu wingka 
+C:  siempre tendira Santiago no mapuche
+
+M: ta vemuechi fürenetu fürenetulavimu ka 
+C: asi apoyo no apoyaste
+
+nmlch-nmsca1_x_0238_nmlch_00: 
+M: Fempellemay chi peñi fempellemay chi 
+C: Debe haber hecho hermano debe haber hecho
+
+nmlch-nmsca1_x_0239_nmsca_00: 
+M: Fürene fürenetulavimu veyyta rume küme <SPA>plata <%> 
+C: Apoyo no apoyaste esta harto bueno
+
+M: veyta vemuechi wüñole, wüñoleltuafeymu 
+C: asi es devolver devolveras
+
+nmlch-nmsca1_x_0240_nmlch_00: 
+M: Fempellemay chi 
+C: Asi va hacer
+
+nmlch-nmsca1_x_0241_nmsca_00: 
+M: Arelafeymu ka 
+C: Prestara de
+
+nmlch-nmsca1_x_0242_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0243_nmsca_00: 
+M: <SPA>Pero tunte rume küme kuyiafuymi pikelayngün pu <Noise> 
+C:  Pero cuanto harto pagarias
+
+M: feyta <SPA>gente <SPA>sureño feyta, feyta 
+C: 
+
+nmlch-nmsca1_x_0244_nmlch_00: 
+M: Puuluwi 
+C:
+
+nmlch-nmsca1_x_0245_nmsca_00:
+M: Puuluwi pu Trif-Trifko Pangiko Trawkiye 
+C: 
+
+nmlch-nmsca1_x_0246_nmlch_00: <uhm> 
+
+nmlch-nmsca1_x_0247_nmsca_00: 
+M: Veyta eluenu mollfüñengün feymu ta mongen tati 
+C: Esta dono sangre ello por eso la vida
+
+nmlch-nmsca1_x_0248_nmlch_00:
+M: Mongey tami <SPA>cáncer 
+C: Vivio su cancer
+
+nmlch-nmsca1_x_0249_nmsca_00: 
+M: Mongey tañi <SPA>cáncer mongen 
+C:  Vivio cancer vida
+
+nmlch-nmsca1_x_0250_nmlch_00: 
+M:Fey <SPA>depue dew kutrankatukimi dew rupalu <SPA>cáncer tüfi 
+C: Asi despues ya sufria mucho ya paso cancer este
+
+nmlch-nmsca1_x_0251_nmsca_00: 
+M: Feyta tüa ka amutuken vey elungen <SPA>el <SPA>otro <SPA>día chemün 
+C: Esta --------- me voy me donan el otro dia
+
+M: vey <Noise>  kechu mari kechu elungen <SPA>inyecciones müleputuken chumul 
+C: asi cinco diez cinco dono inyecciones 
+
+nmlch-nmsca1_x_0252_nmlch_00: 
+M: ¿Ari kechu <SPA>inyecciones elungimi?
+C: 
+
+nmlch-nmsca1_x_0253_nmsca_00: 
+M: May fey tukulelngen ka tukulelngen tüfa 
+C:  Si me colocaron me colocaron ahora
+
+M: veyta ka newentuñmangi ñi mollfüñ newentuñmangi ñi foro
+C:       fuerza cobro la sangrefuerza cobro los huesos 
+
+ M: küme miawal küme trekal 
+C:  buen pasar buen caminar
+
+nmlch-nmsca1_x_0254_nmlch_00: 
+M: ¿Tunten <SPA>indección tukulelngimi antümu tüfey?
+C:                      inyeccion en el dia esos
+
+nmlch-nmsca1_x_0255_nmsca_00: 
+M: Kiñe küla 
+C: Uno tres
+
+nmlch-nmsca1_x_0256_nmlch_00: 
+M: Küla 
+C:  Tres
+
+nmlch-nmsca1_x_0257_nmsca_00: 
+M: Küla pichike votilla elungen vamuechi elungen antümu 
+C: Tres pequeño botella cualquiera asi cualquiera dia
+
+M: fey <SPA>día <SPA>por <SPA>medio elungen <SPA>tolodía tukulelkelan 
+C: 
+
+nmlch-nmsca1_x_0258_nmlch_00: 
+M: Fillantü <SPA>no 
+C:  
+
+nmlch-nmsca1_x_0259_nmsca_00: 
+M: Fillantü <SPA>no pu  ru wellkünuken kiñe antü 
+C:  Todavia no msaldo ningun dia
+
+M: vey ka antümu ta elungen <Noise> 
+C: este dia cualquiera
+
+nmlch-nmsca1_x_0260_nmlch_00: 
+M: Fey wüla feytika tukulelngi l'awen' ka 
+C: Asi ahora tambien aplican remedio
+
+nmlch-nmsca1_x_0261_nmsca_00: 
+M: Ka tukulelngen l'awen' 
+C: Le aplica remedio
+
+nmlch-nmsca1_x_0262_nmlch_00:
+M:  <uhm> Tami ka llafükontuam tami <SPA>cáncermu tüfi cáncermu 
+C:  Su fortaleza su cancer 
+
+nmlch-nmsca1_x_0263_nmsca_00: 
+M: Fey llafükontuam vey kom kom foro kom llafükontuam 
+C: Para fortaleza todo todo hueso todo fortaleza
+
+M: vey vemuechi ta newenmangen
+C:  asi es fuerza recibi
+ 
+M: ta ngillalngelan fey tañi miawal ka 
+C: me compararon mi andar 
+
+nmlch-nmsca1_x_0264_nmlch_00: <uhm> 
+
+nmlch-nmsca1_x_0265_nmsca_00: 
+M: Feyta petu filangelan tüfa
+C:  Esta todavia ahora
+
+M: fey tüfa <SPA>el <SPA>treinta <SPA>y <SPA>uno <SPA>marzo
+C:  
+
+ M: <SPA>treinta <SPA>y <SPA>dos <SPA>treinta <SPA>y <SPA>cuatro <SPA>
+C:
+
+M: vey <SPA>oséa <SPA>sesenta <SPA>y <SPA>cuatro
+C: 
+
+nmlch-nmsca1_x_0266_nmlch_00: 
+M: May 
+C: Si
+
+nmlch-nmsca1_x_0267_nmsca_00: 
+M: Fey wüla küdawlelayu pi ta <SPA>doctora
+C: Si ahora no trabajamos dijo doctora
+
+nmlch-nmsca1_x_0268_nmlch_00: 
+M: Kayu mari meliam
+C: Sesenta estoy
+
+nmlch-nmsca1_x_0269_nmsca_00: 
+M: May 
+C: Si
+
+nmlch-nmsca1_x_0270_nmlch_00:
+M: Tripantu 
+C:
+
+nmlch-nmsca1_x_0271_nmsca_00: 
+M: Meli tripantu <Noise> 
+C: Cuatro años
+
+nmlch-nmsca1_x_0272_nmlch_00: <uhm> 
+
+nmlch-nmsca1_x_0273_nmsca_00: 
+M: <Noise> Tüfa tüfachi <Noise> 
+C: 
+
+nmlch-nmsca1_x_0274_nmlch_00:
+M:  <Noise> Ah <Noise> 
+C: Ah 
+
+nmlch-nmsca1_x_0275_nmsca_00:
+M:  <Noise> Veyta ka amutuan tüfa 
+C:  Si ya me voy ahora
+
+M: vey <%> ngañko püdalmi pürüm kodeaymi pingen <Noise> 
+C:  si siente mal rapido estaria mal ------------
+
+M: veyta vemuechi miawün <Noise> 
+C:  si es anduve
+
+nmlch-nmsca1_x_0276_nmlch_00: 
+M: Kutrankawunmu 
+C:  Sufrimiento 
+
+mlch-nmsca1_x_0277_nmsca_00: 
+M: Utrankawunmu <Noise> fey küme <SPA>siempre duamtunengen tüfa 
+C: Sufrimiento es bueno siempre sugirieron ahora
+
+M: vey incheam nien vey ñi iglesiaürke nien tüfa 
+C:  si yo tambien sin como iglesia tengo ahora
+
+M: vey Ngillatukiñ tüfa kutrankawkiñ peñiwen 
+C:  rogamos ahora sufrimos hermano
+
+M: fey pingen <Noise> feyta vemuechi <SPA>adelante triparpun tati 
+C:  si dicen esta asi adelante salio adelante si
+
+M: ñi kutranmu feyta rume kelluenu vey fücha chaw 
+C:  su enfermedad es harto ----------- su gran padre
+
+M: veyta kidungenovule kuyfingeavuy ñi püdingetun <Noise> 
+C:  esta solamente antiguamente dignamente
+
+nmlch-nmsca1_x_0278_nmlch_00: 
+M: Kidukunulaymu kidukunulaymu
+C: Solamente solamente 
+
+nmlch-nmsca1_x_0279_nmsca_00: 
+M: Kidu kidukunulanew veyta vemuechi pepakenu machi tüfa 
+C:  Solo solamente este alcanza machi ahora
+
+M: veyta Ngillatukiyiñ nütramkawkiyiñ tüfachi kuñival ano chum püdale 
+C:  
+
+M: rume chem antü veyta ngewelay pingefuy tati femuechi allekakiñ
+C: bien que dia esta queda dijeron asi aprendieron
+
+nmlch-nmsca1_x_0280_nmlch_00: 
+M: May 
+C: Si
+
+nmlch-nmsca1_x_0281_nmsca_00: 
+M: <SPA>No'y'que püta kuyvi tüviluam inche tüfachi, 
+C: No que hace tiempo pasado yo presente
+
+M: tüfachi küdaw vemuchi longkontukuletupan püta kuyfi 
+C: este trabajo asi entrante gran enemigo
+
+M: dewma doy küla mari tripantu amulnien 
+C: 
+
+nmlch-nmsca1_x_0283_nmsca_0086_nmlch_00: 
+M: Doy küla mari tripantu 
+C:
+
+nmlch-nmsca1_x_0284_nmsca_00: 
+M: Vey veyta vemuechi nünien <Noise> vemuechi chemukin tati 
+C:
+
+M: nütramkawkiñ peñireke vey Ngillatukiyiñ rulpakiñ dungu trürüwkiñ 
+C:
+
+M: vey vemuechi nentukiñ
+C:
+
+nmlch-nmsca1_x_0285_nmlch_00: 
+M: Femkellimün may femkellimün may 
+C:
+
+nmlch-nmsca1_x_0286_nmsca_00: 
+M: Veyta tüfa nietun ka kiñe afkadi 
+C: Esta ahora tengo un ayudante
+
+M: veyta kelluatew nütrammu ano ketropüdali siemprenga müleki nga 
+C:
+
+M: chem dungu mülinga <%> vey ketroki tati che 
+C:
+
+1_x_0288_nmsca_0090_nmlch_00: 
+M: Femkillimay che fey?
+C: Asi es
+
+nmlch-nmsca1_x_0289_nmsca_00: 
+M: Veyta rume kutrankawlekiñ tüfa nielaiñ machi 
+C: Este mucho enfermo grave ahora no tengo machi
+
+M: veyta amukiyiñ pekan  miawkiñ feyta kutranvuy tañi machi 
+C: este vayas cual anduvimos este casi enfermo esta machi
+
+M: vey <SPA>el <SPA>año <SPA>pasao may rume kutranvuy 
+C: asi el año pasado si mucho enferme
+
+M: veyta epeke troküvun feyta müli kiñe llankañ veyta llafülenew 
+C: casi me parece esta hay un ayudante me animo
+
+M: veyta vemuechi kutran rumerki ñi machi vey fachantü konkunumu
+C: este asi enfermedad mi machi hay es entrar
+
+nmlch-nmsca1_x_0290_nmlch_00: 
+M: May  
+C: Si
+
+nmlch-nmsca1_x_0291_nmsca_00: 
+M: Fey rrume kutranki llengi Alfarinu 
+C: Mucho enfermo llego Galvarino
+
+M: vey vemuechi <%> kolokañmakengen <SPA>indección 
+C: asi es ayudante descuidar
+
+M: vey treperumen <SPA>las <SPA>cinco <SPA>la <SPA>tarde 
+C: si diferente las cinco de la tarde
+
+M: vey <SPA>la <SPA>cinco puan inche pifiñ
+C: asi la cinco noche yo dije
+
+nmlch-nmsca1_x_0292_nmlch_00: 
+M: <SPA>Ya 
+C: Ya
+
+nmlch-nmsca1_x_0293_nmsca_00: 
+M:Vey kom eluwküliñ ñi pu che faw 
+C:  Todo le damos mi gente aqui
+
+M: kom listuleiñ  witralerpuy kanchamuengün 
+C: todo listo espero cancha para no molestar
+
+nmlch-nmsca1_x_0294_nmlch_00: 
+M: <SPA>Ya 
+C: Ya
+
+nmlch-nmsca1_x_0295_nmsca_00: 
+M: Ñi machi kutranküli pu 
+C: Mi machi sufrio doblemente
+
+nmlch-nmsca1_x_0296_nmlch_00: 
+M: Tüyu perkan 
+C: Alli vere
+
+nmlch-nmsca1_x_0297_nmsca_00: 
+M: Perkan epe ketro puvun vey <Noise> 
+C: Vere casi corto llegue
+
+M: vey veychi petu nielafiñ ñi afkadi
+C: asi es todavia no tengo mi ayudante
+
+M: vey nütramkawpetulaviñ faw vey feyta nievuy 
+C: 
+
+M: ta kiñe l'amuen'em chi pichi machi veyta veypieyu kutrankawaymi 
+C: un remediopqequeño este dejo sufri ---------
+
+M: ta <SPA>mamita <SPA>dijo 
+C: 
+
+M: veyta chumueluam nentulavimi tüfa <SPA>cacique <%> 
+C: como terminaste
+
+M: tüfa nentuavimi dungumu 
+C:  ahora vas a sacar asunto
+
+M: kom witraniepurki tañi pu che
+C: todo presenta su gente
+
+ M: ngillatuwemu pingen pi tachi ngen peñi veyta l'atuy tüfa
+C: lugar santo me dijeron hermano este enviudo ahora
+
+nmlch-nmsca1_x_0298_nmlch_00: 
+M: Femi may <Noise> 
+C: asi es
+
+nmlch-nmsca1_x_0299_nmsca_00: 
+M: L'atuy tüfa, tüfa pewkaw <SPA>hará <SPA>un <SPA>mes <SPA>no <SPA>más 
+C:
+
+M: chemletuy pingi 
+C: como sea dicen
+
+nmlch-nmsca1_x_0300_nmlch_00: 
+M: Minche mapuletuy
+C: debajo tierra
+
+nmlch-nmsca1_x_0301_nmsca_00: 
+M: Minche mapuletuy vey Santiaw mülepukevuy 
+C: Bajo tierra en Santiago estaba alla
+
+M: vey ngülami <%> <SPA>oséa ñi l'amuen' 
+C: si enseñan
+
+nmlch-nmsca1_x_0302_nmsca_00: 
+M: Feymu ta küpay 
+C: Por eso y vino
+
+nmlch-nmsca1_x_0303_nmlch_00: 
+M: ¿Fey eymi fey fente fente tami kutrankaletew
+C: Si ud si tanto tanto su sufrio
+
+M:  tüfichi chem ngelay tüfi l'awen' pingeki fey eymi ta monturkimi tüfi?
+C: este ahora no hizo nada el remedio dicen ud se salvo apenas este 
+
+nmlch-nmsca1_x_0304_nmsca_00: 
+M: Montun pu montun <SPA>gracia 
+C: salvar pues salvar
+
+nmlch-nmsca1_x_0305_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0306_nmsca_00:
+M: <SPA>a Dio  <SPA>por pital<SPA>oséa <SPA>del <SPA>cáncer 
+C: 
+
+nmlch-nmsca1_x_0307_nmlch_00: 
+M: ¿Ngelay l'awen' pingeki tüfi?
+C: No hay remedio dicen asi
+
+nmlch-nmsca1_x_0308_nmsca_00: 
+M: Ngelay l'awen' pingekevuy pu 
+C: No hay remedio decian
+
+nmlch-nmsca1_x_0309_nmlch_00: 
+M: Eymi 
+C: 
+
+nmlch-nmsca1_x_0310_nmsca_00: 
+M: Ngelay pu machimu ngelay ngelay ta 
+C: No hay en la machi no hay no hay
+
+nmlch-nmsca1_x_0311_nmlch_00: 
+M: Wingka tripa chemu wingkamu 
+C: No mapuche como wingka
+
+nmlch-nmsca1_x_0312_nmsca_00: 
+M: Ka, ka, ka tripa chemu müli pu 
+C: Tambien sale como hay pues
+
+nmlch-nmsca1_x_0313_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0314_nmsca_00: 
+M: Wingkamu müley pu <Noise>,
+C: Wingka tiene pues
+
+M:  <SPA>pero petu küdawngi pingela anchi 
+C: pero todavia trabajamos nos dicen
+
+M: veyta peken televisiónmu Santiaw 
+C: esto veo television Santiago
+
+M: vey witrapukevuy kiñe machi vey operachealu pingelama chi 
+C: si presenta una machi a operarse asi --------
+
+nmlch-nmsca1_x_0315_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0316_nmsca_00: 
+M: Mülealu ta l'awen' pingela anchi machimu itrofill mülerpualu pingeki
+C: Va haber remedio
+
+nmlch-nmsca1_x_0317_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0318_nmsca_00: 
+M: Veyta pew<%> 
+C: Esto veo
+
+nmlch-nmsca1_x_0319_nmlch_00:
+M: ¿Feytichi pütra kutran doy a'lü' kutrantukimi llowimi tami mongenmu kam doy?
+C:  Este estomago enfermedad mas grande sufria recibio su sanidad no mas
+
+nmlch-nmsca1_x_0320_nmsca_00: 
+M: <SPA>No kuyvi niekelan pu vey müten 
+C: Ante no tenia pues asi no mas es
+
+nmlch-nmsca1_x_0321_nmlch_00: 
+M: Ah <SPA>depue kay <SPA>depue rupalu tripantu antü 
+C: Ah                                 despues va pasando años
+
+M: ¿doy tulaymi kutran?
+C: no se contagio enfermedad
+
+nmlch-nmsca1_x_0322_nmsca_00: 
+M: <SPA>No doy tuwekelan 
+C: No me contagio
+
+nmlch-nmsca1_x_0323_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0324_nmsca_00: <uhm> 
+
+nmlch-nmsca1_x_0325_nmlch_00: 
+M: <SPA>Ya 
+C. Ya
+
+nmlch-nmsca1_x_0326_nmsca_00: 
+M: Veychi kutran müten püta püta <SPA>grande rupan 
+C: Esa enfermedad grande pase
+
+M: vey veyta Santiaw mongemen 
+C: si estas Santiago cobre vida o vivi 
+
+nmlch-nmsca1_x_0327_nmlch_00: 
+M: Ka mapu ka <Noise> 
+C: Muy lejos
+
+nmlch-nmsca1_x_0328_nmsca_00: 
+M: Ka mapu pu 
+C: Muy lejos
+
+nmlch-nmsca1_x_0329_nmlch_00:
+M: Cáncermu ka opital <SPA>del <SPA>cáncer mongemen <Noise> 
+C: Otra cosa hospital del cancer me mejore
+
+nmlch-nmsca1_x_0330_nmlch_00: 
+M: <Noise> Feychi püta kutran doy <SPA>cáncer müten doy a'lülutuki müten 
+C: Esa enfermedad cancerijena exigente
+
+nmlch-nmsca1_x_0331_nmsca_00: 
+M: <SPA>Sí 
+C: Si
+
+nmlch-nmsca1_x_0332_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0333_nmsca_00: 
+M: Fey, fey, fey püta kutran rulpan 
+C: Si si asi es grande enfermedad pase
+
+M: vey ka l'antun' kuyvinoam l'antun' 
+C: un lapso de tiempo hace mucho tiempo
+
+M: epu mari meli epu mari meli tripantu l'a l'antun' chumuel 
+C: veinti cuatro veinticuatro años pasado
+
+nmlch-nmsca1_x_0334_nmlch_00: 
+M: Epu mari meli tripantu dewma 
+C: Veinti cuatro años hace
+
+M: ¿chem kutranmu rupay tami kure kutranchengefuy tüfi?
+C: que enfermedad su esposa enfermiza es
+
+nmlch-nmsca1_x_0335_nmsca_00: 
+M: <SPA>No re feytimu wedake <Noise> wedake dungu müten mülelu 
+C: Ese cualquier cualquier cosa no mas
+
+M: veyta rume ütrürmangen veyta vemuechi amulmangen tañi domo 
+C: mucho --------------- asi descuidaron mi mujer
+
+M: küme küdawvewel kidu <Noise> rume inteligentevel 
+C: buen trabajo  solo bien inteligente era
+
+M: vey <Noise> tüfa rikuay pingen veyta vemuechi muntuñmangen tañi domo 
+C:             ahora va a ser rico me dicen asi se escapo mi mujer
+
+nmlch-nmsca1_x_0336_nmlch_00: 
+M: ¿Kutranürkeletuy üñfitungerki?
+C: Se enfermo con maldad
+
+nmlch-nmsca1_x_0337_nmsca_00: 
+M: Kutran ta iñfitungi  
+C: Enfermedad con maldad
+
+nmlch-nmsca1_x_0338_nmlch_00: 
+M: ¿Müli ta üñfituwun fill mongenmu perke tüfa?
+C: Existe la maldad vivir es dificil
+
+nmlch-nmsca1_x_0339_nmsca_00: 
+M: Müley pu 
+C: Asi es
+
+nmlch-nmsca1_x_0340_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0341_nmsca_00: 
+M: Müley pu feyta kuyfi <Noise> tüfa <Noise> kuyfi tañi mülen 
+C: Hay pues ante ahora ante siempre a existido
+
+M: ta feychi dungu ka feyta mülen müley <SPA>mundo müten 
+C: este asunto este hay mucho ante
+
+M: ta felepi ta dungu ka feyta müley ta ütrirwün
+C: asi este asunto esta hay envidia
+
+M: veyta rume kümelkaleay tüfa 
+C: no es bueno ahora
+
+M: fey <SPA>siempre ütrürniengeken veyta
+C: asi siempre me envidian
+
+nmlch-nmsca1_x_0342_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0343_nmsca_00: 
+M: Rume küme ko nien tüfa veyta eluwmekelan 
+C: Harto bien tengo ahora no pasa nada
+
+M: veyta <%> epe <SPA>casi <SPA>una <SPA>hectárea nielan müten
+C:                                                                                 no tengo nada
+
+M:  kiñe <Noise> <SPA>algo <SPA>natural 
+C: uno algo natural
+
+nmlch-nmsca1_x_0344_nmlch_00: 
+M: Ah 
+C:Ah 
+
+nmlch-nmsca1_x_0345_nmsca_00: 
+M: <Noise> Kuydakevin vey adünien ko 
+C: Lo cuido si manejo agua
+
+nmlch-nmsca1_x_0346_nmlch_00: 
+M: Felellemay che
+C: Asi es no mas
+
+nmlch-nmsca1_x_0347_nmsca_00: 
+M:Vey utrukoken vey itrofill nieken faw vey <%> ñi wentru pi veyta
+C: Si riego si de todo tengo ahora mi marido quizo esta
+
+nmlch-nmsca1_x_0348_nmlch_00: 
+M: ¿Feyta pichi ütrirniengimi? 
+C: Esta poco
+
+nmlch-nmsca1_x_0349_nmsca_00: 
+M: Ütrirniengeken rume ütrirngeken veychi dungumu 
+C: Me envidian mucho envidia este asunto
+
+nmlch-nmsca1_x_0350_nmlch_00: 
+M: ¿Feymu ürke, ürke üñfituñmangimi tami kure?
+C: Por eso le hicieron daño su esposa
+
+nmlch-nmsca1_x_0351_nmsca_00: 
+M: Veymu iñfituñmangen pu <SPA>muy rume wertera ngevuy 
+C: Por le haciendo daño muy huertera era
+
+M: vey wentru trukungi
+C:   un hombre igualaba
+
+ M: vey vemuechi iratukevuy eymi wentruürke vemekimi 
+C: por eso preguntaba ud como hombre asi era
+
+M: ta pingekeuy kuyfi veyta ütrirmangen tañi domoem 
+C: decian ante envidiaron mi mujer era
+
+M: veyta rume kutrankawun vey amulerpum 
+C: mucho sufri asi continuo
+
+M: vey tremümuviñfun ñi pichiken domo 
+C: si crecer pequeña hija
+
+M: veyta falintungelafuyürke welu rume falituy pu
+C:  no valoraban ahora si tene importancia
+
+ M: rume falintutuenuengün 
+C: bien importante es
+
+M: vey feyengün ta mongeltutuenu  
+C: ellos me revivieron
+
+nmlch-nmsca1_x_0352_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0353_nmsca_00: 
+M: Feyta platañmatuenew veyta vemuechi witratuenew 
+C:
+
+M: vey lletuenu Santiaguengü
+C: me llevo Santiago
+
+M:  vey miawlenew petu ñi femiawletuengün pu 
+C: me lleva pero me pasea pues
+
+nmlch-nmsca1_x_0354_nmlch_00: <uhm> 
+
+nmlch-nmsca1_x_0355_nmsca_00: 
+M: Vemuechi <Cough> 
+C: Asi es
+
+nmlch-nmsca1_x_0356_nmlch_00: 
+M: Fey -/kimi/- chumuechi kimfimi ñi üñfitungen tüfi
+C:                    como supo su daño o realidad o como descubrio
+
+ M: <Noise> pelay l'awen' pelotufalfimi?
+C: no encontro remedio lo mando a observar
+
+nmlch-nmsca1_x_0357_nmsca_00: 
+M: Pelotuvalvuiñ vey kintulvuiñ 
+C: Mande a oservar si le busque
+
+M: vey vemuechi <SPA>depue veypingetun 
+C:  ese es despues si me dijeron
+
+M: vey kintun pu 
+C:
+nmlch-nmsca1_x_0358_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0359_nmsca_00: 
+M: Kimtuy ñi pu <SPA>vecino müten küdawlerkenew 
+C: Busque mi vecino no mas me trajo
+
+M: vey kiñe füta intitunmu kiñe utungepan 
+C:     una gran comida me invitaron
+
+M: vey <SPA>cuando <SPA>está <SPA>la <SPA>mala <SPA>suerte
+C:  asi cuando esta la mala suerte
+
+ M: chemkerkelay rume ta chem 
+C:  no se cuenta nada
+
+nmlch-nmsca1_x_0360_nmlch_00: 
+M: Puamkelay 
+C: No se imagina
+
+nmlch-nmsca1_x_0361_nmsca_00: 
+M: Puamkerkelay pu vey vemuechi pengepakevun
+C: No imagina asi me visitaban
+
+M: vem pultrunuiñ <Noise> mekekevun <SPA>por <SPA>ahí <SPA>cerquita
+C:  Me colgue hacia por ahí cerquita
+
+nmlch-nmsca1_x_0362_nmlch_00: 
+M: <SPA>Ya <Noise> 
+C: Ya
+
+nmlch-nmsca1_x_0363_nmsca_00: 
+M: Küpakevuy vaw maluürke pengepakevun piam  
+C: 
+
+M: re <%>  vey <SPA>depue wüla l'atuynga ñi domo tüfa wüla tripatuy pu 
+C:
+
+nmlch-nmsca1_x_0364_nmlch_00: 
+M: Ah 
+C: Ah
+
+nmlch-nmsca1_x_0365_nmsca_00: 
+M: <SPA>Pero aftuy ngewetulayngün 
+C: Pero se terminaron no existen
+
+M: tati kom kastikawtuyngün veyta, 
+C: esto todo tiene castigo asi
+
+M: veyta rumey ñi rume kuñvalkeavun 
+C: 
+
+M: vey inche ta füchalureke felevun petu füchalan 
+C: yo como viejo estoy pero es o estoy viejo 
+
+nmlch-nmsca1_x_0366_nmlch_00: 
+M: Felellemay chi peñi felellemay che
+C: Asi es hermano asi es gente
+
+nmlch-nmsca1_x_0367_nmsca_00: 
+M: <SPA>Pero rume kutrankavun 
+C: pero harto sufri
+
+M: terminavun veyta umawtukelavun 
+C: acabado estoy no dormia
+
+M: veyta rume pensakevun re felerpukevun tati peñi 
+C: hsarto pienzo asi paso mi hermano
+
+nmlch-nmsca1_x_0368_nmlch_00: 
+M: Dangerkimi may ti 
+C: Secreto le hicieron
+
+nmlch-nmsca1_x_0369_nmsca_00: 
+M: Dangen pu 
+C: Secreto pues
+
+nmlch-nmsca1_x_0370_nmlch_00: 
+M: Femuechi puruñmangimiürke tüfi 
+C: Asi celebraron pues
+
+nmlch-nmsca1_x_0371_nmsca_00: 
+M: Puruñmangnen tüfa vemuechi ta mülerki 
+C: Celebrar ahora asi existe
+
+M: ta wedake dungu kullitungi machi 
+C: mala xistencia la pagan la machi
+
+M: veyta vemuechi  witratuin vemuechi miawlngen 
+C: por eso levantamos asi continuo
+
+nmlch-nmsca1_x_0372_nmlch_00: 
+M: Yelelmangepi <SPA>ropa chem chi chumuechi chi ti pepikalngi 
+C:  Le llevaron ropa que como le hicieron
+
+nmlch-nmsca1_x_0373_nmsca_00: 
+M: <SPA>Sí tuñmangi -/rup/- <SPA>ropa datuñmangi pu <SPA>no'yque' 
+C: Si acertaron ropa hicieron oracion
+
+M: rume inteligente ngevuy kidu veu rume küdawkevuy sanchu trapelnekevuiñ 
+C: muy inteligente solo mucho trabajo  ---------------------- amarrado tenia
+
+M: ta nialu <SPA>de <SPA>cualquier <SPA>manera niekerkelam 
+C: para tener de cualquier manera debe tener
+
+M: veyta nienoalu ta niekelay <SPA>nada pu 
+C: el que no va a tener nada tiene
+
+nmlch-nmsca1_x_0374_nmlch_00: 
+M: fempellemay che
+C: Asi es la gente
+
+nmlch-nmsca1_x_0375_nmsca_00: 
+M: Niekelay pu nielay ta <SPA>inteligencia 
+C: No tiene nada inteligencia 
+
+M: veyta Dio may ta elukepelayu kom trürkülevulin ta kom velelavuin kay 
+C:
+
+nmlch-nmsca1_x_0376_nmlch_00: 
+M: Femllimay che
+C: 
+
+nmlch-nmsca1_x_0377_nmsca_00: 
+M: Veyta müli ta ütrirwün welu ka 
+C:     Hay envidia pero
+
+
+nmlch-nmsca1_x_0378_nmlch_00: 
+M: Ah 
+C: Ah 
+
+nmlch-nmsca1_x_0379_nmsca_00: 
+M: Rume ta müli ütrirwün ka tüfa llemay 
+C: Siempre hay envidia ahora no mas
+
+M: tüfa veletun inche rikualu trokingeken
+C: ahora si estoy yo rico va se me dicen
+
+ M: vente küme veletuy pingeken
+C: esta muy bien dicen	
+
+ M: küdawmu müten veyta Dio elukenew 
+C: 
+1_x_0381_nmsca_0023_nmlch_00: 
+M: Ngünechen may 
+C: El ser supreme si
+
+nmlch-nmsca1_x_0382_nmsca_00: 
+M: Ngünechen elukenew veyta vemuechi Ngillatuken 
+C:  Ser supremo me da asi ruego
+
+M: tati vey ka epu tripantu witrapuken <Noise> 
+C: este dos años me levante
+
+M: vey vemuechi witrapuken Ngillatun 
+C:  asi es levanto lugar santo
+
+M: ta taküpalen chi tripantu küpalen 
+C: viene años rapido
+
+M: veyt aka witrapuan <SPA>si Dio <SPA>quiere
+C: es levatarse si Dios quiere
+
+nmlch-nmsca1_x_0383_nmlch_00: 
+M: Tüfachi tripantu may
+C: Este año si
+
+nmlch-nmsca1_x_0384_nmsca_00: 
+M: May tachi tripantumu ta<SPA>primavera küpalelu 
+C: Si este año primavera viene
+
+M: vey ñi <Noise> ka witratuain 
+C: 
+
+nmlch-nmsca1_x_0385_nmlch_00: 
+M: <Noise> Felellemay chi peñi felellemay chi 
+C: Asi es hermano si
+
+M: veyta wedake dunguam mülekelu tüfa mapumu itrofill dungu 
+C: esta mala noticia hay ahora    ------------  Tierra
+
+M: ta montulelay che ka 
+C: nadie esta a salvo
+
+nmlch-nmsca1_x_0386_nmsca_00: 
+M: Feley pu 
+C: Asi es
+
+nmlch-nmsca1_x_0387_nmlch_00: 
+M: Weda dungumu ta konturkimu 
+C: Mala situacion inquieta
+
+nmlch-nmsca1_x_0388_nmsca_00: 
+M: Weda dungu mülekey veyta velekeiñ <SPA>simpre müleki 
+C: Mala asunto existe lo pasamos siempre hay
+
+M: ta ütrürwün koylantu müli ta rume wüne llafütulelu 
+C: engaño, mentira hay mucho bien primero sirvamos
+
+M: veyta valilay pinengi veyta kdaw müten tripakevuy 
+C: este no vale dicen trabajo solamente salia
+
+M: tati <Noise> veyta weñen may ka dungu piavuiñ <Noise> 
+C: si esto robe el asunto decia
+
+nmlch-nmsca1_x_0389_nmlch_00: 
+M: Femllimay chi 
+C: Asi es
+
+nmlch-nmsca1_x_0390_nmsca_00: 
+M: Küdaw müten vel pu 
+C: Trabajo solamente encontro
+
+nmlch-nmsca1_x_0391_nmlch_00: 
+M: A'lün' tripantu kutrankawi tami kure femuechi <SPA>fina 
+C: Llegue año sufrio su señora asi
+
+nmlch-nmsca1_x_0392_nmsca_00: 
+M: Kutrankawlay pu kutrankawlay pu <Noise>
+C:  No sufrio pues no sufrio pues
+
+M:  <SPA>pero kidu kangentunewewi 
+C: pero solo
+
+M: vemuechi amuy pitalmu vey Tráigen l'apuy tati 
+C: por eso fue hospital de Traiguen fallecio alla
+
+nmlch-nmsca1_x_0393_nmlch_00: 
+M: Pitalmu l'apuy 
+C: Hospital murio
+
+nmlch-nmsca1_x_0394_nmsca_00: 
+M: Pitalmu <Noise> veyta n'amun' wüne küpali pingi
+C:  En hospital me perdi primero vino me dijeron
+
+ M: pichi vemuechi kom <SPA>niñito chemi <SPA>venia <SPA>de <SPA>pie pingi 
+C:  poco asi todo niñito hizo venia de pie me dijeron
+
+M: vey "l'akarkeavel" pi,
+C: asi deberia morir dijo
+
+M:  vey salvakavuy vey <SPA>depue <SPA>se <SPA>operó
+C: se salvo asi despues se opero
+
+ M: vey <Noise> kidu ñi n'amun' tripay faw pu 
+C: si solo mis pies salio ahora pues
+
+nmlch-nmsca1_x_0395_nmlch_00: <uhm> 
+
+nmlch-nmsca1_x_0396_nmsca_00: 
+M: Amuy pitalmu veyta choymen uyu pitalmu Tráigen
+C:  Fue hospital descanze alla hospital Traiguen
+
+M:  doy küme segurangi <Noise> Alfarinu newe chemngelay llengi Tráigen 
+C: si bien seguro Galvarino ----------------- ver llevaron a Traiguen
+
+nmlch-nmsca1_x_0397_nmlch_00: 
+M:Doy eluwtuy 
+C: Si volvio
+
+nmlch-nmsca1_x_0398_nmsca_00: 
+M: <SPA>Sí pu uyu perdepuy 
+C: Llego alla se perdio
+
+nmlch-nmsca1_x_0399_nmlch_00: 
+M: Welu felerkeafel ñi
+C: Pero deberia ser asi
+
+nmlch-nmsca1_x_0400_nmsca_00: 
+M: Felerkeafel pu 
+C: 
+
+nmlch-nmsca1_x_0401_nmlch_00: 
+M: Femuechi may mütrümalngepevuy 
+C: Asi es su conversaron
+
+nmlch-nmsca1_x_0402_nmsca_00: 
+M: Veyta dew inche pewütün <SPA>noy'que' kuyfi inche kangentulekevuiñ 
+C: Esta donde yo observe asi antes yo raro me sentia
+
+M: vey vemuechi kangentunekevuin pichi küme rupal <Noise> 
+C: si asi es raro me sentia un poco al pasar
+nmlch-nmsca1-1.doc  /Autor: Rosendo Huisca Melinao/ Fecha de impresión 18-11-01 08:25 P.M.
+

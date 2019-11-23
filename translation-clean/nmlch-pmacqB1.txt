@@ -1,0 +1,2311 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-pmacqB1 
+; Last changes made on 03/10/2003 
+; Transcriber: Flor Caniupil H. 
+; Comments:  
+; Traduce: Juan Licanqueo.
+
+nmlch-pmacqB1_1_0000_nmlch_00: 
+M: Fey peñi ta amuleay tayu ngütram 
+C: Así hermano comensaremos nuestra conversación.
+
+M: eymi ta tuürkeymi kiñe ngürü tüfameu.
+C: usted cazó un zorro aquí.
+ 
+nmlch-pmacqB1_1_0001_pmacq_00: 
+M: Fey kümey tati, rume kümey ñi 
+C: Eso es bueno pues, es muy buena su
+
+M: yiwiñ ngüllfüwünmu tati.
+C: grasa para cuando se tranca la orina eso.
+
+nmlch-pmacqB1_1_0002_nmlch_00: 
+M: Ngüllfüwünmu.
+C: Para cuando se estanca la orina.
+ 
+nmlch-pmacqB1_1_0003_pmacq_00: 
+M: Ngüllfüwünmu kutrankonüy chem 
+C: Cuando se estanca la orina se enferma 
+
+M: ngüllfüwi che ta yiwiñmu feyta rüngülkawi 
+C: de la orina la persona con grasa este se refrega
+
+M: matra pilay a mapuche <P> fey 
+C: la pierna eso dice el mapuche y
+
+M: ruparüngüli feymu <P>.
+C: una ves refregado ahí.
+ 
+nmlch-pmacqB1_1_0004_nmlch_00: 
+M: Fey kümey.
+C: Eso es bueno.
+ 
+nmlch-pmacqB1_1_0005_pmacq_00: 
+M: Fey kümey arelechi trülkemu rume we... 
+C: Eso es bueno cuando esta caliente el cuero muy nuevo
+
+M: we nentungechi trülkemu 
+C: cuando le sacan recién el cuero 
+
+M: rume münuli
+C: es muy fuerte el olor
+
+M: ñi chang <P> triparumey ta kutran.
+C: su pierna sale de repente la enfermedad.
+ 
+nmlch-pmacqB1_1_0006_nmlch_00: 
+M: ¿Chem kutran a nentukey chi?
+C: ¿Qué enfermedad mejora pues?
+
+nmlch-pmacqB1_1_0007_pmacq_00: 
+M: <*SPA>Como reumatismo pilay a 
+C: Como reumatismo eso dice el
+
+M: wingka rüngülkawün <P> üpirkawün% 
+C: chileno, grano en la voca, picazon de voca
+
+M: <P> feychi kutran.
+C: esa enfermedad.
+ 
+nmlch-pmacqB1_1_0008_nmlch_00: 
+M: Fey kümey.
+C: Eso es bueno.
+ 
+nmlch-pmacqB1_1_0009_pmacq_00: 
+M: Fey.
+C: Ese.
+ 
+nmlch-pmacqB1_1_0010_nmlch_00: 
+M: ¿Mülekey kay reumatismo kutran faupüle peñi?
+C: ¿Hay  enfermedad reumatismo por aquí hermano? 
+
+nmlch-pmacqB1_1_0011_pmacq_00: 
+M: ¿Aa?
+C: ¿Aa?
+
+nmlch-pmacqB1_1_0012_nmlch_00: 
+M: ¿Müley <*SPA>reumatismo kutran faupüle?
+C: ¿Hay enfermedad reumatismo por aquí? 
+
+nmlch-pmacqB1_1_0013_pmacq_00: 
+M: Müley <P> kuyfi ta minamu rume 
+C: Hay antes en la mina si quiera
+
+M: küdaumekefuy tati pu... pu aguelu 
+C: trabajaban los abueloa
+
+M: wünenküleyelu kutrankoniy ka re komu.
+C: los que eran mayor se enfermaban por el agua.
+
+M: ngilakonkülekeluengün am pikeyengün.
+C: como estaban en el agua en forma directa decían.
+ 
+nmlch-pmacqB1_1_0014_nmlch_00: 
+M: Faupüle.
+C: Por aquí.
+
+nmlch-pmacqB1_1_0015_pmacq_00: 
+M: May, oro nentukeluengün kay.
+C: Sí, oro sacaban pues.
+
+nmlch-pmacqB1_1_0016_nmlch_00:  
+M: ¿Chem oro nentukefuyengün?
+C: ¿ Qué oro sacaban ellos?
+
+nmlch-pmacqB1_1_0017_pmacq_00: 
+M: <*SPA>Oro.
+C: Oro.
+
+nmlch-pmacqB1_1_0018_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: Oro.
+C: Oro.
+
+nmlch-pmacqB1_1_0019_pmacq_00: 
+M: Oro.
+C: Oro.
+ 
+nmlch-pmacqB1_1_0020_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: ¿Chuchipüle <!1tuchipüle> mülekefuy faupüle?
+C: ¿En que sector se encontraba aquí?
+
+nmlch-pmacqB1_1_0021_pmacq_00: 
+M: Tiyechi inalpürachi <*SPA>a <*SPA>la 
+C: Por ese lugar a orillando a la 
+
+M: <*SPA>costa <*SPA>del Bio-bio <*SPA>para 
+C: costa del Bio-Bio para
+
+M: <*SPA>allá <!2pa'lla> inalpüra <*SPA>yendo
+C: allá por la orilla yendo
+
+M:  <*SPA>para <!1pa'> <*SPA>la Argentina 
+C: para la Argentina
+
+M: <*SPA>por Liucura Pedregoso pingey 
+C: por Liucura Pedregoso se llamaba
+
+M: kiñe mawida wingkul müley feyta 
+C: una montaña esta en un cerro este
+
+M: rüngakaley fey tañi nentukemum tañi 
+C: estaba escarbado donde se sacaba su
+
+M: plata tati pu... pu wingka mapucheñmau 
+C: plata los chileno y los mapuches
+
+M: <P> ellakamu re mapuche reke 
+C: de un principio solo los mapuche
+
+M: küdaufuy <*SPA>pues <!1pu'>.
+C: trabajaban pues.
+
+nmlch-pmacqB1_1_0022_nmlch_00: 
+M: ¿Fey koni kutran? 
+C: ¿Ahí entro la enfermedad?
+
+nmlch-pmacqB1_1_0023_pmacq_00: 
+M: Feymu ta koni ta kutran tati pu 
+C: ahí entró la enfermedad a las
+
+M: kuyfike che <*SPA>pues <!1pu'>.
+C: personas antiguas pues.
+
+nmlch-pmacqB1_1_0024_nmlch_00: 
+M: Reumatismo.
+C: Reumatismo.
+
+nmlch-pmacqB1_1_0025_pmacq_00: 
+M: Femngechi reumatismo kutraniy 
+C: Así es como se enfermaron del reumatismo
+
+M: <*SPA>como ngilakonkülekelu müten kay 
+C: como estaban en contacto con el agua no más
+
+M: komu tati femngechi küdaulu <P> ka 
+C: en el agua así el que trabajaba y 
+
+M: ngelafuy bota ka peñi <*SPA>así <*SPA>no 
+C: no había bota pues hermano así no
+
+M: <*SPA>mas <*SPA>pues <!1pu'> peñi 
+C: mas pues hermano
+
+M: tüfa may <*SPA>bota müley <*SPA>para <!1pa'>
+C: ahora pues hay bota para
+
+M:  <*SPA>entrar <*SPA>al <*SPA>agua kom 
+C: entrar al agua todo
+
+M: müley ka peñi ngillangey nielu plata ngillay 
+C: hay pues hermano lo compra el que tiene plata  
+
+M: <*SPA>pues <!1pu'> ngilayawi puko, kuyfi 
+C: pues y anda en el agua, antes
+
+M: <*SPA>no <*SPA>pues <!1pu'> peñi kuyfi 
+C: no pues hermano antes
+
+M: tritrang n'amun mekey puko ka.
+C: a pies descalzo trabajaban en el agua pues. 
+
+nmlch-pmacqB1_1_0026_nmlch_00: 
+M: ¿Eymün kay tritrang n'amun tremomngeymün?  
+C: ¿Ustedes a pies descalzo son persona sana?
+
+nmlch-pmacqB1_1_0027_pmacq_00: 
+M: Tritrang n'amun trimiyiñ ka peñi <Noise>. 
+C: A pies descalso crecimos pues hermano.
+
+nmlch-pmacqB1_1_0028_nmlch_00: 
+M: Tritrang n'amun.
+C: A pies descalso.
+
+nmlch-pmacqB1_1_0029_pmacq_00: 
+M: <*SPA>Sufrimos <*SPA>mucho peñi <P> 
+C: Sufrimos mucho hermano
+
+M: <*SPA>yo <*SPA>soy <*SPA>nacido <*SPA>el 
+C: yo soy nacido el
+
+M: <*SPA>treinta <*SPA>y <*SPA>ocho peñi.
+C: treinta y ocho hermano.
+ 
+nmlch-pmacqB1_1_0030_nmlch_00: 
+M: <*SPA>Treinta <*SPA>y <*SPA>ocho 
+C: Treita y ocho
+
+M: ¿fey tritrang n'amun miaukefuymi?
+C: ¿y andabas a pies descalso?
+
+nmlch-pmacqB1_1_0031_pmacq_00: 
+M: <*SPA>Si.
+C: Sí.
+ 
+nmlch-pmacqB1_1_0032_nmlch_00: 
+<Throat> 
+
+nmlch-pmacqB1_1_0033_pmacq_00: 
+M: Ngelafuy% sapatu chem rume.
+C: No había sapato ninguna cosa.
+ 
+nmlch-pmacqB1_1_0034_nmlch_00: 
+M: Welu kutranchengelaymi peñi 
+C: Pero no es una persona enfermiza hermano
+
+M: ¿chumngelu chi?
+C: ¿por qué será pues?
+
+nmlch-pmacqB1_1_0035_pmacq_00: 
+M: Tañi domo ka femngechi tremi tati.
+C: Mi esposa también creció de esa manera.
+ 
+nmlch-pmacqB1_1_0036_nmlch_00: 
+M: Welu kutranchengelaymu ¿chumngelu chi?
+C: Pero no son enfermizo¿por qué será no?
+
+nmlch-pmacqB1_1_0037_pmacq_00: 
+<uhm> 
+
+nmlch-pmacqB1_1_0038_nmlch_00: 
+M: ¿Mapumay kümekünukepeymu?
+C: ¿La tierra los mantendra bian?
+
+nmlch-pmacqB1_1_0039_pmacq_00: 
+M: Fey ka <P> ka Ngünechen ka elunieteu 
+C: Y también Dios me da
+
+M: peñi <Noise> <%> amulen.
+C: hermano avanso.
+ 
+nmlch-pmacqB1_1_0040_nmlch_00: 
+M: Eymi peñi tüfa iñche miauken tüfa el 
+C: Usted hermano, este yo he andado este el
+
+M: Mallin del Treile pewenche El Naranjo <uh> 
+C: Mallin del Treile, pehuenche El naranjo
+
+M: chumngelu chi fenteke tukey mongen che 
+C: por que será que dura la persona 
+
+M: mapuche tüfamu, ¿chumngelu chi pikeymi kay?
+C: mapuche aquí ¿por qué será eso dice usted?
+
+nmlch-pmacqB1_1_0041_pmacq_00: 
+M: Eluniengelu müten mongen ka petu 
+C: Como le están dando la vida y todavía
+
+M: pütrüley tiyemu kiñe longko petu müley 
+C: hay arto allí un jefe todavía está
+
+M: pelowelay peñi petu mongeley  <*SPA>lo 
+C: no ve hermano pero esta vivo lo
+
+M: <*SPA>único ñi pelowelay ka <P> <Noise> 
+C: único es que no ve pues
+
+M: <*SPA>pero küme trekayawiy ka küme allküy, 
+C: pero anda caminando y escucha bien,
+
+M: allküy <*SPA>lo <*SPA>único <*SPA>que 
+C: escucha lo único que
+
+M: pelolay <Noise> fütra kuyfi, fütra kuyfi 
+C: no ve hace mucho tiempo, hace tiempo
+
+M: kona ka longkofel fey ñi pewenunmu 
+C: era pues un jefe y esa vez que no ve
+
+M: pelotuwenunmu ka ñi pelowenunmu fey 
+C: por que ya no ve y por no ve mas y
+
+M: <Noise> feyta <P> elufi tañi longko tañi 
+C: este le entregó el cargo de jefe al que
+
+M: longkolelu tüfalle Segundo Camaro% <P> feymu 
+C: esta de jefe este Segundo Camaro ahi
+
+M: longkoley <P> fey kimnulu am pelowenulu am 
+C: está de jefe y como no sabe y no ve pues
+
+M: eymi nga niaymi dungu eymi nga +/na/+ 
+C: usted tendra responsabilidad pues
+
+M: yeafimi ta chi dungu ta chi ngütram tüfamu 
+C: lo llevara este conocimiento esta conversación aquí 
+
+M: adümtuniefilu eymi pingey nga chi longko 
+C: como sabe usted le dijo el jefe
+
+M: tüfa mülelu feymu <%> pelowenunmu 
+C: este que este ahí por no ver
+
+M: nga chi feychi fücha.
+C: pues y ese anciano.
+ 
+nmlch-pmacqB1_1_0042_nmlch_00: 
+M: ¿Doy pataka trapantu niey?
+C: ¿Tiene más de cien anños?
+
+nmlch-pmacqB1_1_0043_pmacq_00: 
+M: Doy ka peñi <*SPA>capaz <*SPA>que 
+C: Más pues hermano capaz que
+
+M: pemefilmi peñi <*SPA>le <*SPA>va <*SPA>a
+C: que si viera hermano le va a
+
+M:  <*SPA>llevar <*SPA>el longko <*SPA>aqui 
+C: llevar el jefe aquí 
+
+M: <*SPA>lo <*SPA>va <*SPA>a <*SPA>llevar
+C: lo va  a llevar
+
+M:  <*SPA>porque piti tripaley tiyemu.
+C: por que esta cerca allí.
+
+nmlch-pmacqB1_1_0044_nmlch_00: 
+M: Welu feymu ramtuken iñche pu peñi 
+C: Pero ahí pregunto yo a los hermanos
+
+M: fey <uh> feytachi mapumeu pewenche rume 
+C: y en esta tierra pehuenche es muy
+
+M: al'ü tukey ta mongen chumngelu chi piken, 
+C: avanzada la vida por que será eso digo,
+
+M: yagelmu chi kam <uh> pekan yagel ikelaymün.
+C: será por la comida o no comen cualquier comida.
+ 
+nmlch-pmacqB1_1_0045_pmacq_00: 
+M: Kuyfike re iy chem lelfün yagel% ingeafulu 
+C: Antes solo se comía los que sal´pia en la pampa eso
+
+M: <*SPA>pues <!1pu'> peñi mülefuy nga *
+C: pues hermano había pues
+
+M: warka mülefuy... tiyemu mülefuy <*SPA>como 
+C: huarca había allí  había como
+
+M: kachu reke nga treminga chi lechungareke 
+C: pasto pues crecía así como lechuga
+
+M: nga tremi fey ñi ifel <P> mülefuy nga timu 
+C: pues crecía eso era el alimento había pues allí
+
+M: tripay nga tati chem... chempi wingkanga <%> 
+C: salía pues esas cosa como le dice el chileno
+
+M: tati *wantray pingey mapuchemu ka tati 
+C: es huantray le dicen en mapuche y ese
+
+M: wingkamu chempingey ama <P> <Noise> 
+C: en chileno como es que le dicen pues
+
+M: plata% pingey ama <P> re fey reke nga ifuy 
+C: plata se llamaba pues solo ese no más se comía 
+
+M: kuyfi che <P> ka mülefuy ta *püna tripalu 
+C: las personas antiguas también había este sale en el
+
+M: koyammu <P> molengefuy nga fey angkümngey
+C: hualle eso era bueno pues y ese se secaba 
+
+M: charkingey nga chi *püna angkünmngey nga 
+C: se charquiaba pues el pinatra se secaba pues
+
+M: antümu <*SPA>después <!1depue'> nga 
+C: en el sol después  lo
+
+M: molengey *piküd reke <P> folsamunga 
+C: molían como legumbre en uan bosa
+
+M: wardangey fey nga <*SPA>después <!1depue'>
+C: se guardaba y esa después 
+
+M: korümunga tukungey <*SPA>como <*SPA>locro 
+C: en la comida se colocaba como locro
+
+M: pilay anta <!2piyla> <P> feymu nga *
+C: no dice y ahí pues
+
+M: pikülkorükey nga che femngechi rupay 
+C: comida de legumbre la persona así pasaba
+
+M: <P> femngechi rupay ngati pu che.
+C: así pues pasaba las personas.
+ 
+nmlch-pmacqB1_1_0046_nmlch_00: 
+M: ¿Rume ikefuymün mapu yagel?
+C: ¿Comían mucho comida natural?
+
+nmlch-pmacqB1_1_0047_pmacq_00: 
+M: Mapu yagel tüfa ta newe kimngewelay <P> doy... 
+C: Comida natural este ya no se conoce mucho
+
+M: doy wingka chemlu anta chi pu che <*SPA>y 
+C: más como el chileno hizo la persona y
+
+M: <*SPA>ahí <*SPA>habrá <*SPA>más 
+C: ahí habrá más
+
+M: <*SPA>plata <*SPA>digo <*SPA>yo chem chi ta 
+C: plata digo yo que será eso pues 
+
+M: doy mülelu chi doy delikawi chi che chemlu 
+C: más hay y más delicada es la persona los
+
+M: weke tremlu kom pekan yagel nga iwelay 
+C: jóvenes todos no comen cualquier comida
+
+M: femngechi chem <P> feymunga 
+C: así pues y por eso 
+
+M: kutranchengekeürkelay nga petu nga chi 
+C: no son persona enfermiza pues todavía el
+
+M: petu mongeleyelu ka tati +/amu/+ ka iñchiñ 
+C: esta vivo pues y también nosotros
+
+M: re femngechi rupayiñ re femngechi 
+C: solo así pasamos solo así
+
+M: yagelmu rupayiñ peñi.
+C: con la comida pasamos hermano.
+ 
+nmlch-pmacqB1_1_0048_nmlch_00: 
+M: Mapu yagelmu.
+C: Comida natural.
+
+nmlch-pmacqB1_1_0049_pmacq_00: 
+M: Mapu yagelmu wingka yagel nga 
+C: Comida natural, comida chilena pues
+
+M: kimngelafuy newe.
+C: no se conocía casi.
+
+nmlch-pmacqB1_1_0050_nmlch_00: 
+M: ¿Ikeymün kafey ñengüm <*SPA>piñón tüfey?
+C: ¿Comían también piñón ese?
+
+nmlch-pmacqB1_1_0051_pmacq_00: 
+M: Kom <P> kom fey <*SPA>pues <!1pu'>.
+C: Todo, todo eso pues. 
+
+nmlch-pmacqB1_1_0052_nmlch_00: 
+M: Üyüupüle ta +/ñi/+ fenteke tremkelay ta che.
+C: Por allá no duran así las personas.
+ 
+nmlch-pmacqB1_1_0053_pmacq_00: 
+M: ¿Femkelay peñi?
+C: ¿No pasa eso hermano?
+
+nmlch-pmacqB1_1_0054_nmlch_00: 
+M: Feymu iñche ta <uh> perimontupan reke 
+C: Por eso yo vi como una visión así
+
+M: fenteketuy tañi mongenengün, 
+C: dura mucho su vida pues,
+
+M: kutranchengelayengün ka. 
+C: no son personas enfermiza pues.
+
+nmlch-pmacqB1_1_0055_pmacq_00: 
+M: Kutranchengelayengün.
+C: No son personas enfermiza.
+ 
+nmlch-pmacqB1_1_0056_nmlch_00: 
+M: ¿<*SPA>Y l'awen'tulekeymün 
+C: Y bebían remedio también
+
+M: mapul'awen'tulekeymün?
+C: remedio mapuche bebían?
+
+nmlch-pmacqB1_1_0057_pmacq_00: 
+M: Mapul'awen' ka re mapu l'awen'kay.
+C: remedio mapuche solo remedio mapuche pues.
+ 
+nmlch-pmacqB1_1_0058_nmlch_00: 
+M: ¿Kutraniyüm longko kiñe pichi che kiñe 
+C: ¿El dolor de cabeza de un niño o
+
+M: fütra che rume chem l'awen' pütukeymün?
+C: anciano puede ser, que remedio beben?
+
+nmlch-pmacqB1_1_0059_pmacq_00: 
+M: Mülefuy nga tüfamu müley l'awen' <Noise>.
+C: Había pues aquí hay remedio.
+ 
+nmlch-pmacqB1_1_0060_nmlch_00: 
+M: ¿Chem a *logou pingey peñi?
+C: ¿Qué se llama logou hermano?
+
+nmlch-pmacqB1_1_0061_pmacq_00: 
+M: <*SPA>Ese <*SPA>apio <*SPA>que <*SPA>le
+C: ese apio que le
+
+M:  <*SPA>dicen, <*SPA>apio piy ta wingka nga.
+C: dicen apio dice el chileno pues.
+ 
+nmlch-pmacqB1_1_0062_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-pmacqB1_1_0063_pmacq_00: 
+M: <*SPA>Ese kümey ta rüle kutranmu.
+C: Ese es bueno para el grano de oido.
+
+nmlch-pmacqB1_1_0064_nmlch_00: 
+M: Rüle kutranmu.
+C: Para la enfermedad del grano.
+
+nmlch-pmacqB1_1_0065_pmacq_00: 
+M: Rüle kutran, kutranlongkonmu kom 
+C: Enfermedad del grano, para el dolor de cabeza todo
+
+M: fey nga kümey ka pichin nga <Noise> lichi 
+C: ese pues es bueno un poco de leche
+
+M: che engu nga elungey würkülngey nga pichikeche.
+C: con ese se le da de beber a los niños.
+ 
+nmlch-pmacqB1_1_0066_nmlch_00: 
+M: ¿Lichi che engu?
+C: ¿Con leche pues?
+
+nmlch-pmacqB1_1_0067_pmacq_00: 
+M: Feymunga tripay nga amuy nga chi rüle kutran 
+C: Con eso sale pues se va la enfermedad del grano
+
+M: ka mülefuy nga ngüllfüwam <P> <%> 
+C: también había para refregarse
+
+M: <*SPA>hacer <*SPA>un <*SPA>saumerio 
+C: hacer un sahumerio
+
+M: pilay anta <!2piyla> wingka.
+C: eso no dice el chileno.
+ 
+nmlch-pmacqB1_1_0068_nmlch_00: 
+M: <Throat> ¿Chemmu saumeriokeymün fau?
+C: ¿Con que realizan el sahumerio aquí?
+
+nmlch-pmacqB1_1_0069_pmacq_00: 
+M: Tamu mülefuy <*SPA>sanguinaria pingey 
+C: aquí había sanguinaria se llamaba
+
+M: tati kiñe kachu müley <Noise> ka 
+C: ese un pasto había y
+
+M: tiyemu% <P> itrofill kachu müley.
+C: allí de todo tipo de pasto había.
+ 
+nmlch-pmacqB1_1_0070_nmlch_00: 
+M: ¿<*SPA>Contra?
+C: ¿Contra?
+
+nmlch-pmacqB1_1_0071_pmacq_00: 
+M: <Noise> <*SPA>Contra kachu müley ka.
+C: Contra hay pasto pues.
+ 
+nmlch-pmacqB1_1_0072_nmlch_00: 
+M: ¿Chem kachu anta kontrangey peñi?
+C: ¿qué pasto pues era para la contra hermano?
+
+nmlch-pmacqB1_1_0073_pmacq_00: 
+M: Ti *wetriwetri pingekey <%> 
+C: Ese huetrihuetri se decían
+
+M: +/kimim/+ kimniefimün chem 
+C: lo conocen que cosa
+
+M: mapuchedungunmu% tamu müley peñi.
+C: en el mapuche aquí hay hermano.
+ 
+nmlch-pmacqB1_1_0074_nmlch_00: 
+M: Wetriwetri pingey.
+C: Huitrihuitri se llama.
+ 
+nmlch-pmacqB1_1_0075_pmacq_00: 
+M: Wetriwetri pingey.
+C: Huitrihuitri se llama.
+ 
+nmlch-pmacqB1_1_0076_nmlch_00: 
+M: ¿Fey <*SPA>contra peñi%?
+C: ¿Ese contra hermano?.
+
+nmlch-pmacqB1_1_0077_pmacq_00: 
+M: Fey nentukemum <P> wüdakel pingelay a 
+C: Ese el que saca lo malo eso dicen a
+
+M: che <P> lifpiukengelu 
+C: la persona el que tiene el corazón limpio 
+
+M: <P> wedapiukengelu
+C: el que es malo
+
+M: epu rume piukengelu üñfituy ta ka kiñe 
+C: el que tiene dos corazón hace el mal y un
+
+M: wenüy kümelelu üñfituukey pingelayam.
+C: amigo que esta bien se hacen mal eso dicen pues.
+
+nmlch-pmacqB1_1_0078_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-pmacqB1_1_0079_pmacq_00: 
+M: Elufi fey nga kümey würkütun 
+C: Le dio ese pues es bueno para botar
+
+M: pingelay a fey <P> würkütun.
+C: no dicen a ese para botar.
+ 
+nmlch-pmacqB1_1_0080_nmlch_00: 
+M: ¿Fey wetriwetri pingey?
+C: ¿Ese huitrehuitre se llama?
+
+nmlch-pmacqB1_1_0081_pmacq_00: 
+M: Wetriwetri <P> fey ta 
+C: Huitrehuitre ese a
+
+M: kümey ta ngüllfüwünmu
+C: es bueno cuando se estanca el orín
+
+M: ka würkünmu lichi engu, lichi che engu.
+C: y para botar con leche, con leche eso dos.
+ 
+nmlch-pmacqB1_1_0082_nmlch_00: 
+M: Mongetuy, ano ilelngele...
+C: Se mejora, en caso le dan mal.
+
+nmlch-pmacqB1_1_0083_pmacq_00: 
+M: Ka mülefuy tati <P> ka kiñe l'awen' tati 
+C: también había ese un remedio pues
+
+M: reweltangey epurume l'awen' <*SPA>pues <!1pu'> 
+C: re revolvía con dos tipo de remedio pues
+
+M: <*SPA>pero <*SPA>con <*SPA>eso 
+C: pero con eso
+
+M: <P> ka müley <*SPA>ajenjo pilay a che.
+C: también hay ajenjo dice la gente.
+ 
+nmlch-pmacqB1_1_0084_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-pmacqB1_1_0085_pmacq_00: 
+M: Ka fey.
+C: Ese también.
+
+nmlch-pmacqB1_1_0086_nmlch_00: 
+M: <*SPA>Ajenjo ka kümey.
+C: Ajenjo también es bueno.
+ 
+nmlch-pmacqB1_1_0087_pmacq_00: 
+M: Ka kümey fey ngüllfüwam ka kümey nga 
+C: También es bueno para cuando se estanca la orina
+
+M: we elungelerumenga wedake... wedakeñma 
+C: o si le dan algún daño las persona malas
+
+M: willeñ engu nga pütungey  
+C: con orina también se bebe 
+
+M: <*SPA>pues <!1pu'> <P> fey ka <*SPA>se 
+C: pues ese también  se
+
+M: <*SPA>fue <*SPA>no <*SPA>más tati 
+C: fue no más eso
+
+M: wedakeñma <*SPA>pues <!1pu'>.
+C: los malos pues.
+
+nmlch-pmacqB1_1_0088_nmlch_00: 
+M: ¿Willeñ engu chem peñi? 
+C: ¿Con orina y que más hermano?
+
+nmlch-pmacqB1_1_0089_pmacq_00: 
+M: <*SPA>Ajenjo.
+C: Ajenjo.
+ 
+nmlch-pmacqB1_1_0090_nmlch_00: 
+M: <*SPA>Ajenjo engu willeñ pütungey ...
+C: Ajenjo con orina se bebe.
+
+nmlch-pmacqB1_1_0091_pmacq_00: 
+M: <*SPA>Si.
+C: Sí.
+
+nmlch-pmacqB1_1_0092_nmlch_00: 
+M: Tripatuy ilelngele che.
+C: Sale si le dan daño a la persona.
+
+nmlch-pmacqB1_1_0093_pmacq_00: 
+M: <*SPA>El <*SPA>orin <*SPA>de <*SPA>uno.
+C: El orín de uno.
+ 
+nmlch-pmacqB1_1_0094_nmlch_00: 
+M: Elelngele che.
+C: Si le dejan a la persona.
+ 
+nmlch-pmacqB1_1_0095_pmacq_00: 
+<uhm> 
+
+nmlch-pmacqB1_1_0096_nmlch_00: 
+M: Fenteley ngüneluwün pingey 
+C: Hay hartas  cosas negativas dicen
+
+M: mongenmu tati peñi ¿feley?
+C: en la vida pues hermano ¿así es?
+
+nmlch-pmacqB1_1_0097_pmacq_00: 
+M: Feley.
+C: Así es.
+
+nmlch-pmacqB1_1_0098_nmlch_00: 
+M: Küpa <uh> wedachelfile che fey müley 
+C: Si quiere hacerle mal  a la persona ahí hay
+
+M: ngüneluwün pingey ¿feyngey fey?
+C: cosas negativa dicen ¿será así eso?
+
+nmlch-pmacqB1_1_0099_pmacq_00: 
+M: Feley%.
+C: Así es.
+ 
+nmlch-pmacqB1_1_0100_nmlch_00: 
+M: Küpa wüdalchele ka wüdalcheafuy 
+C: Si quiere separar una persona lo puede
+
+M: che pingey ¿feyngey?
+C: hacer dicen ¿será así eso?
+
+nmlch-pmacqB1_1_0101_pmacq_00: 
+M: Ka feley ka.
+C: Así es  pues.
+ 
+nmlch-pmacqB1_1_0102_nmlch_00: 
+M: Müley ta feychi ngüneluwün.
+C: Existe esas cosas negativa.
+ 
+nmlch-pmacqB1_1_0103_pmacq_00: 
+M: <*SPA>Tiene <*SPA>que <*SPA>haber 
+C: Tiene que haber
+
+M: <*SPA>pues <!1pu'> adümnielu ka.
+C: pues el que sabe pues.
+ 
+nmlch-pmacqB1_1_0104_nmlch_00: 
+M: Adümnielu.
+C: El que sabe.
+ 
+nmlch-pmacqB1_1_0105_pmacq_00: 
+M: Adünielu.
+C: Sabe.
+ 
+nmlch-pmacqB1_1_0106_nmlch_00: 
+M: Wichukeluam nieluürke ñi dungu 
+C: Están separado los que tienen sus cosas
+
+M: ta che feula peñi.
+C: la persona ahora hermano.
+ 
+nmlch-pmacqB1_1_0107_pmacq_00: 
+M: Fey.
+C: Ese.
+ 
+nmlch-pmacqB1_1_0108_nmlch_00: 
+M: Pekan ta adümrumelay che ka.
+C: Así no más no a aprendido la persona pues. 
+ 
+nmlch-pmacqB1_1_0109_pmacq_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> peñi femlay.
+C: No pues hermano así no más no es.
+ 
+nmlch-pmacqB1_1_0110_nmlch_00: 
+M: Ka chumngelu chi müte linglay ñi longko ta 
+C: Y porque será que no mas que tienen blanco el pelo
+
+M: tamu pewenche <P> üyüupüle ta weke 
+C: aquí los pehuenche y por allá lo jóvenes
+
+M: pichike wentru ligarligari tañi longko.
+C: los ñinos chico tiene el pelo blanco.
+ 
+nmlch-pmacqB1_1_0111_pmacq_00:
+M: Tamu ta willeñmu funalngey ta willeñ feymu ta
+C: Aquí con orina se fermenta la orina y con eso
+
+M: küchalongkokefuy ta kuyfike che ka doy wünel
+C: se lavaban el pelo los anciano y los mayores
+
+M: mapucheukülelu kafon ta asukelafuyiñ ka tati 
+C: se consideraban mapuche jabón no se usaba pues 
+
+M: champu pilayanta <!2piyla> wingka ta wüla la
+C: champo eso dice el chileno y ahora la
+
+M:  <*SPA>juventud <*SPA>también ka feypi 
+C: juventud también dice eso
+
+M: champu <*SPA>puro champu feymu müten nga 
+C: champo puro champo con eso na más pues
+
+M: funaley +/ka/+ fütrake müta manchun 
+C: se fermentaba con los grandes cacho de buey 
+
+M: müley <Noise> müta waka <%> fey nga 
+C: había cacho de vaca y con eso pues
+
+M: aponiengey <P> pichin <!1pitin> fantenmu 
+C: se llenaba un poco hasta aquí 
+
+M: müten *kiküri ñi longko <*SPA>pues <!1pu'>
+C: no más quedaba brilloso su pelo pues
+
+M: feyta ta küchalongkokefuy ta che.
+C: con este se labavan el pelo la persona.
+ 
+nmlch-pmacqB1_1_0112_nmlch_00: 
+M: ¿Mülefuy kay kachu l'awen' ka?
+C: ¿Había pues pasto, remedio pues? 
+
+nmlch-pmacqB1_1_0113_pmacq_00: 
+M: Ka müley ka <Noise> 
+C: También había pues 
+
+M: wentru <%>kücha kuwü <%>.
+C: pasto macho de color verde.
+ 
+nmlch-pmacqB1_1_0114_nmlch_00: 
+M: ¿Püchafo? feymu küchakefuymün tamün longko.
+C: ¿Para la tos? con eso se lavaban su pelo.
+ 
+nmlch-pmacqB1_1_0115_pmacq_00: 
+M: Feymu.
+C: Con eso.
+ 
+nmlch-pmacqB1_1_0116_nmlch_00: 
+M: ¿Fey ligarkelay longko?
+C: ¿Y no quedaba blanco el pelo?
+
+nmlch-pmacqB1_1_0117_pmacq_00: 
+M: <*SPA>No.
+C: No.
+
+nmlch-pmacqB1_1_0118_nmlch_00: 
+M: Feymu liglay tamün longko müte eymün.
+C: Por eso es que tienen blanco el pelo ustedes. 
+ 
+nmlch-pmacqB1_1_0119_pmacq_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> feymu ta 
+C: No pues por eso es que
+
+M: ligkelafuy <P> kiñeke kushe tamu kurüley 
+C: no se ponía blanco el pelo algunas ancianas tenían negro
+
+M: ñi longko peñi fallesey <P> <*SPA>pero 
+C: su pelo hermano cuando fallecían pero  
+
+M: <*SPA>tienen <*SPA>su +/sese/+ <*SPA>ochenta
+C: tienen su setenta, ochenta
+
+M: <*SPA>noventa <*SPA>año peñi.
+C: noventa años hermano.
+ 
+nmlch-pmacqB1_1_0120_nmlch_00: 
+M: Feyllena perimontupen fey ramtupeyu ta 
+C: Por eso vi visón por eso te pregunte pues
+
+M: eymi <Noise> chumngelu chi pipen 
+C: usted por que será dije
+
+M: <P> iñchiñam kañpüle che feyta kimlayiñ tati.
+C: nosotros, entro lugar la persona no conocemos eso.
+ 
+nmlch-pmacqB1_1_0121_pmacq_00: 
+M: Feley <*SPA>pues <!1pu'>.
+C: Así es pues.
+
+nmlch-pmacqB1_1_0122_nmlch_00: 
+M: Feymu amfe.
+C: Por eso creo.
+ 
+nmlch-pmacqB1_1_0123_pmacq_00: 
+M: Feymu.
+C: Por eso.
+ 
+nmlch-pmacqB1_1_0124_nmlch_00: 
+M: Kiñekemu kau llangkülu ñi longko 
+C: Algunas veces se cae el pelo
+
+M: peñi chem l'awen' kümey.
+C: hermano que remedio será bueno.
+ 
+nmlch-pmacqB1_1_0125_pmacq_00: 
+M: ¿Chem kümey?
+C: ¿Es bueno?
+
+nmlch-pmacqB1_1_0126_nmlch_00: 
+M: ¿Chumngelu chi llangkükey longko?
+C: ¿Porqué será que se cae el pelo?
+
+nmlch-pmacqB1_1_0127_pmacq_00: 
+M: Rume llangkükey tati longko ¿<*SPA>el 
+C: Cae mucho el pelo ¿el
+
+M: <*SPA>mismo chapu penu peñi? wingka l'awen' 
+C: mismo champo creo hermano? remedio chileno
+
+M: wingka tati ñi küchalongkowe <*SPA>eso 
+C: chileno ese que usa para lavar su pelo eso
+
+M: peñi <P> newentuam <*SPA>hay <*SPA>que 
+C: hermano para tener fuerza hay que
+
+M: <*SPA>usar <*SPA>eso <*SPA>no 
+C: usar eso no
+
+M: <*SPA>más <*SPA>pues <!1pu'> peñi.
+C: más pues hermano.
+ 
+nmlch-pmacqB1_1_0128_nmlch_00: 
+M: ¿Tami üytupel?
+C: ¿El que nombró?
+
+nmlch-pmacqB1_1_0129_pmacq_00: 
+M: Fey.
+C: Ese.
+
+nmlch-pmacqB1_1_0130_nmlch_00: 
+M: Newenngetuy longko.
+C: Se afirma el pelo.
+ 
+nmlch-pmacqB1_1_0131_pmacq_00: 
+M: Feymu nga laulay  longko 
+C: Con eso no se cae el pelo
+
+M: <*SPA>pues <!1pu'> newenkoniy.
+C: pues ahi se afirma.
+
+nmlch-pmacqB1_1_0132_nmlch_00: 
+M: Feyti kay peñi ka kiñe kutran müley ta 
+C: Ese pues hermano una enfermedad hay pues
+
+M: mülekepelay eymipüle rüngülpilunkelu kay.
+C: debe haber por ese lugar que tiene grano en el oído pues.
+ 
+nmlch-pmacqB1_1_0133_pmacq_00: 
+M: Kafey kümefuy ka tati, mülefuy nga chi 
+C: Para eso también es bueno, había pues esa
+
+M: chem <P> chempingefulu tati <*SPA>oregano.
+C: cosa como es que se llama ese orégano.
+
+nmlch-pmacqB1_1_0134_nmlch_00: 
+M: <*SPA>Oregano.
+C: Oregano.
+ 
+nmlch-pmacqB1_1_0135_pmacq_00: 
+M: <*SPA>Oregano pilay anta <!2piyla> wingka.
+C: Orégano dice pues el chileno.
+ 
+nmlch-pmacqB1_1_0136_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-pmacqB1_1_0137_pmacq_00:
+M: Ka kiñe kurü k'al ufichamu kufartukulelngey 
+C: También con una lana de color negro se sopla
+
+M: fey takukünulelngey  <P> ka 
+C: ahi se deja tapado  pues
+
+M: tüfachi chem rume kümey pilunmu tati 
+C: este cosa también es bueno para el oído eso
+
+M: <*SPA>pero <*SPA>cuando<*SPA>uno 
+C: pero cuando uno
+
+M: <*SPA>zorro peñi ngürü, ngürü tañi...
+C: zorro hermano zorro, la cosa del zorro..  
+
+nmlch-pmacqB1_1_0138_nmlch_00: 
+M: ¿Kompañ?
+C: ¿Compañero?
+
+nmlch-pmacqB1_1_0139_pmacq_00: 
+M: Tañi kompañ fey lipompilunngealu reke 
+C: su compañero y como que le van a tirar la oreja
+
+M: tamu niy iñche rume ngillatukeneu 
+C: aqui tiene yo siquiera realizo rogativa
+
+M: pu kushe kuyfi tamu.
+C: las anciano antes aquí.
+
+nmlch-pmacqB1_1_0140_nmlch_00: 
+M: Nieymi...
+C: Tienes..
+
+nmlch-pmacqB1_1_0141_pmacq_00: 
+M: Feymu rume allkükeyiñ pikey, feymu 
+C: Por eso es que escuchamos dicen, por eso
+
+M: piluwelayiñ pikey <P> eymi rume <%> tüfachi 
+C: no quedamos sordos dicen usted siquiera estas
+
+M: pu chem , niefuy ti... 
+C: cosas tiene pues
+
+M: elfalkeyawülkeyiñmu fey ñi <%> fey, fey 
+C: dejan encargado y en su, y que
+
+M: chem wardalkefiñ engün, feymu limpiay ñi 
+C: cosa les guardan a ellos, ahí se limpia su
+
+M: pilun engün tamu, feymu ngürülülay 
+C: oreja ellos aquí, ahí no le sale grano
+
+M: rume pilun piengün ka +/all/+ pililayengün rume.
+C: siquiera al oído dicen pues ni si quiera arde.
+ 
+nmlch-pmacqB1_1_0142_nmlch_00: 
+M: ¿Feula nieymi kay?
+C: ¿Ahora tiene pues?
+
+nmlch-pmacqB1_1_0143_pmacq_00: 
+M: <*SPA>No <*SPA>ahora n'owekelan peñi.
+C: No ahora no  atravieso hermano.
+ 
+nmlch-pmacqB1_1_0144_nmlch_00: 
+M: L'awen' tüfey.
+C: Remedio eso.
+ 
+nmlch-pmacqB1_1_0145_pmacq_00: 
+M: L'awen'.
+C: Remedio.
+ 
+nmlch-pmacqB1_1_0146_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+nmlch-pmacqB1_1_0147_pmacq_00: 
+M: Re feytimu ngillatuyaukeyu 
+C: Solo con eso andaban haciendo rogativa 
+ 
+M: pu kuche kuyfi.
+C: las ancianas antes.
+
+nmlch-pmacqB1_1_0148_nmlch_00: 
+M: Feyta l'awen' tati.
+C: Este remedio pues.
+ 
+nmlch-pmacqB1_1_0149_pmacq_00: 
+M: <uhm> L'awen'.
+C: Remedio.
+ 
+nmlch-pmacqB1_1_0150_nmlch_00: 
+M: ¿Eymün tüfamu puliwen witrakeymün?
+C: ¿Ustedes aquí en la mañana se levantan? 
+
+nmlch-pmacqB1_1_0151_pmacq_00: 
+M: Epe wün ka peñi.
+C: Casi amaneciendo pues hermano.
+ 
+nmlch-pmacqB1_1_0152_nmlch_00: 
+M: ¿Kam feymu chi küta doy 
+C: ¿Quizás por eso es que tienen
+
+M: küme mongen  nieymün?
+C: mejor vida, tiene usted?
+
+nmlch-pmacqB1_1_0153_pmacq_00: 
+M: Epe wün sinku <*SPA>la <*SPA>mañana 
+C: Casi en el amanecer cinco la mañana
+
+M: trepen% <*SPA>seis <*SPA>ya <*SPA>uno
+C: despierto seis ya uno
+
+M: <*SPA>andando <*SPA>ya <*SPA>pues <!1pu'> 
+C: andando ya pues
+
+M: peñi mawidamu <P> mawidamu püray 
+C: hermano en la montaña, sube
+
+M: chuchimu rume ka ngillatuy <*SPA>pues <!1pu'> 
+C: donde sea pues hace su rogativa pues
+
+M: peñi lukutuy üyüupüle trekayawi.
+C: hermano se arrodilla por allá anda caminando.
+ 
+nmlch-pmacqB1_1_0154_nmlch_00: 
+M: Iñche ta pepen pu peñi fachiantü <*SPA>todo <!1to'>
+C: Yo pues desperté pues hermano doy día todo
+
+M: <*SPA>esto ka küpa ka antü müna kümeke 
+C: esto también que venga buenos día muy buenos
+
+M: fütrake peñi iney 
+C: grandes hermano cualquiera 
+
+M: rume wechalkalelay <P> al'üke 
+C: que sea que anda bien harto
+
+M: trem nieyengün welu wechalkalelayengün.
+C: están cresiendo pero no están mal.
+ 
+nmlch-pmacqB1_1_0155_pmacq_00: 
+M: Feley <*SPA>pues <!1pu'>.
+C: Así es pues. 
+
+nmlch-pmacqB1_1_0156_nmlch_00: 
+M: Rume küme mongen niey ta pewenche tüfameu.
+C: Muy buena vida tiene los pehuenche aquí.
+ 
+nmlch-pmacqB1_1_0157_pmacq_00: 
+M: Feley peñi <Throat> feula peñi 
+C: Así es hermano ahora hermano
+
+M: <*SPA>porque üyüupüle kay ta eymi pichi 
+C: porque por allá pues usted un poco 
+
+M: kuyfi miaupenun tüfapüle peñi.
+C: antes donde no andaba por aquí hermano.
+ 
+nmlch-pmacqB1_1_0158_nmlch_00: 
+M: May <P> üyüupüle felelay ta dungu.
+C: Sí por allá no esta así las cosas.
+ 
+nmlch-pmacqB1_1_0159_pmacq_00: 
+M: Felelay chemmu rume doy fücha nagiengün.
+C: No esta así con cualquier cosa envegecen mas.
+ 
+nmlch-pmacqB1_1_0160_nmlch_00: 
+M: Chemmu rume doy fücha nagiengün 
+C: Con cualquier cosa más envejecen mas
+
+M: <P> chumngelu chi may.
+C: por que será pues eso.
+ 
+nmlch-pmacqB1_1_0161_pmacq_00: 
+M: Chumngelu chi may ka, chemmu chi may doy
+C: No se porque será así eso, por que será pues
+
+M: nagchengenmu tiyeupüle chi iñchiñ am 
+C: son gente de la vega por allá y nosotros
+
+M: tüfameu doy mawidache, doy wingkulmu 
+C: aquí son gente de montaña, mas cerro
+
+M: müleyiñ <*SPA>pues <!1pu'> peñi.
+C: estamos pues hermano.
+ 
+nmlch-pmacqB1_1_0162_nmlch_00: 
+M: <uhm> Kiñe kulli=.
+C: Un animal.
+
+nmlch-pmacqB1_1_0163_pmacq_00: 
+M: <*SPA>Aqui <*SPA>siete <*SPA>meses
+C: Aquí siete meses 
+
+M: rüngalkonkülekelu piremu iñchiñ peñi 
+C: están enterrado con el granizo nosotros hermano
+
+M: kiñekemu <*SPA>el <*SPA>terremoto 
+C: algunas veces el terremoto
+
+M: <*SPA>blanco <*SPA>mas <*SPA>de 
+C: blanco mas de
+
+M: <*SPA>dos <*SPA>metros peñi, 
+C: dos metros hermano,
+
+M: pengenngewelay ruka peñi.
+C: ni siquiera se ve la casa hermano.
+ 
+nmlch-pmacqB1_1_0164_nmlch_00: 
+M: Fey regle küyen rügalkülekeymün reke.
+C: Y siete meses quedamos hundido casi.
+ 
+nmlch-pmacqB1_1_0165_pmacq_00: 
+M: Pura küyen reke.
+C: Casi ocho mese. 
+ 
+nmlch-pmacqB1_1_0166_nmlch_00: 
+M: Fey kutrankelay tamün pütra firkükutran.
+C: Y no se enferma sus estomago del frío.
+
+nmlch-pmacqB1_1_0167_pmacq_00: 
+M: Cheu kutranafuyiñ peñi 
+C: Donde nosvamos a enfermar hermano 
+
+M: wenulelu iñchiñ peñi.
+C: nosotros los mayores hermano.
+
+nmlch-pmacqB1_1_0168_nmlch_00: 
+M: ¿Femkelaymün?
+C: ¿No les sucede nada?
+
+nmlch-pmacqB1_1_0169_pmacq_00: 
+M: Tamu tremlu ta iñchiñ rangi piren 
+C: Los anciano pues nosotros en medio del granizo
+
+M: rangiko reke tremiyiñ ka peñi, 
+C: casi en el medio crecimos pues hermano,
+
+M: rangi mawida rangi wingkul.
+C: en medio de la montaña en medio del cerro.
+ 
+nmlch-pmacqB1_1_0170_nmlch_00: 
+M: ¿Tamün newengeal eymün peñi tamün 
+C: ¿Para tener fuerza ustedes hermano, para tener
+
+M: foro rüf newenngeal chem ikeymün?
+C: hueso duro y fuerte que comen?
+
+nmlch-pmacqB1_1_0171_pmacq_00: 
+M: Tamu ta ikeyiñ ta ngülliu ka peñi 
+C: Aquí pues comemos piñones pues hermano 
+
+M: ngülliu kom feychi chem.
+C: piñones toda esas cosas.
+ 
+nmlch-pmacqB1_1_0172_nmlch_00: 
+M: ¿Ngülliu <Noise> fey rume wülkey newen?
+C: ¿Piñones eso proporciona mucha fuerza?
+
+nmlch-pmacqB1_1_0173_pmacq_00: 
+M: Wülkey ka.
+C: Entrega pues.
+ 
+nmlch-pmacqB1_1_0174_nmlch_00: 
+M: Wülkey newen <P> ka 
+C: Entrega fuerza también 
+
+
+
+M: kiñe kutran müley peñi,
+C: una enfermedad hay hermano,
+
+M: rume trüfoniyüm che ¿chem kümey? 
+C: y tenemos mucha tos la persona ¿que es bueno?
+
+nmlch-pmacqB1_1_0175_pmacq_00: 
+M: Trüfonmu ta mülefuy ta chem l'awen'...
+C: Para la tos pues hay que remedio..
+
+nmlch-pmacqB1_1_0176_nmlch_00: 
+M: Rupakelay trüfon kiñekemu.
+C: No pasa la tos algunas veces.
+ 
+nmlch-pmacqB1_1_0177_pmacq_00: 
+M: Iñche üyeupüle yemekeyiñ trüfonal l'awen'
+C: Yo por allá vamos a buscar remedio para la tos
+
+M: mu peñi <*SPA>para <*SPA>allá <!2pa'lla> 
+C: pues hermano para allá 
+
+M: <*SPA>por Temuko ta chi kaliutu iñchiñ 
+C: por Temuco también el eucaliptos nosotros
+
+M: miaukelu Ercilla ngemekeyiñ <*SPA>nosotros
+C: andamos en Ercilla hemos ido nosotros
+
+M:  <*SPA>fuimos <*SPA>a <*SPA>buscar
+C: fuimos a buscar
+
+M:  <*SPA>ahí kaliutu.
+C: ahi eucaliptos.
+ 
+nmlch-pmacqB1_1_0178_nmlch_00: 
+<uh> 
+nmlch-pmacqB1_1_0179_pmacq_00: 
+M: Rume kümey trüfonünmu peñi.
+C: Es muy bueno para la tos hermano.
+ 
+nmlch-pmacqB1_1_0180_nmlch_00: 
+M: ¿Tapül kaliutu?
+C: ¿Hojas de eucaliptos?
+
+nmlch-pmacqB1_1_0181_pmacq_00: 
+M: May.
+C: Sí.
+ 
+nmlch-pmacqB1_1_0182_nmlch_00: 
+M: <uh> ¿Fayümkefimün?
+C: ¿Lo hierven ustedes?
+
+nmlch-pmacqB1_1_0183_pmacq_00: 
+M: Fayümkefiyiñ.
+C: Lo hervimos.
+ 
+nmlch-pmacqB1_1_0184_nmlch_00: 
+M: ¿Fey kümey?
+C: ¿Eso es bueno?
+
+nmlch-pmacqB1_1_0185_pmacq_00: 
+M: Fey kümey pütokoam peñi.
+C: Eso es bueno para beber hermano.
+ 
+nmlch-pmacqB1_1_0186_nmlch_00: 
+M: <uhm> Ka ngüneduamken tüfameu ka 
+C: también he observado aquí pues
+
+M: kiñe dungu müley tüfa iney 
+C: una cosa hay aquí nadie
+
+M: rume traumangelay reke.
+C: siquiera tiene problema a la vista.
+ 
+nmlch-pmacqB1_1_0187_pmacq_00: 
+M: <*SPA>No, <*SPA>lo <*SPA>único feychi 
+C: No, lo único esa ves
+
+M: fücha traumangey feytimu peñi.
+C: anciano es siego ahí en ese lugar hermano.
+
+nmlch-pmacqB1_1_0188_nmlch_00: 
+M: Welu üyüupüle eymi miawülmi Temuko 
+C: Pero por allá usted cuando andaba en Temuco
+
+M: miawülmi Alfarinu, Traguien 
+C: andaba en Galvarino, Taiguien
+
+M: pichikeche ta lentetuyawi.
+C: los niños andan con lentes.
+
+nmlch-pmacqB1_1_0189_pmacq_00: 
+<uhm> 
+nmlch-pmacqB1_1_0190_nmlch_00: 
+M: Wedakintun niey, welu eymün tamu 
+C: Tienen problema en la vista, pero ustedes aquí
+
+M: fütrakecheymün petu lentutulaymün.
+C: son anciano todavía no usan lente.
+ 
+nmlch-pmacqB1_1_0191_pmacq_00: 
+M: <*SPA>No.
+C: No.
+
+nmlch-pmacqB1_1_0192_nmlch_00: 
+M: Chumngelu chi ka.
+C: Por que será eso pues.
+ 
+nmlch-pmacqB1_1_0193_pmacq_00: 
+M: Petu <*SPA>no peñi.
+C: Todavía no hermano.
+ 
+nmlch-pmacqB1_1_0194_nmlch_00: 
+M: Wedakintun <%> ...
+C: Problema a la vista.
+
+nmlch-pmacqB1_1_0195_pmacq_00: 
+M: Femngechi may <P> ka müchay kiñekemu ta 
+C: Así pues y rápidamente algunos veces pues
+
+M: müteke kutrankeyiñ taiñ adkintun rume 
+C: no más nos enfermamos de la vista por
+
+M: trafkintuyüm tati piren peñi ka arenagi 
+C: ver mucho la nieve hermano y hace calor
+
+M: antü <P> ka <*SPA>el <*SPA>mismo tati 
+C: el sol pues el mismo pues
+
+M: kofipürapatuy piren engu tati antü fey 
+C: cae caluroso la nieve con el sol eso
+
+M: pichike wilwil-lükey ta külle, <*SPA>pero 
+C: un poco arde pues la el ojo pero
+
+M: chemmu rume ta chemlay <P> kulliñ leli 
+C: con cualquier cosa no pasa los animales ven
+
+M: traumakey peñi tamu <P> flankuy ñi nge 
+C: y quedan siego hermano aquí queda blanco sus ojos
+
+M: pewelay traumay <*SPA>pues <!1pu'> 
+C: no ven quedan siego pues
+
+M: ¿chemmu? lelikonkülelu müten pirenmu.
+C: ¿con el? como mirán no más en el granizo.
+ 
+nmlch-pmacqB1_1_0196_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+nmlch-pmacqB1_1_0197_pmacq_00: 
+M: +/Iñ/+ iñchiñ taiñ chengenmu ta femkalayiñ 
+C: Nosotros como persona no nos pasa eso
+
+M: ka <P> femngechi doy aflanday ñi adkintun  
+C: pues así se ablanda más nuestra vista 
+
+M: chemmu chi Ngünechen chi doy 
+C: por que Dios será que
+
+M: +/yafüluu/+ yafüluungeiñmu piken, 
+C: nos fortalece más eso digo,
+
+M: kulliñ traumakey pelowekelay peñi 
+C: los animales quedan siego no ven hermano
+
+M: <P> lelikonkülelu müten <*SPA>ya flankuy 
+C: como están mirando no mas ya queda blanco
+
+M: ñi nge <*SPA>no <*SPA>ve <*SPA>más 
+C: su ojo no ve más
+
+M: pelowelay <*SPA>pues <!1pu'>.
+C: no ve mas pues.
+ 
+nmlch-pmacqB1_1_0198_nmlch_00: 
+M: Femkeymay.
+C: Así pasa pues.
+ 
+nmlch-pmacqB1_1_0199_pmacq_00: 
+M: Taiñ chengenmu ta iñchiñ ta femkalayiñ 
+C: Por ser persona pues nosotros nos pasa 
+
+M: ka +/ya/+ doy yafülayanta ñi ngefe.
+C: pues somos más duro nuestro ojos.
+
+nmlch-pmacqB1_1_0200_nmlch_00: 
+M: Femiymay, feyti kay peñi eymün chem ilo 
+C: Así pues, este pues hermano ustedes que carne
+
+M: doy ikeymün tüfameu.
+C: consumen más aquí.
+ 
+nmlch-pmacqB1_1_0201_pmacq_00: 
+M: Tüfameu ta ilo iniengey ufisa kawelluilo, 
+C: Aquí pues se come carne de oveja, carne caballo,
+
+M: kapürailo <P> kom ikeyiñ ka peñi pichiken.
+C: carne de chivo todo comemos hermano un poco.
+ 
+nmlch-pmacqB1_1_0202_nmlch_00: 
+M:¿Yagelmu penu doy küme yagel ikeymün eymüm?
+C: ¿Para la comida es mejor, comen bien ustedes?
+
+nmlch-pmacqB1_1_0203_pmacq_00: 
+M: Fey.
+C: Y.
+
+nmlch-pmacqB1_1_0204_nmlch_00: 
+M: Feyti kawelluam rume küme ilo 
+C: Ese, el caballo en muy buena carne
+
+M: nielu kapüra kafey.
+C: en que tiene chivo también ese.
+ 
+nmlch-pmacqB1_1_0205_pmacq_00: 
+M: Fey.
+C: Ese.
+
+nmlch-pmacqB1_1_0206_nmlch_00: 
+M: Iñchiñ rume ikefiyiñ ta chi sanchu tiyeu.
+C: Nosotros comemos mucho este chancho allá.
+ 
+nmlch-pmacqB1_1_0207_pmacq_00: 
+<uhm> 
+nmlch-pmacqB1_1_0208_nmlch_00: 
+M: Achawall ka ti chi waria yemekegel 
+C: Pollo también ese que se va a buscar en el pueblo
+
+M: fey rume ingekey.
+C: ese se come mucho.
+ 
+nmlch-pmacqB1_1_0209_pmacq_00: 
+M: Tüfamu ta kimelngelay newen peñi, ilo ta 
+C: Aquí no se enseña mucho hermano, carne 
+
+M: femngechi ta kiñekemu pichike +/amu/+ wariamu 
+C: así pues algunas veces un poco  al pueblo
+
+M: amuyiñ fey pichile ngillakeyiñ ilo tüfameu ta 
+C: vamos y compramos un poco de carne aquí pues
+
+M: müley ta mara peñi <P> <*SPA>liebre piy 
+C: hay pues liebre hermano, liebre dice
+
+M: la wingka feymu ta Ngünechen am itrofill 
+C: el chileno por eso que Dios pues de todo
+
+M: kulliñ ta el-lu tañi pu 
+C: tipo de animales dejo para 
+
+M: püñeñ ta niealu iyal
+C: sus hijos para que tengan comidas
+
+M: chumngechi tañi mongeluwal ellakamu ta 
+C: para que puedan vivir en principio pues
+
+M: elüy tañi pu püñeñ <P> feymunga 
+C: les dejo a sus hijos por eso pues
+
+M: nüfa <!1nüva> niey kuyfi am re 
+C: caza tiene antes pues 
+
+M:*nüfakefulu <!1nüvakefulu> 
+C: cazaba mucho los ancianos 
+
+M: che fütrake kuyfike che
+C: antes las personas
+
+M: nüfafuy <!1nüvafuy> *kalkiñ pingey nga +/ka/+ 
+C: eran cazadores calquiñ se llamaban
+
+M: müley *kalkiñngey wanaku ka femngey 
+C: había guanaco también era así
+
+M: amuy nga *lükaytualu 
+C: iban pues a cazar buenos 
+
+M: kümeke *lükaytufe
+C: cazadores con boleadoras
+
+M: llemay amuy wedake kona nga amulay <Noise> 
+C: pues iban malos hombres pues no iban
+
+M: <*SPA>así <*SPA>que * 
+C: así que realizábamos la caza 
+
+M: lükaytukeyiñ peñi,
+C: hermano con boleadoras,
+
+M: <*SPA>pero lükaytumekeyiñ üyüu
+C: pero íbamos a cazar allá con boleadoras
+
+M: <*SPA>pues <!1pu'> peñi weltapüle Arkentinupüle.
+C: pues hermano a vuelta por Argentina.
+
+nmlch-pmacqB1_1_0210_nmlch_00: 
+M: ¿Chemama *lükay pingey nga?
+C: ¿Qué es el lücan pues?
+
+nmlch-pmacqB1_1_0211_pmacq_00: 
+M: Lükay ta <*SPA>boleadora piy la 
+C:  Es la boleadoras pues dice la
+
+M: wingka <P> <Noise> fey ta lükay.
+C: chileno ese es la boleadoras.
+ 
+nmlch-pmacqB1_1_0212_nmlch_00: 
+M: ¿Chumal am femkeymün?
+C: ¿Para qué hacían eso?
+
+nmlch-pmacqB1_1_0213_pmacq_00: 
+M: Nüfamiam tati pu lelfünke kulliñ ka.
+C: Para ir a cazar pues animales de la pampa pues.
+ 
+nmlch-pmacqB1_1_0214_nmlch_00: 
+M: ¿Mara?
+C: ¿Liebre?
+
+nmlch-pmacqB1_1_0215_pmacq_00: 
+M: Mara <P> wanaku, kalkiñ <*SPA>el 
+C: Liebre, guanaco, siervo el
+
+M: <*SPA>siervo piy la wingka fey.
+C: siervo dice el chileno ese.
+
+nmlch-pmacqB1_1_0216_nmlch_00: 
+M: Fey kimün, kangechi kimün eymün 
+C: Ese saber, diferente conocimiento de ustedes 
+
+M: <*SPA>pues <!1pu'> peñi feymu ta 
+C: pues hermano por eso pues
+
+M: kaleymün üyüupüle feychi <uh> ilo ngelay tiyeu.
+C: son diferente por allá esa carne no hay allá.
+ 
+nmlch-pmacqB1_1_0217_pmacq_00: 
+M: <*SPA>No <*SPA>pues <!1pu'> ngelay 
+C: No pues no hay
+
+M: <*SPA>para <*SPA>allá <!2pa'lla> 
+C: para allá 
+
+M: <*SPA>pues <!1pu'> peñi.
+C: pues hermano.
+ 
+nmlch-pmacqB1_1_0218_nmlch_00: 
+M: Feymu penu ta <Throat> doy küme 
+C: Por eso creo que es mejor
+
+M: mongen nieymün eymün.
+C: vida tienen ustedes.
+ 
+nmlch-pmacqB1_1_0219_pmacq_00: 
+M: <*SPA>Alli <*SPA>los <!1lo'> peñi <*SPA>de Ralko 
+C: Allí los hermano de Ralko
+
+M: pu Ralkoche pu peñi <*SPA>también <*SPA>de
+C: las persona de Ralco los hermano también de
+
+M:  <*SPA>esta <*SPA>misma <*SPA>raza peñi,
+C: esta misma raza hermano,
+
+M:  <*SPA>puede <*SPA>ser <*SPA>más, 
+C: puede ser más,
+
+M: <*SPA>más <*SPA>fuerte <*SPA>un <*SPA>poco
+C: más fuerte un poco
+
+M: <*SPA>puede <*SPA>ser <*SPA>también 
+C: puede ser también
+
+M: <*SPA>son pewenche <*SPA>y <*SPA>también
+C: son persona de la cordillera y también
+
+M:  <*SPA>viven <*SPA>eso, <*SPA>de 
+C: viven eso, de
+
+M: <*SPA>eso peñi ka femngechi yagelmu 
+C: eso hermano pues así con esa comida
+
+M: maneluwiengün, mongeluwiengün mongeluuküley.
+C: se mantienen, con eso sobre viven, pasa un buen vivir.
+
+M:  <*SPA>no <*SPA>se <*SPA>si <*SPA>usted 
+C: no se si usted
+
+M: <*SPA>ha <*SPA>andado <*SPA>para 
+C: ha andado para
+
+M: <*SPA>allá <!2pa'lla> miaukelaymi peñi.
+C: allá no a visitado hermano.
+ 
+nmlch-pmacqB1_1_0220_nmlch_00: 
+M: Welu rume kaleymün eymün tati <Noise> 
+C: Pero son diferente ustedes pues
+
+M: kaleymün ta yegelmu ta kalürkeymün tati 
+C: son diferentes en sus comida pues
+
+M: kangechi yagel ikeymün.
+C: son diferente los alimento que consumen.
+ 
+nmlch-pmacqB1_1_0221_pmacq_00: 
+M: <Noise> <*SPA>Puro re lelfün kulliñ 
+C: Puro solo animales de la pampa
+
+M: ta ikeyiñ doy tamu.
+C: pues consumimos mas aquí.
+ 
+nmlch-pmacqB1_1_0222_nmlch_00: 
+M: Lelfün kulliñ ikeymün doy ka y
+C: Animales de la pampa consumen mas 
+
+M: lelfün yagel <*SPA>pues <!1pu'>.
+C: comida de la pampa pues.
+
+nmlch-pmacqB1_1_0223_pmacq_00: 
+M: Lelfün llemay%.
+C: De la pampa pues.
+
+nmlch-pmacqB1_1_0224_nmlch_00: 
+M: Feymu llemay ta doy küme mongen 
+C: Por eso pues que tenemos mejor salud
+
+M: nieymün eymün kutranchengelaymün 
+C: tienen ustedes no son personas enfermiza
+
+M: <Noise> doy al'üke tukeymün mongen 
+C: consumen más en la vida
+
+M: kafey <*SPA>pues <!1pu'> peñi.
+C: eso también pues hermano.
+  
+nmlch-pmacqB1_1_0225_pmacq_00: 
+M: Feymu ka peñi, ¿feymu penu peñi?
+C: Por eso pues hermano, ¿por eso creo hermano?
+
+nmlch-pmacqB1_1_0226_nmlch_00: 
+M: Münalechikaynu <Smack> feyti kiñe 
+C: Que grandioso no ese una
+
+M: kutran müley kay peñi ta kimpelafimi <uh> 
+C: enfermedad hay hermano debes de conocerlo
+
+M: piuke kutraniyüm ¿chem l'awen' ikeymün? 
+C: enfermedad al corazón ¿qué remedio consumen?
+
+nmlch-pmacqB1_1_0227_pmacq_00: 
+M: Mülefuy ta tamu ka kiñe kachul'awen' 
+C: Hay pues aquí un remedio de pasto
+
+M: tati kutranpiukewe pingey tati.
+C: para el dolor del corazón se llama eso.
+ 
+nmlch-pmacqB1_1_0228_nmlch_00: 
+M: ¿Piuketuwe?
+C: ¿Para el corazón?
+
+nmlch-pmacqB1_1_0229_pmacq_00: 
+M: Kutranpiukewe pingey <Noise> fey ta 
+C: Se llama remedio para el corazón este
+
+M: würküngekey ta kutraniyüm piuke.
+C: se hierve para cuando se enferma del corazón.
+ 
+nmlch-pmacqB1_1_0230_nmlch_00: 
+M: ¿Eñüm?
+C: ¿Ustedes?
+
+nmlch-pmacqB1_1_0231_pmacq_00: 
+<uhm> 
+nmlch-pmacqB1_1_0232_nmlch_00: 
+M: Feyti chi kutrankay müley kiñe wütremu 
+C: Esa enfermedad pues hay una por el frío
+
+M: aremu chi tripakey ngüfüllün pingey.
+C: por el calor pues sale estanca la orina.
+ 
+nmlch-pmacqB1_1_0233_pmacq_00: 
+M: Ka müley ka peñi, ka mülefuy ngati l'awen' 
+C: También hay pues hermano, pues había remedio
+
+M: <*SPA>pero tamu mülelay peñi 
+C: pero aquí no hay hermano
+
+M: <*SPA>pero yemekeyiñ küpalngekey 
+C: pero vamos a buscar lo traen de
+
+M: üyüu iñche waydüfpuken% <P> pütrünmu 
+C: allá yo voy a buscar donde hay harto
+
+M: küdautuken üyüupüle waydüf peñi, 
+C: trabajo por allá por el lugar Huaisuf hermano,
+
+M: Arkentinupüle ruka kollella pingey 
+C: por Argentina en la casa de la hormiga se llama
+
+M: <P>  entonces fey kümefuy.
+C: entonces ese era bueno.
+ 
+nmlch-pmacqB1_1_0234_nmlch_00: 
+M: Ruka kollella feytichi... 
+C: Casa de la hormiga ese..
+
+nmlch-pmacqB1_1_0235_pmacq_00: 
+M: Ka mülefuy tati tamu ka müley kiñe 
+C: También había aquí, había un 
+
+M: pichi <*SPA>mata pichi l'awen' ka chemmu 
+C: poco, una mata chica de remedio y en los
+
+M: mapuchenmu ¿chempingefuyama chi? 
+C: mapuche ¿cómo se llamaba ese?
+
+nmlch-pmacqB1_1_0236_nmlch_00: 
+M: ¿Pichi pingey?
+C: ¿Pichi se llama?
+
+nmlch-pmacqB1_1_0237_pmacq_00: 
+M: Pichi pingey.
+C: Pichi se llama.
+ 
+nmlch-pmacqB1_1_0238_nmlch_00: 
+M: ¿Aa! 
+C: ¿Aa?
+
+M: Fey kümey...
+C: Ese es bueno.
+
+nmlch-pmacqB1_1_0239_pmacq_00: 
+M: <*SPA>Pero tati *kutranwiliwelumu 
+C: Pero ese para la enfermedad de la orina
+
+M: feyta kümefuy pichin <*SPA>pero <*SPA>no
+C: este era bueno un poco pero no
+
+M: <*SPA>mucho <*SPA>tampoco rume 
+C: mucho tampoco no muy
+
+M: kargau ruma kargau pütungey <*SPA>afloja 
+C: cargado, si lo beben muy cargado afloja 
+
+M: <*SPA>ese <*SPA>mucho 
+C: ese mucho
+
+M: <*SPA>pues <!1pu'> peñi.
+C: pues hermano.
+ 
+nmlch-pmacqB1_1_0240_nmlch_00: 
+M: Pichi müley ñi pichin müten 
+C: Hay poco no mas debe
+
+M: müte al'ü <*SPA>no.
+C: mucho no.
+ 
+nmlch-pmacqB1_1_0241_pmacq_00: 
+M: <*SPA>No kargau <*SPA>mucho <*SPA>pero 
+C: No cargado mucho pero
+
+M: tamu mülelay <*SPA>pero <*SPA>eso 
+C: aquí no hay pero eso
+
+M: <*SPA>más <*SPA>a <*SPA>la 
+C: más a  la
+
+M: <*SPA>costa <*SPA>hay.
+C: costa hay.
+
+nmlch-pmacqB1_1_0242_nmlch_00: 
+M: ¡Aa! 
+C: ¡Aa!
+
+M: Doy kostapüle.
+C: Más hacia la costa.
+ 
+nmlch-pmacqB1_1_0243_pmacq_00: 
+M: Doy kostameu <*SPA>pero miawi che 
+C: Más hacia la costa pero anda gente
+
+M: üyüupüle yemey kimnielu küpa 
+C: por allá va a buscar el que sabe y quiere
+
+M: liftuy% yemey <*SPA>pues <!1pu'>.
+C: limpiar va a buscar pues.
+ 
+nmlch-pmacqB1_1_0244_nmlch_00: 
+M: ¿Natrüng kimfimi kay palki?
+C: ¿El natre lo conoces pues el palqui?
+
+nmlch-pmacqB1_1_0245_pmacq_00: 
+M: Tamu, tamu müten müley palki natrüng 
+C: Aquí, no más hay palqui, natre
+
+M: <P> fey tati natrüng <*SPA>ya kuyfiam 
+C: ese el natre ya antes pues
+
+M: tati doy natrüng rülemu 
+C: ese el natre al picar el pelo vivo 
+
+M: doy tukelafuy che
+C: casi no tocaba la persona
+
+M: yemekefuy <*SPA>yo <*SPA>creo <*SPA>que 
+C: iba a buscar yo creo que
+
+M: femlelu tamu kay ngewekelay tati natrüng.
+C: como estaba así aquí no había ese natre.
+ 
+nmlch-pmacqB1_1_0246_nmlch_00: 
+M: Feyti kay peñi tüfey mülelu kiñe kutran 
+C: Ese pues hermano ese que hay una enfermedad
+
+M: padmu pingey, padmu kimnieymün eymün kay.
+C: pasmo se llama, lo conoce usted eso.
+ 
+nmlch-pmacqB1_1_0247_pmacq_00: 
+M: ¿Pamu? Müley.
+C: ¿Pasmo? Hay.
+ 
+nmlch-pmacqB1_1_0248_nmlch_00: 
+M: ¿Welu eymün padmukeymün kay?
+C: ¿ Pero ustedes le a dado el pasmo?
+
+nmlch-pmacqB1_1_0249_pmacq_00: 
+M: Kiñekemu padmukeyiñ, iñche ñi domo 
+C: Algunas veces hemos tenido pasmo, mi esposa 
+
+M: pamukey kuyfichi epe perdefuy ñi matra.
+C: le dio pasmo antes casi perdió su pierna. 
+ 
+nmlch-pmacqB1_1_0250_nmlch_00: 
+M: ¿Chemmu mongetuy?
+C: ¿Con que se mejoró?
+
+nmlch-pmacqB1_1_0251_pmacq_00: 
+M: Tamu müley l'awen' peñi ka kiñe <%> 
+C: Aquí hay un remedio hermano pues un 
+
+M: petu mongeley ñi malle tiyemu fey tañi 
+C: todavía estaba vivo mi tío paterno allí y mi
+
+M: tiu <P> fey kimeleneu, fey kümey amuyu 
+C: tío fue el que me enseño, eso es bueno y fuimos
+
+M: yemeyu pieneu fey yepafiyu <P> feymu 
+C: vamos a buscar me dijo y vinimos a buscar ahi 
+
+M: ngüllfüwi feyta mongetuy chi.
+C: se estanco la orina y se mejoró pues.
+
+nmlch-pmacqB1_1_0252_nmlch_00: 
+M: ¿Iney pingey tami malle? 
+C: ¿Cómo se llama tu tío?
+
+nmlch-pmacqB1_1_0253_pmacq_00: 
+M: Pitalmeu... pitalmeu mekepüdafuy tañi... 
+C: Hospital, en el hospital no le hicieron nada mi
+
+M: tañi domo <*SPA>pues <!1pu'> 
+C: mi esposa pues
+
+M: indisionangey doyeli peñi.
+C: le colocaron inyección le hizo peor hermano.
+  
+nmlch-pmacqB1_1_0254_nmlch_00: 
+M: ¡Oo!
+C: ¡Oo!
+
+nmlch-pmacqB1_1_0255_pmacq_00: 
+M: <*SPA>Así <*SPA>tan inchau 
+C: Así se le enconó
+
+M: <*SPA>estaba <!1'taba> ñi tañi matra.
+C: estaba así su pierna.
+ 
+nmlch-pmacqB1_1_0256_nmlch_00: 
+M: Padmu.
+C: Pasmo.
+
+nmlch-pmacqB1_1_0257_pmacq_00: 
+M: Feyümwelay ñi sapatu feyümwelay 
+C: No le calzaba su zapato no le calzaba
+
+M: chem rume umagtuwelayu <*SPA>peor 
+C: nada siquiera no podía dormir peor
+
+M: <*SPA>que <*SPA>quemadura funfunküli 
+C: que quemadura seguía hinchando
+
+M: pikelay anchi  <P> feymu kiñe rupa 
+C: no quería pues por eso un día
+
+M: ngüllfüulu feymu <P> feymu mongey 
+C: cuando se estanco la orina ahí se mejoró
+
+M: <P> wüntripafentuy <*SPA>tanto <*SPA>que 
+C: salió rápidamente tanto que
+
+M: ngüllfüulu müten <*SPA>decansó 
+C: que se le estanco no más descansó
+
+M: <*SPA>enseguida.
+C: enseguida.
+ 
+nmlch-pmacqB1_1_0258_nmlch_00: 
+M: ¿Chemmu ngüllfüwi peñi?
+C: ¿Con qué se estanco la orina hermano?
+
+nmlch-pmacqB1_1_0259_pmacq_00: 
+M: L'awen' müley tüfameu peñi.
+C: Hay remedio aquí hermano. 
+ 
+nmlch-pmacqB1_1_0260_nmlch_00: 
+M: ¿Kachu?
+C: ¿Hierba?
+
+nmlch-pmacqB1_1_0261_pmacq_00: 
+M: Kachul'awen'.
+C: Remedio de hierba.
+ 
+nmlch-pmacqB1_1_0262_nmlch_00: 
+M: ¿Iney pingey peñi?
+C: ¿Cómo se llama hermano?
+
+nmlch-pmacqB1_1_0263_pmacq_00: 
+M: ¿Ti kachu?
+C: ¿El pasto?
+
+nmlch-pmacqB1_1_0264_nmlch_00: 
+M: May.
+C: Sí.
+
+nmlch-pmacqB1_1_0265_pmacq_00: 
+M: Pamuwel'awen' pingey ka <%>.
+C: Remedio para el pasmo se llama pues.
+ 
+nmlch-pmacqB1_1_0266_nmlch_00: 
+M: Pamul'awen' pingey.
+C: Remedio para el pasmo se llama.
+ 
+nmlch-pmacqB1_1_0267_pmacq_00: 
+M: Pamul'awen' pingey.
+C: Remedio para el pasmo se llama.
+
+nmlch-pmacqB1_1_0268_nmlch_00: 
+M: ¿Welu ñi üy kay?
+C: ¿Pero su nombre pues?
+
+nmlch-pmacqB1_1_0269_pmacq_00: 
+M: Fey femngechi üyngey müten <*SPA>pues <!1pu'>.
+C: Ese nombre tiene nomás pues.
+
+nmlch-pmacqB1_1_0270_nmlch_00: 
+M: Kachul'awen' pamul'awen'.
+C: Remedio de pasto, remedio para el pasmo.
+ 
+nmlch-pmacqB1_1_0271_pmacq_00:
+ <uhm> 
+nmlch-pmacqB1_1_0272_nmlch_00: 
+M: ¿Fey ngüllfüy? 
+C: ¿Con ese se refregaba?
+
+nmlch-pmacqB1_1_0273_pmacq_00: 
+M: Ngüllfüwi feymu che ka <%>.
+C: Con ese se refregaba la persona pues.
+ 
+nmlch-pmacqB1_1_0274_nmlch_00: 
+M: Mongetuy... mongetuy.
+C: Se mejoraba con eso.
+
+nmlch-pmacqB1_1_0275_pmacq_00: 
+M: Mongey.
+C: Se mejoraba.
+ 
+nmlch-pmacqB1_1_0276_nmlch_00: 
+M: ¿<*SPA>Sino perdiafuy?
+C: ¿Sino se habría perdido?
+
+nmlch-pmacqB1_1_0277_pmacq_00: 
+M: <*SPA>Sino perdeafuy ñi... refentayafuy 
+C: Sino se habría perdido, se habría reventado
+
+M: <*SPA>pues <!1pu'> chumafulu chi.
+C: pues no se que había hecho pues.
+ 
+nmlch-pmacqB1_1_0278_nmlch_00: 
+M: Kümedungu ta pepiluwün l'awen'mu che peñi.
+C: Es bueno saber de remedio la persona hermano.
+ 
+nmlch-pmacqB1_1_0279_pmacq_00: 
+M: Kümey ka.
+C: Es bueno pues.
+ 
+nmlch-pmacqB1_1_0280_nmlch_00: 
+M: <Throat> Rume kümey.
+C: Es muy bueno.
+
+nmlch-pmacqB1_1_0281_pmacq_00: 
+M: Chemmu rume ta l'awen'tuufemuy ka 
+C: En cualquier cosa se busca el remedio pues
+
+M: amuy ngillatumey <Noise> yemey l'awen' 
+C: va a hacer su rogativa va a buscar remedio
+
+M: feymu ta l'awen'tuwi ka peñi kimnielu... 
+C: ahi se hace remedio pues hermano el que sabe,
+
+M: kimnielu chem kutranmu ñi mülelu amuy 
+C: el que sabe en que enfermedad tiene y va
+
+M: ngillatumey lukutumey feyta <P> yemey ka 
+C: hacer su rogativa se arrodilla este va a buscar
+
+M: <P> chem kutranmu kutrani wenüy 
+C: para que enfermedad, se enferma un amigo
+
+M: kutrani domo, kutrani 
+C: se enferma la esposa, 
+
+M: ñawe, kutrani
+C: se enferma la hija, se enferma
+
+M: fotüm <P> kimnielu l'awen' 
+C: el hijo el que sabe de remedio 
+
+M: chem kutranmu
+C: para cualquier enfermedad
+
+M: kümey fey amuy <*SPA>pues <!1pu'> 
+C: es bueno y va pues
+
+M: <P> kintuy cheu ñi mülemum.
+C: busca donde hay.
+ 
+nmlch-pmacqB1_1_0282_nmlch_00: 
+M: Manelfali ta kimlu peñi.
+C: Confían en el que sabe hermano.
+ 
+nmlch-pmacqB1_1_0283_pmacq_00: 
+M: Feley <%> manelfali ka.
+C: Así es confían pues. 
+ 
+nmlch-pmacqB1_1_0284_nmlch_00: 
+M: ¿Tami malle kim l'awen'iy kay?
+C: ¿Tú tío sabe de nombre de remedio? 
+
+nmlch-pmacqB1_1_0285_pmacq_00: 
+M: Kimniey chi, kim... kim l'awen'niengün.
+C: Sabe de remedio lo saben.
+ 
+nmlch-pmacqB1_1_0286_nmlch_00: 
+M: Tami malle.
+C: Tú tío.
+ 
+nmlch-pmacqB1_1_0287_pmacq_00: 
+M: Kuyfiche kay.
+C: Es una persona de edad pues.
+
+nmlch-pmacqB1_1_0288_nmlch_00: 
+M: ¿Iney pingey kidu?
+C: ¿Cómo se llama él?
+
+nmlch-pmacqB1_1_0289_pmacq_00: 
+M: Juan Curical pingey.
+C: Juan Curical se llama.
+ 
+nmlch-pmacqB1_1_0290_nmlch_00: 
+M: ¡Aa!
+C: ¡Aa!
+
+M: <P> Kuyfiche deuma ka.
+C: Como es una persona antigua pues.
+ 
+nmlch-pmacqB1_1_0291_pmacq_00: 
+M: Kuyfi che.
+C: Persona antigua.
+ 
+nmlch-pmacqB1_1_0292_nmlch_00: 
+M: Feyta <uh> mongeltueymu tami domo.
+C: Este te mejoró tu esposa.
+
+nmlch-pmacqB1_1_0293_pmacq_00: 
+M: Feley.
+C: Así es.
+ 
+nmlch-pmacqB1_1_0294_nmlch_00: 
+M: Pamu ta wedadungu ka peñi, 
+C: El pasmo es malo pues hermano,
+
+M: mongekelay pitalmeu pingey tati.
+C: no se mejora en hospital dicen eso.
+ 
+nmlch-pmacqB1_1_0295_pmacq_00: 
+M: <*SPA>Dicen <*SPA>que <*SPA>no <*SPA>hay
+C: Dicen que no hay
+
+M:  <*SPA>remedio peñi, ngelay l'awen' 
+C: remedio hermano, no hay remedio
+
+M: mekekey chi, pichike weke domo pamuy 
+C: le hacen empeño las, niñas jóvenes que tienen pasmo
+
+M: pingekey chemmu fey ngünam mekepüday 
+C: dicen que llegan a llorar por que no le resulta
+
+M: pitalmeu pingekey pelay l'awen'engün.
+C: en el hospital dicen, que no encuentran remedio.
+ 
+nmlch-pmacqB1_1_0296_nmlch_00: 
+M: Pelay l'awen'.
+C: No encuentran remedio.
+
+nmlch-pmacqB1_1_0297_pmacq_00: 
+M: Kümelay.
+C: No saben.
+ 
+nmlch-pmacqB1_1_0298_nmlch_00: 
+M: Mülefuy l'awen' welu mapumeu.
+C: Hay remedio pero en la tierra.
+ 
+nmlch-pmacqB1_1_0299_pmacq_00: 
+M: Müley... müley.
+C: Hay, hay.
+ 
+nmlch-pmacqB1_1_0300_nmlch_00: 
+M: Feyti kay peñi kiñe kutran müley <%> 
+C: Ese pues hermano una enfermedad hay
+
+M: kutran tüfey trafetun pingey <P> 
+C: enfermedad ese de ver visión sobre natural dicen
+
+M: ¿trafentukelaymi eymi tami pu furen 
+C: ¿no has tenido visión usted, tu familia
+
+M: tami peñi, <uh> fotüm trafentukelay?
+C: tu hermano, hijo no tenido encuentro sobre natural?
+
+nmlch-pmacqB1_1_0301_pmacq_00: 
+M: <Noise> <*SPA>No.
+C: No.
+
+nmlch-pmacqB1_1_0302_nmlch_00: 
+M: ¿Ineynurume?
+C: ¿Nadie?
+
+nmlch-pmacqB1_1_0303_pmacq_00: 
+M: Ineynurume.
+C: Nadie.
+
+nmlch-pmacqB1_1_0304_nmlch_00: 
+M: ¿Chumngelu chi trafentukey che peñi?
+C: ¿Por qué será que ven visión la persona hermano? 
+
+nmlch-pmacqB1_1_0305_pmacq_00: 
+M: Trekayaulu pun ka rume tripakey pun, 
+C: Cuando anda caminando en la noche, sale en la noche,
+
+M: pun newe kümenulu kay trekayawün.
+C: en la noche no es bueno para salir.
+ 
+nmlch-pmacqB1_1_0306_nmlch_00: 
+M: Newen kümelaymay.
+C: No es muy bueno.
+ 
+nmlch-pmacqB1_1_0307_pmacq_00: 
+M: Kümelay trekayawünmu pun <P> pun kay 
+C: No es bueno andar caminando en al noche pues
+
+M: miaulu tati wedake pilay a kuyfike che.
+C: anda pues los malos decían los ancianos.
+ 
+nmlch-pmacqB1_1_0308_nmlch_00: 
+M: Newenngelu.
+C: El que tiene fuerza.
+ 
+nmlch-pmacqB1_1_0309_pmacq_00: 
+M: Newenngelu nopelu nopengelu <*SPA>no 
+C: El que tiene fuerza, el que tiene poder no 
+
+M: <*SPA>le <*SPA>hace <*SPA>nada 
+C: le  hace nada
+
+M: <*SPA>pues <!1pu'> <*SPA>dicen 
+C: pues dicen
+
+M: pikey pu kuyfike che.
+C: dice las personas antiguas.
+ 
+nmlch-pmacqB1_1_0310_nmlch_00: 
+M: Nopengelu.
+C: El que tiene poder.
+ 
+nmlch-pmacqB1_1_0311_pmacq_00: 
+M: <*SPA>No nopengelu.
+C: No el que tiene poder.
+ 
+nmlch-pmacqB1_1_0312_nmlch_00: 
+M: Fey ka eymi tami rakiduammu 
+C: Y usted en su pensamiento 
+
+M: trafentule che,
+C: si viera visión la persona,
+
+M: mongeafuy pitalmu kay 
+C: se mejoraría en el hospital 
+ 
+M: peñi kam mongelayafuy.
+C: hermano o no se mejoraría.
+
+nmlch-pmacqB1_1_0313_pmacq_00: 
+M: <*SPA>No mongelay <*SPA>pues <!1pu'> 
+C: No se mejoraría pues
+
+M: peñi ngelay feymu l'awen' peñi.
+C: hermano no hay ahi remedio hermano.

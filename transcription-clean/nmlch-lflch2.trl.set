@@ -1,0 +1,20 @@
+InfoVersion 1
+TurnCounter 189
+SpeakerNum: 2
+nmlch-lflch2_x_%04d_nmlch_00
+nmlch
+nmlch-lflch2_x_%04d_lflch_00
+lflch
+UserLables: 10
+*..
+..%
+<%>
+<*SPA>
+<Cough>
+<hm>
+<Laugh>
+<Noise>
+<uh>
+<uhm>
+LableMenuFile
+C:\Program Files\TransEdit\trl-dungun-win1.mnu

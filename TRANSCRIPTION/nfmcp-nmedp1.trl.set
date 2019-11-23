@@ -1,0 +1,15 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nfmcp-nmedp1_x_%04d_nfmcp_00
+nfmcp
+nfmcp-nmedp1_x_%04d_nmedp_00
+nmedp
+UserLables: 5
+<!>
+<*SPA>
+<Cough>
+<Laugh>
+<Throat>
+LableMenuFile
+C:\Documents

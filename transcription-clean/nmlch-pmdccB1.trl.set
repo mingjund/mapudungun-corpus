@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 307
+SpeakerNum: 3
+nmlch-pmdccB1_1_%04d_nmlch_00
+nmlch
+nmlch-pmdccB1_1_%04d_pmdcc_00
+pmdcc
+nmlch-pmdccB1_x_%04d_pf<>_00
+pf<>
+UserLables: 0
+LableMenuFile
+C:\Documents and Settings\Transcriptor\Desktop\trl-avenue.mnu

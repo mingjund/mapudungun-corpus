@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 3
+nmlch-nfmcB1_1_%04d_nmlch_00
+nmlch
+nmlch-nfmcB1_1_%04d_nfmc_00
+nfmc
+nmlch-nfmcB1_x_%04d_nm<>_00
+nm<>
+UserLables: 0
+LableMenuFile

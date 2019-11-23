@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 1
+SpeakerNum: 2
+nmlch-lmeh1_x_%04d_nmlch_00
+nmlch
+nmlch-lmeh1_x_%04d_lmeh_00
+lmeh
+UserLables: 2
+<*SPA>
+<Throat>
+LableMenuFile
+C:\Program

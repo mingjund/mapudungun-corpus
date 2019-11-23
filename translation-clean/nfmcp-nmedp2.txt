@@ -1,0 +1,1720 @@
+
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nfmcp-nmedp2 
+; Last changes made on 11/05/2001 
+; Transcriber: Maria Elena Raguileo.
+; Comments:  
+; Traduce: Mario Melipil.
+
+nfmcp-nmedp2_x_0000_nfmcp_00:
+M: Eymi ta fey +/kutrani, kutrannge/+ 
+C: Y tú te enfermas?
+
+M: kutranngelaymi ka, fey kimlafimi ta kutran
+C: no eres enfermizo entonces y no conoces la enfermedad
+
+M: ¿chumngechi tami +/müle/+ rupan eymi +/kidumi ta/+
+C:  ¿cómo pasaste tú
+
+M: kidu tami <uhm> rupachi dungu. 
+C: de tus propias cosas que pasas.  
+
+nfmcp-nmedp2_x_0001_nmedp_00:
+M:  -/nu/- Newe kutranngelan
+C: No tengo mucha enfermedad  
+
+M: fey newe kimwetulan reke ñi chem kutran tufel
+C:  por eso no me acuerdo bien que enfermedad tuve 
+
+M: fey welu newe tulan kutran <*SPA>porque
+C:  pero entonces no me dió mucha enfermedad porque
+
+M: l'awen'tulekelukam iñchiñ
+C: como nosotros nos medicinamos pues 
+
+M: fey ka amukeyiñ ospitalmeu
+C:  y también vamos al hospital 
+
+M: pichike sentiwünmu wecha sentiwünmu
+C: cuando sentimos, cuando nos sentimos mal 
+M: fey newe kutranlaiñ reke
+C: y como que no nos enfermamos mucho
+ 
+M: newe kimlafiyiñ.
+C:  no los cocimos mucho.
+
+M: Re pichike kutran 
+C: Sólo enfermedades pequeñas
+
+M: aling müten
+C: fiebre no más
+
+M: fey ka forokutran
+C:  y también la enfermedad a los huesos,
+
+nfmcp-nmedp2_x_0002_nmedp_00: 
+M: pingekey <*SPA>no mülekelay ¿re wütre müten penu?
+C: ¿Puro frío debe ser no? 
+
+M: doy kake dungun <*SPA>no <*SPA>pues <!1pu'> 
+C: no es otra cosa pues
+
+M: wütre fey <P>.
+C: eso es frío. 
+
+M: Doy kutrankelan reke iñche
+C: Y como que yo no tengo enfermedad
+
+M: fey iñche ñi mülenmu tati. 
+C: en mi existir pues.
+
+nfmcp-nmedp2_x_0003_nfmcp_00:
+M: <uh> Eymi kafey... kafey
+C: Tú también... también 
+
+M: ¿kimlafimi ta <uhm> kake kutran
+C: ¿no conoces otras enfermedades 
+
+M: <*SPA>o tami <uhm> tami kimniel chi che
+C: o de las personas que conoces 
+
+M: kutranün femngechi ¿chumngechi tañi llakon?
+C: que se enferman, ¿de cómo se mejoran?
+
+nfmcp-nmedp2_x_0004_nmedp_00: 
+M: +/ka/+ ¿Kake che ñi kutran?
+C:  ¿La enfermedad de otras personas?
+
+nfmcp-nmedp2_x_0005_nfmcp_00: 
+M: May. 
+C:  Sí. 
+
+M: Kimniel... kimniel chi che
+C: De las personas que conoces
+
+M: kutranün 
+C: que se enfermen
+
+M: femngechi ñi cheu ñi pel l'awen'
+C: cómo, dónde encuentran remedio
+
+M: cheu tañi l'awen'tuwün 
+C: dónde se medicinan
+
+M: ¿feyta fey cheu ñi temotun? 
+C: ¿ésta dónde se mejora?.
+
+nfmcp-nmedp2_x_0006_nmedp_00: 
+M: Kiñeke kutrankey 
+C: Algunos se enferman
+
+M: amukelay ta <*SPA>hospital pingelu
+C: no van al hospital que le dicen
+
+M: re fey +/amu/+ amufemkey machimeu,
+C: así no más, va inmediatamente donde la machi
+
+M: amukonkey medikameu
+C:  va a inmediatamente a la médica 
+
+M: fey femngechi ñi tripan 
+C:  de esta forma sale
+
+M: fey re machimu fey +/tremo/+ tremoluukey
+C: así en la pura machi se mejora
+
+M: tremoluukey ñi kuerpu
+C:  se mejora su cuerpo 
+
+M: ka tremoluukey ñi pu <*SPA>familia 
+C: también se mejora su familia 
+
+M: kiñe... kiñechi kutran kiñe rupamu%
+C: un... un enfermo en una casa 
+
+M: fey machimungeal 
+C: es para la machi 
+
+M: kintukefingün% kintukelafi ta <*SPA>hospital
+C: buscamos, no busca el hospital
+
+M: doy feyentuniefi ta machi
+C: le cree más a la machi 
+
+M: doy feyentuniefi medika.
+C:  le cree más a la médica.
+
+nfmcp-nmedp2_x_0007_nmedp_00:
+M:  Fey llapümcheyngün 
+C: Y mejoran a la gente
+
+M: fey kümeletukeyngün
+C: ahí vuelven a estar bien 
+
+M: femngechi fey felekeyngün. 
+C:  de esta forma están ellos.
+
+nfmcp-nmedp2_x_0008_nfmcp_00:
+M:  Fey <uh> feyta, feytachi pu che, pu lamngen <!1lamuen>
+C:  Y estas... estas gentes, las hermanas
+
+M: tüfey l'awen'tuukelu ta...
+C:  que se hacen remedio 
+
+M: l'awen'tuukelu ta opitalmu o medikamu
+C:  en el hospital, en la médica  
+
+M: fey kaley <!1kali> fey kaley <!1kali>? +/epu/+  
+C: es distinto, es distinto 
+
+M: ¿feytichi epu dungu kaley <!1kali> 
+C: esa dos cosas son diferentes, 
+
+M: ospitaldungu ka mapu l'awen' trürlay?
+C: lo del hospital no igual al remedio del campo?
+
+nfmcp-nmedp2_x_0009_nmedp_00: 
+M: Fey iñche fey <%> kalelay  iñche pilen
+C: Yo digo que no es distinto pienso yo
+
+M: trür famngechi feleyngu 
+C: así estan iguales 
+
+M: l'awen' mapuche l'awen'
+C: remedio, remedio del mapuche 
+
+M: fey newe awe llapumlay
+C: pues no mejora muy rápido 
+
+M: feykam re pütual müten 
+C: y como eso es sólo para beber pues 
+
+M: feyti wingkal'awen'
+C: ese remedio del huinca 
+
+M: fey ospitalmeu küpalu
+C: ese que viene del hospital 
+
+M: fey <uhm> <*SPA>y <*SPA>inyección piy ta wingka 
+C: esa inyección que dice el huinca 
+
+M: fey... fey <*SPA> directo reke amuy kuerpumu
+C: eso... eso como que va directo al cuerpo
+
+M: feymufey doy müte llapümmi reke +/rukanmu/+  
+C:  por eso como que se mejorar en el campo
+
+M: rukanünmukay fey feychi kutranngenmu
+C: como en la casa al tener esa enfermedad
+
+M: rukanünmu fey ka llapümlay.
+C: al tenerlo en casa tampoco se mejora.
+
+nfmcp-nmedp2_x_0010_nmedp_00:
+M:  welu trür felekayngu trür +/küme/+
+C: Pero iguales están, iguales  
+
+M:  kümekayngu kümey epuñpüle
+C:  de todas maneras es bueno, es bueno por ambos lados 
+
+M: kümey repente 
+C: es bueno de repente 
+
+M: fey kümewetukelay taiñ machi 
+C: para eso no es buena nuestra machi
+
+M: kümewetukelay taiñ <*SPA>médika llü= fey küllüpulay l'awen' llegpulay
+C: nuestro remedio de médica no es acertado
+
+M: fey <*SPA>hospital fey kafey kümey, 
+C: ahí el hospital  también en es bueno
+
+M: kümey iñchepüle fey kümeley müten. 
+C: yo digo que esta bien eso esta bien no más.
+
+nfmcp-nmedp2_x_0011_nfmcp_00: 
+M: <uhm> Feyti kaley <!1kali> doy kaley <!1kali> ta <uh> <uh> 
+C: Eso es diferente
+
+M: amulechi kutran deuma
+C: cuando ya ha avanzado la enfermedad
+  
+M: kam amulechi deuma <uhm>
+C: cuando ya está avanzado   
+
+M: fentrentulu deuma  kutran <uh>
+C: cuando ya lleva harto tiempo de enfermedad 
+
+M: ka feyti feula tuchi kutran.
+C: y ese que ahora ha tomado una enfermedad,
+
+nfmcp-nmedp2_x_0012_nmedp_00: 
+M: Al'üntuchi kutran
+C: Aquel que lleva mucho tiempo enfermo
+
+M: fey newe kümewetulay medikamu
+C: entonces no es muy bueno que se trate donde la médica 
+
+M: machimu ka, müley ñi wüne l'awen'tuwal feyti
+C: pues debe primero medicinarse donde la machi ella
+
+M: ospitalmeu fey kam al'üntuulu deuma 
+C:  por eso cuando la enfermedad es larga
+
+M: Fey eluwi ti kutran deuma fey newe kümewetulay ta medika
+
+M: Machi awe llapomlay 
+
+M: Feyti ospitalkay doy müte llapomtuy reke
+
+M: Feykam <*SPA>directo amuchi l'awen' inyeksionmu +/tuku/+
+
+M: Tukungelu fey <*SPA>directo reke amuy
+
+M: Feymu fey al'üntuchi  kutran fey doy kümetuy reke welu
+
+nfmcp-nmedp2_x_0013_nmedp_00:
+M: Kake kelluwünmu medika <*SPA>o machi l'awen' 
+C: En otras mañanas remedio de médica con remedio de machi 
+
+M: medikal'awen'  
+C: con remedio de médica, 
+
+M: <*SPA>o machil'awen'
+C: remedio de machi
+
+M: ka kümey.
+C:  también es bueno. 
+
+nfmcp-nmedp2_x_0014_nfmcp_00: 
+M: <*SPA>Ya <P> <Throat>.
+C: Ya.
+
+M: Feyta fey amulneayu tachi ngütram <hm> <P>
+C: Ahora seguiremos nuestra conversación 
+
+M: fey <uhm> eymi 
+C: y usted
+
+M: ¿fey chempipefuy ta... tachi...
+C:  ¿y qué podría decir esta...
+
+M: tachi ramtunmu <uhm>
+C: en esta pregunta 
+
+M: doydoy ta kimngefule ta l'awen' 
+C: si supiera más y más de remedio 
+
+M: mapul'awen'
+C: remedio de campo
+
+nfmcp-nmedp2_x_0015_nfmcp_00: 
+M: ¿Fey ka ospitall'awen' 
+C: También remedio del hospital 
+
+M: doydoy <uhm> trür <uhm> amulniengefule
+C: más, más juntos si fueran 
+
+M: doy kimngefule ta +/lapul/+
+C: si se supiera más de remedio 
+
+M: mapul'awen' fey +/kim/+ kümepefuy?
+C: ese remedio del campo,
+
+nfmcp-nmedp2_x_0016_nmedp_00:
+M: Rume kümefuy
+C: era muy bueno 
+
+M: kimngefule tüfachi mapunl'awen' <uhm>
+C: que conociera este remedio del campo
+
+M: medika machi küme l'awen' +/ni/+
+C: remedio de la médica, machi, es buen remedio
+
+M: niey <!1niy> niey <!1niy> küme l'awen' niekey <!1nieki>
+C: tiene su  buen remedio tiene 
+
+M: entendengenmu fey küme l'awen' niey
+C: al enterderla tiene buen remedio
+
+M: fey wingkapüle kay 
+C: y por el lado del huinca
+
+M: <*SPA>hospital <*SPA>doctor müley
+C: hay doctor del hospital 
+
+M: fey ayüfule tüfachi mapuche l'awen'
+C:  y si le gustara este remedio del campo 
+
+M: kiñewen amulealuengün 
+C: todos juntos irían 
+
+M: fey rume küme dungufel
+C: eso sería muy buena idea 
+
+M: faliltufilu tati mapunl'awen',
+C:  que valorara este remedio del campo
+
+M: medika l'awen' machi,
+C: remedio de medica, de la machi
+
+M: fey rume küme dungufel
+C:  eso sería muy bueno 
+
+M: iñche ñi +/fe/+ femngen chi ñi rakiduam welu 
+C:  así es mi pensamiento.
+
+nfmcp-nmedp2_x_0017_nmedp_00:
+M: faliltungenule fey ka kümelayay
+C: Pero si no se valora eso tampoco es bueno 
+
+M: tüfachi fantepun mongenmu 
+C: hasta donde he vivido
+
+M: falitungetule +/ta chi/+ taiñ l'awen' 
+C: si se valorara este... nuestro remedio 
+
+M: iñchiñ fey küme dungu 
+C: eso sería algo bueno
+
+M: iñche... iñchepüle rume ayünniefun
+C: yo, por mi parte  me gustaría mucho
+
+M: feychi dungu ayünien 
+C: esa idea me gusta
+
+M: ñi faliltungetual +/tam/+
+C: porque se valore 
+
+M: mapun... +/la/+ mapul'awen'
+C: remedio... remedio del campo 
+
+M: iñche ñi mapumu
+C:  en mi tierra 
+
+M: fey fill <*SPA>clase l'awen' müley
+C: pues hay todo tipo de remedio
+
+M: rume +/ka/+ küme l'awen' fey <*SPA>doctor 
+C:  sería muy bueno que el doctor
+
+M: <*SPA>hospital feyentufule 
+C: del hospital que creyera
+
+M: kiñemu müleleengün 
+C: si alguna vez estan ellos
+
+M: fey topanule <*SPA>doctor. 
+C: y si no lo toca el doctor, 
+
+M: fey welu konle
+C:
+
+nfmcp-nmedp2_x_0018_nmedp_00: 
+M: medika <*SPA>o machi
+C:  Y si entra la médica o la machi 
+
+M: fey kümefuy tüfachi mongenmu. 
+C: eso... eso sería bueno en esta vida.
+
+nfmcp-nmedp2_x_0019_nfmcp_00: 
+M: ¿Feymu ta fey doy notungepeafuy, 
+C: De esta forma se sabría más  
+
+M: notungepeafuy ta doydoy kutran?
+C: se salvarían más las enfermedades.
+
+nfmcp-nmedp2_x_0020_nmedp_00: 
+M: Fey notungeafuy
+C: Ahí se salvarían
+
+M: epuñpüle kelluuleengu
+C: si por ambos lados se ayudaran 
+
+M: tachi <*SPA>hospital tachi medika, 
+C: este hospital  esta médica 
+
+M: tachi machi 
+C: esta machi 
+
+M: doy notungeafuy taiñ kutran
+C: se encontraría más la enfermedad
+
+M: doy mütay llafafuy kiñe kutran
+C:  entonces se mejoraría una enfermedad
+
+M: <*SPA>o rume kargalechi kutran,
+C: o si esta muy cargada la enfermedad 
+
+M: rume amulechi kutran,
+C: aquella enfermedad muy avanzada
+
+M: rume konkülelu kuerpumu
+C: aquella que esta muy enraizada en el cuerpo 
+
+M: fey doy müte llafafuy. 
+C: así más rápido se mejoraría. 
+
+nfmcp-nmedp2_x_0021_nfmcp_00: 
+M: <uh> <uh> ¿Tunten tripantumu feyta fey doy <uhm> 
+C: En cuantos años esto más 
+
+M: doy ta mülekey ta <uhm> kutran
+C: hay más enfermedades
+
+M: <*SPA>o doy ta pengekey ta <uhm> kutran dungu?
+C: o se encuentra más la enfermedad
+
+M: ¿chem... chem tripantumu deuma pikeymi eymi
+C: novedad... en qué... en qué año ya sabías
+
+M: tamu mülekey ta doy kutran?
+C:
+
+M: ¿wechelelmu ta che 
+C: cuando las personas son más jóvenes
+
+M: kam doy amulechi chemu?
+C: o cuando la persona está más avanzada 
+
+M: ¿kam kuydaukenunmu che
+C: o cuando no se cuida la persona 
+
+M: fey amuy kutran?
+C: ahí entra la enfermedad?.
+
+nfmcp-nmedp2_x_0022_nmedp_00:
+M: Kuydauwünmu
+C: Por no cuidarse
+
+M: fey tuntenmurume
+C: hay en cualquier tiempo
+
+M: fey mülerumey kutran
+C:  aparece de repente la enfermedad
+
+M: welu kuydaununmu +/weche/+
+C: eso es porque la gente jóven  no se cuida  
+
+M: wechengele che,
+C: si es joven la persona 
+
+M: wechengele kiñe domo
+C: si es joven una mujer 
+
+M: kiñe wentru 
+C: un hombre 
+
+M: ka femngechi tuy müten kutran
+C: así también toma no más la enfermedad
+
+M: fey kuydaununmu müten 
+C: eso es por no cuidarse no  más 
+
+M: <*SPA> pero kuydautulele 
+C: pero si se vuelve a cuidar 
+
+M: fey newe kontulaayu kutran <*SPA>pues <!1pu'>
+C: ahí no le entra mucho la enfermedad 
+
+M: welu kuydaununmu mütewe
+C: pero si no se cuida mucho
+
+M: rangiñwentru, rangiñdomole deuma kiñe che
+C: cuando la persona este en la edad mediana hombre o mujer
+
+M: fey rume kontueyu ta chi kutran 
+C: la da mucho esta enfermedad
+
+M: kuydaununmu, kuydauwünmu
+C: por no cuidarse, por no cuidarse
+
+M: fey newe +/kontu/+ kontulaayu kutran ka.
+C: ahí no le entra mucho esa enfermedad.
+
+nfmcp-nmedp2_x_0023_nfmcp_00: 
+M: <uh> ¿Kutran ta fey kontueyu ta wentrengey ta,
+C: La enfermedad le entra a los hombres
+
+M: <*SPA>o domongey ta 
+C: o a la mujer que sea ésta
+
+M: fey <*SPA>igual ta fey kontueyu kutran? 
+C:  igual le entra esta enfermedad?
+
+nfmcp-nmedp2_x_0024_nmedp_00:
+M: May. 
+C: Sí.
+
+M: Wentrungeay,
+C: Si es hombre
+
+M: domongeay <*SPA>igual kontueyu 
+C: o si es mujer, pero le entra
+
+M: tunten... tunte tremayrume che
+C: cuanto... aunque haya crecido mucho la persona
+
+M: fey kuydaununmu reke
+C: como que no se cuidara 
+
+M: ka l'awen'tufemnuwünmu ka
+C: también si no se hace remedio
+
+M:  l'awen'tufemlay
+C: y si se medicina de inmediato 
+
+M: kiñe... kiñe che, <*SPA>o kiñe domo, wentru
+C: una... una persona... una mujer u hombre 
+
+M: fey notufemngetuy kutran 
+C: y se encuentra de inmediato la enfermedad 
+
+M: feymu fey doy amulay kutran.
+C: por eso entonces no avanza más la enfermedad.
+
+nfmcp-nmedp2_x_0025_nfmcp_00: 
+M: <uh> Fey doy <Noise> 
+C: Así más 
+
+M: ¿chumngechi ta fey <Throat> feyta fey <uhm> 
+C: ¿de cómo es esto 
+
+M: tungekepey <!1tungekepi> kutran 
+C: se contagian dice el enfermo
+
+M: femngechi fill kutran müleken,
+C: como hay distintas enfermedades
+
+M: kiñeke kimnielaymi
+C: algunas no las conozco
+
+M: fey chumngechi ta fey 
+C: y cómo esas
+
+M: ¿tungekepey?
+C: ¿cómo se contagiarán?
+
+M: ¿ <*SPA>o chumngechi ta kontukeyu kutran che?
+C: ¿o de que forma le entra la enfermedad la persona? 
+
+M: doy... doy mütay.
+C: más y más rápido.
+
+nfmcp-nmedp2_x_0026_nmedp_00: 
+M: Aling pingelu wüne kontukeyu che
+C: La fiebre le llega primero a la gente  
+
+M: rume wütretunmu 
+C: por mucho frío 
+
+M: welu ka kutrankay, 
+C: pero otra enfermedad también
+
+M: fey wecha kutran pingelu 
+C: esa se le dice mala enfermedad 
+
+M: fey peligrosu pikey <!1piki> pu wingka 
+C: eso es peligroso dicen los huinca 
+
+M: fey kuydautununmu 
+C: eso es porque no se cuidan
+
+M: <*SPA>aveces fey kañpüle küpakey ti kutran
+C: a veces esa enfermedad viene de otra parte  
+
+M: feymufey kuntukeeyu 
+C: de esta forma le entra 
+
+M: wechake kutran
+C: malas enfermedades
+
+M: welu aling fey wütremengelu 
+C: pero la fiebre  por el frío 
+
+M: fey kuydaununmu wütre 
+C: por no cuidarse del frío
+
+M: fey kontukeyu aling che
+C: ahí le entra la fiebre a las gentes 
+
+M: fey amurumekey rume kargakey 
+C: cuando avanza, carga mucho
+
+M: kafey kuydaununmu
+C: también por no cuidarse
+
+nfmcp-nmedp2_x_0027_nmedp_00: 
+M: mongel feymufey kutrankey. 
+C: al vivir de eso también de enferma.
+
+nfmcp-nmedp2_x_0028_nfmcp_00: 
+M: Feytachi kutran 
+C: Esta enfermedad
+
+M: fey <uhm> duami ta...
+C: eso necesita ...
+
+M: duami ta +/<*SPA>hospital <*SPA>hospital/+
+C: necesita hospital , hospital 
+
+M: opitalmu ta amual che 
+C: cuando va al hospital la gente
+
+M: <*SPA>o niey <!1niy> ta <*SPA>hospital...
+
+M: ospitalmu ñi...<*SPA>hospital...
+
+M: <*SPA>hospitalización pingekey kafey
+C: hospital  hospitalización también le dicen 
+
+M: <*SPA>hospital ¿fey duami tachi kutran?
+C: para esta enfermedad se necesita del hospital?
+ 
+nfmcp-nmedp2_x_0029_nmedp_00: 
+M: Aling ta rume karganmu
+C: Cuando la fiebre carga mucho
+
+M: fey duamniengey <*SPA>hospital
+C: eso necesita hospital 
+
+M: fau fey newe +/not/+ notungelay reke
+C: aquí como que no se mejora mucho
+
+M: medikamu <uhm> machimeu
+C: en la medica o en la machi
+
+M: rume karganmu kiñe aling,
+C: cuando carga mucho una fiebre
+
+M: fey +/ep/+ epu <*SPA>clase aling ka mülekeürkelu 
+C: como hay dos clases de fiebre
+
+M: kiñe fey re aling müten 
+C: uno es pura fiebre no más 
+
+M: fey newe +/kon/+ kontulayu 
+C: eso no le entra mucho
+
+M: fey ka müley ta aling 
+C: pues también existe la fiebre 
+
+M: ta fey pololuukelu reke
+C: 
+
+M: fey wingka 
+C: y el huinca 
+
+M: fey <*SPA>tifus pikeürkey feychi kutran 
+C: entonces le llama tifus a ese enfermedad
+
+M: +/kontue/+ kontuelmu kiñe che
+C: cuando le entra a una persona
+
+M: kiñe wentru kiñe domo
+C: cuando le entra a un hombre
+
+M: fey müleürkey ñi amual ospitalmeu
+C: entonces debe ir al hospital
+M: feymeufey  llafpuy doy mütay llafpuy 
+C: ahí... ahí no más se mejora, se mejora
+
+M:  fey feychi kutran
+C: esa enfermedad.
+
+nfmcp-nmedp2_x_0030_nfmcp_00: 
+M:  <Noise> <uh> ¿Chem... <uh>
+C:  Qué...
+
+M: chem l'awen' ta... <uh> chem l'awen' ta müley <uhm> <uhm> pütual
+C: qué remedio... qué remedio dede beber
+
+M: <*SPA>o tañi... tañi pichi <uhm> ngañkoam
+C: o cuando se siente un poco decaída
+
+M: ta +/weda/+ ngañkonagam ta kutran?
+C: cuando calmar la enfermedad
+
+M: ¿chem... chem l'awen' 
+C: qué,  qué remedio
+
+M: fey doy kümepefuy
+C:  será más bueno
+
+M: ta feytachi nienulu l'awen' ti kutran?
+C: para esta enfermedad que no tiene remedio.
+
+nfmcp-nmedp2_x_0031_nmedp_00:
+M: Nienulu <%>.
+C: El que no tiene...
+
+nfmcp-nmedp2_x_0032_nfmcp_00: 
+M: Nienulu l'awen'
+C: Que no tiene remedio
+
+M: ta fey <uhm> rume ta deuma <uhm> +/al/+ alingkonkülechi kutran deuma
+C: cuando esta fiebre  ya ha avanzado demasiado
+
+M: femngechi, chumngechi ta fey
+C: el mapuche cómo ... 
+
+M: ¿chem l'awen' ta <uhm> pütupeafuy che?
+C: ¿qué remedio bebían las gentes? 
+
+M: ta deuma felelu wecha kutran 
+C: cuando ya estaba esta mala enfermedad
+
+M: nielu +/tüng/+ pichi tügüm... tügümuwam. 
+C: el que tiene calma, un poco de calma para calmarse.
+
+nfmcp-nmedp2_x_0033_nmedp_00: 
+M: Rume konchi kutran 
+C: Cuando recién entra la enfermedad 
+
+M: ka müley <!1müli> ñi amual ospitalmeu
+C: debe  ir al hospital
+
+M: fey medika fey chemlay reke
+C: y la medica como que no hace mucho
+
+M: awe llapomlay reke 
+C: como que no lo mejora mucho
+
+M: fey kam re pütuel chi l'awen' müten
+C: o eso es remedio sólo para beber no más 
+
+M: ka deumayal 
+C: 
+
+M: fey newe foromu newe amulay re piukemu müten amuy fey,
+C: y en los huesos no va mucho sólo en el corazón avanza
+
+M: fey müleürkey ñi +/amunual/+ 
+C: entonces ella debe ir al hospital
+
+M: amual ospitalmeu 
+C:  debe ir al hospital
+
+M: kiñe femngechi rume kargachi kutran. 
+C: una vez que carga mucho la enfermedad.
+
+nfmcp-nmedp2_x_0034_nfmcp_00: 
+M: <uhm> ¿müley ta... müley ta <uhm> mapul'awen' <P>
+C: ¿Hay... hay remedio del campo 
+
+M: mülepey ta fey ta <P> ta llakokelu?
+C: habrá para esto,  esos que alivian? 
+
+M: may ñi llakokegel chi l'awen'
+C: remedio que alivia 
+
+M: ¿müley mapul'awen'mu? 
+C: ¿hay en la medicina del campo? 
+
+M: femngechi 
+C: de estos 
+
+M: chem kutranngeyrume  che
+C: cuando la persona tiene cualquier enfermedad 
+
+M: deuma tulu 
+C: cuando necesita
+
+M: ¿fey <uhm> yemeyeme ta l'awen'tuulu 
+C: si va a buscar para remediarse 
+
+M: ¿fey müley ta mapu l'awen'?
+C: ¿entonces hay remedio del campo?
+
+nfmcp-nmedp2_x_0035_nmedp_00: 
+M: May. 
+C: Sí.
+
+M: Fey müley fey aling,
+C: Entonces cuando hay fiebre
+
+M: re aling fey wella fey, 
+C: cuando es pura fiebre entonces el arbusto medicinal
+
+M: wella pingekelu feychi l'awen'
+C: huella le dicen a ese remedio
+
+M: fey wadkünkomu kütrorüngekey 
+C: y con agua hervida se refriega
+
+M: fey pütukey kiñe alingkülelu 
+C: hay lo bebe él que tiene fiebre 
+
+M: fey korelkeeyu tañi kuerpu 
+C: hay le corre su cuerpo
+
+M: fey kom tripatuy aling <*SPA>pues <!1pu'>
+C: así le sale toda la fiebre 
+
+M: fey ka müleykay fey ka kutran
+C: así también hay otras enfermedades 
+
+M: fey <%>
+C: 
+
+M: fey newe pepilngelay metewe
+C: ahí no se puede hacer mucho
+
+M: welu fey ñochingekey ñi kalman 
+C: pero eso el lenta su mejoría
+
+M: ñochingekey ñi llafün 
+C: es lento su mejoría
+
+M: deumangenmu l'awen' tachi...
+C: cuando se prepara remedio para esto...
+
+nfmcp-nmedp2_x_0036_nmedp_00: 
+M: fill <*SPA>clase l'awen' 
+C: distintos clases de remedio
+
+M: trapomngenmu
+C: cuando se junta 
+
+M: wadkümngemu fey pütuniekey kutran. 
+C: cuando se hierve eso se bebe.
+
+nfmcp-nmedp2_x_0037_nfmcp_00: 
+M: <*SPA>Ya <Throat> feula fey <P>
+C: Ya, y ahora...
+
+M: feula fey konayu ta... ta <P>tami... tami <*SPA>familia
+C: y ahora vamos a entrar con tu familia
+
+M: <*SPA>o chuchingeayrume 
+C:  o de quien sea  no más 
+
+M: ta fey ta... tami... tañi kutran <hm>
+C: y tu...su enfermedad
+
+M: tun ta kutran kiñekeltu
+C: algunas veces cuando se enferma,
+
+nfmcp-nmedp2_x_0038_nfmcp_00:
+M:  <*SPA>o cheu tañi amun 
+C: o  donde va
+
+M: cheu tañi +/lla/+ pen ta llakon 
+C: donde encuentra mejoría
+
+M: feychi +/feych/+ cheu tañi pen l'awen' <uhm> 
+C: así donde encuentro remedio
+
+M: femngechi ramtun iñche <uhm> 
+C: de esta forma pregunté yo 
+
+M: tukupayayu <P>
+C: entraremos 
+
+M: ¿eymi tami...<uhm> tami <*SPA>familia
+C: ¿tu... tu  familia 
+
+M: ¿kiñekeltu <uhm> fey kutrani ta... 
+C: ¿a veces se enferman ellos
+
+nfmcp-nmedp2_x_0039_nfmcp_00:
+M: ta wengenkülechi +/pa/+
+C: Cuando esta triste 
+
+M: wengenkülechi... <uh> <uh> 
+C: cuando esta triste 
+
+M: wengenkülechi antü 
+C: cuando esta triste el día 
+
+M: ta deuma rupalelu kutran... kutraningün?
+C: cuando ya ha pasado la enfermedad,  se enferman
+
+nfmcp-nmedp2_x_0040_nmedp_00: 
+M: Wengen reke kutranlayngün
+C: Como robo no se enferman
+
+M: fey kuyfimungen kutraningün 
+C: antiguamente se enfermaron 
+
+M: kiñe fotümkay 
+C: un hijo
+
+M: fey kutranfuy tremkülelu ka, 
+C: se había enfermado cuando estaba creciendo también
+
+M: fey welu fey kintulfiñ kiñe medikamu
+C: pero esa vez le busqué en una médica
+
+M: fey re aling müten pieyu 
+C: es pura fiebre le dijo
+
+M: fey elungey l'awen' 
+C: así le dieron remedio
+
+M: fey... fey +/lla/+ llakotuy yelmefiñ medikamu
+C: así... así se sanó lo llevé en una medica 
+
+M: yelelfiñ <!1yelfiñ> willeñ
+C: le lleve la orina 
+
+M: fey feymufey elungey
+C: ay ahí entonces le dieron
+
+M: ngüneduamngey 
+C: la observaron
+
+M: "feychi kutrran nieürkey tami fotüm
+C: "esa enfermedad tenía tu hijo
+
+M: feychi kutran 
+C: esa enfermedad
+
+M: re aling müten reke doy nielay". 
+C: pura fiebre no más, nada más tiene". 
+
+nfmcp-nmedp2_x_0041_nmedp_00: 
+M: Fey elueneu kiñe rangifotellal l'awen'
+C: Así me dio media botella de remedio
+
+M: feymufey llaftuy 
+C: y con eso se mejoró
+
+M: feyka müten 
+C: eso no más 
+
+M: doy fey kam re aling mütenürke
+C: por eso nada más, era pura fiebre 
+
+M: doy kake kutrannu 
+C:  no era otra enfermedad 
+
+M: wecha kutrannu
+C: no es mala enfermedad 
+
+M: "fey femngechi eluniafimi
+C: de esta forma le aplicarás
+
+M: re afünko deumalnielafimi
+C: le harás  pura agua hervida 
+
+M: re karüko +/elu/+.  
+C: pura  agua cruda.
+
+M: elulayafimi" pienu tañi medika 
+
+M: fey femelfiñ 
+
+M: fey llakotripatuy feminga 
+
+M: fey kake doy wecha kutran nielay 
+
+M: fey tayu kutranam ñi fotüm.
+
+nfmcp-nmedp2_x_0042_nfmcp_00:
+M: ¿Eymi fey chem kutran...
+C: ¿Y usted qué enfermedad
+
+M: chem kutran <uh> ngeytufimi eymi?
+C: qué enfermedad tienes tú ahora?
+
+M: ta fey nielu, tulu? 
+C: la que tienes, cuando te dió 
+
+M: ¿chem kutran? 
+C: qué enfermedad conoces
+
+M: ¿ kimfimi ti kutran nielu tami fotüm?
+C: ¿esa enfermedad que tiene tu hijo?
+
+M: ¿kimfimi ti kutran
+C: conoces esa enfermedad
+
+M: ¿chumngechi ñi tun kutranlu?
+C: ¿cómo se calmó de esa enfermedad?
+
+nfmcp-nmedp2_x_0043_nmedp_00: 
+M: Re kutranlongkoy müten
+C: Sólo tuvo dolor de cabeza no más 
+
+M: fey ñi femngechi konpay ñi kutran.
+C: de esa manera le entró su enfermedad 
+
+M: Kutranlongkoy 
+C: se enfermó de la cabeza 
+
+M: fey turpu amuyamuy 
+C: pero nunca... avanzó y avanzó
+
+M: fey kargay 
+C: y le cargó 
+
+M: fey awantawelan piy  tranawi
+C: y no aguantó más entonces cayó en cama
+
+M: fey wüla fey yefiñ <uh> kiñe medikameu
+C: ahí recién la lleve a donde una médica 
+
+M: fey medika fey kimeyu
+C: y la médica le diagnosticó
+
+M: re aling müten pieyu 
+C: es pura fiebre le dijo 
+
+M: fey feymufey yelafiñ ospitalmeu 
+C: por eso no lo lleve al hospital 
+
+M: re femngechi llaftripay
+C: solo así se mejoró
+
+M: mapunl'awen'mu müten.
+C: con remedio del campo no más.
+
+nfmcp-nmedp2_x_0044_nfmcp_00: 
+M: <uhm> Fey kimuukey re... re feyti cheu
+C: Ese, sabe solo eso, eso donde
+
+M: ta re mapu... mapul'awen' 
+C: esto fue con puro campo... remedio del campo 
+
+M: l'awen'tukelu müten 
+C: con la que medicina no más 
+
+M: feymufey kimuukey
+C: ahí entonces supo 
+
+M: ta fey chumechi ñi mülen 
+C: de cómo estaba 
+
+M: chumngechi ñi...ñi kümelkalen 
+C: como estaba bien
+
+M: feyti <*SPA>diagnostico pingekey ta wingkadungunmu
+C: a eso se le dice diagnostico en el habla del huinca
+
+M: ¿fey... fey kimuukey re mapul'awen'mu müten
+C: y... y es que sabía sólo con remedio del campo no más 
+
+M: fey kimuukey
+C: ella sabía entonces
+
+M: kam opitalmu femngechi ka amukey kimuwalu?
+C: o en el hospital así va también la enfermedad.
+ 
+nfmcp-nmedp2_x_0045_nmedp_00:
+M: <hm> Re famngechi kimuukey
+C: De esa manera no más se conoce así misma 
+
+M: re yelngekey <uhm>
+C: cuando sólo lo llevan así  
+
+M: willeñ müten yelngekey
+C: le llevan  orina no más, le  llevan
+
+M: fey feymu mülekey ti <*SPA>diagnostico pingelu.
+C:  de esa forma obtenienen lo que le llaman diagnostico.
+
+nfmcp-nmedp2_x_0046_nfmcp_00: 
+M: <*SPA>Ya. 
+C: Ya. 
+
+nfmcp-nmedp2_x_0047_nmedp_00: 
+M: Fey... fey kimkeyu medika
+C:  Y... y la machi la diagnostica
+
+M: chem kutran ñi nien
+C: qué enfermedad tiene 
+
+M: kom kimkeyu kuerpumu 
+C: todo lo del cuerpo lo sabe
+
+M: fey elukeyu femngechi l'awen'
+C: así le da este tipo de remedios
+
+M: famngenmu% ka% iyael% ka l'awen'
+C: y para esto otro remedio
+
+M: wingkal'awen' fey feypikey
+C: 
+
+M: ka feychi l'awen' kintulafimi
+C: y ese otro remedio no lo buscaste
+
+M: feychi l'awen' ngillalafimi pikefi
+C: ese remedio le compraré 
+
+M: duamünmu, 
+C: le dice para cuando se necesite 
+
+M: duamnunmu feytachi l'awen' müten
+C: cuando se requiere este remedio no más
+
+M: fey kümeay pikey
+C: ese será bueno dice,
+
+M: welu fill medika fey +/eluki/+ elukefi <uhm>
+C: pero a todas las médicas les da 
+
+M: kintulngeal l'awen' 
+C: para que le busquen remedios 
+M: ta <*SPA>farmacia pingekelu.  
+C:  lo que le llaman farmacia.
+
+M: fey feymu ngillalngekey
+C:
+
+nfmcp-nmedp2_x_0048_nmedp_00: 
+M: Femngechi ñi duamün fey llaftripakey. 
+C: Así su de su mal estado de salud sale aliviado.
+
+nfmcp-nmedp2_x_0049_nfmcp_00: 
+M: ¿Feyta fey <P> feyti l'awen' fey <P> <uhm> <P>
+C: ¿Entonces ese remedio
+
+M: fey <P> pütuafimi
+C: ese... ese beberás
+
+M: feychi l'awen' pingenmu
+C: porque le dijeron ese remedio
+
+M: fey ngillakefimün ti l'awen'? 
+C: y ustedes compran ese remedio? 
+
+M: ¿ <*SPA>o... <*SPA>o pitalmeu  kiñekenag elungekeymün?  
+C: ¿o en el hospital le dan?
+
+nfmcp-nmedp2_x_0050_nmedp_00: 
+M: Fey ngillakefiyiñ farmasiameu. 
+C: Eso lo compro en la farmacia. 
+
+nfmcp-nmedp2_x_0051_nfmcp_00: 
+M: ¡Aa!<*SPA>ya. 
+C: ¡Ah! ya.
+
+nfmcp-nmedp2_x_0052_nmedp_00: 
+M: Amukelaiñ ospitalmeu.
+C: No vamos al hospital 
+
+M: Ospitalmeu fey mülelay tachi l'awen'
+C: en el hospital no hay este remedio
+
+M: müley farmasiameu müten
+C: hay en farmacias no más 
+
+M: feymeu ngillalngey 
+C: así si compras 
+
+M: fey famngechi pütungey pikeyiñmu 
+C: de esta forma se toma te dice 
+
+M: fey femngechi pütukefi l'awen' 
+C: pues así bebe el remedio 
+
+M: ñi kutran fey llafkey.
+C: y su enfermedad se sana.
+
+nfmcp-nmedp2_x_0054_nfmcp_00: 
+M: <uhm> ¿Feytachi l'awen' putufielmu
+C: ¿Y al tomar este remedio
+
+M: ta mapu l'awen' fey küme sentiukefey?
+C: este remedio del campo ahí se sentía bien?
+
+nfmcp-nmedp2_x_0055_nmedp_00: 
+M: May.
+C: Sí.
+
+M: Fey küme dentuykefi
+C: Ahí se siente mejor
+
+M: *kinfaluuki kishu *feypiki ti kutran
+C: solo se da a conocer dice el enfermo
+
+M: fey *ramtuniengeki
+C: él cuando le preguntan
+
+M: *chumechi ñi sentiwün 
+C: de cómo se siente 
+
+M: kümelkateu ti l'awen'
+C: si le hizo bien el remedio 
+
+M: kam kümelkanueteu 
+C:  o que no le hizo bien
+
+M: fey kümelkaeneu pi *piki kishu
+C: eso me hizo bien dice... dice ella 
+
+M: fey kinfaluu müta müten ni kümelkateu. 
+C: así de inmediato se notó su mejoría.
+
+nfmcp-nmedp2_x_0056_nfmcp_00: 
+M: <uhm> Fey kutrannunmu 
+C: Ahí cuando se enferma 
+
+M: ¿fey siempre ta fey *putuki re mapu l'awen'?
+C: ¿así siempre toma remedio del campo? 
+
+M: chem dentiwün *famechi weda dentiumün
+C:  cualquier cosa que sienta así cuando se siente mal
+
+M: chem kutranmu
+C: en cualquier enfermedad
+
+M: ¿ey mapu l'awen' fey putukeymi?
+C:  ¿ntonces bebes remedio del campo?
+
+M: ¿utukimün pu <*SPA>familia eymi?
+C: ¿tú y tu familia beben?
+
+nfmcp-nmedp2_x_0057_nmedp_00: 
+M: Iñchiñ fey epuñpüle kintukein l'awen'
+C: Nosotros buscamos remedios por ambas partes 
+
+M: amukein ospitalmu
+C:  vamos al hospital 
+
+M: ka amukein medikamu 
+C: también vamos donde la médica 
+
+M: fey *tunieki *famechi
+C: así tomamos de esa forma
+
+M: epu l'awen'tulekin feyti <*SPA>hospital
+C: tomamos dos tipos de remedios esos del hospital 
+
+M: wül-lu, medika ka wül-lu 
+C: lo que da la médica y también lo que da 
+
+M: fey kiñemu fey kellukülekeymu. 
+C: algunas veces las dos se ayudan.
+
+nfmcp-nmedp2_x_0058_nfmcp_00:
+M:  <*SPA>Ya<uhm> 
+C: Ya.
+
+M: Ramtueyu deuma ta
+C: Ya te pregunté 
+
+M: fey chemu tami ayiken <uhm> 
+C: y porque te gusta...
+
+M: eymi fey chem chemu <uhm>*pikimi
+C: y tú qué... porque dices
+
+M: ta doy kimi kiñekemu 
+C: y algunas veces sabe más
+
+M: ¿fey doy kimepila mapu l'awen'?
+C: ¿y será mejor el remedio del campo?
+
+M: <*SPA>o kiñe kutranmu
+C: o en una enfermedad
+
+M: ¿fey *kümi pital l'awen'?
+C: ¿es bueno el remedio del hospital?
+
+nfmcp-nmedp2_x_0059_nmedp_00:
+M:  May. 
+C:   Sí.
+
+nfmcp-nmedp2_x_0060_nfmcp_00: 
+M: ¿<*SPA>O kutranmu ta kimni <uhm> 
+C: ¿O cuando se enferma conoce
+
+M: feyti epu l'awen' ta putungenmu?
+C: esos dos remedios para beber?
+
+nfmcp-nmedp2_x_0061_nmedp_00:
+M:  Kom kutran reke <uhm> 
+C:  Como que todas las enfermedades 
+
+M: kümeke <*SPA>hospital 
+C: es bueno el hospital
+
+M: welu yaftripalmu küme yaftripalmu
+C: pero cuando se mejora bien, se mejora bien
+
+M: *müli ñi ka putual medika l'awen'
+C: debe beber remedio de la médica 
+
+M: fey *yelngeki ñi willen 
+C: y se le lleva su orina 
+
+M: chem... chem kutran ni niewen 
+C: qué... qué enfermedad le queda
+M: <*SPA>y kimnieyal y kimnienmu 
+C: y para que se sepa y al conocerlo
+
+M: fey medika fey elukeyu fey pichi l'awen'
+C: y la medica le da un poco de remedio 
+
+M: kimi tüfachi l'awen'
+C:  conoce este remedio 
+
+M: fey kümey *piki fey... fey *yaftripaki. 
+C: eso es bueno dice eso...entonces sale sano.
+
+nfmcp-nmedp2_x_0062_nfmcp_00: 
+M: <*SPA>Ya <uhm> <uhm>
+C: Ya.
+
+M: ¿Eymi ta fey chempipefeymi <*SPA>pa' <uhm>
+C: ¿Y tu qué dirías para
+
+M: fey tañi, 
+C: para que 
+
+M: fey tañi kuyda, kuydafel che
+C: para que se cuide, se cuide la persona
+
+M: doy tañi tremoleafiel che,
+C: para que este más sana la gente 
+
+M: chem *chumechi 
+C: cómo de qué forma 
+
+M: chem dungu mülepefuy tañi inangeal,
+C: qué idea se puede seguir
+
+M: tremoleal che?
+C: para que este bien la persona?
+
+nfmcp-nmedp2_x_0063_nmedp_00:
+M: Tremoleal che
+C: Para que la gente  esté sana 
+
+M: *müli ñi kuydawal müten <uhm> 
+C:  debe cuidarse no más 
+
+M: pekankanual ñi kuerpu 
+C: no hacer cosas en vano con su cuerpo
+
+M: kam kuerpu kiñe makina reke 
+C: o el cuerpo es como una maquina
+
+M: fey müley ñi kuydautual wütretunual <uhm> 
+C:  se debe cuidarse de  no pasar frío
+
+M: pekanka iyal inual <uhm> 
+C: no comer cualquier comida 
+
+M: rume newentunual
+C: no hacer mucha fuerza
+
+M: kafey wecha newentuy che
+C: también cuando hace mucha fuerza la gente
+
+M: fey kafey *kutrankeürki ta che
+C: y es que ahí también se enferma la persona 
+
+M: fey newe kutrannual
+C: para no enfermarse mucho
+
+M: müley ñi kuydautual
+C: se debe cuidarse  
+
+M: kom iñchiñ tuntelen pu che
+C: todas las gentes que habemos 
+
+M: fey *müli ñi kuydautuken
+C: entonces debe cuidarse
+
+M: fey ñi kutrannual
+C: para no enfermarse
+
+M: mütewe kuydautunün fey...
+C: cuando no se cuida mucho entonces...
+
+nfmcp-nmedp2_x_0064_nmedp_00: 
+M: fey... fey rume *müliki ti kutran
+C: entonces... entonces suele existir muchas enfermedades  
+
+M: ka tunmu wechake kutran
+C: también cuando al tomar un mala enfermedad 
+
+M: fey müley ñi <*SPA>a feypifemal
+C:  entonces debe decir de inmediato
+
+M: *femechi kutrantun -/kim/-
+C:  ese tipo de enfermedad tomé
+
+M: kimlafin
+C:  no la conozco 
+
+M: fey müley ñi amuürkeal ospitalmu
+C: pues entonces debía ir al hospital  
+
+M: inarumewal 
+C:  para tratarme
+
+M: <*SPA>o *müli ñi amual medikamu artiru
+C: o debe ir a médico inmediatamente
+
+M: fey notufemi ta wechake kutranmungel
+C: así se mejora rápido de malas enfermedades que pudiera tener
+
+M: *femuechi fey newe kutranlay 
+C: de esa forma no se enferma mucho
+
+M: newe amulay tachi... tachi kutrantunmu
+C: no avanza mucho esta... en esta enfermedad  
+
+M: kiñe che <*SPA>o kiñe domo. 
+C:  una persona o una mujer. 
+nfmcp-nmedp2_x_0065_nfmcp_00: 
+M: <*SPA>Ya feyta doy deumayu reke tachi *nütram <uhm>
+C: Ya, ahora ya casi terminamos con esta conversación
+
+M: eymi nielmi ta chempial
+C: si tú tienes algo que decir
+
+M: tachi nütranmu 
+C: en esta conversación 
+
+M: ka pichi feypiafuymi
+C: puedes decir un poco más 
+
+M: *nütramkafuymi feula. 
+C:  puedes conversar ahora. 
+
+nfmcp-nmedp2_x_0066_nmedp_00: 
+M: Feley lamngen
+C: Así es hermana,
+
+M: fey fentren nütramkayu 
+C: pues hemos conversado bastante
+
+M: feula fentren dungu ramtuen 
+C: muchas preguntas me hizo ahora
+
+M: fey rume küme dungu ta <*SPA>y iñche feypian
+C: y esto es muy bueno y yo diré 
+
+M: müley ñi  epuñpüle ñi l'awen'tual che
+C: las gentes deben medicinarse por ambas partes 
+
+M: wingkapüle 
+C: por el huinca
+
+M: ka mapuche kishu ñi mapuchemu 
+C: también por el mapuche, donde sus propios mapuche
+
+M: fey ka *müli tachi wingka
+C: también el huinca debe 
+M. ñi falilngetual tüfachi medika 
+C: valorar  esta médica 
+
+M: machi pinnga ti tayi 
+C: machi, dije denantes
+
+M: fey feychi dungu *ulan lamngen 
+C: ese mensaje voy a dar hermana
+
+M: fey *falinngeli epuñpüle
+C: y si ambas partes se valoran 
+
+M: <*SPA>o epuñopüle kellulengu
+C: o si se ayudan por ambos lados 
+
+M: tüfachi mapu l'awen'
+C: este remedio el campo,
+
+nfmcp-nmedp2_x_0067_nmedp_00: 
+M: ka wingka l'awen'
+C: también el remedio huinca
+
+M: fey küme, küme amuay
+C: entonces va bien... bién
+
+M: tañi l'awen'tual 
+C: para medicinarse
+
+M: fey notungeay tañi kutran
+C: así se sanará su enfermedad 
+
+M: chem kutran wechake kutran
+C: cualquier enfermedad, malas enfermedades 
+
+M: <*SPA>o pichike kutran mülele
+C: o si hubiere pequeñas enfermedades 
+
+M: fey ngengen notungeay 
+C: de esa manera se mejorará
+
+M: femnuli fey amuaiñ 
+C: si no hago eso entonces iremos 
+
+M: doy wechakünuaiñ tañi kutran 
+C: agravaremos más nuestra enfermedad
+
+M: fey fillpüle rupay kafey
+C: y por todas partes pasa también
+
+M: fillpüle amuay fey,
+C: eso irá por todas partes
+
+M: fey küme dungun 
+C: eso es buena noticia 
+
+M: fey *müli kiñe che kutranle
+C: y si una persona se enferma
+
+M: müley notufemngeal
+C: se debe medicinar inmediatamente 
+
+M: chem kutranngelerume 
+C: y si tuviere cualquier enfermedad 
+
+M: pichi kutranngeyu 
+C: que le incomode sólo un poco 
+
+M: ta kutranrume mülerumekey
+C: la enfermedad aparece de repente
+
+M: infesiosio pi ta wingka 
+C: infeccioso dice el huinca 
+
+M: fey... fey mengel fey wecha dungu welu.
+C: eso es malo, pero.
+
+nfmcp-nmedp2_x_0068_nmedp_00: 
+M: Ta *müli <*SPA>hospital
+C: Pero existe el hospital
+
+M: *müli ñi amufemal
+C: debe ir inmediatamente 
+
+M: feychi dungu feychi wecha kutrantule che
+C: ese problema, si esa enfermedad le da a la gente
+
+M: infesioso pi ta wingka 
+C: infeccioso dice el huinca 
+
+M: fey *müli ñi amufemal ospitalmu
+C: entonces debe ir inmediantamente al hospital 
+
+M: fey -/notu/-, notufemeyu feychi dungu
+C: y esa cosa la mejora de inmediato
+
+M: fey mapuche l'awen'
+C: y el remedio mapuche
+
+M: fey notulayu reke,
+C: com que no la mejora
+
+M: fey rume alingmay notukeyu 
+C: cuando le da mucha fiebre la mejora
+
+M: welu rume alingmay 
+C: pero cuando tiene mucha fiebre
+
+M: fey infesioso fey *müli ni amual ospitalmu 
+C: y el infeccioso ahí debe ir al hospital 
+
+M: fey <*SPA>doctor fey katrütufemeyu
+C: y el doctor la contrarresta inmediatamente
+
+M: tachi wecha kutran fey...
+C: esta  mala la enfermedad...
+
+nfmcp-nmedp2_x_0069_nfmcp_00: 
+M: <*SPA>Ya gracia, 
+C: Ya gracias,
+
+M: <*SPA>gracia lamuen 
+C: gracias hermano
+
+M: feytachi tachi ngülam pian
+C: este consejo diré
+
+M: tachi nütram amultifiyu <uhm> 
+C: de lo que hablamos en esta conversación 
+
+M: küme tripafule küme entendengefule
+C: que saliera bien, si se entendiera bién
+ 
+M: küme entendengefule
+C: si se entendiera bién 
+
+M: kafey kümefuy 
+C: también sería bueno 
+
+M: fey ka anifuli 
+C: y si me sentara de nuevo
+
+M: ta ka kiñe... ka kiñe rupa
+C: y una...una vez más
+
+M: fey nütramkayal
+C: para  conversar
+
+M: feytachi dungumu 
+C: de estas cosas  
+
+M: fey doy ka kiñe nütram 
+C: y más una conversación 
+
+M: fey ka amulniafuyu <*SPA>depue' <uhm>. 
+C: entonces después seguiríamos. 
+
+nfmcp-nmedp2_x_0070_nmedp_00: 
+M: Feley lamngen 
+C: Así es hermana,
+
+M: fey feychi dungu küme dungu
+C: y ese asunto, es buen asunto
+
+M: küme dungu tati l'awen' dungu
+C:  es muy bien asunto pues el tema del remedio
+
+M: kutrantu akormekeyu
+C: estamos hablando de enfemerdades 
+
+M: fey mülenmu kutran 
+C: y porque existe la enfemerdad
+
+M: mülekelu kutran kafey, ,
+C: y como suele haber enfermedades
+
+M: fey müleyin notunge notungeal müta müten kutran
+C: entonces debemos diagnosticar y mejorar inmediantamente la enfermedad
+
+M: <*SPA>o amumentale kutran 
+C: o si aumenta la enfemedad
+
+M: fey newe kümelay 
+C: eso no es muy bueno
+
+M: fey *müli notufemngeal 
+C: se debe medicinar de inmediato 
+
+M: chem kutran rume 
+C: cualquier enfermedad que sea
+
+M: <*SPA>y feychi dungu 
+C: y ese problema 
+
+M: akordamekeyu tati lamngen María 
+C: nos estamos acordando pues, hermana María 
+
+M: fey welu notufemngele 
+C: pero si se atiende rápidamente
+
+M: fey newe -/amu/- amuwetulay tañi kutran. 
+C: entonces no avanza mucho su enfermedad.
+
+nfmcp-nmedp2_x_0071_nfmcp_00:
+M: <*SPA>Ya... ya lamuen
+C: Ya... ya hermano
+ 
+M: feyta deumay ta nütram 
+C: pues ha terminado la conversa
+
+M: chageltumay lamuen. 
+C: muchas gracias pues, hermano.
+
+nfmcp-nmedp2_x_0072_nmedp_00: 
+M: Chageltu lamngen.  
+C: Gracias hermana.

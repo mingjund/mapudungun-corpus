@@ -1,0 +1,10 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nfmcp-nfemm1_x_%04d_nfmcp_00
+nfmcp
+nfmcp-nfemm1_x_%04d_nfemm_00
+nfemm
+UserLables: 0
+LableMenuFile
+C:\Documents

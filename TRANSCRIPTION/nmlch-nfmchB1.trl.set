@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 159
+SpeakerNum: 2
+nmlch-nfmch_x_%04d_nmlch_00
+nmlch
+nmlch-nfmch_x_%04d_nfmch_00
+nfmch
+UserLables: 1
+<*SPA>
+LableMenuFile
+C:\Program

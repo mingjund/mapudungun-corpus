@@ -1,0 +1,2436 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nmmbc1 
+; Last changes made on 01/21/2002 
+; Transcriber: Marcela Collio 
+; Comments:  
+; Traduce: Mario Melipil.
+
+nmlch-nmmbc1_x_0000_nmlch_00: 
+M: Mari mari peñi <SPA>don Manuel.
+C: Hola hermano don Manuel.
+
+nmlch-nmmbc1_x_0001_nmmbc_00:
+M: Mari mari peñi.
+C : Hola hermano.
+ 
+nmlch-nmmbc1_x_0002_nmlch_00: 
+M:¿Chumuechi anta müley tami mongen
+C :¿Cómo es que estás en su vida  
+
+M: tüfapüle tami lof? 
+C:  en esta tu comunidad?
+
+M:chumli tami weyin
+C: como estan en su casa
+
+M: kom tüfamew kom kümelefuymün. 
+C: todos estamos bien  aquí.
+
+nmlch-nmmbc1_x_0003_nmmbc_00:
+M: Tüfamu küme wünmaliiñ tati
+C : Aquí todos amanecimos bien  
+
+M: feyta fachantü are antüngi
+C : en este día  que es muy caluroso
+
+M: femngen trekarupayavuiiñ 
+C : de esta forma andamos caminando
+
+
+M: femuen kulliñmu pichiken
+C : por eso en un mes
+
+M: entuniiñ tañi rupal 
+C: estoy sacando como lo paso
+
+M: rupa antüliiñ nga kulliñmew
+C : estamos pasando los dias con los animales
+
+M: chem küdaw rume feyta inakiyiñ 
+C: cualquier  trabajo seguimos 
+
+M: ta rukamu ka
+C : tambien en esta casa 
+
+M: veyta kompületaki antü pu peñi <Noise>.
+C : esto en todos los dias pues hermano.
+
+nmlch-nmmbc1_x_0004_nmlch_00: 
+M: Feley peñi feley mongenmu 
+C : Así es peñi asi es nuestro vivir
+
+M: ta feli ta mongen 
+C : asi es nuestro vivir 
+
+M: chemu rume ta rupaleki antü ka <uh>
+C : en cualquier cosa se pasa el dia 
+
+M: niyi ta duam che
+C : tiene nesecidad la gente
+
+M: feymu ta ka küme duamküli 
+C : por eso tambien esta tranquilo
+
+M: pingeki feyngepi tüfi 
+C : dicen le dicen ha él 
+
+nmlch-nmmbc1_x_0005_nmmbc_00: feyngi 
+M:<SPA>Porque trengün longkoy che
+C : Porque le duele la cabeza  a la gente
+M: dekansay ñi piwke
+C : descanza el corazón 
+
+M: ayiwküli chem küdaw rume entuy
+C : se alegra con cualquier trabajo que saca 
+
+M:  femonole kay che
+C :  si no lo hace la persona 
+
+M: falilay umawtual
+C : no vale el dormir
+
+M:<SPA>porque küdawmu
+C: porque por el trabajo
+
+M: mongeli che küdawmu
+C: vive la persona, por el trabajo
+
+M: trepeluwküli che newentuy kom 
+C: esta bien la persona tiene fuerza y todo
+
+M: ayiwi ñi piwke tuchi ñi vecinu  kom -/ayi/-
+C : se alegra el corazón por cualquier su vecino
+
+M: ayiwküli nengümkiawlu
+C: esta alegre cuando se mueve
+
+M: chem küdawmu rume
+C: en cualquier trabajo que sea 
+
+M: <SPA>porque kuyfi fütake che 
+C: porque antiguamente la persona de edad 
+
+M: feypi trepe longkoleaymi <uh>
+C: eso deijo, vas a estar con la cabeza despierta
+
+M: umawtulayaymi
+C: no vas a dormir
+
+M: feymu ta Ngünechen kelluaymu 
+C:  ahí Ngenechen te ayudara 
+
+M: fey müten niaymi
+C: asi no más tendras 
+
+M: chuchi tami yi illuel
+C: lo que tu desees
+
+M: feyta niaymi tati 
+C: así tendrás 
+
+M: piki kuyfi pütakeche 
+C : dicen antiguas personas 
+
+M: vemngechi ta rulpa antülekeiñ
+C: de esta forma pasamos los días 
+
+M: feychi dunumu ta püta peñi.
+C: esa es gran cosa hermano.
+
+nmlch-nmmbc1_x_0006_nmlch_00:
+M: Kimimi femuechi dungu
+C: Conoses ese problema 
+
+M: allküpaymi ka allküpaymi eymi tüfi. 
+C: escuchaste tambien escuchaste tu.
+
+nmlch-nmmbc1_x_0007_nmmbc_00:
+M: Pütake <SPA>abueluyem nütramkakevuy
+C: Los grandes abuelos conversaban
+
+M: kuyfi trempaviñ püta abueluyem 
+C:  antes vine a conocer a mi   gran finado abuelo
+
+M: fey feypikevuy
+C:  así decia 
+
+M: küdawmu falintungi che pi
+C : con el trabajo se valora la persona 
+
+M: küdawmu Ngünechen leliwküleyu
+C:  en el trabajo ngenechen lo mira
+
+M: pi küdawmu kom fütake che
+C: dice con el trabajo 
+
+M: feypi entuy tiwpüle kulliñ
+C: dijo, saco por ahí los animales
+
+M: <SPA>no re küdawtunmu anta mülelay ta che 
+C: por el trabajo no es que vive la persona 
+
+M: <SPA>porque kiñe üñüm 
+C: porque  un pajaro
+
+M: kiñe kulliñ rume küdawi günawi
+C: un animal se cuida bien 
+
+M: <SPA>entonce femuechi 
+C: entonces de esta forma
+
+M: nengümküle tati peñi Lui.
+C: que se este moviendo hermano luis.
+
+-nmmbc1_x_0008_nmlch_00:
+M: Feley peñi
+C: Así es hermano
+
+M: feli inche ta kamapu küpan
+C: asi es yo de otra tierra vengo
+
+M: ta nütramkamean tañi peñi pipen
+C: le voy a conversar con mi hermano dije
+
+M: feymu ta pepapeveyu tati peñi
+C: por eso lo vengo a ver hermano 
+
+M: fey ¿ini pingi tami lof tüfa?.
+C: y ¿cómo ser llama su comunidad?.
+
+nmlch-nmmbc1_x_0009_nmmbc_00:
+M: Tañi lof ta <%> Rawe pingi tati 
+C: Mi comunidad se llama Rahue 
+
+M: Rawe üy niyi
+C: Rahue es el nombre
+
+M: <SPA>porque rawmapungekevuy piam
+C: porque era tierra de greda  dicen
+
+M: kuyfi tachi mapu rume llifüñkevuy 
+C: en esta tierra --------------------------
+
+M: ta che kuyfiem metawe dewmakefuy piam
+C: la gente antigua hacia cantaros dicen
+
+M: itrofill metawe,
+C: distintos cantaros
+
+M: meñkuwe rali rag rali rag matera
+C: cantaros plato de greda plato de greda 
+
+M: rag challa itrofil dewmakefuy piam
+C: olla de greda distintas cosas hasian dicen
+
+M: feymu ta rawe tuwün anay
+C:  por eso de rahue vengo
+
+M: rawe che piawi pütake püra
+C: gente de rahuedicen 
+
+M: we treka wentru
+C: nuevo endar del hombre
+
+M: femuechi ta kimpafiñ
+C: de esta forma lo vine a conoser 
+
+M: pütake che tañi elel
+C: las personas de edad la dejaron 
+
+M: tañi üy tachi rawe tati.
+C: es el nombre de este rawe pues.
+
+nmlch-nmmbc1_x_0010_nmlch_00:
+
+nmlch-nmmbc1_x_0011_nmlch_00: 
+M: Ah.
+C: Ah.
+ 
+M: femuechi anta Rawe pingi tami mapu. 
+C: por eso rahue es que le dicen a su comunidad.
+
+nmlch-nmmbc1_x_0011_nmmbc_00: 
+M: May femuechi 
+C: Si de esa forma
+
+nmlch-nmmbc1_x_0012_nmlch_00:
+M: Femuechi <uh> 
+C: De esta forma
+
+M: feychi püllü 
+C: ese espiritu
+
+M:fey müle rume mülekerkefuy rag.
+C: ahí había mucha greda. 
+
+nmlch-nmmbc1_x_0013_nmmbc_00:
+M: Rume müli rag
+C: Hay mucha greda 
+
+M: petu müli ta müte mawenolu
+C: todabía hay --------------------
+
+M: müte newe pewfaluwelay
+C: no se nota muy bien
+
+M: kuyfi tüvachi mapumu
+C: antiguamente en esta tiera
+
+M: kiñe abuelayem entukevenu 
+C: un abuelo sacaba 
+
+M: tiwpüle entukevuytachi mallu rag 
+C: por ahí sacaba esta greda
+
+M: püllümu tripakevuy mallu
+C:  en el espiritu salia el mayu
+
+M: ka kiñe lüfo pingi 
+C: también un lufo le dicen 
+
+M: ka teñiam makuñ añil dewmangeken 
+C: para teñir manta que se hacen 
+
+M:-/chumi/- chuchi 
+C: de como
+
+M:chem <SPA>color rume entungeay
+C: cualquier color se saca 
+
+M: fey kintungelkevuy 
+C: ese se le buscaba
+
+M: kudeke tallarinürke feli mallu -/famüt/-
+C: con grandes tallarines es el mayu
+
+M: <SPA>tallarin fantekeki
+C: del pote de un tallarines 
+
+M: fey tukungi wadkümngi
+C: ese se le acha y se hierbe
+
+M: chumkelu ta kudeke püllü
+C: lo que hacen antiguos espiritu
+
+M: feyti ngüneduamkelan
+C: eso no lo estoy observando
+
+M: welu femuchi kimpafiñ
+C: pero de esta forma lo vine a conoser 
+M: <SPA>mina pi ta wingka
+C: mina dice el huinca 
+
+M: <SPA>mina fey inche kim kimlayiñ
+C: mina y yo
+
+M: <SPA>mina feychi dungumu
+C: mina por ese asunto 
+
+M: ka wehcekeche ngüneduamkelay
+C: la gente joven no se da cuenta 
+
+M: <SPA>mina.
+C:  mina.
+
+nmlch-nmmbc1_x_0014_nmmbc_00:
+M: Mallu feyta mallu
+C:
+
+M: pemekevuyiñ mallu
+C:  asi lo estabamos haciendo
+
+M: lig ligküli pu trangliñ reke
+C: blanco esta como la helada 
+
+M: welu triralekevuy
+C: pero estaba cortado
+
+M: rag püllümu trig trigküli
+C: la greda suena y suena
+
+M: fanteke ta trigküli ta mapu
+C: de este porte dura, dura la tierra
+
+M: <SPA>hermano fanteke ta trigküli.
+C: hermano de este porte esta duro.
+
+nmlch-nmmbc1_x_0015_nmlch_00: 
+<uhm> 
+
+nmlch-nmmbc1_x_0016_nmmbc_00:
+M: Tüfi ta pekevun leliwülkevun
+C: Eso encontraba y lo miraba 
+
+M:  rume trempaviñ
+C: lo encontre mucho
+
+M: pütakechemu 
+C: con las personas de edad
+ 
+M: inayawlu pütake che.
+C: anda a la siga de las personas.
+
+nmlch-nmmbc1_x_0017_nmlch_00:
+M: Felen mongen felen mongen peñi
+C: Así es la vida asi es la vida hermano
+
+M: ¿tunten tripantu 
+C: ¿ cuantos años 
+
+M:dewma niyimi tüfa eymi ka. 
+C: ya tienes tu ya. 
+
+nmlch-nmmbc1_x_0018_nmmbc_00:
+M: Kayu mari epu tripantu amulnen.
+C: Sesenta y dos años ya llevo.
+
+nmlch-nmmbc1_x_0019_nmlch_00:
+M: Kayu mari epu tripantu. 
+C: Sesenta y dos años.
+
+nmlch-nmmbc1_x_0020_nmmbc_00: 
+M: May feyta
+C: Si esta 
+
+M: <SPA>once septiembremu 
+C: once de septiembre 
+
+M:feyta mari kiñe kon chi  septiembre
+C: el once de septiembre 
+M: <SPA>no'y'que may ta puwlan 
+C: no es que llege 
+
+nmlch-nmmbc1_x_0021_nmlch_00:
+M: Ta mari epu mari küla. 
+C:  El once y doce.
+
+nmlch-nmmbc1_x_0022_nmmbc_00:
+M: Mari küla, mari küla. 
+C: Trece trece. 
+
+nmlch-nmmbc1_x_0023_nmlch_00:
+M: Feli peñi
+C: Así es hermano
+
+M: re felen rupakelay ta che
+C: asi no mas no lo pas la gente
+
+M: fey inche ta nien duam tati peñi
+C:  asi yo tengo nesecidad hermano
+
+M: fey pemeantañi peñi pipen
+C: y voy e ver e mi hermano dije
+
+M: nütramkameafiñ pipen 
+C: le voy a conversar dije
+
+M: feyta amuleay nütram ka peñi
+C:  asi ira nuestra conversación 
+
+M: ramtuayu tüfa
+C: le preguntare esto 
+
+M: mari <uh> kayu mari <uh> küla tripantu
+C: dies y seis trece años 
+
+M: dewma niyimi fentren dungu
+C: ya tenias artos problemas
+
+M: kimpelaymi tüfa
+C: debes saber esto
+
+M: kuyfi pepapelaymi 
+C:  antoguamente no encontraste
+ 
+M: tami ptake che
+C:  su personas de edad
+
+M: chumuechi tañi mongelekefel
+C: de cómo vivian 
+
+M: chumngekefel tañi mongen peñi
+C: como era su vivir hermano
+
+M: chumngekefel tañi nütram engün
+C: como era la conversacion de ellos 
+
+M: kalepetulay tüfa mongen
+C: de otra forma estara esta vida 
+
+M: piki pikimi peñi .
+C: dice dices hermano.
+
+nmlch-nmmbc1_x_0024_nmmbc_00: 
+M:<uh> Inche ngüneduamkeno<%>
+C: Yo me doy cuenta
+
+M: ngüneduamken tüfa tañi chumletun
+C: me doy cuenta de cómo estamos 
+
+M: kuyfi <SPA>claro
+C: antiguamente claro
+
+M: pichike pichiken trempain
+C: de apoco de apoco cresimos 
+
+M: ka feyta kuyfi palikevuyiñ
+C: tambien entes jugabamos a la chueca 
+
+M: tüfa ngewelay palin
+C:  ahora ya no hay palin 
+
+M: afkentu paliyiñ ngüñikevuyiñ
+C: arto jugamos al pali 
+
+M: kintukevuyiñ ta yagel tiwpüle
+C: buscabamos yagel por ahi
+
+M: ñengüm feychimu müli ñengüm
+C: digueñes hay abia digueññes 
+
+M: mülikintukevuyiñ pukem palin
+C: habia, soliamos buscar en el invierno 
+
+M: fey <Noise> <%> cosechamu
+C: asi en la cosecha 
+
+M: kintukevuyiñ ko kowüll,
+C: buscabamos agua, saliba,
+
+M: kowüll pingi üñi pingi ka
+C: saliba le dicen tambien le dicen uni
+
+M: mülekefuyem alimentu
+C: habia  alimento 
+
+M: fey ngüñükelavuy pu pichikeche
+C:  asi no pasaban hambre los niños  
+
+M: pikevuy ngüñükelavuy
+C: decia no pasaban hambre 
+
+M: iñchiñ ka trempayiñ 
+C: nosotros tambien cresimos 
+
+M: feyta kulliñ kuydawekevuyiñ
+C: los animales cuidabamos 
+
+M: femuechi femuechi mongen.
+C:  de esta forma vivir. 
+nmlch-nmmbc1_x_0025_nmmbc_00:
+M: Akutuyiñ rukamu
+C: Llegamos a la casa 
+
+M: wüla pun wüla akutuyiñ
+C: en la noche llegamos 
+
+M: kulliñ akultuyu 
+C: trajimos los animales
+ 
+M: fey pichike ingepatuy
+C:  asi de apoco vino
+
+M: fey ka umawtuy ka antümu
+C:  asi durmio al otro dia 
+
+M: ka femuechi ka femuechi
+C:  tambien de esta forma 
+
+M: ilekevuyiñ welu tronglikelavuyiñ.
+C:  comiamos pero no adelgasabamos. 
+
+nmlch-nmmbc1_x_0026_nmlch_00:
+M: Ah.
+C: Ah.
+
+
+
+nmlch-nmmbc1_x_0027_nmmbc_00:
+M: Motrileiñ femngen mongen
+C:  Estamos gordos si asi es la vida
+
+M: feyta pütake che
+C: estas personas de edad 
+
+M: müna awantay
+C: aguanta arto
+
+M: doy pataka epu mari tripantu niyi
+C: más de 120 años tienen 
+M: fütakeche l'ay pingi
+C:  personas de edad dicen 
+
+M: tunten tripantu ni fütacheyem
+C: cuantos años tiene la persona de edad
+
+M: pataka epu mari
+C: 120 años 
+
+M: tüfa puwelay 
+C: ahora ya no se encuentra
+
+M: ni pura mari tripantu
+C: con 80 años 
+
+M: rume kayu mari tripantu
+C: ni 60 años 
+
+M: niyi che 
+C: tienen las gentes 
+
+M:<SPA>ya küntrongewi
+C: ya estaba cojo
+
+M: küme pewelay küdawmu peñi. 
+C: no ve bien en el trabajo hermano. 
+
+nmlch-nmmbc1_x_0028_nmlch_00:
+M: Pelowelay che. 
+C:  No ve la persona. 
+
+nmlch-nmmbc1_x_0029_nmmbc_00:
+M: Pelowelay.  
+C: Ya no ve. 
+
+nmlch-nmmbc1_x_0030_nmlch_00:
+M: Peñi fey tüfaeymi 
+C: Hermano ahora usted
+
+M: tami rakiduammew <uh>
+C: su pensamiento 
+
+M: pepaymi ptakeche welu
+C: encontro persona de edad,pero
+
+M: feyta ngewelay müte <uhm>
+C: aquí no hay mucho
+
+M: kuyfi ka chumletuy mongen
+C:  antiguamente como estaba la vida 
+
+M: fewla felekelavuy
+C: ahora no estaba asi
+
+M: ka eymi kuyfi pichi wentrungelu
+C: tambien usted cuando heras chico
+
+M: chem kutran doy inaymu peñi. 
+C: que enfermedad le sigio más hermano.
+
+nmlch-nmmbc1_x_0031_nmmbc_00:
+M: Chafo mülevuy 
+C:  Habia refriado 
+
+M: kuyfi chafokevuy che 
+C: antes se refriaba la gente 
+
+M: <SPA>porque kuyfiam müte
+C: porque antiguamente  no mucho
+
+M: ngekelafuy sapatu okota müten
+C: no abia sapatos pura chalas no más 
+
+M: tremiyiñ chafo kutran
+C: cresimos con enfermedad de refrio
+
+M: chafo femuechi kompay wüne
+C:  refriado asi entra primero
+
+M: ka feyta cahfoy che
+C: asi se refria la gente 
+
+M: küdeke püllü wünelu kintuy
+C: viejos espiritu primero busca 
+
+M: kachan l'awen' kachan l'awen'
+C: remedio lavado remedio lavado
+
+M: pingelay ñanku pingi l'awen'
+C: no le dicen -------le dicen el remedio
+
+M: trintri l'awen' pingi folle l'awen'
+C: remedio sambo le dicen al remedio de canelo
+
+M: pingi ka vey wadkümelngiñ
+C: le dicen a ese asi se le hierve 
+
+M: fey trürür kütrürelngi külen <Noise>
+C: asi junto se resfriega el kulen
+
+M: mongetuyiñ külleñmu
+C: vivimos en un mes 
+
+M: folle ka kütrorelngiñ
+C: hojas tambien se le refriega 
+
+M: pichifey ütrüngiyiñ 
+C: un poco le refregamos 
+
+M: ka pütokoyiñ folle
+C: tambien tomamos 
+
+M: fey pütrü müna fürey folle anay.
+C:  es muy fuerte el canelo oye.
+
+nmlch-nmmbc1_x_0032_nmlch_00:
+M: Mngetukefuymün.
+C: Asi vivian ustedes.
+
+
+nmlch-nmmbc1_x_0033_nmmbc_00:
+M: Mongetukefuyiñ mongetukevuy .
+C: Viviamos viviamos. 
+
+nmlch-nmmbc1_x_0034_nmlch_00:
+M: ¿Chem anta kachan l'awen' peñi tüfa?
+C: ¿ Que remedio lavo hermano?
+
+nmlch-nmmbc1_x_0035_nmmbc_00:
+M: Kachan l'awen' tripay
+C:  Lavado de remedio salio
+
+M: wingkul mapumu tüfa 
+C: altura remedio salio
+
+M: cancha rawe püle müli kachan l'awen'
+C:  cancha de rahue por ahí hay remedio labado 
+
+M: kiñe kachu kiñe trürpay
+C: un pasto se junto 
+
+M: kachuengu tüfa ankü chi kachu. 
+C:   con el pasto este pasto seco.
+
+mbc1_x_0036_nmmbc_00nmlch_00:
+M: Kachu l'awen'.
+C: Remedio de pasto.
+
+nmlch-nmmbc1_x_0037_nmmbc_00:
+M: Kachu l'awen' tati trintri l'awen'
+C: Remedio de pasto ese remedio sambo
+
+M: ka pingi ñamkü l'awen'
+C: tambien le dicen naku remedio
+
+M: pingevuy chod rayenngi 
+C: le decian que tiene flor amarilla
+
+M: feyem kiñen trür küpalingün. 
+C:  asi todos juntos  vienen. 
+nmlch-nmmbc1_x_0038_nmlch_00:
+M: Ka femuechi mapumu tripaki?.
+C:  Tambien de esta forma  de la tierra sale.  
+
+nmlch-nmmbc1_x_0039_nmmbc_00:
+M: Ka femuechi mapumu tripay .
+C:  De esta forma de la tierra sale. 
+
+nmlch-nmmbc1_x_0040_nmlch_00:
+M: Folle l'awen' kay peñi.
+C:  Remedio de canelo hermano
+
+M: chumuelumu tripaki.
+C: por que sale. 
+
+nmlch-nmmbc1_x_0041_nmmbc_00:
+M: Folle l'awen' feyta tripay ta mawidamu
+C:  remedio de canelo esto sale en el monte
+
+M: ka feyta müli pütake menoko
+C: tambien hay grandes  vertientes 
+
+M: menoko mawida müli
+C:  vertiente que hay en el monte 
+
+M: kuyfi ta menoko ta ngeyfi ta mapu ka 
+C: antes la vertiente 
+
+nmlch-nmmbc1_x_0042_nmlch_00:
+M: Ah. 
+C: Ah.
+
+nmlch-nmmbc1_x_0043_nmmbc_00:
+M: Ngeyfüy mapu kulliñ
+C: dueño era el animal de la tierra 
+
+M: kuñiwtukungi ta kulliñ
+C:  hay que tener cuidado con el animal 
+
+M: mawidamu menokomu
+C:  la vertiente del monte 
+
+M: konkenon ta kulliñ 
+C:  donde no dentra los animales 
+
+M:pingi fey iñchiñ fey iñchiñ
+C: nos dijieron a nosotros 
+
+M: inayawülkemu kulliñ
+C:  que te sigue  el animal 
+
+M: menokomu folle müli müli
+C:  la vertiente hay canelo
+
+M: küla külkül pingi follengu
+C:   tres cachos le dicen en el 
+
+M: feyta külkülentu müli follentu
+C:  
+
+M: müli llikangi pu llikangi follentu 
+C: hay, da miedo, da miedo pues
+
+M:<SPA>porque rume repetangi ta folle
+C: porque se respeta mucho el remedio
+
+M: <SPA>como ñidol mamüll reke 
+C: como la leña mayor 
+
+M: rume repetangi robleengu
+C:  se rspeta mucho con el roble 
+
+M: trawülepelayngu. 
+C: deben estar juntos. 
+
+nmlch-nmmbc1_x_0044_nmlch_00:
+M: Ah. 
+C: Ah.
+
+
+nmlch-nmmbc1_x_0045_nmmbc_00:
+M: Füta roble walle walle
+C: Roble viejo hualle hualle 
+
+M: ta rume llamngi
+C: a esto se respeta mucho
+
+M: ka walle ini rume
+C: tambien el hualle cualquiera 
+
+M: pekan ka watrongekelay
+C:  asi no más no se quebra 
+
+M: pikevuy iñ pütakeche
+C: decian nuestras personas de edad 
+
+M: watrokelamün walle
+C: no quebren el hualle
+
+M: wallemu ta tremi ta che
+C: el el hualle crecio la gente 
+
+M: feymu ta tripay ta trafla
+C: ahí sale la madera 
+
+M: feymu ta ruka müli ta kümeke wingka
+C:  por eso en la casa hay buenos huncas 
+
+M: ni ta kümeke ruka walleengu
+C:  tiene buena casa con la casa 
+
+M: pikevuy kuyfi
+C: decian antiguamente 
+
+M: kimngekelavuy tachi <SPA>planta
+C: no se conosia esta planta 
+
+M: pinu kaliptu ngekelavuy kuyfi. 
+C:  pino y eucaliptus no habia ante. 
+
+nmlch-nmmbc1_x_0046_nmlch_00:
+M: Ah. 
+C: Ah.
+
+nmlch-nmmbc1_x_0047_nmmbc_00:
+M: Ngekelafuy feyta walle
+C: No habia este hualle
+
+M: rume sakiñ mamüll pngeki tati
+C: una leña muy querida 
+
+M: rume fali pingeki
+C: vale mucho dicen 
+
+M: feymu
+C: por eso 
+
+M: ta fente küme llamnekeviñ tachi walle
+C: lo mucho que respetamos a ese hualle
+
+M: mamüll folle
+C: leña de arbusto 
+
+M: ka fey kutranmu koni datuwün
+C: en la enfermedadentra en
+
+M: müli folle müli palin
+C: hay arbusto hay palin 
+
+M: müli pu yengi folle
+C: hay le llevan canelo
+
+M: fey küme tripay
+C: asi sale bien 
+
+M: chem dungu rume follemu pu peñi. 
+C: cualquier problema con el canelo hermano.
+
+nmlch-nmmbc1_x_0048_nmlch_00:
+M: Folle pingi pipimi
+C: Hojas le dicen dijo
+
+M: eymi tüfa doy llamün
+C: usted ahora respeta mas
+
+M: ñidol mamüll ürke pingi
+C: leña mayor es que le dicen 
+
+M:  ¿chumuelu chi pikimikay peñi tüfa feli?.
+C: ¿ porque sera dices hermano asi esta?.
+
+nmlch-nmmbc1_x_0049_nmmbc_00:
+M: <uh> Folle witrami kiñe machi. 
+C: Canelo se levanta una machi.
+
+nmlch-nmmbc1_x_0050_nmlch_00:
+M: Ah koni anta machimu ta folle. 
+C:  Ah entra el la machi el canelo.
+
+nmlch-nmmbc1_x_0051_nmmbc_00:
+M: Machimu koni folle
+C: En la machi entra el canelo
+
+M: <SPA>porque feymu
+C: porque por eso
+
+M: adentungi ta kiñe kutran
+C:  se le encuentra la enfermedad
+
+M: kutran pipiyu nga nütram,
+C:  por enfermedad le dije, conversación
+
+M: nütram  entupeyu nütram 
+C: conversación sacamos conversación 
+
+M:<uh> follemu aden adentungi
+C: con el canelo 
+
+M: machi fey wünen l'awen'
+C: en la machi es el primer remedio
+M: feymu ta rume repetangi
+C: po eso se le respeta mucho
+
+M: wünen l'awen' choyke müli ñi <%> 
+C:  primer remedio  el choique 
+
+M: folle kiñe llañkañ
+C: el canelo un lancan 
+
+M: müli nienal folle
+C: hay que tener canelo
+
+M: fey tuntepuw rume tripantu
+C:  hay en cualquier año
+
+M: enteru folle
+C: entero canelo
+
+M: kambiakelay t'apül'
+C: no cambia de hoja 
+
+M: <SPA>siempre kallfüleki 
+C: siempre esta azul
+
+M:<SPA>porque menokomu mülelu kay
+C: porque en la vertiente
+
+M: <SPA>porque chod chodtukela
+C: por que se pone amarillo
+
+M: folle kiñeke pekelan
+C: Canelo derrepente no encuentro 
+
+M: folle ta anken kidu peñi
+C:  canelo solo se seca hrmano
+
+M: anüküy folle piki pin
+C:  produce el canelo dicen 
+
+M: allkükelan fenteñma
+C:  no e oido hasta ahora 
+
+M: tüfa pu tremün tati welu allkükelan
+C:  aquí creci pero no he escuchado
+
+M: walle ka fey tunte wingkul rume mülen .
+C:  el hualle en cualquier cerro hay mucho.
+
+nmlch-nmmbc1_x_0052_nmmbc_00:
+M: Tuchi üñfitumengi ta walle
+C: Con que se le hace dano al hualle
+
+M: ka anküy
+C: tambien se seca 
+
+M: ka fey ta inche mongechengen
+C: por eso yo estoy sano
+
+M: ka felellelayiñ kuydawlayiñ
+C:  tambien no estamos asi, no lo cuidamos
+
+M: anküyiñ ka pu ka 
+C: nos estamos secando tambien pues
+
+M: femuechi amuli taiñ mongen tati. 
+C: de esta forma va nuestro vivir. 
+
+nmlch-nmmbc1_x_0053_nmlch_00:
+M: Feyti folle chew doy tripaki
+C: Y ese remedio en donde sale más 
+
+M: peñi tüfa eymi tami rakiduammu
+C:  hermano este su penzamiento
+
+M: tami kimünmu
+C: por tu conosimiento
+
+M: tuchimu doy müleki folle
+C: en donde hay más canelo
+
+M: tüfa tami lofmu müleykam
+C: aquí en su comunidad 
+
+M: müleki lewfu püle chi
+C: hay por el rio
+
+M: müleki folle
+C: hay canelo
+
+M: kam müleki menokomu. 
+C: tambien hay en la vertiente.  
+
+nmlch-nmmbc1_x_0054_nmmbc_00:
+M: <SPA>No <uh>. 
+C:  No.
+
+M:<SPA>no lewfu püle ngelay
+C: no por el río no hay
+
+M: lewfu püle ngelay folle
+C: por el río no hay canelo
+
+M: inche tüfa koylatupelafun
+C: yo aquí abre mentido 
+
+M: püta peñi folle tripaki lewfumu
+C:  hermano el canelo sale del rio
+
+M: pingele pekelan folle lewfumu
+C: digan no encontre canelo en el rio
+
+M: wingkulmu mawidamu
+C: en el cerro o en el monte
+
+M: mawidamu müli di fey <%> 
+C:  en el monte hay ese 
+
+M: pi ta wingka.
+C: dice el huinca.
+
+nmlch-nmmbc1_x_0055_nmlch_00:
+M: Menoko.
+C:  Vertiente.
+
+nmlch-nmmbc1_x_0056_nmmbc_00:
+M: Menoko menoko
+C:  Vertiente vertiente
+
+M: feyta feymu müli ta chem
+C: por eso hay cosas
+
+M: folle inal püram
+C: a la oriila del canelo
+
+M: pürachi mawidamu
+C: que crece en la montaña
+
+M: müli tachi folle kom femuechi. 
+C:  hay este canelo todo asi.
+
+nmlch-nmmbc1_x_0057_nmlch_00:
+M: Ah. 
+C:  Ah.
+
+M: fey <uh> peñi
+C: así hermano
+
+M: feyti chi folle
+C:  este canelo
+
+M: rume pütra falin mamüll ürke
+C: es una leña de mucho valor
+
+M: ta mapuche tañi mongenmu
+C:  en la vida del Mapuche 
+
+M: ka fill dungumu
+C: o en distintas cosas
+
+M: kümeke chi dungumu komperkelu ti.
+C: en buenos trabajo entra.
+
+nmlch-nmmbc1_x_0058_nmmbc_00:
+M: Küme ngillatunmu
+C: Es bueno para hacer rogativa
+
+M:  tripay pu ngillatunmu
+C: sale en las rogativas
+
+M: <SPA>porque chumuelu kay folle pingi
+C: porque  canelo le dicen 
+
+M: <SPA>porque follemu itrofill koni
+C: porque con el canelo entra en distintas partes 
+
+M: pipen nga ti 
+C: le dicen asi
+
+M: vey ka chemu koni piavun chi
+C:  tambien en que entra puedo decir 
+
+M: rewemu koni <uh> 
+C: en el rehue tambien entra 
+
+M: füta rewe ta müli kom
+C: el los grandes rehue hay de todo
+
+M: pu machi ni rewe adentuni
+C: en los rehue de la machi 
+
+M: rewe ngillatun lukutuy
+C:  rehue rogativa se agacha
+
+M: femuechi feymu ta
+C: de esta forma 
+
+M: falintukeviñ ta folle
+C: valoro el canelo
+
+M: rume repetakevin ta folle
+C: lo respeto mucho al canelo 
+
+M: pekan ka kiñe t'apül' entumeviñ
+C:  de puro gusto saque una hoja 
+
+M: tüfa entuayu 
+C: aquí voy a sacar 
+
+M: ta perdonan ngen folle
+C: me vas a perdonar dueño del canelo 
+
+M:  ngen ko menoko pikeviñ
+C: dueño del agua 
+
+M: mawidamu miawi famuechi
+C:  en el monte anda ese 
+ 
+M: feymu ta rume falintukeviñ
+C: por eso lo valoro mucho
+
+M: llikakeviñ folle. 
+C: le tengo miedo al canelo.
+
+nmlch-nmmbc1_x_0059_nmlch_00:
+M: Yamkefimi. 
+C: Lo respeta.
+
+nmlch-nmmbc1_x_0060_nmmbc_00:
+M: Yamkefiñ rume yamkefiñ <uh>. 
+C: Lo respeto mucho, lo respeto.
+
+nmlch-nmmbc1_x_0061_nmlch_00:
+M: Fey peñi welu allküken
+C: Así es hermano pero e escuchado
+
+M: ka kañpüle ka nütramkaken
+C: tambien en otras partes converso
+
+M: eymi ka femuechi 
+C: y usted de este 
+M: rakiduam nierkimi
+C: penzamiento tienes
+
+M: tfataiñ küpalememu
+C: de esto que nos trajeron
+
+M: mapuche tañi kimünmu
+C:  conocimiento del mapuche
+
+M: ruem yamkefuy ta folle
+C: se habia perdido bastante el canelo
+
+M: rume yamkefuy menoko
+C: se perdio mucho la vertiente
+
+M: ka rume yamngekefuy 
+C: también se pierde mucho
+
+M: ta mawida pingi kuyfi <uh>
+C: la montaña le decian antes 
+
+M: lewfu rume 
+C: el río siquiera 
+ 
+M: ta re femuechi trekantungekelafuy
+C: así no más no se caminaba
+
+M: pingi 
+C:  decían 
+
+M: Mapuche rume niefuy kimün 
+C:  el Mapuche tenia mucha sabiduria
+
+M: pingi feyngepefuy tüfi peñi.
+C: decian era eso pues hermano.
+
+nmlch-nmmbc1_x_0062_nmmbc_00:
+M: Feli ka feyta lewfu tüfa
+C: Así es este río 
+
+M: Ngünechen eli tafachi lewfü
+C: ngenechen dejo este río 
+
+M: kimngelay chumuechi chew ñi küpan
+C:  no se sabe de donde vino
+
+M: lewfü feyta rüf inangele
+C: el río di se sigue
+
+M: ta chuchimu ta küpan
+C: de donde viene
+
+M: feyta kimngepeavuy
+C:  hay sé sabría 
+
+M: ka welu Ngünechen elkünuy
+C: también ngenechen lo dejo
+
+M: iñchiñ tüfa eliñmu Ngünechen
+C: a nosotros lo dejo ngenechen 
+
+M: lofmew fill lof 
+C: en la comunidad en distintas comunidad
+
+M: müliyiñ tüfa
+C: estamos nosotros 
+
+M: Alfarinu wallpay lof
+C: por galvarino da vuelta la comunidad
+
+M: puwi chewchi llafken
+C: se encuentra por la costa 
+
+M: Carahue may ta rumi ta
+C: por carahue pasa 
+
+M: chew chi puwi ta Mapuche
+C: por donde no llegan los mapuches 
+
+M: inaltu lewfü 
+C: por la orilla del río
+
+M: elelngi ngenolu lewfü
+C: lo dejaron en donde no había río
+
+M: <SPA>pero müli pütrake witrun ko
+C: pero hay grandes vertientes 
+
+M: wichilko müli
+C: vertientes también hay 
+
+M: menokomu tripay wichilko
+C: la vertiente sale 
+
+M: ka lewfü reke wefi
+C: como río aparece 
+
+M: femuechi ka wilüdküli Mapuche
+C: de esta forma están junto el Mapuche 
+
+M: femuechi Ngünechen ta ngulli
+C: así ngenechen se olvida
+
+M: chelelay ka feyta
+C: no esta sano 
+
+M: Ngünechen am adkünueymu
+C: ngenechen  nos dejo en orden 
+
+M: eleymu tüfachi dungun. 
+C:  nos dejo todo esto.
+
+nmlch-nmmbc1_x_0063_nmmbc_00:
+M: Kidu iñ mapuche dungun
+C: Nuestro propio vivir Mapuche 
+
+M: fenten chi kiñekentu Mapuche
+C: asi algunas veces loa mapuches
+
+M: yawi mapuche dungualu <uh> 
+C: no quiere hablar mapuche
+
+M: ayentungefun piyiñ kiñkentu
+C: nos reaiamos dicen algunas veces
+
+M:  welu felellafuy dungu
+C: pero asi no son las cosas
+
+M: <SPA>porque Ngünechen ta eleymu
+C: porque ngenechen nos dejo
+
+M: tunten kewün che ta eli
+C: cuantas lenguas dejo
+
+M: ta Ngünechen tachi mapumew
+C:  ngenechen en esta tierra
+
+M: tachi mapumu kimlayiñ
+C:  en esta tierra no conosémos 
+
+M: tunten kiñekentu
+C:  cuando sea 
+
+M: mari epu kewün müli piki
+C: doce lenguas hay dicen 
+
+M: kensa tunten <SPA>país ta müli
+C: quizás  cuantos países hay 
+
+M: doy pataka epu pataka 
+C: más de 100 o 200
+
+M: küla pataka <SPA>país may ta mülepi.
+C: 300 países abran. 
+
+nmlch-nmmbc1_x_0064_nmlch_00:
+M: Feyta ta  iñchiñ pichin ta kimuyiñ ka
+C:  Así nosotros nos conosimos un poco 
+
+M: Ngünechen ta kimnefuy ka.
+C: ngenechen sabe. 
+
+nmlch-nmmbc1_x_0065_nmmbc_00:
+M: Feyta Ngünechen kimni
+C: Así ngenechen sabe 
+
+M: <SPA>entonce feymu
+C: entonces por eso
+
+M: ta lewfü iñchiñ rume falintulnefiyiñ
+C: el rio nosotros lo valoramos mucho
+
+M: lewfü repetanefiiñ
+C: el rio lo respeto
+  
+M: <SPA>ojála feypikevuyiñ
+C: ojála que dijieramos  
+
+M: ngenofule <uh> ñi katrütungeal
+C: que no hubiera para cortarlo
+
+M: lifreneal pütokolam kulliñ
+C: este libre para tomar agua los animales 
+
+M: ojála nievuliñ pichiken chem rume
+C: ojala que tubieramos un poco de todo
+
+M: femuechi utruko tukukanam
+C: para así regar las plantas
+
+M: utrukotuketan am tüfa
+C: 
+
+M: amuli ta antü
+C: ya ba el dia 
+ 
+M: ngewelay kümewelay ketran
+C: no hay esta mala la siembra 
+
+M: kümewelay kosecha <uh>
+C: no esta buena la cosecha 
+
+M: mapuche pingi tüfa nielayiñ
+C: el Mapuche le dicen no tenemos
+
+M: ayuda nielayiñ kellu
+C: ayuda no tenemos ayuda
+
+M: chumuechi newen
+C: de cualquier fuerza 
+
+M: tüfamu ta ketran kidutu
+C: aquí trabaje solo
+
+M: ankünawmeki ketran
+C:  se esta secando la siembra
+
+M: tüfa antümu mawünole
+C: es estos dia que no llueve
+
+M: tüfa ngelay kosecha püta peñi
+C: aquí no hay cosecha hermano 
+
+M: dengüll petu anküy 
+C:  poroto ya se esta secando
+
+M: kapiwi dengüll
+C:  ya viene el poroto
+
+M: ankü ankünawmeki
+C: la mitad se esta secando
+
+M: dengüll füngelay rume dengüll.
+C: poroto no tiene fruto.
+
+nmlch-nmmbc1_x_0066_nmmbc_00:
+M: Feymu ta inche ta lewfü
+C: Por eso yo el rio 
+
+M: ta rume falintunekeviñ
+C: lo valoro mucho
+
+M: <SPA>porque Ngünechen tañi elel
+C: porque  ngenechen lo dejo
+
+M: feyta ka wingka tüfi
+C: tambien el huinca toco
+
+M: ta iñchiñ ka pili ka
+C: tambien nosotros 
+
+M: chuchikunungeayiñ ta
+C: en donde nos van a dejar 
+
+M: <SPA>con <SPA>el <SPA>tiempo.
+C: con el tiempo.
+
+nmlch-nmmbc1_x_0067_nmlch_00:
+M: Awkantuniefi ürke
+C: Estaba jugando
+
+M: ta ngen lewfu ka 
+C: tambien el dueño del rio
+
+M: mapuche piam
+C: el Mapuche dicen 
+
+M: rume yamkefuy  lewfü
+C: 
+
+M: chew müli lewfü ni ngen lewfu
+C: donde estaba el rio el dueño del rio 
+
+M: feyngepi ka müli ta ngen ko
+C: ------------ tambien hay dueño del agua
+
+M: müli ngen mawida
+C: hay dueño del monte
+
+M: ka ka müli ta ngen menoko
+C: tambien hay dueño de vertiente
+
+M: ngen l'awen' kom müli
+C: dueño del remedio, hay de todo
+
+M: fey feyngepi tüfi peñi. 
+C:  pues así es hermano.
+
+nmlch-nmmbc1_x_0068_nmmbc_00:
+M: Mülepi ka feyta inche
+C: Abra tambien yo 
+
+M: tüfa feypian menoko pipiyiñ nga
+C: ahora tambien voy a decir 
+
+M: mülipiam kiñe menoko
+C: dicemn que hay una vertiente 
+
+M: kiñe toro müli pingeki
+C: un toro hay dicen 
+
+M: kiñe kaniru müli pingeki
+C: un carnero hay dicen 
+
+M: kiñekentu müli filu pi müli
+C: en algunas partes hay culebra 
+
+M: kiñe alka pi gueno. 
+C: un gallo
+
+nmlch-nmmbc1_x_0069_nmlch_00:
+M: Ngen ko tüfi. 
+C: El dueño del agua toco.
+
+nmlch-nmmbc1_x_0070_nmmbc_00:
+M: Nge ko piki ta che
+C: Dueño del agua dice la gente
+
+M: fürenean pi kuyfi
+C: me aras un favor dijo antiguamente 
+M: pütakeche ngillatuy
+C: personas de edad hacian rogativa 
+
+M: feypi machi 
+C:  dijo la machi
+
+M: eymi tüfa pewmaki piam
+C:  usted aquí sueña dicen   
+
+M: machi kuyfi 
+C: la machi
+
+M: ngillatun entualu
+C: cuando va a sacar un nguillatun
+
+M: llellipumi menokomew mapu
+C: rogativa en un lugar donde hay agua
+
+M: tüfa kintuan ko eluaen ko
+C: aquí buscare agua me daras agua
+
+M: eymi ta kidu duamkülelaymi
+C: y tu  no estas solo 
+
+M: Ngünehenmu lukutumi piam
+C: ngenechen se arodillo dijo
+
+M: kacike <SPA>con machi
+C: cacique con machi
+
+M: wüle nian ngillatun
+C: mañana tendre guillatun
+
+M: küme tripape ngillatun pimi piam
+C: que salga bien guillatun dicen 
+
+M: fey mawelkefuy pütakeche
+C: 
+
+M: fey ka küme antü entuyem
+C: pero en un buen dia  
+
+M: ka fey ad antü
+C: tambien ese en un buen dia 
+
+M: ka Ngünechen i
+C: tambien ngenechen 
+
+M: Pürakintun
+C: esta mirando hacia arriba
+
+M: we pütrü wefpan antü
+C: cuando aparece el nuevo dia 
+
+M:  lifken antümu ka ngillatuy
+C: al amancer tambien hago rogativa
+
+M: pingi ka kiñe lig pañu piam
+C: se dice con un paño blanco dicen 
+
+M: munulongkoli fütakeche <Noise>
+C: se colocaban paño en la cabeza
+
+M: pu domo kulliñ 
+C:  las mujereslos animales 
+
+M: kom rayangi piam
+C: todos los rayaban decian
+
+M: lig chemu kom fey tutekevuy che ka. 
+C:  rojo eso le hacia bien la gente. 
+
+nmlch-nmmbc1_x_0071_nmlch_00:
+M: Rume mülefuy yamün. 
+C: Había mucha perdidas. 
+
+nmlch-nmmbc1_x_0072_nmmbc_00:
+M: Rume fellentun mülefuy peñi
+C: Habia mucha creencia  hermano
+
+M: kiñe piwke <SPA>parece 
+C: en un corazon  parece 
+
+M:<SPA>que kiñe rakiduam
+C: un solo penzamiento
+
+M: mülekefuy kiñe piwke
+C: había un solo corazón 
+
+M: <SPA>parece <SPA>que tunten piwke müleavuy
+C: parece que cuantos corazones habían
+
+M:  <SPA>pero kiñewi rakiduam
+C:  pero se hizo uno solo el penzamiento
+
+M: kiñe piwke müten ürke müli
+C: un soklo corazón es que había 
+
+M: <SPA>porque <SPA>cunado <Noise>
+C: porque cuando
+
+M: trawülay  rakidam che
+C: no se junta el penzamiento
+
+M: <SPA>entonce püdküli piwke <SPA>pu 
+C: entonces   ----------el corazón. 
+
+nmlch-nmmbc1_x_0073_nmlch_00:
+M: Püdküli ngelay dungu wechulay 
+C:
+
+nmlch-nmmbc1_x_0074_nmmbc_00:
+M: Wechulay dungu<SPA>pu
+C: No sube la conversación pues
+
+M: fey kiñe kom ayiñmawi dungu
+C: asi todas las cosas se valoran
+
+M: nütram mapuche 
+C: conversación Mapuche 
+
+M: entuay ngilllatun
+C: sacara en el gillatun
+
+M: entuay küdawayiñ
+C: sacara y nos cuidaremos
+
+M:  tüfa pi fey Ngünechen wülkefuy
+C:  este dijo ngenechen daba 
+
+M: -/map/- wülkefuy mawün
+C: daba la lluvia 
+
+M: wülkefuy küme antü
+C: daba buenos dias 
+
+M: femuechi ngillatun mülekefuy
+C: estos gillatunes habían 
+
+M: fütakeche  tüfa ngewelay
+C: personas mayores ya no hay
+
+M: mülefuy chem tati
+C: había eso 
+
+M: <SPA>religioso pingekevuy
+C: religioso le decian 
+
+M: welu tutelayngün
+C: pero no lo hacian bien 
+
+M: fey kisa pidikelay mawün 
+C: ellos quisas no pedian lluvia 
+
+M: feyta kake rume ngillatun
+C: era un gillatun diferentes 
+
+M: tüfa wüla pu.
+C: ahora recien pues.
+
+nmlch-nmmbc1_x_0075_nmlch_00:
+M: Feley llemay chi. 
+C:  Así es pues. 
+
+nmlch-nmmbc1_x_0076_nmmbc_00:
+M: Kim kimfalwelay. 
+C: De conosimiento ya no se sabe. 
+
+nmlch-nmmbc1_x_0077_nmlch_00:
+M: Feli lleamy chi peñi 
+C: Así no más es hermano
+
+M: feli llemay chi <Cough>
+C: asi es pues  
+
+M: feyta mapuche rume wingkawtuy
+C: los mapuches se creen huincas 
+
+M: pingi feyngepi tüfa peñi
+C:  dicen asi dicen hermano
+
+M: yamwetulafi ta ngen ko
+C: no se pierde el dueño del agua 
+
+M: yamwetulafi ta l'awen'
+C: no se perdia el remedio
+
+M: <SPA>no rume fellentuwetulafi l'awen' 
+C: no creia en el remedio
+
+M: ka ta yamwetulafi rume
+C: ahora tamnbien no se valora siquiera
+
+M: ta lewfü chumuketufi rume ta ngen lewfü <uh>
+C: al rio, le hacen cualquier cosa al rio
+
+M: yamwetulafi rume mawida
+C: no respetan siquiera al monte
+
+M: chem rume yamwetulay
+C: no hay nada que respeten
+
+M: pingi mapuche feyngepi tiam peñi
+C: le diecen al mapuche, a si nos dicen hermano
+
+M: feymu chi müte <%> fewla.
+C: eso no hace mucho.
+
+nmlch-nmmbc1_x_0078_nmmbc_00:
+M: Feli feli tati püta peñi feli
+C: Así es hermano así es 
+
+M: <SPA>porque yamwetulafi
+C: porque no se perdia 
+
+M: <SPA>porque ngullingetuy
+C:  poruqe se ha olvidado
+
+M:  ta machi wüyingetuy ta l'awen'
+C: a la machi, se olvido de su remedio
+
+M: mapu l'awen' mapu mapu ta ni lawen'
+C: remedio de la tierra el remedio de la tierra
+
+M: wente l'awen' ta pünoyawiñ
+C:  por encima del remedio caminamos 
+
+M: chumuelu Ngünechen
+C:  porque ngenechen 
+
+M: <SPA>porque wüli feychi -/map/-
+C: porque dejo 
+
+M: feychi l'awen'
+C: ese remedio
+
+M: <SPA>porque kuyfi ngelay <SPA>doctor
+C: porque antes no habia doctor 
+
+M: ngelay itrofill üytungeki <%> müten
+C: no hay de todo se visita no más 
+
+M: kuyfi ngelay feychi dungu
+C: antes no habia ese problema 
+
+M: fey <Noise> feymu kimlu
+C: por eso por eso conose 
+
+M: pichiken pu machi wente
+C:  un poco las machis 
+
+M: dewma ta pünoyawimi
+C:  ahora anadas caminando
+
+M: tuchi tami ngüneduamaymi
+C: de lo que te vas a dar cuenta 
+
+M: ta kachu feyta feyta fali
+C:  el pasto esto esto vale 
+
+M: ta rume kachu
+C: el puro pasto 
+
+M: <SPA>entonce wingka kay
+C: entonces el huinca 
+
+M: wüne rupale chi wingka
+C:  el primer huuinca que paso 
+
+M: feyta welulkanetuyiñmu
+C: nos sobre pasa 
+
+M: ka rakiduam tukultuyiñmu
+C:  nos dio otro penzamiento 
+
+M: pu <uh> ka rakiduam 
+C:  otro penzamiento 
+
+M:<SPA>porque <uh> wewunmangi longko. 
+C: porque le ganaron al lonko.
+nmlch-nmmbc1_x_0079_nmmbc_00:
+M: Che <SPA>pu <SPA>hermano
+C:  gente los hermanos 
+
+M: wewünmangi wewünmangi longko che
+C: le ganaron le ganaron los lonkos 
+
+M: rulpapelafiñ chi
+C: no lo abre pasado 
+
+M: sakilangerkita pu Mapuche
+C: le agradecen al Mapuche 
+
+M: tañi rulpangeal <uh>
+C:  para que lo pasen 
+
+M: wall walltuyalngi
+C: andas por todas partes
+
+M: ta ta chem pingeal rume
+C: para que le digan cualquier cosa 
+
+M: welu dunguy feypingi tati
+C: otras cosas les dicen ese 
+
+M: pikünumekengeiñ<Noise> <uhm>. 
+C: nos estan diciendo. 
+
+nmlch-nmmbc1_x_0080_nmlch_00:
+M: Feli peñi feli <Noise>
+C: Así es hermano así es  
+
+M: feley peñi feley
+C:  así es hermano así es 
+
+M: tüfa mongen mapumew
+C: el vivir en esta tierra 
+
+M: fey ka pe küme amuli
+C:  esto casi va bien  
+
+M: taiñ chem ta tüfi peñi feyta <Noise>
+C: que es lo que toco hermano 
+
+M: fentreken kimün ta yamtuy
+C: artos conosimientos se perdieron 
+
+M: tüfachi mongenmu
+C: en esta vida 
+
+M: ka eymi pipimi nga
+C: tamién usted  dijo
+
+M: fey  kuyfi fütakeche küfüf kutu
+C:  asi personas antiguas  
+
+M: yamkefuy pingi kütral
+C: se la enfermedad dicen
+
+M:  kom antü rume küme
+C:  todos los dias muy buenos 
+
+M: fente küme kimuwkefuyngün <uh> 
+C:  se conosian muy bien 
+
+M: chumleal <uh> tripantu
+C:  como estará el año
+
+M: kom femuechi dungu kimniekefuy
+C: todas estas cosas se sabian 
+
+M: pingi feyngepefuy tüfi peñi
+C:  decían así era  eso hermano  
+
+M: feychi dungumu. 
+C: esas cosas.
+
+nmlch-nmmbc1_x_0081_nmmbc_00:
+M: Ñi füta chawem
+C: Mi gran padre 
+
+M: <SPA>siempre nche piwkemu
+C: siempre yo en el corazón 
+
+M: niekefiñ püta chawem
+C: lo tengo mi gran padre
+
+M: nütramkakefuy
+C:  hablaba 
+
+M: pun mülekefuyiñ rukamew
+C: en la noche estabamos en la casa 
+
+M: küme rakiduamnge chi wentru
+C:  hombre de buen pensamiento
+
+M: pewmaki pi pewmaki
+C: sueña dijo sueña 
+
+M: elungeki kimün
+C:  le entregaba saviduria 
+
+M: wüle ta müleay dungu
+C: mañana abran asuntos 
+
+M: epewtuwkülaymi trepeluwküleaymi
+C: --------------------tendras lasos
+
+M: müleay ta dungu pingeki
+C: abra algo decian
+
+M: ta kim rakiduam nielu +/piw/+
+C:  el que tiene buen conosimiento
+
+M: piwkentunelu ñi rakiduam
+C: que lleva en el corazon el pensamiento
+
+M: Ngünechen ta kellukeyu ta eymi
+C: ngenechen le ayuda a usted 
+
+M: ta niaymi tüfa tati femuechi
+C: tendras esto, esto de esta forma 
+
+M: mülepe antü mülepe pun
+C: que aiga dia que aiga noche 
+
+M: tami pewmayal 
+C: para soñar
+
+M: feyta Ngünechen elkunueymu
+C: eso ngenechen nos dejo
+
+M: femuechi ka feli kuyfi dungu
+C: así estaban las cosas antiguamente 
+ 
+M: feli kümeke rakiduamnge chi che
+C: así esta el buen pensamiento de las pèrsonas 
+
+M: Ngünechen afisakeveyu pingi
+C:  Ngenechen le avisaba decían 
+
+M: feymu kürüf pipimi nga mewlen 
+C:  así el viento dijo. 
+
+nmlch-nmmbc1_x_0082_nmmbc_00:
+M: Mewlen feyta
+C:  Viento maligno
+
+M: <SPA>poder ni ta mapu ka <uh> 
+C: poder tiene la tiera 
+
+M:<SPA>poder niyi itrofill kütral
+C: poder tiene distintas enfermedades 
+
+M: anchimalleñ pingi
+C: animales del agua
+
+M. <SPA>pero fey
+C: pero ese 
+
+M: <SPA>no inche pekelan anchimalleñ
+C: no yo no e encontrado anchimallen 
+
+M: welu nütram 
+C: pero en conversación 
+
+M: pütakeche
+C: de las personas grandes
+
+M: <SPA>no nütram pütakeche
+C: no conversas de los grandes 
+
+M: fey mediku pi nga ti pu <SPA>doctor
+C:  ese el medico dicen los doctores 
+
+M: fellentulay anchimalleñ
+C: no cree en el anchimallen 
+
+M: piyiñ fellentulay mewlen
+C: no creen en el meulen 
+
+M: fellentulay kiñe perimontun rume
+C:  no cre ni en el perrimontu 
+
+M: fellentulay welu kiñe machi
+C: no cre pero una machi
+
+M: feymu mongemi kiñe kutran
+C:  ahí viviras en una enfermedad
+
+M: wingka perimontulu 
+C: cuando el hunca hace perrimontu
+
+M: mongemetuy
+C:hay se mejora 
+
+M: kiñe machimu inche
+C: en una machi yo
+
+M: tüfa faw müli kiñe machi
+C: aquí hay una machi
+
+M: prima pikefiñ Ptrako püle müli
+C: prima le digo en pitraco esta
+
+M: mewlemu tueyu pingi chi wingka
+C: lo tomo el remolino le dicen al huinca
+
+M: fey chumuel am kontueyu chi wingka
+C: y porque entro el huinca
+
+M: welu Ngünechen 
+C: pero Ngenechen 
+
+M: elu mapuche müten mongepatuy
+C:  el Mapuche no más vive
+
+M: <SPA>porque.
+C: porque. 
+
+nmlch-nmmbc1_x_0083_nmmbc_00:
+M: Ngünechen elueyu poder
+C: Ngenechen le dio el poder
+
+M: Ngünechen elueyu rakiduam
+C: Ngenechen le dio el pensamiento
+
+M: porque taiñ mapuchengen feyta
+C: porque somos mapuches 
+
+M: <SPA>como chem pikiam wingka dungunmu
+C: como como es que dice el huinca 
+
+M:  che nga <SPA>milagro 
+C:  la gente  milagro dice 
+
+M: pi ka pütakeche
+C: dicen las grandes personas 
+
+M: fey femuechi ngünevemkefiñ tati
+C: pues así me doy cuenta 
+
+M: feyti püta peñi Lui.
+C: ese gran hermano Luis.
+
+nmlch-nmmbc1_x_0084_nmlch_00:
+M: Ngüneduamkevimi. 
+C:  Se a fijado. 
+
+nmlch-nmmbc1_x_0085_nmmbc_00:
+M: May ngüneduamken.
+C:  Si me he fijado.
+
+nmlch-nmmbc1_x_0086_nmlch_00:
+M: Ka rakidumamu nievimi ka. 
+C: En otro pensamiento lo tienes. 
+
+nmlch-nmmbc1_x_0087_nmmbc_00:
+M: May. 
+C:  Si.
+
+nmlch-nmmbc1_x_0088_nmlch_00:
+M: Welu tüfi kürüf 
+C:  Pero toco el viento
+ 
+M: yamnengele <uh> che
+C:  si se pierde las personas 
+
+M: yamnefile tüfichi kürüf
+C:  si se pierde cualquier viento 
+
+M: welu chumlafuy che 
+C: pero no le pasa nada la persona 
+
+M: piken inche
+C: digo yo 
+ 
+M: ¿eymi chempimi kay felepi?.
+C: ¿ y tu que dices que es así?.
+
+nmlch-nmmbc1_x_0089_nmmbc_00:
+M: Yamngele chumlafuy
+C: Si se pierde no pasa nada
+
+M: <SPA>porque <Noise>
+C:  porque
+
+M: ka müli ñi pichin
+C: tambien hay un poco
+
+M: kim che 
+C: persona de conosimiento 
+
+M: tuchikünungeal ka pu
+C: donde quedara
+
+M: <SPA>porque kümeke kürüf
+C: porque el viento bueno
+
+M: wechake ngülam piam
+C: malos consejos dicen 
+
+M: kürüfrke 
+C: como el viento 
+
+M: rupaki wechake ngülam
+C: pasan los malos consejos
+
+M: wechake nütram kürüf reke
+C: mala conversación como el viento
+
+M: fey rupa rupakeki 
+C: así pasa y pasa
+
+M: entonce iñchiñ kay fey
+C: entonces nosotros tambien
+
+M: kümeke nütram küdawngi
+C: buenas conversación se cuida 
+
+M: rupayal küdawngi ñi kimngeal
+C: para pasar para conoserse
+
+M: küdawngi tañi ñi piwken 
+C: se cuida mi corazón 
+
+M: tukungeal fey
+C:  de tocar eso  
+
+M: <SPA>siempre küme nütram
+C: siempre buena conversación 
+
+M: entungekelay ükümküli che
+C:  so no se saca ---- esta la gente
+
+M: kuyfi piam ükümkelafuy pütakeche
+C: antiguamente dicen 
+
+M: üküm chem pinoal rume
+C:    no decir nada 
+
+M: feyti wüne dungun l'aki pingi
+C:  ese primero 
+
+M: kuyfi welu inche kimpalan
+C: pero antes yo no conosi
+
+M: l'ay l'ay chi iñchiñ ükümkevuyu
+C: murio murio ----
+
+M: kuyfi pichikechengen
+C: antes cuando era chico
+
+M: tañi pu lamuen ta kude kom
+C: mis hermano los de edad y todos 
+
+M: kudeletuy tati ükümkevuyiñ
+C:
+
+nmlch-nmmbc1_x_0090_nmmbc_00:
+M: Fey kiñe wüne ayelu
+C: El que le gusta primero
+
+M: feyta l'aperkelay -/pik/- piwkevuyiñ
+C: abra muerto 
+
+M: <SPA>ese feyti pütakeche 
+C: de las  grandes personas
+ 
+M: ñi dungu tati.
+C: de su sabiduria.
+
+nmlch-nmmbc1_x_0091_nmlch_00:
+M: Ngülamfel tati. 
+C: ese era el consejo.
+
+nmlch-nmmbc1_x_0092_nmmbc_00:
+M: Ngülam ta pütakeche tati. 
+C: El consejos de los mayores.
+
+nmlch-nmmbc1_x_0093_nmlch_00:
+M: Kuyfi ngelafuy papeltun peñi
+C: Antes no había  papel hermano 
+
+M: welu doy kümelekefuy
+C: pero estaba mejor 
+
+M: rakiduam pingeki 
+C: el pensaniento decian 
+
+M: pütakechemu
+C: las grandes personas
+
+M: feyngepefuy tüfi. 
+C:  de ellos eran eso.
+
+nmlch-nmmbc1_x_0094_nmmbc_00:
+M: Füta küme feli ka
+C: Tambíen esta mejor  
+
+M: feyta ngelafuy ngelafuy estudio
+C: y no había estudio
+
+M: papell dungun ngelafuy
+C: papel no había
+
+M: welu chem pipieyu ama tayi nga
+C: pero que le dije endenante
+
+M: Ngünechen elukefiyu
+C: Ngenechen le daba
+
+M: kimün che wewpi fütakeche
+C: conosimientodecian los grandes 
+
+M: wewpi inakevuy dungu
+C: en los discursos se seguian las costumbres
+
+M: wewpin chumuechi iñ küpan
+C: en los discursos es que venimos
+
+M: doy kuyfi 
+C: más antiguamente
+ 
+M: fütakeche entukevuy
+C: las personas mayores sacaban 
+
+M: femuechi femayiñ
+C: asi lo aremos
+
+M: yewentukelay 
+C: no siente vergüenza
+
+M: tami fütakeche
+C:  de tus personas mayores
+
+M: feypi yewentukelay tami <%>
+C:  dijo no tiene vergüenza de tu
+
+M: kiñe ngüllokiñ kiñe mültrün
+C: un ngullokin un multrun
+
+M: karü mürke kachilla kako
+C: arina cruda mote de trigo
+
+M: kachilla müllküd
+C:              de trigo
+
+
+M: kachilla pingi tachi afün
+C: trigo le dicen esto cosido
+
+M: kachilla tati
+C:  trigo eso
+
+M: feymu kuyfiche
+C: por eso personas antigua
+
+M: fenten newen niyi
+C: tienen arta fuerza
+
+M: fenten tripantu amuli 
+C:  todo estos años llevan 
+
+M: kuyfi pütakeche 
+C:  antiguas personas 
+
+M: fey tüfa femwelay re
+C:  y ahora no se hace  
+
+nmlch-nmmbc1_x_0095_nmmbc_00:
+M: Fidewmu arromu ta elungi 
+C:  Fideos y arroz le dan 
+
+M: weda <%> müta müten
+C:  rapidamente
+
+M: ka ngüñituy che 
+C: le da ambre a la persona 
+
+M: ka mürketuy
+C: tambien come harina 
+
+M: kuyfi che llalla piam
+C:  antiguas personas  la suegra dicen 
+
+M: kuyfi llowngekefuy kakaya ka mürke
+C:  antes se recibía con arina  
+
+M: kuram korü engu kiñe küla kuram
+C: sopa de huevos  unos dos tres huevos
+
+M: müna küme poyen mülekefuy
+C: habían buenos cariños 
+
+M: kuyfi fütakeche fey kim kim mapa<%>
+C: las personas antiguas sabian
+
+M: welu kimingün chumuechi ñi poyean
+C:  pero sabían de cómo se queria 
+
+M:  ñi pütakecheengün pu witran. 
+C: las personas de edad  las visitas.
+
+nmlch-nmmbc1_x_0096_nmlch_00:
+M: Poyewal. 
+C: De quererse. 
+
+nmlch-nmmbc1_x_0097_nmmbc_00:
+M: Poyewal. 
+C:  Quererse.
+
+nmlch-nmmbc1_x_0098_nmlch_00:
+M: Yamual.
+C: respetarse.
+
+nmlch-nmmbc1_x_0099_nmmbc_00:
+M: Yamuwal ve fey yamü
+C: Respetarse, eso respeto
+
+M: lleno anta femuechi amuy
+C: lleno asi va  
+
+M: tati repetawün
+C:  el de respetarse 
+
+M: fente küme yamngi
+C: muy buen 
+
+M: kiñe ngillañ kiñe küme malle
+C: un buen cuñado un buen tio
+
+M: kiñe deya ñukentu pi ta che
+C: una hermana dice la gente 
+
+M: palu pi kiñekentu
+C: mi tia dijo una vez
+
+M: guenu femuchi 
+C: bueno de esta forma
+
+M: adümkawken Mapuche
+C:  se lo arregla el mapuche
+
+M: <SPA>no <%> fey feyta ramtuntukunengi
+C: no esto no le preguntan 
+
+M: tüfa iñchiñ ramtukiyiñ
+C: esto nosotros preguntamos 
+
+M: <SPA>no <%> rume chumlepeayiñ chi pi
+C: no como iremos estar 
+
+M: pikiiñ welu ka
+C: decimos pero 
+
+M: petu feli Ngünechen
+C: todabia esta Ngenechen 
+
+M: kiñe wentru kiñe lofmew
+C:  un homgre en una comunidad
+
+M: tripatuy tüfa kiñe machi reke
+C: sale este como una machi 
+
+M: kiñe prediakaorürke
+C: como un predicador 
+
+M: fey tüfa eymi
+C: pero ahora usted 
+
+M: tüfa miawtuymi tati peñi
+C:  aquí andara usted hermano
+
+M: mañümnetuy küme rakiduam
+C:  agradece el buen pensamiento 
+
+M: pelon chew chi amutuay
+C:  la vista quisas don fue 
+
+M: kiñe nütram kañpüle amutuay
+C:  una conversación por otra parte se fue 
+
+M: kiñe ngülam.
+C: una enseñanza.  
+
+nmlch-nmmbc1_x_0100_nmmbc_00:
+M: Entumeay entumeay
+C: Sacara sacara 
+
+M: entumi nütram 
+C: saca una conversación 
+
+M: entumi rakiduam
+C: saco el pensamiento
+
+M: fey mülenmu rakiduam tati
+C: es por que hay pensamiento
+
+M: Ngünechen elimi. 
+C:  Ngenechen lo dejo. 
+
+nmlch-nmmbc1_x_0101_nmlch_00:
+M: Feley.
+C: Así es.
+
+nmlch-nmmbc1_x_0102_nmmbc_00:
+M: Kiñe tami chaw 
+C:  Uno de tus pàdres 
+
+M: feyta füta chem tripay
+C: salio algo grande 
+
+M: tami ñuke kiñe füta chem llegi <%>
+C: su madre 
+
+M. amuletuy folfil mamüll
+C: se fue leña de rama
+
+M: feyta we choyil entuy
+C:  este tiene nuvos hijos
+
+M: feyta doy küme püratuy
+C:  asi  sube mejor 
+
+M: <SPA>pu. 
+C: pues.
+
+nmlch-nmmbc1_x_0103_nmlch_00:
+M: Feley peñi. 
+C:  Así es hermano. 
+
+nmlch-nmmbc1_x_0104_nmmbc_00:
+M: Küme choyin tati
+C: Buenos hijos pues
+
+M: fey pewmangelmi
+C:  ojala
+
+M: küme amuleay tami küdaw
+C: que vaya bien su trabajo
+
+M: pu peñi feymu ta
+C:  mis hermenos pues 
+
+M: <SPA>gracia tami ngepafiel faw
+C: gracias por venir aqui
+
+M: femngen pichiken nütramfi tati. 
+C:  asi conversamos un poco.
+
+nmlch-nmmbc1_x_0105_nmlch_00:
+M: peñi feli feli tati
+C: hermano asi es 
+
+M: welu doy petu müli <Noise> nütram
+C:  pero todabia hay conversación 
+
+M: tüfa ramtuafiñ pipen <uh>
+C: esto le voy a preguntar dije
+
+M: tayi nga dumatupeyu
+C:  
+
+M: tüfi ngillatun ka machitun <uh>
+C: esa rogativa y tambien el machitun
+
+M: ngillatun mmachitun rüf ka feli kam wechuli 
+C:  rogativa machitunasi no más es 
+
+nmlch-nmmbc1_x_0106_nmmbc_00:
+M: Ngillatun.
+C: Rogativa.
+
+
+

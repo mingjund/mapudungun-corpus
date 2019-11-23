@@ -1,0 +1,2252 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nmjab1 
+; Last changes made on 08/16/2001 
+; Transcriber: Flor Caniupil H. 
+; Comments:  
+; Traduce: Maria Pichun.
+
+
+nmlch-nmjab1_x_0000_nmlch_00: 
+M:  Mari mari peñi, Antonio
+C:   Buenos días hermano Antonio.
+
+nmlch-nmjab1_x_0001_nmjab_00: 
+M:  Mari mari peñi,
+C:   Buenos días, hermano. 
+
+nmlch-nmjab1_x_0002_nmlch_00: 
+M:  ¿Chumuechi anta rupalefuy tami mongen, 
+C:   ¿cómo está su vida,
+
+M:  tüfa ta chi rukamew? 
+C:   cómo lo está pasando en su hogar?
+
+b1_x_0004_nmlch_003_nmjab_00:
+M:   <uh> Küme rupalen, küme rupalen, küme rupalen,
+C:  Estoy muy bien, estoy muy bien, estoy muy bien,
+
+M:  ngelay dungu turpu.
+C:   hasta ahora no hay novedad.
+
+nmlch-nmjab1_x_0005_nmlch_00: 
+M:  ¿Ami lofmew chew tripapaymi kay,
+C:   Tu comunidad, donde vives
+
+M:  ¿chumli tüfey tami pu che 
+C:   ¿cómo está,  
+
+M:  tripapalu eymi kom küme trür kümeleayngün?
+C:   su gente, todos están bien?
+
+nmlch-nmjab1_x_0006_nmjab_00:<*SPA>
+M:  Si ka kom kümelingün kom müli,
+C:   Están todas bien,
+
+M:  <uh> ngelay chem dungu<*SPA>no 
+C:   no hay novedad, 
+
+M:  rume kom kümelingün kom
+C:   todos estamos bién,
+
+M:  külfünkülekayngün.
+C:   están todos bien.
+
+nmlch-nmjab1_x_0007_nmlch_00: 
+M:  Fey femuechi mongeli che tati kümi peñi <uh> trür kümeli
+C:   Eso es bueno hermano, cuando todos están bien,
+
+M:  feyta küdawküli ayüwünkechi ka 
+C:   es bueno, así uno trabaja con alegría ,
+
+M:  küme trekarupayawi tañi welliñmew
+C:   viendo su entorno
+
+M:  fey <uh> femuechi ta küme rupali ta antü tati peñi.
+C:  así los días van pasando bien hermano.
+
+nmlch-nmjab1_x_0008_nmjab_00:
+M:  Feley peñi fem, femi llemay
+C:   Así es hermano,
+
+M:  feyta kümeli che feyta kümerupayawi
+C:   así es cuando uno está bien  lo va pasando,  
+
+M:  küme trekayawmuy 
+C:   camina contento,
+
+M:  fey <uh> kutran müli ya 
+C: cuando hay algún enfermo 
+
+M:  feyta feyllena doy <uh> wecha duamküleki ta che
+C:   uno no se siente bien, se siente mal
+
+nmlch-nmjab1_x_0009_nmlch_00:
+M:  Feli <*SPA>pu'  peñi feli wechaduamküleki tati
+C:   Así es hermano uno se siente mal
+
+nmlch-nmjab1_x_0010_nmjab_00: 
+M:  Femuechi dungu.
+C:   Por lo mismo.
+
+nmlch-nmjab1_x_0011_nmlch_00:
+M:  Fey peñi,
+C:  Así es hermano,
+
+M:  <uh> ¿tami lofmew chem kutran doy müleki am peñi?
+C:   ¿por su comunidad que mal hay, ahora hermano?
+
+M:  tüfa <uh> weneleki ta kiñeke
+C:   abundan las enfermedades
+
+M:  kutran ta kiñekemu <uh> itrofill lofmu müleki wedake kutran,
+C:   a veces las estan en todas partes o comunidades,
+
+M:  inchiñ mongenmu montulelaiñ.
+C:   de las enfermedades, en nuestra vida no estamos salvo.
+
+M:  ¿chem kutran chi doy müleki tami lofmu tüfi?
+C:   ¿Qué enfermedad hay más por su lugar?
+
+nmlch-nmjab1_x_0012_nmjab_00: <uh> 
+M:  Itrofill pichike kutran tripakaki ka
+C:   Sale cualquier enfermedad pasajera,
+
+M:  fey alin kutran
+C:   la enfermedad de la fiebre,
+
+M:  doy feyta doy müli ka alin kutraqn,
+C:   la gripe es más común,
+
+M:  ta doy <uh> doy am <uh> pewfaluwkelu
+C:   es más aparece en cualquier tiempo
+
+M:  fey chumngen rume kosechamu walüngmu o pukem rume,
+C:   ya sea en tiempo de cosecha en verano o invierno,
+
+M:  fey pewfaluwki ti alin kutran<*SPA>no
+C:   ahí aparece la fiebre o gripe,
+
+M:  feyta fey müleki ka müleki doy <uh> kutran 
+C:  también hay otra, 
+
+M:  kake rume kutran ka müleki,
+C:   otra enfermedad,
+
+M:  welu feychi kutran feyta <uh> kiñekemu machi... 
+C:   pero esa enfermedad la sabe la machi...
+
+nmlch-nmjab1_x_0013_nmjab_00: 
+M:  Machimu ta llapomngeki
+C:   Por la machi se mejora 
+
+nmlch-nmjab1_x_0014_nmlch_00: 
+M:  Ah.
+C:   Ah.
+ 
+nmlch-nmjab1_x_0015_nmjab_00:
+M:  Feytichi kutran kiñekemu
+C:   Esa enfermedad a veces 
+
+M:  doy piwüchentu kutran piki ta che
+C:   como ataque, dice la gente,
+
+M:  ka perimontun kutran piki 
+C:   y un mal repentino dice uno, 
+
+M:  fey <uh> newe kuyfi<*SPA>no rupay 
+C:   ya hace tiempo le pasó 
+
+M:  dewma kiñe wen'i inafül mülelu -/inaru/- inapüle 
+C:  le pasó a un amigo que vive cerca 
+
+M:  feyta kutranfuy femuechi piwüchen kutran pingi
+C:  se había enfermado del ataque maligno,
+
+M:  pünokoni piwüchenmu 
+C:   caminó sobre el mal
+
+M:  feyta machimu ta llakonlngi ka.
+C:   aquel entonces la machi lo sanó.
+  
+nmlch-nmjab1_x_0016_nmlch_00: 
+M:  Ah.
+C:   Ah.
+
+nmlch-nmjab1_x_0017_nmjab_00:
+M:  Feyta llafkületuy tüfa dewma epe trekatuy
+C:   Este ahora se está sanado de a poco
+
+M:  epeke küme trekatuy al'üñma kutrani,
+C:   ya camina mejor, se enfermó por harto tiempo,
+
+M:  welu doy kiñe tripantu dewma yeni ñi kutran,
+C:   pero más de un año que estuvo mal, 
+
+nmlch-nmjab1_x_0018_nmlch_00: <hm> 
+M:  ¿Feyti mapumu <uh> pünokoni piwüchenmu, 
+C:   ¿Aquel en la tierra pisó sobre el mal,
+
+M:  tüfi kam pefi ti? 
+C:   o lo vio?
+
+b1_x_0020_nmlch_008_nmjab_00:
+M:  Pünokoni piwüchenmu pelafiñ pirki
+C:   Pasó sobre  eso , que no lo vio, dijo
+
+M:  -/pünokonü/- pünokonperkelan pünokoni pingi
+C:    caminó sobre él, dicen que lo pisó,
+
+M:  ka machi feypieyu pünokoni pieyu
+C:   tambien la machi le dijo que lo piso le dijo
+
+M:  feyta <uh> ünatueyu ta chi piwüchen pingi
+C:  ese lo mordió el maligno dijeron
+
+M:  fey ta elueyu ta kutran ka.
+C:  y se contagió del mal tambien.
+
+nmlch-nmjab1_x_0021_nmlch_00: 
+M:  Ah.
+C:   Ah.
+
+nmlch-nmjab1_x_0022_nmjab_00:
+M:  Feyta doy tripantu diciembre küyenmu
+C:   Esto ya hace más de un año en el mes de diciembre,
+
+M:  ta kutrani ka <%> tripantu 
+C:   se volvio a enfermar otro año
+
+M:  fey ka tripantu disiembremu
+C:   así el otro año en diciembre
+
+M:  feyta kumpli kiñe tripantu
+C:   ahí cumplio un año
+
+M:  feyta doy amulni fey petu küme trekalay <*SPA>
+C:   este todavía no camina bien,
+
+M:  pu' , welu wenche ya dewma trekayawkatuy.
+C:   pues, pero ya algo está caminando.
+ 
+nmlch-nmjab1_x_0023_nmlch_00: 
+M:  ¿Mülewekay petu machi tami lofmew peñi,
+C:   ¿hay aún machi en su comunidad hermano,
+
+M:  tüfey kam inafül lof müli ka lofmu?
+C:   o cerca por ahí de su comunidad o en otra? 
+
+nmlch-nmjab1_x_0024_nmjab_00: 
+M:  ka lofmu müli inchiñ ñi lofmu -/ngell/- ngelay, 
+C:   hay en otra comunidad, en la nuestra no hay,
+
+M:  welu müli inapüle müli kangelu Koypuko pingeki 
+C:   pero cerca, la otra se llama Coipuco
+
+M:  feyta feymu müli <uh> kiñe machi
+C:   allí vive, una machi 
+
+M:   <uh> kimpelafimi ka üytungeki siempre 
+C:    la debe conocer siempre la nombran
+
+M:  Maria Cayul pingeki.
+C:   la llaman María Cayul. 
+
+nmlch-nmjab1_x_0025_nmlch_00: 
+M:  ¿Tripaki...?
+C:   ¿Sale...?
+
+nmlch-nmjab1_x_0026_nmjab_00:
+M:  ...May. 
+C:   ...Sí.
+
+nmlch-nmjab1_x_0027_nmlch_00:
+M:   ¿Makiamu tripaki?
+C:    ¿Sale en vehículo?
+
+nmlch-nmjab1_x_0028_nmjab_00:
+M:  May.
+C:   Sí.
+
+M:  fey chi machi ta müli fül ka 
+C:   esa machi vive cerca 
+
+M:  feyta kutran müli fey wütungeki <*SPA>
+C:   cuando hay u enfermo la van a ver,
+
+M:  pu'  ka femuechi yemengeki kiñekemu<*SPA>
+C:   a veces la van a buscar 
+
+M:  y ka fawpüle ka Angkapüllü mapu 
+C:   y por acá también  por Angapulli
+
+M:  ka müli ka kiñe machi ka  müli ka kiñe 
+C:   hay una machi, también hay una,  
+
+M:   ka femuechi llemay epuñpületuyawki reke che
+C:    es por eso que la gente va para ambos lados,
+
+M:   ka <uh> kiñekemu che 
+C:    tambien aveces las personas
+
+M:   ta <uh> llegtu machiki llenuam ka 
+C:    uno no puede dar con la machi indicada,
+
+M:   feyta feymu kiñe machimu koningün 
+C:    por eso cuando acuden a una  
+
+M:   rüf amuleki ñi konrupun engün 
+C:    siempre van siguen yendo y se mejoran
+
+M:   feyta llafingün fey ka kutrani che 
+C: y cuando se enferman de nuevo  
+
+M:   ka feymu nga amukay femuechi 
+C:    tambien ahí siguen con ella
+
+M:  feyta femyawki taiñ pu che inchiñ ñi  lofmu ngelay.
+C:   así lo pasamos nosotros en nuestra comunidad no hay.
+ 
+nmlch-nmjab1_x_0029_nmlch_00:
+M:  Ngewelay may
+C:   ya no hay, si
+
+nmlch-nmjab1_x_0030_nmjab_00: 
+M:  Ngewelay machi
+C:   Ya no hay machi 
+
+nmlch-nmjab1_x_0031_nmlch_00:
+M:  Feytichi kutran piwüchen kutran
+C:  Esa enfermedad del ataque maligno
+
+M:  eletew mülepiafuy l'awen' pitalmu tüfu peñi,
+C:   habrá remedio en el hospital, hermano,
+
+M:  ngepelafuy ka ngelay peno ka, 
+C:   no habrá, tal vez no hay,
+
+nmlch-nmjab1_x_0032_nmjab_00: 
+M:  Ngelay l'awen' <*SPA>
+C:   No hay remedios
+
+M:  pu'  fey feytichi wentru küpalngefuy pitalmu
+C:   pues a ese hombre lo trajeron  al hospital 
+
+M:  tüfey küla küyenpay chi kam doy chi<*SPA>
+C:   hace como tres meses tal vez más,
+
+M:  y l'awen'tungefuy l'awen'tufeyu
+C:   le habían hecho remedio 
+
+M:  chi pu mediku pitalmu mülelu<*SPA>
+C:   los médicos del hospital, 
+
+M:  y llaflay <*SPA>pu'  doy kutrani doyeli kutranmu 
+C:   y no se sanó, pues más se enfermó, se empeoró
+
+M:  doy amuy ñi kutran kake antüngingün doyel
+C:   desahuciado cada día más, 
+
+M:  feyta fey wüla feyta machimu konaymi pingi 
+C:   entonces le dijeron que vaya donde la machi, 
+
+M:  konsejayengi tipüle ka dunguntukuyengey pu,
+C:   lo convencieron lo aconsejaron,
+
+M:  pu familia dunguntukuyeyu feyta femngen 
+C:   su familia lo aconsejó que hiciera eso
+
+M:  fey ta feman pi machimu konan pi
+C:   entonces dijo que lo iba hacer
+
+M:  machituan pi 
+C:   voy a ver machi dijo
+
+M:  fey amuy machimu feyta  
+C:   ahí fue donde la machi este
+
+M:  fey feyta koni machimu
+C:   así fue como se trató con una machi
+
+M:  fey feymu ta feyta l'awen'tuy.
+C:   ahí entonces se hizo remedio.
+
+nmlch-nmjab1_x_0033_nmlch_00:
+M:  Pelotufaluwi tüfi
+C:   Se hizo ver
+ 
+nmlch-nmjab1_x_0034_nmjab_00:
+M:  Pelotufaluwi wüne 
+C:   Primero se hizo ver, 
+
+M:  fey dew pelotufaluwlu feyta machituay pingerki 
+C:   luego le dijeron que tenía que hacer un machitun,
+
+M:  fey machitufaluwi 
+C:   se hizo el Machitun 
+
+M:  feymu ta elungi ta l'awen' 
+C:   le dieron tratamiento 
+
+M:  ka amukoni machimu kiñe küyenmey 
+C:   tambien estuvo más de un mes
+
+M:  doy peno feyta amuy ñochingi ñi amuli ñi llafün 
+C:   más yo creo entonces poco a poco se fue sanando,
+
+M:  fey feymay ta trarmay tañi n'amun' tati peñi,
+C:   fue así como superó un pie hermano,
+
+M:  fey < uh> allfüñ reke ta katrüluwlu reke
+C:  así como un herido o como una cortadura de carne 
+
+M:  ta chemi tañi n'amun'
+C:  entró en el pie
+ 
+nmlch-nmjab1_x_0035_nmlch_00: 
+M:  ¿Eluwi?
+C:   ¿Apareció?
+
+nmlch-nmjab1_x_0036_nmjab_00: 
+M:  May
+C:   Sí,
+
+M:  eluwi feyta tripali wawko trar reke tripali
+C:   apareció como gotera la pus, salio 
+
+M:  fill antü fill antü, fill antü feyta fey pitalmu 
+C:   le salía todos los días, diariamente, en ese hospital
+
+M:  küpalngelu doyeli <*SPA>pu'  doyeli 
+C:   cuando lo llevaron empeoró pues se agravó
+
+M:  feyta yengi machi, machimu konlu 
+C:   ahí lo llevaron a la machi, cuando entro a la machi
+
+M:  feyta elueyu machi l'awen'
+C:   esta le dio remedio,
+
+M:   machi adümuwlu kay 
+C:    la machi tiene su saber,
+
+M:   feyta müli l'awen' ka <*SPA>pu.
+C:    pues también hay remedio.  
+
+nmlch-nmjab1_x_0037_nmlch_00: 
+M:  Feley <*SPA>pu',
+C:   Así es pues,  
+
+nmlch-nmjab1_x_0038_nmjab_00:
+M:   Müli feytichi l'awen' kolantu l'awen' pingi 
+C:    Existe ese remedio el colan le dicen 
+
+M   fey elungi feyta fütake koyammu tripay 
+C:   ese le dieron, esto sale de los grandes pajonales
+
+M:   <uh> kuyfitu chi koyamentumu 
+C:    en los grandes pajonales,
+
+M:   feymu mülekerki chi l'awen'
+C:   ahí se encuentra este remedio
+
+M:   kimngekelay inchiñ ñi pu che kimlay.
+C:    no lo sabe nuesta gente, no sabe. 
+
+nmlch-nmjab1_x_0039_nmlch_00: 
+M:   Ah.
+C:   Ah.
+
+nmlch-nmjab1_x_0040_nmjab_00: 
+M:   Fey machitungepalu tati feypingi 
+C:    Le dijeron cuando le hicieron el machitun
+
+M:   fey kimtungi chi l'awen' kimlafuiñ 
+C:    que busque ese remedio, no lo conocía
+
+M:   fey femngen, femngen feyta pengerupuy wüla 
+C:    así se fue descubriendo ahora,
+
+M:   feyta -/kin/- feyta feymu l'awen'tungi.
+C:    así entonces se le hizo el tratamiento. 
+
+nmlch-nmjab1_x_0041_nmlch_00: 
+M:  Ah.
+C:   Ah.
+
+nmlch-nmjab1_x_0042_nmjab_00: 
+M:  Fey lüpümülngerki ñi kutran femuechi dungu
+C:   Entonces se le quemó su mal 
+
+nmlch-nmjab1_x_0043_nmlch_00:
+M:   feytichi kulantu l'awen' fillpüle mülelay peñi,
+C:    ese remedio no sale de todas lados hermano
+
+M:  mawidamu müten müli tüfi 
+C:   solo en los bosques hay
+
+nmlch-nmjab1_x_0044_nmjab_00: <uh> 
+M:  feyta mawidamu müten müli pingi <*SPA>pu.
+C:   pues esto dice que sale en los bosques.   
+
+nmlch-nmjab1_x_0045_nmlch_00: 
+M:   Ah.
+C:   Ah.
+  
+nmlch-nmjab1_x_0046_nmjab_00:
+M:  Kuyfintuchi mawidamu llemay ka kuyfintuchi mawidamu
+C:   En bosques antiguos en bosques viejos
+ 
+nmlch-nmjab1_x_0047_nmlch_00: 
+M:   Ah.
+C:    Ah.
+
+nmlch-nmjab1_x_0048_nmjab_00:
+M:  ¿Tüfa re femuechi mawidamu 
+C:   ¿Solo en estos bosques
+
+M:  re pichike mawidamu ngelay <*SPA>pu?
+C:   así en bosques simples o jóvenes no hay'?
+  
+nmlch-nmjab1_x_0049_nmlch_00: 
+M:  Ngelay may
+C:   Sí, no hay
+ 
+nmlch-nmjab1_x_0050_nmjab_00:
+M:   ngelay pichike mawidamu ngelay 
+C:    no hay en bosque chico, 
+
+M:   kuyfintuchi mawidamu feyta müli
+C:    en bosque más viejo existe 
+
+M:   fey müleyekay feypüle tañi lofmu müleyekay
+C:    hay en otra parte, en tu comunidad no hay
+
+M:   kuyfintuchi mawida <uh> dewma nielu<*SPA>
+C:   todavía existen bosques de años,
+
+M:  no kuyfi ta fütake che 
+C:   todavía hay antes los antiguos 
+ 
+M:  ta pichike müten eli mawida llenuam.
+C:   dejaron tan solo un poco de bosques.
+
+nmlch-nmjab1_x_0051_nmlch_00: 
+M:  Feli,
+C:   Así es,
+
+nmlch-nmjab1_x_0052_nmjab_00: 
+M:  ngewelay newe fey, welu müli petu pichikeli
+C:   no hay tanto, pero algo hay,
+
+M:  feymu ta kintungi ta chi lawen' feymu pengi, pengi,
+C:   ahí buscan ese remedio, ahí lo encontraron,
+
+mjab1_x_0053_nmjab_00mlch_00: 
+M:  feytichi kulantu l'awen' pipimi nga 
+C:   ese remedio de cilantro que dijo,  
+
+M:  feyti pütokolngi kam lapomngi feychi l'awen'mu pe
+C:   se toma o se pone sobre la herida 
+
+nmlch-nmjab1_x_0054_nmjab_00: <uh> re ...<hm> 
+
+nmlch-nmjab1_x_0055_nmlch_00: ...
+M:  ¿Ngüllfüngi?
+C:   ¿Se remoja? 
+
+nmlch-nmjab1_x_0056_nmjab_00:
+M:   ngüllfüngi küchalelngi ka lüpümgni chi l'awen'
+C:    se remoja se lava y quemado el remedio
+
+M:  fey tukulelngi feyti lüpüm l'awen' 
+C:   se pone sobre la herida,
+
+M:   ta tukulelngi ta ñi allfeñmu allfülelu reke.
+C:   es como herida.
+
+nmlch-nmjab1_x_0057_nmlch_00: 
+M:  Ah.
+C:   Ah.
+
+nmlch-nmjab1_x_0058_nmjab_00:
+M:  May,
+C:   Sí,
+
+M:   <Smack><*SPA>y pütokolngelay, pütokolngelay
+C:    no se le da de tomar , no se toma,
+
+M:   fey ka l'awen' fey pütokolngi pütokolngi, 
+C:    ese otro remedio sí se le da de tomar,
+
+M:   welu <%> feyta, welu feytichi l'awen' 
+C:    pero este remedio
+
+M:   feyta pütokolngelay re femuechi ta ...
+C:    esto no se le da de tomar así no más...
+
+nmlch-nmjab1_x_0059_nmlch_00:
+M:   ngüllfüngi müten
+C:    se le moja no más
+
+nmlch-nmjab1_x_0060_nmjab_00: 
+M:  fey may, may,
+C:   así, sí, sí,
+ 
+nmlch-nmjab1_x_0061_nmlch_00: 
+M:  fey peñi, tüfi <uh> pitalmu yengi 
+C:   así hermano en el hospital lo llevaron
+
+M:  entungelay pitalmu 
+C:   no lo sacaron del hospital
+
+M:   fey piam katrüñmangeki ñi n'amun' pingi
+C:    ahí no se sacan el mal del pie,
+
+M:  feyti doy eluwketukerki che ka,
+C:   ahí la persona se empeora, 
+
+nmlch-nmjab1_x_0062_nmjab_00:
+M:   Fey femafulu pingi nachi feyta kidu feypi
+C:    Dicen que sí, el mismo lo dijo,
+
+M:   katrüñmangeafulu ñi n'amun' inche pi
+C:    dijo que le iban a cortar el pie,
+
+M:   fey feyta chumuechi pechi may ta feypingi ta kidu
+C:    no se como lo ví, eso dijo él 
+
+M:   feyta <uh> fey femngelayan 
+C:   eso no me harán,
+
+M:   fey machituan ta amutuan ñi rukamu 
+C:    haré un machitun me iré para mi casa, 
+
+M:   machimu konan pirki 
+C:    iré donde la machi dijo,
+
+M:   feyta feymu ta amutuy 
+C:    ahí  se fue,
+
+M:  si<*SPA>no ta katrüñmangeafuy ñi n'amun' ka
+C:   sino ya le habrían cortado su pie
+
+nmlch-nmjab1_x_0063_nmlch_00: 
+M:  Doyeluwafuyka
+C:   Se agravaría
+ 
+nmlch-nmjab1_x_0064_nmjab_00:
+M:  Doyeluwafuy <*SPA>pu'  doyeluwafuy
+C:   se agravaría, se agravará
+
+nmlch-nmjab1_x_0065_nmlch_00: 
+M:  Feyti inchiñ taiñ küpalmemu mülerki ti machi peñi,
+C:   Esa es nuestra vida, existen las machi hermano,
+
+M:  feyta re machi perkelay che ka
+C:   uno no se hace machi porque sí,
+
+M:  Ngünechen ta eluperkeyu newen ka elueyu kimün 
+C:   el chao dios le da el poder y fuerza para combatir los males,
+
+M:  femuechi ta notualu kutran <uh> 
+C:   así calma las enfermedades
+
+M:  itrofill kutran perke tüfi ka peñi,
+C:   todo tipo de enfermedades, hermano,
+ 
+nmlch-nmjab1_x_0066_nmjab_00: 
+M:  Fey femuechi dungu ka 
+C:  Es por esa razón 
+
+M:  feyta kidu ngünewün am elngenolu mapumu,
+C:   que nos han creado la tierra,
+
+M:  inchiñ <uh> inchiñ mapuche ñi mapuchengen 
+C:   porque si nosotros los mapuches,
+
+M:  ta re kidu ngünewün mülelaiñ mapumu 
+C:   no estamos por nuestra cuenta en la tierra, 
+
+M:  füta chaw elueiñmi chi mapu 
+C:   el padre dios nos dejó esta tierra,
+
+M:  Ngünechen elueiñmu mapu
+C:   Dios nos dio esta tierra 
+
+M:  feyta elkünueiñmu mapumu ka, 
+C:   y nos sigue dando tierra tambien,
+
+M:   femuechi ta elfi ta chi machi 
+C:    también le dejó conocimiento  a la machi 
+
+M:   tañi pepiluwal tañi pepulafiel chi kutran 
+C:    para curar las enfermedades 
+
+M:   ka pepilafiel chi <uh> wedakeñma<*SPA>
+C:    y para conocer al malo,
+
+M:   no  wedakeñma mülelu mapumu 
+C:    no las maldades que hay en la tierra, 
+
+M:   feymu ta müli machi
+C:    para eso está la machi,
+
+M:   feymu feyta ka femuechi elngi dullintungi
+C:    así la dejaron la eligieron 
+
+M:  tani machingeal re kidu ngünewün ngelay 
+C:   para machi no es por su cuenta,
+
+M:   kidu ngünewün ta elungelay ta kimün 
+C:    no hay conocimiento por nuestra propia cuenta,
+
+M:   ka müli ñi kimal ta l'awen',
+C:    deben saber los remedios,
+
+M:   ka müli ñi kimafiel ta chi kutran,
+C:    tiene que conocer la enfermedad
+
+M:   ka adümafiel feymu ta müli ta machi,
+C     y para eso está la machi,  
+
+nmlch-nmjab1_x_0067_nmjab_00:
+M:   ka femuechi adkünueyu ta Ngünechenka
+C:    así lo dejó el chao dios
+ 
+nmlch-nmjab1_x_0068_nmlch_00:
+M:  Fey llemay chi peñi 
+C:   Así es hermano,  
+
+M:  femuechi nütrammu inchiñ <uh> 
+C:   por esa razón nosotros
+
+M:  rume falinche nierkefuiñ taiñ mongenmu tüfi ka.
+C:   somos de mucho valor por costumbre tambien.
+b1_x_0069_nmlch_007_nmjab_00: 
+M:  Feley <*SPA>,
+C:   Así es,
+
+M:   pu'  feyta kuyfi ta doy mülefuy ta doy kimün 
+C:    antes había más conocimiento , 
+
+M:   doy kimfuy ta fütake che 
+C:    habían ancianos de mucho conocimientos
+
+M:   rume kümeke dungu ta mülefuy tüfa 
+C:    
+
+M:   feyta newe felewetulay ka 
+C:    ahora como no es tanto 
+
+M:   inchiñ am wekeche newe kimwetulaiñ ka 
+C:    nosotros como jóvenes  no sabemos 
+
+M:   doy <uh> kümeke dungu 
+C:    tanto las cosas buenas
+
+M:   taiñ -/elürüpa/- elürupayal taiñ fütakecheyem, 
+C:    que nos dejó  que nos dejaron los antiguos
+
+M:   welu <uh> kimaiñ dungu piiñ <uh> kiñekemu 
+C:   pero vamos a saber de esto decimos aveces
+
+M:   feyta doy <uh> nütramkay ñi fütake che 
+C:    así más conversan los ancianos
+
+M:   doy wüñe tremkülelu wüne amulelu tüfachi dungumu 
+C:    el que nacio antes más debe saber de esto
+
+M:   feyta doy pichike kimkaiñ dungu,
+C:    aquellos menores sabemos poco,
+
+M:   welu feyti küpa kimnolu ta kimlay müten,
+C:    pero aquel que no le interesa simplemente no lo saben,
+ 
+nmlch-nmjab1_x_0070_nmlch_00:
+M:  nguyüniey
+C:   olvidan 
+
+nmlch-nmjab1_x_0071_nmjab_00: 
+M:  Nguyüni nguyüentuy tani kümeke dungu 
+C:   olvidan las cosa buenas que habían 
+
+M:  taiñ mülekefel ta fütakeche <*SPA>
+C:   o que tenían los ancianos ,
+
+M:  pu'  <uh> fütakeche ta rume, 
+C:   pues los ancianos sabían, 
+
+M:  rume kimniefuy 
+C:   muy bien 
+
+M:  tañi chumuechi rupalen ta  antü 
+C:   como iban a ir pasando los tiempos, 
+
+M:  ka chumuechi ñi amulen ta mongen
+C:   como iba hacer la vivencia 
+
+M:  ka chumuechi ñi amual,
+C:   como lo ibamos a pasar 
+
+M:  chumuechi taiñ mongelerupual 
+C:   y como íbamos a estar en esta vida
+
+M:  ta tüfachi mongenmew ta inchiñ tani müle,
+C:   y como iba a ser en el futuro 
+
+M:  müleruputun kuyfi 
+C:   como iba a pasar antes
+
+M:  ta doy küme kimniefuyngün kiduengün
+C:   lo sabían todo, 
+
+M:  feypikefuyngün kom -/chum/- chumyuwal ta
+C:   lo decían todo  como iba a estar 
+
+M:  pu che <uh> müpay ta wingka 
+C:   la gente decían que lo huincas 
+
+M:  kakekünuwün rupay amulele mongen pingün
+C:   con el correr de los tiempos  
+
+M:  <*SPA>y felerupuy dungu, felerupuy dungu, peñi,
+C:   iban cambiar sus ideas y así sucedió, hermano,
+
+M:  fey nütramkakefenu kiñe füta wentru tie müli,
+C:   eso me conversaba un anciano que vivía allí,
+
+M:  mülekefuy inchiñ ñi lofmu mülelay,
+C:   no vivia en nuestra comunidad,
+
+M:   welu kangelu lofmu müli inapüle,
+C:    no vivía cerca, en otra comunidad,
+ 
+nmlch-nmjab1_x_0072_nmjab_00: 
+M:   Feyta fey rume nütramkakefenu füta kuyfi wentru
+C:    Ese hombre me contaba mucho, hombre bien mayor
+
+M:   fey doy pataka tripantu niy perdey 
+C:    tenía como 100 años cuando falleció
+
+M:   fey ka tripantu ka feypüle tripantu wüla ta perdey.
+C:   el año antepasado es cuando falleció. 
+
+nmlch-nmjab1_x_0073_nmlch_00: 
+M:   Ah.
+C:    Ah.
+
+nmlch-nmjab1_x_0074_nmjab_00:<*SPA>
+M:    Y epe puwülfuy ta pataka kechu mari tripantu 
+C:     Y casi entero los 150 años
+
+M:    feyta fey rume küme dungu,
+C:     
+
+M:   niefuy rume füta kimün niy 
+C:    ese hombre tenía mucho conocimiento,
+
+M:    fey kidu ta longkolekefuy ta <uh> regle,
+C:     tenía un gran conocimiento era jefe de 
+
+M:    regle lofmu ta longkolekerkefuy ta kuyfi
+C:     comunidades era lonco anteriormente 
+
+nmlch-nmjab1_x_0075_nmlch_00: <hm> 
+
+nmlch-nmjab1_x_0076_nmjab_00:
+M:   Fey ñochingi tani kompun ta pu wingka,
+C:    Así los huincas se acercaron de a poco,
+
+M:   ka kompuy ta pu che püdümkapueyu reke engün
+C:    es así como se dispersaron ahora  
+
+M:   feymu feyta <uh> 
+C:    por eso 
+
+M:  tüfa ta reduccion pingelletullelay a mapu, peñi,
+C:   ahora lo llaman reducción a la tierra, hermano,
+ 
+nmlch-nmjab1_x_0077_nmlch_00:
+M:   ¿Wichukakünungetuy ka?
+C:    ¿Los separaron?
+
+nmlch-nmjab1_x_0078_nmjab_00:
+M:   Wichukakünungetuyngün
+C:    Los dispersaron
+
+M:   feymu ta wichuyngün feyta kidu feyta nietuy,
+C:    por eso se separaron este tenía solo
+
+M:   nietufuy kiñe -/co/- kiñe redusionmu ta longkoletukefuy
+C:    tenía solo en una comunidad era entonces jefe,
+
+M:   felen longkolen ta l'ay tati.
+C:   era jefe cuando falleció. 
+
+nmlch-nmjab1_x_0079_nmlch_00: 
+M:   Ah.
+C:    Ah.
+
+nmlch-nmjab1_x_0080_nmjab_00:
+M:   Feyta feypikefuy feypikefenu tani chuchuem pikefuy
+C:    Este entonces decía, que su abuela le contaba
+
+M:   rume küme dungu niefuy, 
+C:    tenía mucha razón, 
+
+M:   konsejakefenu <uh> amulele taiñ mongelen
+C:    le aconsejaba con  el correr de nuestra vida 
+
+M:   kimpaaymi chi kam kimpalaaymi chi 
+C:    lo verás o no, lo iras a ver,
+
+M:   <uh> müpay ta pu wingka müleay ta itrofill 
+C:    llegaron los huincas había muchas cosas,  
+
+M:   itrofill kutran tripayay kimngewelayay ta kutran 
+C:    muchas enfermedades saldrán  no se conocerán las enfermedades,
+
+M:   itrofill dungu ta mülerupuay pikefenu, 
+C:    por cualquier problema pasaras, me decía, 
+
+M:   tañi chuchuem pikefuy pekefenu
+C:    vendrán muchas enfermedades me decía mi abuela
+  
+nmlch-nmjab1_x_0081_nmlch_00: 
+M:   ¿Pewtuwniewfuy?
+C:    ¿Lo presentía?
+
+nmlch-nmjab1_x_0082_nmjab_00:
+M:   May.
+C:    Sí.
+
+M:   Feyta felerupuy dungu tati tüfa pi 
+C:    ahora eso ha sucedido dice,
+
+M:    ka kiñe dungu piayu, peñi, 
+C:     también una cosa le voy a decir hermano,  
+
+M:    feyta kafey ka feychi füta wentru ta feypikefuy
+C:     esto tambien contaba ese anciano  
+
+M:    -/mül/- kuyfi am mülen chi pu <uh> fütake kimlu
+C:      desde antes que existen los que saben mucho,
+
+M:     müleyekefulu biblia fey fütache feypikerkefuy
+C:      los que leían la biblia decía el anciano,
+
+M:    <uh> akurumeay ta puwrumeay
+C:     llegará el día 
+
+M:    ta <uh> antü tañi kiñe kuram
+C:    en que un el huevo
+
+M:    ta <uh> -/mari/-  kech mari peso faliay pikefuy pi. 
+C:     costará cincuenta pesos decia.
+
+nmlch-nmjab1_x_0083_nmlch_00: 
+M:    Ah.
+C:     Ah.
+  
+nmlch-nmjab1_x_0084_nmjab_00:
+M:    Fey feypienu feytichi füta wentru 
+C:     Me dijo ese anciano  
+
+M:    feychi pichikan inche mari kechu tripantu niepelan
+C:     yo todavía era chico tenía como quince años,
+
+M:    feychi pu ta kechu peso ta falikefuy kuran, peñi,
+C:     entonces el huevo costaba 5 pesos hermano  
+
+M:    tüfa feyta kechu mari fali 
+C:    ahora el huevo cuesta cincuenta pesos,
+
+M:    feyta felerupuy dungu, felerupuy dungu,
+C:    sucedieron así, y así sucedió, 
+
+nmlch-nmjab1_x_0085_nmlch_00: 
+M:   ¿Llengi tüfi?
+C:    ¿Y lo adivinó?
+ 
+nmlch-nmjab1_x_0086_nmjab_00:
+M:   May,
+C:    Sí, 
+
+M:   llengi dungu feyta fütakeche ta rume küme dungu 
+C:    las cosas las adivinó, los ancianos tenían mucho conocimiento
+
+M:   ta rume küme kimün niefuy,
+C:    tenían mucho conocimiento,
+
+nmlch-nmjab1_x_0087_nmlch_00:
+M:   ¿Pelotuniewkefuy?
+C:    ¿Lo adivinaban?
+ 
+nmlch-nmjab1_x_0088_nmjab_00:
+M:   May.
+C:    Sí.
+
+M:   Feyta tüfa
+C:    Eso ahora
+
+M:  doy falirupuy kuram 
+C:   el huevo cuesta más
+
+M:   kayu mari  pesu falirupuy kiñe kuram 
+C:    sesenta pesos, llegó a costar un huevo,
+
+M:   fey kuyfi femlafuy ti
+C:    antes no era así,
+
+M:   feyta fütakeche ta rume küme kimfuy dungu
+C:    los ancianos sabían muy bien las cosas  
+
+nmlch-nmjab1_x_0089_nmlch_00:
+M:   ¿Pelotuniewfuy ti itrofill dungu?
+C:    ¿Adiviaban todas las cosas? 
+
+nmlch-nmjab1_x_0090_nmjab_00:
+M:   Pelotuniewfuy, may itrofill dungu, 
+C:    Lo adivinaba sí, todas las cosas,  
+
+M:   feymu feyta rume -/fali/- rume müleyiñ 
+C:    por eso debemos harto debemos
+
+M:   tañi falintual taiñ fütakeche, falintual 
+C:   debemos valorar a nuestros ancianos
+
+M:   feyta inche feyta tüfa we wentrufel inche,
+C:    valorar ahora que yo soy joven,  
+
+M:  welu rumen küpa nütramkaken chi fütake che
+C:   pero aún me gusta mucho conversar con los ancianos  
+
+M:   küpa entuñmakefiñ ñi dungu engün 
+C:    para  sacar más conocimientos  
+
+M:   ka ramtuneken chumuechi ñi amuleiñ mongen,
+C:    también le pregunto como seguiremos en el futuro,
+
+M:   kom chumuechi taiñ amulerupual
+C:    como lo iremos pasar
+
+M:   ka chumuechi kuyfi ta chumuechi mongekefuy ta che
+C:    tambien como era la vida antes  en la antigüedad,
+
+M:   chumuechi tani chumuechi, 
+C:    como, como,
+
+M:   chumuechi rupan dungumu, 
+C:    como sucedían las cosas,
+
+M:   femuechi feyta petu kimrupun dungu tüfa, peñi,
+C:    así supe como fueron hermano,
+ 
+nmlch-nmjab1_x_0091_nmlch_00: 
+M:  Tutey tüfi ka peñi, 
+C:   Eso está bien hermano, 
+
+M:   fey femuechi <uh> duamfuliyiñ kom wecheke wentru
+C:    sí pensáramos todos los jóvenes así 
+
+M:   feyta newentuafuiñ reke ta itrofill dungumu 
+C:    e hiciéramos un esfuerzo por todas las cosas
+
+M:   kiduengün piam <uh>
+C:    solos diríamos 
+
+M:   rume müngeltukefeyu Ngünechen engün
+C:    harto nos ayudaría Dios 
+
+M:   rume <uh> fülkülefuy ta Ngünechenmu engün 
+C:    harto cerca estaríamos del padre
+
+M:   feymu peno ta itrofill dungu ta kimkefuyngün reke
+C:    tal vez, por eso como que sabían más cosas,
+
+M:   <uh> doy nütramnekefuyngün reke ta Ngünechen
+C:    como que conversaban más de dios
+
+M:   fewla inchiñ wichuletuiñ püntületuiñ chempifuiñ,
+C:    ahora nosotros estamos más apartados  
+
+M:   rume chempiafuiñ rume 
+C:    aunque los que digamos,
+
+M:   feyta allkütuñmawetulaiñmu reke Ngünechen
+C:    como que ya no nos escucha dios
+
+M:   chew ta püntüleiñka.
+C:    ya estamos aparte. 
+
+nmlch-nmjab1_x_0092_nmjab_00: 
+M:   Feley, peñi,
+C:    Así es hermano,
+
+M:   kuyfi am taiñ fütakecheyem kiduengün rume,
+C:    antes los antiguos tenían mucho,
+
+M:   rume yamkerkefuy tañi mapu engün.
+C:    mucho respeto a la tierra. 
+
+jab1_x_0093_nmjab_00nmlch_00: 
+M:   Ah.
+C:    Ah.
+
+nmlch-nmjab1_x_0094_nmjab_00: 
+M:   Rume yamngi ta chi mapu,
+C:    Harto se respetaba la tierra, 
+
+M:   ka yamngi ta pu ta yamngi ta mawida <uh> 
+C:    tambien se respetan los árboles
+
+M:   pakan pekan kontungelay ka llükangi ta
+C:    tan fácil, tan fácil, no se le temía 
+
+M:   pu wingka newe konpulay ta <uh> mapuche ñi mapumu
+C:    los huincas  no se metían fácil a tierra mapuche
+
+M:   fey tüfa may ta inchiñ ta 
+C:    ahora los huincas 
+
+M:   pu wingka ta miawi ngillatuiñ 
+C:    andan en lnuestros nguillatunes 
+
+M:   chem ngillatun rume entuiñ 
+C:    en cualquiera que sacamos
+
+M:   ta pu wingka ta lefkeawi ñi <*SPA>auto 
+C:    los huincas andan disparados en su auto  
+
+M:   pu ngillatuwe kiñekemu ka müli tati wecheke wentru
+C:    y a veces hay también jóvenes 
+
+M:   müli ta wecheke wentru ta komunidamu<*SPA>
+C:   hay jóvenes de la comunidad 
+
+M:   y visikletangingün miawingün 
+C:    que andan en bicicleta
+
+M:   paseayngün visikletamu ngillatuwemu
+C:    se pasean en bicicleta en el ngillatun
+
+M:   feymu feyta newe allküñmangewetulaiñ ngillatun,
+C:    ahí no hacen caso en el nigillatun,
+
+M:   ka müli ta wechake dungu ka 
+C:    también hay otro problema 
+
+M:   fey llemay küpeleleiñ pu wingka küpaleleiñmu pulku,
+C:    los huincas nos trajeron algo muy malo, el vino,
+
+nmlch-nmjab1_x_0095_nmjab_00: 
+M:   Fey wecha rakiduam tukulelpafi ta mapuche
+C:    Eso ha sido un daño para los mapuches 
+
+M:   wecha rakiduam tukulelpafi <*SPA>
+C:    un daño muy malo 
+
+M:   porque küpalelfi pulku<*SPA>,
+C:    porque trajeron el vino,
+
+M:   y wimi ta pu mapuche pulkumu 
+C:    y entonces los mapuches se acostumbraron con el vino, 
+
+M:   fey<*SPA>y ngillatunmu 
+C:    y en la rogativa 
+
+M:   re ngillatuaiñ piwetulayngün re pulkumu ngillatutuyngün
+C:    no quieren así no más, sino con vino quieren el nguillatun
+
+M:  ka müli ilo kafey mülenoafulu re ial ta müleafulu mapu
+C:   también hay carne tenía que haber alimento sacado de la tierra
+
+M:  wülchi ial -/mü/- mülelu allfida,
+C:    debe haber de toda clase de alimento
+
+M:   mülelu ketran kako itrofill muday,
+C:    debe haber trigo de todo, mudai,
+
+M:   ka müli ta wa ka müli ta poñü ka müli ta dengüll,
+C:    tambien esta el wa, esta la papa y el dengul,
+
+M:   ka müli awar feyta müleafulu ngillatun 
+C:    tambien esta el aba, sto debe estar en el ngillatun
+
+M:   fey müleafulu ngillatun feyta tüfa 
+C:    esas son las cosas que tienen que haber en el nguillatun
+
+M:   feyta pu che pu mapuchengen inchiñ taiñ mapuchengen
+C:    así como mapuches que somos
+
+M:   ta newe inchiñ rume, inchiñ rume,
+C:    y nosotros bastante, nosotros bastante,
+
+M:  ta newe küme <uh> rapetauwetulaiñ inchiñ,
+C:   ahora ni nosotros nos respetamos bien,
+
+nmlch-nmjab1_x_0096_nmjab_00: 
+M:  Inche ta <uh> feypikefun tani pu che 
+C:   Yo les decía a mi gente 
+
+M:  tani komunidamu ngillatuliyiñ 
+C:   de la comunidad si hacemos nigallatun 
+
+M:  küme ngillatuaiñ ngelayay ta pulku ngelayay
+C:   hagamos un buen nigillatun, donde no haya vino
+
+M:  ta chem rume wechewentrungenmu 
+C:  y porque soy joven
+
+M:   feymu repetangelan.
+C:   y no me respetan.
+
+nmlch-nmjab1_x_0097_nmlch_00: 
+M:  Feley <*SPA>pu'
+C:   Así es pues
+  
+nmlch-nmjab1_x_0098_nmjab_00: 
+M:  feymu feyta iñmangelan dungu
+C:   por eso no me hacen caso
+
+M:   -/ayü/- ayülay dungu engün,
+C:   no quieren nada 
+
+M:   ayülay tani dungudungungeal engün, 
+C:   no quieren que les diga nada  
+
+M:   welu inche küme ayüniefun dungu
+C:   pero yo llevo bien eso
+
+M:   kuyfi femuechi ngillatukefuy pikefenu 
+C:    antes así se hacía me decía
+
+M:   ta chi füta wentruem feyti feypipeyu nga,
+C:    por ser hombre te digo esto, 
+
+nmlch-nmjab1_x_0099_nmlch_00: 
+M:   ¿Niefimi chi ngülam?
+C:    ¿Tenías ese consejo?
+ 
+nmlch-nmjab1_x_0100_nmjab_00:
+M:  niefiñ chi ngülam, femuechi ngillatukefuy ta fütakeche
+C:   tengo ese consejo y así lo hacían los ancianos 
+
+M:  feymu ta allküñmangekefuy tañi ngillatun 
+C:   por eso eran escuchados cuando rogaban 
+
+M:  feymu ta ngillatuyngün ko duamiyiñ ko pingün
+C:   cuando pedían por agua y llovía, 
+
+M:  mawkefuy duamyiñ antü pingün 
+C:  cuando querían sol 
+
+M:  antü ta tripatukefuy wauwekelafuy, 
+C:  el sol salía,
+
+M:  feymu ta rume küme gnillatukefuyngün,
+C:   ahí hacían un buen ngillatun,
+
+M:  rume küme kiduengün
+C:   solos les salía bien
+
+M:  ta kom ta chi pu che ngillatulu regle,
+C:   y toda la gente lo hacía las 7 comunidades
+
+M:  regle komunida pipeyu nga regle komunidamu 
+C:   como le decía eran 7 comunidades
+
+M:  kom trawüluwingün kiñemu feytachi komunida ta regle,
+C:   se reunían en uno solo en esta comunidad le decían 7 comunidad,
+
+M:  regle rewe pingekerkefuy.
+C:  siete rehue les decían.
+
+nmlch-nmjab1_x_0101_nmlch_00: 
+M:   Ah.
+C:    Ah.
+  
+nmlch-nmjab1_x_0102_nmjab_00:
+M:   May.
+C:    Sí.
+
+M:   Feymu kom ta trawüluwingün 
+C:    Ahí se reúnen todos  
+
+M:   fey kom ngillatuyngün 
+C:    así ruegan todos 
+
+M:   kom küme ngillatuyngün ini rume ta ayelay,
+C:    lo hacen todo bien ahí no se ríe nadie, 
+
+M:   ini rume ta wingka dungula,
+C:    nadie habla en castellano,
+
+M:   ini rume ta miawlay ta visikletamu pipeyu nga,
+C:    nadie anda en bicicleta,  lo que le decía,
+
+M:   ini rume miawlay <*SPA>auto
+C:   nadie anda en auto  
+
+M:   ta miawpulay ta ngillatuwemu fülpülay,
+C:    en el lugar del nguillatun,
+
+M:   rume kiñe wingka<*SPA>no rume tüfa<*SPA>,
+C:    no se acerca ningún huinca ahora no, 
+
+M:  no tüfa müli ngillatun wünelumu puwi wingka 
+C:   no ahora hay  nguillatun y llegan primero los huincas, 
+
+M:  miawüli makina entufotoalu,
+C:   andan con máquinas fotográficas, 
+
+M:  ka müli <*SPA>auto  
+C:  también andan en autos,
+
+M:  ka mülepuy visikleta miawpuy wechekewentru 
+C:   y llegan jóvenes en bicicletas , 
+
+M:  chem rume ayentungi ayentungi dungumu 
+C:   por cualquier cosa se burlan, 
+
+M:  doy wünelkülelu doy kimlu dungu dunguy ayentungi 
+C:   se burlan  cuando habla un mayor  es burlado, 
+
+M:  feymu feyta  newe 
+C:   
+
+M:   ka femuechi repatawetulaiñ taiñ mawida
+C:   también no respetamos nuestro bosque  
+
+M:  ka repatalaiñ taiñ mapu 
+C:   y nuestra tierra  
+
+M:  newe küme triltrang n'amun'tuaiñ rume 
+C:   y casi nunca andamos descalzo,
+
+M:   kiñekemu inchiñ ta mülefuiñ taiñ n'amun'tuyawal rumel 
+C:   nosotros tenemos que andar a pie pelado siempre  
+
+M:   feymu ta feypi ta,
+C:    por eso dijo eso,
+
+nmlch-nmjab1_x_0103_nmjab_00:
+M:  feypikefeiñmu taiñ fütakecheyem 
+C:   nos decían los mayores  
+
+M:  inche ta femuechi kimün  dungu, 
+C:   yo se que son así las cosas,
+
+M:  ngillatuy ta che müli ñi entusapatual,
+C:   los que van a orar tenían que sacarse los zapatos, 
+
+M:  müli tañi n'amun'tu ngillatual
+C:   tenemos que hacerlo descalzo 
+
+M:   fey mapu ta ayüwi <uh> ,
+C:    ahí la tierra se alegra,
+
+M:   ayüngi reke ta triltrang n'amun'tu ta puruy che 
+C:    la tierra se alegra cuando bailamos descalzo, 
+
+M:   feyta mapu ta ayüwi pi,
+C:    la tierra se alegra dice,
+
+M:   fey femuechi taiñ femuechi taiñ ayüal taiñ mapu
+C:    así debemos amar a nuestra tierra  
+
+M:  taiñ poyeafiel pi ta fütakeche pifuyka, 
+C:   quererla dicen los mayores,
+
+M:  feyta kimwetulay wekeche kimwetulay 
+C:   los jóvenes no saben no saben  
+
+M:  kiñekemu ta peken longko kütu komunidamu
+C:  aveces veo hasta los loncos de las comunidades
+
+M:  müli longko kütu entusapatulay
+C:   sacarse los zapatos
+  
+nmlch-nmjab1_x_0104_nmlch_00:
+M:   ¿Müngeltulay?
+C:    ¿---------------     
+ 
+nmlch-nmjab1_x_0105_nmjab_00:
+M:   müngeltulay turpu
+C:    -----------------------
+ 
+nmlch-nmjab1_x_0106_nmlch_00: 
+M:   ¿nguyütuy kom?
+C:    ¿todos se olvidan?
+ 
+nmlch-nmjab1_x_0107_nmjab_00:
+M:   May,
+C:    Sí,
+
+M:   fey chumuechi ...
+C:    no se como
+
+nmlch-nmjab1_x_0108_nmlch_00:
+M:  ¿yamwetulafi Ngünechen? 
+C:   ¿no temen a dios?
+
+nmlch-nmjab1_x_0109_nmjab_00:
+M:  May,
+C:   Sí,
+
+M:  fey chumuechi allküaiñmu allküñmayayiñmu dungu 
+C:   así como el nguenechen nos va a escuchar,
+
+M:  Ngünechen chumuechi küpaay ñi dungu wenu, 
+C:   como vendrá su fuerza de arriba,
+
+M:  wenu mapumu femlaay <*SPA>pu'  peñi, feyta,
+C:   allá no es así pues hermano,ahora,
+ 
+jab1_x_0110_nmjab_00nmlch_00: 
+M:   yafkatukeiñ,
+C:    somos culpables,
+ 
+nmlch-nmjab1_x_0111_nmjab_00:
+M:   yafkatukeiñ.
+C:    somos culpables.
+ 
+nmlch-nmjab1_x_0112_nmlch_00:
+M:   Felelanchi peñi, rüftu ta eymi ta feypipen ta feli ta tüfey 
+C:    Así es hermano, es cierto lo que acaba de decir  
+
+M:   fey <uh> fill lof ürke ta feli ka fill lofpüle,
+C:    eso es, en toda comunidad están así, 
+
+b1_x_0113_nmlch_002_nmjab_00:
+M:   Fillpüle, fillpüle fill lof 
+C:    En todo lugar, en toda comunidad 
+
+M:   ya ngewelay ta kümeke dungu peñi,
+C:    ya no existe la buena costumbre, hermano,
+
+M:   ngewelay ta yamuwün kompüle lofmu,
+C:    en todas partes no hay respeto,
+
+14_nmlch_0114_nmjab_00mlch_00: 
+M:   feyti taiñ peñi tüfi piwüchen ünatuetew 
+C:    hermano me mordió el pájaro maligno  
+
+M:   chuechi chi   chipiüchen tüfi peñi,
+C:   como fue que lo atacó el piuchen hermano,  se metió  
+
+M:   may kidu ñi ünatuetew kam pünokoni 
+C:    o donde estaba el mal 
+
+M:  kochikam <uh> filu chi pünoy
+C:   o pisó una culebra,
+
+M:   piwuchenreke fel chi filu 
+C:    era el pihuechen en forma de culebra
+
+nmlch-nmjab1_x_0115_nmjab_00: <uh> 
+M:  mumüñetupelu inche pi,
+C:  dijo que fue en el agua cuando se bañaba,
+
+M:  feypen tapül' tapül' müli tapül' wirikoni tapül' reke komu pi,
+C:  dijo que era con hoja, hoja, hoja en el agua
+
+M:  feyta müñetualu inche 
+C:   cuando se iba a bañar
+
+M:  fey famamulfiñ fay amulfiñ ta chi tapül' 
+C:   cuando se iba a bañar se pasaba esa hoja 
+
+M:  fey ünatuetew reke kiñe pichi üñüm
+C:   ahí sintió que picó un pájaro
+
+M:  ünatuetew reke sentin changmu pi, fey amuy ni kutran.
+C:   me picó en el muslo, de ahí comenzó la enfermedad. 
+
+nmlch-nmjab1_x_0116_nmlch_00:
+M:   ¿Lewfümu ürke ti kam posokomu?
+C:    ¿Fue en el río o en el pozo?
+ 
+nmlch-nmjab1_x_0117_nmjab_00: 
+M:   Re komo,<*SPA>no witrulko.
+C:   En el agua no, en el río. 
+
+nmlch-nmjab1_x_0118_nmlch_00:
+M:   Ah.
+C:    Ah.
+
+M:   witrunkomu 
+C:   en el río
+
+nmlch-nmjab1_x_0119_nmjab_00: 
+M:  witrunkomu may witrunkomu
+C:   en el río, en el río
+
+nmlch-nmjab1_x_0120_nmlch_00:
+M:   ¿Mülerki al'ün tapül' chem tapül' trikifi chi?
+C:   ¿Entonces hay hartas hojas  a que hoja se parecía?
+ 
+nmlch-nmjab1_x_0121_nmjab_00: <uh> 
+M:  Re feyti mamüll müleyelu
+C:   Todos los palos que hay 
+
+M:  pu make triwe tapül' müleyefuy pi,
+C:  de maqui, laurel, los que habían dijo 
+
+M:  feyta korelfiñ famuechi famamulfiñ 
+C:  así hizo a un lado las hojas, 
+
+M:  feyta fey ünatuetew trokiwün kiñe pichi üñüm 
+C:  ahí sintió que algo le picó 
+
+M:  feyta ñi amun ñi kutran pi,
+C:  ahí comenzó la enfermedad dijo,
+
+M:  fey ünay, ünay, ünay feyta amuy pi,
+C:  entonces le picaba, le picaba dijo,
+
+M:  fey ñi amun fey amuli <*SPA>
+C:   y así avanzó siguió 
+
+M:  pu'  fey küla küyeni, meli küyeni newe duamnielafi
+C:   pues ya son tres meses, cuatro y no le hacía caso
+
+M:  <*SPA>y llafalu trokifi
+C:  creyó que iba a sanar 
+
+M:  chi itrofill l'awen' tukulelfi ka küpalfi pitalmu
+C:   le puso todo tipo de remedio tambien fue al hospital
+
+M:  tüfi feyat doyeli fey fey amulay 
+C:   y se empeoró más
+
+M:  feyta doy tripantu -/lle/- dewma yeni ta feyta doy trekayawkatuy.
+C:  ya lleva más un año ya al menos anda caminando.
+ 
+nmlch-nmjab1_x_0122_nmlch_00: 
+M:  ¿Trekayawkatuy?
+C:   ¿Ya está caminando?
+ 
+nmlch-nmjab1_x_0123_nmjab_00:
+M:   May,
+C:   Sí,
+
+M:  trekayawkatuy
+C:   esta caminando
+ 
+nmlch-nmjab1_x_0124_nmlch_00:
+M:   ¿Poñpoñfuy ñi n'amun' ti?
+C:   ¿Se le habían inchado los pies?
+
+nmlch-nmjab1_x_0125_nmjab_00:
+M:   May,
+C:    Sí,
+
+M:   kompüle poñpoñ ka tripay,
+C:    por todas partes se le incharon sus pies
+
+M:   ni tripay kompüle <%> nülay reke ñi n'amun' 
+C:    y como que se le abrieron su pies
+
+nmlch-nmjab1_x_0126_nmlch_00:
+M:   Ah.
+C:    Ah.
+
+M:  Wülkawi, müna wedakünurkefuy ti chi wen'i tüfi
+C:   Se le rompieron pero tan mal le sucedió a ese hermano
+
+
+nmlch-nmjab1_x_0127_nmjab_00: 
+M:  Femi <*SPA>pu'  peñi, femi feyta al'üñmay
+C:  Así pues hermano, le duro harto tiempo
+
+M:   <*SPA>pu'  welu ta kümelkakatuy machi am 
+C:   pero se alivió como hay machi
+ 
+M:  mülelu adümuwlu machi feyta kümelkatuy,
+C:   que tiene conocimiento y se alivió, 
+
+nmlch-nmjab1_x_0128_nmlch_00: <hm> 
+M:  Feychi kutran machi <uh> 
+C:   Esa enfermedad es para la machi
+
+M:  patalmuürkelayu tüfi pitalmulay
+C:   no es para el hospital
+ 
+nmlch-nmjab1_x_0129_nmjab_00: 
+M:  Pitalmulay <*SPA>
+C:   No es para el hospital,
+
+M:  pu'  pitalmulay <*SPA>pu'  peñi, 
+C:   pues no para el hospital, hermano,
+
+M:  <uh> pitalmule ta llafafuy <*SPA>pu'
+C:   si fuera para el hospital se mejoraría
+  
+nmlch-nmjab1_x_0130_nmlch_00:
+M:  ¿Llafafuy?
+C:   ¿Sanaría?
+
+nmlch-nmjab1_x_0131_nmjab_00:
+M:  Llafafuy, femlay <*SPA>
+C:  Se sanaría y no fue así, 
+
+M:  pu'  feyta llaflay <uh> doy doyeli,
+C:   pues ahora no sanó más,  se agravó más 
+
+M:  doy amuy ñi kutran ta wüñoy <*SPA>,
+C:   avanzó más la enfermedad,
+
+M:  pu'  wüñoy fey amutuy ñi rukamu 
+C:   pues volvió y se fue para su casa  
+
+M:  feyta machituwputuy fey machi feyta llapomeyu
+C:   se le hizo machitun y la machi lo sanó
+ 
+nmlch-nmjab1_x_0132_nmlch_00:
+M:  Rume al'üli kutran tüfa mapumew mongenmew,
+C:   Son muy dolorosas las enfermedades en está vida,  
+
+M:   itrofill mongenmu rume al'üli ta kutran pingi ta peñi,
+C:    son muy dolorosas en todas partes hermano,
+
+M:   pital ta puwlay<*SPA>
+C:   el hospital no es 
+
+M:   y itrofill kutranmu pingi
+C:    para toda enfermedades dicen 
+
+M:   <*SPA>y <uh> üytungeki 
+C:    y ese lo nombran 
+
+M:   tüfichi <uh> presion mongekelay 
+C:    esta la presión no se mejoran
+
+M:   tüfi ka tüfichi katrüpütran ka mongekelay pingi
+C:    y los operados también dicen que no se sana
+
+M:   ka tüfichi estre' petu we kutran tüfi tati
+C:   y ese strees debe ser una enfermedad nueva
+ 
+nmlch-nmjab1_x_0133_nmjab_00:
+M:   Ya.
+C:    Ya.
+
+nmlch-nmjab1_x_0134_nmlch_00:
+M:  Inchiñ taiñ lofmew ngelay ta feychi kutran petu.
+C:   En nuestra comunidad no existe ese mal aún.
+ 
+nmlch-nmjab1_x_0135_nmjab_00: 
+M:  Ya.
+C:   Ya.
+
+nmlch-nmjab1_x_0136_nmlch_00: 
+M:  Wariamu ta müli estres, welu ngelay tüfi petu ...
+C:   En el pueblo hay strees, pero por aca no hay todavía...
+
+nmlch-nmjab1_x_0137_nmjab_00: ....
+M:  Ngelay mapuchemu, mapuchemu ngelay
+C:   No hay en los mapuche, no hay
+
+nmlch-nmjab1_x_0138_nmlch_00: 
+M:  Ngelay mapuchemu tüfi, 
+C:   En los mapuche no hay  
+
+M:  ka müli tüfichi wedake kutran sida pingi
+C:   también hay enfermedades graves  como el SIDA
+
+M:  tüfi petu kontupalafeiñmu inchiñ taiñ mapuchengen
+C:   todavía no llega a nuestro pueblo mapuche
+ 
+nmlch-nmjab1_x_0139_nmjab_00:
+M:   ka femlay <*SPA>pu'  may
+C:    Pues sí, no es así
+ 
+nmlch-nmjab1_x_0140_nmlch_00: 
+M:  fey itrofill kutran ta müli petu, 
+C:  de todas enfermedades hay, 
+
+M:  welu ngelay l'awen' pingi 
+C:  dicen que todavía no existe remedio, 
+
+M:  ta tüfey feyta inchiñ taiñ mapuchemu mülerkefuy,
+C:  en nosotros los mapuches existía,
+
+M:  welu kiñeke l'awen' 
+C:   pero algunos remedios sanan 
+
+M:  mapu kutran, trafentun
+C:  en el encuentro con el maligno
+
+M:  feyta llafküli ta mapuche 
+C:  se cura con remedio mapuche
+
+M:  tañi <uh> ngünenmu pingi ta tüfey.
+C:   con nuestro remedio dicen. 
+
+nmlch-nmjab1_x_0141_nmjab_00: 
+M:  Feley <*SPA>pu'  peñi <uh> 
+C:   Así es, hermano,  
+
+M:   trafentun fey machi am kimlu feyta -/mo/- llapomi,
+C:    el encuentro con el diablo la machi sabe y cura,
+
+M:  llapomi<*SPA>y ka feyti estres pipiminga 
+C:   sana,  y ese strees que dijo
+
+M:  feyta kimngelay inchiñmew,
+C:   en nosostros no se conoce, 
+
+nmlch-nmjab1_x_0142_nmlch_00:
+M:  kimngelay ti 
+C:   ese no se conoce
+
+nmlch-nmjab1_x_0143_nmjab_00: 
+M:  mapuche kimlay petu feychi kutran <*SPA>pu'
+C:   esa enfermedad el mapuche no la conoce todavía
+ 
+nmlch-nmjab1_x_0144_nmlch_00: -/tu/- 
+M:  ¿Tulayka?
+C:   ¿No se ha contagiado?
+ 
+nmlch-nmjab1_x_0145_nmjab_00: 
+M:   May,
+C:   Sí,
+
+M:  tulay ka feytichi sida ka <%> tulay ka tulay ngelay
+C:   no hay contagio de esa enfermedad , no hay, no hay,  
+
+M:  <*SPA>y feyti trafentun 
+C:   y para ese encuentro maligno  
+
+M:  ta feyta machi kimi l'awen' 
+C:   para eso esta la machi
+
+M:  müli müleluam mawida peteu mülekayelu,
+C:   sabe el remedio como hay árboles todavía,
+
+M:  müleyekalu pichiken 
+C:  quedan algunos
+
+M:  feyta feymu müli l'awen' pingi kintungi 
+C:   entonces ahí hay remedio  dicen y lo buscan
+
+M:  feyta llapomi kutran feley
+C:   y sanan los males, así es
+
+nmlch-nmjab1_x_0146_nmlch_00:
+M:  Feytichi trafentun kay peñi,
+C:   Hermano, y ese encuentro maligno,  
+
+M:  <uh> ¿chum chumuechi chi mongeki 
+C:   ese como se mejora
+
+M:   tüfi <uh> trafentulu <uh> ngerkenolu l'awen' pitalmu
+C:    del encuentro maligno si no hay remedio en el hospital
+
+M:   machi may ti datukepi üluki kam ngillatuñmakefi?
+C:    la machi lo trata o le hace oración? 
+
+nmlch-nmjab1_x_0147_nmjab_00: 
+M:  rume fütra trafentulu fey ngillatuñmangeki pingeki
+C:   al que le dio muy fuerte  entonces le hacen oración dicen
+  
+nmlch-nmjab1_x_0148_nmlch_00: 
+M:  Ah.
+C:   Ah.
+
+nmlch-nmjab1_x_0149_nmjab_00: 
+M:   May,
+C:    Sí,
+
+M:   ngillatuñmangeki ka 
+C:   le hacen oración  
+
+M:   feyti müte wedalenolu ülütungi ka müli datuwün 
+C:    y ese que no es tan grave le hacen datun
+
+M:  ka wichuli feytachi doy weche kargalelu 
+C:   es diferentes al que no esta grave
+
+M:   feyta datungi ka fey datungi
+C:    y ahí le hacen datun
+
+M:   fey wemüentuñmangi, 
+C:    entonces se lo expulsaron,
+
+M:   wemüentulelngi ñi wedakeñma üñfitumekeetew 
+C:    le expulsaron al maligno, el que lo había dañado
+
+M:   fey mapumu müli chi wedakeñma
+C:    aquel mal que hay en el suelo(tierra)
+
+M:   ka <*SPA>pu'  peñi.
+C:    tambien hermano.
+ 
+nmlch-nmjab1_x_0150_nmlch_00: 
+M:   Ah.
+C:    Ah.
+
+nmlch-nmjab1_x_0151_nmjab_00:
+M:   Mapumu müli <*SPA>pu'  mapumu müli 
+C:    Hay en la tierra hay la tierra, 
+
+M:   <*SPA>pu'  pingeki feyta fey machi 
+C:   dicen que lo saca la machi
+
+M:   feyta entuki <*SPA>pu'  wemüentuki 
+C:    ella lo saca pues lo expulsa
+
+M:   feyta wirafentungeki 
+C:   así le sacan el maligno
+
+M:   ta chi wedakeñma tañi kontuneetu 
+C:   a ese maligno que le había entrado
+
+M:   femuechi feyta llapomngi ta chi trafentun 
+C:    así entonces lo mejoran de ese encuentro maligno,
+
+M:   fey rume kargalelu feyta ngillatuñmangeki, 
+C:    el que está muy grave le hacen oración,
+
+M:   peñi, fey ngillatuñmangeki
+C:    hermano le hacen rogativa
+
+M:   o müli ñi entungeal kañpüle ka 
+C:    o tienen que sacarlo lejos
+
+M:   fey ñi kontuwenoatew ta chi wedakeñma,
+C:    para que no vuelva ese maligno,
+
+nmlch-nmjab1_x_0152_nmlch_00: 
+M:   ¿Rume amukonkülelu?
+C:    ¿ese que está muy grave? 
+
+nmlch-nmjab1_x_0153_nmjab_00:
+M:   May,
+C:    Sí,
+
+M:   rume amukonkülelu
+C:    muy grave 
+
+nmlch-nmjab1_x_0154_nmlch_00:
+M:   Feyti, peñi, 
+C:    Ese hermano
+
+M:   kimlaymi kiñeke l'awen' pütungekel 
+C:    conoce algun remedio que se tome
+
+M:   ti chem kümefuy trafentunmu?
+C:   que haga bien para el encuentro con el maligno
+
+nmlch-nmjab1_x_0155_nmjab_00: 
+M:   Itrofill -/mü/- itrofill l'awen' müli <*SPA>
+C:   Varios, hay varios remedios,
+
+M:   pu'  peñi, müli kake rumey l'awen',
+C:    pues  hermano hay diferentes remedios 
+
+M:   müli kiñe l'awen' trafentunmu mülelu pingi
+C:    hay uno para el encuentro maligno, se llama traftrafen
+
+M:   trafentrafen pingi fey konki trafentunmu ka 
+C:    se llama traftrafen ese es para eso, 
+
+M:   feyti wa l'awen' pingi 
+C:    y ese remedio dicen wa 
+
+M:   inaltun menokomu müleki
+C:    sale en la orilla del agua,
+
+M:   pumenoko menokomu kafey ka müli ka 
+C:    no en el agua en la orilla también
+
+M:   fey ka trafentunmu ka kümi
+C:    para el trafentun hay otro que es bueno
+
+M:   ka feytichi <uh> ka feytichi <uh> <hm> 
+C:    ese tambien, ese tambien
+
+M:   chem l'awen' pingi müli ka müli <uh> chüllüm
+C:    hay otro remedio que es bueno  el remedio chullum
+
+nmlch-nmjab1_x_0156_nmlch_00:
+M:   ¿Chew pengeki ti chüllüm?
+C:    ¿El chullum donde se encuentra?
+
+nmlch-nmjab1_x_0157_nmjab_00: 
+M:   Menokomu ka menokomu ka peñi,
+C:    En las orillas de agua, hermano,  
+
+M:   ka feychi l'awen' ka müli trafentunmu,
+C:    había otro remedio para eso 
+
+M:   ka konkelu ka müleyefuy l'awen'
+C:    y entraba tambien hay remedio
+
+M:   ta newe -/kimla/- kimüñmalafiñ ñi üy,
+C:    pero no se bien su nombre
+
+M:   welu müley l'awen' 
+C:    pero hay remedio
+
+M:   müley al'ün l'awen' trafentunmu konkelu,
+C:    hay remedio para eso, harto remedio que sirve para eso
+
+M:   ka llangka l'awen'  pingi ka kiñe ka müli
+C:    también hay otro que se llama llangca 
+
+nmlch-nmjab1_x_0158_nmlch_00: 
+M:   ¿Llangka l'awen', fey chuchimu tripaki?
+C:    ¿Y ese remedio donde sale?
+
+nmlch-nmjab1_x_0159_nmjab_00: 
+M:   kuramu tripaki mamüllmu ka müli, 
+C:    sale en la piedra, en los troncos también  
+
+M:   welu fey kümelay <*SPA>
+C:    pero no sirve,
+
+M:   pu'  kuramu tripalu fey kümi trafentunmu
+C:    el que sale en la piedra ese es bueno
+ 
+nmlch-nmjab1_x_0160_nmlch_00: 
+M:  ¿kuramu mülelu?
+C:   ¿El que está en la piedra?
+ 
+nmlch-nmjab1_x_0161_nmjab_00:
+M:  kuramu mülelu fey kümi trafentunmu
+C:  el que esta en la piedra ese es bueno para eso
+ 
+nmlch-nmjab1_x_0162_nmlch_00:
+M:  ¿Feytichi wa l'awen' chumngi kay peñi?
+C:   ¿Cómo es ese remedio de wa, hermano?
+
+M:   <uh> mamüll l'awen' kachu l'awen'
+C:    remedio de palo remedio de pasto 
+
+nmlch-nmjab1_x_0163_nmjab_00:
+M:   ¿Kachu? 
+C:    ¿Pasto?
+
+nmlch-nmjab1_x_0164_nmlch_00:
+M:   kachu
+C:    pasto
+ 
+nmlch-nmjab1_x_0165_nmjab_00: 
+M:   kachu l'awen' 
+C:    Remedio de pasto 
+
+M:   rüf wa reke tripaki pichikeki,
+C:    sale como raíz es chico 
+
+M:   ella fantekeki kiñekemu kiñekemu 
+C:    así es aveces, aveces
+
+M:   doy al'ükeki doy kümeke tremlu
+C:    así en parte crece más, 
+
+M:   fey doy kümi waleki rüf wa 
+C:    el que está más crecido es mejor ese remedio
+
+M:   femngi tati kachu l'awen' feyti  chüllüm 
+C:    es como el maíz y ese chullum
+
+M:   feyta ka femuechi ka 
+C:    este crece igual  así
+
+M:   femuechi tripay mapumu kachu reke
+C:    así como pasto de campo,
+
+M:   ka femuechi pichike tapül'ngi
+C:    tiene hojas chicas 
+nmlch-nmjab1_x_0166_nmlch_00:
+M:   Ah.
+C:    Ah.
+
+M:  ¿Pichike tapül'ngi, welu puko müli?
+C:   ¿De hojas chicas tiene, pero dentro del agua?
+
+nmlch-nmjab1_x_0167_nmjab_00:
+M:   komu menokomu müli, menokomu pukono menokomu
+C:    en el agua en la orilla, no dentro
+
+nmlch-nmjab1_x_0168_nmlch_00: 
+M:  Ah.
+C:   Ah.
+
+M:  ¿chüllüm pingi tüfa?
+C:   ¿y este se llama chullum? 
+
+nmlch-nmjab1_x_0169_nmjab_00:
+M:   May,
+C:    Sí,
+
+M:   nalkantumu müli,
+C:   estan con las nalcas
+
+M:   mawidantumu müleki ka rüngintumu weche rüngi.
+C:    hay en pajonales, bosque también.
+ 
+nmlch-nmjab1_x_0170_nmlch_00: <hm> 
+M:  ¿feyti kay chi wa l'awen' tapül' püneñmangi kam folil?
+C:   ¿A ese remedio se le usa las hojas o raíz?
+
+nmlch-nmjab1_x_0171_nmjab_00: 
+M:   Kom, kom.
+C:    Todo, todo.
+ 
+nmlch-nmjab1_x_0172_nmlch_00:
+M:   Ah.
+C:    Ah.
+
+M:   Kom
+C:   Todo
+ 
+nmlch-nmjab1_x_0173_nmjab_00:
+M:   folilkülen kom
+C:    con raíz y todo 
+
+nmlch-nmjab1_x_0174_nmlch_00: 
+M:   ¿Chüllüm kafey?
+C:    ¿Chullum también?
+
+nmlch-nmjab1_x_0175_nmjab_00:
+M:    Chüllüm kafey,
+C:     Chullum también,
+ 
+nmlch-nmjab1_x_0176_nmlch_00:
+M:    folilkülen
+C:     con toda la raíz 
+
+nmlch-nmjab1_x_0177_nmjab_00: 
+M:   folilkülen küchangi küme tati
+C:    se lava con raíz 
+
+M:   feyta wadkümngi wadkenkomu,
+C:    y se hierve con agua hirviendo, 
+
+M:   wadkümngi feyta wadken, 
+C:    el remedio hervido despues que haya hervido
+
+M:   feyta wadken l'awen' fürkümkünungetuy
+C:    este el reemedio hervido, se deja entibiar 
+
+M:   fey pütokoniengetuy 
+C:    ahí se toma 
+
+M:   femuechi amili  ni ka machi llemay 
+C:    así va tambien a la machi
+
+M:   ta ka wüli 
+C:    y esta tambien da
+
+M:   ta <uh> tunte tani pütokoal che antümu 
+C:    una indicación de cuanto tomar en el día
+
+M:   küla rupa epu rupa o meli rupa 
+C:    de dos, tres a cuatro veces en el día
+
+M:   feyta pütokonierupuy che
+C:    eso es lo que debe tomar
+
+nmlch-nmjab1_x_0178_nmlch_00:
+M:   ¿Kom kimni tüfi?
+C:    ¿Todos saben eso?
+ 
+nmlch-nmjab1_x_0179_nmjab_00:
+M:   May,
+C:    Sí,
+
+M:   kom kimni femuechi  dungu
+C:    saben todas esas cosas
+ 
+nmlch-nmjab1_x_0180_nmlch_00:
+M:   Rume küme dungu tüfi peñi,
+C:    Eso es muy bueno hermano, 
+
+M:   <uh> inchiñ taiñ küpalmemu <uh> 
+C:    de nuestros antepasados 
+
+M:   feychi kimün <uh> mülekeluam itrofill kutran
+C:    ahora sabemos de tantas enfermedades
+
+M:   tüfa  mongenmu 
+C:    en esta vida
+
+M:   fey <uh> femuechi notuniengi <uh> kutran 
+C:    así se curan los males, se va calmando
+
+M:   feyta doy küme yafükechi yafükontuy che ka.
+C:    y así se van sanando la gente. 
+
+nmlch-nmjab1_x_0181_nmjab_00:
+M:   Feley <*SPA>pu'  feley ka müley l'awen'
+C:    Así pues, así hay muchos remedios
+
+M:   pütrün l'awen' peñi
+C:    muchos remedios hermano
+
+M:    konkelu <%> kake rume kutranmu.
+C:    para diferentes enfermedades.
+ 
+1_x_0182_nmjab_0081_nmlch_00: 
+M:   Ah.
+C:    Ah.
+ 
+nmlch-nmjab1_x_0183_nmjab_00: 
+M:   Trafentun müten,<*SPA>
+C:    solo el maligno,
+
+M:   no ka müli <uh> femuechi kutrani che,
+C:    no, hay más cuando se enferma uno
+
+M:   furi kutran müli furi kutran müli,
+C:    enfermedad de la espalda hay un remedio,
+
+M:   müli ti chi ngüdewe pingi chi l'awen' 
+C:    hay otro que se llama guchehue
+
+M:   tati ngüdewe pingi kangelu ka müli 
+C:    también hay otro,
+
+M:   feyti <uh> traru pilliñ pingi 
+C:    traro pillin se llama
+
+M:   ka müli ka ka feyka feymu konkelu.
+C:    tambien es para eso. 
+
+nmlch-nmjab1_x_0184_nmlch_00:
+M:   ¿Chew rume pengeki müdewe peñi, chuchimu?
+C:    ¿Dónde se encuentra ese ngudehue hermano?
+
+nmlch-nmjab1_x_0185_nmjab_00: <uh>
+M:  Mawidamu tati kintungeki 
+C:   En los bosques se encuentra,
+
+M:  ka femuechi newe ngelay <*SPA>
+C:   no hay mucho tampoco
+
+M:   pu'  newe ngewelay ta apomngelu am mawida,
+C:    pues no hay tanto porque terminaron, en el bosque,
+ 
+nmlch-nmjab1_x_0186_nmlch_00:
+M:   al'üki fütrake ma...
+C:    hartos árboles
+
+nmlch-nmjab1_x_0187_nmjab_00: ...
+M:   al'üki fütrake mamüll, fütrake mamüll tati,
+C:    muchos árboles, grandes troncos si,
+ 
+nmlch-nmjab1_x_0188_nmlch_00:
+M:   ¿Müdewe pingi?
+C:    ¿Se llama mudehue?
+
+nmlch-nmjab1_x_0189_nmjab_00:
+M:   May,
+C:    Sí,
+
+M:   müdewe, mamüll l'awen',
+C:    mudehue, remedio de tronco,
+ 
+nmlch-nmjab1_x_0190_nmlch_00:
+M:   ¿Tapül' püneñmangi kam trawa?
+C:    ¿Se ocupan las hojas o el palo?
+
+nmlch-nmjab1_x_0191_nmjab_00:
+M:   Trolüf
+C:    La cáscara
+
+nmlch-nmjab1_x_0192_nmlch_00:
+M:   trolüf
+C:    la cáscara
+
+nmlch-nmjab1_x_0193_nmjab_00: 
+M:  May,
+C:   Sí, 
+
+M:  trawa, trawa,
+C:   machado, machacado,
+ 
+nmlch-nmjab1_x_0194_nmlch_00: 
+M:   ¿Tranangi tüfi?
+C:    ¿Se machaca?
+ 
+nmlch-nmjab1_x_0195_nmjab_00:
+M:   May,
+C:    Sí,
+
+M:   <uh> wadkümngi ka femuechi 
+C:   se hierve,  así tambien
+
+M:   ka femuechi wadkümngeki ka
+C:    así tambien se hierve tambien
+
+M:   feyti traru pilliñ  reyulkünungi
+C:    con ese traro pillin se revuelve,
+
+M:   fey tati ka kümi ta chi chem kutran furimu, 
+C:    también es bueno para el dolor de espalda,
+
+nmlch-nmjab1_x_0196_nmlch_00:
+M:   ¿Chem, chem chumngefuy chi traru pilliñ?
+C:    ¿Cómo, como es ese traro pillin?
+
+nmlch-nmjab1_x_0197_nmjab_00: <uh>
+M:  Traru pilliñ ta <uh> tringkür pichike tapül' 
+C:   Ese traro pillin es de hojas redondas 
+
+M:  ka femuechi mamüll <uh>
+C:   también ese árbol 
+M:  ka femuechi mamüll l'awen' füta mamüll,
+C:  es remedio natural árboles grande 
+
+M:  fütake mamüll fey ka müli ka l'awen'
+C:   árboles grandes ahí tambien hay remedio
+
+M:  ka konkelu kudakuda ta kutrani che
+C:   son remedios que lo utilizan para la vejiga
+
+M:  rume wedakünuki pingeki 
+C:   pero hace mal dicen
+
+M:  fey kafey ka müli ka müli l'awen' konkelu 
+C:   para eso también hay remedio
+
+M:   feymu kudakuda kutran.
+C:    para la enfermedad de la vejiga.
+ 
+nmlch-nmjab1_x_0198_nmlch_00: 
+M:   Ah.
+C:    Ah.
+
+nmlch-nmjab1_x_0199_nmjab_00:
+M:   Feyta <uh> pichi pingi ta chi l'awen' tati, 
+C:    Este remedio se llama pichi,
+
+nmlch-nmjab1_x_0200_nmlch_00: 
+M:   ¿pichi?
+C:    ¿pichi?
+ 
+nmlch-nmjab1_x_0201_nmjab_00: 
+M:   Pichi may kam
+C:    Si, pichi o..
+ 
+nmlch-nmjab1_x_0202_nmlch_00: 
+M:   Tapül' tüfi
+C:    Eso de hoja
+
+nmlch-nmjab1_x_0203_nmjab_00:
+M:   Tapül'%.
+C:   Hoja.
+
+
+
+
+
+
+
+
+1
+
+

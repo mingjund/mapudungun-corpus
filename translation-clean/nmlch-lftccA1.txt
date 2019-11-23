@@ -1,0 +1,3133 @@
+; CDR: 00.00 
+;TRV: 00.00 
+;File: nmlch-lftccA1 
+; Last changes made on 01/10/2003 
+;Transcriber: Marcela Collio 
+; Comments:  
+;Traduce: Rosa Huenchumilla.
+
+nmlch-lftccA1_1_0000_lftcc_00: 
+M: Mapu ta apoley l'awen'meu 
+C: La tierra esta llena de remedios
+
+M: fey adümkangelay l'awen'
+C:  pero no se sabe utilizar ese remedio
+
+M:  pünotungey <!1pünotungi> l'awen'
+C:  se pisan los remedios
+
+M:  fey chummngechi <!1chumuchi> chinga pealu l'awen' 
+C:  así, cómo va encontrar remedios
+
+M: chumngechi <!1chumuechi> chinga kimalu l'awen' 
+C: cómo puedrás saber de los remedios
+
+M:  iñche pi
+C:  yo, dice
+
+M: ta, kimnolu l'awen' 
+C: aquel que no sabe de remedio
+
+M: <*SPA> pero tüfachi l'awen'
+C:  pero éste remedio
+
+M:  fey tüfachi l'awen' kangelu,
+C: pero éste remedio como es medio complicado,
+
+M:  fey tripayu tayu kintul'awenal.
+C:  así salimos en busca de remedio.
+
+nmlch-lftccA1_1_0001_nmlch_00:
+M:  Mapumeu <!1mapumu>.
+C:  En la tierra.
+
+nmlch-lftccA1_1_0002_lftcc_00: 
+M: Mapumeu <!1mapumu> tüfa ta l'awen'
+C: En la tierra el remedio ahora
+
+M:  ñi femlen tati <*SPA>hija
+C:   como esta pues hija
+
+M:  fey niemi pu püñeñ
+C:  y ya que tienes tus hijos
+
+M: kutranchefengey <!1kutranchefengi>  pu püñeñ 
+C:  son enfermizos los hijos  
+
+M: ka eymi ka femngechi <!1femuechi>
+C:  también así como a ti
+
+M:  kutran longkolmi
+C:  te duela la cabeza
+
+M:  tüfa ta l'awen' tami pütokoñmual 
+C:  aqui hay remedio para que tomes
+
+M: tami pu püñeñngealu
+C: así como sus hijos
+
+M:  fey kimngey <!1kimngi> l'awen'
+C:  así se van conociendo los remedios
+
+M:  l'awen' piaulay kañpüle che 
+C:  en otras partes las personas no se dicen los remedios
+
+M:  machingekeyiñ tati 
+C:  así como también hemos tenido machi
+
+M: fey machi ta kiñekentu ta rume ellkay l'awen'
+C:  y a veces las machis esconden mucho los remedios
+
+M: duamlay kimüñmangeal l'awen'
+C:  no quiere que le conozcan sus remedios
+
+M:  welu wenu chau feypilelay
+C:   pero el Dios de arriba no dice eso
+
+M:  wenu chau ñi -/adümka/-
+C:   ya ése es el saber del padre de arriba
+
+M:  anümka ta tüfa hija pieneu <!1pienu>.
+C:   esta es la plantada, hija me dijo.
+
+nmlch-lftccA1_1_0003_nmlch_00: 
+M: Feypieaymu may.
+C:  ¡Ah! Eso fue lo te dijo.
+
+nmlch-lftccA1_1_0004_lftcc_00:
+M:  May,
+C:   Sí,
+
+M:  wenu chau ñi anümka
+C:  las plantas son del padre de arriba
+
+M: ta tüfa mongealu kutran
+C:  para que acá se puedan sanar las enfermedades
+
+M:  fill kutranmeu <!1kutranmu>  koni l'awen'
+C:   los remedios sirven para varias enfermedades
+
+M:  fey mongealu ta ta fiükümalu kutran.
+C:   eso para sanar y calmar la enfermedad.
+
+nmlch-lftccA1_1_0005_nmlch_00: 
+M: Pieymu <!1piyimu>.
+C: Eso te dijo. 
+
+nmlch-lftccA1_1_0006_lftcc_00: 
+M: Pieneu <!1pienu> <hm>.
+C:  Me dijo.
+
+nmlch-lftccA1_1_0007_nmlch_00:
+M:  Nütrameleymu tüfey <!1tüfi>?
+C:   Pués de eso te habló?
+
+nmlch-lftccA1_1_0008_lftcc_00:
+M: May,
+C: Sí,
+
+M:  femngechi <!1femuechi> 
+C: así
+
+M: ngütramelenu 
+C:  me lo contó
+
+M: <*SPA>entonce feymu 
+C: entonces por eso
+
+
+M: fey kimün <Noise> l'awen' iñche <*SPA>hijo
+C: hijo, yo por eso sé de los remedios
+
+M:  <*SPA>por <*SPA>eso.
+C:   por eso.
+
+nmlch-lftccA1_1_0009_nmlch_00: 
+M: ¿Femngechi <!1femuechi>?
+C: ¿Así?
+
+nmlch-lftccA1_1_0010_lftcc_00:
+M: Femngechi <!1femuechi>
+C:  Así
+
+M:  femngechi <!1femuechi> adümeleneu 
+C:  asi es como me enseñó
+
+M: <!1adümelenu> <*SPA>pobre <*SPA>vieja.
+C:   esa pobre vieja.
+
+nmlch-lftccA1_1_0011_nmlch_00:
+M:  !Aa!
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0012_lftcc_00: 
+M: Küme kuñifalinga <!1kuñivalinga> che
+C:  Si uno es una buena huérfana
+
+M:  fey <!1vey> rumel
+C:  eso es bueno
+
+M:  duamllenengey <!1duamllenengi>.
+C:  siempre lo querran.
+
+nmlch-lftccA1_1_0013_nmlch_00:
+M: Feley <*SPA>pues <!1pu>.
+C: Así es pues:
+
+nmlch-lftccA1_1_0014_lftcc_00: 
+M: <*SPA>Sí.
+C: Sí.
+
+M: Rumel duamniengey <!1duamniengi>
+C:  Siempre lo necesitan
+
+
+M:  <*SPA>así <*SPA>es <*SPA>que <!3asi'que> 
+C:  asi es que
+
+M: <*SPA>eso <*SPA>me <*SPA>ha <*SPA>pasado <*SPA>hijo.
+C:   eso me ha pasado hijo.  
+
+nmlch-lftccA1_1_0015_nmlch_00:
+M:  Kuyfi deuma tüfey <!1tüfi> ka?
+C:   Eso ya fue hace mucho antes?
+
+nmlch-lftccA1_1_0016_lftcc_00:
+M:  Kuyfi <*SPA>pues <*SPA>hijo <uh> 
+C:  Antes pues hijo
+
+M: <*SPA>hace <!1hacen> <*SPA>año
+C:  hacen años
+
+M:  <*SPA>quizás <!1quiza> aftümum kidu.
+C:   quizás una generación.
+
+nmlch-lftccA1_1_0017_nmlch_00: 
+M:  ¿Aftuy deuma tüfey <!1tüfi>?
+C:  ¿Ya es de una generación?
+
+nmlch-lftccA1_1_0018_lftcc_00: 
+M: <*SPA>Sí <*SPA>pues <!1pu'>
+C: Sí, pues.
+
+M:<*SPA>Así <*SPA>pasó 
+C:  Así pasó
+
+M: tami kuye <*SPA>abuela <!1aguela> tati
+C:  fue tu abuela pués
+
+M:  rume küme piukengefuy.
+C:  era de muy buen corazón.
+
+nmlch-lftccA1_1_0019_nmlch_00:
+M:  !Aa!
+C:   ¡Ah!
+
+nmlch-lftccA1_1_0020_lftcc_00: 
+M: <*SPA>Sí.
+C:  Sí.
+
+M:  Rume küme piukengefuy.
+C:  Era de muy buen corazón.
+
+nmlch-lftccA1_1_0021_nmlch_00: 
+M:   ¿Eymi tüfey <!1tüfi> 
+C:   ¿Y usted
+
+M: <Noise> pichidomngelu <uh> tüfey
+C:  cundo era niña
+
+M:  chem kutran wüne kimimi tüfey <!1tüfi>?
+C:  cuál fue la primera enfermedad que  conoció?
+
+nmlch-lftccA1_1_0022_lftcc_00: 
+M: <*SPA>Yo <%> luku <%> iñ luku así 
+C: Yo, mi rodilla, mi  rodilla  así
+
+M: <*SPA>entonces fey koni
+C: entonces eso entro
+
+M:  fey lukumeu <!1lukumu> ñi kutran
+C:  entonces el dolor en la rodilla
+
+M:  <*SPA>así witrayal
+C:  así para pararme
+
+M:  utrüfpuukefun witrayalu
+C:   senti morir  mi  corazón  cuando me  iba  a parar
+
+M:  utrüfpuwün newengelay iñ luku.
+C:   me caí, mi rodilla no tenía  fuerza.
+
+nmlch-lftccA1_1_0023_nmlch_00:
+M: ¿ Tami wüne kutran tüfey <!1tüfi>?
+C:  ¿ Esa fue su primer  malestar?
+
+nmlch-lftccA1_1_0024_lftcc_00: 
+M: Wüne konchi kutran
+C:   La primera enfermedad que me entró
+
+M:  feymu feyta füchekeche feypi
+C:   por eso los mayores dijeron
+
+M:  fey akorday <*SPA>santo <!1santu> <*SPA>pues <!1pu'>
+C:  ellos acordaron el santo pues
+
+M: feymu iñ fücha chau feypi
+C:  y entonces mi  anciano padre dijo
+
+M:  mülekey <!1müleki> <*SPA>novena
+C:  existía la novena
+
+M:  nome pingekey <!1pingeki>
+C:  allá al otro lado dicen
+
+M:  feymeu <!1feymu> <*SPA>mejor yeay iñ ñawe
+C:  allá mejor voy a llevar a mi hija
+
+M:  pifi ñi kure 
+C:  le dijo a su esposa
+
+M: feymu fey chumleafuy chi, 
+C: y allá como podrá estar
+
+M: mongeafuy chi müna <%> iñ felen pi
+C:  será posible que se mejore, por el estado en que está, dijo
+
+M:  <*SPA>así feyta femngechi 
+C:  así entonces
+
+M: <!1femuechi> tüfi iñ kutran lukumeu <!1lukumu>
+C:  esa enfermedad en mi rodilla
+
+M: koni iñ kutran.
+C:  me afecto esa enfermedad.
+
+nmlch-lftccA1_1_0025_nmlch_00:
+M: Lukumeu <!1lukumu>.
+C:  En la rodilla.
+
+nmlch-lftccA1_1_0026_lftcc_00: 
+<hm>  
+
+nmlch-lftccA1_1_0027_nmlch_00: 
+M:  ¿Fey chumngechi <!1chumuechi> mongetuy?
+C:   ¿Y cómo se mejoró?
+
+
+nmlch-lftccA1_1_0028_lftcc_00:
+M: <uh> Fey mongelan <*SPA>pues<!1pu'>  
+C:  Y no mejoré pues
+
+
+M:  <uh> feychi, feychi <*SPA>novena ta
+C:  esa, esa novena pues
+
+M:  mongel kutranlay <*SPA>pues <!1pu'>.
+C:   no pudo aliviar la enfermedad pues.
+
+nmlch-lftccA1_1_0029_nmlch_00:
+M: ¿Chemam <*SPA>novena pingey <!1pingi>?
+C: ¿Qué es lo que se llama novena?
+
+nmlch-lftccA1_1_0030_lftcc_00: 
+M: <*SPA>Novena pingey <!1pingi> 
+C:  Novena se llama
+
+M: ngillatukelu wingka <*SPA>pues <!1pu'><*SPA>hijo
+C:  lo que los huinca compran, hijo
+
+M:  <Noise> chiñora may resaken pi ta wingka
+C:  las chilenas que resan dice el huinca
+
+M:  <*SPA>eso.
+C:   eso.
+
+Nmlch-lftccA1_1_0031_nmlch_00:
+M: ¿Feymeu <!1feymu> tukungefuymi?
+C: ¿Por eso te habían puesto allá?
+
+nmlch-lftccA1_1_0032_lftcc_00:
+M: Feymeu <!1feymu> tukungefun.
+C: Allá me habían tratado.
+
+nmlch-lftccA1_1_0033_nmlch_00:
+M:¿Mongelaymi?
+C: ¿No mejoraste?
+
+nmlch-lftccA1_1_0034_lftcc_00: 
+M: Mongelan.
+C:  No me mejoré.
+
+nmlch-lftccA1_1_0035_nmlch_00:
+M: ¿Kintulaymi mapuche l'awen'?
+C: ¿No  buscaste    remedios  mapuches?
+
+nmlch-lftccA1_1_0036_lftcc_00:
+M:<*SPA>No,
+C:  No,
+
+M: fey feleürpulu iñche feleürpulu 
+C: y como yo  me  mantuve en ese estado
+
+M: fey ka mülekefuy <!1mülekevuy> kiñe machi 
+C: y  también  había una machi
+
+M: nome kiñe kude <!1kuche> machi
+C: al  otro lado  una  vieja  machi
+
+M: <*SPA>se <*SPA>llamaba Antonia <*SPA>la  machi
+C: se llamaba Antonia  la  machi
+
+M: fey yelngemelu iñche
+C: y cuando a ella me fueron a buscar
+
+M: fey <Cough> fey wüla mongeleneu <!1mongelenu> chi machi.
+C: y ahí recien  me curó, la machi.
+
+nmlch-lftccA1_1_0037_nmlch_00:
+M: ¿Chumngechi <!1chumuechi> chi kimimu chi machi?
+C: ¿Cómo te habra  conocido la  machi?
+
+M: ¿pewütungepimi?
+C: ¿te habrá heho una ceremonia de adivinación?
+
+nmlch-lftccA1_1_0038_lftcc_00:
+M: Feychi machi pelotueteu chi machi 
+C:  Esa machi me examinó
+
+M: niefuy likan pingey <!1pingi> 
+C:   tenía  likan  dijeron
+
+M:  likan 
+C:  likan
+
+M: <*SPA>ese <*SPA>como <*SPA>piedra <*SPA>alumbre <*SPA>así <uh>.
+C:  eso es como piedra alombre, así.
+
+nmlch-lftccA1_1_0039_nmlch_00:
+M:  May.
+C:  Sí.
+
+nmlch-lftccA1_1_0040_lftcc_00: 
+M: <*SPA>Así
+C:  Así
+
+M:  <*SPA>así <*SPA>son <*SPA>éstos
+C:  asi  son estos
+
+M:  fey elelngelu iñ lukumeu 
+C:  y  cuando  me  lo dejaron   mi  rodilla
+
+M: wente piuke eleleneu <!1elelenu> chi machi
+C:  la machi me lo dejó encima del corazón
+
+M:  fey epe wün akutuy chi, 
+C:  y  casi al  amanecer  tal vez volvió,
+
+M: epe wün akutuy chi likan
+C: casí al  amanecer volvió el likan
+
+M:  küymilelu kidu 
+C:  cuando ella estaba en trance
+
+M: fey kuyfi fey müna, müna niekefuy sanchu che <*SPA>pues <!1pu>,
+C: y así, la  gente  tenia, muchos pero muchos cerdos antes pues.
+
+M:  müna niekefuy sanchu.
+C:  tenían muchos  cerdos. 
+
+M: Fey kiñe <%> femngechi <!1femuechi> 
+C:  Y una vez así
+
+M: feyta <Cough> müñetuke chi sanchu
+C:  cuando el   cerdo se estaba bañando
+
+M: amuy nentumetuafiel 
+C:  fue a buscarlo
+
+M: fey müleürkefuy fey tiychi menoko
+C:  pero eso solo habitaba en la laguna
+
+M:  weküfü menokomeu <!1menokomu> pi ta machi 
+C:  el diablo en la laguna dijo la  machi
+
+M: <Cough> feyta <%> feychi wedake <*SPA>veneno <!1venenu>
+C:  eso, esos venenos maléficos
+
+M:  komeu <!1komu> 
+C.  en el agua
+
+M: pünokoni feymu 
+C: ella piso en ella
+
+M: feyta tuukutrani pieneu <!1pienu> chi machi.
+C:   por eso ella se enfermó me dijo la  machi.
+
+nmlch-lftccA1_1_0041_nmlch_00:
+M: ¡Aa!
+C:  ¡Ah!
+
+M:  feymeu <!1feymu>.
+C:  por  eso.
+
+nmlch-lftccA1_1_0042_lftcc_00: 
+M: <hm>  Feymeu <!1feymu> pi 
+C: Por eso dijo
+
+M: feyta küymilelu
+C:  eso cuando estaba en trance
+
+M:  kidu feyta nütrami  <Cough>  l'awen'.
+C:   ella fue la que delato el remedio.
+
+nmlch-lftccA1_1_0043_nmlch_00:
+M: Feyti tuntukuy.
+C: Así paso a llevar.
+
+nmlch-lftccA1_1_0044_lftcc_00: 
+M: Fey.
+C: Claro.
+
+nmlch-lftccA1_1_0045_nmlch_00:
+M:  Kuyfi ta mapuche  <Noise> 
+C:  Antes los mapuches
+
+M: kutranieyüm 
+C: cuando se enfermaban
+
+M: re femngechi <!1femuechi> müten
+C:  solamente así
+
+M:  l'awentuukefuy  pingey <!1pingi> 
+C:  se remediaban dicen
+
+M: feyngefuy tüfey <!1tüfi>.
+C:    eso  no más les  hacían.
+nmlch-lftccA1_1_0046_lftcc_00: 
+M: <*SPA>Sí.
+C:   Sí.
+
+nmlch-lftccA1_1_0047_nmlch_00: 
+M: Re femngechi <!1femuechi>. 
+C:  Solamente así.
+
+nmlch-lftccA1_1_0048_lftcc_00: 
+M: Re femngechi <!1femuechi>, 
+C: Solamente así,
+
+M: re femngechi <!1femuechi>
+C:  solamente así.
+
+nmlch-lftccA1_1_0049_nmlch_00: 
+M: Fey eymi tüfey <uh> 
+C:  Y entonces usted
+
+M: feypilu machi
+C: cuando eso dijo la machi
+
+M:  chumimiam tüfa > 
+C: que fue lo que le hicieron
+
+M:   datungeymi <!1datungimi
+C:   una ceremonia de sanación
+
+M: kam ta ngillatu tripaymi.
+C: o saliste a una rogativa.
+
+nmlch-lftccA1_1_0050_lftcc_00: 
+M: <*SPA>Sí ,
+C: Sí,
+
+M: datungen 
+C:  me hicieron una ceremonia de sanación 
+
+M: datungen müten
+C: me  hicieron una ceremonia de sanación
+
+M:  feyta amul amul püllüafiñ pi ta machi <*SPA>pues <!1pu'>
+C: voy  a encaminarle el alma, dijo la  machi pues
+
+M: fey wente piuke 
+C: entoces encima del  corazón
+
+M: feyta ñamümeleneu <!1ñamüelenu> likan.
+C:  me hizo desaparecer el likan.
+
+nmlch-lftccA1_1_0051_nmlch_00:
+ M: ¡Aa!.
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0052_lftcc_00:
+M: <*SPA>Sí.
+C:  Sí.
+
+mlch-lftccA1_1_0053_nmlch_00:
+M:  Üytüngeymi tiyi.
+C:  Te nombraron allá.
+
+nmlch-lftccA1_1_0054_lftcc_00: 
+M: Feymu mongen <*SPA>pues <!1pu'><*SPA>hijo.
+C:  Por eso me mejoré  pues  hijo. 
+
+nmlch-lftccA1_1_0055_nmlch_00: 
+M: Mongeymi fey.
+C: Así mejoraste: 
+
+nmlch-lftccA1_1_0056_lftcc_00: 
+M: Feymu mongen
+C: Por eso me  mejore
+
+M:  nütrami l'awen' tiyi machi.
+C: por hablar del remedio esa  machi. 
+
+nmlch-lftccA1_1_0057_nmlch_00:
+M: ¿ Chunten l'awen' chi?
+C:  ¿ Cuántos  remedios  serían?
+
+nmlch-lftccA1_1_0058_lftcc_00:
+M: ¿Chunten l'awen' chi?
+C: ¿Cuántos remedios serían pues? 
+
+nmlch-lftccA1_1_0059_nmlch_00: 
+M:¿<Cough> Chunten l'awen' chi tañi nütramfel?
+C: ¿De cuántos remedios  hablaría?  
+
+Nmlch-lftccA1_1_0060_nmlch_00:
+M:  <%> Feyti tami kutran eymi
+C: Y esa enfermedad  suya
+
+M:  mongerükelafuy pitalmeu <!1pitalmu>.
+C:   no se hubiera  mejorado  en el  hospital.
+
+nmlch-lftccA1_1_0061_lftcc_00: 
+M: Mongelayafuy.
+C:  No se hubiera mejorado.
+
+nmlch-lftccA1_1_0062_nmlch_00: 
+M: Mongelayafuy.
+C:  No se hubiera mejorado.
+
+nmlch-lftccA1_1_0063_lftcc_00: 
+M: <*SPA>No
+C: No
+
+M: <*SPA>pero <*SPA>por <*SPA>ahora
+C: pero por ahora 
+
+M:  <*SPA>como <*SPA>que <*SPA>viene 
+C:  como que viene  
+
+M: <*SPA>repuntar <*SPA>otra <*SPA>vez 
+C:  como a reaparecer otra  vez
+
+M: <*SPA>la <*SPA>enfermedad <*SPA>así 
+C:  la enfermedad  así
+
+M: fey <Cough> fey re femngechi <!1femuechi> müten
+C:  pero eso solamente  así
+
+M: ka elutukey <!1elutuki> femngechi 
+C: y  así lo vuelve dejar
+
+M: <!1femuehi>  ñi kutran ñi luku
+C:  mi dolor de  rodilla
+
+M:  <*SPA>otras <*SPA>veces <*SPA>sí 
+C:  otras veces si
+
+M: fey <Cough> willeñ engu mewemwe pi ta mapuche
+C:  pero con la horina con Newenwe dice el  mapuche
+
+M:  fey kütrürkafiñ feychi l'awen' <Cough> 
+C:  y  así  ese remedio lo corte en padazos
+
+M: fey ka 
+C:  y también
+
+M: <*SPA>me livianatukey <!1livianatuki>
+C:  me  aliviana
+
+M:  iñ <*SPA>cuerpo <!1cuerpu>
+C:  el  cuerpo
+
+M:  luku n'amün' kom femngechi <!1femuechi>.
+C:  rodillas, pies y todo así.
+
+nmlch-lftccA1_1_0064_nmlch_00: 
+M: Cheu pengeafuyanta mewemewe?
+C:  Donde se puede encontrar el newenwe?
+
+nmlch-lftccA1_1_0065_lftcc_00: 
+M: <Cough> Anümün <*SPA>pues *SPA<>hijo
+C:  Lo planté pues hijo
+
+M: <*SPA>yo   <%> <*SPA>esa tañi anümal l'awen'.
+C:   ese es mi planta medicinal.
+
+nmlch-lftccA1_1_0066_nmlch_00:
+M:  ¡Aa!
+C:   ¡ Ah!
+
+nmlch-lftccA1_1_0067_lftcc_00:
+M:  Pütrünien ta l'awen' tañi wertameu <!1wertamu>.
+C:  Tengo hartos remedios en mi huerto.
+
+nmlch-lftccA1_1_0068_nmlch_00:
+M:  Nieymi mewemewe.
+C:  Tienes  newenwe.
+
+nmlch-lftccA1_1_0069_lftcc_00: 
+<hm>  
+
+nmlch-lftccA1_1_0070_nmlch_00: 
+M: Feyti kümey <!1kümi> 
+C: Eso  es bueno
+
+M: feychi kutranmeu <!1kutranmu>.
+C:  para esa enfermedad.
+
+
+nmlch-lftccA1_1_0071_lftcc_00: 
+M: Kümey <*SPA>pues <*SPA>hijo.
+C:  Es bueno pues hijo.
+
+nmlch-lftccA1_1_0072_nmlch_00:
+M: ¡Aa!
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0073_lftcc_00: 
+M: Kümey tati.
+C: Es bueno pues: 
+
+nmlch-lftccA1_1_0074_nmlch_00: 
+M: ¡Aa!
+C: ¡ Ah!
+
+nmlch-lftccA1_1_0075_lftcc_00: 
+M: <Cough> <*SPA>Muy <*SPA>bueno tachi l'awen'  tati <hm> .
+C:  Muy  bueno este remedio pues. 
+
+nmlch-lftccA1_1_0076_nmlch_00: 
+M: Rume küme l'awen' ta.
+C:  Es  muy remedio  esto.
+
+nmlch-lftccA1_1_0077_lftcc_00:
+M:  Rume küme l'awen' trafentunmu pi ta machi.
+C:   Es un bueno remedio para las enfermedades de visiones dijo la machi. 
+
+nmlch-lftccA1_1_0078_nmlch_00: 
+M:  <uh> Kuyfi <uh> trafentuyüm che
+C:   Antes cuando las personas veían visiones
+
+M:  welu feula ka feley <!1feli>
+C:   pero ahora
+
+M: petu  tafentulu mongekelay pitalmeu <!1pitalmu> 
+C:  aun las que sufre de eso se  mejora en el hospital
+
+M:  feyngey <!1feyngi>.
+C:   eso es así.
+
+_1_0079_nmlch_000041_lftcc_00: 
+M: Feyngey <!1feyngi> <*SPA>pues <!1pu'><*SPA>hijo
+C:  Eso así pues, hijo
+
+M:  feyngey <!1feyngi> <*SPA>pues 
+C:  eso es pues 
+
+M: <!1pu'>opital ta kimniey <!1kimniyi>
+C:   el hospital conoce
+
+M:  feyta <Cough> weda kutran nielu
+C:  de quien tenga esa maligana enfermedad
+
+M:  <*SPA>tal <*SPA>como <*SPA>vésicula <!1versicula> pi
+C:  tal como la vesícula dijo
+
+M:  <*SPA>otra <*SPA>cosa 
+C:  otra cosa
+
+M: chumi trafoy rume che feymu ta puwi ta.
+C:   lo que le pase, aunque se quiebre, allá llegan las  personas pues.
+
+nmlch-lftccA1_1_0080_nmlch_00: 
+M: opital.
+C: Hospital.
+
+nmlch-lftccA1_1_0081_lftcc_00: 
+M: opital <*SPA>pues <*SPA>hijo 
+C:  Hospital pues hijo
+
+M: <*SPA>pero puulay ta <uh> trafentunmeu
+C:  pero no alcanza en la enfermedad de las visiones
+
+M: pamu kutranmeu 
+C:  para la enfermedad del espasmo
+
+M: <*SPA>todo <!1to> <*SPA>eso 
+C:  todo eso
+
+M:  puulay <*SPA>pues <!1pu'>.
+C:   no alcanza pues.
+
+nmlch-lftccA1_1_0082_nmlch_00:
+M:  Puulay <*SPA>no .
+C:  No alcanza, no.
+
+nmlch-lftccA1_1_0083_lftcc_00: 
+M: <*SPA>No. 
+C:  No.
+
+M: <*SPA>No <Cough>.,
+C:  No.  
+
+nmlch-lftccA1_1_0084_nmlch_00: 
+<uh> 
+
+nmlch-lftccA1_1_0085_nmlch_00: 
+M: Mapu l'awen' 
+C:  Con medicamentos de la tierra 
+
+M: feymu fey mongey mapuche.
+C:  con eso se mejoran los mapuches.
+
+nmlch-lftccA1_1_0086_nmlch_00: 
+M: ¿<Cough> Chumngechi <!1chumuechi>
+C: ¿Cómo
+
+M:  chi trafentukey <!1trafentuki> mapuche ta?
+C:  sera que los mapuches ven visiones sobreanturales?
+
+nmlch-lftccA1_1_0087_lftcc_00: 
+M: Feyta kuyfi ta <Cough> fütake
+C:  Antes los mayores
+
+M:  kalkungefuy ta füchakeche pin 
+C:  eran brujo los mapuches dicen
+
+M: mülekefuy <*SPA>pues <!1pu'>
+C: había eso pues
+
+M: niefuy weda adümkawün füchakeche
+C:  tenían conocimientos malignos nuestros ancianos
+
+M:  <*SPA>antiguo füchakeche  
+C:  nuestros antiguos ancianos
+
+M: fey pi tachi dungun 
+C:  y este asunto dice
+
+M: fey <Cough> l'ay kiduengün 
+C: si ellos mueren
+
+M: fey <*SPA>entonce 
+C: entonces
+
+M: feyta kuñifallkületuy
+C:  son desposeídos
+
+M:  wedake kürüf
+C: malos vientos
+
+M:  feyta kürüfkiawi rukameu
+C:  ronda por sus casas
+
+M:  femngechi meulengetuy
+C:  así  pasa a ser remolino
+
+M:  fill 
+C:   de todo
+
+M: adkawi kompual rukameu 
+C: quiere entrar en sus casas
+
+M: pi ta füchakeche <*SPA>pues <!1pu'>.
+C:   dicen los mayores pues.
+
+nmlch-lftccA1_1_0088_nmlch_00: 
+M: ¡Aa! <hm>.
+C:  ¡ Ah!.
+
+nmlch-lftccA1_1_0089_lftcc_00: 
+M: <Cough> Feymu fey trafentuy kutrankey <!1kutranki>.
+C:   Por eso cuando se encuentran con espíritus malignos se enferman.
+
+nmlch-lftccA1_1_0090_nmlch_00:
+M: Feymu <Noise>.
+C:  Por eso.
+
+nmlch-lftccA1_1_0091_lftcc_00:
+M: Feymu.
+C:  Por eso.
+
+nmlch-lftccA1_1_0092_nmlch_00: 
+M: ¿<Noise> Fütakeche kuyfi niefuy adümuuwün?
+C:  ¿Antes los ancianos tenían conocimiento?
+
+nmlch-lftccA1_1_0093_lftcc_00:
+M: <*SPA>Sí<*SPA>pues <*SPA>hijo.
+C:  Sí pues hijo.
+ 
+nmlch-lftccA1_1_0094_nmlch_00:
+M. Feyti fey 
+C:  Y esos
+
+M: feytichi niefulu adümuuwün may
+C:  y esos que tenían conocimientos
+
+M:  fey l'ay fey müñalnietuy fey.
+C:  cuando mueren para siempre lo tienen.
+
+nmlch-lftccA1_1_0095_lftcc_00:
+M:<*SPA>Ese ta.
+C:   Eso es pues.
+
+nmlch-lftccA1_1_0096_nmlch_00: 
+M: Müñaley <!1müñali>.
+C: 
+
+nmlch-lftccA1_1_0097_lftcc_00:
+M:  Müñaletuy <*SPA>pues <!1pu'>
+C: 
+
+M: <Cough> <*SPA>en <*SPA>una <*SPA>familia
+C:  en una familia
+
+M:  feyta <Noise> feyta küngüluutuy ka pikey
+C:  es donde nuevamente se acumula, tambien eso  dicen
+
+M:  ta pi ta dungun <*SPA>pues <!1pu'>
+C:  también eso dice las conversas pues
+
+M:<*SPA>en <*SPA>un <*SPA>familia
+C: en una familia
+
+M:  feymu fey ka küngüluutuy pi.
+C:  es donde nuevamente se acumula  dijo.
+
+nmlch-lftccA1_1_0098_nmlch_00:
+M:  ¡Aa!.
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0099_lftcc_00:
+M:  <*SPA>Claro.
+C:  Claro.
+
+nmlch-lftccA1_1_0100_nmlch_00: 
+M: ¿Feyanta trafentun?
+C:  ¿Eso es el mal de las visiones?
+
+nmlch-lftccA1_1_0101_lftcc_00: 
+M: Fey entonce -/puwu/-  puwüluwi
+C:  Eso, entonces cuando se hace llegar
+
+M:  <uh>  kiñe ñawemu
+C:  en una hija
+
+M:  kiñe fotümmu 
+C:  o en un hijo
+
+M: feyta puwüluwi <*SPA>ese 
+C:  eso se hace llegar
+
+M: <*SPA>entonce fey femngechiyawi <!1femuechiyawi>
+C:  entonces andan así las personas
+
+M:  feyta kañpüle puwi 
+C:  y cuando llega en una parte equivocada
+
+M: ka feyta wirafentungey <!1wirafentungi>
+C:  es donde lo espantan a galope
+
+M:  ka amuy kañpüle 
+C:  y se va en otra parte
+
+M: ka wirafentungey <!1wirafentungi>
+C:  y lo vuelven a espantar a galope
+
+M:  feyta femiawi 
+C:  así es como anda eso
+
+M: <*SPA>al <*SPA>final fey kutranpelu
+C:  al final eso se vuelve enfermedad
+
+M:  <*SPA>así feymeu <!1feymu> küngüluwi 
+C:  así entoces se acumula
+
+M: feyta femngechi <!1femuechi> ravatan 
+C:  así se arrebata
+
+M: entufi <Cough> tiychi kutran 
+C:  lo saca esa enfermedad
+
+M: pi ta füchakeche.
+C:  dicen los ancianos.
+
+nmlch-lftccA1_1_0102_nmlch_00: 
+M: ¿Iney <!1ini> wirafentuafuy müten kay feychi kutran tüfa?
+C: ¿ Quién sería el único que espantaría esta enfermedad? 
+
+nmlch-lftccA1_1_0103_lftcc_00:
+M:  <*SPA>Ese 
+C:  Eso
+
+M: <*SPA>kidu mismo <!1mimu>
+C:  el mismo
+
+M:  ta feyta femekeal pues <!1pu'>
+C:  es lo que debe hacer pues
+
+M: kidu <*SPA>mismo <!1mimu> 
+C:  el mismo
+
+M: feyta kayñetunietuafilu 
+C:  él debe hacerlo su enemigo
+
+M: <*SPA>ese wedake kürüf
+C:  a esos vientos malignos
+
+M: cheu ta puwi wemümtukungey <!1wemümtukungi> pingey <!1pingi>.
+C: donde llega, molesta dicen.
+
+nmlch-lftccA1_1_0104_nmlch_00:
+M: ¿Mülepefuykay l'awen' femam?
+C: ¿Y no creo que haya remedio para  hacer eso?
+  
+nmlch-lftccA1_1_0105_lftcc_00: 
+M: Sí <*SPA>pues <!1pu>.
+C:  Sí pués
+
+nmlch-lftccA1_1_0106_nmlch_00:
+M:  Müley <hm>.
+C:   Hay.
+
+nmlch-lftccA1_1_0107_nmlch_00: 
+M:¿Chem l'awen' chi kümefuy?
+C: ¿Qué remedio será bueno?
+
+nmlch-lftccA1_1_0108_lftcc_00:
+M: Feyta müley <uh> füna willeñ pi ta che.
+C:  Para eso esta la horina fermentada, dice la gente.
+
+nmlch-lftccA1_1_0109_nmlch_00:
+M: ¿Feymu fey konwekelay?
+C:  ¿Por eso no entra más?
+
+nmlch-lftccA1_1_0110_lftcc_00:
+M: Feymu konwekelay 
+C: Allá no entra más
+
+M: utrutungey   ruka pingey <!1pingi>
+C: cuando la casa es roceada con orina dicen
+
+nmlch-lftccA1_1_0111_nmlch_00:
+M: ¿Funa willeñmu?
+C: ¿Con horina fermentado?
+
+nmlch-lftccA1_1_0112_lftcc_00: 
+<hm>  
+
+nmlch-lftccA1_1_0113_nmlch_00:
+M:¿Feyanta fey konwelay tüfey <!1tüfi>?
+C:¿Es con eso que eso no vuelve a entrar?
+
+nmlch-lftccA1_1_0114_lftcc_00:
+M: Konwelay
+C:  No entra más
+
+M: feyta adümeleneu <!1adümelenu> 
+C:  eso me lo hizo saber
+
+M: femngechi <!1femuechi> tami kuye <*SPA>abuela
+C:  así tu anciana abuela
+
+M: aguela tati,
+C:  tu  abuela pues,
+
+M: femngechi <!1femuechi> kayñetual
+C:  enemistarse así
+
+M: fey <uh> chuchimu rume 
+C:  y  así, en cualquier parte
+
+M: feyta palolkey <!1palolki> ruka puwi pi.
+C: cuando llega suena la casa, dijo.
+
+nmlch-lftccA1_1_0115_nmlch_00:
+ M: ¡Aa!
+ C:  ¡ Ah!
+
+nmlch-lftccA1_1_0116_lftcc_00: 
+M: <*SPA>Sí.
+C: Sí.
+
+M:  Puwüyüm tüfey <!1tüfi> 
+C:  Cuando eso llega
+
+M: fey palolpuy -/def/- 
+C:  entonces suena la casa
+
+M: fey tuupuken tüfey <!1tüfi> 
+C: entonces da golpes eso
+
+M: wedake kürüf rukameu <!1rukamu> pi 
+C:  vientos malignos en la casa dijo
+
+M: <*SPA>entonce femngechi <!1femuechi> inay
+C:  entonces sigue así
+
+M:  feyta witratripaymi 
+C:  así tu sales afuera
+
+M: femngechi <!1femuechi> funawilleñ müley 
+C:  cuando hay así horina fermentada
+
+M: chadi engu müley 
+C:  cuando hay con sal
+
+M: feyta femngechi <!1femuechi> kayñetuaymi pieneu <!1pienu>.
+C:  es así como se hace enemigo eso me dijo.
+
+nmlch-lftccA1_1_0117_nmlch_00:
+M:  ¡Aa! <Noise> 
+C:   ¡Ah!
+
+M: wefnoal tiyi <uh> 
+C:  para que eso no aparezca
+
+M: kiñekemu  kütrürkey ruka wenu.
+C:  a veces hace ruido arriba de la casa.
+
+nmlch-lftccA1_1_0118_lftcc_00:
+ <hm>  
+nmlch-lftccA1_1_0119_nmlch_00: 
+
+M: Tuchipüle rume <%> feyanta ñi puwün tati.
+C:  Por donde seá ya que eso lleguó ya pues.
+
+nmlch-lftccA1_1_0120_lftcc_00:
+M: Fey fey ñi puwün 
+C:  Entoces es eso que llega
+
+M: <*SPA>entonce femngechi <!1femuechi>
+C:  entonces así
+
+M:  fey cheu puwi 
+C:   y donde llega
+
+M: fey utrutungeam kayñetuneam.
+C:  para que le tiren horina para que se vuelva enemigo.
+
+nmlch-lftccA1_1_0121_nmlch_00:
+M: Amutuy.
+C:  Se fue.
+
+nmlch-lftccA1_1_0122_lftcc_00:
+M: Amuymutuaymi 
+C:  Te vas a ir
+
+M: küme feyti tripañmutuaymi  
+C: que puedas salir bien
+
+M:  <%>kayñetuayu
+C:  te soy tu enemigo
+
+M:  eymi nielaymi ruka fau
+C:  usted no tiene casa acá
+
+M: fey tami femiawal 
+C:  para que andes así
+
+M: feyta pipiengekey <!1pipiengeki> 
+C:  eso se le debe estar diciendo
+
+M: femngechi <!1femeuchi> eseñaleneu 
+C:  así, me lo enseñó
+
+M:  <!1enseñalenu> tami kude <!1kuye> <*SPA>abuela <!1aguela>.
+C:   tu anciana abuela.
+
+nmlch-lftccA1_1_0123_nmlch_00:
+M: ¿ Femngechi <!1femuechi> adümürpukey <!1adümürpuki> che?.
+C: ¿  Es como la persona llega a aprender?
+
+nmlch-lftccA1_1_0124_lftcc_00: 
+M: <*SPA>Sí.
+C: Sí.
+
+M:  Femngechi <!1femuechi> -/kim/-  kimpürarumen.
+C:   Así es como llegue saber.
+
+nmlch-lftccA1_1_0125_nmlch_00: 
+M: Adümuunulu che
+C:  Cuando la gente es experta en eso
+
+M: fey inkawal kidu femngechi <!1femuechi>
+C:  es para defenderse así 
+
+M:  wedake kutranmeu <uh> 
+C:  de las malignas enferrmedades
+
+M: chemngetuafuy che 
+C:  en lo que la persona
+
+M: l'ayafuy.
+C:  puede llegar a ser muerto.
+
+nmlch-lftccA1_1_0126_lftcc_00: 
+M: <*SPA>Sí
+C:  Sí
+
+M:  <*SPA>pues <*SPA>hijo.
+C:   pues hijo.
+
+nmlch-lftccA1_1_0127_nmlch_00:
+ M: ¿L'ayafuy?
+C:  ¿Puede morir?
+
+nmlch-lftccA1_1_0128_lftcc_00:
+M: L'ayafuy 
+C:  Puede morir
+
+M: femngechi <11femuechi> l'akey che <*SPA>pues <!1pu'>
+C:  así es como las personas mueren pues
+
+M: <*SPA>mucho <!1muchu> <*SPA>pues <!1pu'>.
+C:  muchos, pues.
+
+nmlch-lftccA1_1_0129_nmlch_00:
+M: ¿Rume l'akey <!1l'aki> che?
+C:  ¿Mucho  gente  muere?
+
+nmlch-lftccA1_1_0130_lftcc_00: 
+M: <*SPA>Sí.
+C:  Si.
+
+M:  <*SPA>Porque amuy opitalmeu <!1opitalmu>
+C:   Porque cuando va al hospital
+
+M:  tutelay turpu
+C:   no conviene nada
+
+M:  <*SPA>porque <*SPA>doctor 
+C:   porque el doctor
+
+M:  ta adümnielay feychi dungu <*SPA>pues <!1pu'>.
+C:   no tiene conocimento sobre esas cosas pues.
+
+nmlch-lftccA1_1_0131_nmlch_00:
+M: ¿Adümlay?
+C:  ¿No experto?
+
+nmlch-lftccA1_1_0132_lftcc_00: 
+M:  <*SPA>No.
+C:   No.
+
+nmlch-lftccA1_1_0133_nmlch_00:
+M: Feytikay ka müley <!1müli>
+C:  Y también eso hay
+
+M:  kiñe <uh> kiñe kutran tüfey <!1tüfi>
+C:  otra enfermedad
+
+M:  perimontun pingekey <!1pingeki>
+C:  es el trauma de las visiones sobrenaturales dicen
+
+M: kuyfi rume perimontukefuy che pingey <!1pingi>
+C:  antes, las personas, sufrían de las visiones sobrenaturales, dicen
+
+M: fey kimfimi tüfey, 
+C:  y eso lo sabes, 
+
+M: ¿chumngelu <!1chumuelu> ñi femkefel che?
+C:  ¿por qué le pasaba eso a las personas?
+
+M: ¿chem tañi perimontukefel che? 
+C:  ¿que es lo que veían las personas en las visiones sobrenaturales?
+
+M: feypin müley <*SPA>pues <!1pu'><*SPA>hijo
+C:  esos dichos, hay, pues  hijo
+
+M:  femngechi <!1femuechi> feyta müley
+C:  así es como existe
+
+M:  perimontun pingey <!1pingi> 
+C:  el trauma de las visiones sobrenaturales dicen
+
+M: <*SPA>pero <*SPA>hay <*SPA>si 
+C:    pero ahí sí
+
+M: <*SPA>es <*SPA>que 
+C:  es que 
+
+M: <*SPA>no <*SPA>puedo <*SPA>decir 
+C:  no puedo decir
+
+M: ¿chumngechi <!1chumuechi> chem perimontun pen che?
+C:  ¿cómo las personas les da esta trauma?
+
+nmlch-lftccA1_1_0134_nmlch_00: 
+M: Kimlafimi che
+C:  No conoces a persona
+
+M: perimontukelu kiñeke 
+C:  que haya sufrido de estas visiones sobrenaturales
+
+M: nütramkalngekelaymi
+C:  no les han conversado
+
+M: chumngechi <!1chumuchi> tañi perimontukenengün .
+C:  como les ha dado esta trauma a ellos.
+
+nmlch-lftccA1_1_0135_lftcc_00:
+M: <*SPA>Una <*SPA> sobrina
+C:  Una sobrina
+
+M: fey perimontun pi
+C: ella  dijo que había sufrido estas  visiones sobrenaturales 
+
+M:  <*SPA>pero <*SPA>para <*SPA>mi
+C:  pero para  mi 
+
+M: <*SPA>mas <!1ma> <*SPA>creo
+C:  más  creo
+
+M:  <*SPA>el feyti wedake weküfü wedake kürüf 
+C :  en esos  vientos  maléficos
+
+M: <*SPA>ese<*SPA>se <*SPA>presenta
+C:  ese  que  se presenta
+
+M: feyta chumalu rume <*SPA>pues <!1pu'><uh> 
+C:  entonces  es para  pasar cualquier  cosa
+
+M: <*SPA>puede <*SPA>ser <*SPA>así 
+C:  puede ser así
+
+M: fantenmeu <!1fantenmu> fey müley <!1müli> 
+C:  a ésta altura hay eso
+
+M: machi mületuy 
+C:  ahora hay machi
+
+M. weke machi pin müley 
+C:  machis nuevas
+
+M: fey feyti wedake kürüf
+C:  y esos vientos maléficos
+
+M:  feyta machiltuy, pin ta niekeyengün <!1niekingün> 
+C:   hacen  machi  a la machi,  suelen  decir eso
+
+M: kuyfi antikuo machi femlay <*SPA>pues <!1pu'><*SPA>hijo.
+C:  antes en la antiguedad pues, hijo.
+
+nmlch-lftccA1_1_0136_nmlch_00:
+M:  Femlay.
+C:   No paso eso.
+
+nmlch-lftccA1_1_0137_lftcc_00: 
+M: <*SPA>No.
+C:  No.
+
+M:  <*SPA>Eso <*SPA>antiguo <%> tati niey <!1niyi>
+C:  Eso en la antiguedad tienen pues
+
+M: tañi l'awen' niey <!1niyi> 
+C:  tenían  su propio remedio
+
+M: tañi likan niey <!1niyi>
+C:  su propio likan
+
+M:  tañi ngücham l'awen' ka pi <uh>
+C:  su  remedio  de  réptiles también dicen
+
+M:  femngechi.
+C:   así.
+
+nmlch-lftccA1_1_0138_nmlch_00:
+M: ¿ Chemam ngüchaf l'awen' pingey <!1pingi>?
+C:   ¿Qué es lo que se llama remedio  de réptiles?
+
+nmlch-lftccA1_1_0139_lftcc_00: 
+M: <*SPA>Ese ngüchaf l'awen'  pingey <!1pingi> tati
+C:  Eso se llama remedio de réptiles pues
+
+M:  <*SPA>como
+C:   como
+
+M:  chumlekey <!1chumleki>
+C:   estan
+
+M:  küñal mülekeynga <!1mülekinga> komeu <*SPA>hijo 
+C:   no ves  existen  un sanguijuelas  en el agua  hijo
+
+M: <*SPA>así <*SPA>una <*SPA>cosa
+C:  así, es una cosa
+
+M:  <*SPA>así <*SPA>pero <*SPA>tableado <!1tableau> 
+C:  es así, pero tableado
+
+M: fey.
+C:  es eso.
+
+
+nmlch-lftccA1_1_0140_nmlch_00: 
+M: ¿Feley <!1feli>? <Noise>.
+C:  ¿Así es?
+
+nmlch-lftccA1_1_0141_lftcc_00:
+M:  <*SPA>Un <*SPA>rubio <!1rucio> <*SPA>así
+C:  Es uno  rubio, así
+
+M:  kolüy pi 
+C:   es rubio dijo
+
+M:  <*SPA>ese ngücham l'awen'.
+C:   eso es un remedio para exprimir.
+
+nmlch-lftccA1_1_0142_nmlch_00:
+M: ¿Fey ngüchaf l'awen'?
+C:  ¿Y ese es un remedio para exprimir?
+
+
+nmlch-lftccA1_1_0143_lftcc_00:
+M:  <hm>  Tami kude <!1kuye> <*SPA>abuela
+C:   Tu  vieja abuela
+
+M: tachi ta enseñaleneu <!1enseñalenu> 
+C:  fue la que me enseñó
+
+M: kom <*SPA>ese <*SPA>que <*SPA>tenía 
+C:  todo eso que tenía
+
+M: fey, fey küchakefuy kidu
+C:  y, ella lo lavaba
+
+M: müñetulkefuy, <*SPA>así 
+C:  se bañaba con ella, así
+
+M: <uh> follekomeu <!1follekomu>.
+C:  con agua de canelo.
+
+nmlch-lftccA1_1_0144_nmlch_00:
+M: ¿Chumal kümey <!1kümi> tüfey?
+C:   ¿Para qué es bueno eso?
+
+nmlch-lftccA1_1_0145_lftcc_00:
+M:  Fey feyta püray wenumapu pi kidu <*SPA>pues <!1pue'>.
+C:   Y ella dice que se sube a la tierra de arriba pues.
+
+
+nmlch-lftccA1_1_0146_nmlch_00:
+M:  ¡Aa!
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0147_lftcc_00:
+M:  <*SPA>Eso <*SPA>son 
+C:   Eso son
+
+M:  <*SPA>un <*SPA>virtud <*SPA>pues <!1pu'><*SPA>hijo.
+C:   una virtud pués  hijo.
+
+nmlch-lftccA1_1_0148_nmlch_00:
+M:  ¡Aa!
+C:  ¡Ah!
+
+M: ¿Ngüneluwün?
+C:  ¿Conocimiento?
+
+nmlch-lftccA1_1_0149_lftcc_00:
+M: <*SPA>Claro.
+C:  Claro.
+
+nmlch-lftccA1_1_0150_nmlch_00:
+M: ¿Ngüneluwün pingey <!1pingi> ?
+C: ¿Se llama  conocimiento?
+
+nmlch-lftccA1_1_0151_lftcc_00: 
+M: Ngüneluwün.
+C:  Conocimiento.
+
+nmlch-lftccA1_1_0152_nmlch_00:
+M:  ¿Ngüneluwünürke tüfey <!1tüfi>?.
+C:   ¿Eso es  conocimiento?
+
+nmlch-lftccA1_1_0153_lftcc_00: 
+M: <*SPA>Claro
+C:  Claro
+
+M:  fey likan pi tati 
+C:   eso es likan dice pues
+
+M: ka kiñe pichi karpa
+C:  y una capita
+
+M: nieyengün <!1ningün> <*SPA>pues <!1pu'>
+C:  tienen pues
+
+M: kiñe pichi karpa niey eso 
+C:  una capita tiene eso
+
+M: likan pingey <!1pingi> 
+C:  likan se llama
+
+M: fey tüfey <!1tüfi> purulngey <!1purulngi>
+C:  y eso se les danza
+
+M:  pürayalu kudenmu 
+C:   debe ir a la competencia
+
+M: chemmu rume kudenmu konal
+C:  con cualquier cosa se debe apostar
+
+M:  feyti purulngey <!1purulngi>
+C:  y eso se les danza
+
+M:  kultrung <%> trinküyaukey <!1trinküyauki> <*SPA>pues <!1pu'>
+C:   el kultrun anda saltando pues
+
+M:  <*SPA>una <*SPA>cosa <*SPA>íncreible <*SPA>incredible>
+C:   es una cosa incredible 
+
+M:  <*SPA>pero <*SPA>es <*SPA>verdad <*SPA>hijo.
+C:    pero es verdad  hijo.
+
+nmlch-lftccA1_1_0154_nmlch_00:
+M:  Feytichi likan rünküyaukey <!1rünküyauki>.
+C:  Y ese likan también anda  saltando.  
+
+nmlch-lftccA1_1_0155_lftcc_00: 
+M: <hm>  <%> Ya.
+C:   Ya.
+
+nmlch-lftccA1_1_0156_nmlch_00: 
+M: ¿Fill, fill <!1vill> che peafuy?
+C: ¿Toda, toda  persona  puede ver eso?
+
+nmlch-lftccA1_1_0157_lftcc_00: 
+M: Fill che pey  <*SPA>pues <!1pu'>
+C:  Toda persona ve pues
+
+M:  <*SPA>no <*SPA>ves <*SPA>que <!3 novique> 
+C:   no  ves  que
+
+M:  machi wente <Cough> wente kultrung pey 
+C:  la machi lo ve, encima de su cultrung
+
+M: ta trananiefi <*SPA>pues <!1pu'>
+C: cuando lo tiene en el  suelo pues
+
+M: pun cheu müley pey <*SPA>pues <!1pue>.
+C:  en la noche donde esté lo ve pues.
+
+nmlch-lftccA1_1_0158_nmlch_00: 
+M: Kom che pey.
+C:  Toda la gente lo ve.
+
+nmlch-lftccA1_1_0159_lftcc_00:
+M: <*SPA>Sí.
+C:  Sí. 
+
+nmlch-lftccA1_1_0160_nmlch_00: 
+M: Feyta felewetulay dungu 
+C:  Ahora no son así las cosas
+
+M: kuyfi rume ngillatukefuy che pingey <!1pingi> 
+C: ante la gente hacía mucha rogativa
+
+M: fütakeche ¿feyngefuyanta tüfey <!1tüfi>?
+C:  eso, ¿es tanto así?  
+
+nmlch-lftccA1_1_0161_lftcc_00: 
+M: <*SPA>Ese
+C: Eso
+
+M:  fey dungufelengün kiduengün <*SPA>pues <!1pu'>
+C:   eso era una cosa de su propiedad pues
+
+M:  fey ñi dungufelengün
+C:  uno de sus asuntos más  importantes
+
+M:  müna kimi machi -/mün/- 
+C:  sabe mucho la machi
+
+M:  müna kimi machi 
+C:  sabe mucho la machi
+
+M: <*SPA>antes <!1ante> l'awen'nkey  <!1l'awen'ki>
+C:  antes ,  buscaba remedio
+
+M:  <*SPA>pero <*SPA>hijo <*SPA>ahora
+C:  pero hijo ahora
+
+M:  <*SPA>no <*SPA>hay <*SPA>de <*SPA>esos machi machi
+C:    no existe de esas machis
+
+M: <*SPA>es <*SPA>una <*SPA>cosa  <%> 
+C:  es una cosa
+
+M: <%> pekelay femngechi <!1femuechi> 
+C:  no se ve así
+
+M: <*SPA>una <*SPA>cosa 
+C:  una cosa,
+
+M: <*SPA>que l'awen' tripapay wünmeu <!1wünmu>.
+C:   que el remedio sale de la boca.
+
+nmlch-lftccA1_1_0162_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+M:  pekelafin tüfey <!1tüfi>.
+C:  no se había visto eso.
+
+nmlch-lftccA1_1_0163_lftcc_00:
+M:  <%> Tüfa wünmeu <!1wünmu> apolekey <!1apoleki> l'awen'
+C:   Ahora de boca esta lleno de remedio
+
+M:  fanteke nagkey <!1nagki> l'awen' 
+C:   así tanto caen los remedios
+
+M:  machi antikuo machi kuyfi <*SPA>pues <!1pu'>.
+C:   a los antiguos machis de  antes pues.
+
+nmlch-lftccA1_1_0164_nmlch_00: 
+<hm>  
+
+nmlch-lftccA1_1_0165_lftcc_00: 
+M: <hm>  Femngechi <*SPA>azul rayengefuy ñi l'awen' 
+C:   Así su remedio tenía una raya azul
+
+M: tamu kude <!1kuye> <*SPA>abuela <!1aguela>.
+C:  aqui su anciana abuela.
+
+nmlch-lftccA1_1_0166_nmlch_00:
+M:  Rayikefuyürke.
+C:   Como que florecía.
+
+nmlch-lftccA1_1_0167_lftcc_00:
+M: Rayi <*SPA>pues <*SPA>hijo
+C:  Florecía pues hijo
+
+M:  <*SPA>como <*SPA>violeta <!1fioleta> <*SPA>azul
+C:   como violeta azul
+
+M:   petu müna kümelkaley <!1kümelkali> <*SPA>sí.
+C:    aún se encuentra muy bien pues.
+
+A1_1_0168_lftcc_0011_nmlch_00: 
+M: ¡Aa! 
+C:  ¡Ah!
+
+M: Feychi dungu felewelay feula.
+C:  Ya esas cosas no son así ahora.
+
+nmlch-lftccA1_1_0169_lftcc_00:
+M:  <*SPA>Ese <*SPA>no <*SPA>hay <*SPA>pues <!1pu'><*SPA>hijo.
+C:   Eso ya no hay pues, hijo.
+
+nmlch-lftccA1_1_0170_nmlch_00:
+M: ¿ Felewelay?
+C:  ¿Ya no es así?
+
+nmlch-lftccA1_1_0171_lftcc_00: 
+M: <*SPA>No.
+C: No.
+
+M:  Ngewelay feychi dungu.
+C:  Ya no existen esas cosas.
+
+nmlch-lftccA1_1_0172_nmlch_00: 
+M: Rume tutekefuy pingey <!1pingi> ta mapuche 
+C.  Dicen que los  mapuches cumplían muy bien
+
+M. kuyfi Ngünechenmeu.
+C:  antes, ante su Dios.
+
+nmlch-lftccA1_1_0173_lftcc_00: 
+M: <*SPA>Sí <*SPA>pues <*SPA>hijo.
+C:    Si  pues hijo.
+
+nmlch-lftccA1_1_0174_nmlch_00: 
+M: ¿Feyngefuy?
+C:  ¿Eso era así?
+
+nmlch-lftccA1_1_0175_lftcc_00: 
+M: <*SPA>Sí.
+C:    Sí.
+
+nmlch-lftccA1_1_0176_nmlch_00:
+M:  Feula <Noise> 
+C:   Ahora
+
+M:  weda amuley <!1amuli> ta tripantu 
+C:   cuando el año va mal
+
+M   tüfa <uh> müna mauküley 
+C:   ahora llueve demasiado
+
+M:  ngelayay küme tukun peno
+C:   seguramente no habrá buena siembra
+
+M:  tüfa fey ka <uh> yafkaley <!1yafkali> 
+C:   ahora también esta molesto
+
+M:  chi mapuche feymu chi <Noise>.
+C:   del mapuche, tal vez es por eso.
+
+nmlch-lftccA1_1_0177_lftcc_00: 
+M: Petu ta yafkaley <!1yafkali> <*SPA>pues <!1pu'>
+C:  Aún esta molesto pues
+
+M: fentrentu yafkan müley <!1müli> 
+C:  y así estará molesto por cuanto tiempo
+
+M: wenu mapu chaumeu 
+C: el padre de la tierra de arriba
+
+M: kim ngillatuwenuluam mapuche
+C:  ya que la gente, ya no sabe hacer la ceremonia de la rogativa 
+
+M:  wingkawi mapuche <*SPA>pues <!1pu'><*SPA>hijo
+C:   se han hecho huinca pues, hijo
+
+M:  feymu wingka,
+C:   por eso el huinca,
+
+M:  mapuche fey wüchukunuluam
+C:   como los mapuches, los dejaron aparte
+
+M:  kidu wüchuniefi mapuche,
+C:  él, lo tiene aparte,
+
+M:  wüchuniefi wingka -/win/-  wingka
+C:  tiene aparte los huincas
+
+M:  fey resay mapuche 
+C:   y resan los mapuches
+
+M: feyta fütra ngillatun niey <*SPA>pues <!1pu'>.
+C:  y así  tienen una gran rogativa pues.
+
+nmlch-lftccA1_1_0178_nmlch_00:
+M:  ¡Aa!
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0179_lftcc_00:
+M:  Fantepu fantepunmukay cheu feley.
+C:   A esta altura, a esta altura que hemos llegado donde que es así.
+
+nmlch-lftccA1_1_0180_nmlch_00: 
+M: <!1feli> Felelay <*SPA>pues <!1pu>.
+C:   No esta así, pues.
+
+nmlch-lftccA1_1_0181_lftcc_00: 
+M: Ngelay <*SPA>pues <!1pu'> <*SPA>no.
+C:  Pues no existe eso no.
+
+nmlch-lftccA1_1_0182_nmlch_00: 
+M: Küpa maweliyüm müten
+C:  Solo cuando se queria hacer llover
+
+M:  mawelkefuy pingey <!1pingi> 
+C:  hacía llover dicen
+
+M: ¿feyngey <!1feyngi>?.
+C:  ¿eso es tanto así?
+
+nmlch-lftccA1_1_0183_lftcc_00: 
+M:  <hm>  <*SPA>Sí,
+C:  Sí,
+
+M:  tüfa taiñ ñuke ta <uh> 
+C:   esta  nuestra madre
+
+M: <*SPA>era <*SPA>premiada <!1premia> 
+C:  era premiada
+
+M:  <*SPA>ante <*SPA>pingey <!1pingi>.
+C:   antes dicen.
+
+nmlch-lftccA1_1_0184_nmlch_00: 
+M: Weufefel.
+C:  Era la  ganadora.
+
+nmlch-lftccA1_1_0185_lftcc_00: 
+M: <*SPA>Sí.
+C:  Sí.
+
+nmlch-lftccA1_1_0186_nmlch_00: 
+M: Kudefe.
+C:  Se especializaba en apostar.
+
+nmlch-lftccA1_1_0187_lftcc_00: 
+M: Maweli antü 
+C:  Hacía llover  los días
+
+M: tripantuley maweli pi
+C:  cada año hace llover dijo
+
+M:  ñi <*SPA>tarde fey wecha nagi <uh> wenu
+C:   por la tarde el cielo se hecha a perder
+
+M:  fey rangi punpüle
+C:   y así por la media noche
+
+M:  ka mawi pi 
+C:   cae otra vez dijo
+
+M:  fey antü tripantuy
+C:   y nuevamente sale el sol
+
+M:  <*SPA>todo <!1to'> <*SPA>eso
+C:   todo eso
+
+M:  maw tripantu 
+C:   años de lluvias
+
+M:  cheu ñi pedin tiyi machi 
+C:   lo que ésa machi pida
+
+M:  rüf kom felekefuy pi.
+C:   todo era verdaderamente así, dijo.
+
+nmlch-lftccA1_1_0188_nmlch_00:
+M:  ¡Aa!
+C:  ¡Ah!
+
+M:  <hm>  tuchimeu <!1tuchimu>
+C:  donde
+
+M:  ngillatumekefuyanta mawelayengün
+C:   cuando hacían rogativa hacian llover seguramente
+
+M:  ¿cheu ngillatumekefuyengün?
+C:   ¿dónde  hiban hacer la rogativa?
+
+nmlch-lftccA1_1_0189_lftcc_00: 
+M: <*SPA>Ese konkefuy leufumeu <!1leufumu> <*SPA>pues <!1pu'>.
+C:   Eso, entraba en el río pues.
+
+nmlch-lftccA1_1_0190_nmlch_00: 
+M: Leufumeu <!1leufumu> konkefuy ñi ngillatualengün.
+C:  En el río entraban para hacer la rogativa.
+
+nmlch-lftccA1_1_0191_lftcc_00:
+M: <hm>  <*SPA>Sí.
+C:  Sí.
+
+M: Fantrekekey <!1fantrekeki> 
+C:  Caudalosos
+
+M: ñi cheu Trafonkille <!1Travonkille>
+C:  es donde se les quebraba
+
+M: machi wifod wifodngey <!1wifodwifodngey> 
+C:  las machi mojándose
+
+M: ñi kultrung pue ko pu leufü <*SPA>pues <*SPA>hijo 
+C:  su  kultrun  dentro del río pues hijo
+
+M: mekey <!1meki> purun 
+C:  seguía de inmediato
+
+M: leufü kawellu kom 
+C: en el río hasta incluso en caballo
+
+M: femngechi <!1femuechi> walloñmayauley <!1walloñmayauli> machi
+C:  así orillaba la machi
+
+M:  petu müna küme ngillatun tripakefuy 
+C:   aún salían hermosas ceremonias
+
+M: <*SPA>antes <*SPA>pues <!1pue'><*SPA>hijo.
+C:  antes pues hijo.
+
+nmlch-lftccA1_1_0192_nmlch_00: 
+<hm>  
+
+nmlch-lftccA1_1_0193_lftcc_00: 
+M:  Rume kümeke ngillatun kimpan iñche
+C:  Yo alcancé a conocer hermosas ceremonias de rogativas
+
+M:  rume kümeke machi mülefuy <Noise> kuyfi
+C:  antes existían exelentes machis
+
+M:  antikuo pu machi 
+C:   machis antiguos
+
+M:  rume kimfuy <!1kimvuy> ngillatual.
+C:  tenía mucha sabiduría para hacer la rogativa.
+
+nmlch-lftccA1_1_0194_nmlch_00:
+M:  <Noise> ¡Aa!
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0195_lftcc_00: 
+M: <*SPA>Sí.
+C:  Sí.
+
+nmlch-lftccA1_1_0196_nmlch_00: 
+M: Fey
+C:  Eso
+
+M:  kümelay rumekay 
+C:   ni siquierra era bueno
+
+M: ¿cheu amukefuy ngillatualengün?
+C:  ¿dónde hiban para hacer la ceremonia de la rogativa?
+
+nmlch-lftccA1_1_0197_lftcc_00: 
+M: <*SPA>Ese
+C:  Eso
+
+M:  feyta <uh> witraley <!1witrali>
+C:   levantan bandera
+
+M:  <*SPA>bandera mütenengün 
+C:   solo bandera no más
+
+M:  <*SPA>todo <!1to'> <*SPA>de <*SPA>blanco
+C:   todo eso de blanco
+
+M:  <*SPA>azul <*SPA>blusa 
+C:   bluza azul
+
+M:  <*SPA>azul <*SPA>delantal <!1delantar> 
+C:   delantal azul
+
+M:  kom <*SPA>azul 
+C:   todo de Azul
+
+M:  fey ta femngechi <!1femuechi> ta puukefuy 
+C:   así es como llegaban
+
+M:  tukutuukefuy ta pu domo <uh> 
+C:   vestidas las mujeres
+
+M:  pu wentru 
+C:   los  hombres
+
+M:  kom <*SPA>azul <*SPA>camisa
+C:   todo de camiza  azul
+
+M:  <*SPA>azul <*SPA>bandera.
+C:    de bandera azul.
+
+nmlch-lftccA1_1_0198_nmlch_00: 
+M: ¡Aa!
+C:  ¡Ah!
+
+M:  lig <*SPA>bandera.
+C:   bandera  blanca.
+
+nmlch-lftccA1_1_0199_lftcc_00:
+ <hm>  
+
+nmlch-lftccA1_1_0200_nmlch_00: 
+M: Witrampüramkefuyengün <!1witrampürakefuyngün>.
+C:   Lo levantaban.
+
+nmlch-lftccA1_1_0201_lftcc_00: 
+M:  <*SPA>Sí.
+C:   Sí.
+
+nmlch-lftccA1_1_0202_nmlch_00: 
+M:  Fey mayta pengelelkefuy ta Ngünechen <%>
+C:   Eso se les mostraba a Ngünechen.
+
+nmlch-lftccA1_1_0203_lftcc_00: 
+M: <*SPA>Eso <*SPA>claro fey lig kulliñ ka.
+C:   Eso, claro, también animales  blancos.
+
+nmlch-lftccA1_1_0204_nmlch_00:
+ M: ¡Aa!
+ C:  ¡Ah!
+
+ nmlch-lftccA1_1_0205_lftcc_00:
+ <hm>  
+
+nmlch-lftccA1_1_0206_nmlch_00: 
+M: Re ligmeu <!1ligmu> yeyipuyengün <!1yeyipuyngün>.
+C:  Solo con blanco  rogaban.
+
+nmlch-lftccA1_1_0207_lftcc_00:
+M:  May,
+C:  Sí,
+
+M:  re ligmeu <!1ligmu>.
+C:   solo con blancos
+
+nmlch-lftccA1_1_0208_nmlch_00: 
+M: ¿Tunten antü ñi yeyipukefuyengün <!1yeyipukefuyngün>?
+C:  ¿Cuántos días  hacían la rogativa?
+
+nmlch-lftccA1_1_0209_lftcc_00: 
+M: Epu antü <*SPA>pues <!1pu'>.
+C: Dos días pues.
+
+nmlch-lftccA1_1_0210_nmlch_00: 
+M: Epu antü.
+C:  Dos días.
+
+nmlch-lftccA1_1_0211_lftcc_00:
+ <hm>  
+
+nmlch-lftccA1_1_0212_nmlch_00: 
+M: ¿Empesakefuy tunten antüengün?
+C:  ¿A que hora comenzaban?
+
+nmlch-lftccA1_1_0213_lftcc_00: 
+M:  <Noise>  <*SPA>Como <*SPA>a <*SPA>las
+C:   Como a las 
+
+M:  <*SPA>a <*SPA>las <*SPA>cuatro <*SPA>ya.
+C:   a las cuatro, ya.
+
+nmlch-lftccA1_1_0214_nmlch_00:
+M:  ¿Rupan antü?
+C:   ¿Después del medio  día?
+
+nmlch-lftccA1_1_0215_lftcc_00:
+ <hm>  
+
+nmlch-lftccA1_1_0216_nmlch_00: 
+M: ¿Puwülkefuy ñi dunguengün?
+C:  ¿Ellos hacían llegar sus asuntos?
+
+nmlch-lftccA1_1_0217_lftcc_00: 
+<hm>  
+
+nmlch-lftccA1_1_0218_nmlch_00: 
+M: ¿Ka antü ka fente antü?
+C:  ¿Y al otro día a la misma hora?
+
+nmlch-lftccA1_1_0219_lftcc_00: 
+M: Ka <*SPA>tarde pu trafia.
+C:  También  y  de noche.
+
+nmlch-lftccA1_1_0220_nmlch_00: 
+M: ¿Chalintutuyengün  <!1chalintutuyngün> ka?
+C:  ¿También se dan la bienvenida?
+
+nmlch-lftccA1_1_0221_lftcc_00: 
+M:  <*SPA>Sí.
+C:   Sí.
+
+M:   <%> Antü rume ngillatun mülefuy <*SPA>pues <!1pu'> 
+C:  Durante  el día habían muchas rogativas pues
+
+M: fantepunmeu <!1fantepunmu>
+C:  a esta altura
+
+M:  mayta rüf pichi <!1piti> rume <!1sume> ta falewelay
+C:   ni  siquiera  un poco es así
+
+M:  felewelay ngillatun.
+C:   ya no son así, las ceremonías de rogativas.
+
+nmlch-lftccA1_1_0222_nmlch_00: 
+M:  Rume falintungekefuy mayta machi kuyfi?
+C:  Ante a la machi se las valoraba mucho?
+
+nmlch-lftccA1_1_0223_lftcc_00: 
+M:  Pu machi pichi müna falifuy <Noise>  
+C:   Las  machis nuevas muy valoradas
+
+M:  pichi müna falintungefuy machi 
+C:   las  machi era muy valorada pues
+
+M: <*SPA>porque <uh> müngelkanieteu kay wenu chau.
+C:   porque ella por ser la preferida del Padre de arriba.
+
+nmlch-lftccA1_1_0224_nmlch_00:
+M: ¿Iney <!1ini> chi ta eli machi tüfa?
+C:  ¿Quien dejaría la machi ?
+
+nmlch-lftccA1_1_0225_lftcc_00: 
+M:  <*SPA>Antiguo machi 
+C:   Antiguo machi
+
+M:  <*SPA>antiguo dungu <*SPA>ese <*SPA>hasta <*SPA>hay 
+C:   hasta hay cosas antiguas
+
+M:  <*SPA>si <*SPA>es <*SPA>que <!3si'que>
+C:   asi es que
+
+M:  <*SPA>no <*SPA>sé <*SPA>cuál <*SPA>fue 
+C:   no sé cual fue
+
+M:  <*SPA>primero <*SPA>hijo.
+C:    primero, hijo.
+
+nmlch-lftccA1_1_0226_nmlch_00: 
+M:  ¿Eli mayta iney <!1ini> Ngünechenpe eli?
+C:   ¿Lo  debe  haber dejado  Dios?
+
+
+
+nmlch-lftccA1_1_0227_lftcc_00: 
+M:  <uh> Wenu mapu chau eli <*SPA>pues <!1pu'>.
+C:   El  dios de arriba lo dejó pues?
+
+nmlch-lftccA1_1_0228_nmlch_00: 
+M: ¿Fey?
+C:  ¿Eso?
+
+nmlch-lftccA1_1_0229_lftcc_00: 
+M: -/mach/- Machialu  tati
+C:  Quien  va ser  machi pues
+
+M:  feyta puwi iñ pülli wenu
+C:   asi es como llega el alma arriba
+
+M: <Noise> fücha chau ta feyta püramüñmangey <!1püramüñmangi>  pülli
+C:  su lama se sube con  él, el  viejo Padre
+
+M:  wenu 
+C:  arriba
+
+M:  feyta machimey <!1machimi> <*SPA>pues<!1pu'>
+C:   allá  se va hacer machi pues
+
+M:  femngechi <!1femuechi> machimen pi ta machilu üye.
+C:   así fue a ser machi dice la que la ya lo es.
+
+nmlch-lftccA1_1_0230_nmlch_00: 
+M: ¡Aa!
+C:  ¡Ah!
+
+M:  Femngechi <!1femuechi>.
+C:   Así.
+
+nmlch-lftccA1_1_0231_lftcc_00:
+M:  <*SPA>Sí
+C: Sí
+
+M:  püramüñmangey <!1püramüñmangi> tañi püllü 
+C:  se lo suben a su alma
+
+M: feyta peuman pipingetuy che <*SPA>pues <!1pue'>
+C:  entonces después la persona dice que sueña
+
+M: fey.
+C:  eso.
+
+nmlch-lftccA1_1_0232_nmlch_00:
+M:  ¿L'awen' chumngechi <!1chumuechi> chi kimkefi?
+C:  ¿Cómo será que conocerá los remedios?
+
+nmlch-lftccA1_1_0233_lftcc_00: 
+M: <*SPA>Sí
+C:  Sí
+
+M:  <*SPA>hay <*SPA>mismo <!1mimo>
+C:  allá mismo
+
+M:  <*SPA>también <*SPA>pues <!1pu'> <*SPA>hijo.
+C:    también pués  hijo.
+
+nmlch-lftccA1_1_0234_nmlch_00: 
+M: ¿Peumameu <!1peumamu>?
+C:  ¿Por medio del sueño?
+
+nmlch-lftccA1_1_0235_lftcc_00: 
+M: <*SPA>Sí
+C:  Sí
+
+M:  peumameu <!1peumamu> 
+C:  a través del sueño
+
+M: kafey peumameu <!1peumamu>
+C: también eso a través del sueño
+
+M:  kom tuniey kidu <*SPA>pues 
+C:  todo lo sabe ella pues
+
+M: <!1pu'> wenu chau anta iñ machil <*SPA>ese <*SPA>pues <!1pu'>
+C:  ya Dios de Arriba lo ha hecho machi pues
+
+M: wenu chau ñi machil 
+C:  la machi del Padre de arriba
+
+M: tüfey <!1tüfi> kom <*SPA>pues <!1pue'> <*SPA>hijo.
+C:  eso pues hijo.
+
+nmlch-lftccA1_1_0236_nmlch_00:
+M:  Machi feypingekelay rume 
+C:   La  machi se les debe decir
+
+M: tuchimeu <!1tuchimu> ñi mülen kutran,
+C:  donde estan las enfermedades,
+
+M:  chem ñi kutrankülen -/peu/-
+C:   que es lo que esta enfermo
+
+M:   pelotuyüm 
+C:   cuando hace la adivinación
+
+M:  kom kimkey <!1kimki> pingey <!1pingi>¿ feyngey <!1feyngi>?
+C:   todo lo  sabe  dicen, ¿eso es así?
+
+nmlch-lftccA1_1_0237_lftcc_00:
+M: <*SPA>	Sí.
+C:  Sí.
+
+M:  Feyney <!1feyngi> <*SPA>pues <!1pu'>.
+C:   Eso es así pues.
+
+nmlch-lftccA1_1_0238_nmlch_00: 
+M: ¿Feyngey <!1feyngi>?
+C:  ¿Eso es así?
+
+nmlch-lftccA1_1_0239_lftcc_00:
+ <hm>  
+nmlch-lftccA1_1_0240_nmlch_00: 
+M: Kiñeke machi ñamkülelu rume che
+C:  Algunas machis aunque estén perdidas las personas
+
+M: ka kimkey <!1kimki> pingey <!1pingi>.
+C:   también lo sabe dicen.
+
+nmlch-lftccA1_1_0241_lftcc_00:
+M: Kafey.
+C:  También eso.
+
+nmlch-lftccA1_1_0242_nmlch_00:
+M:  Feyngey <!1feyngi>.
+C:   Eso es así.
+
+nmlch-lftccA1_1_0243_lftcc_00: 
+M: Kafey <*SPA>pues <!1pu'>kafey.
+C: También eso pues, también eso.
+
+nmlch-lftccA1_1_0244_nmlch_00:
+M: ¿Chemu pelotukeyanta <!1pelotukianta> 
+C:  ¿Con que adivina
+
+
+M: machi mülekey <!1müleki> <uh> rume pelotunpeno?
+C:   la  machi,  debe haber algo con que  adivinan?
+
+nmlch-lftccA1_1_0245_lftcc_00: 
+M: <*SPA>No <*SPA>ves 
+C:  No ves
+
+M: <*SPA>que <!3novique> machi küymi 
+C:  que  la machi entra en trance
+
+M: machi pelontualu
+C: para poder ver o adivinar
+
+M:  kiñeke feyta re femngechi <!1femuechi> müten.
+C:   algunas solamente así.
+
+tccA1_1_0246_lftcc_00nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+M: kiñeke küymilu.
+C: algunas que entran en trance.
+
+nmlch-lftccA1_1_0247_lftcc_00: 
+M: Kiñeke feyta küymi.
+C: Algunas que entran en trance.
+
+nmlch-lftccA1_1_0248_nmlch_00:
+M: ¿Kiñeke re femngechi <!1femuechi> müten?
+C:  ¿Algunas solamente así?
+
+nmlch-lftccA1_1_0249_lftcc_00: 
+M: Kiñeke feyta re femngechi <!1femuechi>
+C:  Algunas solamente así
+
+M:  feyta <*SPA>como suerteora reke
+C:  eso es como un sorteo
+
+M:  femngechi adifinaney <!1adivinani> müten.
+C:   solamente así lo adivina.
+
+nmlch-lftccA1_1_0250_nmlch_00: 
+M: ¡Aa!
+C: ¡ Ah!
+
+
+M:  <%> femngechi <!1femuechi> müten kimi
+C:  así nomás lo sabe
+
+nmlch-lftccA1_1_0251_lftcc_00: 
+M: <*SPA>Sí.
+C:  Sí.
+
+M:  Femngechi <!1femuechi> müten kimi.
+C:   Asi no más sabe.
+
+nmlch-lftccA1_1_0252_nmlch_00
+M:  Münalechikay <*SPA>no 
+C:   Es complicado no
+
+M: <Noise> feyti <uhm> kuyfi mülekefuy 
+C:  eso que  antes  había
+
+M: ta <uh> fütakeche¿chumngelu <!1chumuelu> chi fentre mongekefuyengün<!1mongekefuyngün?
+C: ¿ por qué será que los mayores gozaban de tanta  vida?
+
+
+nmlch-lftccA1_1_0253_lftcc_00:
+M:  Ngillatulekefulukay 
+C:   Como constantemente lo suplicaba
+
+M:  ngillañmaniewi kiduengün <*SPA>pues <!1pu'>
+C:   entre ellos se bendecían pues
+
+M:  lukutuley kiduengün <*SPA>pues <!1pu'>
+C:   ellos se arrodillaban pues
+
+M:  pediniefi wenu chau 
+C:   le  ha pedido al Padre de arriba
+
+M:  ta küme felen itrokom 
+C:   todo el bienestar
+
+M:  tañi duamtuel <Noise>  
+C:   lo que desean
+
+M:  kom kidu feyta pediley <!1pedili> <*SPA>pues <!1pu'> 
+C:   todo lo pide él pues.
+
+
+M:  feyta kuyfi rume,
+C:   eso aún en la antigüedad
+
+M:  rume müngeltukefuy mapuche pingey<!1pingi>
+C:  era mucho más frecuente de los mapuches
+
+M:  rumeñma chempile rume 
+C:   siempre lo  que él diga
+
+M:  feyta kom fey müngeltuniefeyu <!1müngeltunefeyu> 
+C:   y  todo eso, son priorisado
+
+M:  wenu chau pin müley <*SPA>pues <!1pu'>.
+C:   por voluntad de Padre de arriba pues.
+
+nmlch-lftccA1_1_0254_nmlch_00:
+M: ¿ Mapuchemumay ta ngillatun ta l'awen'ürkepeke?
+C:  ¿ Para el mapuche la rogativa es como la medicina? 
+
+nmlch-lftccA1_1_0255_lftcc_00:
+M: <*SPA>Sí.
+C:  Sí.
+
+nmlch-lftccA1_1_0256_nmlch_00: 
+M: Ka kutraniyüm 
+C:  Y se vuelven a enferman
+
+M: ka peumatuniekefuy l'awen'engün.
+C:  también sueñan  los remedios, ellos.
+
+nmlch-lftccA1_1_0257_lftcc_00: 
+M: Ka fey.
+C:  También eso.
+
+nmlch-lftccA1_1_0258_nmlch_00: 
+M: Kuyfi mapuche rume poyeniekefuy
+C:  Antes los mapuches amaban mucho 
+
+M:  ñi mapu kütu ka pingey <!1pingi>
+C:   hasta su tierra dicen
+
+M:  <Noise> rume yamkefuy ta ko 
+C:   le tenía un gran respeto al agua
+
+M:  ka rume yamkefuy menoko 
+C:   también respetaba mucho a las lagunas
+
+M:  rume yamkefuy ta ngen mawida
+C:   respetaba mucho a los señores de las montañas
+
+M:  <*SPA>y yamngekefuy ta <uh> ngen kürüf pingey <!1pingi> 
+C:   y respetaba a los dueños del viento dicen
+
+M: feyngefuyanta tüfey <!1tüfi> kuyfi?
+C:  eso era  así  antes?
+
+nmlch-lftccA1_1_0259_lftcc_00: 
+M: <*SPA>Sí
+C:  Sí
+
+M:  feyngefuy <*SPA>pues <!1pu'>
+C:  eso era así pues
+
+M:  kuyfi müna mülefuy müngeltu dungu <*SPA>pues <!1pu'><*SPA>hijo
+C:   antes habían muchas cosas más pues  hijo
+
+M:  ngillatufe 
+C:  los hacían rogativas
+
+M: füchakechefel kay feymu nieyengün <Noise> <!1nieyngün>
+C:  por que eran nuestros ancianos  por eso tenían
+
+M: kom femngechi <!1femuechi>
+C:  todo así
+
+M:  ka peumaleyengün <!1peumaleyngün>  
+C:   también soñaban
+
+M:  feyta femkeaymi ka pipiengeyengün <!1pipiengingün> 
+C:   eso tienen que hacer dicen también
+
+M: <*SPA>todo <!1to'> <*SPA>eso
+C:  todo eso
+
+M:  ta müngeltuley <!1müngeltuli> kiduengün <*SPA>pues <!1pu> <Noise>.
+C:  le dan importancia ellos pues.
+
+nmlch-lftccA1_1_0260_nmlch_00:
+M:  Feyti we pichike kona
+C:   Y esos jóvenes
+
+M:  fey <Noise> re ngümammu tremi pingey <!1pingi>
+C:   crecieron a puro llanto dicen
+
+M: ¿feyngefuyanta tüfey <!1tüfi>?
+C:  ¿eso era así?
+
+nmlch-lftccA1_1_0261_lftcc_00:
+M:  <*SPA>Sí<*SPA>pues <!1pue'> <%>
+C:  Sí pues
+
+M:  müna ta falintuniewiengün ta pichikeche 
+C:   valoraban mucho a los niños
+
+M:  pichike gülchake domo 
+C:   a las niñas jóvenes
+
+M:  pichike weche
+C:   jovencitos
+
+M:  femngechi <!1femuechi> 
+C:   así
+
+M:  ta rumenkamekeulay <*SPA>pues <!1pue'> <*SPA>hijo
+C:   no  se sobrepasaban pues  hijo
+
+M:  müna ta repetaniewiengün <!1repetaniewingün> 
+C:   se respetaban mucho
+
+M: füchakeche ka ta rüf ngülam niey <!1niyi>
+C:  los mayores tenían además  buenos  consejos
+
+M:  feyta pichi welulkale iñ <*SPA>familia 
+C:   y cuando  sus  familias erraban un poco
+
+M:  fey <*SPA>altiro müten ta <%>.
+C:   de inmediato  lo ordenaban.
+
+nmlch-lftccA1_1_0262_nmlch_00: 
+M: ¿ Rume mülefuy yamüwün?
+C:  ¿ Existía mucho el  respeto?
+
+nmlch-lftccA1_1_0263_lftcc_00: 
+M: <hm>  Rumeñma a'lü' tüfey <!1tüfi>.
+C:   Eso era lago de siempre.
+
+
+nmlch-lftccA1_1_0264_nmlch_00: 
+M: Feula felewelay <Noise> <*SPA>no <*SPA>ves <*SPA>que <!1novi'que>?
+C:  Ahora  ya no es así, no ves  que.
+
+nmlch-lftccA1_1_0265_lftcc_00: 
+M: <uh> <*SPA>Ahora <*SPA>no <*SPA>pues <!1pu'> <*SPA>hijo
+C:  Ahora pues  hijo
+
+M: fey tüfa<Noise>  ta ngewelay   <*SPA>pues <!1pu'> <*SPA>hijo.
+C:  eso ya no existe pues hijo.
+
+1_1_0266_lftcc_00269_nmlch_00:
+M: ¿Ngewelay yamüwün tüfa?
+C:  ¿Ya no existe el respeto ahora?
+
+nmlch-lftccA1_1_0267_lftcc_00: 
+M:<*SPA>No.
+C:    No.
+
+nmlch-lftccA1_1_0268_nmlch_00:
+M: Kuyfi mülekefuy longko
+C:  Antes habían líderes
+
+M:  ngünekelu <Noise> mapu lof pingey <!1pingi> 
+C:  que gobernaban las comunidades  dicen
+
+M: feyngefuy tüfey <!1tüfi>?
+C:  eso era así?
+
+nmlch-lftccA1_1_0269_lftcc_00: 
+M: <*SPA>Sí.
+C:  Sí.
+
+M:  komeu <Noise>.
+C:   en el agua.
+
+nmlch-lftccA1_1_0270_nmlch_00: 
+M: Fey fey ngüneniekefi.
+C:  Y eso lo gobernaba.
+
+nmlch-lftccA1_1_0271_lftcc_00: 
+M:<*SPA>Sí <Noise>.
+C:   Sí.
+
+nmlch-lftccA1_1_0272_nmlch_00: 
+M: ¿Ngüneniekefuy müten fey?
+C:  ¿Siempre lo gobernaba?  
+
+nmlch-lftccA1_1_0273_lftcc_00: 
+M:<hm>  Feyta fey nentuwitrañpüram ngillatumekey <!1ngillatumeki>
+C:  Es  el que  comienza y  termina las ceremonias de rogativas
+
+M:  tüfichi longko <*SPA>pues <!1pu'>
+C:  ese líder pues
+
+M:  fantewe müleay dungu pipingey 
+C:  a esta altura  ya no hay nada estan diciendo
+
+M:  eyta kom  müngelkaniey <!1müngelkaniyi>  <*SPA>pues <!1pu'>.
+C:   y lo tiene todo en orden pues. 
+
+nmlch-lftccA1_1_0274_nmlch_00: 
+M: Feleymay <!1felimay>.
+C:  Así es como esta.
+
+nmlch-lftccA1_1_0275_lftcc_00:
+M:  Fantepuwün <*SPA>no cheukay müley <!1müli> chau
+C:   Hasta  que llegue  no, donde podrá estar padre
+
+nmlch-lftccA1_1_0276_nmlch_00: 
+M: Ngelay
+C:  Ya  no hay
+
+nmlch-lftccA1_1_0277_lftcc_00: 
+M: Akordangelay 
+C:  Ya  no se acuerda
+
+M: chau <*SPA>nada 
+C:  padre, nada
+
+M. feyta fantenmu ta felen tripantu 
+C:  a esta altura , es, como estan los  años
+
+M: amuley <!1amuli> tripantu
+C.  los  años  avanzan
+
+M:  cheuam allküayiñ ta
+C:  donde vamos a escuchar ahora
+
+M:  feymeunga <!1feymunga> müleürkey <!1mülerki> ngillatun
+C:   allá hubo una ceremenia de rogativa
+
+M:  fey kümelkaukafuy chimay
+C:   pero no se si estaría bien hecho
+
+M:  inapikafuy che 
+C:  aunque llegaron muchas gente
+
+M: <*SPA>ahora ta cheu ta müley <!1müli> ngillatun 
+C:  ahora donde hay ceremonia  rogativa
+
+M: ngewelay ngillatun 
+C:  ya no hay ceremonias de rogativas
+
+M: afküley
+C:  se está extinguiendo
+
+M:  feyta <*SPA>mucho <!1muchu> feypi 
+C:   y así muchos dicen
+
+M:  <*SPA>por <*SPA>los <*SPA>estudio 
+C:   por los estudios
+
+M:  pichike pu wentru 
+C:   los niños
+
+M:  pichike pu domo 
+C:   y las niñas 
+
+M:  feyta <Cough> 
+C:   ellas
+
+M:  <*SPA>se <*SPA>le <*SPA>perdió <*SPA>todo <!1to'> 
+C:   se les perdió todo
+
+M:  <*SPA>el feyta <*SPA>cultura mapuche piletuy.
+C:    la cultura mapuche le dicen.
+
+nmlch-lftccA1_1_0278_nmlch_00: 
+M: Yamiengün <!1yamingün>.
+C:  Lo respetan.
+
+nmlch-lftccA1_1_0279_lftcc_00: 
+M: Yaminengün <!1yamingün>.
+C:   Lo respetan.
+
+nmlch-lftccA1_1_0280_nmlch_00:
+ M: Re kake <Noise> kimün müten 
+C:  Sólo otros saberes
+
+M: adümnietuyengün  <!1adümnetuyngün>.
+C:   lo saben usar.
+
+nmlch-lftccA1_1_0281_lftcc_00: 
+M: <*SPA>Sí.
+C:    Sí.
+
+nmlch-lftccA1_1_0282_nmlch_00:
+M:  Kim mapuchedunguwetulayengün <!1mapuchedunguwetulayngün> rume.
+C:   Ni siquiera saben hablar el mapuzugun?
+
+nmlch-lftccA1_1_0283_lftcc_00: 
+M: Kimlay <*SPA>pues <!1pue'> <*SPA>hijo
+C:  No sabe pues hijo
+
+M:   <*SPA>para <*SPA>nada <!1pa'na'>.
+C:   para nada.
+
+nmlch-lftccA1_1_0284_nmlch_00:
+M:  Welu weda dungu <*SPA>no.
+C:    Pero no es un mala cosa.
+
+nmlch-lftccA1_1_0285_lftcc_00:
+M: <*SPA>Harto.
+C:  Harto.
+
+nmlch-lftccA1_1_0286_nmlch_00: 
+M: ¿Weda dunguürkefel?
+C:  ¿Es un mal acontecimiento?
+
+nmlch-lftccA1_1_0287_lftcc_00: 
+M: <*SPA>Sí<*SPA>pues <!1pue'>
+C:  Sí pues
+
+M: feyta <*SPA>por <*SPA>mi <*SPA>parte 
+C:  por mi parte
+
+M: <Noise> fey <*SPA>siempre alguno 
+C:  y siempre algunos
+
+M: niekafuy rakiduam
+C:  no tienen pensamiento
+
+M:  küme rakiduam 
+C:  buen penasmiento
+
+M: <*SPA>otro wecha rakiduam
+C:  otros un mal pensamiento
+
+M:  <*SPA>así <Noise> feyta
+C:  así es como esta
+
+M:  <*SPA>uno <*SPA>mejor 
+C:  uno mejor
+
+M:  ta niafuy kümeke rakiduam 
+C:  debiera tener un buen pensamiento
+
+M:  kümeke <*SPA>familia 
+C:   una buena familia
+
+M: kümeke pichikeche 
+C:  buenos niños
+
+M: <*SPA>obediente
+C:  obedientes
+
+M:  <Noise> feyta ngülamtunieñmuy ñi <*SPA>familia 
+C:   es aquel que aconseja  a su familia
+
+M: <*SPA>así <*SPA>uno
+C:  así uno
+
+M:  feyta mülefuy amulefuy <Noise> küme dungu <*SPA>no
+C:   puede estar y enrriquecer las cosas ,no
+
+M:  fey mte tañi keyukonuafel 
+C:   y no debiera confundirse tanto con los huincas
+
+M:  wingkameu <!1wingkamu> <*SPA>así 
+C:   en los huincas así
+
+M: <Noise>  <*SPA>ahora pichikeche 
+C:   ahora los  niños
+
+M: chuchikay adümpefel mapuchedungun.
+C:  quién podría  saber el mapuzugun.
+
+nmlch-lftccA1_1_0288_nmlch_00:
+M: Ngelay
+C:  No existe                           
+
+nmlch-lftccA1_1_0289_lftcc_00: 
+M: Ngelay  <*SPA>pues <!1pu'>.
+C:  No existe pues hijo.
+
+nmlch-lftccA1_1_0290_nmlch_00:
+ M: <uh> Femngechi <!1femuechi> adümnutule
+C:  Sí  así lo vuelve a aprender
+
+M:  dunguengün
+C:  la manera de hablar
+
+M:  mapuche l'awen'
+C:  la medicina mapuche
+
+M:  rume faliltuwetulayengünmay <!1faliltuwetulayngünmay>
+C:   ya no lo valoran mucho
+
+nmlch-lftccA1_1_0291_lftcc_00: 
+M: <*SPA>Eso <*SPA>es <*SPA>pues <!1pu'>
+C:  Eso es pues
+
+M:  feymullemay feyta <*SPA>muchas <*SPA>veces
+C:   por eso es que muchas veces
+
+M:  ta lefkülen 
+C:   de urgencia
+
+M:  amukiyiñ <*SPA> opitalmeu <!1opitalmu> 
+C:   vamos al hospital
+
+M:   para <*SPA>eso <!2pa'eso> <Noise>
+C:    para eso
+
+M:  <*SPA>vamo <*SPA>a <*SPA>ir <*SPA>a <*SPA>mejorar.
+C:   para  ir  curarnos.
+
+nmlch-lftccA1_1_0292_nmlch_00:
+M:  Fentrekelefuy l'awen' 
+C:  Hay tantos remedios
+
+M: fill mapu pingey <!1pingi>¿feley <!1feli>?
+C:  en todas partes dicen, ¿eso es así?
+
+nmlch-lftccA1_1_0293_lftcc_00: 
+M: <*SPA>Sí <*SPA>pues
+C:  Sí pues
+
+M:  kiduanta wenu chauam ñi an'ümkan'
+C:   ya  que la planta es del Padre de arriba
+
+M:  <*SPA>por <*SPA>eso <*SPA>digo <*SPA>yo 
+C:  por eso digo yo
+
+M: wenu mapu chau Dios
+C: el Padre del reino de arriba
+
+M:  eli mapu 
+C:  dejó la  tierra
+
+M: itrofill mapu niey <!1niyi>
+C:  tiene distintas tierras
+
+M:  <*SPA>huerta ta wenu mapu chau 
+C:  huertos, el Padre del reino  de  arriba
+
+M: pillemay tami kuye  <*SPA>abuela <!1ahuela> 
+C:  es por su  voluntad, tu  anciana  abuela
+
+M: fey apoley <!1apoli> mapu l'awen'meu 
+C:  llenó la  tierra  con medicinas  naturales pues
+
+M: <*SPA>hualle wiraley tüfa 
+C:  hualle como estan ahora
+
+M: eymiam fey tüfey <!1tüfi> l'awen'peafuymi 
+C: como  tú, no creo  que  busques remedios
+
+M: tüfachi <*SPA>hualle pieneu <!1pienu>
+C:  este hualle me  dijo
+
+M:  tüfachi <*SPA>hualle niey <!1niyi> l'awen' pi.
+C:    este hualle tiene remedio me  dijo.
+
+nmlch-lftccA1_1_0294_nmlch_00:
+M:  Niey <!1niyi> l'awen' pi
+C:  Tiene remedio dijo
+
+nmlch-lftccA1_1_0295_lftcc_00: 
+M: <*SPA>Sí.
+C:   Sí.
+
+M: Niey <!1niyi> l'awen' pi 
+C:  Tiene remedio dijo
+
+M: kom mamüll tüfa mülelu 
+C:  todas estas leñas deben haber dijo
+
+M: niey <!1niyi> l'awen' pi 
+C:  tiene remedio dijo
+
+M: l'awen' niey <!1niyi> tati
+C:  tiene remedio pues
+
+M:  adümkangey <!1adümkangi>
+C:  hay que saber hacerlo
+
+M:  trapükangey <!1trapümkangi> 
+C:   se mezcla
+
+M: kom femngechi <!1femuechi> 
+C:  todo así
+
+M: feyta müley <!1müli> l'awen' pi
+C:  entonces hay remedio dijo
+
+M:  <Noise> mongen kutran
+C:  sané la enfermedad
+
+M:  wenututuam kutran 
+C:  para que se vaya la enfermedad
+
+M:  feyta femuechiley <!1femuechili> <uh> l'awen' pi
+C:   es así este remedio, dijo
+
+M:  kom mapumeu <!1mapumu> müley <!1müli> l'awen' pi 
+C:  en toda  la tierra  hay remedio dijo
+
+M: pünotuyaulfiñ l'awen' pi <Noise>.
+C:  andamos pisando remedios dijo.
+
+nmlch-lftccA1_1_0296_nmlch_00:
+M:  <hm>  <Noise> Iñchiñ mütenmay taiñ kimkenon taiñ.
+C:   Es nuestra ignorancia no más.
+
+nmlch-lftccA1_1_0297_lftcc_00:
+M:  <*SPA>Eso
+C:  Eso
+
+M:  fey iñchiñ tüfachi <Noise> 
+C:  y  asi  nosotros
+
+M: feymu ta wedachengeyiñ <*SPA>pues <!1pu> 
+C:  por eso  somos desgraciados pues
+
+M: kutranafuyiñ rume 
+C:   nos podemos enfermar
+
+M: femngechi feyta <uh> witramelafiyiñ l'awen' <*SPA>pues <!1pu'>.
+C:  Así  les vamos a plantar remedios pues.
+
+nmlch-lftccA1_1_0298_nmlch_00: 
+M: ¡Aa!
+C:  ¡Ah!
+
+M:  ¿chumngechi <!1chumuechi> yagel 
+C:  ¿Qué  tipo de comidas  comían
+
+M: doy ikefuy che kuyfiam tüfa?
+C:   más  antes  las  personas?
+
+nmlch-lftccA1_1_0299_lftcc_00: 
+M: <uh> Kuyfi 
+C:  Antes 
+
+M: doy yi napor korü yi che <*SPA>pues <!1pu'> <*SPA>hijo 
+C: las personas  comían mucho  más  la sopa  de yuyo pues hijo
+
+M: napor korü 
+C:  sopa de yuyo
+
+M: pichi pengey dengüll allfida 
+C:  Si se encontraba un poco de  arveja  de  soya
+
+M: <*SPA>así ngillay füchakeche
+C:   asi  compraban los mayores
+
+M:  fey napor ta füri <*SPA>pues <!1pu> 
+C:  entoces el yuyo se reservaba
+
+
+M: napor  <%> fürin napor kütu yi 
+C:   hasta  se reservaba el yuyo
+
+M: füchakeche kuyfi
+C:  los  mayores  antes
+
+M:  <*SPA>chicha make 
+C: chicha de  maque
+
+M: fente poyey mürke niefuyiñ 
+C:  se tomaba  tanto, teníamos  harina  tostada
+
+M: fente yifiengün
+C:  tanto comían
+
+M:  feymu müley küme <*SPA>salud pi.
+C:   por eso había buena salud  dijo.
+
+nmlch-lftccA1_1_0300_nmlch_00:
+M: ¿ Cheu pengeafuy ngefüñ tüfameu <!1tüfamu>?
+C:   ¿Dönde se puede encontrar ngefüñ.
+
+nmlch-lftccA1_1_0301_lftcc_00: 
+M: Müley ngefüñ <*SPA>pues <!1pu> <*SPA>hijo
+C:  Hay ngefüñ  pues hijo
+
+nmlch-lftccA1_1_0302_nmlch_00: 
+M: Faupüle <hm>?
+C:   Por acá?
+
+nmlch-lftccA1_1_0303_lftcc_00: 
+M: <*SPA>Allá
+C:  Allá
+
+M:  <*SPA>allá ñi fücha chau 
+C: allá  mi  viejo padre
+
+M: ñi mapumeu we pütrü münaley ngefüñ.
+C:  en mi tierra recientemente hay en grandes cantidades el ngefüñ.
+
+nmlch-lftccA1_1_0304_nmlch_00:
+M:  Kümey.
+C:   Bueno.
+
+nmlch-lftccA1_1_0305_lftcc_00: 
+M: Tiempumeu ngefüñ <*SPA>ese <*SPA>hay <*SPA>cualquier.
+C:  En este hay cualquier gefüñ.
+
+nmlch-lftccA1_1_0306_nmlch_00: 
+M: Müley <!1müli> mapumeu <!1mapumu>.
+C:  Hay en la tierra.
+
+nmlch-lftccA1_1_0307_lftcc_00: 
+M: May.
+C:   Sí.
+
+nmlch-lftccA1_1_0308_nmlch_00: 
+M: Make fey fünüyüm fey chichangekefuy.
+C: Cuando el make daba frutos eso se hacía chicha.
+
+nmlch-lftccA1_1_0309_lftcc_00: 
+M: Chichangekefuy <*SPA>pues <!1pu> <*SPA>hijo 
+C:  Se hacía chicha pues hijo
+
+M: chichangey <!1chichangi> make <*SPA>pues <*SPA>hijo 
+C:  se hacía chicha, el make pues hijo
+
+M: müley mürke
+C:  hay harina totada
+
+M:  weke mürke 
+C:  harina tostada nueva
+
+M: weke mürke femngechi <!1femuechi> chichangekefuy pi
+C: Harina tostada de trigo nuevo siempre se le hacía chicha dijo
+
+M:  ta füchakeche kuyfi <*SPA>pues <!1pu'> 
+C:  los mayores antes pues
+
+M: fütrake meñkuwe 
+C:  grandes bateas
+
+M: metawe <*SPA>así a'nüley chichamu <*SPA>pues <!1pu> 
+C:  grandes vasijas así sentados con chichas pues
+
+M: <*SPA>chicha makemu 
+C:  con chicha de maqui
+
+M: feymu feyta niefuy <*SPA>un <*SPA>salud <*SPA>buena
+C:  por eso tuvo una buena salud
+
+M:  mapuche pilay ta <*SPA>antiguo dungu.
+C:  el mapuche no quiere cosas antiguas.
+
+nmlch-lftccA1_1_0310_nmlch_00: 
+M: Make l'awen'fel ka pingey <!1pingi> 
+C:  El maqui es remedio dicen
+
+M: ¿chem l'awen'fel chi fey kümefuy?
+C:  ¿qué remedio será bueno?
+
+nmlch-lftccA1_1_0311_lftcc_00: 
+M: L'awen'llemay <*SPA>ese <Cough> müley 
+C:  Hay remedio, claro
+
+M: ta <uh> kutran pütray che <*SPA>
+C: cuando le duele el estomágo a uno
+
+M: así <*SPA>una <*SPA>cosa diftería <!1sinteria> pi ta wingka feyta,
+C:  así una cosa  Síntería, dice el huinca ahora,
+
+M:  feyta wadkümngey <!1wadkümngi> <*SPA>azúcar engu .
+C:  y lo hierben con azúcar.
+
+nmlch-lftccA1_1_0312_nmlch_00: 
+M: Make asukura engu fey pütokongey <!1pütokongi>.
+C:  El maqui con azúcar se toma. 
+
+nmlch-lftccA1_1_0313_lftcc_00:
+M: <*SPA>Sí.
+C:   Sí.
+
+nmlch-lftccA1_1_0314_nmlch_00:
+M: Rupatukey <!1rupatuki> chi <*SPA>diftería <!1sinteria>.
+C: Pasa esa enfermedad de la sinteria.
+
+nmlch-lftccA1_1_0315_lftcc_00: 
+M: <*SPA>Sí.
+C:  Sí.
+
+nmlch-lftccA1_1_0316_nmlch_00:
+M: ¿Tuchipüle make folil, mamüll kam t'apül'?
+C: ¿Qué parte del maqui, la  raíz, el tallo o la hoja?
+
+nmlch-lftccA1_1_0317_lftcc_00: 
+<uh> 
+nmlch-lftccA1_1_0318_nmlch_00: 
+M: Yüfkü.
+C:   
+
+nmlch-lftccA1_1_0319_lftcc_00: 
+M: Tiyi, tiychi fün.
+C:  Es, es el fruto.
+
+nmlch-lftccA1_1_0320_nmlch_00: 
+M: :¡Aa!
+C: ¡ Ah!
+
+nmlch-lftccA1_1_0321_lftcc_00:
+M: Fünmakey <!1fünmaki>
+C:  El fruto del maqui
+
+M: <*SPA>si <*SPA>no <*SPA>hay <*SPA>eso  
+C:  si no hay eso
+
+M: kiñe pichike fa'rilla make.
+C:  una varillita de maqui.
+
+nmlch-lftccA1_1_0322_nmlch_00:
+M: ¿Welu ngenoayüm fünmakelay?
+C:  ¿Pero cuando no hay  Fruto?
+
+nmlch-lftccA1_1_0323_lftcc_00: 
+M: <*SPA>Por <*SPA>eso <*SPA>le <*SPA>digo <*SPA>pues<!1pu'>
+C: Por eso le  digo  pues
+
+M: feymu tiychi fa'rilla make wadkümngeyllemay mamüll
+C:  por eso esa varilla de maqui que es leñoso se hierbe.
+
+nmlch-lftccA1_1_0324_nmlch_00: 
+M: Fey ka kümey <!1kümi>  <uh>
+C: Eso también es bueno
+
+nmlch-lftccA1_1_0325_lftcc_00: 
+M: <*SPA>Sí.
+C:  Sí. 
+
+nmlch-lftccA1_1_0326_nmlch_00: 
+M: Ka kümey.
+C: También es bueno.
+
+
+
+nmlch-lftccA1_1_0327_lftcc_00: 
+M: <*SPA>Sí.
+C:   Sí.
+
+nmlch-lftccA1_1_0328_nmlch_00:
+M: ¡Aa!
+C:  ¡Ah!
+
+nmlch-lftccA1_1_0329_lftcc_00: 
+M: <uh> <%>  <%> <Noise> <*SPA>El <*SPA>el <*SPA>cosa <*SPA>que
+C: La cosa que 
+
+M: <*SPA>tiene <*SPA>en <*SPA>la <*SPA>boca <*SPA>hijo.
+C:  tiene la boca hijo.
+
+_0330_lftcc_000334_nmlch_00: 
+M:¡Aa!
+C:  ¡Ah!
+
+M: eymi nieymi <!1niyimi> <*SPA>placa ka fey?
+C:  y  usted también tiene esa placa?
+
+nmlch-lftccA1_1_0331_lftcc_00:
+M: Awantalan <*SPA>hijo
+C:  No aguanté hijo
+
+M: <*SPA>no <*SPA>tengo <*SPA>placa
+C:   no tengo placa
+
+M: <*SPA>tengo <*SPA>placa <*SPA>pero tukukelafiñ.
+C:  tengo placa pero no lo uso.
+
+nmlch-lftccA1_1_0332_nmlch_00:
+M: ¿Tukukelafimi?
+C:  ¿No lo usas?
+
+nmlch-lftccA1_1_0333_lftcc_00: 
+M: Müna, müna wedakünuñmaneu <!1wedakünuñmanu> iñ piuke <*SPA>hijo
+C: Me dejó muy mal mi corazón, hijo
+
+M: nümütuy ñi ñi neyen.
+C: me dejó con mal olor mi respiración.
+
+nmlch-lftccA1_1_0334_nmlch_00: 
+M: Nümütu<%>.
+C: Quedó con olor.
+ 
+nmlch-lftccA1_1_0335_lftcc_00: 
+<hm>  
+nmlch-lftccA1_1_0336_nmlch_00:
+M: Kuyfi chumngelu  <!1chumuelu> chi
+C:  Antes, porque será
+
+M: ente kümeke foro niekefuy fütakeche ka fey?
+C:  tenian tan buena dentadura los  ancianos?
+
+nmlch-lftccA1_1_0337_lftcc_00:
+M: Fey fücha chau tüfey <!1tüfi>
+C:  Eso el anciano Padre
+
+M: fey pu foro kulliñ
+C:  eso es hueso de animal 
+
+M: fey wadkümi ñi fücha chauem
+C:   eso lo hirbio el que era mi viejo padre
+
+M: wadkümi foro kulliñ feymu fey 
+C:  entonces hecho a herbir hueso de animal
+
+M: <*SPA>en <*SPA>la <*SPA>mañana
+C:   en la mañana
+
+M: kücha foroy feymu
+C:  con eso se lavó la dentadura
+
+M: f ey kümeke foro niefuyiñ pikefuy iñ fücha  chau
+C:   así tenemos buena dentadura decía mi padre
+
+M: ñi fücha chau <*SPA>ese
+C: mi viejo padre ese
+
+M: <*SPA>no <*SPA>le <*SPA>faltó kiñe foro rume faltalay
+C:   no le faltó ni un solo diente
+
+M: <*SPA>cuando kidu feyta ñami.
+C:  cuando el sólo se perdió.
+
+nmlch-lftccA1_1_0338_nmlch_00: 
+M: ¡Aa! <Noise>  
+C:  ¡Ah!
+
+M:  kutranfor ofengelafuy.
+C:  no sufrió del dolor de muela.
+
+nmlch-lftccA1_1_0339_lftcc_00: 
+M: <*SPA>No,
+C:  No,
+
+M: <*SPA>sano <!1sanu> feymu feyta kücha, kücha wün.
+C:  sano, porque se lavó con eso la boca.

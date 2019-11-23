@@ -1,0 +1,11 @@
+InfoVersion 1
+TurnCounter 280
+SpeakerNum: 2
+nmlch-nfrp1_x_%04d_nmlch_00
+nmlch
+nmlch-nfrp1_x_%04d_nfrp_00
+nfrp
+UserLables: 1
+<*SPA>
+LableMenuFile
+C:\Program

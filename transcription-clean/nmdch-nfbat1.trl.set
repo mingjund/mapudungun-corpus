@@ -1,0 +1,10 @@
+InfoVersion 1
+TurnCounter 0
+SpeakerNum: 2
+nmdch-nfbat1_x_%04d_nmdch_00
+nmdch
+nmdch-nfbat1_x_%04d_nfbat_00
+nfbat
+UserLables: 0
+LableMenuFile
+C:\Documents and Settings\flor\Desktop\trl-avenue.mnu

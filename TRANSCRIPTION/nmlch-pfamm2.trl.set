@@ -1,0 +1,12 @@
+InfoVersion 1
+TurnCounter 187
+SpeakerNum: 3
+nmlch-pfamm2_1_%04d_nmlch_00
+nmlch
+nmlch-pfamm2_1_%04d_pfamm_00
+pfamm
+nmlch-pfamm2_x_%04d_pm<>_00
+pm<>
+UserLables: 0
+LableMenuFile
+H:\Almacen Final\Datos\trl-avenue.mnu

@@ -1,0 +1,14 @@
+InfoVersion 1
+TurnCounter 508
+SpeakerNum: 2
+nmlch-nmjsi2_x_%04d_nmlch_00
+nmlch
+nmlch-nmjsi2_x_%04d_nmjsi_00
+nmjsi
+UserLables: 4
+<*SPA>
+<Cough>
+<Laugh>
+<Throat>
+LableMenuFile
+C:\Program

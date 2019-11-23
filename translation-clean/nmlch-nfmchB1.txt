@@ -1,0 +1,3229 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nfmchB1 
+; Last changes made on 11/06/2001 
+; Transcriber: Cristian C. Anton 
+; Comments:  
+; Traduce: Julio Marileo.
+
+nmlch-nfmch_x_0000_nmlch_00: 
+M: Mari mari lamngen.
+C:  Buenos días hermana.
+
+nmlch-nfmch_x_0001_nfmch_00:
+M:  Mari mari lamngen.
+C: Buenos días hermana.
+
+nmlch-nfmch_x_0002_nmlch_00: 
+M: ¿Chumechi anta rupalefuymi tüfa?
+C:  ¿Cómo es que estás pasando ahora?
+
+nmlch-nfmch_x_0003_nfmch_00:
+M:  Inche küme rupalen
+C:  Yo estoy pasando bién
+
+M: kümelkali ñi puche 
+C:  Estan bién mis parientes
+
+M: kom kümelkalingün
+C: están todos bien
+
+nmlch-nfmch_x_0004_nmlch_00: 
+M:¿ Chem sungu rume ngelay
+C:  ¿ No ha ninguna novedad 
+
+M: tami lof mew tüfa?
+C: por tu comunidad ahora?
+
+nmlch-nfmch_x_0005_nfmch_00: 
+M: Chem sungu norme kom kümelkalingün.
+C: Ninguna novedad, estamos todos bién.
+ nmlch-nfmch_x_0006_nmlch_00: 
+M: May, may. 
+C: Sí, sí.
+
+nmlch-nfmch_x_0007_nfmch_00: 
+M: Pin chi puche kümelkali.
+C: Dije las personas estan bién
+ 
+nmlch-nfmch_x_0008_nmlch_00: 
+M: Wesake sungu 
+C:  Asuntos malos
+
+M: allken ngelay tüfa 
+C: ahora ya no se escuchan
+
+M: he kutran mülelay
+C:  no hay enfermos
+
+M:  wesake sungu 
+C:  cosas malas
+
+M: tüfa rupakelu we.
+C: esto que ha pasado recientemente.
+
+nmlch-nfmch_x_0009_nfmch_00: 
+M: Müli ka müli kutran 
+C:  Tambièn hay enfermedades
+
+M: fillantü müleki kutran
+C:  todos los días existen enfermos
+
+M:  fey pukem 
+C:  y en el invierno
+
+M: <uh> doy müleki kutran
+C:  son más frecuentes los enfermos
+
+M:  müleki kutran
+C: hay enfermedades
+
+M:  müten
+C:  nomás
+
+M:  chüfon müleki
+C:  hay tos
+
+M:  kutranki lonko 
+C:  duele la cabeza
+
+M: <uh> kutranki
+C:  duele
+
+M:  <uh> chew fente wütrengeki
+C:  donde hace mas frío
+
+M:  pun ka chew fente wütrengeki
+C:  en la noche donde es más helado
+
+M:  pun pin ama
+C:  noche fue lo dije
+
+M:  ka wüniem 
+C:  y también de amanecida
+
+M: rume kutran ngeki chi wütre
+C:  ese frio es de enfermarse mucho
+
+M:  <uh> müleki chi chem
+C: existen las 
+
+M:  mawün ka kürüf
+C:  lluvías y el viento
+
+M:  pütrake kürüffeyn kutranki che pu
+C:   cuando hay grandes temporales las personas se enferman pues
+
+M:  ruka müleyem che.
+C:  cuando las personas estan en las casas.
+ 
+nmlch-nfmch_x_0010_nfmch_00: 
+M: Tripay wekun
+C: Sale afuera
+
+M:  fey kutranki ñi pel
+C: y duele su garaganta
+
+M:  inchaki chi pel
+C:   se incha la garganta
+
+M:  kelü kunuwki 
+C: se coloca rojo
+
+M: fey pepi iwetukelay che
+C:  y a uno se le dificulta comer
+
+M:  iyem che pütokoyem ko
+C:  cuando come la persona y cuando toma agua
+
+M:  müna kutrantuki chi pel
+C:  duele mucho la garganta
+
+M:  kelü leki ponwi.
+C:  por dentro esta rojo.
+ 
+nmlch-nfmch_x_0011_nmlch_00:
+M:  Awem.
+C: Que admirable
+ 
+nmlch-nfmch_x_0012_nfmch_00: 
+M: Fey <uh> chüfonki chi che.
+C.  Y las persona tocen.
+
+nmlch-nfmch_x_0013_nmlch_00:
+M:  Trüfonki ka.
+C: Tocen también.
+ 
+nmlch-nfmch_x_0014_nfmch_00:
+M:  May.
+C: Sí.
+
+M:  Kümelkalekelay
+C:  No se encuentra bién
+
+M:  küpa tranakunuwki.
+C:  tiene ganas de acostarse.
+
+nmlch-nfmch_x_0015_nmlch_00: 
+M: Feleki
+C:  Así se encuentra
+
+M:  kutranyem pel
+C:  cuando duele la garganta
+
+M:  pipimi nga lamngen
+C:  comentabas hermana
+
+M:  sallulafen pichin
+C:  me podrías decir un poco
+
+M:  mülepi l'awen' lamngen
+C:   si es que hay remedio hermana
+
+M:  tüfi kutran pelmu.
+C:  para el dolor de garganta.
+ 
+mch_x_0017_nmlch_00nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Lamngen 
+C:  Hermano
+
+M: müli
+C: hay
+
+M: <uh>  abril l'awen'
+C:  remedio de Abril
+
+M:  inche kimnen l'awen' 
+C:   yo conozco remedios
+
+M: kutraniem 
+C:  para cuando duele
+
+M: rume kutranyem chi pel <uh> piken
+C:  cuando duele mucho  la garganta digo
+
+M:  make yemefin chi natrünk 
+C:  maqui voy a buscar el Natre
+
+M: o ñi chaw yelmeyen pikefin
+C:  o  a mi padre le digo que me vaya a buscar
+
+M:  kampu müli chi natrün.
+C:   el natre que esta en el campo.
+
+nmlch-nfmch_x_0018_nmlch_00: 
+M: ¿Chemam natrün pingi?
+C:   ¿Que es lo que se llama natre?
+
+nmlch-nfmch_x_0019_nfmch_00:
+M:  Natrün l'awen'
+C:  Remedio de Natre
+
+M:  mamüll l'awen'
+C: es un remedio leñoso
+
+M:  fey mülerki mawidamu
+C:  eso se encuentra en el monte
+
+M:  feychi natrün 
+C:  ese natre
+
+M: fey ñi chaw yemeki 
+C:  y eso lo va a buscar mi padre
+
+M: alün trafon natrü 
+C:  hartos natres cortados
+
+M: fey küpalki rukamu 
+C:  y lo trae a la  casa
+
+M: fey l'awen' ngeki.
+C:  y eso se hace remedio.
+ 
+mch_x_0020_nfmch_00nmlch_00:
+M:  Müli l'awen'.
+C:  Hay remedios.
+
+nmlch-nfmch_x_0021_nfmch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmch_x_0022_nmlch_00: 
+M: Feyti lamngen
+C:  Y eso hermana
+
+M: ¿tuchi püle fey pünengi?
+C: ¿ por dónde se ocupa?
+
+M: ¿ tapül trafon kam folil lamngen.?
+C:  ¿ hoja, quebrado, o, raíz,  hermana?
+ 
+nmlch-nfmch_x_0023_nmlch_00: 
+M: Kiñe kiñepchi mamüll 
+C:  Uno, un palito pequeño
+
+M: küla meli 
+C:  tres, cuatro
+
+M: pichike trafon natrün 
+C:  pedacitos chicos  de natre 
+
+M:  <uh> l'awen'
+C: remedio
+
+M:  kiñe challamu waskümngeki 
+C:  en una olla se coloca a hervir
+
+M: tukungeki chi 
+C:  se coloca si 
+
+M: ka kiñepchi trafon
+C:  y un pedacito chico
+
+M:  ka mamüll 
+C:  también leña
+
+M: lig loza inche nien tamu rukamu
+C:  yo  acá en la casa tengo  una loza blanca
+
+M:  jardin mu nien
+C:   en el jardín tengo
+
+M:  ka tumngeki chi kofke
+C:  y también  se toma ese pan
+
+M:  kulle ka konki chi kachan l'awen'
+C:   también entra el coulle y el torongil cuyano
+
+M:  ka yemengeki ko mew
+C:  y tambièn lo van a buscar en el agua
+
+M: wenche ko pingechi l'awen' 
+C:  remedio llamada encima del agua
+
+M: ka mülekelu rukamew 
+C:  y también que no se ha encontrado en casa
+
+M: wente ko
+C:  encima del agua
+
+M: fey tüfachi pu' l'awen'
+C:  y estos remedios
+
+M:  kiñe challamu pipiyu nga
+C:  en una olla te comentaba pues
+
+M:  tayi 
+C: denante
+M: fey waskümngeki tüfachi l'awen' 
+C:  y se hierve este remedio
+
+M: wasküyem
+C: cuando se hierve
+
+M.  fey inche nümü nümü tukefin.
+C:  y eso yo lo huelo, huelo.
+ 
+nmlch-nfmch_x_0024_nfmch_00:
+M:  Chi l'awen' <uh> l'awen' 
+C:  Ese remedio, remedio
+
+M: müna küme nümün ngi 
+C:  tiene una aroma agradable
+
+M: femngechi müna küme nümün tripapaki
+C:  así sale una aroma muy agradable
+
+M: fey nentungetuki 
+C:  y eso se saca
+
+M: kütralmu
+C:  del fuego
+
+M:  fey trürümngeki 
+C:  y eso se junta
+
+M: fey küme trüryem
+C:  y eso cuando esta bién juntas 
+
+M:  feychi kutran
+C:  ése enfermo
+
+M:  pütokongeki 
+C:  se les da de tomar
+
+M: fey pürüm küme nawkelay
+C: y de imediato no cae bien
+
+M:  chi suam rupaki 
+C:  pasa la conciencia
+
+M: antüfey rupay
+C:  cuando el pasa el día
+
+M:  kiñe anta famechi 
+C:  un día así
+
+M: fey wüla ka tukungeki 
+C:  y de ahí recién se vuelve a colocar
+
+M: fey küme nawki chi iyal 
+C:  y así cae bien la comida
+
+M: feychi kutran pel <uh> niengewetukelay
+C:  y ese dolor de garganta ya no se tiene
+
+M:  fey kiñe che 
+C:  y una persona
+
+M: kimen ñi kümelkan
+C:  si se sabe que le esta haciendo bien
+
+M:  pütokoyem che
+C:  cunado la persoan toma
+
+M:  fey kutran ngewetukelay chi pel.
+C:  entonces ya no duele la garganta.
+ 
+nmlch-nfmch_x_0025_nfmch_00: 
+M: Fey kelü lewetukelay chi pel 
+C:  entonces ya no se nota la garganta roja
+
+M: rume küme nawtuki che
+C:  la persona tiende a sentirse muy bien
+
+M: ngüñüki chi che
+C:  esa persona le da hambre
+
+M:  fey kiñe che 
+C: y una persona
+
+M: kimki ñi kümelkanetew chi l'awen' 
+C:  sabe que le hizo bién el remedio
+
+M: fey monge tripatuki 
+C:  y  se termina mejorando
+
+M: welu kuydawki che
+C:  pero la persona le cuesta
+
+M:  trapitu kelay 
+C:    no come ají
+
+M: chi kutrankülechi che
+C: el que esta enfermo
+
+M:  trapituyem 
+C:  cuando come ají
+
+M: ka wüñotuki ka
+C:  se devuelve 
+
+M: <uh> kelü nawtuki chi pel
+C:  la garganta vuelve a ponerse rojo
+
+M:  pingeki
+C:   dicen
+
+M:  fey kutrantuletuki ka fey müten.
+C:  y esto sigue con dolor nomás.
+ 
+nmlch-nfmch_x_0026_nmlch_00:
+M:  Mülerki kuñiwtuam.
+C:  Es deber tener cuidado.
+
+nmlch-nfmch_x_0027_nfmch_00:
+M:  May.
+C: Sí.
+M:  Inche kimnefin tüfachi l'awen'.
+C:  Yo conozco éste remedio.
+
+nmlch-nfmch_x_0028_nmlch_00: 
+M: Kuñiwtuam mülerki ka.
+C:  también hay para tener cuidado
+ 
+nmlch-nfmch_x_0029_nfmch_00:
+M:  May.
+C:  Sí.
+ 
+nmlch-nfmch_x_0030_nmlch_00: 
+M: Feyti nga wenche ko pipimi lamngen 
+C:  Y ese encima del agua decías hermana
+
+M: ¿chew pengeki tüfi?
+C:  ¿ eso dónde se encuentra?
+
+nmlch-nfmch_x_0031_nfmch_00:
+M:  Komu müleki 
+C:  En el agua  hay
+
+M: re komu
+C: solamente en agua
+  
+M:  fotra komu müleki.
+C:  en agua barroso se encuentra.
+
+nmlch-nfmch_x_0032_nmlch_00:
+M:  Kachu l'awen'.
+C:  Remedio de pasto.
+
+nmlch-nfmch_x_0033_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Kachu karü pichike l'awen' ayin ngi.
+C:  Pasto verde, remedios, pequeños, son agradables.
+ 
+nmlch-nfmch_x_0034_nmlch_00: 
+M: Feytichi chempipimi ka ama
+C:  Y ese que decías también
+
+M: kofke kulle.
+C:   pan de coulle.
+
+nmlch-nfmch_x_0035_nfmch_00:
+M:  May <uh>.
+C:  Sí.
+ 
+nmlch-nfmch_x_0036_nmlch_00: 
+M: ¿Chem chi fel tüfi?
+C:  ¿Qué sería eso?
+
+nmlch-nfmch_x_0037_nfmch_00: 
+M: Yllkullu.
+C:  Cundo se enoja.
+
+nmlch-nfmch_x_0038_nmlch_00:
+M:  Kofke kulli 
+C:  Pan de coulle
+
+M: ¿chem anta tüfi kulli llemay?
+C:  ¿ qué es eso el coulle?
+
+M:  he tungeyem
+C:  cuando lo toman
+
+M:  kulli lle antü
+C:  cuando el solo pega
+
+M:  ngen tripaki 
+C:  dueño sale
+
+M: kelü rayen ngeki
+C:  es de flores rojas
+
+M:  ka küpalngetuki ruka mew
+C: también lo traen a casa
+
+M:  kiñe lata mu
+C:  en una lata
+
+M:  rosea ngeki
+C:  se rocea
+
+M:  ñi chi kulle
+C:  ese coulle
+
+M:  kiñe otra kulle
+C:  con otro coulle
+
+M:  fey kiñepchi mamüll mu
+C:  y eso en un palito
+
+M: siwill ngeki 
+C:  se revuelve
+
+M: wente lata
+C:  encima de la lata
+
+M: fey püskalewi
+C: y cuando  esta espeso
+
+M:  fey nentungeki chi kulle 
+C: entonces se saca el coulle
+
+M: fey are antü ka mülekelu
+C: y como hay también días de calor
+
+M:  fey elkungeki 
+C: y se deja 
+
+M: wekun wenu ruka 
+C:  afuera, arriba de la casa
+
+M: pitron muam achawall 
+C:  para que no sea picoteado por las gallinas
+
+M: pichike kofke kulle kofke
+C:  pancitos chicos de coulle
+
+M:  fentekunungeki
+C:  lo dejan de ese porte
+
+M: pichike mutrum
+C:  pequeños catutos
+
+M:  pichike kullun
+C: pequeños coulle  
+
+M:  waskümngeki
+C:  se  hierve
+
+M:  fey are tripay chi antü
+C:  y cuando el sol sale caluroso
+
+M: fey feychi kulli 
+C:  y entonces ese coulle
+
+M: ankü nawtuki may
+C:  se comienza a secar
+
+M:  tüngpuki fey llemay.
+C:  y eso lo entran claro.
+    
+nmlch-nfmch_x_0039_nfmch_00: 
+M: Pukem
+C: Invierno
+
+M:  müna l'awen' ngetuki
+C:  es nuy necesario el remedio
+
+M:  fey llemay chi kofke kulle.
+C:  y también ese pan de coulle.
+ 
+nmlch-nfmch_x_0040_nmlch_00: 
+M: ¿Chumal kofke seumangeki?
+C: ¿Para que se hace el pan de coulle?
+
+M:  femngechi seumangenmu 
+C:  y hacerlo así
+
+M: feymu fey kofke pingetuki.
+C: y por eso se llama pan.
+
+nmlch-nfmch_x_0041_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Asentunengi kofke
+C:  Se hace como el pan
+
+M:  feymu fey femngechi üy tukulelngi kulle.
+C:  por eso el coulle se le pone ese nombre.
+ 
+nmlch-nfmch_x_0042_nmlch_00: 
+M: Müna küme l'awen' reke 
+C:   Es un muy buen remedio pues
+
+M: tüfi kutran pelmu.
+C:  para el dolor de garganta.
+ 
+nmlch-nfmch_x_0043_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Küme l'awen'.
+C:  Buen remedio.
+ 
+nmlch-nfmch_x_0044_nmlch_00:
+M:  May, May, May, May.
+C: Sí,  sí, sí. Sí.
+
+M: Fey tichi trüfonünmu
+C:  Y para la tos
+
+M:  pipimi kay kanga
+C:   también habìas dicho
+
+M: ¿chem fel chi tüfi lamngen.?
+C:  ¿Qué sería eso hermano?
+ 
+nmlch-nfmch_x_0045_nfmch_00:
+M:  Trüfon pipen nga 
+C:   T os decía
+
+M: tayi may
+C:  denante si
+
+M:  ka müli llemay l'awen'
+C:  claro que también hay remedio
+
+M:  rume tüfachi kutran
+C:  mucho en esta enfermedad
+
+M:  fem tripaki pukem 
+C:   así salen en el invierno
+
+M: <uh> inche trüfon küleyem
+C:  cuando yo estoy tociendo
+
+M:  yemeken he hoja folo
+C:  voy a buscar hoja de boldo
+
+M:  yemeken <uh> kiñepchi karumu
+C:   voy a buscar en vasito
+
+M:  <uh> tukukefin 
+C:  lo hecho
+
+M: fey waskü waskülechi komu
+C:  y en agua que esta hirviendo
+
+M:  <uh> tukulelkefin 
+C: le coloco
+
+M: fey pütokokefin
+C:  y entonces lo tomo
+
+M:  kafe tukefin 
+C:  lo tomo como cafe
+
+M: fey küme kunu kenew
+C:  y eso me hace bién
+
+M:  welu ka l'awen' ka müli 
+C:  pero también hay remedio
+
+M: <uh> püdi weñ pingeki 
+C:  püdiweñ se le llama
+
+M: pidweñ pingi no
+C:  püdiwen se le llama no
+
+M:  korkolan piki ta winka
+C:  corcolan dicen los huincas
+
+M:  fey ka meno komu müleyeki 
+C:  eso también se encuentra en las lagunas
+
+M: fey inako müli 
+C:  y  orillas del agua hay 
+
+M: chi mamüll l'awen'
+C:  ese remedio leñoso
+
+M: yemeken kiñe trafon korkolon 
+C: yo fui a buscar pedazos de corcolan
+
+M: kiñe kiñe pichi mamüll ka.
+C:  un  palito de leña  también.
+
+nmlch-nfmch_x_0046_nfmch_00: 
+M: Tukuken llemay 
+C:  Lo colocaba claro
+
+M: <uh> wenche ko ka konki 
+C:  encima  del agua  también entra
+
+M: chi weñche ko 
+C:  esa encima del agua
+
+M: ka wüño peskiñ pingi 
+C:  y de vuelta se decía flores
+
+M: kiñe l'awen' tripaki komu 
+C:  un remedio salía en el agua
+
+M: pingelu müli, müli wenuke
+C: que se llama hay, hay  arribas
+
+M:  tapüle ngelay 
+C:  por aquí no hay
+
+M: rukapüle
+C:  por la casa
+
+M:  mawida mu mülichi l'awen'
+C:  remedios que hay en el monte
+
+M:  fey llemay <uh> wempaf kunukefin 
+C:  eso claro, lo dejo a la vista
+
+M:  tüfachi l'awen'
+C:   estos remedios
+
+M:  fey waskümkefin challa mu
+C:  eso se hervía en una olla
+
+M:  fey tukungekerki mate mu
+C:  eso se colocaba en el mate
+
+M:  kafetuyengeki ka 
+C:   se toma como café también
+
+M: <uh> fiskü kutranan tachi trüfon
+C: esa tos es un enfermedad  del frio
+
+M:  fey <uh> küme
+C:  y eso es bueno
+
+M:  kunungeki tüfachi l'awen' mu
+C:  lo deja así con éste remedio
+
+M:  feychi che pütokokefi chi l'awen'
+C:   esas personas tomabn los remedios
+
+M: fey rupaki chi trüfon
+C:  y salen en su tos 
+
+M:  inche femngechi 
+C:   yo así
+
+M: mongetuken
+C:  he vuelto a vivir
+
+M:  müten amukelan ospitalmu
+C:  nomas no voy al hospital
+
+M: müna kume l';awen' tüfa.
+C:  es muy  buen remedio ahora.
+ 
+nmlch-nfmch_x_0047_nmlch_00:
+M:  Feyti anta re mapumu 
+C:  Y esos en puras tierras 
+
+M: mülerkefuy l'awen' trüfonal.
+C:  existía remedios para la tós.
+
+nmlch-nfmch_x_0048_nfmch_00: 
+M: May.
+C:  Sí.
+
+M: Re mapu l'awen' pütokoken kutran yem.
+C: Solo remedios de la tierra tomo cuando me enfermo.
+
+nmlch-nfmch_x_0049_nmlch_00: 
+M: Rume küme kimnerkimi 
+C:   Es muy bueno conocer
+M: l'awen' tüfey lamngen
+C:  remedios eso hermana
+
+M:  fey kiñekemu münaweda trüfonki
+C:  y algunas veces se toce muy mal
+
+M:  ta tüfey
+C:   ahora esto
+
+M:  pütache ngeay rume 
+C:  aunque sean adultos
+
+M: somo ngeafuy rume
+C:  aunque sean mujeres
+
+M:  pichiche ngeafuy rume 
+C:  aunque sean niños
+
+M: <uh> weche wentru ngeafuy rume
+C:  aunque sea un hombre jóven
+
+M:  feyta ka rume kutrankawki 
+C:  y también  se sacrifica mucho
+
+M: ta trüfonmu
+C:  ahora en la tos
+
+M:  ta tüfey mülerkefuy
+C:  y ahora esto había
+
+M:  ta l'awen' ta mapumew ka.
+C:  remedios en la tierra también.
+
+nmlch-nfmch_x_0050_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Müli alün l'awen' 
+C:  Hay remedios
+
+M: inche kimnen alün l'awen'
+C:  yo conozco hartos remedios
+
+M:  kimnienmu l'awen' 
+C:  por saber de remedios
+
+M: fey inche feyentukefin chi l'awen' 
+C:  y yo creo en esos remedios
+
+M: feymu mongeken
+C:  por eso me mejoro
+
+M:  müna kutranmu 
+C:  de muchas enfermedades
+
+M: pepil le l'awen' 
+C:  si sabe de remedio
+
+M: ka empachu ngealu ka mülil'awen'.
+C:  y también hay remedios para el empacho
+
+nmlch-nfmch_x_0051_nmlch_00:
+M:  May, may, may, may.
+C: Sí, sí, sí, sí.
+
+nmlch-nfmch_x_0052_nfmch_00: 
+M: May.
+C:  Sí.
+
+M:  <uh> Empachu piki winka nga.
+C:  Empacho dicen los huincas.
+ 
+nmlch-nfmch_x_0053_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmch_x_0054_nfmch_00: 
+M: Kore noyem ta yagel 
+C:  Cuando no corren los remedios
+
+M: ngeche iyim iyagel
+C:  cuando unas personas  comidas
+
+M:  <uh> kiñekam pepi iwetukelay 
+C:  a veces ya no pueden comer
+
+M: küpa rapiki
+C:  les dan ganas de vomitar
+
+M:  fey kutran bien nayki llemay
+C:    y la enfermedad cae bién así
+
+M:  chi suam pulu
+C:  cuando hace efecto
+
+M:  fey pu pütra
+C:  eso dentro del estomágo
+
+M:  fey müli ka l'awen' 
+C: y también hay remedio
+
+M: müli l'awen' 
+C: hay remedios
+
+M: fey empachuleyem che
+C:  y cuando las  personas  se empachaban
+
+M:  kümey ta chem
+C:  es bueno el
+
+M:  chilko, chilko
+C:  chilko, chilko
+   
+M: ¿ kimnimi lamngen?
+C:  ¿ conoces hermano ? 
+ 
+nmlch-nfmch_x_0055_nmlch_00:
+M:  Chilko.
+C:  Chilko.
+ 
+nmlch-nfmch_x_0056_nfmch_00: 
+M: May.
+C: Sí. 
+ 
+nmlch-nfmch_x_0057_nmlch_00: 
+M: ¿Tuchimu tripaki tüfey?
+C:  ¿Dónde sale eso?
+
+nmlch-nfmch_x_0058_nfmch_00: 
+M: Tripaki<*SPA> este komu tripaki.
+C:  Sale éste en agua , sale.
+
+nmlch-nfmch_x_0059_nmlch_00: 
+M: Meno komu.
+C: En la laguna.
+ 
+nmlch-nfmch_x_0060_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Meno komu 
+C: En la laguna 
+
+M: fotra pelo mu, 
+C:  donde esta barroso,.
+
+M: feymu müleki.
+C: ahí  se encuentra
+
+nmlch-nfmch_x_0061_nmlch_00: 
+M: May, may, may.
+C: Sí, sí, sí.
+
+M: L'awen' tüfi mamüll l'awen'.
+C: Remedio, ese es remedio leñoso.
+ 
+nmlch-nfmch_x_0062_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Mamüll l'awen.
+C:  Remedio leñoso.
+ 
+nmlch-nfmch_x_0063_nmlch_00: 
+M: Yüfküngi tapül kam rayen.
+C:  Se pica la hoja y la flor.
+  
+nmlch-nfmch_x_0064_nfmch_00:
+M:  Tüfachi kutran ngealu
+C:  Quien tenga esta enfermedad
+
+M:  inche 
+C:  yo
+
+M: yemeken kiñen tamu chilko
+C:  voy a buscar aquí el único chilko
+
+M:  yemeken  ka tapül lifor kintuken.
+C:  voy a buscar hoja y flor busco.
+
+nmlch-nfmch_x_0065_nmlch_00: 
+M: Chem.
+C:  Que.
+
+nmlch-nfmch_x_0066_nfmch_00: 
+M: Tapul lifor may entulelngeki chi 
+C:  Hoja y flor sí, se le saca el 
+
+M:  fey akuliem chi lüfor chi chilko
+C:  y cuando se trae ese flor de chilko
+
+M:  fey yüfküngeki chi chilko 
+C:  y se  pica el chilko
+
+M: yüfküngeyem <uh> chi chilko pipen nga
+C:  cuando se pica el chilco decía  pues
+
+M:  <uh> yüfküngi chilko 
+C:  se pica el chilko
+
+M: ka chi lüfo nieki no 
+C:  y también ese lüfo se tiene
+
+M: a mano niengeki.
+C:  a mano se tiene.
+
+nmlch-nfmch_x_0067_nmlch_00: 
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+ 
+nmlch-nfmch_x_0068_nfmch_00: 
+M: Fey despue fey kiñe karu mew
+C:  Y eso después en un vaso
+
+M:  llitungi 
+C:  se cuela
+
+M: kiñe karu tüfa chilko
+C:  un vaso de este chilko
+
+M:  yüfkü ngeyem <uh> chilef mu
+C:  cuando se pica con el  jillett
+
+M:  fey kiñe tüfachi chilko
+C:  y uno de estos chilkos
+
+M:  <uh> piko kunungi 
+C:  se deja picado
+
+M: chilko chi hoja 
+C:  esa hoja  de chilko 
+
+M: nüfemu  fey kiñe karu mu
+C:  lo toma eso en un vaso
+
+M:  waskü waskü ngechi ko
+C:  con agua que esta hirviendo
+M:  tukulelngekerki may 
+C:  se le coloca sí
+
+M: fey feymu elkunungekellelay 
+C:  y entonces se deja reposar
+
+M: taku kunungi kiñe kiñe naskamu 
+C:  se deja tapado, en una tapa 
+
+M: o kiñe latamu 
+C: o una lata
+
+M: fey firkünayem
+C:  y cuando se enfría 
+
+M:   tüfachi l'awen' 
+C:   este remedio
+
+M: arelekelu rukamu
+C:  que ha estado caliente en la casa
+
+M:  fey firnawyem 
+C:  y cuando este se enfría
+
+M: fey elungechi kutran
+C:  y se da al enfermo
+
+M:  fey kümekunukiyu.
+C:  eso lo deja bien.
+ 
+nmlch-nfmch_x_0069_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M: Ah.
+C: Ah.
+
+M: Ah.
+C: Ah.
+
+nmlch-nfmch_x_0070_nfmch_00: 
+M: Yilka chi kutranmu.
+C:  Cuando asusta al enfermo.
+
+nmlch-nfmch_x_0071_nmlch_00:
+M:  Femngechi trapumngi 
+C:  Así se junta
+
+M: chilko engün lüfo engün.
+C:  con chilko y lüfo.
+ 
+nmlch-nfmch_x_0072_nfmch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmch_x_0073_nmlch_00: 
+M: Wütruntukulelngi areko
+C:  Se hecha agua caliente
+
+M:  fey fiskü lewelu 
+C:  y cuando este se queda frío
+
+M: fey pütokolngi.
+C:  entonces se toma.
+
+nmlch-nfmch_x_0074_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Fey llakonawlu
+C:  Y cuando se entibia
+
+M:  fey pütokolngi chi kutran.
+C:  eso le hacen tomar al enfermo.
+ 
+nmlch-nfmch_x_0075_nmlch_00: 
+M: Fey rupatuy tüfey.
+C:  Y pasa eso pues.
+
+nmlch-nfmch_x_0076_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Rupaki feymu llemay
+C: Pasa con eso claro
+
+M:  küme nawki chi kuram.
+C:  baja bién ése huevo.
+
+nmlch-nfmch_x_0077_nmlch_00:
+M:  May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M:  Itrofill kutran mülekelu kay lamngen
+C: y como hay distintas enfermedades hermanas 
+
+M:  tüfa mongenmew
+C:  en esta vida
+
+M:  fey iñi rume montulerkenoalu 
+C:  y nadie se encuentra a salvo
+
+M: wecha <uh> wecha nawki 
+C:  mal, mal, cae
+
+M: chem kutran mu rume che ka.
+C:  en cualquier enfermedad también. 
+ 
+nmlch-nfmch_x_0078_nfmch_00: 
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: Fill wedake kutran müleki ka pue müleki.
+C:  dferentes malas enfermedades hay pues.
+ 
+nmlch-nfmch_x_0079_nmlch_00:
+M:  Feyti ka lamngen
+C:  Eso pues hermana
+
+M:  ka müli
+C:  también hay 
+
+M:  welu kiñe kutran
+C:  pero una enfermedad
+
+M:  müli tüfi nga <uh> pitru pingi 
+C:  hay ese, de la sarna dicen
+
+M: ¿kimpelafimi tüfi.?
+C:   ¿lo debes conocer tú,  ese? 
+
+nmlch-nfmch_x_0080_nfmch_00: 
+M: May.
+C:  Sí.
+
+M: Müli pitru, 
+C: Hay sarna,
+
+M: pitru müna pitrukey pichikeche
+C: sarna, a los niños le da mucho la sarna
+
+M: fey, fey pitru müli l'awen' pingeki 
+C: y para la sarna hay remedios dicen
+
+M: welu inche kimnelafin 
+C: pero yo no lo conozco
+
+M: fey pitruyem pichikeche 
+C: y cuando los niños les da la sarna
+
+M: fey yengeki ospitalmu tiyuw
+C: y los llevan allá al hospital
+
+M:  fey puwiyem wariamu
+C: y cuando llega a la ciudad
+
+M: <uh>  kiñe mediko peke yoweyu 
+C: un medico lo ve y lo recibe
+
+M: fey pelotungekelay
+C: y no le adivinan
+
+M:  ta fey kimngeki ñi kutranlen 
+C: y saben que esta enfermo
+
+M: makina tukulelngeki 
+C: le colocan una maquina
+
+M: fey elungeki l'awen' 
+C: y le dan remedio
+
+M: ka inyección pidilelngeki 
+C: tambien le piden una inyección
+
+M: rikifngekichi che 
+C: a la persona lo dejan tieso
+
+M: felelu pitrulelu fey 
+C: así está por la sarna
+
+M: fey mongemetuki wariamu
+C:  y se mejora en la Ciudad
+
+M:  pitrulechi che.
+C: la persona que está con sarna.
+
+nmlch-nfmch_x_0081_nmlch_00: 
+M: ¿Feyti kuyfi kutran
+C: ¿Ese es una enfermedad de antes
+
+M:  pe ka kam feula müten?
+C: o es de ahora no más?
+
+M:  wüla tripalu pitru
+C: ahora que sale la sarna
+
+M:  tüfi kuyfi tañi küpalngemu 
+C: eso por traerlos antes
+
+M: mülepi tüfika.
+C: debe haber existido eso pues.
+ 
+ch_x_0083_nmlch_00_nfmch_00:
+M:  Kuyfi ngekelafuy pingeki 
+C: Antes no habia dicen
+
+M: feula soy tripaki pitru
+C: ahora es mas frecuente que salga la sarna
+
+M: feula chi che doy delikao müley 
+C: ahora las personas son mas delicadas
+
+M: delikaungechi che pingeki 
+C: son delicadas las personas
+
+M: feula wekeche ka 
+C: ahora los jovenes tambien
+
+M: feyentukelay 
+C: de eso ya no creen
+
+M: mapu che l'awen' 
+C: en remedios mapuche
+
+M: chi che mayta
+C: la persona asi
+
+M:  feymu doy kutranki
+C: por eso se enferman mas
+
+M:  kiñekemu che ayetungeki 
+C: algunas veces las personas son burladas
+
+M: mapuche l'awen' 
+C: con remedios mapuche
+
+M: feyentungelay
+C: y no lo creen
+
+M:  fey parese doy tuki chi che
+C: y al parecer las personas se contagian mas
+
+M:  fey tuki chi kutran 
+C: y tocan esa enfermedad
+
+M: inche fill l'awen' feyentuken
+C: yo creo en los diferentes remedios
+
+M:  ayetukelan l'awen' 
+C: no me rio de los remedios
+
+M: chaw ngünechen ñi l'awen'.
+C: los remedios del padre nguenechen.
+
+nmlch-nfmch_x_0084_nmlch_00:
+M:  Fey tüfey pitru mongetukerki 
+C:   Y entonces la sarna se mejora
+
+M: winka tañi ngüneluwün may.
+C: con la sbiduria del huinca pues.
+
+nmlch-nfmch_x_0085_nfmch_00: 
+M: May.
+C:  Sí.
+
+M:  Winka ñi ngüneluwun.
+C: la sabiduria del huinca.
+ 
+nmlch-nfmch_x_0086_nmlch_00:
+M:  ¿Kimlafimi 
+C: ¿No sabes
+
+M: mapuche ñi ngüneluwün mu mongeken.?
+C: si se mejora con la sabiduria del mapuche?
+
+nmlch-nfmch_x_0087_nfmch_00: 
+M: Inche kimlan
+C: Yo no se
+
+M:  sino feypiafun
+C: sino lo diria
+
+M:  kimlan inche.
+C: yo no lo se.
+
+nmlch-nfmch_x_0088_nmlch_00:
+M:  May, may, may, may.
+C : Sí, sí, sí, sí.
+
+M:  Ka müli kiñe kutran nga
+C: Y también hay una enfermedad
+
+M:  müli kiñekemu
+C: hay a veces
+
+M:  müna kutranki ñi foro lamngen 
+C: me duele mucho mi muela hermana
+
+M: ¿chumngeluchi kutranki foro kiñekemu?
+C:¿ Porque sera que algunas veces duele la muela?
+
+M:  wecha forongelu müten
+C: los que tienen solo los dientes malos
+
+M:  kam müli 
+C: o tambien hay
+
+M: ka he ¿chumngelu ñi kutranken foro tüfey.?
+C: otros, ¿ Porque dolera la muela pues?
+ 
+nmlch-nfmch_x_0089_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Lamngen müli <uh> kutraniem foro 
+C: Hermana hay, cuando duele la muela
+
+M: <uh> kiñe che kimni l'awen'
+C: hay una persona que conoce el remedio
+
+M:  fey mongeltuki chi foro, 
+C: y se mejora la muela,
+
+M: kutranki foro pafmu koniem
+C: duele la muela cuando le entra el Pasmo
+
+M: kiñe che ilu 
+C: cuando una persona come
+
+M: areleyem wekun tripay
+C: o esta caliente y sale para afuera
+
+M:  kürüftuy 
+C: toma corriente de aire
+
+M: fey inchaki chi foro
+C: y se hincha la muela
+
+M:  fey kutrankey
+C: y duele
+
+M:  ka rume <%> futüniem
+C: y cuando se tiene muy cariada
+
+M:  kutranki foro
+C: duele la muela
+
+M:  ka kiñekemu areleyem che 
+C: y algunas veces cuando las personas estan acaloradas
+
+M: ka pütokoy ko 
+C: y toma agua
+
+M: <uh> fiskü ko 
+C: agua fria
+
+M: fey ka kutranki chi foro
+C: y asi tambien duele la muela
+
+M:  kiñekemew ngümaki che
+C: a veces lña persona llora
+
+M:  müna ngümaki 
+C: llora mucho
+
+M: ka kutranki lonko
+C: y tambien duele la cabeza
+
+M:  <uh> rume kutranien chi foro
+C: cuando duele mucho la muela
+
+M:  fey kutran foro 
+C: y asi el dolor de muela
+
+M: <uh> inche kimnen ka kutran foromu.
+C: yo tambien sé para el dolor de muela.
+
+nmlch-nfmch_x_0090_nmlch_00: 
+M: ¿Chem chi kümefuy.?
+C: ¿ Que seria la muela?
+
+nmlch-nfmch_x_0091_nfmch_00: 
+M: Kiñe l'awen' komu tripaki 
+C: Un remedio que sale en el agua
+
+M: inche kuyfi müna kutranki ñi foro
+C: ante a mi me dolia mucho la muela
+
+M:  pasmu konkefuy kiñeke foro 
+C: me entraba Pasmo algunas veces en la muela
+
+M: nentuymangekefun
+C: me lo sacaban
+
+M:  rume kutranüwlu
+C:  cuando dolia mucho
+
+M:  fey kiñe l'awen' müli pingi
+C: y hay un remedio dicen
+
+M: fey amun komu 
+C: y fui al agua
+
+M: malva pingeki chi l'awen'.
+C: Malva se llama ese remedio.
+ 
+nmlch-nfmch_x_0092_nmlch_00:
+M: Malva pingi ¿chi chew tripay lamngen.?
+C: Malva se llama y ¿dónde sale hermana?
+
+nmlch-nfmch_x_0093_nfmch_00: 
+M: Tripaki komew 
+C: Sale en el agua
+
+M: pu' ko ta tripaki 
+C: dentro del agua sale
+
+M: elalkaleki pichike anümka
+C: se encuentran muy bonitos las plantitas
+
+M:  fey yenengeki
+C: eso lo van a buscar
+
+M:  fey akulngetuy
+C: y eso lo hacen llegar
+
+M:  fey wente ilen
+C: y asi encima como
+
+M:  elkunungeki kiñe pichin chi l'awen' 
+C: dejan un poco de ese remedio
+
+M: fey kütrüngeki kuwü mew
+C: y lo estrujan asi en las manos
+
+M: fey tukungeki chew kutrankülechi foro
+C: y eso se coloca donde duele la muela
+
+M:  wente trawa foro 
+C: encima de la piel donde esta la muela
+
+M: welu wekun inafün chi wün 
+C: pero afuera cerca de la boca
+
+M: fey rupaki chi kutran foro
+C: y asi pasa el dolor de muela
+
+M:  fey desinchaltuki
+C: y eso lo hace desinchar
+
+M:  fey amutuki chi kutran
+C: y asi se va el dolor
+
+M:  inche ka femngechi mongetuken
+C: y asi se sana
+
+M:  kuyfi fey chi l'awen' mu.
+C: antes con ese remedio.
+ 
+nmlch-nfmch_x_0094_nmlch_00:
+M: Feyti nga lamngen
+C: Eso pues hermana
+
+M:  ka kiñe kutran müli ta mongenmew
+C: también hay otra enfermedad en la vida
+
+M:  <uh> tüfi ngachi kutran
+C: esa enfermedad
+
+M:  he mollfun kutran pingeki l'amngen
+C: la enfermedad de la Sangre se dice hermana
+
+M:  kimfimi tüfi lamngen
+C: conoces tu eso, hermana
+
+M:  winka ta sinteria piki 
+C: el huinca dice Sinteria
+
+M: welu müleki ta feychi kutran
+C: pero existe esa enfermedad
+
+M:  kimlafimi ¿chumngechi ñi tungeken?
+C: sabes tu ¿Cómo se contagia?
+
+M:  feyti chi kutran lamngen.
+C: y es enfermedad hermana.
+
+nmlch-nfmch_x_0095_nfmch_00:
+M:  May.
+C: Sí.
+
+M:  Müleki kutran sinteria pingelu
+C: hay una enfermedad que se llama Sinteria
+
+M:  inche allküken 
+C: yo he escuchado
+
+M: fey müli pingeki 
+C: eso hay dicen
+
+M: l'awen`
+C: remedio
+
+M: fey kutran küleyem che 
+C: y cuando la persona esta enferma
+
+M: weda suam küleki no
+C: se siente mal, no
+
+M:  fey küpa ikelay che
+C: y la persona no le da ganas de comer
+
+M:  chem kutran rume ti che
+C: aunque la persona este enferma de cualquier cosa
+
+M: küpa ikelay 
+C: no le da ganas de comer
+
+M: küpa mongekelay
+C: no les gusta sanarse
+
+M:  küpa ngütramkakelay 
+C: no les da ganas de conversar
+
+M: küpa küdaukelay 
+C: no les da ganas de trabajar
+
+M: chem rume küpa pewekelay
+C:no les da ganas de ver ninguna cosa
+
+M:  fey feychi kutran tuyem
+C: cuamdo se contagia de esa enfermedad
+
+M:  sinteria 
+C: Sinteria
+
+M: welu müli l'awen' 
+C: pero hay remedio
+
+M: müli kümeke l'awen' 
+C: hay buenos remedios
+
+M: inche kimnen feychi l'awen'
+C: yo conosco ese remedio
+
+M:  ka fey feychi kutran mew 
+C: tambien para esa enfermedad
+
+M: kom kiñe lay
+C: todo no se sabe
+
+M:  <uh> komu tripaki 
+C: salen en el agua
+
+M: kiñe l'awen' küna pingi mol küna.
+C: un remedio se llama ratonera, ratonera le dicen.
+ 
+nmlch-nfmch_x_0096_nmlch_00: 
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C:  Sí.
+  
+nmlch-nfmch_x_0097_nfmch_00: 
+M: Inche fey pisilngeki mol
+C: Yo le pedido la ratonera
+
+M:  küna yemengeki
+C: iban a buscar la ratonera
+
+M:  kiñe mol küna 
+C: una ratonera
+
+M: ka folil poleo
+C: tambieb raiz de Poleo
+
+M:  konki feychi pu' l'awen' küpalngeki
+C: entran esos remedios, lo traen
+ 
+M: rukamew
+C: a la casa
+
+M:  fey <uh> eñumko nieki che
+C:  y tienen agua tibia
+
+M: wskünko kiñepchi karumu 
+C: agua hervida en un vasito
+
+M: tukungeki tüfachi epu l'awen'
+C: colocan esos dos remedios
+
+M:  chi mol küna
+C: es ratonera 
+
+M:  ka chi folil poleo
+C: tambien la raiz del Poleo
+
+M:  fey feychi pichi karu kay 
+C:  y en ese vasito 
+
+M: niengeki kiñe mesa mu 
+C: lo tienen en una mesita chica
+
+M: wenuleki 
+C: esta encima
+
+M: fey ka <uh> yemengeki chi azukura
+C: y tambien va a buscar el Azucar
+
+M:  kiñepchi kucharamu
+C: en una cucharita
+
+M:  niengeki 
+C: se tiene
+
+M: fey lüpüm lüpüm ngeki chi azucura
+C: y se quema esa Azucar
+
+M:  kiñe kiñepchi aylen tukungeki
+C: una brasita se coloca 
+
+M: chi pu' <*SPA>cuchara
+C: dentro de la cuchara
+
+M:  fey lüfki chi azucura
+C: y se quema la Azucar
+
+M:  fey wütrunamngeki ko
+C: y se le hecha agua
+
+M:  fey chi pichi karu mu llemay 
+C: en ese vasito claro
+
+M: fey taku kunungeki 
+C: y lo dejan tapado
+
+M: fey areleyem chi l'awen' .
+C: y cuando el remedio esta caliente.
+
+nmlch-nfmch_x_0098_nfmch_00: 
+M: Fey pütokongeki chi kutran 
+C: Y se les da de beber al enfermo
+
+M: külellimay
+C: si es que lo esta
+
+M:  fey chi kutran pütokonieyem
+C: y ese enfermo lo esta bebiendo
+
+M:  <uh> küme nagay tami suam pingeki
+C: se siente bien dicen 
+
+M:  mongetuaymi pingeki chi kutran
+C: te vas a sanar le dicen al enfermo
+
+M:  fey inche ta
+C: asi yo
+
+M:  küme kümekunuki 
+C: lo deja muy bien 
+
+M: feychi l'awen'
+C: ese remedio
+
+M:  kuduyem che
+C: cuando la persona se acuesta
+
+M: kudukunuyem che 
+C: cuando se acuesta
+
+M: fey ekullkakangeki 
+C: y lo dejan bien tapado
+
+M: fey <*SPA>este kürüftunuam
+C: para que no les de viento
+
+M:  ka arenoam fey chi kutran
+C:  para que el enfermo no le de fiebre
+
+M:  putokoyem no
+C: cuando bebe no
+
+M:  fey wüla mongeki chi kutra
+C: de ahí recien se mejora el enfermo
+
+M:  fey küme kunukeyu
+C: y eso lo deja bien
+
+M:  sinteriamu winka l'awen
+C: el remedio huinca para la Sinteria
+
+M:  may ta ka mülepi 
+C: tambien debe haber
+
+M: inche ta kimlan
+C: yo no lo se
+
+M:  fey feychi l'awen' kimnien
+C: y yo conosco remedios
+
+M:  fey allküken ka 
+C: y tambien lo he escuchado
+
+M: <*SPA>este  feychi l'awen' kümi
+C: este remedio es bueno
+
+M: pingeki 
+C: se dice
+
+M: fey llemay asümnefin.
+C: eso claro que lo se.
+
+nmlch-nfmch_x_0099_nmlch_00:
+M: Mülerki l'awen' ka.
+C: Tambien hay remedio.
+
+nmlch-nfmch_x_0100_nfmch_00: 
+M: May.
+C: Sí.
+
+M: Müli.
+C: Hay.
+ 
+nmlch-nfmch_x_0101_nmlch_00: 
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M:  Kümey tati lamngen
+C: Es bueno pues hermana
+
+M:  fey tüfichi mol küna 
+C: y esa ratonera
+
+M: fey tunteg
+C: eso es efectivo
+
+M: ¿ tüfey kachu l'awen' 
+C:¿Sera un remedio de pasto
+
+M: kam mamüll l'awen' tüfey.?
+C: o u remedio leñoso?
+
+nmlch-nfmch_x_0102_nfmch_00: 
+M: May.
+C: Sí.
+
+M: Alüki chi kachu
+C: Son pastos grandes
+
+M:  kachu küna
+C. pastos, ratoneras
+
+M:  alükey chi folil l'awen'
+C: son grandes las raices del remedio
+
+M:  tüfachi küna folil ligey 
+C: estas raices de la ratonera so largas
+
+M: chi tapül fey karüy 
+C: y su hoja es verde 
+
+M: mol llemay yemengeki <uh> folil küna
+C: ratonera claro les van a buscar sus raices
+
+M:  mol fey llemay
+C: ratonera eso claro
+
+M:  nentumengeki mol 
+C: van a sacar la ratonera 
+
+M: feychi folil 
+C: esa raiz
+
+M: welu lig lig küna müten
+C: pero solo ratonera blanca, blanca no mas
+
+M:  chi folil külelu 
+C: tiene raiz 
+
+M: fey müten konki
+C: eso no mas entra
+
+M:  kiñe changül küwüfentelu peno 
+C: como el porte de unos dedos de la mano
+
+M: fentechi küna konki
+C: ratonera de ese porte entra
+
+M:  katrüngeki kuchillo mew
+C: lo cortan con el cuchillo
+
+M:  fey konki llemay.
+C: eso entra claro.
+ 
+nmlch-nfmch_x_0103_nmlch_00: 
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M:  Küme lawen reke tüfi.
+C: Un buen remedio es e se.
+
+nmlch-nfmch_x_0104_nfmch_00:
+M: May.
+C: Sí.
+
+M:  Rume küme l'awen'.
+C: es muy buen remedio.
+ 
+nmlch-nfmch_x_0105_nmlch_00: 
+M: May.
+C : Sí.
+
+M: May.
+C: Sí.
+
+M:  May. 
+C: Sí.
+
+M: Kümi tati lamngen
+C: Es bueno pues hermana
+
+M:  feyta pengi
+C: eso lo ven 
+
+M:  ta l'awen' kutran mew 
+C: es remedio para el dolor
+
+M: fey ayiwün kechi mongelefuy che ka.
+C: y alegremente se encuentra sana la persona.
+
+nmlch-nfmch_x_0106_nfmch_00:
+M: May.
+C: Sí.
+ 
+nmlch-nfmch_x_0107_nmlch_00: 
+M: Feyti nga müli nga kiñe l'awen' 
+C: Para ello existe un remedio
+
+M: kaspa pingeki 
+C: caspa le dicen
+
+M: ka yewen ngeki ta chemu
+C: es vergonzoso tambien en las personas
+
+
+M: wentru ngeay rume
+C: que sea hombre
+
+M:  somo ngey rume
+C: que sea mujer
+
+M:  müleki ta kaspa 
+C: hay caspa
+
+M: lonkomu fulu fulungeki
+C: en la cabeza se encuentra esparcido
+
+M:  mülepefuy champu
+C: supuestamente hay Shampoo
+
+M:  kafon 
+C: Jabon
+
+M: ¿kam kam mapuche ni ngüneluwün mu
+C: ¿ o en el saber del mapuche
+
+M: chi mülerkefuy l'awen'.?
+C: existe el remdio?
+
+nmlch-nfmch_x_0108_nfmch_00:
+M: May.
+C:  Sí.
+
+M:  Rüme weda kunuki che kaspa llemay
+C: Hace muy mal la persona la caspa, claro
+
+M:  che tikün küleki 
+C: la persona esta como locro
+
+M: feychi leki 
+C: se parece a eso
+
+M: feychi chulla kutran lonko
+C: esa enfermedad de la cabeza
+
+M:  no kutran lonko pikefingün
+C: enfermedad de la cbeza le dicen, no
+
+M:  chi tikün reke 
+C: eso como locro
+
+M: lingayentuki 
+C: se ve blanco
+
+M: pichike chemu tripaki
+C: en los niños sale
+
+M:  ka füchakechemu ka tripaki
+C: tambien sale en los mayores
+
+M:  chemu chi ta tripakelu
+C: no se porque sera que sale
+
+M:  welu müli l'awen'
+C: pero hay remedios
+
+M: <uh> feyñi müñall petew 
+C: que lo disminuye
+
+M: chi kutran 
+C: esa enfermedad
+
+M: müley fey kümeke lonko nieki
+C: hay y tiene un lido pelo
+
+M:  ka che no nien inche kaspa
+C: la persona que no tiene caspa
+
+M:  fey inche kimnen ka
+C: y tambien eso yo lo se
+
+M:  chi kimnefin chi l'awen' 
+C: conozco ese remedio
+
+M: winka ta torongil kuyano pi.
+C: los huinca le dicen Toronjil Cuyano.
+ 
+nmlch-nfmch_x_0109_nmlch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmch_x_0110_nfmch_00: 
+M: Mapuche ta waka kachu piki.
+C: Los mapuche dicen Pasto de Vaca.
+
+nmlch-nfmch_x_0111_nmlch_00:
+M:  ¡Awem.!
+C: ¡Que admirable!
+
+nmlch-nfmch_x_0112_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Fey yenengeki chi kachu 
+C: Y van a buscar ese Pasto
+
+M: ti waka kachu 
+C: ese Toronjil Cuyano
+
+M: küpalngetukerki ruka mew
+C: lo taren a la casa
+
+M:  kiñeche nien kaspa
+C: tengo lguns caspas
+
+M:  fey kiñe lavatorio mu 
+C: y en un lavatorio
+
+M: kütrükangekerki chi waka kachu
+C: lo estrujan bien ese Toronjil Cuyano
+
+M:  kütrüfingeyem tukungeki lonkomu
+C: y lo estrujado se coloca en la cabeza
+
+M:  <uh> kücha ngeki chi lonko
+C: se lava la cabeza
+
+M:  feymu welu inche
+C: pero por eso yo
+
+M:  ta soy 
+C: ahora mas
+
+M: kümekunuki piken
+C: lo dejo bien pienso
+
+M: dey küchayan lonko 
+C:  eso para lavar la cabeza
+
+M: kiñechi rupay chi kafon
+C: se pasa una vez el Jabon
+
+M:  rupay champu
+C: se le pasa Shampoo
+
+M:  lif külewetuy chi lonko 
+C: queda limpia la cabeza
+
+M: fey piki ñi chaw
+C: asi dice mi padre
+
+M:  fey küme kunu ngeki chi lonko 
+C: y asi lo dejan bien la cabeza
+
+M: pos lonko kümekelay pingeki
+C: el sucio de la cabeza no es bueno
+
+M: pin sungu müleki
+C: de esos comentario habian
+
+M:  inche allküken
+C: yo he escuchado
+
+M:  inche fem femkimneken
+C: yo así lo he sabido
+
+M:  allkütuken inche ngütram
+C: yo escucho las conversaciones
+
+M:  feymu ñuke engu
+C: por eso con mi madre
+
+M:  kiñekemu küpaki kim keche
+C: algunas veces vienen personas sabias
+
+M:  ka kimlu kümeke l'awen'
+C: tambien saben de buenos remedios
+
+M:  fütakeche
+C: los ancianos
+
+M:  allkütuken
+C: lo he escuchado
+
+M:  kom kimneken
+C: todo lo sabia
+
+M:  fey inche ta fey piken ka.
+C: asi yo digo esto.
+
+nmlch-nfmch_x_0113_nfmch_00: 
+M: Wüne küchangi chi lonko
+C:  Primero se lava la cabeza
+
+M:  fey <uh> de pie le tufiriki che 
+C: y eso lo hacen de pie
+
+M: chi waka kachu
+C: el Toronjil Cuyano
+
+M:  ütüfnamngeki lonkomu 
+C: se deja caer en la cabeza
+
+M: ka ngüñküsngeki lomkomu
+C: y lo masjean en la cabeza
+
+M:  fey küme nawkichi lonko
+C: y asi queda bien el pelo
+
+M:  fisküki no
+C: se refresca, no
+
+M:  fey ka antüfey ngewetukelay chi kaspa
+C: y al otro dia esa caspa desaparece
+
+M:  amutuki.
+C: se va.
+
+nmlch-nfmch_x_0114_nmlch_00: 
+M: Ngewetukelay.
+C: Se acaba.
+ 
+nmlch-nfmch_x_0115_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Ngewetukelay
+C: Ya o queda
+
+M:  re kurületuki chi lonko müley.
+C: solo se ve negro el pelo.
+ 
+nmlch-nfmch_x_0116_nmlch_00: 
+M: Küme sungü erke 
+C: Es un buen asunto eso
+
+M: ti pelngimi ti we l'awen'.
+C: te encontraro ese nuevo remedio.
+
+nmlch-nfmch_x_0117_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Küme l'awen' ngi .
+C: Es un buen remedio.
+
+nmlch-nfmch_x_0118_nmlch_00:
+M: Münawesakay 
+C: Es muy malo
+
+M: tüfi waka kachu
+C: ese Toronjil Cuyano 
+
+M:  tuchipüle rume tripaki 
+C: sale por donde sea
+
+M: kam kiñekemu müten müleki tüfi .
+C: o algunas veces no mas eso se encuentra.
+ 
+nmlch-nfmch_x_0119_nfmch_00:
+M:  Chi waka kachu
+C: Ese toronjil Cuyano
+
+M:  elalkaleki 
+C: se ve muy lindo
+
+M: müleki <uh> liniamu 
+C: se encuentra en la linea
+
+M: müleki chew müleki kullin 
+C: se encuentra donde estan los animales
+
+M: feymu kurünaw
+C:  por eso se ve verde oscuro
+
+M:  tremki chi waka kachu
+C: así crece ese Toronjil Cuyano
+
+M:  ka tripaki <*SPA>jardin mu
+C: tambien sale en el Jardin
+
+M:  inche ñi <*SPA>jardin 
+C: en mi Jardin
+
+M: ka nien waka kachu
+C: tambien tengo Toronjil Cuayano
+
+M:  kiñeke tripaki 
+C: salen algunos
+
+M: elalkaleki 
+C: se ven muy lindos
+
+M: y kollünkemu tripakelay
+C: y no sale en zonas humedas
+
+M:  vegamu tripakelay 
+C: no sale en las vegas
+
+M: ngelay chewpüle rüpümu
+C: no hay por alla en el camino
+
+M:  ka tripakelay
+C: también no sale
+
+M:  re inche peken linia müleki.
+C: yo solo he visto que hay en la linea.
+
+nmlch-nfmch_x_0120_nmlch_00: 
+M: Newen ngechi mapumu perke.
+C: En tierras duras entoces.
+ 
+nmlch-nfmch_x_0121_nfmch_00: 
+M: May.
+C: Sí.
+
+M: Newen ngelu mu.
+C: En durezas.
+ 
+nmlch-nfmch_x_0122_nmlch_00:
+M: Inawentukeperki reke tüfi 
+C: como si lo sacara siguiendo
+
+M: mapumew 
+C: en la tierra
+
+M: chumngechi ta newen ngechi
+C: como si tuviera fuerza
+
+M:  mapumu tripakelu
+C: que sale en la tierra
+
+M:  fey ka feymu am mülekel;u
+C: y esto como en eso hay
+
+M:  feyti chi l'awen' 
+C: esev remedio
+
+M: fey ka femngechi 
+C: eso tambien así
+
+M: ta newen kompukerki
+C: se llega a quedar duro
+
+M: chi lonkomew ka.
+C: en la cabeza tambien.
+ 
+nmlch-nfmch_x_0123_nfmch_00:
+M: May.
+C: Sí.
+
+M:  Femki llemay 
+C: Eso pasa claro
+
+M: feymu feyta chew püle rume
+C: por eso esto en cualquier parte
+
+M:  tripakelay ka chaw
+C: no sale pues padre
+
+M:  fey linia mu.
+C: eso en la linea.
+ 
+nmlch-nfmch_x_0124_nmlch_00: 
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: Ka kiñe kutran müli lamngen
+C: Y tambien haty otra enfermedad hermana
+
+M:  müli nga tüfa
+C: hay ahora
+
+M:  kiñekemu rume iyem itrofill iyagel
+C: algunas veces, cuando se come muchas comidas diferentes
+
+M:  fey fayki iyagel nga lamngen
+C: y asi se fermenta la comida hermana
+
+M: ¿kimfimi fayiyem iyagel kay? 
+C: ¿ sabes tu cuando se fermenta la comida? 
+
+M: pingeki nga 
+C: decian
+
+M: fayki iyagel
+C: se fermenta la comida
+
+M:  chem chi kümefuy
+C: que seria bueno
+
+M:  wecha kunuyem nga 
+C: cuando lo deja mal
+
+M: iyal fayiyem iyagel nga tüfi.
+C: comida cuando se fermenta la comida.
+ 
+nmlch-nfmch_x_0125_nfmch_00: 
+M: May.
+C: Sí.
+
+M: Lamngen müli,
+C: Hermana hay
+
+M:  müli tati 
+C: existe pues
+
+M: che ta ilkangelu 
+C: cuando la persona es glotona
+
+M: kullin trüri ta che
+C: parecen animales las personas
+
+M:  elungelay kiñe iyagel che
+C: no le dan una comida a uno
+
+M:  amuy müten
+C: va no mas
+
+M:  <uh> mal kunueymu tiyechi iyagel pingi 
+C: nos dejo mal esa comida dicen
+
+M: pichiche reke ta femi
+C: hace como a los niños
+
+M:  ta picheche femi 
+C: ahora eso hacen los niños
+
+M: ta pütakeche ka amuli müten 
+C: y los adultos tambien siguen
+
+M: feyta <uh> asemalkiyu che
+C: y eso le hace mal a las personas
+
+M:  chi iyagel llemay tachi che 
+C: esa comida claro, a estas personas
+
+M: fey ingeki
+C:  eso se come
+
+M: kiñe suam
+C:  una necesidad
+
+M:  küpa irmeki che no
+C:  les da ganas de comer no
+
+M:  kiñe suam
+C:  una necesidad
+
+M:  kiñe che iy kasuela
+C:  una persona come cazuela  
+
+M:  fey ituy <%> ilay eñumko
+C:  y eso vuelve a comer, agua tibia
+
+M:  feyta malkunukiyu ta che
+C:   eso lo deja mal a uno
+
+M:  iyagel mal kunu ngeki ta che
+C:   por la comida  le dejan el mal a las personas
+
+M:  yi tati che
+C:  come pués la persona
+
+M:  ka antü llemay
+C:   otro día claro
+
+M:  üna ki kümelekelay ñi pel
+C:  pica no se queda tranquilo su garganta
+
+M:  kutranki lonko che
+C:   le duele su cabeza a la persona
+
+M:  felelu epeke rapiki.
+C:   cuando esta así, vomita.
+
+nmlch-nfmch_x_0126_nfmch_00: 
+M: Fey kümelekelay pel
+C:  Así no se queda bien la garganta
+
+M:  newenngekelay ka 
+C:   no tiene fuerza también
+
+M: fey ilchen kunuy
+C:  y deja a las personas sin comer
+
+M:  kiñepichin fey yetukunuc
+C:  un poco y lo llevo
+
+M:  rapiyawki 
+C:  andaba vomitando
+
+M: peltuyawki trewa reke
+C:  andaba su garganta como perro
+
+M:  fey <uh> kiñe li tüfachi l'awen'
+C:  y existe uno de estos remedios
+
+M:  chi che <uh> feypingeki chi che
+C: esas personas, a uno les dicen a las personas
+
+M:  feypingey 
+C:  les dijeron
+
+M: kutran 
+C:  al enfermo
+
+M: inche eluayu l'awen' pingeki chi che, 
+C:   yo te voy a dar remedio les decían a las personas
+
+M: inche felekellen llemay
+C:  yo he estado así, claro
+  
+M:  kuyfi
+C:  antes
+
+M: kiñe  tufin tüfachi kutran 
+C:  una ves me contagie de esta enfermedad
+
+M: trewa kutran 
+C: enfermedad de perro
+
+M: y küpa ikelan
+C:  y no me daba ganas de comer
+
+M:  küpa umaküleken müten
+C:   no daba ganas de dormir
+
+M:  fey ñi ñuke <uh> l'awen' tuayu pienew
+C:  y mi madre me dijo que me iba remediar
+
+M:  ñi ñuke 
+C:   mi madre
+
+M: tamu fey fill l'awen' kimnelu 
+C:  aquí y con distitos remedios
+
+M: ¡ya! pin inche 
+C:  ¡ ya!  Dije yo
+
+M: fey ñi ñuke <uh> chadi tuyu pienew
+C:  y mi madre me dijo que iba a dar sal
+
+M: inche ta chadi.
+C:  yo la sal.
+
+nmlch-nfmch_x_0127_nfmch_00: 
+M: Kiñe kuchara chadi chi, elungean pien
+C: Una cucharada de sal es, y me van a dar dije 
+
+M:  fey llikafun
+C:  y me dio susto
+
+M:  karü chadi pin 
+C:   vaso de sal dije
+
+M: inche alümejor 
+C:  yo alomejor 
+
+M: rapituafin chi che pin
+C:  voy ha vomitar la persona dije
+
+M:  inche fey llikanawfun 
+C:   a mi me había dado miedo
+
+M: epe piwetulafun 
+C:   casi ya no quería
+
+M: fey ñi ñuke feypi
+C:  y mi madre dijo
+
+M:  llikakilnge pienew
+C:   no tengas miedo
+
+M:  inche <uh> l'awen' tuayu
+C:  yo te voy a remediar
+
+M:  küme l'awen' pienew
+C:  buen remedio me dijo
+
+M:  fey ñi ñuke
+C:   y mi madre
+
+M:  pidi chi chasi
+C:  pidio la sal
+
+M:  ka tuy kiñe kuchara
+C:  y tomo una cuchara
+
+M:  fey wüla llikanaün
+C:  de ahí recién me volvi asustar
+
+M:  kiñechi fey küme nentuy kuchara mu
+C:  una ves sacó bien con la cuchara
+
+M:  kotuafin chi kiñe pichin chadi pi
+C:  voy lavar la cara con ese poco de sal dijo
+
+M:  feymu llikawetulan inche
+C:  por eso ya no me asustaba yo
+
+M:  kiñe pichin chi pefin chi chadi 
+C:   vi un poco de esa sal
+
+M:  wente wente kütral
+C:   encima, encima del fuego
+
+M:  tukupufi chi kuchara
+C:  lo fue poner la cuchara
+
+M:  fey kiñe pichin chadi
+C:  y un poco de sal
+
+M:  mesifi külen
+C:   estaba medido
+
+M:  kucharamu 
+C:  con la cuchara
+
+M: kiñepchi latamu
+C:  con una lata chica
+
+M:  fey naüfi chi pichin chadi
+C:   ahí dejo caer un poco de sal
+
+M:  küme kuchara mu müten
+C:   en una buena cuchara no más
+
+M:  fey ka llemay <uh> nieyin areko.
+C:    y por eso claro  es que teníamos un poco de agua tibia.
+ 
+nmlch-nfmch_x_0128_nfmch_00:
+M:  Ñi ñuke 
+C:  Mi madre
+
+M: fey ka kiñepchi karu turki f
+C:  también había tomado otro vasito
+
+M:  <uh> seu lüf lu chi chasi 
+C:  cuando ya se había quemado la sal
+
+M: fey ñi ñuke wütruymafi chi kotrün chasi
+C:  y mi madre lo lavo co esa salmuera salada
+
+M:  arekomu 
+C:  con agua caliente
+
+M: waskü waskü ngechi komu llemay
+C:  con agua hirviendo claro
+
+M:  fey <uh> chi pichi karumew
+C: en esa piedra chica
+
+M:  elfichi chadi chadi l'awen'
+C:  lo dejo esa sal
+
+M:  areko engu
+C:  con agua caliente
+
+M:  fey takukunungi 
+C:  y lo dejaron puesto
+
+M: fey arof naülu
+C:  así llegó a transpirar
+
+M:  fey rupay parese
+C:  y con eso pasó parece
+
+M:  <uh> rupay
+C:  pasó
+
+M:  pepi rupalafuy ñi kutran
+C:  no podí pasar mi dolor
+
+M:  fey llakonawlu pienew
+C:  y cuando se entibie me dijo
+
+M:  fey pütokoafimi pi 
+C:   ahí lo vas atomar me dijo
+
+M: fey rupay
+C:  y pasó
+
+M:  <uh> rupaychi chi 
+C:   cuando pasó
+
+M: era fey, fey pütokofin
+C:  era eso, y lo tomé
+
+M:  tüfachi <uh> salmora piki ta winka
+C:  esta salmuera dicen ta winka
+
+M: tüfa chi chadi ko 
+C:  los huincas esta salmuera
+
+M: pütokofin inche epeke rapin.
+C:  lo tomaba yo, y casí vomitaba.
+
+nmlch-nfmch_x_0129_nfmch_00:
+M:  Newen ngelan inche 
+C:  no tenía fuerza yo
+
+M: fey lelinefin 
+C:  y eso lo estaba mirando
+
+M: ¿Chumngechi sewmafel tüfachi l'awen'?
+C:  ¿Cómo lo haría éste remedio?
+ 
+nmlch-nfmch_x_0130_nmlch_00: 
+M: May.
+C:  Sí.
+
+M: May.
+C: Sí
+
+M:  May.
+C: Sí.
+
+nmlch-nfmch_x_0131_nfmch_00:
+M:  Ka kiñe ajo kuwey, ñi ñuke.
+C:  Y un ajo también es bueno, mi madre.
+
+nmlch-nfmch_x_0132_nmlch_00: 
+M: May.
+C:  Sí.
+ 
+nmlch-nfmch_x_0133_nfmch_00:
+M:  Fey pütokolenew 
+C:  Eso me hizo tomar
+
+M: ta kiñepchi karumu
+C:  esto en un vasito
+
+M:  ka pichi karumu
+C:  también en vaso chico
+
+M:  chewchi sewmafi chi l'awen'
+C:   dónde lo haría ese remedio
+
+M:  feymu no medilenew
+C:  con eso no me lo midio
+
+M:  kiñepchi vasitumu pichin
+C:   en uu vasito chico un poco
+
+M:  pichi vasumu müten
+C:     en vaso chico nomás
+
+M:  pichi karu fey llemay pütokofin inche
+C:   en un vaso chico claro que lo tomé yo
+
+M:  fey llikalan
+C:  y eso no le tuve miedo
+
+M:  fey inche pütokofilu chadi
+C:  y cuando yo  tomé la sal
+
+M:  müte kotrürkelay <%> kotrülay 
+C:  no era muy salada, no era salada
+
+M: türpu
+C: nada
+
+M:  kiñe pichin fey fey pütokofin
+C:   un poco de eso y lo tomé
+
+M:  küme kümetufin une
+C:   lo deguste primero
+
+M:  fey kotrürkelay
+C:    y no era salado
+
+M:  fey pütokofin kom
+C:  y eso lo tomé todo
+
+M:  fey ñi ñuke 
+C:   y mi madre
+
+M: <uh> treway mangen ñi <*SPA>estomago
+C:   me enfriaron mi estómago
+
+M:  piuke nagay tati pienew
+C:   el corazon se va bajar  pues me dijo
+
+M:  fey ñi ñuke anükunuwnge pienew llemay
+C:   entonces mi madre me dijo quedate sentado
+
+M:  feypienew 
+C:  me dijo
+
+M: anün.
+C:  me senté.
+
+nmlch-nfmch_x_0134_nfmch_00: 
+M: Fey fey tañi rapilan inche
+C:  entonces yo no vomité
+
+M:  l'awen' 
+C:   remedio
+
+M:  inchin l'awen'
+C:  nosotros remedio
+
+M:  como dew nagli chi antü llemay
+C:    como  que el sol ya estaba bajando claro
+
+M:  inche ilan ka
+C:   yo no comí tampoco
+
+M:  chem rume ilan
+C:   no comí nada
+
+M:  fey pun nawlu 
+C:    y cuando cayó la noche
+
+M: fey kuwey aju pipeyu nga
+C:   y el ajo es bueno te había dicho pues
+
+M:  tayi litunekiyu chi ajo
+C:    denante te tengo listo tu ajo
+
+M:  fey kudumiayu pienew
+C:    y te vas acostar me dijo
+
+M:  naglechi antü 
+C:   cuando caiga el día
+
+M: petu pun'i 
+C:  esta anocheciendo
+
+M: fey ngüñuaymi pienu
+C:   y te dara hambre  me dijo
+
+M:  vey güñomuwün 
+C:   y me traté
+
+M: fey küme nahi ñi iyal 
+C:  y cayó bien la comida
+
+M:  pelu ekulsungunolu
+C:   cuando vio dejo las cosas
+
+M:  fey kiñe müten may 
+C:   y uno nomás si
+
+M:  küme nawtuy ñi iyal
+C:   cayó bien mi comida
+
+M:  küpa rapiwetulan
+C:   ya no tenía deceos de vomitar
+
+M:  küpa iyal
+C:   vino la comida
+
+M: entungewelay, küpa yin
+C:  ya no sacaron más, me dio ganas de comer
+
+nmlch-nfmch_x_0135_nfmch_00:
+M:  Feula ngüñüñ ngüñütun  tüfey
+C:  Recién me dio hambre, me dio apetito pues
+
+M:  ngüñumetew kay tati
+C:   me hizo dar apetito pues
+
+M:  ka küme kunumi chi l'awen' 
+C:   también lo fue hacer bién el remedio
+
+M: fey ñuke feypifin ngüñün  
+C:   y mi madre le dije que tenía hambre
+
+M: ngüñüymi pienew may 
+C:  te dio hambre me dijo si
+
+M:  fey ilayay pienew
+C:    y no vas ha comer me dijo
+M:  ka pichi mongetunge pienew
+C:   que te mejores un poco más me dijo
+
+M:  fey inche müna ngüñülefulu kay tati 
+C:   y como yo estaba con harto apetito pues
+
+M: kiñe che kutranküleyem
+C:   una persona cuando esta enferma
+
+M:  küpa ikelay rume
+C:   no le da ganas de comer
+
+M:  küpa iwekelay
+C:   no le da ganas de comer
+
+M:  fey inche 
+C:    y entonces yo
+
+M.  pütokolngi tüfachi l'awen'
+C:   no tome este remedio
+
+M: pun kay tati
+C:  como era de noche pues
+
+M:  ngelay dungu 
+C:   no hay  asuntos
+
+M: fey umaw naulu 
+C:   y cunado me quede dormido,
+
+M: umawtun 
+C:  me dormí
+
+M:  pewman may ta ka
+C:   también soñé además
+
+M: kon rume pay.
+C:   cuando de repente entro.
+
+nmlch-nfmch_x_0136_nfmch_00: 
+M: Feyti pen ka antü wüla
+C:   Y recién ví el nuevo día
+
+M: fey ka antü kunungen 
+C:  y me dejarón otro día
+
+M:  kümelkali ñi duam 
+C:   me sentía bién
+
+M: küpa rapilelan
+C:   estaba con ganas de vomitar
+
+M:  müna newen ngetun
+C:   tenía más fuerza
+
+M:  fey feypifin ñuke
+C:   y le dije a mi madre
+
+M:  kümelkalen ñuke pifin
+C:    estoy bien madre le dije
+
+M:  fey  wütrayin pienew
+C:   y levantemonos me dijo
+
+M:  feula ke ta iyayin pienew inche
+C:    ahora si que vamos a comer me dijo
+
+M:  yin kofke
+C:   comí pan
+
+M:   müna küpa yin
+C:    tengo muchas ganas de comer
+
+M:  ngilumu ka ipun 
+C:   en el vecino también llegué a comer
+
+M:  ngüñülen pipun
+C:  tengo hambre llegué a decir
+
+M:  fey inche müna kümentutufin iyagel
+C:  y me fue gustar mucho esa comida
+
+M:  feyta inchalewetulan
+C:  y ya no me inchaba
+
+M:  küpa rapilewetulan
+C:   ya no tenía más ganas de vomitar
+
+M:  fey chi l'awen'
+C:    y ese remedio
+
+M:  küme kunuenew
+C:   me dejo bien
+
+M:  inche müna kümekunuenew.
+C:    a mi me dejo muy bien.
+ 
+nmlch-nfmch_x_0137_nmlch_00:
+M:  Kümelkaymi ka lamngen.
+C:  Se puso bién pues hermana.
+
+nmlch-nfmch_x_0138_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Kümelkan.
+C:  Me hizo bien.
+ 
+nmlch-nfmch_x_0139_nmlch_00: 
+M: Küme sungu ta tüfey
+C:   Eso es un buen asunto
+
+M:  fey pey nga l'awen'
+C:  eso de encontrar remedio
+
+M: nga mongen mu che 
+C:   y mejorase uno 
+
+M: küme suamki ta che
+C:  se siente bien uno
+
+M:  feyti inche kimlayafun tati
+C:   eso yo no lo sabría pues
+
+M:  chasi anta l'awen' ürke ka fey.
+C:   que la sal también sea remedio.
+
+nmlch-nfmch_x_0140_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Müna küme l'awen' ta chadi.
+C:    Es un muy buen remedio la sal.
+ 
+nmlch-nfmch_x_0141_nmlch_00: 
+M: Ah.
+C: Ah.
+
+M:  Feyti chasi 
+C:   Esa sal
+ 
+M: kiñe pichin chasi
+C:   un poco de sal
+
+M:  kotüngi seyul ngi areko engu
+C:    se le hecha agua, se mezcla con agua tibia
+
+M:  ka nguñumi che 
+C:   y uno se coloca supositorio 
+
+M:  fey anta nahi tachi iyagel.
+C:   y así cae la comida.
+
+nmlch-nfmch_x_0142_nfmch_00: 
+M: May 
+C: Sí.
+
+M: Nahi.
+C:  Baja.
+nmlch-nfmch_x_0143_nmlch_00:
+M: Rumey tüfey.
+C:  mucho eso.
+ 
+nmlch-nfmch_x_0144_nfmch_00: 
+M: Rumey.
+C:  Pasa.
+ 
+nmlch-nfmch_x_0145_nmlch_00:
+M:  Ngewetulay fay iyagel.
+C:   Ya no hay comida fermentada.
+
+nmlch-nfmch_x_0146_nfmch_00:
+M:  Turpu, küme duami ta che.
+C:   Nada,  se siente bien la persona.
+
+nmlch-nfmch_x_0147_nmlch_00: 
+M: Müna küme sungu tüfey lamngen
+C:   Un muy buen asunto es eso hermana
+
+M:  pengi nga l'awen' 
+C:   cuando se encuentra remedio
+
+M: mongeleymuy
+C:   se mejora
+
+M:  pelay nga l'awen' 
+C:    cuando no encuentra remedio
+
+M: fey wesache ngetuki 
+C:   eso si es malo 
+
+M: mapungetuki
+C:   se hace tierra
+
+M:  kiñekemu feyta <uh> pepiluwnoluka
+C:    algunas veces cuando no se halla que hacer
+
+M:  fey kiñekemu ta notulay l'awen' mu che
+C: entonces algunas veces la persona no es capaz con los remedios
+
+M:  feyta wesachengetuki ta tüfey.
+C:   y se es un persona de mala suerte pues.
+
+nmlch-nfmch_x_0148_nfmch_00: 
+M: May.
+C: Sí.
+
+M:  Lamngen
+C:  Hermana
+
+M:  fey femki tati
+C:   y eso pasa pues
+
+M:  welu inche kimnen l'awen' tati
+C:    `pero yo conozco remedio pues
+
+M:  kutraniem pürüm.
+C:    cuando se enferma de inmediato.
+
+M: pütokoken mapu l'awen'.
+C:  tomo remedio de la tierra.
+ 
+h_x_0150_nfmch_008_nmlch_00:
+M:  Kimnefimika.
+C:  Lo conoces pues.
+ 
+nmlch-nfmch_x_0151_nfmch_00:
+M:  May.
+C: Sí.
+
+M:  Kimnefin.
+C:  Lo conozco.
+ 
+nmlch-nfmch_x_0152_nmlch_00:
+M:  Poyenekefimi.
+C:  Le tratas con cariño.
+
+nmlch-nfmch_x_0153_nfmch_00: 
+M: May.
+C: Sí.
+ 
+nmlch-nfmch_x_0154_nmlch_00:
+M: Feyentunefimi ka.
+C:  Y le haces caso también.
+ 
+nmlch-nfmch_x_0155_nfmch_00: 
+M: May.
+C: Sí.
+
+M: May.
+C: Sí.
+
+M: Fenkefin ka kom l'awen' inche.
+C:   Eso hago y también con todos los remedios yo.
+ 
+nmlch-nfmch_x_0156_nmlch_00: 
+M: Küme sungu tati lamngen
+C:   Es una buena cosa pues hermana
+
+M:  feyta ka pichi ta feypiniaen tüfi
+C:   y también me vas decir un poco de eso
+
+M:  ka müli nga kiñe wesa kutran 
+C:    también hay una mala enfermedad
+
+M: wentru ngeay rume 
+C:  aunque sea hombre
+
+M: somo ngeay nga rume
+C:  o sea hombre 
+
+M:  tuki 
+C:   se contagia
+
+M: pichikeche ka kiñekemu tuki 
+C:  los niños a veces lo adquiere
+
+M: fey nga ngüfüllin pingi
+C:  y eso se llama cistitis
+
+M:  ¿tüfey mapuchemu?
+C:  ¿eso en el mapuche?
+
+M:  ¿fey kimlafimi? 
+C:   ¿y eso no lo conces?
+
+M: ¿chumngelu tañi tukenmu?
+C:  ¿cómo se contagia?
+
+M: ¿ chemchi kümefuy ta ngüfillinmu lamngen?
+C:  ¿Qué sería bueno para la cistitis hermana?
+
+M:  müna wesa ta kutrankawki che
+C:  la persona sufre mucho
+
+M:  penoyem l'awen' che
+C:  cuando la persona no encuentra remedio
+
+M: feyta ramtuafin lamngen pipen
+C:   y eso les voy a preguntar la hermana dije
+
+M:  fey kimnefulmi 
+C:  si eso lo supieras
+
+M: sayulafen pichin l'amngen tüfey.
+C:  me lo podrías contar un poco hermana.
+ 
+nmlch-nfmch_x_0157_nfmch_00: 
+M: May.
+C: Sí.
+
+M: Lamngen fey müli ta l'awen' 
+C:  Hermana, si hay remedio
+
+M: we illkutun ngelu
+C:   cuando recién se lo contraído
+
+M:  tüfachi mal de orina piki winka
+C: este el mal de orina dicen los huincas
+
+M:  mapuche ta ngüf willen piki
+C:   los mapuches dicen cistitis.
+
+M:  pepi willituwetunolu chi che 
+C:  cuando no puede orinar la persona
+
+M: tüfachi kutran tuki 
+C:  para eso siente dolor
+
+M: ta pichikeche ka fütakeche
+C:  los niños también los adultos
+
+M:  ka tuki 
+C: también lo contrae
+
+M: welu pichikeche soy tuki
+C:  pero los niños lo contraen más
+
+M:  pichikeche
+C:  los niños
+
+M:  ta <*SPA>este müñetukelay 
+C:  y este no se baña
+
+M: tañi ñuke kiñekemu 
+C:  su madre algunas veces
+
+M: <uh> küchüw püle
+C:  por el ano
+
+M:  ta tungeyem chi pichikeche
+C:  cuando lo toman al niño
+
+M:  nentu tami ropa pingeyem 
+C:  cuando se lo estan sacando la ropa
+
+M: pikelay
+C:  no quieren
+
+M:  lef keawki loco pingi
+C:  anda corriendo como loco
+
+M: awkantual müten 
+C:  para jugar nomás
+
+M: feyta niafin ti pichikeche 
+C:  y lo tendré a estos niños
+
+M: fey chi domo
+C:  y esa mujer
+
+M:  fey femkunuki ñi pichiche 
+C:  y lo deja así a sus niños
+
+M: chumlayay tati piki.
+C:  no le va pasar nada dice.
+
+nmlch-nfmch_x_0158_nfmch_00: 
+M: Welu 
+C:  Pero
+
+M: chumkelay llemay pürüm 
+C:  no le pasa nada claro de inmediato
+
+M: welu rupaki antü
+C:  pero pasan los días
+
+M:  ka rupaki chi antü
+C:  también pasan estos días
+
+M:  feymu ta kiñekemu
+C:  por eso algunas veces
+
+M:  ta <uh> kutranün piki
+C:  estoy enferma dice
+
+M:  ta pichikeche pepi
+C:  cuando los niños no pueden
+
+M:  iketulan ñuke piki 
+C:  no quiero madre dice
+
+M: chumwelan piki 
+C:  no voy hacer nada dice
+
+M: chi pichi domo 
+C:  esa niña
+
+M: chumngeluchi piki
+C:  porque sera dice
+
+M:  fey ramtukillelay chi domo
+C:  y eso es lo que no pregunta la mujer
+
+M:  ¿chemam kutrani pingeki?
+C:  ¿que es lo que duele?
+
+M:  chi pichi che
+C:  y los niños
+
+M:  pepi willitulan ñuke piki 
+C:   no puedo orinar madre dicen
+
+M: fey llemay chi domo
+C:  y claro la mujer
+
+M:  <uh> kintuki kiñe mediko.......  
+C:  busca un médico
+ 
+ 
+

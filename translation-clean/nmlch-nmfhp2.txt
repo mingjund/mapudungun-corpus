@@ -1,0 +1,2315 @@
+; CDR: 00.00 
+; TRV: 00.00 
+; File: nmlch-nmfhp2 
+; Last changes made on 02/08/2001 
+; Transcriber: Flor Caniupil H.
+; Comments:  
+; Traduce: Rosendo Wishka
+
+nmlch-nmfhp2_x_0000_nmfhp_00:
+M: ¿Chuchi kutran pimiam peñi?
+C: ¿Qué enfermedad dijiste hermano?
+
+nmlch-nmfhp2_x_0001_nmlch_00:
+M: <uhm> Feytichi mapukutran 
+C: esa enfermedad propia de la tierra
+
+M: pikey <!1piki> ta taiñ pu mapuche, 
+C:  que dicen nuestra gente mapuche,
+
+M: akukenulu tañi kutran, 
+C: aquella que no le llega su enfermedad,
+
+M: ta chi pu domo ka <P>  ,
+C: a estas mujeres pues, 
+
+M: domo kutrantukelu.
+C: la que anda con la enfermedad de la mujer.
+
+nmlch-nmfhp2_x_0002_nmfhp_00:
+M: May. 
+C: Si.
+
+nmlch-nmfhp2_x_0003_nmlch_00:
+M: ¿Mülepey <!1mülepi> l'awen' fey ka?
+C: ¿Habrá remedio para eso también?
+
+nmlch-nmfhp2_x_0004_nmfhp_00:
+M: Müley <*SPA>pues <!1pu'> peñi, 
+C: Existe pues hermano,
+
+M: ka <P> müley tati <uh>
+C: también existe pues
+
+M: ñi akual domo kutran,  
+C: para que llegue la enfermedad de la mujer,
+
+M: kiñeke müley che,  
+C: hay algunas personas,  
+
+M: wentrungekeyengün 
+C: que pueden ser hombre,
+
+M: ka domongekeyengün 
+C: también pueden ser mujeres,
+
+M: tüfachi pepiluulu  ka tati peñi. 
+C: estos que tienen la habilidad también pues, hermano.
+
+nmlch-nmfhp2_x_0005_nmlch_00:
+M: ¡Aa!.
+C: ¡Ah!.
+
+nmlch-nmfhp2_x_0006_nmfhp_00:
+M: Müley, müley müleyey feyta... <P>
+C: Hay, hay varios de estos...
+
+M: mülekey ta kiñeke domo tati, 
+C: suelen haber algunas mujeres pues, 
+
+M:  ta kutrankaukeyengün ka 
+C: ellas sufren también pues
+
+M: tüfachi kutranmeu.
+C:  con esta enfermedad.
+
+nmlch-nmfhp2_x_0007_nmlch_00:
+M: Akukelay ñi kutranengün ka.
+C: No les llega la enfermedad a ellas pues.
+
+nmlch-nmfhp2_x_0008_nmfhp_00:
+M: May, may.
+C: Sí, sí.
+
+M: <*SPA>O akulu... akul-le ta  
+C:  O cuando llega... si les llega 
+
+M: ka kutrankaukeyengün kiñeke.
+C: sufren mucho algunas.
+
+nmlch-nmfhp2_x_0009_nmlch_00: 
+M: Feley <*SPA>pues <!1pu'>. 
+C: Así es pues.
+
+nmlch-nmfhp2_x_0010_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Feyta doy küme akual 
+C: Para que llegue  mejor
+
+M: ta müley ta l'awen'. 
+C: existe remedio.
+
+nmlch-nmfhp2_x_0011_nmlch_00:
+M: Pitalmeu <%> 
+C: En el hospital
+
+M: pengekelay pingekey <!1pingeki> ta tüfey. 
+C: se dice que no se encuentra eso.
+
+nmlch-nmfhp2_x_0012_nmfhp_00:
+M: Kiñeke ta +/el el/+ elungekey%  l'awen',  
+C: A algunas les dan remedio,
+
+M: l'awen'tu
+C: se remedian,
+
+M: wingkal'awen'tuukeyengün pingey 
+C: se remedian con remedio chileno se dice,
+
+M: welu iñche ta <uhm>  ka kimken 
+C: pero yo he sabido también
+
+M: ta  domo pepiluulu feytachi l'awen'meu 
+C: de la mujer que es entendida en este tipo de remedios
+
+M: tüfachi kutranmeu.
+C: para esta enfermedad.
+
+nmlch-nmfhp2_x_0013_nmlch_00:
+M: ¡Aa!
+C: ¡Ah!
+
+M: ¿Müleymay? 
+C: ¿Entonces hay (remedio)?.
+
+nmlch-nmfhp2_x_0014_nmfhp_00: 
+M: May.
+C: Sí.
+
+M: Müley feyta <P> 
+C: Existe éste, 
+
+M: feymeu ta kellungekey
+C: por eso se le ayuda
+
+M: akual feytichi domokutran.
+C: para que llegue esa enfermedad de la mujer.
+
+nmlch-nmfhp2_x_0015_nmlch_00:
+M: Feytichi l'awen'. 
+C: Ese remedio.
+
+nmlch-nmfhp2_x_0016_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Küme akual ka <*SPA>pues <!1pu'> newe kutrantu...
+C: para que llegue bien también pues y para que el dolor no sea tan fuerte...
+
+nmlch-nmfhp2_x_0017_nmlch_00:
+M: ...Kutrankaunual.
+C:  ...Para que no sufra.
+
+nmlch-nmfhp2_x_0018_nmfhp_00: 
+M: May.
+C: Sí.
+
+M: Newe kutrankaunual domo. 
+C: Para que no sufra tanto la mujer.
+
+nmlch-nmfhp2_x_0019_nmlch_00:
+M: +/Fey, fey, fey/+ fey 
+C: Sí, sí, sí.
+
+nmlch-nmfhp2_x_0020_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Ka, ka müley tati, 
+C: También, también hay pues,
+
+M: fey may ta newe deuma ta tüfachi pu <uh> wecheke domo,
+C: pero ellas ya no, estas mujeres jóvenes,
+
+M: wecheke che, 
+C: gente jóven,
+
+M: wentrungeyengün <!1wentrungeay> ka newe faliltutulayengün 
+C: son hombres y tampoco volvieron a valorar
+
+M: tüfachi pu  l'awen', peñi, 
+C: estos remedios, hermano,
+
+M: feymu ta ka ta iñchiñ ta kulpaleyiñ tati.  
+C: por eso también nosotros estamos en culpa pues.
+
+nmlch-nmfhp2_x_0021_nmlch_00:
+M: Feley.
+C: Así es.
+
+M: Tüfey chi <!2tüfichi> papeltun am 
+C: Como con lo de estudiar
+
+M: wichunentunieñmaetueu 
+C: nos han separado ellos
+
+M: ñi rakiduam, 
+C: de nuestros conocimientos,
+M: feymu pe <*SPA>que faliltuwetulayengün 
+C: por eso tal vez ya no valoran
+
+M: tañi fütakeche
+C: a sus mayores
+
+M: tañi kimünengün ka.
+C: y sus conocimientos.
+
+nmlch-nmfhp2_x_0022_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Tüfachi  doy falintuiñ, 
+C: A esto valoramos más,
+
+M: ka rakiduam <*SPA>pues <!1pu'> doy faliltufiyiñ.
+C: a otros conocimientos les damos mas importancia pues.
+
+M: Feychi rakiduam 
+C: Ese conocimiento
+
+M: papelmu konkülelu  
+C: que está escrito en papel.
+
+nmlch-nmfhp2_x_0023_nmlch_00: 
+M: Feley <*SPA>pues <!1pu'>
+C: Así es pues.
+
+nmlch-nmfhp2_x_0024_nmfhp_00:
+M: Feyta doy faliltufiyiñ feyti.
+C: Entonces valoramos más eso.
+
+M: Iñchiñ taiñ ngünen, 
+C: Nuestros conocimientos, 
+
+M: iñchiñ taiñ kimün, 
+C: nuestros conocimientos,
+
+M: iñchiñ taiñ rakiduam, 
+C: nuestros pensamientos,
+
+M: doy famnakümtufiyiñ, 
+C: lo hemos valorado menos.
+
+M: Feymu llenuanta kom trawülkawi ta dungu 
+C: Por eso es que se juntan todas las cosas malas
+
+M: ta inchiñ taiñ doy +/welda/+  weda rulpaleal ta mongen, peñi 
+C: y por eso estamos mal en nuestras vidas, hermano,
+
+M: kom ta trawülkawi tati.
+C: todo se junta pues.
+
+nmlch-nmfhp2_x_0025_nmlch_00:
+M: Feley <*SPA>pues <!1pu'>.
+C: Así es pues.
+
+nmlch-nmfhp2_x_0026_nmfhp_00:
+M: Niewetulayiñ ta... 
+C: No nos queda, 
+
+M: niewetulayiñ ta kimün
+C: no nos queda sabiduría,
+
+M: niewetulayiñ ta rüf trokitual ta dungu 
+C: no nos queda en verdad en qué referirnos a algún tema
+
+M: iñchiñ tañi faliltuwal, 
+C: para valorarnos nosotros,
+
+M: feyta feymu ta kom adkawi ta dungu tati.
+C: es por eso que se diversifican los hechos  pues. 
+
+nmlch-nmfhp2_x_0027_nmlch_00:
+M: Kiduengün ta femkünuyengün ka, 
+C: Ellos lo dejaron así pues,
+
+M: pu katripache.
+C: la gente de otra parte(extranjeros).
+
+nmlch-nmfhp2_x_0028_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Kiduengün ta +/fem/+ tüfachi pu che, 
+C: Ellos, esta gente,
+
+M: femkünuafiyiñ ta rakiduam, 
+C: de esta manera dejaremos el pensamiento,
+
+M: femngechi rakiduam +/tur/+
+C: así ese pensamiento pues,
+
+M: femngechi rakiduam turupuay piengün, 
+C: ese tipo de pensamiento tendrán dijeron,
+
+M: feymu ta ...
+C: por eso
+
+nmlch-nmfhp2_x_0029_nmlch_00: 
+M: ...Femkünuyengün
+C: ... Así lo dejaron ellos.
+
+nmlch-nmfhp2_x_0030_nmfhp_00:
+M: Femkünufiengün <*SPA>pu' peñi, 
+C: lo dajaron así pues hermano,
+
+M: iñchiñ ta kimnulu kay tati 
+C: como nosotros no estábamos al tanto pues,
+
+M: iñchiñ <uhm> <P> kidutu...<P> kidutu ta... 
+C: nosotros mismos, nosotros mismos...
+
+M: <P> Re <uhm> +/rup/+rupalmekefiyiñ müten 
+C: Sólo estamos dejando pasar nomás
+
+M: tüfey chi <!1tüfichi> dungu <*SPA>pues <!1pu'> peñi <uh>, 
+C: esas cosas pues, hermano,
+
+M: weychalayiñ ñi... ñi katrütual feytichi dungu. 
+C: no nos preocupamos para... para detener esos hechos.
+
+nmlch-nmfhp2_x_0031_nmlch_00: 
+M: Rulpaniefiyiñ müten
+C: Lo dejamos pasar no más.
+
+nmlch-nmfhp2_x_0032_nmfhp_00:
+M: May, may.
+C: Sí, sí.
+
+M: Re +/nie/+ may ta ka inaniefiyiñ feytichi  dungu.
+C: Además sólo estamos siguiendo esta misma idea.
+
+nmlch-nmfhp2_x_0033_nmlch_00:
+M: Inaniefiyiñ müten ka. 
+C: Solamente lo seguimos pues.
+
+nmlch-nmfhp2_x_0034_nmfhp_00:
+M: Wedake dungu 
+C: Malas ideas
+
+M: feytachi pu katripache ñi... ñi elkunuel <P>, 
+C:  esto que dejaron las personas de afuera,
+
+M: ka doy faliltufiyiñ <%> may.
+C: además les damos más valor pues.
+
+nmlch-nmfhp2_x_0035_nmlch_00:
+M: Inayentufiyiñ <!1inaetufiyiñ> ka. 
+C: Le imitamos además pues.
+
+nmlch-nmfhp2_x_0036_nmfhp_00:
+M: May, may.
+C: Sí, sí.
+
+M: Fey kiñeke pu che may,
+C: Y algunas personas pues,
+
+M: iñchiñ taiñ pu che,  
+C: nuestra gente,
+
+M: ta felelay ta dungu pituyengün.
+C:  es así la cosa dicen ahora.
+
+nmlch-nmfhp2_x_0037_nmlch_00:
+M: Newentuyengün ka%. 
+C: Hacen fuerza entonces.
+
+nmlch-nmfhp2_x_0038_nmfhp_00:
+M: May. 
+C: Sí.
+
+M: Iñchiñ ta newentual ta müley piengün, 
+C: Nosotros debemos hacer fuerzas dicen,
+
+M: feymu ta iñchiñ may ta ka nieyiñ ta kimün
+C: por eso nosotros pues también tenemos conocimientos,
+
+M: nieyiñ ta falindungu piy... 
+C: tenemos conocimietos de mucho valor dice,
+
+M: wüñopitumekeyengün 
+C: están volviendo a decir 
+
+M: taiñ kiñeke pu che,
+C: algunos de nuestra gente,
+
+M: wechekeyengün kiñeke 
+C: algunos jóvenes
+
+M: ka kiñeke ta deuma ta fütrachengeyengün ka, 
+C: y algunos ya mayores o adultos,
+
+M: welu ta... 
+C:  pero...
+
+nmlch-nmfhp2_x_0039_nmlch_00:
+M: Nguyülay tañi kimünengün.
+C: No se olvidaron de sus conocimientos.
+
+nmlch-nmfhp2_x_0040_nmfhp_00:
+M: May, may. 
+C: Sí, sí.
+
+M: Nguyülayengün, 
+C: No se olvidaron,
+
+M: feyta fey küme dungu tati, peñi, 
+C: esto es buena noticia pues hermano,
+
+nmlch-nmfhp2_x_0041_nmlch_00: 
+M: Feley <*SPA>pues <!1pu'>
+C: Así es pues.
+
+nmlch-nmfhp2_x_0042_nmfhp_00:
+M: Feyta küme dungu
+C: Esto es buena idea.
+
+nmlch-nmfhp2_x_0043_nmlch_00: 
+M: Feley tati%
+C: Así es pues.
+
+nmlch-nmfhp2_x_0044_nmfhp_00:
+M: Iñchiñ ta witrampüramtufuliyiñ 
+C: si nosotros volviéramos a levantar
+
+M: taiñ iñchiñ taiñ dungu,
+C: nuestras, nuestras ideas,
+
+M: iñchiñ taiñ kimün, 
+C: nuestra sabiduría,
+
+M: iñchiñ taiñ rakiduam, 
+C: nuestros pensamientos,
+
+M: ta wiñofaliltuafuyiñ tati 
+C: volveríamos a tener valor de ellos pues,
+
+M: wüño ta witrampüramafuyiñ 
+C: volveríamos a levantarlo
+
+M: iñchiñ taiñ... iñchiñ taiñ küme mongeleal.
+C: para nuestro... para nuestro bienestar en nuestra forma de vida.
+
+nmlch-nmfhp2_x_0045_nmlch_00:
+M: <%> Feley.
+C: Así es.
+
+nmlch-nmfhp2_x_0046_nmfhp_00:
+M: Iñchiñ taiñ küme...
+C: Para el bien de nosotros...
+
+nmlch-nmfhp2_x_0047_nmlch_00:
+M: ...Trekarupayautual ka. 
+C: ...Volver a caminar pues.
+
+nmlch-nmfhp2_x_0048_nmfhp_00:
+M: May, trekarupayautual taiñ lelfünmeu 
+C: Volver a caminar en nuestros campos
+
+M: ka küme mongen 
+C: y mejor vida
+
+M: ta wiñowitrampüramtual <*SPA>pues <!1pu'> peñi. 
+C: volver a levantar pues hermano.
+
+nmlch-nmfhp2_x_0049_nmlch_00:
+M: Feley peñi feley. 
+C: Así hermano, así es.
+
+M: Feytichi l'awen' domo kutranngelu 
+C: Ese remedio de la enfermedad de las mujeres
+
+M: ¿fey pütokongekey kam lapomngekey fey?
+C: ¿se bebe o se aplica como masaje ese?
+
+nmlch-nmfhp2_x_0050_nmfhp_00:
+M: Ta... <Cough>
+C: Esta...
+
+nmlch-nmfhp2_x_0051_nmlch_00:
+M: Akunulu tañi domokutran.
+C: Aquella que no le llega la enfermedad de la mujer.
+
+nmlch-nmfhp2_x_0052_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Ta pütokongekey 
+C: Se bebe
+
+M: ka ngüllfüngekey ta domo peñi, 
+C: y aplica como ungüento a la mujer hermano, hermano,
+
+nmlch-nmfhp2_x_0053_nmlch_00: 
+<uhm>
+
+nmlch-nmfhp2_x_0054_nmfhp_00:
+M: May, ta feytichi pepil-luulu tati 
+C: sí, aquella entendida en el tema pues
+
+M: ta kintukey ta ...
+C: ella busca este...
+
+nmlch-nmfhp2_x_0055_nmlch_00:
+M: ...¿Kachu l'awen'%?
+C: ...¿Remedio de hierbas?
+
+nmlch-nmfhp2_x_0056_nmfhp_00:
+M: L'awen'. 
+C: Remedio.
+
+M: May.
+C: Sí.
+
+M: Kachu l'awen' müley, ka...
+C: Hay remedio de hierbas,
+
+nmlch-nmfhp2_x_0057_nmlch_00:
+M: ... Mamüll l'awen', 
+C: ...También remedio de árboles,
+
+nmlch-nmfhp2_x_0058_nmfhp_00:
+M: Mamüll l'awen'  <uh>
+C: Remedio de árboles
+
+M: ta tüfa ta <P> nentungekey, 
+C: también éstos se cogen,
+
+M: kiñeke <P>... kiñeke <P> fünkelu tüfachi... tüfachi ...
+C: algunos... algunos que dan frutos, éste... éste...
+
+nmlch-nmfhp2_x_0059_nmlch_00:
+M: ...¿L'awen'?
+C: ¿Remedio?
+
+nmlch-nmfhp2_x_0060_nmfhp_00:
+M: Tüfachi ...
+C: Este...
+
+nmlch-nmfhp2_x_0061_nmfhp_00:
+M: ...¿Mamüll?
+C: ...¿Arbol?
+
+nmlch-nmfhp2_x_0062_nmfhp_00:
+M: Mamüll peñi ka kiñeke may. 
+C: Arbol hermano, y algunos otros.
+
+nmlch-nmfhp2_x_0063_nmlch_00:
+M: ¡Aa! ¿Kimfimi tüfey?.
+C:¡Ah! ¿Conoces ese (remedio)?.
+
+nmlch-nmfhp2_x_0064_nmfhp_00:
+M: Kiñeke iñche ta +/kim/+ kimnien, 
+C: Yo conozco algunos, 
+
+M: ta kiñeke konkelu,  
+C: algunos de éstos que se aplican,
+
+M: welu ta kom tüfachi l'awen' konkelu 
+C: pero todos estos remedios que se necesitan
+
+M: ta +/kim/+ kimnielan, 
+C: no lo sé, 
+
+M: kiñeke müten.
+C: algunos solamente.
+
+nmlch-nmfhp2_x_0065_nmlch_00:
+M: ¿Kiñeke?
+C: ¿Algunos?
+
+nmlch-nmfhp2_x_0066_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Kiñeke l'awen' müten ta konkelu
+C: Algunos remedios solamente que se necesitan,
+
+M: welu ta trawülkangekey 
+C: pero se reúne (muchos remedios)
+
+M: tüfachi... tüfachi l'awen'. 
+C: éste remedio.
+
+nmlch-nmfhp2_x_0067_nmlch_00:
+M: ¿Cheu pengekey <!1pengeki> tüfey?
+C: ¿Dónde se encuentra ése?
+
+M: ¿Mawidameu, 
+C: ¿en la montaña,
+
+M: küllegmeu, kollemkemeu kam ...?
+C: en la falda de los cerros, en tierra erosionada o...?
+
+nmlch-nmfhp2_x_0068_nmfhp_00:
+M: May <uh> Mawidameu, 
+C: En lamontaña, 
+
+M: mawidameu may,
+C: en la montaña, sí,
+
+M: mawidameu mülekey 
+C: en la montaña suele estar
+
+M: ka lelfünmeu ta mülekey ka, 
+C: y en el campo suele estar también,
+
+M: tüfachi kachu l'awen' 
+C: estos remedios de pasto, 
+
+M: kiñeke konkelu.
+C: algunos de los que se necesitan.
+
+M: lelfünmeu
+C: en el campo.
+
+nmlch-nmfhp2_x_0069_nmlch_00:
+M: ¿chempingey <!1chempingi> tüfichi 
+C: ¿Conocerás ese
+
+M: mamüll l'awen' fünkelu?
+C: remedio de árbol que da frutos?
+
+nmlch-nmfhp2_x_0070_nmfhp_00:
+M: ¿Chem?
+C: ¿Qué?
+
+nmlch-nmfhp2_x_0071_nmlch_00:
+M: ¿Iney pingey feychi fünkechi mamüll?
+C: ¿Cómo se llama ese árbol que da semilla?
+
+nmlch-nmfhp2_x_0072_nmfhp_00:
+M: Tüfa <P> konkey ta 
+C: Aquí entra este
+
+M: tüfachi kolümamüll, 
+C:  el arrayan,
+
+nmlch-nmfhp2_x_0073_nmlch_00: 
+M: Kolümamüll
+C: Arrayán.
+
+nmlch-nmfhp2_x_0074_nmfhp_00:
+M: May, kolümamüll konkey 
+C: Sí,el arrayan entra
+
+M: feyta ka tüfachi fünkelu.
+C: y también esta que da frutos.
+
+M: Kurü fün' nielu peñi, 
+C: El de semilla negra, hermano,
+
+M: ingekelay welu,
+C: pero no se come,
+
+M: niey ka fün' <uhm>
+C: también tiene semilla;
+
+M: tüfachi pu kiñeke üñüm ilu 
+C: algunos pajaros que lo comen
+
+M: ta ngollikey pingekeynga, 
+C: se marean se dice también,
+
+M: lliñe, liñe
+C: es el ligue.
+
+nmlch-nmfhp2_x_0075_nmlch_00:
+M: ¿Lliñe?
+C: ¿Ligue?
+
+nmlch-nmfhp2_x_0076_nmfhp_00:
+M: may, 
+C: sí, 
+
+nmlch-nmfhp2_x_0077_nmlch_00:
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-nmfhp2_x_0078_nmfhp_00: 
+M:  Re ...
+C: Puro...
+
+nmlch-nmfhp2_x_0079_nmlch_00:
+M: ¿Pengekey <!1pengeki> müten 
+C: ¿Se mira solamente
+
+M: ¿ñi fün' iñmangekelay?
+C: ¿su fruto no se come?
+
+nmlch-nmfhp2_x_0080_nmfhp_00:
+M: <*SPA>No tüfachi <P> +/no ta no/+
+C: No ésta, no ésta,  si...
+
+M: tüfachi... tüfachimay ...
+C: éste... éste pues...
+
+nmlch-nmfhp2_x_0081_nmlch_00:
+M: ¿Üñi?
+C: ¿Murtilla?
+
+nmlch-nmfhp2_x_0082_nmfhp_00:
+M: ¿Chem <uhm> trolüf mamüll?
+C: ¿Qué cáscara de madera?
+
+nmlch-nmfhp2_x_0083_nmlch_00:
+M: Trolüf mamüll,
+C:  Cáscara de madera,
+
+nmlch-nmfhp2_x_0084_nmfhp_00:
+M: Trolüf mamüll <P> kintuntungekey feytameu.
+C: cáscara de madera se busca aquí.
+
+nmlch-nmfhp2_x_0085_nmlch_00:
+M: ¡Aa!.
+C: Ah.
+
+nmlch-nmfhp2_x_0086_nmfhp_00:
+M: May <P> <*SPA>y feytachi ka <P> lelfunmeu mülelu, 
+C: Sí y este que está en otro campo,
+
+M: kiñe pichi kachu
+C: una pequeña hierba.
+
+nmlch-nmfhp2_x_0087_nmlch_00:
+M: Lelfunmeu mülelu.
+C: Que está en el campo.
+
+nmlch-nmfhp2_x_0088_nmfhp_00:
+M: May, welu ta fey... feychi l'awen' müten 
+C: Sí, pero ese... ese remedio nomás
+
+M: konkelay <*SPA>pues <!1pu'> peñi, 
+C: no entra pues, hermano,
+
+M: ka itrofill ka  pichiken  l'awen'; 
+C: otros diversos remedios  en pequeña cantidad;
+
+nmlch-nmfhp2_x_0089_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-nmfhp2_x_0090_nmfhp_00:
+M: Feyta iñche ta <uh> newe ta kimnielan  
+C: Yo no sé mucho (de estos remedios)
+
+M: kom ñi itrofill  l'awen' konkelu tati, peñi.
+C: todos los remedios que se necesitan pues, hermano.
+
+nmlch-nmfhp2_x_0091_nmlch_00:
+M: Fey <uhm> welu müleürkey <!1mülerki>.
+C: Pero entonces existe.
+
+nmlch-nmfhp2_x_0092_nmfhp_00:
+M: Müleürkey müley... 
+C: Y es que existe, existe
+
+M: müley ta tüfachi l'awen' ka  mapumeu, 
+C: existe éste remedio pues en la tierra,
+
+nmlch-nmfhp2_x_0093_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-nmfhp2_x_0094_nmfhp_00:
+M: Mapuche ñi kimünmeu amuley tati peñi.
+C: En el conocimiento mapuche avanza pues, hermano.
+
+nmlch-nmfhp2_x_0095_nmlch_00:
+M: Fey llemay ta kümey ta kimün 
+C: Eso pues es bueno saberlo.
+
+nmlch-nmfhp2_x_0096_nmfhp_00: 
+M: May.
+C: Sí.
+
+nmlch-nmfhp2_x_0097_nmlch_00:
+M: Feyta falindungu ta tüfey 
+C: Estas son ideas valiosas
+
+M: feyta papelkonkülelay, 
+C: y éstas no están escritas,
+
+M: feymu fey kimniengey <!1kimniengi>,  
+C: entonces eso se le conoce, 
+
+M: tüfey rakiduammu müley <!1müli>,  
+C: allí hay pensamientos,
+
+M: Ngünechen elkünuy, 
+C: Ngünechen lo dejó,
+
+M: feymu ta fali ka peñi.
+C: por ello tienne valor, hermano.
+
+nmlch-nmfhp2_x_0098_nmfhp_00:
+M: Feley <*SPA>pues <!1pu'>.
+C: Así es.
+
+M: Iñchiñ taiñ... taiñ mongenmeu tati 
+C: En nuestra  existencia 
+
+M: itrofill dungu mülefuy,  
+C: distintos tipos de cosas existían,
+
+M: kümeke falindungu mülefuy tati, peñi, 
+C: buenas ideas de mucho valor existían pues, hermano,
+
+nmlch-nmfhp2_x_0099_nmlch_00: 
+M: Felefuy llemay.
+C: Así era pues.
+
+nmlch-nmfhp2_x_0100_nmfhp_00:
+M: <uh> Feytichi ka müley ngünen, 
+C: También está ese dominio,
+
+M: <*SPA>y feytichi pu kiñeke che ta 
+C:  algunas personas
+
+M: münaküpa niekeyengün domo yall, 
+C: que quiren tener hija mujer,
+
+M: wentru yall, 
+C: hijo hombre,
+
+M: ka niefuy taiñ rakiduammeu
+C: la descendencia también tenía pensamientos
+
+M: taiñ kimünmeu, 
+C: en nuestros conocimientos,
+
+M: ka mülefuy tati 
+C: también existía pues
+
+M: <*SPA>y  chumkünual ta feytichi choyün
+C: y cómo se debe dejar ese hijo
+
+M: ta niam <*SPA>pues <!1pu'> peñi
+C: para tener pues, hermano.
+
+nmlch-nmfhp2_x_0101_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-nmfhp2_x_0102_nmfhp_00:
+M: May.  
+C: Sí.
+
+M: Kiñeke ta <uh> 
+C: Para alugunos
+
+M: kiñeke ta küpanielu domo yall, 
+C: para algunos  que quieren tener hija mujer,
+
+M: wentru yall, 
+C: hijo hombre,
+ 
+M: ka müley ngünen tati.
+C: también hay dominio pues.
+
+nmlch-nmfhp2_x_0103_nmlch_00:
+M: ¡Aa!.
+C: ¡Ah!
+
+nmlch-nmfhp2_x_0104_nmfhp_00:
+M: Ka mülefuy. 
+C: También existía.
+
+nmlch-nmfhp2_x_0105_nmlch_00: 
+M: Mülefuymay
+C: Había pues.
+
+nmlch-nmfhp2_x_0106_nmfhp_00:
+M: May, mülefuy.
+C: Sí, existía.
+
+M: Feyta iñche ta kimentunien... 
+C:  Pues yo lo conozco...
+
+M: kimentun ta kiñe domo <uh> fül Cholchol ...
+C: a una mujer cerca de Chol-chol...
+
+nmlch-nmfhp2_x_0107_nmlch_00:
+M: ¿Mülelu? 
+C: ¿Vive ahí?
+
+nmlch-nmfhp2_x_0108_nmfhp_00:
+M: Mülelu, 
+C: Vive ahí,
+
+M: mülefulu ka rüf ta ka l'ay 
+C: que vivía pues ya falleció
+
+M: tüfachi domo, peñi.
+C: esta mujer, hermano.
+
+nmlch-nmfhp2_x_0109_nmlch_00:
+M: ¡Aa!.
+C: Ah.
+
+M: Feley ka, feley.
+C: Así es pues, así es.
+
+nmlch-nmfhp2_x_0110_nmfhp_00:
+M: May, iñche kuyfimeu ta <P> trokituken 
+C: Yo encuentro que es de antes
+
+M: ka  tüfachi... tüfachi  kimün. 
+C: también este, este conocimiento.
+
+nmlch-nmfhp2_x_0111_nmlch_00:
+M: +/Fey, fey/+ fey. 
+C: Sí.
+
+nmlch-nmfhp2_x_0112_nmfhp_00:
+M: Feymu ta kimentuniefiñ 
+C: Por eso conocía
+
+M: feytichi domo mülekefulu.
+C: a esa mujer que vivía (o existía).
+
+M: <uh> Fey  iñche yeafulu 
+C: Y yo iba a llevar
+
+M: +/kiñe/+ kiñeke pu weni 
+C: a algunos amigos
+
+nmlch-nmfhp2_x_0113_nmlch_00: 
+M: Fey
+C: Sí.
+
+nmlch-nmfhp2_x_0114_nmfhp_00:
+M: May l'awen'tuwafulu, 
+C: Sí, querían medicinarse,
+
+M: welu ta rulpayengün ta antü, 
+C: pero dejaron pasar los días,
+
+M: rulpayengün ta tripantu, 
+C: pasaron los años,
+
+M: feymu <*SPA>después <!1depue'> wüla ta 
+C: por ello después recién
+
+M: kimtun ñi l'an, 
+C: supe de su muerte, 
+
+M: feytichi pepiluulu feytichi <uh> l'awen'meu may.
+C: de la que era entendida en esos remedios pues.
+
+nmlch-nmfhp2_x_0115_nmlch_00:
+M: ¿Cholchol mapupüle mülefuy ti?
+C: ¿Por el sector de Chol-chol vivía ese?
+
+nmlch-nmfhp2_x_0116_nmfhp_00:
+M: +/füllküle füll/+ Füll Chol-cholpüle 
+C: En las cercanías de Chol-chol, por esos lados
+
+nmlch-nmfhp2_x_0117_nmlch_00:  
+M: Mülefuy
+C: Existía.
+
+nmlch-nmfhp2_x_0118_nmfhp_00:
+M: Mülefuy feytichi domo peñi, 
+C: Vivía esa mujer, hermano,
+
+nmlch-nmfhp2_x_0119_nmlch_00: 
+M: kimniefulu
+C: Que sabía de ello.
+
+nmlch-nmfhp2_x_0120_nmfhp_00:
+M: <%>May, 
+C: sí,
+
+M: feytichi domo ka adümuufuy
+C: esa mujer también era entendida
+
+M: ñi püñeñtuam ta domo.
+C: para que volviera a tener hijo la mujer.
+
+nmlch-nmfhp2_x_0121_nmlch_00:
+M: Feley ka, feley, feley.
+C: Así es pues, así es, así es.
+
+nmlch-nmfhp2_x_0122_nmfhp_00:
+M: May, feyta adümuufuy fey +/ki/+
+C: Esta era entendida 
+
+M: feytichi dungumeumay ta, 
+C: para esos asuntos pues,
+
+M: rüf feychi dungumeu müten
+C: solamnete para esos asuntos nomás
+
+M: ta adümuufuy ta feytichi domo.
+C:  tenía esa don, esa mujer.
+
+nmlch-nmfhp2_x_0123_nmlch_00:
+M: Feley ka. 
+C: Así es pues.
+
+nmlch-nmfhp2_x_0124_nmfhp_00:
+M: Feymu% ñi nietual ta <uh> 
+C: Para volver a tener...
+
+nmlch-nmfhp2_x_0125_nmlch_00:
+M: ...¿Choyün?
+C: ...¿Hijos?
+
+nmlch-nmfhp2_x_0126_nmfhp_00:  
+M: Choyün. 
+C: Hijos.
+
+M: Ta pu domo koñikenulu 
+C: A las mujeres que no pueden tener hijos
+
+M: feyta fey koñilkefuy,
+C: ella pues las trataba para la darles capacidad de tener hijos,
+
+nmlch-nmfhp2_x_0127_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-nmfhp2_x_0128_nmfhp_00:
+M: <uh> koñimtulkefuy; 
+C:  lograba que la mujer volviera a ser fértil;
+
+M: feyta ka adümuufuy: 
+C: de esto también sabía:
+
+M: chem ñi choyün ñi küpa niel ta pu che 
+C: qué descendencia quería tener la gente,
+
+M: may. 
+C: sí.
+
+nmlch-nmfhp2_x_0129_nmlch_00: 
+M: feyta...
+C: Este...
+
+nmlch-nmfhp2_x_0130_nmfhp_00:
+M: Welu, may küpa wentruchoyün ta  nielu feychi pu che 
+C: Pero si la gente quería tener hijo hombre 
+
+M: l'awen'tukefuy, 
+C: los remediaba, 
+
+M: ka femkefuy.
+C: también hacía eso.
+
+nmlch-nmfhp2_x_0131_nmlch_00:
+M: Femkefuymay. 
+C: Hacía eso entonces.
+
+nmlch-nmfhp2_x_0132_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Welu ta müley ta kimünmeu tati,
+C: Pero existe en el conocimiento pues, 
+
+M: iñchiñ taiñ <uh> iñchiñ taiñ pu mapuchengen 
+C: en nuestro... en nuestro ser mapuche
+
+M: ta  müley tati peñi.
+C: esto existe pues, hermano.
+
+nmlch-nmfhp2_x_0133_nmlch_00:
+M: ¿Feychi ngünen müley?
+C: ¿Ese dominio existe?
+
+nmlch-nmfhp2_x_0134_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Müley feyta 
+C: Existe este,
+
+M: kintuntuam ta müley müten tati, 
+C: para saber solo existe pues,
+
+M: müley kiñeke domongepelayengün, 
+C: existen algunas pueden ser mujeres,
+
+M: wentrungepelayengün, 
+C: otros pueden ser hombres,
+
+M: welu ta müley adümuulu feytichi dungumeu. 
+C: pero ahora existe aquel entendido en ese asunto.
+
+nmlch-nmfhp2_x_0135_nmlch_00:
+M: Ngünechen eli ta fey ka. 
+C:  Ngünechen dejó a ése pues.
+
+nmlch-nmfhp2_x_0136_nmfhp_00:
+M: <*SPA>Claro feley <*SPA>pues <!1pu'> peñi 
+C: Claro así es pues, hermano,
+
+M: Ngünechen,
+C: Es Ngünechen,
+
+M: kidungüneu  ta mülelayengün  
+C: por sí solos no están
+
+M: tüfachi pu che, 
+C: estas personas pues,
+
+M: Ngünechen may ta elkünuy.
+C: Ngünechen los ha dejado.
+
+nmlch-nmfhp2_x_0137_nmlch_00:
+M: +/Feley, feley/+ feley.
+C: Así es.
+
+nmlch-nmfhp2_x_0138_nmfhp_00:
+M: Kidutu ta, 
+C: Por sí solos,
+
+M: Ngünechen may ta dulliyuengün <!1dullieyngün>,
+C: pues Ngünechen los elegió,
+
+M: kidutu ta mülelayengün <*SPA>pues <!1pu'> 
+C: por sí solos no están pues, hermano,
+
+M: re felelayengün.
+C: no están solo por estar.
+
+nmlch-nmfhp2_x_0139_nmlch_00:
+M: Küme fütrake falin ngünen ka 
+C:  Son grandes sabidurías de valor pues
+
+M: feyta papelmu ta mülelay ka.
+C:  esto no esta en el papel pues.
+
+nmlch-nmfhp2_x_0140_nmfhp_00:
+M: Rumel ta... rumel ta küme fütrake rakiduam, 
+C: Por siempre... por siempre muy buenos pensamientos,
+
+M: fütrake kimün ta  mülefuy 
+C: grandes conocimientos existían
+
+M: ta iñchiñ taiñ mapuchengenmeu,
+C: en nuestro ser  mapuche,
+
+M: iñchiñ taiñ mongenmeu, 
+C: en nuestro existir,
+
+M: welu ¿chumngeafuy kay? 
+C: pero ¿y qué se le puede hacer?
+
+M: deuma ta mülewelay, 
+C: ya no existe
+
+M: mülelu kiñekeñpüle 
+C: los que existen en algunos lugares
+
+M: ta  newe +/fa/+ faliltungewelay <*SPA>pues <!1pu'> peñi. 
+C: esto ya no lo valoran pues, hermano.
+
+nmlch-nmfhp2_x_0141_nmlch_00:
+M: Kiñeñpüle nentuniengey  
+C: En algunas lo están sacando.
+
+nmlch-nmfhp2_x_0142_nmfhp_00:
+M: May. 
+C: Sí.
+
+M: Kiñeñpüle netuniengey. 
+C:  En algunos lugares lo entán practicando.
+ 
+M: Feyta ta wingka l'awen' pituyengün
+C: Estos remedios huinca dice ahora
+
+M: taiñ pu che kom...
+C: toda nuestra gente...
+
+nmlch-nmfhp2_x_0143_nmlch_00:
+M: ¿Inanietuyengün
+C: ¿Están siguiendo? (el remedio chileno)
+
+nmlch-nmfhp2_x_0144_nmfhp_00:
+M: Inanietuyengün ta wingkadungu, 
+C: Estan siguiendo la idea del chileno,
+
+M: feyta iñchiñ taiñ dungu, 
+C: entonces nuestras ideas,
+
+M: iñchiñ taiñ küme kimün, 
+C: nuestras buenas sabidurías,
+
+M: kümeke  rakiduam, 
+C: buenos pensamientos,
+
+M: ta falintuwetulayiñ feyta feymu ta <uh>.
+C: ya no valoramos esto por eso.
+
+nmlch-nmfhp2_x_0145_nmlch_00:
+M: Yafkatukeiñ ka. 
+C:  En eso tenemos culpa pues.
+
+nmlch-nmfhp2_x_0146_nmfhp_00:
+M: +/yafkatukeyngü/+ yafkatukeiñ iñchiñ <*SPA>pues <!1pu'> peñi, 
+C: Somos culpables nosotros pues, hermano,
+
+M: yafkatukeiñ; 
+C: somos culpables;
+
+M: feyta feymu llenuanta 
+C: entonces por eso pues 
+
+M: iñche ta <uhm> feytameu <uhm> konsekalkülen <!1konsejalkülen> tati 
+C: yo aquí estoy de consejal pues
+
+M: ka fey witrampüramtuan ta  
+C: también voy a levantar nuevamente 
+
+M: kuyfike dungu,
+C: las ideas de antes,
+
+M: kuyfike kimün 
+C: la sabiduría de antes 
+
+M: piley tañi rakiduam tati, peñi,
+C: dice mi pensamiento pues, hermano,
+
+M: feymu iñche ta <uh> kimentuan 
+C: así entonces yo sabré
+
+M: chunten machi ñi mülen tüfachi lofmeu, 
+C: cuantos machis existen en esta comunidad,
+
+M: piley tañi rakiduam,  
+C: dice mi pensamiento,
+
+M: <uh> kimentuam ta chunten ...
+C: sabré cuantos ...
+
+M: L'awen'tufeche 
+C: Las personas que hacen remedios a la gente
+
+M: mülelu tüfachi lofmeu,
+C: que existen en esta comunidad,
+
+M: piley tañi rakiduam. 
+C: dice mi pensamiento.
+
+M: Kom ta machingelayengün tati, 
+C: Todos no son machi pues,
+
+M: kiñeke ta re pepiluwiengün, 
+C: algunos sólo tienen habilidades,
+
+M: kiñeke ta ngillatufengeyengün, 
+C: algunos son entedidos en rogativas,
+
+M: welu ta müley,  
+C: pero existen,
+
+M: domongeyengün 
+C: son mujeres,
+
+M: wentrungeyengün;
+C: son hombres;
+
+M: müley itrofill adümuulu, 
+C: existen diferentes personas con habilidades,
+
+M: kiñeke ta ka adümuwiengün 
+C: algunos también son entendidos
+
+M: tüfachi dungumeu 
+C: en este asunto
+
+M: tañi +/trawülu/+ trawüal ta che, 
+C: para que se junten las personas,
+
+M: ka wüdamal ta che, 
+C: también para separar a la gente(pareja), 
+
+M: <uh> feyta kom ta mülefuy tati.
+C: entonces todos éstos existían pues.
+ 
+M: Mülefuy ka pepiluulu 
+C: Existía también aquel que es entendido
+
+M: feytichi weychayalu dungumeu, 
+C: aquel que pelee por esas ideas,
+
+M: ka mülefuyengün ñi adümuwal, 
+C: además ellos debían menejarse
+
+M: adümuwün +/we/+ 
+C: habilidades
+
+M: ka wentrungeyengün, 
+C: también son hombres,
+
+M: ka domongeyengün kiñeke 
+C: y mujeres en algunos casos.
+
+nmlch-nmfhp2_x_0147_nmlch_00: 
+M: Kom...
+C: Todo...
+
+nmlch-nmfhp2_x_0148_nmfhp_00:
+M: Welu ta iñche feyta feytichi dungu 
+C: Pero yo ahora, esas ideas
+
+M: ka... ka rüf doy kimentuan, 
+C: también, también verdaderamente quiero saberlas, 
+
+M: piley tañi rakiduam <*SPA>pues <!1pu'>,
+C: dice mi pensamiento pues.
+
+nmlch-nmfhp2_x_0149_nmlch_00: 
+M: +/fey, fey/+ Fey
+C: Sí.
+
+nmlch-nmfhp2_x_0150_nmfhp_00:
+M: Feymu ta peumangenmay <uhm> 
+C: por eso ojalá pues
+
+M: Ngünechen ta +/kellu, kellue, kellu/+ kelluule 
+C: si Ngünechen ayudara
+
+M: tüfachi dungumeu,
+C: en esta idea,
+
+M: ta witrañpüramafuyiñ% tüfachi dungu <*SPA>pues <!1pu'>.
+C: entonces levantaríamos esta  idea pues.
+
+nmlch-nmfhp2_x_0151_nmlch_00:
+M: Feley.
+C: Así es.
+
+nmlch-nmfhp2_x_0152_nmfhp_00:
+M: Kidungüneu ta ka +/mülekelay/+ mülelan ka iñche <*SPA>pues <!1pu'> 
+C: Por si solo también no existe, yo pues.
+
+nmlch-nmfhp2_x_0153_nmlch_00:
+M: Feley, feley +/me/+  
+C: Así es, así es.
+
+M: ¿Kimnieymi che, 
+C: ¿conoces a la persona,
+
+M: wentru ka pepiluulu, 
+C:  hombre o entendido,
+
+M: feytichi trapomchekelu?
+C: aquel que tiene la habilidad de juntar a la gente?
+
+nmlch-nmfhp2_x_0154_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Ka <uh> iñche ta kiñeke kimentunien <uh>. 
+C: También  yo algunos cosas que he aprendido tengo.
+
+M: Kiñeke wentrungeyengün, 
+C: Alugunos son hombres,
+
+M: ka kimnien  ta tüfeychi pepiluulu, 
+C: también sé de aquel que es entendido,
+
+M: +/ki/+ wentru  ka domo kimnien ta iñche peñi, 
+C: hombres y mujeres conozco yo, hermano,
+
+M: ¿ineyngeyengün <!1iningeyngün>?
+C: ¿quienes son?
+
+nmlch-nmfhp2_x_0155_nmlch_00: 
+M: ¡Aa!
+C: ¡Ah!
+
+nmlch-nmfhp2_x_0156_nmfhp_00:
+M: Welu tüfachi pu che <uh>küdaukeyengün 
+C: Pero estas personas trabajan
+
+M: allmeñ... allmeñ ellka küdaukeyengün. 
+C: a escondidas trabajan.
+
+nmlch-nmfhp2_x_0157_nmlch_00:
+M: ¿Ellka küdaukeyengün ka? 
+C: ¿Trabajan a escondidas también?
+nmlch-nmfhp2_x_0158_nmfhp_00:
+M: May, newe... 
+C: Sí, no...
+
+nmlch-nmfhp2_x_0159_nmlch_00:
+M: ...¿Peufaluukelayngün? 
+C: ...¿No se dejan ver mucho?.
+
+nmlch-nmfhp2_x_0160_nmfhp_00:  
+M: May.
+C: Sí.
+
+M: Tüfachi pu che adümuulu 
+C:  Estas personas que tienen habilidades
+
+M: feytachi dungumeu, 
+C: en este asunto,
+
+M: feyta müleyengün tati,
+C: éstos existen pues,
+
+M: feyta ka iñchiñ taiñ kimün <*SPA>pues <!1pu'> peñi
+C: y estos también son nuestros conocimientos pues, hermano,
+
+M: iñchiñ taiñ... taiñ kidu tañi pepiluwün may.
+C: nuestra, nuestra propia sabiduría pues.
+
+nmlch-nmfhp2_x_0161_nmlch_00: 
+M: Ngüneluwün, <P>
+C:  Habilidades
+
+M: ¿fey chumkünukeyengün <!1chumkünukingün>, 
+C: ¿Cómo lo harán,
+
+M: l'awen'tukefiengün, 
+C: le darán remedio,
+
+M: pütokolkefiengün? 
+C: lo beben?
+
+nmlch-nmfhp2_x_0162_nmfhp_00:  
+M: Kidu +/ngünen/+ kidu nieyngün ñi ngünen, 
+C: Sólo...sólo ellos tienen sus dominios,
+
+M: kidu nieyngün, 
+C: ellos tienen,
+
+M: feytichi iney <!1ini> puulu 
+C: aquel que tiene ese don para eso,
+
+M: feyta kidu adkünukeyengün dungu <*SPA>pues <!1pu'> peñi. 
+C: entonces ellos planean sus ideas pues, hermano.
+
+nmlch-nmfhp2_x_0163_nmlch_00: 
+M: ¡Aa! kiduengün
+C: ¡Ah! Ellos.
+
+nmlch-nmfhp2_x_0164_nmfhp_00: 
+M: May.
+C: Sí.
+
+nmlch-nmfhp2_x_0165_nmlch_00:
+M: ¿Kimlafimi chumken kiduengün? 
+C:  ¿No sabes cómo hacen ellos?
+
+nmlch-nmfhp2_x_0166_nmfhp_00:
+M: <uh> Iñche feytichi  dungumeu, 
+C: Yo en ese asunto,
+
+M: ta iñche kimfuli rume, 
+C: yo aunque supiera
+
+M: ta <uh> nienulu kay ta iñche feytichi... feytichi... 
+C: como no tengo mucho también yo ese... ese...
+
+nmlch-nmfhp2_x_0167_nmlch_00:
+M: ...¿Ngünen?
+C: ...¿Dominio?
+
+nmlch-nmfhp2_x_0168_nmfhp_00:
+M: Ngünen feytichi pepiluwün ta tutelayafun tati peñi.
+C: Para esas habilidades yo no sería grato pues, hermano.
+
+nmlch-nmfhp2_x_0169_nmlch_00:
+M: Tutelayafuymi ka. 
+C: No le serías grato pues.
+
+nmlch-nmfhp2_x_0170_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Tutelayafun, 
+C: No sería grato,
+
+M: fey <uh> chumngechi mekeafun rume, 
+C: aunque hiciera cualquier cosa,
+
+M: ta rüf <uhm> tripalayafuy feytichi dungu <*SPA>pues <!1pu'>
+C: entonces verdaderamente no saldría esa cosa pues,
+
+M: feyti kake +/feyti fey fe/+, 
+C: aquellos otros, 
+
+M: feytichi che domongefule,
+C: esas personas si fueran mujeres,
+
+M: wentrungefule, 
+C: si fueran hombres,
+
+M: feytichi nielu feytichi ngünen, 
+C: ese que tiene ese dominio,
+
+M: feytichi rakiduam 
+C: ese pensamiento,
+
+M: feytichi dullin, 
+C: ese elegido,
+
+M: feyta may ta tutekey; 
+C: este pues, agrada;
+
+M: kiñeke <uh> ka feytichi kutran, 
+C: algunas también esa enfermedad,
+
+M: <*SPA>o feytichi che puulu,
+C: también esas personas que son entendidas en ese tema,
+
+M: <uh> elkünungekey <uhm> <uh>, 
+C:  son dejados, 
+
+M: deumangekey ñi...
+C: son preparados sus...
+
+M: Chumkünual dungu <*SPA>pues <!1pu'> peñi. 
+C: Cómo preparar las cosas pues, hermano.
+
+nmlch-nmfhp2_x_0171_nmlch_00:
+M: ¡Aa!.
+C: ¡Ah!
+
+M: Ngülamkünungey <!1ngülamkünungi>. 
+C: Le entragan consejos antes.
+
+nmlch-nmfhp2_x_0172_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Itrofill kom chemeu, 
+C: En todas las personas
+
+M: ta <uh> kom chemeu ta ...
+C: está, en todas las personas...
+
+nmlch-nmfhp2_x_0173_nmlch_00:  
+M: ... ¿Kimfaluulay?. 
+C: ...¿No se da a conocer?.
+
+nmlch-nmfhp2_x_0174_nmfhp_00:
+M: <*SPA>No peñi <uhm> kom chemeu 
+C: No hermano, en toda la gente,
+
+M: fey feytichi dungu ta <uh> <P>
+C: y entonces ese asunto,
+
+M: feyti <uhm> kom +/du/+ kom chemeu ti puulu 
+C: ese que llega toda la gente
+
+M: feytichi... feytichi  adümuulu 
+C: ese, ese que tiene habilidades,
+
+M: ta elungekelay... <uh> 
+C: no se le da...
+
+nmlch-nmfhp2_x_0175_nmlch_00:
+M: Kiñe ngüneluwün 
+C: Un conocimiento
+
+nmlch-nmfhp2_x_0176_nmfhp_00:
+M: <%> Elungekelay% <uh>  
+C: No se le da
+
+M: feychi <uh> l'awen' müten. 
+C: ese remedio solamente.
+
+nmlch-nmfhp2_x_0177_nmlch_00:
+M: ¡Aa!.
+C: ¡Ah!
+
+M: Fey <*SPA>no.
+C: Ese no.
+
+nmlch-nmfhp2_x_0178_nmfhp_00:
+M: May. <%> 
+C: Sí.
+
+M: Puule...
+C: Cuando llegue 
+
+nmlch-nmfhp2_x_0179_nmlch_00: 
+M: Kiñe kümetu l'awen'ngekelayngün%
+C: No hacen una buena medicina.
+
+nmlch-nmfhp2_x_0180_nmfhp_00: 
+M: May, may. 
+C: Sí, sí.
+
+M: itrofillngey l'awen' <*SPA>pues <!1pu'>. 
+C: habrá diferentes remedios pues.
+
+nmlch-nmfhp2_x_0181_nmlch_00:
+M: ¡Aa!.
+C: ¡Ah!
+
+M: Itrofill l'awen'tulngey%.
+C: Diferentes remedios existen.
+
+nmlch-nmfhp2_x_0182_nmfhp_00:
+M: May.
+C: Sí.
+
+M: ingey chem ñi puwün may ta  
+C: 
+
+M: kidu niey l'awen' <*SPA>pues <!1pu'> peñi.  
+C:  él tiene  remedio pues, hermano.
+
+nmlch-nmfhp2_x_0183_nmlch_00:
+M: +/Fey, fey/+ fey, 
+C: Sí.
+
+M: Welu iñchiñ taiñ mollfuñ, 
+C: Pero nuestra sangre,
+
+M: taiñ ngüneluwünürke. 
+C: nuestro dominio es entonces.
+
+nmlch-nmfhp2_x_0184_nmfhp_00:
+M: May.
+C: Sí.
+
+M: +/fe/+ Femi <*SPA>pues <!1pu'> femi
+C: Así sucede pues así ocurre,
+
+nmlch-nmfhp2_x_0185_nmlch_00: 
+M: +/fey fey/+ Fey
+C: Sí.
+
+nmlch-nmfhp2_x_0186_nmfhp_00:
+M: Iñchiñ taiñ mollfuñ, 
+C: Así es nuestra sangre,
+
+M: iñchiñ taiñ mapuchengen. 
+C: nuestro ser mapuche.
+
+nmlch-nmfhp2_x_0187_nmlch_00:
+M: Fey ayüwünngey <!1ayüwünngi>ta kimal 
+C: Entonces es motivo de alegría el saber
+
+M: fenteken kimün ka peñi, 
+C: muchos conocimientos también, hermano,
+
+M: fey pengekenuluam
+C: y como también no se encuentra
+
+M: papelmu tüfa, 
+C: éste en el papel,
+
+M: ellkaley kom  kimün mapuche ka.
+C:  está escondida toda la sabiduría mapuche pues.
+
+nmlch-nmfhp2_x_0188_nmfhp_00:
+M: Feley peñi.
+C: Así es, hermano.
+
+nmlch-nmfhp2_x_0189_nmlch_00:
+M: Feymu ta faliltungekelayiñ chi 
+C: Por eso no nos valoran tal vez,
+
+M: pin dungunanta müley <P> 
+C: ese decir existe,
+
+M: feyta alün kimün nieürkeymi <!1nierkimi> tati peñi, 
+C: y muchos conocimientos tienes pues, hermano,
+
+M: fey sakifalimi, 
+C: pues eres halagable,
+
+M: feymu fey <uh>
+C: por eso entonces
+
+M: ayüwünkechi  ta wüñolepayan 
+C: con alegría  regresaré,
+
+M: fey küme ngütram ta nentupan tati, peñi.
+C: y buena conversación vine a sacar pues, hermano.
+
+nmlch-nmfhp2_x_0190_nmfhp_00:
+M: Feley peñi.
+C: Así es, hermano.
+
+M: Iñche may ta ka mañumnien tati, 
+C: Yo pues también estoy agradecido,
+
+M: tüfachi  <uh> dungu +/itro ta/+
+C: todos estos conocimientos 
+
+M: doy mülefuy tati kimün tati peñi, 
+C: había más pues, hermano,
+
+nmlch-nmfhp2_x_0191_nmlch_00: 
+M: Feley <*SPA>pues <!1pu'>
+C: Así es pues.
+
+nmlch-nmfhp2_x_0192_nmfhp_00:
+M: Welu <uh> welu ta kiñeke kimün ta
+C: Pero... pero algunos conocimientos
+
+M: nentungekeürkelay, 
+C: no se dan a conocer,
+
+nmlch-nmfhp2_x_0193_nmlch_00: 
+M: Feley ka.
+C: Así es pues.
+
+nmlch-nmfhp2_x_0194_nmfhp_00:
+M: Kom ta che ta nentukelay 
+C: toda la gente no da a conocer
+
+M: ñi kom ñi kimün, 
+C: todo su saber,
+
+nmlch-nmfhp2_x_0195_nmlch_00: 
+M: Feley.
+C: Así es.
+
+nmlch-nmfhp2_x_0196_nmfhp_00:
+M: Feymu ta, 
+C: Por eso,
+
+M: welu ta feytichi kimün may, 
+C: pero ese conocimiento pues,
+
+M: tuchi nielu niey tati, 
+C:  aquel que tiene, tiene pues,
+
+M: welu kom, 
+C: pero todos,
+
+M: ineyrumengeafuy ta pu che 
+C: cualquiera persona que sea
+
+M: ta kom nentukelay ta ngünen.
+C: éste no da a conocer todo su conocimiento.
+
+M: Kom nentukelay ñi ta kimün 
+C: Todos no sacan su sabiduría,
+
+nmlch-nmfhp2_x_0197_nmlch_00: 
+M: Felepey ka feley.
+C: Así deber ser entonces pues, así.
+
+nmlch-nmfhp2_x_0198_nmfhp_00:
+M: Iñchiñ may ta mapuchengen 
+C: Nosotros que somos mapuche pues
+
+M: feymu ta petu mongeleiñ tati, 
+C: por eso aún estamos vivos pues,
+
+M: kom nentunentukünufuliyiñ 
+C: si hubiéramos contado todo
+
+M: ta kuifike taiñ ngünen
+C: acerca de nuestros antiguos dominios
+
+M: ta mülelayafuiñ tati mapuchengen peñi.
+C:  ahora no existiríamos pues, como mapuches, hermano.
+
+nmlch-nmfhp2_x_0199_nmlch_00:
+M: Fempey ka
+C: Así sucederá pues.
+
+nmlch-nmfhp2_x_0200_nmfhp_00:
+M: Müley ta <uh> kiñeke rakiduam, 
+C: Existen algunos pensamientos,
+
+M: kiñeke ngünen, 
+C: algunos dominios,
+
+M: kiñeke dungu ta kimal; 
+C: algunos temas a saber;
+
+M: ta kom che ta mülenualu tati peñi. 
+C: en todas las personas no van a existir pues, hermano,
+
+nmlch-nmfhp2_x_0201_nmlch_00: 
+M: Feley
+C: Así es.
+
+nmlch-nmfhp2_x_0202_nmfhp_00:
+M: kiñenkeche may ta müten 
+C: Algunas personas solamente pues
+
+M: ta kimentuniekeyngün ta dungu, 
+C: están aprendiendo el asunto,
+
+M: kom che kimal dungu ta...
+C: para que sepan el tema todas las personas 
+
+M: kom dungu felekelay.
+C:  todos estos asuntos no existen.
+
+nmlch-nmfhp2_x_0203_nmlch_00:
+M: Felepey <!1felepi> ka peñi. 
+C: Así sucede pues, hermano.
+
+M: felepey <!1felepi>, felepey <!1felepi>.
+C: así debe ser, así debe ser
+
+M: ¿Fey tüfichi rüngül pilunnünmu 
+C: y para ese dolor de oídos
+
+M: l'awen' kimlaymi peñi? 
+C: no sabes hermano?
+
+M: ¿rüngül pilunkelaymi eymi?
+C: ¿no te ha dado dolor de oído a tí?
+
+nmlch-nmfhp2_x_0204_nmfhp_00:
+M: Allküken ñi kiñeke l'awen'tuukemum 
+C: He escuchado a algunos 
+
+M: feytichi kutrameu peñi, 
+C: en esa enfermedad, hermano,
+
+M: welu ta iñche ta kimnielan,  
+C:  pero yo no conozco,
+
+nmlch-nmfhp2_x_0205_nmlch_00: 
+M: Kimnielaymi ka
+C: No tienes conocimiento de ello pues.
+
+nmlch-nmfhp2_x_0206_nmfhp_00:
+M: May welu ta allküken. 
+C: Pero he escuhado.
+
+nmlch-nmfhp2_x_0207_nmlch_00:
+M: Müley l'awen' pingey
+C: Se dice que existe remedio.
+
+nmlch-nmfhp2_x_0208_nmfhp_00:
+M: May <uhm> may.
+C: Sí, sí.
+
+M: Rüngül piluni pikeyngün, 
+C: Tiene dolor de oídos dicen,
+
+M: ta kiñeke <uh> che domongeyengün,  
+C: algunas personas son mujeres,
+
+M: wentrungeyengün, 
+C: son hombres,
+
+M: welu ta iñche ta allkükelan 
+C: pero yo no he escuchado,
+
+M: chem l'awen' ñi...
+C: qué remedio es...
+
+nmlch-nmfhp2_x_0209_nmlch_00:
+M: ... +/kim/+ ¿Kümen?
+C: ...¿Es bueno?
+
+nmlch-nmfhp2_x_0210_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Allkükelan 
+C: No he escuchado,
+
+M: welu ta müley tati 
+C: pero que existe esto
+
+M: allküken ta iñche. 
+C: he escuchado yo.
+
+nmlch-nmfhp2_x_0211_nmlch_00:
+M: +/Feley, feley, feley/+ feley. 
+C: Así es.
+
+M: Fey welu müleürkey ta
+C:  Pero entonces existe,
+
+M: l'awen' ta mongenmu
+C:  remedio en la vida
+
+M: fey... fey müleluam wedake kutran 
+C:  y como existen malas enfermedades,
+
+M: ka feyta katrütuniey ta kutran, 
+C:  también ese está contrarrestando la enfermedad,
+
+M: ta  l'awen' ka  peñi.
+C: este remedio pues, hermano.
+
+nmlch-nmfhp2_x_0212_nmfhp_00:
+M: Feley, feley. 
+C:  Así es, así es.
+
+M: L'awen'mullenuanta mongekey
+C:  Con remedio pues se mejora
+
+M:  ta... ta kutran peñi, 
+C:  el enfermo, hermano,
+
+M: l'awen'meu feyta,    
+C: con éste remedio, 
+
+M:  tüfachi l'awen' tati <uh>,
+C:  éste remedio pues,
+
+M: re mamüllmeu ,
+C:  sólo con madera, 
+
+M: kachumeu ta,
+C: con pasto,
+
+M: fey ka müten ta l'awen'ngelay peñi. 
+C:  y eso solamente no es remedio, hermano,
+
+nmlch-nmfhp2_x_0213_nmlch_00: 
+M: ¡Aa! feymumay%.
+C: ¡Ah! 
+
+nmlch-nmfhp2_x_0214_nmfhp_00:
+M: fey ka müten ta l'awen'ngelay  tati, 
+C: ese solamente no es remedio pues,
+
+M: ka tüfachi trokitundungumay
+C:  también ese conjunto de conocimientos
+
+M: ta ka kidutu 
+C:  pues también por sí solo
+
+M: l'awen'ngekey ka peñi, 
+C:  es remedio, hermano,
+
+nmlch-nmfhp2_x_0215_nmlch_00: 
+M: Felepey <!1felepi> ka
+C:  Así debe ser entonces pues.
+
+nmlch-nmfhp2_x_0216_nmfhp_00:
+M: +/re/+ Re pütokolimirume ta l'awen'
+C:  Aunque bebas sólo remedios
+
+M: ka ngüllfütungelimirume 
+C: y aunque te refregaran
+
+M: welu ta +/trokitula/+trokitunulimi ta dungu 
+C: pero si no eres entendido en el asunto
+
+M: ka mongelayaymi tati.
+C: no te vas a mejorar tampoco pues.
+
+nmlch-nmfhp2_x_0217_nmlch_00:
+M: Felepey ka, peñi.
+C: Así es pues, hermano.
+
+nmlch-nmfhp2_x_0218_nmfhp_00:
+M: May, may.
+C: Sí.
+
+M: Feyta iñchiñ ta feymu ta, 
+C: Entonces nosotros por ello,
+
+M: <*SPA>o taiñ kuyfike che 
+C: nuestros antepasados,
+
+M: kidutu l'awen'tuukeyengün, 
+C: se remediaban solos,
+
+M: fey feymu petu feyentukelu kay,
+C: por eso aún creyendo pues, 
+
+M: <%> tüfawüla ta newe feyentuuwelayiñ ka peñi 
+C: ahora recién pues no nos creemos mucho pues, hermano,
+
+M: feymu ta rume l'awen'tuuliyiñrume ta
+C: por eso aunque nos remediemos mucho
+
+M: ¿ka tuteupeafuyiñ peñi?
+C: ¿será que agradaríamos hermano?.
+
+nmlch-nmfhp2_x_0219_nmlch_00:
+M: Feley ka 
+C: Así es pues 
+
+M: nguyüutuyiñ reke ka taiñ dungu%
+C: es como si nos hubiéramos olvidado.
+
+nmlch-nmfhp2_x_0220_nmfhp_00: 
+M: May.
+C: Sí.
+
+M: Faliltuulayiñ%, 
+C: No nos valoramos,
+
+M: ayekechi ta pütokokeiñ l'awen' kiñekemeu 
+C:  entre risas bebemos remedios algunas veces
+
+M: ta iñchiñ taiñ l'awen'mu <*SPA>pues <!1pu'> peñi. 
+C:  en nuestro remedio pues, hermano.
+
+nmlch-nmfhp2_x_0221_nmlch_00:
+M: Ayentunietuyengün ka.
+C: Se ríen de ellos mismos pues.
+
+nmlch-nmfhp2_x_0222_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Feymu ta... feymu ta kulpakeiñ ka 
+C: Por eso... por eso entramos en culpa pues,
+
+M: feymu ta newe ka mongekelayiñ
+C:  por eso no nos mejoramos muy bien también,
+
+M: <*SPA>pues <!1pu'> peñi.
+C:  pues, hermano.
+
+nmlch-nmfhp2_x_0223_nmlch_00:
+M: Feymu yafkakontukeiñ ka, ka.
+C: Por eso entramos en culpa pues también.
+
+nmlch-nmfhp2_x_0224_nmfhp_00:
+M: May.
+C: Sí.
+
+M: Ngen l'awen'meu. 
+C: Con el dueño del remedio.
+
+M: Ngünechemeu
+C:  En Ngünechen
+
+M: yafkakontukeiñ <*SPA>pues <!1pu'> peñi. 
+C: entramos en culpa pues, hermano.
+
+nmlch-nmfhp2_x_0225_nmlch_00:
+M: Felepey ka peñi.
+C: Así será pues, hermano.
+
+M: Feyta iñchiñ am  katripache 
+C: Y como a nosotros la gente de afuera
+
+M: wichunentuñmatueiñmu% rakiduam 
+C:  nos apartó de nuestros pensamientos,
+
+M: feymu nguyünietuiñ 
+C:  por eso hemos olvidado 
+
+M: taiñ kuyfike kimün ka.
+C: nuestras antiguas sabidurías también.
+
+nmlch-nmfhp2_x_0226_nmfhp_00:  
+M: Feley.
+C: Así es.
+
+nmlch-nmfhp2_x_0227_nmlch_00:
+M: Fentren l'awen' müleürkefuy tüfey 
+C:  Muchos remedios existían entonces pues,
+
+M: weda fütrake kutran ta  
+C:  grandes malas enfermedades
+
+M: mongelkeürkefuy, 
+C:  mejoraban,
+
+M: katrütukefuy ta kutran 
+C:  atajaba la enfermedad,
+
+M: fey kimün tüfachi dungumu
+C:  y saber de estos conocimientos,
+
+M: ta ayüwünngetuy ka.
+C:  da como vergüenza ahora pues.
+
+nmlch-nmfhp2_x_0228_nmfhp_00:
+M: Feley peñi.
+C:  Así es hermano.
+
+M: Ayüwünngetuy dungu  
+C:  Es para algrarse estos conocimientos,
+
+M: tañi peumangenmay pu che, 
+C:  y ojalá pues la gente,
+
+M: küpalelu tüfa, 
+C:  esto que viene ahora,
+
+M: ka wüñofaliltule ta dungu, 
+C:  y si vuelve a valorar el conocimiento,
+
+M: tüfachi kimün 
+C:  este conocimiento, 
+
+M: fey kümetuafuy tati peñi.
+C: eso sería bueno pues, hermano.
+
+nmlch-nmfhp2_x_0229_nmlch_00:
+M: Feychi dungumu llenuanta
+C: Por eso asunto pues
+
+M:  <uh> pepapegeyu peñi, 
+C:  te vengo a ver, hermano,
+
+M: ramtuan ñi peñi <uh> pipegeyu,  
+C:  voy a preguntar ami hermano te dije,
+
+M: feymu ta fey ngütramtupapefiñ 
+C:  por he venido a conversar de ello
+
+M: tüfachi kutran ka l'awen',
+C:  de esta enferdad  y remedio,
+
+M: mülelu tüfachi mongenmu peñi, 
+C:  aquellos que están en esta vida, hermano,
+
+M: welu ayüwünkechi wüñolepatuan tüfa, 
+C:  pero con alegría me iré de aquí,
+
+M: rume mañumnieyu 
+C:  estoy muy agradecido de ti
+
+M: tami ngütrammeu, peñi.
+C:  por tu conversación, hermano.
+nmlch-nmfhp2_x_0230_nmfhp_00:  
+M: Iñche ta ka mañumkülen ta peñi Luis <!1Lui'> 
+C:  Yo pues también estoy agradecido, hermano Luis,
+
+M: peumangenmay küme tuteaymi 
+C:  ojalá pues que agrades
+
+M: tüfachi <uh>  küdaumeu, 
+C: con este trabajo,
+
+M: küme amulaymay 
+C:  que vayan bien pues
+
+M: iñchiñ taiñ dungu 
+C:  nuestros conocimientos,
+
+M: feyta peumangenmay,  
+C:  y éste ojalá pues,
+
+M: tüfachi, feytichi pu che allkütulu 
+C:  esto, aquellas personas que escuchen
+
+M: tüfachi ngütram, 
+C: esta conversación,  
+
+M: fey weshakamay... weshaka dungumeumay, 
+C:  y en cosas malas pues,
+
+M: pekanka dungumeumay 
+C:  en cosas sin importancia pues
+
+M: tukumekelayayngün peñi feytichi ...
+C:  que no estén usándolo, hermano ese...
+
+M: tüfa müleymay kake che 
+C: Ahora existen otras personas,
+
+M: wingkangeyengün tati 
+C: son huincas pues,
+
+M: "re <uhm>  kimünmayafiyiñ may 
+C:  "sólo le conoceremos pues,
+
+M: kiduengün tañi ngünen 
+C:  los dominios de ellos,
+
+M: kiduengün tañi kimün" 
+C:  los conocimientos de ellos"
+
+nmlch-nmfhp2_x_0231_nmfhp_00:
+M: Pikeyngün tati,
+C: Dicen ellos pues,
+
+M: feymu ta itrofill dungu 
+C:  por eso diferentes ideas
+
+M: ta witrampüramekekeyngün 
+C:  éstos están levantando
+
+M: iñchiñ taiñ ngünenmeu, 
+C:  con nuestro dominio,
+
+M: iñchiñ  taiñ mongenmeu, 
+C:  con nuestra forma de vida,
+
+M: fey may ta peumangen may 
+C:  y eso pues, ojalá que
+
+M: tüfachi ngütrammeu 
+C:  con esta conversación,
+
+M: ta itrofill ta che ta
+C:  estas diferentes personas
+
+M: dungumekekefimi tati peñi.
+C:  le estás hablando pues, hermano.
+
+M: <uh> Mülellepelay  feytipüle 
+C:  Debe haber por ahí
+
+M: kiñeke machi 
+C: alguna machi
+
+M: nentuneyenmekelu tüfachi dungumeu
+C:  que está sacando su aliento en esta cosa,
+
+M: tüfachi <uh> ngütrammeu, 
+C:  en esta conversación,
+
+M: kiñeke ta longkongeyngün tati, 
+C:  algunos son loncos pues,
+
+M: kiñeke wentrumachingeyengün chi,  
+C:  algunos son machi hombre tal vez,
+
+M: welu ta peumangenmay 
+C:  pero ojalá
+
+M: ta kulpaulayaiñ iñchiñ, 
+C:  que no tengamos culpa nosotros,
+
+M: tüfachi kiñeke dungu ta 
+C:  estos algunos conocimientos
+
+nmlch-nmfhp2_x_0232_nmfhp_00:
+M: feypinuafel chi 
+C: no deberíamos decir tal vez, 
+
+M: welumay ta müley ta Ngünechen, 
+C:  pero pues existe Ngünechen,
+
+M: peumangenmay ta kulpalayaiñ, 
+C:  ojalá no tengamos culpa,
+
+M: feytichi pu wingkamay. 
+C:  aquellos  huincas sí.
+
+M: Allkütualu tüfachi dungu  
+C:  Aquel  va a escuchar esta cosa,
+
+M: tüfachi ngütram 
+C:  esta conversación,
+
+M: tüfachi kiñeke ngünen 
+C:  estos algunos dominios,
+
+M: <uhm> mülelu kiñeke, 
+C:  algunos que existen, 
+
+M: mülelu kiñeke kimün,
+C: algunas sabidurías que existen,
+
+M: mülelu weshaka dungumeumay ta
+C:  los que están en malas asuntos si pues,
+
+M: tukutukumekengelayay 
+C:  no deben estar usándolo y usándolo
+
+M: mekelayayngün peumangenmay. 
+C:   no deben hacer eso ojalá pues.
+
+M: Fey may ta Ngünechen may ta <uh> kimentuniey ta dungu 
+C:  Ese pues Ngünechen es quien sabe las cosas,
+
+M: feyta femaleengün 
+C:  ahora si hacen eso ellos, 
+
+M: ta peumangenmay +/kiduku kiduku tu kastiwa kas kiduku/+ 
+C:  ojalá que ellos solos, 
+
+M: kidutu kulpawayngün
+C: ellos solos tendrán culpa
+
+M: kidutu kastigawayngünmay peñi.
+C: Solos se castigarán pues, hermano.
+
+nmlch-nmfhp2_x_0233_nmlch_00:
+M: Feley peñi, 
+C: Así es, hermano,
+
+M: iñche amuletuan tüfa, 
+C: yo me iré ahora,
+
+M: fey rume mañumnieyu 
+C: estoy muy agradecido de ti
+
+M: tami ngütrammeu 
+C: por tu conversación,
+
+M: chaltuma, peñi chaltu chaltumay.
+C: gracias pues, hermano, gracias, gracias pues.
+
+nmlch-nmfhp2_x_0234_nmfhp_00: 
+M: Peukayal peñi.
+C:  Hasta luego, hermano.
+
+Cañulef
+
+
+
+
+
+
+
+
