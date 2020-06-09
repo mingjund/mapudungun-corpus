@@ -2,7 +2,7 @@
 
 This repository contains the cleaned version of the Mapudungun dataset collected for the AVENUE project by CMU, the Chilean Ministry of Education, and the Instituto de Estudios Indígenas at Universidad de La Frontera.
 
-You can download the raw audio data for all files from [URL](URL).
+You can download the raw audio data for all files from [here](http://tts.speech.cs.cmu.edu/mapudungun/).
 
 The `TRANSCRIPTION` and `TRANSLATION` directories include the original transcriptions and translations.
 The `transcription-clean` and `translation-clean` directories include cleaned versions with additional annotations removed, in order to be used for speech recognition, synthesis, and machine translation experiments. The necessary scripts for producing these clean versions are available in the `data-cleaning` directory.
